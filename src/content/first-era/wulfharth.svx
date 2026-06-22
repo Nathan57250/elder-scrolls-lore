@@ -1,0 +1,83 @@
+---
+title: "Wulfharth, Roi des Tempêtes"
+slug: "wulfharth"
+era: "first-era"
+category: "personnages"
+tags: ["wulfharth", "ysmir", "ash-king", "talos", "enantiomorphe", "montagne-rouge", "kyne", "nordiques", "shezarrine"]
+timelineYear: 500
+summary: "Wulfharth Ash-King, Haut Roi nordique mort et ressuscité multiple fois, figure clé de l'Énantiomorphe de Talos et personnage central du mystère de l'ascension divine de Tiber Septim."
+sources: ["UESP: Wulfharth", "The Imperial Library: Five Songs of King Wulfharth", "The Arcturian Heresy"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# Wulfharth, Roi des Tempêtes
+
+**Wulfharth** — connu aussi sous les noms d'**Ysmir**, l'**Ash-King** (Roi des Cendres), et le **Souffle de Kyne** — est l'une des figures les plus énigmatiques et les plus importantes de l'histoire de Tamriel. Haut Roi de **Bordeciel** à l'Ère Première, il mourut et ressuscita au moins trois fois, participa à la **Bataille de la Montagne Rouge**, et joua un rôle crucial dans l'ascension de **Tiber Septim** au rang de dieu. Sa légende est indissociable du mystère de **Talos**.
+
+## Les Cinq Chants de Wulfharth
+
+L'histoire de Wulfharth est transmise par les **Cinq Chants du Roi Wulfharth**, un texte nordique ancien qui mêle histoire et mythe de manière inextricable.
+
+### Premier Chant — L'ascension
+
+Wulfharth devint Haut Roi de Bordeciel durant la Première Ère, élu par le **Moot** (assemblée des Jarls). Il était un puissant **Langue** — un maître du **Thu'um** dont la voix pouvait commander les tempêtes. Sous son règne, il restaura le culte de **Shor** (l'aspect nordique de Lorkhan) et chassa les prêtres des Divins impériaux.
+
+### Deuxième Chant — La mort au Red Mountain
+
+Wulfharth mena les armées nordiques à la **Montagne Rouge** pour aider les Dwemer contre les Chimers (ou les Chimers contre les Dwemer — les sources se contredisent). Il y fut tué — désintégré par un cri si puissant qu'il ne resta de lui que des cendres. D'où son titre d'**Ash-King**.
+
+### Troisième Chant — La résurrection par Kyne
+
+**Kyne**, déesse des tempêtes et patronne des Nordiques, rappela Wulfharth d'entre les morts. Son souffle divin reconstitua le roi à partir de ses cendres. Wulfharth devint le **Souffle de Kyne** — ni vivant ni mort, un esprit de tempête incarné dans la chair.
+
+### Quatrième Chant — La seconde mort
+
+Wulfharth mourut à nouveau lors d'un conflit avec les Orques, puis fut ressuscité une nouvelle fois. Chaque mort et résurrection semblait le rapprocher davantage de la nature divine de Shor/Lorkhan — comme si mourir et renaître était son *mode d'existence*.
+
+### Cinquième Chant — Talos
+
+Le Cinquième Chant est le plus controversé : il relie Wulfharth à l'ascension de Tiber Septim.
+
+## L'Énantiomorphe de Talos
+
+### Le mystère
+
+Le plus grand mystère entourant Wulfharth est son rôle dans la création de **Talos**. Selon l'**Hérésie Arcturienne** et d'autres sources ésotériques, Talos n'est pas un seul individu devenu dieu — c'est une fusion de **trois personnes** formant un **Énantiomorphe** :
+
+<CausalChain items={[
+  { text: "Hjalti Barbe-Précoce (le Guerrier) — futur « Tiber Septim »" },
+  { text: "Wulfharth Ash-King (le Roi) — le Souffle de Kyne" },
+  { text: "Zurin Arctus (le Mage) — le Mage de Guerre Impérial" },
+  { text: "= TALOS, le Neuvième Divin (fusion des trois)", indent: 1 }
+]} />
+
+### Les rôles
+
+Dans l'Énantiomorphe :
+- **Hjalti** est le « Rebelle » — celui qui agit et conquiert
+- **Wulfharth** est le « Roi » — celui qui détient la légitimité divine (en tant que Shezarrine, avatar de Shor)
+- **Zurin Arctus** est l'« Observateur » — celui qui est trahi et dont le sacrifice catalyse la fusion
+
+### La trahison
+
+Selon l'Hérésie Arcturienne, Hjalti/Tiber Septim trahit Wulfharth en absorbant son essence vitale pour alimenter le **Numidium** — le golem divin dwemer qu'il utilisa pour conquérir Tamriel. Wulfharth, trahi, fusionna involontairement avec les deux autres pour former l'entité divine Talos. Zurin Arctus, également trahi, devint le **Mantella** — la pierre d'âme alimentant le Numidium.
+
+## La nature de Wulfharth
+
+### Shezarrine
+
+Wulfharth est identifié comme un **Shezarrine** — un avatar mortel de **Shor/Lorkhan**. Comme Lorkhan, il meurt et renaît, est trahi et se sacrifie. Cette nature explique :
+- Ses résurrections multiples (Lorkhan est le dieu qui meurt et revient)
+- Son association avec les tempêtes (Shor est un dieu du vent et de la guerre)
+- Sa participation à l'Énantiomorphe (il rejoue le rôle cosmique de Lorkhan)
+
+### Le titre d'Ysmir
+
+**Ysmir** (« Dragon du Nord ») est un titre porté par Wulfharth, mais aussi par Tiber Septim et le Dovahkiin de la Quatrième Ère. Ce titre semble marquer ceux qui incarnent le « héros nordique archétypal » — un mortel si puissant qu'il touche au divin. Les Grises-Barbes confèrent ce titre aux rares individus qu'ils reconnaissent comme dignes.
+
+## Héritage
+
+Wulfharth est la preuve vivante (et morte, et re-vivante) que dans l'univers des Elder Scrolls, l'identité individuelle est plus fluide que la logique mortelle ne le suppose. Il est à la fois un roi historique, un esprit de tempête, un aspect de Lorkhan, et un tiers d'un dieu. Sa légende illustre le principe fondamental de la métaphysique tamriélique : la frontière entre mortel et divin n'est pas un mur, mais un seuil que certains traversent — parfois sans le vouloir.

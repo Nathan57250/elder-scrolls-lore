@@ -1,0 +1,98 @@
+---
+title: "Le Temple du Tribunal — Institution et Dogme"
+slug: "temple-du-tribunal"
+era: "second-era"
+category: "religion"
+tags: ["temple", "tribunal", "morrowind", "ordinateurs", "saints", "anticipations", "nouveau-temple"]
+timelineYear: 700
+summary: "L'organisation religieuse du Temple du Tribunal : sa hiérarchie, ses dogmes, ses saints, et sa transformation en Nouveau Temple après la chute des dieux vivants."
+sources: ["UESP: Tribunal Temple", "The Imperial Library: Temple Doctrine", "TES III: Morrowind — Temple Quests"]
+---
+
+# Le Temple du Tribunal — Institution et Dogme
+
+Le **Temple du Tribunal** fut l'institution religieuse dominante de **Morrowind** pendant plus de trois mille ans — depuis l'ascension de **Vivec**, **Almalexia** et **Sotha Sil** au rang de dieux vivants jusqu'à leur chute en 3E 427. Plus qu'un simple culte, le Temple structurait la société dunmer tout entière : politique, justice, éducation et morale étaient inséparables de la doctrine des Trois.
+
+## Hiérarchie
+
+### Structure organisationnelle
+
+- **Les Trois** : Vivec, Almalexia et Sotha Sil — dieux vivants et autorité suprême
+- **Le Patriarche** (Archcanon) : chef administratif du clergé, interlocuteur entre les mortels et les Trois
+- **Les Ordinateurs** : bras armé du Temple, inquisiteurs chargés d'éliminer l'hérésie
+- **Les Canons** : théologiens et juges ecclésiastiques
+- **Les Prêtres** : desservants des temples locaux dans chaque ville
+- **Les Pèlerins** : fidèles accomplissant le circuit des sanctuaires
+
+### Les Ordinateurs
+
+Les **Ordinateurs** méritent une attention particulière. Véritables inquisiteurs, ils étaient chargés de :
+- Traquer et punir les hérétiques (notamment les Cendrais et les Prêtres Dissidents)
+- Éliminer les nécromanciens et les adorateurs daedriques
+- Protéger les reliques sacrées du Temple
+- Maintenir l'ordre moral parmi les fidèles
+
+Leur pouvoir dépassait celui des autorités séculières — un Ordinateur pouvait arrêter et juger quiconque, noble ou roturier.
+
+## Dogme
+
+### La Doctrine des Anticipations
+
+Le Temple enseignait que les trois Princes Daedriques autrefois vénérés par les **Chimers** — **Azura**, **Boethiah** et **Mephala** — étaient des « Anticipations » des Trois : des préfigurations imparfaites des vrais dieux à venir.
+
+- **Azura** anticipait **Sotha Sil** (mystère, prophétie)
+- **Boethiah** anticipait **Almalexia** (combat, changement)
+- **Mephala** anticipait **Vivec** (dualité, secrets)
+
+Cette doctrine permettait de réinterpréter l'ancienne religion chimère comme une simple étape vers la révélation des « vrais » dieux, neutralisant élégamment la mémoire du culte ancestral.
+
+### Les Quatre Coins de la Maison des Troubles
+
+Le Temple reconnaissait quatre Daedra particulièrement dangereux — les « Coins de la Maison des Troubles » :
+- **Molag Bal** : le Roi du Viol, ennemi juré
+- **Malacath** : le Dieu Excrément, patron des proscrits
+- **Sheogorath** : le Dieu Fou, la folie incarnée
+- **Mehrunes Dagon** : le Prince de la Destruction
+
+## Les Saints du Temple
+
+Le Temple vénérait de nombreux saints mortels :
+
+- **Saint Nerevar** : le héros fondateur (ironiquement, le Temple nia sa prophétie de retour)
+- **Saint Veloth** : le prophète qui guida les Chimers hors d'Aldmeris
+- **Saint Jiub** : le tueur de cliff racers de Vvardenfell
+- **Saint Olms** : patron des pêcheurs et des marins
+- **Saint Delyn** : patron des potiers et des artisans
+- **Saint Felms** : patron des bouchers et des chasseurs
+
+Chaque grande ville possédait un canton ou un quartier dédié à un saint patron.
+
+## Conflit avec les Cendrais
+
+### La persécution
+
+Les tribus **Ashlanders** (Cendrais) préservaient la mémoire de l'ancienne religion chimère et la **Prophétie du Nérévarine**. Le Temple les considérait comme des hérétiques primitifs et les persécutait activement :
+
+- Destruction des camps cendrais trop proches des villes
+- Arrestation des Femmes Sages diffusant les prophéties interdites
+- Interdiction des textes cendrais dans toutes les bibliothèques du Temple
+
+### Les Prêtres Dissidents
+
+À l'intérieur même du Temple, des membres du clergé remirent en question la doctrine officielle. Ces **Prêtres Dissidents** étudiaient secrètement les textes cendrais et accumulaient des preuves que le Tribunal avait effectivement trahi Nerevar. Ils furent traqués par les Ordinateurs mais survécurent dans la clandestinité.
+
+## Chute et transformation
+
+### L'effondrement
+
+La destruction du **Cœur de Lorkhan** en 3E 427 priva le Tribunal de sa source divine. Les Trois perdirent progressivement leurs pouvoirs. Almalexia sombra dans la folie et assassina Sotha Sil avant d'être elle-même tuée. Vivec disparut mystérieusement. Le Temple, privé de ses dieux, s'effondra.
+
+### Le Nouveau Temple
+
+Après l'**Année Rouge** (4E 5), les Dunmers réformèrent leur religion. Le **Nouveau Temple** :
+- Reconnut les « Réclamations » cendraises comme légitimes
+- Restaura le culte des Trois Bons Daedra (Azura, Boethiah, Mephala)
+- Vénéra le Tribunal comme saints mortels ayant commis des erreurs, non comme dieux
+- Canonisa le Nérévarine comme libérateur
+
+Cette transformation représenta un retour aux racines spirituelles chimères après trois millénaires de doctrine imposée par des dieux vivants déchus.

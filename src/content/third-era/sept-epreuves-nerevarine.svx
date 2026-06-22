@@ -1,0 +1,81 @@
+---
+title: "Les Sept Épreuves du Nérévarine"
+slug: "sept-epreuves-nerevarine"
+era: "third-era"
+category: "propheties"
+tags: ["nerevarine", "prophetie", "ashlanders", "azura", "morrowind", "pretres-dissidents", "tribunal"]
+timelineYear: 427
+summary: "Les textes prophétiques des Sept Épreuves, la Prophétie Perdue et le Poème de l'Étranger — les conditions précises de la réincarnation de Nerevar selon les traditions cendraises."
+sources: ["UESP: Nerevarine Prophecy", "The Imperial Library: Seven Trials", "TES III: Morrowind — Nibani Maesa"]
+---
+
+# Les Sept Épreuves du Nérévarine
+
+Les **Sept Épreuves** constituent le cœur de la tradition prophétique cendraise concernant le retour d'**Indoril Nerevar**. Transmises oralement par les Femmes Sages des tribus **Ashlanders** pendant des millénaires, puis compilées par les **Prêtres Dissidents** du Temple, ces épreuves définissent les conditions précises qu'un candidat doit remplir pour être reconnu comme le Nérévarine — la réincarnation du héros dunmer trahi à la **Montagne Rouge**.
+
+## Les sources textuelles
+
+### La Prophétie Perdue
+
+La Prophétie Perdue (Lost Prophecy) est le texte fondateur, attribué aux visions d'**Azura** elle-même transmises aux premières Femmes Sages après la trahison du **Tribunal** :
+
+> *De la terre étrangère il viendra, ni lié ni libre,*
+> *Né sous une couronne incertaine, avec des étoiles inconnues.*
+> *De la malédiction il sera purifié, du fléau immunisé,*
+> *Ni homme ni mer, ni bête ni démon.*
+
+Ce texte établit le profil paradoxal du candidat : un étranger à Morrowind qui n'est ni esclave ni homme libre (un prisonnier affranchi), né sous des signes astrologiques impossibles à identifier d'avance.
+
+### Le Poème de l'Étranger
+
+Le Poème de l'Étranger (Stranger) complète la Prophétie Perdue en décrivant les circonstances de l'arrivée du Nérévarine :
+
+> *Quand la Terre tremblera et que le Feu brûlera,*
+> *Quand les mers se soulèveront et les morts marcheront,*
+> *Quand le Spectre prendra forme et le brouillard s'épaissira,*
+> *L'Étranger viendra faire tomber les faux dieux.*
+
+Les « faux dieux » désignent sans ambiguïté le **Tribunal** — ce qui explique pourquoi le Temple persécuta pendant des millénaires quiconque diffusait ces textes.
+
+## Les Sept Épreuves
+
+Les épreuves elles-mêmes, telles que révélées par **Nibani Maesa**, Femme Sage des **Urshilaku** :
+
+### Première Épreuve — La Naissance
+Le candidat doit être né un certain jour sous certains signes. La date exacte fut obscurcie par le Temple, mais les Cendrais la reconnaissent instinctivement.
+
+### Deuxième Épreuve — Le Fléau
+Le Nérévarine doit survivre à la **Maladie Corprus** — le fléau de **Dagoth Ur** — et en être guéri tout en conservant ses dons d'immortalité. Cette épreuve élimine tout imposteur : le Corprus est incurable sauf pour l'Élu.
+
+### Troisième Épreuve — Le Caveau de Kogoruhn
+Le candidat doit pénétrer dans les ruines de **Kogoruhn**, forteresse de la Sixième Maison, et en rapporter des preuves de la corruption de Dagoth Ur.
+
+### Quatrième Épreuve — La Reconnaissance des Cendrais
+Les quatre tribus Ashlanders doivent reconnaître le candidat comme Nérévarine, chacune selon ses propres épreuves tribales.
+
+### Cinquième Épreuve — La Reconnaissance des Grandes Maisons
+Le candidat doit être reconnu Hortator (champion de guerre) par les trois Grandes Maisons de Vvardenfell : **Hlaalu**, **Redoran** et **Telvanni**.
+
+### Sixième Épreuve — Le Feu Sacré
+Le Nérévarine doit acquérir les Outils de **Kagrenac** — **Keening**, **Sunder** et **Wraithguard** — les mêmes instruments que le Tribunal utilisa pour voler la divinité.
+
+### Septième Épreuve — La Montagne Rouge
+L'épreuve finale : pénétrer dans le **Cœur de Lorkhan** sous la Montagne Rouge, vaincre Dagoth Ur, et détruire l'enchantement qui lie le Cœur — mettant fin à la fois au pouvoir de Dagoth Ur et à celui du Tribunal.
+
+## Interprétation et controverses
+
+### La position du Temple
+
+Le **Temple du Tribunal** déclara ces prophéties hérétiques et persécuta les Cendrais comme les Prêtres Dissidents qui les étudiaient. Pour le Temple, le Nérévarine n'était qu'un mythe dangereux sapant la légitimité des dieux vivants. Les Ordinateurs pourchassaient activement quiconque diffusait ces textes.
+
+### La position des Prêtres Dissidents
+
+Les **Prêtres Dissidents** — membres du Temple ayant rompu avec la doctrine officielle — compilèrent les textes cendrais et les comparèrent aux archives impériales. Ils conclurent que la prophétie était authentique et que le Tribunal avait effectivement trahi Nerevar.
+
+### La nature de la réincarnation
+
+Une question théologique persiste : le Nérévarine est-il littéralement l'âme de Nerevar revenue, ou un individu distinct qui accomplit les conditions de la prophétie ? Les Cendrais favorisent la réincarnation littérale. Les Prêtres Dissidents suggèrent que la distinction est sans importance — l'accomplissement des épreuves est ce qui compte, pas l'identité métaphysique.
+
+## Accomplissement en 3E 427
+
+En l'an **427** de la Troisième Ère, un prisonnier impérial envoyé à Morrowind par **Uriel Septim VII** accomplit les Sept Épreuves une par une. Sa survie au Corprus grâce aux travaux de **Divayth Fyr**, sa reconnaissance par les quatre tribus et les trois Maisons, et sa destruction finale du Cœur de Lorkhan confirmèrent la validité de la prophétie millénaire — et scellèrent le destin du Tribunal.

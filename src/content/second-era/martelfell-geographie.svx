@@ -1,0 +1,125 @@
+---
+title: "Martelfell — Géographie et Régions"
+slug: "martelfell-geographie"
+era: "second-era"
+category: "geographie"
+tags: ["martelfell", "hammerfell", "alikr", "rougegardes", "sentinelle", "taneth", "stros-mkai", "geographie"]
+timelineYear: 500
+summary: "Géographie détaillée de Martelfell : le désert d'Alik'r, les régions côtières, les grandes cités, et l'influence du terrain sur la culture rougegarde."
+sources: ["UESP: Hammerfell", "The Imperial Library: Hammerfell Geography", "TES: Redguard", "ESO: Alik'r Desert"]
+---
+
+# Martelfell — Géographie et Régions
+
+**Martelfell** (Hammerfell) est la province la plus vaste et la plus diverse géographiquement de l'ouest de **Tamriel**. Des déserts brûlants de l'**Alik'r** aux forêts tropicales du sud, des côtes rocheuses de la **Baie d'Iliac** aux montagnes du Couchant de Drakelowe, cette terre façonna le peuple **Rougegarde** autant qu'elle fut façonnée par lui.
+
+## Régions principales
+
+### Le Désert d'Alik'r
+
+Le cœur de Martelfell est un immense désert — l'**Alik'r** — qui s'étend sur des centaines de lieues :
+- **Dunes de sable** mouvantes pouvant atteindre des dizaines de mètres de hauteur
+- **Températures extrêmes** : brûlant le jour, glacial la nuit
+- **Oasis** rares mais vitales, centres des routes caravanières
+- **Ruines anciennes** : vestiges nédiques et yokudans enfouis sous le sable
+- **Faune hostile** : scorpions géants, dunerippers, trolls des sables
+
+Le désert n'est pas inhabitable — les Rougegardes y vivent depuis des millénaires grâce à une connaissance intime des points d'eau et des routes. Mais il constitue une barrière naturelle formidable contre les envahisseurs.
+
+### La Côte de la Baie d'Iliac
+
+Au nord-ouest, Martelfell partage la **Baie d'Iliac** avec **Hauteroche**. Cette région est :
+- Fertile et tempérée, contrastant avec l'intérieur désertique
+- Le centre du commerce maritime avec Hauteroche et les îles
+- Le territoire des grandes cités portuaires
+- Politiquement agitée — frontière disputée avec les Brétons
+
+### Les Montagnes de Drakelowe
+
+La frontière orientale avec **Cyrodiil** et **Bordeciel** est marquée par une chaîne montagneuse :
+- Barrière naturelle protégeant Martelfell des invasions terrestres
+- Mines de minerais précieux
+- Cols stratégiques contrôlant l'accès à la province
+- Forêts de montagne alimentant les chantiers navals côtiers
+
+### Les Régions méridionales
+
+Le sud de Martelfell est paradoxalement verdoyant :
+- Forêts tropicales le long de la côte sud
+- Marécages côtiers
+- Climat humide influencé par les courants marins
+- Moins peuplé que le nord mais riche en ressources naturelles
+
+## Grandes cités
+
+### Sentinelle
+
+**Sentinelle** est la plus grande cité du nord de Martelfell, dominant la Baie d'Iliac :
+- Port commercial majeur
+- Siège du pouvoir des **Couronnes** (faction traditionaliste rougegarde)
+- Architecture mêlant influences yokudanes et impériales
+- Palais royal surplombant la baie depuis des falaises blanches
+
+### Taneth
+
+Cité portuaire du sud, **Taneth** est un carrefour commercial :
+- Commerce avec **Archipel de l'Automne** et **Val-Boisé**
+- Population cosmopolite
+- Marchés épiciers réputés dans tout Tamriel
+- Chantiers navals produisant les navires les plus rapides de l'ouest
+
+### Hegathe
+
+Ancienne capitale traditionnelle, **Hegathe** est la cité la plus « yokudane » :
+- Architecture préservée des premiers Ra Gada
+- Centre spirituel de la culture rougegarde
+- Écoles d'escrime légendaires (les « ansei » y enseignent encore)
+- Située à la lisière du désert, gardienne des traditions
+
+### Stros M'Kai
+
+L'île de **Stros M'Kai** au large de la côte sud est :
+- Un port franc historique — refuge de pirates et de marchands
+- Le lieu de la révolte rougegarde contre **Tiber Septim** (2E 864)
+- Riche en ruines dwemer sous-marines
+- Un symbole de l'indépendance rougegarde
+
+## Influence de la géographie sur la culture
+
+### La division Couronnes/Devanciers
+
+La géographie de Martelfell structure sa division politique fondamentale :
+
+- Les **Couronnes** (Crowns) : descendants directs des nobles yokudans, concentrés dans les villes intérieures et les régions traditionnelles. Ils valorisent les anciennes traditions et résistent à l'influence impériale.
+- Les **Devanciers** (Forebears) : descendants des guerriers Ra Gada de première vague, établis dans les ports côtiers. Plus ouverts au commerce, à la diplomatie et à l'intégration impériale.
+
+### L'art de la guerre rougegarde
+
+Le terrain de Martelfell forgea un style martial unique :
+- **Combat en désert** : endurance, mobilité, embuscades
+- **Escrime** : les Rougegardes sont les meilleurs épéistes de Tamriel
+- **Guerre navale** : les cités côtières produisent des marins redoutables
+- **Indépendance** : chaque guerrier est autonome — pas de dépendance à la logistique lourde
+
+Cette adaptation au terrain explique pourquoi Martelfell résista avec succès au **Domaine Aldmeri** lors de la Grande Guerre, repoussant les forces Thalmor sans aide impériale et forçant un traité séparé.
+
+### Les routes caravanières
+
+Le réseau de routes à travers l'Alik'r est le système nerveux économique de Martelfell :
+- Oasis reliées par des routes secrètes connues des seuls guides locaux
+- Commerce de sel, d'épices, de minerais et de textiles
+- Les caravanes voyagent de nuit pour éviter la chaleur
+- Le contrôle des oasis est source de pouvoir politique
+
+## Ressources
+
+Martelfell est riche en :
+- **Minerais** : fer, orichalque, ébonite dans les montagnes
+- **Sel** : extraction dans les lacs asséchés du désert
+- **Épices** : cultures dans les oasis et le sud tropical
+- **Bois précieux** : forêts méridionales
+- **Poissons et perles** : côtes riches des deux mers
+
+## Signification stratégique
+
+La position géographique de Martelfell en fait une pièce maîtresse de la géopolitique tamriélique : elle contrôle les routes maritimes de l'ouest, constitue un tampon entre l'Empire et le Domaine Aldmeri, et sa résistance prouvée face au Thalmor en fait un allié potentiel crucial — ou un adversaire redoutable — pour quiconque aspire à dominer l'ouest de Tamriel.

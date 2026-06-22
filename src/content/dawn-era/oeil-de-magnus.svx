@@ -1,0 +1,84 @@
+---
+title: "L'Œil de Magnus"
+slug: "oeil-de-magnus"
+era: "dawn-era"
+category: "artefacts"
+tags: ["oeil-de-magnus", "magnus", "saarthal", "college-fortdhiver", "ancano", "psijiques", "nuit-des-larmes"]
+timelineYear: -9999
+summary: "L'Œil de Magnus — artefact d'une puissance immense lié au dieu de la magie, découvert sous Saarthal et cause probable de la Nuit des Larmes."
+sources: ["UESP: Eye of Magnus", "The Imperial Library: Magnus", "TES V: Skyrim — College of Winterhold"]
+---
+
+# L'Œil de Magnus
+
+L'**Œil de Magnus** est un artefact d'une puissance sans commune mesure, lié au dieu **Magnus** — l'architecte du **Mundus** qui s'enfuit vers **Aetherius** avant l'achèvement de la Création. Sa nature exacte est débattue : fragment de la Création abandonnée ? Outil ayant servi à concevoir le Mundus ? Relique laissée par Magnus lors de sa fuite ? Quelle que soit sa nature, l'Œil contient une énergie suffisante pour altérer la réalité à une échelle catastrophique.
+
+## Nature
+
+### Apparence
+
+L'Œil se présente comme une immense sphère tournoyante de cristal et d'énergie, recouverte de glyphes mobiles dans un langage inconnu — possiblement la langue originelle de la Création elle-même. Il pulse d'une lumière dorée-verdâtre qui semble vivante.
+
+### Connexion à Magnus
+
+**Magnus** était l'architecte divin qui conçut les plans du Mundus pour **Lorkhan**. Quand il réalisa que la Création drainerait la divinité des Et'Ada participants, il s'enfuit — perçant un trou dans la réalité qui devint le **Soleil** (la plus grande brèche vers Aetherius). Les Magna-Ge, ses suivants, percèrent des trous plus petits — les étoiles.
+
+L'Œil serait un vestige de ce moment primordial :
+- Peut-être les « plans du Mundus » eux-mêmes, laissés sur le chantier
+- Peut-être un outil de création que Magnus ne put emporter dans sa fuite
+- Peut-être un fragment de la puissance divine que Magnus abandonna
+
+### Puissance
+
+L'Œil canalise une quantité de **magicka** théoriquement infinie — une connexion directe à Aetherius, source de toute magie. Quiconque sait l'utiliser disposerait d'un pouvoir suffisant pour :
+- Altérer les lois fondamentales de la réalité
+- Réécrire la nature d'un être ou d'un lieu
+- Potentiellement rivaliser avec les Divins eux-mêmes
+
+## Histoire
+
+### Enfouissement sous Saarthal
+
+L'Œil fut découvert sous **Saarthal** — la première colonie humaine de Bordeciel, fondée par les Atmorans au début de l'Ère Méréthique. On ignore s'il y fut délibérément caché ou s'il s'y trouvait depuis la Création.
+
+### La Nuit des Larmes
+
+La **Nuit des Larmes** — l'attaque surprise des **Elfes des Neiges** contre Saarthal qui tua presque tous ses habitants — pourrait avoir été motivée par la découverte de l'Œil. La version officielle nordique présente l'attaque comme un génocide gratuit, mais les preuves suggèrent que les Elfes des Neiges cherchaient à s'emparer de l'Œil ou à empêcher les humains de l'utiliser.
+
+Si cette théorie est correcte, l'Œil de Magnus est indirectement responsable du **Retour** d'Ysgramor et de la guerre d'extermination contre les Elfes des Neiges — un conflit qui remodela Bordeciel pour toujours.
+
+### Oubli
+
+Après la Nuit des Larmes, la connaissance de l'Œil se perdit. Les ruines de Saarthal furent ensevelies et oubliées pendant des millénaires. L'Œil dormit sous terre, inerte mais non moins puissant.
+
+### Redécouverte (4E 201)
+
+En **4E 201**, des fouilles archéologiques menées par le **Collège de Fortdhiver** sous la direction de **Tolfdir** mirent au jour les ruines de Saarthal — et l'Œil. L'artefact fut ramené au Collège pour étude.
+
+## La crise d'Ancano
+
+### L'agent Thalmor
+
+**Ancano**, un **Justiciar Thalmor** officiellement présent au Collège comme « conseiller », reconnut immédiatement la puissance de l'Œil. Il s'en empara et tenta de l'utiliser pour un objectif inconnu — possiblement lié aux ambitions métaphysiques du **Domaine Aldmeri** concernant les Tours et la dissolution du Mundus.
+
+### Conséquences
+
+L'activation de l'Œil par Ancano provoqua :
+- Des anomalies magiques massives dans toute la région de Fortdhiver
+- L'apparition de créatures magiques hostiles
+- Une instabilité de la réalité locale
+- La mort de l'Archimage **Savos Aren**
+
+### Intervention des Psijiques
+
+L'**Ordre Psijique** — la plus ancienne organisation de mages de Tamriel, généralement isolationniste — intervint directement. Ils avaient prévu la crise et guidèrent secrètement un mage du Collège vers le **Bâton de Magnus** (Staff of Magnus), le seul artefact capable de contrôler l'Œil.
+
+Après la défaite d'Ancano, les Psijiques prirent possession de l'Œil :
+
+> *Cet artefact est trop dangereux pour rester ici. Trop dangereux pour rester n'importe où, en vérité. Nous en prendrons la garde.*
+
+L'Œil disparut avec eux dans leur île de **Artaeum** — retirée du plan mortel et inaccessible aux ambitions des nations.
+
+## Signification cosmologique
+
+L'Œil de Magnus est l'un des rares artefacts capables de modifier la structure même de l'**Aurbis**. Son existence prouve que la Création du Mundus laissa des « outils » derrière elle — des reliques du processus créatif suffisamment puissantes pour défaire ce qui fut fait. Dans un monde où les Tours ancrent la réalité, et où des factions cherchent à les désactiver, l'Œil représente une menace (ou une promesse) d'une magnitude terrifiante.

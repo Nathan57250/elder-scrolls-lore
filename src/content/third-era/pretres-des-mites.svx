@@ -1,0 +1,75 @@
+---
+title: "Les Prêtres des Mites et la Divination"
+slug: "pretres-des-mites"
+era: "third-era"
+category: "propheties"
+tags: ["pretres-des-mites", "parchemins-anciens", "prophetie", "bibliotheque-ancestrale", "divination", "empire"]
+timelineYear: 200
+summary: "L'ordre monastique des Prêtres des Mites, gardiens des Parchemins des Anciens, et la nature de la prophétie dans l'univers des Elder Scrolls."
+sources: ["UESP: Moth Priest", "The Imperial Library: Elder Scrolls", "TES V: Dawnguard — Dexion Evicus"]
+---
+
+# Les Prêtres des Mites et la Divination
+
+Les **Prêtres des Mites** (Moth Priests) sont un ordre monastique impérial dédié à la lecture et à l'interprétation des **Parchemins des Anciens**. Basés dans la **Bibliothèque Ancestrale** de la Cité Impériale, ils représentent la plus haute autorité en matière de divination prophétique dans l'**Empire**. Leur ordre est indissociable de la compréhension même de ce que signifie « prophétie » dans le monde de Tamriel.
+
+## Le rituel de l'Ancêtre Soie
+
+### La préparation
+
+La lecture d'un Parchemin des Anciens n'est pas un acte anodin. Les Prêtres des Mites développent leur capacité de lecture à travers le rituel de l'**Ancêtre Soie** — une communion mystique avec les mites ancestrales qui habitent les cavernes sous la Cité Impériale.
+
+Ces mites ne sont pas des insectes ordinaires : elles sont liées à la Trame du destin elle-même. En méditant parmi elles, les prêtres apprennent à percevoir les motifs tissés dans la réalité — les fils du passé, du présent et des futurs possibles.
+
+### Les étapes de l'initiation
+
+- **Noviciat** : des années d'étude des textes anciens et de méditation parmi les mites
+- **Communion** : le prêtre apprend à « lire » les motifs formés par les essaims de mites
+- **Première lecture** : le prêtre tente de déchiffrer un fragment de Parchemin sous supervision
+- **Maîtrise** : capacité de lecture complète — au prix d'une dégradation progressive de la vue
+
+## Le prix de la connaissance
+
+### La cécité progressive
+
+Chaque lecture d'un Parchemin des Anciens détériore irréversiblement la vue du lecteur. Les prêtres expérimentés deviennent progressivement aveugles — un sacrifice accepté comme le prix de la communion avec des artefacts qui transcendent la mortalité.
+
+> *Les yeux qui ont vu l'éternité ne peuvent plus supporter la lumière du quotidien.*
+
+Les Prêtres des Mites les plus anciens sont complètement aveugles, mais paradoxalement « voient » plus clairement que quiconque les courants prophétiques qui traversent l'Aurbis.
+
+### La folie
+
+Pire que la cécité, certains prêtres sombrent dans la folie après des lectures trop fréquentes ou trop profondes. **Septimus Signus** illustre ce danger : son génie lui permit de déchiffrer des secrets inouïs, mais au prix de sa raison.
+
+## La nature de la prophétie dans Tamriel
+
+### Déterminisme et libre arbitre
+
+Les Parchemins des Anciens posent une question fondamentale : le futur est-il écrit ? Les Prêtres des Mites enseignent une position nuancée — les Parchemins montrent des **convergences probables**, pas des certitudes absolues. Le futur existe sous forme de possibilités qui se cristallisent progressivement.
+
+### Les Dragon Breaks
+
+Les **Dragon Breaks** — ruptures temporelles où la linéarité du temps s'effondre — représentent les limites ultimes de la prophétie. Durant un Dragon Break, les Parchemins deviennent illisibles, car tous les futurs possibles existent simultanément. L'exemple le plus célèbre est le **Warp in the West** (Distorsion de l'Ouest) où six fins contradictoires se produisirent toutes en même temps.
+
+### Prophétie vs volonté divine
+
+Une distinction cruciale sépare la prophétie tamriélique de la simple prédiction : les prophéties majeures semblent émaner d'**Akatosh** lui-même, le Dieu du Temps. Elles ne « prédisent » pas le futur — elles le *façonnent*. Le Parchemin n'est pas un miroir passif mais un outil actif dans la mécanique divine du monde.
+
+## Rôle politique
+
+### Conseillers impériaux
+
+Les Prêtres des Mites servent de conseillers prophétiques aux Empereurs. **Uriel Septim VII** s'appuyait sur leurs visions pour prendre des décisions cruciales — c'est en partie grâce à eux qu'il envoya le futur **Nérévarine** à Morrowind et identifia le futur **Champion de Cyrodiil**.
+
+### Gardiens des Parchemins
+
+L'Empire conserve un nombre indéterminé de Parchemins des Anciens dans la Bibliothèque Ancestrale. Les Prêtres en sont les gardiens autant que les lecteurs — protégeant ces artefacts contre le vol et l'usage abusif.
+
+### Déclin en Quatrième Ère
+
+Après la **Crise d'Oblivion** et la chute de la dynastie **Septim**, l'ordre connut un déclin. En 4E 201, le vampire **Harkon** du clan **Volkihar** enleva le Prêtre des Mites **Dexion Evicus** pour lui faire lire un Parchemin révélant la Prophétie de Tyranny du Soleil — illustrant la vulnérabilité de l'ordre affaibli.
+
+## Héritage
+
+L'ordre des Prêtres des Mites incarne le paradoxe central de la connaissance dans l'univers des Elder Scrolls : plus on s'approche de la vérité ultime, plus le prix personnel est élevé. Leur existence même prouve que le futur peut être entrevu — mais jamais sans conséquences.

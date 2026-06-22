@@ -1,0 +1,85 @@
+---
+title: "Jagar Tharn — L'Usurpateur"
+slug: "jagar-tharn"
+era: "third-era"
+category: "personnages"
+tags: ["jagar-tharn", "simulacrum", "usurpateur", "uriel-septim", "baton-du-chaos", "champion-eternel", "illusion"]
+timelineYear: 389
+summary: "Biographie du mage impérial Jagar Tharn : son coup d'État contre Uriel Septim VII, les dix ans du Simulacre Impérial, et sa défaite par le Champion Éternel."
+sources: ["UESP: Jagar Tharn", "The Imperial Library: Imperial Simulacrum", "TES I: Arena"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# Jagar Tharn — L'Usurpateur
+
+**Jagar Tharn** est le mage impérial qui usurpa le trône de **Tamriel** pendant dix ans (3E 389 — 3E 399) en emprisonnant l'Empereur **Uriel Septim VII** dans une dimension d'Oblivion et en prenant sa place grâce à une magie d'illusion sans précédent. Le **Simulacre Impérial** (Imperial Simulacrum) qu'il orchestra reste l'un des plus grands crimes politiques de l'histoire de l'Empire.
+
+## Ascension
+
+### Origines
+
+Jagar Tharn naquit avec un talent exceptionnel pour la magie d'**illusion** et d'**altération**. Les détails de sa jeunesse sont obscurs — certaines sources le relient à la lignée des **Tharn** de Cyrodiil, une famille noble connue pour sa participation au pouvoir impérial depuis la Deuxième Ère (l'infâme **Abnur Tharn** du Conseil des Cinq Compagnons partageait ce nom de famille).
+
+### Mage de Guerre Impérial
+
+Tharn gravit les échelons de la cour impériale jusqu'au poste de **Mage de Guerre Impérial** (Imperial Battlemage) — le plus haut rang magique de l'Empire, conseiller direct de l'Empereur. Ce poste lui donna un accès illimité aux secrets de la couronne et à des artefacts d'une puissance considérable.
+
+## Le coup d'État
+
+### La machination
+
+<CausalChain items={[
+  { text: "Tharn acquiert le Bâton du Chaos — artefact de puissance immense" },
+  { text: "Il brise le Bâton en huit fragments et les disperse à travers Tamriel", indent: 1 },
+  { text: "Il emprisonne Uriel Septim VII dans une dimension d'Oblivion", indent: 1 },
+  { text: "Il prend l'apparence exacte de l'Empereur par magie d'illusion", indent: 2 },
+  { text: "Dix ans de règne imposteur — le Simulacre Impérial (3E 389-399)", indent: 2 }
+]} />
+
+La dispersion du **Bâton du Chaos** était une mesure de sécurité : tant que le Bâton restait fragmenté, personne ne pouvait l'utiliser pour briser l'illusion ou libérer le véritable Empereur.
+
+### La perfection de l'illusion
+
+L'exploit magique de Tharn est stupéfiant : pendant **dix ans**, il imita parfaitement Uriel Septim VII — sa voix, ses manières, ses souvenirs apparents, son style de gouvernance. Ni la cour, ni le **Conseil des Anciens**, ni les **Lames** (gardes personnels de l'Empereur) ne détectèrent la substitution.
+
+Cela soulève des questions troublantes sur la nature du pouvoir impérial : si un imposteur peut gouverner dix ans sans que personne ne le remarque, que signifie réellement la légitimité de l'Empereur ?
+
+## Le règne du Simulacre
+
+### Gouvernance
+
+Contrairement à ce qu'on pourrait attendre d'un usurpateur, Tharn ne gouverna pas de manière catastrophique. L'Empire ne s'effondra pas sous son règne — les provinces continuèrent de fonctionner, les Légions restèrent en place. Tharn était suffisamment intelligent pour maintenir l'apparence de la normalité.
+
+Toutefois, des tensions s'accumulèrent :
+- Des guerres mineures entre provinces furent ignorées ou mal gérées
+- Les défenses magiques de l'Empire furent négligées
+- Les ressources impériales furent détournées vers des projets occultes personnels
+- L'instabilité politique latente qui culminerait en événements futurs commença à fermenter
+
+### Les victimes
+
+**Ria Silmane**, apprentie de Tharn et seule personne à avoir découvert la vérité, fut assassinée. Mais son esprit refusa de disparaître — elle contacta un prisonnier anonyme depuis l'au-delà pour le guider vers les fragments du Bâton du Chaos.
+
+## La chute
+
+### Le Champion Éternel
+
+Un prisonnier des geôles impériales — contacté en rêve par l'esprit de **Ria Silmane** — entreprit un périple de plusieurs années à travers les neuf provinces de Tamriel pour retrouver les huit fragments du Bâton du Chaos.
+
+Ce **Champion Éternel** (Eternal Champion) affronta d'innombrables dangers dans chaque province, reconstitua le Bâton, et confronta finalement Jagar Tharn dans les profondeurs du **Palais Impérial**. Le combat fut terrible — Tharn déploya toute sa puissance — mais le Bâton du Chaos reconstitué brisa son illusion et le détruisit.
+
+### Libération d'Uriel Septim VII
+
+Uriel Septim VII fut libéré de sa prison dimensionnelle après dix ans de captivité. L'Empereur en revint changé — plus méfiant, plus conscient de la fragilité du pouvoir, et hanté par des visions prophétiques qui guideraient ses décisions pour les trente-quatre années suivantes de son règne, jusqu'à son assassinat par l'**Aube Mythique** en 3E 433.
+
+## Héritage
+
+Le Simulacre Impérial démontra trois vérités inconfortables :
+1. Le pouvoir impérial repose davantage sur l'**apparence** que sur l'essence
+2. Les institutions de contrôle (Lames, Conseil) sont faillibles face à une magie suffisamment puissante
+3. La « stabilité » de l'Empire peut masquer une pourriture profonde
+
+Tharn fut un génie maléfique — mais un génie néanmoins. Sa capacité à tromper le monde entier pendant une décennie reste sans équivalent dans les annales de la magie tamriélique.
