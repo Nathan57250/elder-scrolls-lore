@@ -1,0 +1,78 @@
+---
+title: "Le Champion de Cyrodiil"
+slug: "champion-cyrodiil"
+era: "third-era"
+category: "personnages"
+tags: ["champion-cyrodiil", "crise-oblivion", "martin-septim", "mehrunes-dagon", "heros", "shivering-isles"]
+timelineYear: 433
+summary: "Le mystérieux héros qui sauva Tamriel durant la Crise d'Oblivion et devint le Champion de Cyrodiil."
+sources: ["Bref historique de l'Empire", "La Crise d'Oblivion", "Les Chevaliers des Neuf"]
+---
+
+## Un héros sans nom
+
+Le **Champion de Cyrodiil** est le titre donné au héros anonyme qui joua un rôle central dans la résolution de la **Crise d'Oblivion** en 3E 433. Comme beaucoup de héros de l'histoire tamriélique — le **Nérévarine**, le **Champion Éternel** avant lui — son identité véritable a été perdue ou délibérément effacée des archives.
+
+Ce que l'on sait, c'est qu'il commença comme un simple prisonnier dans les cachots de la **Cité Impériale** — un détenu anonyme dont le crime original n'est même pas documenté. Sa cellule, par un hasard du destin ou une intervention divine, se trouvait sur le passage d'un tunnel secret utilisé par l'Empereur **Uriel Septim VII** pour fuir ses assassins.
+
+Cette rencontre fortuite entre un empereur mourant et un prisonnier inconnu allait décider du destin de Tamriel tout entier. Le Champion fut le dernier à parler avec Uriel Septim avant son assassinat par le **Mythic Dawn**, et le premier à recevoir la mission qui sauverait le monde.
+
+## La dernière mission d'Uriel Septim VII
+
+Dans les tunnels sous la Cité Impériale, l'Empereur **Uriel Septim VII** — hanté par des visions prophétiques de sa propre mort — reconnut dans le prisonnier l'instrument du destin qu'il attendait. Avec une sérénité remarquable face à sa fin imminente, il confia au Champion l'**Amulette des Rois**, le dernier espoir de l'Empire.
+
+L'Amulette devait être remise à **Jauffre**, le grand-maître des **Lames** caché au Prieuré de Weynon, qui connaissait l'existence du dernier héritier Septim : **Martin**, un prêtre d'Akatosh vivant incognito dans la ville de **Kvatch**.
+
+Uriel mourut quelques instants plus tard, assassiné par un agent du Mythic Dawn qui avait infiltré sa garde. Avec sa mort, les **Dragonfires** s'éteignirent, laissant Tamriel vulnérable aux incursions de **Mehrunes Dagon**.
+
+## La quête pour Martin Septim
+
+La première grande épreuve du Champion fut le siège de **Kvatch**. Lorsqu'il arriva pour trouver Martin, la ville était déjà en flammes — une **Porte d'Oblivion** s'était ouverte devant ses murs, et les armées de Dagon avaient submergé les défenses.
+
+Le Champion pénétra dans la Porte, combattit à travers les **Terres Mortes** de Dagon et détruisit la **Pierre de Sigil**, refermant le passage. Cet exploit — le premier du genre — lui valut l'admiration de la garnison survivante et prouva que les Portes pouvaient être fermées.
+
+**Martin Septim**, fils illégitime d'Uriel VII, ignorait son ascendance impériale. Prêtre modeste et érudit, il n'avait aucune formation militaire ni ambition politique. La révélation de sa lignée et la responsabilité qui en découlait le transformèrent progressivement d'un homme ordinaire en un dirigeant capable.
+
+## Les exploits durant la Crise
+
+Durant les semaines et les mois de la Crise d'Oblivion, le Champion accomplit des exploits extraordinaires :
+
+Il ferma des dizaines de **Portes d'Oblivion** à travers tout Cyrodiil, souvent seul, affrontant les hordes daédriques avec une détermination implacable. Chaque porte fermée sauvait une ville ou un village de la destruction.
+
+Il infiltra le **Paradis de Mankar Camoran** — une dimension de poche créée par le chef du Mythic Dawn — pour récupérer l'**Amulette des Rois** que le culte avait dérobée. Il y affronta et tua **Mankar Camoran** lui-même.
+
+Il mena la défense de **Bruma**, la ville la plus proche de la Grande Porte que le Mythic Dawn tentait d'ouvrir pour faire entrer un **Siège Daédrique** — une machine de guerre d'Oblivion.
+
+Il accompagna Martin Septim dans ses recherches pour rallumer les Dragonfires, retrouvant les artefacts nécessaires au rituel.
+
+## La bataille finale
+
+Le climax de la Crise survint lorsque **Mehrunes Dagon** lui-même — le Prince Daedra de la destruction, un être d'une taille et d'une puissance colossales — se manifesta physiquement dans la Cité Impériale. Sa présence sur Mundus n'aurait pas dû être possible, mais l'extinction des Dragonfires avait suffisamment affaibli la barrière.
+
+Face à cette menace divine, aucune force mortelle n'était suffisante. Le Champion escorta **Martin Septim** jusqu'au **Temple de l'Unique** dans la Cité Impériale, où Martin accomplit l'acte de sacrifice ultime.
+
+Martin brisa l'**Amulette des Rois**, libérant l'essence divine d'**Akatosh** contenue en elle, et se transforma en un avatar du Dragon divin — un dragon doré d'une taille gigantesque. Sous cette forme, il affronta Mehrunes Dagon directement et le repoussa vers Oblivion.
+
+Le sacrifice de Martin mit fin à la Crise mais aussi à la lignée des Septim. L'avatar d'Akatosh se pétrifia en une statue de dragon au centre du Temple, scellant la barrière entre les mondes de manière permanente.
+
+## Après la Crise : des chemins multiples
+
+L'après-Crise d'Oblivion est remarquable pour la diversité des accomplissements attribués au Champion. Selon les sources, il poursuivit sa carrière héroïque dans plusieurs directions :
+
+Certaines traditions affirment qu'il restaura les **Chevaliers des Neuf**, un ordre saint antique, en récupérant les reliques du **Croisé Divin** et en combattant le roi **Umaril l'Infidèle**, un seigneur ayléide revenant de l'au-delà.
+
+D'autres récits le placent dans les **Îles Frissonnantes** (Shivering Isles), le royaume de **Shéogorath**, où il aurait participé à la **Grise Marche** — la tentative de **Jyggalag**, le Prince de l'Ordre, de détruire le royaume du chaos — et serait ultimement devenu le nouveau **Shéogorath** lui-même.
+
+Cette dernière tradition, si elle est vraie, signifierait que le héros qui sauva Tamriel devint lui-même un Prince Daedra — une transformation extraordinaire qui soulève des questions vertigineuses sur la nature de l'héroïsme et de la divinité.
+
+## L'héritage du Champion
+
+Le Champion de Cyrodiil laissa un héritage complexe :
+
+Il sauva le monde mortel de la destruction, mais ne put empêcher la fin de la dynastie **Septim** et l'extinction des Dragonfires. Son héroïsme mit fin à la Crise mais aussi à une ère entière.
+
+La **Quatrième Ère** qui suivit — une époque d'instabilité, de guerres et de montée du **Thalmor** — est en partie la conséquence du vide de pouvoir laissé par la fin des Septim.
+
+Son anonymat même est significatif : dans la philosophie tamriélique, les plus grands héros semblent destinés à l'oubli, leurs noms effacés par le temps tandis que leurs actes façonnent le monde.
+
+Le Champion illustre un thème récurrent de l'histoire de Tamriel : les destins les plus extraordinaires naissent dans les circonstances les plus humbles. Un prisonnier inconnu, choisi par le hasard ou la providence, devint le sauveur d'un monde — et peut-être un dieu.

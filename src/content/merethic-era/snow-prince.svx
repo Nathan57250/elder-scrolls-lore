@@ -1,0 +1,50 @@
+---
+title: "Le Prince des Neiges"
+slug: "snow-prince"
+era: "merethic-era"
+category: "personnages"
+tags: ["prince-des-neiges", "falmer", "elfes-des-neiges", "bataille-moesring", "bordeciel"]
+timelineYear: -600
+summary: "Le Prince des Neiges fut le dernier grand héros des Falmer, tombé à la Bataille du Puits de Moesring, marquant la fin de la civilisation elfique en Bordeciel."
+sources: ["Fall of the Snow Prince", "Song of the Return", "Before the Ages of Man"]
+---
+
+## Le dernier champion des Falmer
+
+Le **Prince des Neiges** reste l'une des figures les plus tragiques et les plus héroïques de l'ère Méréthique. Dernier grand chef de guerre des **Falmer**, les elfes des neiges qui habitaient **Bordeciel** avant l'arrivée des Atmorans, il incarna la résistance désespérée d'un peuple face à son extinction. Son véritable nom s'est perdu dans les brumes du temps, car même les chroniques nordiques qui relatent sa mort ne le désignent que par son titre.
+
+Les Falmer d'avant leur chute n'étaient pas les créatures dégénérées et aveugles que l'on trouve dans les profondeurs de la terre à la **Quatrième Ère**. C'était un peuple fier et civilisé, doté d'une culture raffinée et d'une maîtrise de la magie glaciale sans égale. Leurs cités de cristal et de glace parsemaient les sommets de Bordeciel, et leur art, dont quelques fragments subsistent, révèle une sensibilité esthétique d'une délicatesse remarquable.
+
+Le Prince des Neiges était le plus grand de ces elfes, tant par sa stature que par ses capacités martiales. Les sagas nordiques, pourtant peu enclines à louer leurs ennemis, le décrivent avec un respect mêlé de crainte. Sa lance enchantée pouvait geler le sang dans les veines d'un guerrier, et son armure, forgée dans un métal inconnu des Hommes, brillait comme la neige sous le soleil.
+
+## La guerre contre les Atmorans
+
+L'arrivée des **Atmorans** en Bordeciel, menés par **Ysgramor** et ses **Cinq Cents Compagnons**, déclencha une guerre d'extermination contre les Falmer. Ce conflit, que les Nordiques appellent le **Retour**, n'était pas la première confrontation entre les deux peuples. Les Falmer avaient déjà attaqué la colonie de **Saarthal** lors de la **Nuit des Larmes**, massacrant presque tous les colons humains.
+
+Ysgramor revint d'Atmora avec une armée vengeresse, et la guerre qui s'ensuivit fut implacable. Les Atmorans, portés par une rage vengeresse et armés de leur puissance vocale, les **Thu'um**, repoussèrent les Falmer bataille après bataille. Les cités de cristal tombèrent les unes après les autres, et le peuple des neiges fut contraint de se replier toujours plus au nord.
+
+Le Prince des Neiges tenta de rallier les clans Falmer dispersés pour une dernière résistance organisée. Sa réputation de guerrier invincible attira à lui les survivants de dizaines de batailles perdues. Pour la première fois depuis le début du conflit, les Falmer formèrent une armée unifiée sous un commandement unique, prête à affronter les Compagnons dans un combat décisif.
+
+## La Bataille du Puits de Moesring
+
+La **Bataille du Puits de Moesring**, qui se déroula sur l'île de **Solstheim**, fut le dernier grand affrontement entre les Falmer et les Atmorans. Le Prince des Neiges y déploya une férocité et une habileté martiale qui stupéfièrent même les guerriers les plus endurcis des Compagnons. Sa lance fauchait les rangs nordiques avec une précision mortelle, et la magie glaciale qu'il maniait transformait des escouades entières en statues de givre.
+
+Les chroniques nordiques rapportent que le Prince des Neiges tua personnellement des dizaines de Compagnons ce jour-là, dont plusieurs capitaines renommés. Sa seule présence sur le champ de bataille galvanisait les Falmer et semait le doute dans les rangs ennemis. Pendant un moment, il sembla que les elfes des neiges pourraient réellement repousser l'envahisseur.
+
+Mais la bataille tourna lorsqu'une jeune fille nordique nommée **Finna**, à peine âgée de douze ans selon les sagas, lança la hache de sa mère défunte vers le Prince des Neiges. L'arme le frappa en plein visage, transperçant son casque enchantée. Le grand champion des Falmer tomba, et avec lui s'effondra le moral de son armée tout entière.
+
+## La déroute des Falmer
+
+La mort du Prince des Neiges provoqua un effondrement psychologique immédiat parmi les rangs Falmer. Leur dernier espoir venait de s'éteindre sous leurs yeux. La retraite se transforma en déroute, puis en massacre. Les Compagnons poursuivirent les survivants sans merci, déterminés à éliminer la menace elfique une fois pour toutes.
+
+Ceux qui échappèrent au carnage n'eurent d'autre choix que de se cacher. Certains groupes tentèrent de fuir vers d'autres terres, mais les Atmorans contrôlaient désormais les routes maritimes. D'autres s'enfoncèrent dans les cavernes et les passages souterrains, cherchant refuge dans les ténèbres de la terre. C'est là qu'ils rencontrèrent les **Dwemer**, qui leur offrirent l'asile à un prix terrible.
+
+Les **Dwemer** acceptèrent de protéger les Falmer survivants, mais en échange les réduisirent en esclavage. Ils les forcèrent à consommer des champignons toxiques qui les rendirent progressivement aveugles et les nourrirent de substances qui, génération après génération, les dégénérèrent en créatures bestiales. La fière race du Prince des Neiges fut réduite à l'état d'animaux serviles, un sort peut-être pire que l'extinction.
+
+## Le tombeau et l'héritage
+
+Le corps du Prince des Neiges fut traité avec un respect inhabituel par les Nordiques victorieux. Reconnaissant la valeur de leur adversaire, ils lui accordèrent une sépulture digne, l'enterrant avec ses armes et son armure dans un tumulus sur **Solstheim**. Ce geste honore la tradition nordique selon laquelle un ennemi valeureux mérite le respect même dans la mort.
+
+Sa lance, la **Lance du Prince des Neiges**, fut conservée comme relique, un trophée mais aussi un hommage à la puissance de celui qui la maniait. L'arme conserve encore aujourd'hui ses enchantements de givre, témoignage de l'art magique des Falmer à leur apogée. Ceux qui la retrouvèrent à la Quatrième Ère purent mesurer la puissance que les elfes des neiges avaient autrefois possédée.
+
+L'histoire du Prince des Neiges est celle d'un peuple entier condensée en un seul être. Sa grandeur était celle des Falmer à leur zénith ; sa chute fut celle de toute sa civilisation. Et quelque part dans les profondeurs de la terre, ses descendants dégénérés rampent dans l'obscurité, incapables de se souvenir qu'ils furent autrefois un peuple de lumière, guidé par un prince dont la bravoure impressionnait même ses ennemis mortels.

@@ -1,0 +1,56 @@
+---
+title: "Histoire de Vendeaume"
+slug: "windhelm-history"
+era: "first-era"
+category: "lieux"
+tags: ["vendeaume", "windhelm", "ysgramor", "palais-des-rois", "nordiques", "bordeciel", "premiere-ere"]
+timelineYear: 50
+summary: "L'histoire de Vendeaume, la plus ancienne cité humaine de Bordeciel, fondée par Ysgramor et siège du Palais des Rois."
+sources: ["Windhelm: A History", "Songs of the Return", "The Holds of Skyrim", "Ysgramor and the Five Hundred"]
+---
+
+## La plus ancienne cité de Bordeciel
+
+**Vendeaume** (Windhelm) revendique le titre de plus ancienne cité humaine de Bordeciel — et potentiellement de tout Tamriel. Fondée par **Ysgramor** lui-même après sa conquête du continent, la ville se dresse sur les rives de la **Rivière Blanche** dans la châtellerie d'Estemarche, au nord-est de la province. Ses murailles massives, ses avenues de pierre et son architecture imposante témoignent de quatre mille ans d'histoire ininterrompue.
+
+La cité fut bâtie comme un monument à la gloire de la civilisation nordique naissante — une affirmation de la domination humaine sur une terre autrefois dominée par les Elfes des Neiges. Chaque pierre de ses murs fut posée avec la conscience de construire non pas simplement une ville, mais le berceau d'une civilisation.
+
+## La fondation par Ysgramor
+
+Selon les **Chants du Retour**, **Ysgramor** fonda Vendeaume après avoir achevé sa campagne de conquête contre les Elfes des Neiges qui avaient massacré la colonie de **Saarthal**. Le héros atlétique choisit l'emplacement pour des raisons à la fois stratégiques — contrôle de la Rivière Blanche et accès à la mer — et symboliques : le site marquait approximativement le lieu où ses navires avaient accosté en revenant d'Atmora.
+
+La construction du **Palais des Rois** aurait duré toute la vie d'Ysgramor et de ses fils. La légende veut que les ailés de la Voix aient été utilisés pour tailler la pierre et assembler les blocs, faisant du palais une oeuvre du Thu'um autant que du travail humain. Ysgramor lui-même y mourut de vieillesse, et son tombeau — situé sur une île au large — devint un lieu de pèlerinage sacré.
+
+## Le Palais des Rois
+
+Le **Palais des Rois** est le bâtiment le plus ancien et le plus vénéré de Vendeaume. Sa grande salle, avec son trône de pierre et ses murs ornés de crânes de dragons et de bannières de guerre, incarne la puissance nordique brute. Le palais servit de résidence aux Hauts-Rois de Bordeciel pendant des siècles, avant que la capitale ne soit transférée à **Solitude**.
+
+L'architecture du palais est caractéristique du style nordique ancien : massive, fonctionnelle et imposante. Ses murs de pierre grise sont si épais qu'ils résistent aux assauts du vent glacial d'Estemarche, et ses tours dominent le paysage urbain, visibles depuis des lieues à la ronde. Le **Trône d'Ysgramor** lui-même est taillé dans un seul bloc de pierre — un exploit d'ingénierie pour l'époque.
+
+## Les premières ères
+
+Durant la Première Ère, Vendeaume servit de capitale à un Bordeciel unifié sous ses premiers Hauts-Rois. La ville prospéra grâce au commerce maritime — sa position sur la Rivière Blanche, navigable jusqu'à la mer, en faisait un port fluvial majeur — et à son statut de centre politique et culturel.
+
+Le **Quartier des Elfes Sombres** n'existait pas encore à cette époque ; la ville était exclusivement nordique. Les relations avec les autres races étaient définies par la guerre plutôt que par la cohabitation. Les Elfes des Neiges avaient été exterminés ou chassés sous terre, et les contacts avec les autres races elfiques restaient limités et souvent hostiles.
+
+## L'architecture de la cité
+
+La ville se divise en plusieurs quartiers distincts dont l'agencement reflète des millénaires d'expansion successive. Le **Quartier de la Pierre** (Stone Quarter), au centre, constitue le coeur historique avec ses bâtiments les plus anciens. Le **Quartier du Palais** entoure le Palais des Rois et abrite les résidences nobles. Les murailles extérieures, renforcées à de multiples reprises au fil des siècles, conservent des couches de construction visiblement différentes.
+
+Le célèbre **Pont de pierre** qui enjambe la Rivière Blanche est l'un des ouvrages d'art les plus anciens de Tamriel encore en usage. Sa construction est attribuée aux premiers successeurs d'Ysgramor, et sa longévité témoigne de l'excellence de l'ingénierie nordique primitive.
+
+## Centre politique et guerrier
+
+Vendeaume fut pendant des siècles le lieu où se décidaient les destinées de Bordeciel. Le **Kingsmoot** — l'assemblée des Jarls pour élire un nouveau Haut-Roi — s'y tint à de nombreuses reprises. La tradition veut que seul un dirigeant capable de tenir Vendeaume puisse prétendre au titre de Haut-Roi, faisant de la ville un enjeu politique autant qu'un symbole.
+
+La ville servit également de base de rassemblement pour les grandes expéditions militaires nordiques. Les armées marchant vers le sud contre Cyrodiil, vers l'est contre Morrowind, ou vers les mers contre les envahisseurs akaviri partaient fréquemment de Vendeaume, dont les forges et les casernes pouvaient équiper des milliers de guerriers.
+
+## Le commerce et la prospérité
+
+Malgré son climat rigoureux, Vendeaume prospéra grâce à sa position commerciale stratégique. Le port fluvial permettait l'exportation des richesses du nord de Bordeciel — fourrures, métaux précieux, bois de construction — vers les marchés du sud. En retour, les marchandises de Cyrodiil et de Morrowind remontaient la Rivière Blanche pour alimenter les marchés de la ville.
+
+Les mines d'Estemarche fournissaient fer, acier et pierres précieuses, faisant de Vendeaume un centre métallurgique important. Les armes et armures forgées dans ses ateliers étaient réputées dans tout Bordeciel pour leur solidité, perpétuant la tradition guerrière de la cité.
+
+## Héritage à travers les ères
+
+Vendeaume traversa quatre mille ans d'histoire sans jamais perdre sa pertinence. De la Première Ère — où elle était la capitale d'un jeune royaume nordique — à la Quatrième Ère — où **Ulfric Sombrage** en fit le bastion de sa rébellion contre l'Empire — la ville resta un symbole de l'identité nordique, de la résistance et de la tradition. Ses murs, qui virent passer des centaines de générations, continuent de défier le temps et les tempêtes du nord.

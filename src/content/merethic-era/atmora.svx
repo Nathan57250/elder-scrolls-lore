@@ -1,0 +1,56 @@
+---
+title: "Atmora"
+slug: "atmora"
+era: "merethic-era"
+category: "geographie"
+tags: ["atmora", "nordiques", "atmorans", "ysgramor", "continent-gele", "migration", "merethique"]
+timelineYear: -2000
+summary: "Atmora, le continent gelé au nord de Tamriel, patrie originelle des peuples humains avant les grandes migrations vers Bordeciel."
+sources: ["Songs of the Return", "Before the Ages of Man", "Pocket Guide to the Empire: Atmora", "Frontier, Conquest, and Accommodation"]
+---
+
+## Le continent du nord
+
+**Atmora** est un continent situé au nord de Tamriel, séparé de Bordeciel par la **Mer des Fantômes**. Autrefois terre fertile et peuplée, il est devenu au fil des millénaires un désert glacé et inhabitable, figé dans un hiver éternel qui rendit impossible toute forme de vie civilisée. Atmora est la patrie originelle des peuples humains — ou du moins des ancêtres nordiques des humains de Tamriel.
+
+Le nom « Atmora » signifierait « Bois Ancien » ou « Forêt Ancienne » dans une langue depuis longtemps oubliée — un nom ironique pour un continent désormais dépourvu de toute végétation, prisonnier d'une glaciation perpétuelle. Les dernières expéditions vers Atmora au début de la Première Ère ne trouvèrent que des ruines gelées et des morts figés dans la glace.
+
+## La civilisation atmorane
+
+Avant sa glaciation, Atmora abritait une civilisation humaine complexe. Les **Atmorans** vivaient dans des sociétés claniques organisées autour de chefs de guerre et de traditions orales. Ils étaient des navigateurs accomplis, des guerriers redoutables et des artisans habiles dont le travail du métal atteignait un niveau remarquable pour l'époque.
+
+La culture atmorane était profondément liée à la nature et aux esprits animaux. Le culte des animaux totémiques — le faucon, le serpent, le papillon, le dragon, l'ours et le loup — structurait leur religion et leur organisation sociale. Ces totems se retrouvent dans la culture nordique ultérieure sous la forme des dieux du panthéon nordique : **Kyne** (faucon), **Orkey** (serpent), **Dibella** (papillon), et d'autres.
+
+## Les causes de la glaciation
+
+Les raisons exactes de la glaciation d'Atmora restent débattues par les érudits. Certaines théories avancent un changement climatique naturel — un refroidissement progressif sur des millénaires qui transforma le continent en désert de glace. D'autres hypothèses, plus ésotériques, suggèrent une cause surnaturelle : une malédiction, un effondrement de la stabilité dimensionnelle, ou une conséquence de la Convention qui créa Mundus.
+
+Une théorie particulièrement troublante propose qu'Atmora n'a pas simplement gelé mais s'est figée dans le temps — que le continent est littéralement piégé dans un instant éternel, ni vivant ni mort, mais suspendu. Les rares explorateurs qui en revinrent décrivirent des scènes figées comme des tableaux : des combattants immobilisés en pleine mêlée, des oiseaux arrêtés en plein vol, la mer elle-même solidifiée en vagues permanentes.
+
+## Les migrations vers Tamriel
+
+Les migrations depuis Atmora vers Tamriel s'étalèrent sur des siècles, voire des millénaires. Les premières vagues, bien avant l'Ère Méréthique, amenèrent les ancêtres des **Nédiques** — les proto-humains qui s'installèrent dans tout Tamriel. Ces migrations précoces sont mal documentées et font l'objet de nombreuses spéculations académiques.
+
+La migration la plus célèbre est celle d'**Ysgramor** et de ses **Cinq Cents Compagnons**, qui traversèrent la Mer des Fantômes pour conquérir Bordeciel après le massacre de **Saarthal** par les Elfes des Neiges. Cette expédition, documentée dans les **Chants du Retour**, est considérée comme le moment fondateur de la civilisation nordique sur Tamriel.
+
+## Ysgramor et le Retour
+
+La légende raconte qu'**Ysgramor** fut l'un des premiers Atmorans à s'installer à Tamriel, fondant la colonie de **Saarthal** en Bordeciel. Lorsque les **Falmers** (Elfes des Neiges) massacrèrent la colonie dans un événement connu sous le nom de **Nuit des Larmes** — motivé selon certaines sources par la découverte de l'**Oeil de Magnus** sous la ville — Ysgramor s'enfuit vers Atmora avec ses fils.
+
+Il revint à la tête d'une armée de cinq cents guerriers, les **Compagnons**, et entreprit une campagne d'extermination contre les Elfes des Neiges qui transforma fondamentalement la démographie de Bordeciel. Les Falmers furent chassés de la surface, contraints de chercher refuge sous terre auprès des **Dwemer** — un choix qui les mena à leur dégénérescence.
+
+## Les derniers contacts
+
+Au cours des premiers siècles de la Première Ère, des navires continuèrent de traverser la Mer des Fantômes depuis Atmora, amenant des réfugiés fuyant le froid grandissant. Ces dernières vagues de migration étaient composées de clans de plus en plus désespérés, chassés par un climat devenu proprement invivable.
+
+Les dernières expéditions connues vers Atmora eurent lieu vers 1E 68, lorsque le navire du capitaine **Yngol** — fils d'Ysgramor — fut perdu dans une tempête en tentant la traversée. Après cette date, le voyage devint si dangereux qu'il cessa effectivement. Atmora fut abandonnée à son sort glacial, et le souvenir du continent ancestral se mua progressivement en légende.
+
+## L'héritage culturel
+
+L'influence d'Atmora sur la culture nordique de Bordeciel est immense et durable. Les traditions guerrières, les rites funéraires (notamment les tumulus), l'architecture de pierre massive, le culte des ancêtres et l'importance de l'honneur et de la force physique — tous ces éléments trouvent leurs racines dans la civilisation atmorane.
+
+La langue draconique elle-même — le **Dovahzul** — pourrait avoir ses origines à Atmora, où les dragons régnaient avant même leur domination sur Bordeciel. Le **Culte du Dragon**, qui asservit les premiers Nordiques à leur arrivée sur Tamriel, reproduisait possiblement une structure de pouvoir déjà établie sur le continent d'origine.
+
+## Le mystère persistant
+
+Atmora reste l'un des grands mystères de Nirn. Un continent entier, gelé et silencieux, dont personne ne connaît avec certitude l'état actuel. Existe-t-il encore sous la glace des vestiges de civilisation ? Des âmes figées dans le temps attendent-elles une libération impossible ? Ou le continent a-t-il simplement cessé d'exister, avalé par le même néant qui consume lentement les marges de la Création ? Ces questions resteront peut-être éternellement sans réponse.

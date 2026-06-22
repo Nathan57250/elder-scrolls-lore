@@ -1,0 +1,63 @@
+---
+title: "L'Enclume de Martelfell"
+slug: "lenclume"
+era: "second-era"
+category: "lieux"
+tags: ["martelfell", "rougegarde", "alikr", "chantepees", "couronnes", "devanciers", "thalmor"]
+timelineYear: 420
+summary: "Martelfell, terre aride des Rougegardes, est une province forgee par le desert, les traditions guerrieres et les conflits politiques entre Couronnes et Devanciers."
+sources: ["Pocket Guide to the Empire, 1st Edition", "Erta's Report to Anequina", "The Redguards: Their History and Heroes", "Lord Vivec's Sword-Meeting with Cyrus the Restless"]
+---
+
+![Carte de Tamriel](/images/common/tamriel-map.jpg)
+
+## Martelfell : La Province de l'Enclume
+
+Martelfell, connue jadis sous le nom de Volenfell par les Dwemer qui l'habitaient, est une vaste province situee sur la cote nord-ouest de Tamriel. Bordee par Haute-Roche au nord, Cyrodiil a l'est et la mer d'Abecee a l'ouest, cette terre inhospitaliere abrite l'un des peuples les plus fiers et les plus guerriers du continent : les Rougegardes.
+
+## Les Rougegardes : Guerriers de Yokuda
+
+Les Rougegardes ne sont pas originaires de Tamriel. Leur terre ancestrale, le continent de Yokuda, fut engloutie par les flots lors d'un cataclysme dont les circonstances exactes demeurent debattues par les erudits. Certains affirment qu'un Chantepee rebelle utilisa la Technique Interdite, une frappe d'epee si devastatrice qu'elle fendit l'atome meme de la creation, provoquant la submersion du continent entier.
+
+Les survivants traverserent l'ocean vers Tamriel durant l'Ere Merethique tardive et la Premiere Ere, s'installant dans ce qui deviendrait Martelfell. Leur arrivee ne fut pas pacifique : les Rougegardes durent combattre les populations etablies, notamment les Elfes et les Orques, pour revendiquer ces terres comme les leurs.
+
+## Le Desert d'Alik'r
+
+Au coeur de Martelfell s'etend le desert d'Alik'r, une etendue de sable brulee par le soleil qui s'etire sur des centaines de lieues. Ce desert impitoyable est bien plus qu'un simple obstacle geographique : il est l'ame meme de la province. Les Guerriers de l'Alik'r, ordre d'elite legendaire, tirent leur nom de cette desolation et en font leur terrain d'entrainement.
+
+Sous les dunes se cachent d'innombrables ruines Dwemer et des temples oublies de l'epoque yokudane. Les tempetes de sable peuvent ensevelir des caravanes entieres en quelques minutes, et les creatures du desert — scorpions geants, dunerippers et morts-vivants errants — representent un danger permanent pour les imprudents.
+
+## Les Chantepees : L'Art Perdu de l'Epee
+
+Les Ansei, ou Chantepees, representent la plus haute tradition martiale de Yokuda. Ces guerriers transcendants avaient atteint une telle maitrise de l'epee qu'ils pouvaient materialiser une lame a partir de leur seule volonte spirituelle — la Shehai, ou Esprit-Epee. Cette capacite n'etait pas de la magie au sens conventionnel, mais une discipline de l'ame si pure qu'elle se manifestait dans le monde physique.
+
+La tradition des Chantepees s'est largement perdue lors de la traversee vers Tamriel. Neanmoins, leur heritage impregne chaque aspect de la culture rougegarde. Les ecoles d'epee modernes, bien qu'incapables de manifester la Shehai, perpetuent les formes et philosophies des anciens maitres.
+
+## Couronnes contre Devanciers
+
+La societe rougegarde est profondement divisee entre deux factions politiques dont l'antagonisme remonte a l'arrivee sur Tamriel :
+
+**Les Couronnes** (Na-Totambu) descendent de la noblesse yokudane et des familles royales. Traditionalistes feroces, ils preservent les anciennes coutumes, venerent les dieux yokudans et rejettent l'influence imperiale. Leurs bastions se trouvent principalement dans les cites de Sentinel et dans les regions interieures.
+
+**Les Devanciers** (Ra Gada) descendent de la vague guerriere qui debarqua la premiere sur les cotes de Tamriel. Plus pragmatiques, ils ont adopte de nombreuses coutumes imperiales et favorisent l'integration dans les structures politiques continentales. Dague-Queue et Taneth sont leurs principaux centres de pouvoir.
+
+Ce conflit seculaire a provoque des guerres civiles, des assassinats et des alliances de circonstance qui ont faconne l'histoire de la province durant des millenaires.
+
+## La Resistance au Thalmor
+
+L'evenement le plus marquant de l'histoire recente de Martelfell est son rejet categorique du Concordat de l'Or Blanc. Lorsque l'Empire de Titus Mede II signa ce traite humiliant avec le Domaine Aldmeri a la fin de la Grande Guerre, interdisant le culte de Talos et cedant une partie du territoire, les Rougegardes refuserent de se soumettre.
+
+Martelfell se separa alors de l'Empire et poursuivit seule la guerre contre le Thalmor. Durant cinq annees supplementaires de combats acharnes, les guerriers rougegardes — Couronnes et Devanciers unis pour la premiere fois depuis des generations — infligerent de telles pertes aux forces du Domaine que celui-ci fut contraint de signer un second traite, cette fois aux conditions de Martelfell.
+
+Cette victoire fit de Martelfell la seule province a avoir resiste avec succes au Thalmor, consolidant la reputation legendaire des Rougegardes en tant que guerriers indomptables.
+
+## Geographie et Cites Notables
+
+Au-dela du desert d'Alik'r, Martelfell possede une geographie variee : les montagnes de Dragontail au nord, les plaines fertiles le long de la cote, et les forets tropicales de la region de Hew's Bane au sud. Les cites principales comprennent :
+
+- **Sentinel** : Capitale des Couronnes, majestueuse cite portuaire au nord
+- **Taneth** : Forteresse commerciale des Devanciers au sud
+- **Stros M'Kai** : Ile strategique, scene de la rebellion contre Tiber Septim
+- **Elinhir** : Cite frontiere proche de Cyrodiil, reputee pour ses mages
+
+Martelfell demeure l'une des provinces les plus independantes et les plus farouchement souveraines de tout Tamriel, un testament vivant a la tenacite et a la fierte de son peuple.

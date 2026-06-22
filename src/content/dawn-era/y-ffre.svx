@@ -1,0 +1,56 @@
+---
+title: "Y'ffre, le Narrateur"
+slug: "y-ffre"
+era: "dawn-era"
+category: "aedra"
+tags: ["y-ffre", "bosmer", "pacte-vert", "val-boisé", "nature", "aedra"]
+timelineYear: -99500
+summary: "Y'ffre, le dieu de la forêt et du récit, fixa les formes du monde naturel et établit le Pacte Vert qui régit la vie des Bosmer."
+sources: ["Varieties of Faith", "The Ooze: A Fable", "Aurbic Enigma"]
+---
+
+## Le premier Narrateur
+
+**Y'ffre**, connu également sous le nom de Jephre dans le panthéon impérial, est l'un des **Aedra** les plus importants et pourtant les moins compris par les érudits impériaux. Là où **Akatosh** donna au monde le temps et **Magnus** lui donna la magie, Y'ffre lui donna la forme et la stabilité. Avant son sacrifice, le monde n'avait pas de règles fixes : les êtres changeaient de forme à volonté, la terre coulait comme de l'eau, et rien ne conservait sa nature d'un instant à l'autre.
+
+C'est Y'ffre qui, le premier parmi les et'Ada, se transforma volontairement en lois de la nature. Son corps devint les règles qui gouvernent la croissance des plantes, le cycle des saisons et la fixité des formes biologiques. En se racontant lui-même, en devenant le premier récit, il créa le cadre narratif dans lequel toute existence sur **Nirn** se déroule. C'est pour cette raison que les **Bosmer** l'appellent le Narrateur ou le Conteur.
+
+## Le chaos de l'Ooze
+
+Avant l'intervention d'Y'ffre, les premiers habitants de ce qui deviendrait **Val-Boisé** existaient dans un état de flux perpétuel appelé l'**Ooze**. Cette soupe primordiale de potentialité voyait les êtres se transformer constamment, incapables de maintenir une forme stable. Un elfe pouvait devenir arbre, puis rivière, puis cervidé, sans contrôle ni volonté propre. C'était une existence de terreur et de confusion absolue.
+
+Les récits bosmer décrivent cette période comme un cauchemar collectif. Sans forme fixe, il n'y avait pas d'identité. Sans identité, il n'y avait pas de communauté. Les proto-Bosmer étaient prisonniers d'un flux constant qui leur déniait toute permanence et tout sens. La folie guettait chaque conscience, noyée dans un torrent de transformations involontaires.
+
+C'est de cette horreur primordiale que Y'ffre les sauva. En se sacrifiant pour devenir les lois de la nature, il ancra les formes et donna à chaque être une identité stable. Les arbres restèrent des arbres. Les elfes restèrent des elfes. Le monde acquit enfin une cohérence narrative, une continuité qui permettait l'existence d'une conscience stable et d'une mémoire persistante.
+
+## Le Pacte Vert
+
+En échange de ce don de stabilité, Y'ffre imposa aux **Bosmer** un serment sacré : le **Pacte Vert**. Ce pacte interdit aux elfes des bois de consommer ou de détruire toute matière végétale. Ils ne peuvent couper d'arbres, cultiver de plantes comestibles, ni utiliser le bois pour construire ou faire du feu. En contrepartie, la forêt de Val-Boisé les protège et leur fournit tout ce dont ils ont besoin.
+
+Les implications de ce pacte sont considérables. Les Bosmer sont obligatoirement carnivores, se nourrissant exclusivement de viande et de produits animaux. Leurs constructions sont faites d'os, de cuir, de coquillages et d'autres matériaux non végétaux. Leurs villes les plus célèbres ne sont pas construites mais poussent : ce sont des arbres géants façonnés par la volonté d'Y'ffre lui-même pour abriter ses enfants.
+
+Le Pacte inclut également le **Festin de la Viande**, une tradition qui exige que les Bosmer consomment les corps de leurs ennemis vaincus au combat. Cette pratique cannibaliste horrifie les autres cultures mais constitue pour les Bosmer un devoir sacré envers Y'ffre. Ne pas honorer le Festin serait une offense aussi grave que de couper un arbre vivant.
+
+## Val-Boisé, jardin d'Y'ffre
+
+**Val-Boisé** est bien plus qu'une simple province forestière : c'est le jardin vivant d'Y'ffre, un écosystème entièrement façonné par la volonté divine. Chaque arbre, chaque plante, chaque cours d'eau porte l'empreinte du Narrateur. La forêt est consciente, réactive, et protège activement ses habitants bosmer contre les envahisseurs.
+
+Les **Graht-Chênes** sont l'expression la plus spectaculaire de la puissance d'Y'ffre. Ces arbres titanesques, dont certains atteignent des centaines de mètres de hauteur, se déplacent lentement à travers la forêt, portant sur leurs branches des cités entières. **Falinesti**, l'ancienne capitale marchante des Bosmer, était le plus grand de ces arbres-cités, une merveille vivante qui parcourait Val-Boisé selon les saisons.
+
+La disparition de Falinesti au début de la **Quatrième Ère** fut perçue par beaucoup comme un signe du déclin de l'influence d'Y'ffre. Certains Bosmer croient que l'arbre-cité s'est enfoncé dans les racines du monde pour se protéger d'une menace à venir. D'autres pensent que la rupture croissante du Pacte Vert par les nouvelles générations a affaibli le lien entre Y'ffre et Val-Boisé.
+
+## Le Chantovert et la Wild Hunt
+
+Le pouvoir d'Y'ffre se manifeste également dans deux phénomènes mystiques majeurs. Le **Chantovert** est la capacité de certains Bosmer bénis à communiquer directement avec la forêt, à chanter aux arbres et à comprendre la volonté d'Y'ffre telle qu'elle s'exprime dans la croissance des plantes et le murmure du vent dans les feuilles. Les Chantoverts sont les prêtres et prophètes d'Y'ffre, capables de façonner la végétation sans la détruire.
+
+La **Wild Hunt**, en revanche, représente l'aspect le plus terrifiant du pouvoir d'Y'ffre. Lorsque les Bosmer sont poussés au désespoir, ils peuvent invoquer un rituel ancien qui les ramène à l'état de l'Ooze originel. Ils abandonnent leurs formes fixes et deviennent des monstres changeants, une meute de cauchemar qui détruit tout sur son passage. Chaque Wild Hunt est irréversible : les participants ne retrouvent jamais leur forme originelle.
+
+Cette dualité entre l'ordre du Pacte Vert et le chaos de la Wild Hunt reflète la nature même d'Y'ffre. Le Narrateur n'a pas éliminé l'Ooze ; il l'a simplement contenu sous la surface de la réalité. Et lorsque ce confinement est délibérément brisé, l'ancienne horreur ressurgit avec une violence proportionnelle au temps passé sous contrainte.
+
+## L'héritage vivant
+
+L'influence d'Y'ffre s'étend bien au-delà de Val-Boisé. Chaque écosystème de **Nirn** fonctionne selon les règles qu'il a établies. La croissance des plantes, la migration des animaux, le cycle des saisons, tout cela est l'oeuvre du Narrateur, son récit qui continue de se dérouler même si lui-même s'est fondu dans les lois naturelles.
+
+Les **Wyrd**, sorcières de la nature que l'on trouve dans toute la partie occidentale de Tamriel, vénèrent Y'ffre sous divers noms et cherchent à maintenir l'équilibre de son récit. Les **Druides** de Haute-Roche, descendants d'anciens Bretons qui rejetèrent la civilisation, suivent également ses enseignements, bien que leur interprétation diffère considérablement de celle des Bosmer.
+
+Pour les Bosmer fidèles, Y'ffre n'est pas un dieu distant et silencieux. Il est présent dans chaque feuille qui pousse, chaque rivière qui coule, chaque cycle de vie et de mort dans la forêt. Son récit continue, et chaque être vivant en est un personnage. La mort elle-même n'est qu'un changement de chapitre dans l'histoire sans fin du Narrateur.

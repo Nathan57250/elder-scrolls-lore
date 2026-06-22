@@ -1,0 +1,135 @@
+---
+title: "La Guerre de Bétony"
+description: "Le conflit armé entre les royaumes de Daguefilante et de Sentinelle pour le contrôle de l'île de Bétony, servant de contexte aux événements de Daggerfall"
+slug: guerre-de-betony
+category: "evenements"
+era: "third-era"
+timelineYear: 403
+keywords:
+  - guerre de bétony
+  - daguefilante
+  - sentinelle
+  - roi lysandus
+  - roi gothryd
+  - roi camaron
+  - hauteroche
+  - lenclume
+  - daggerfall
+  - baie d'iliac
+---
+
+## La Guerre de Bétony
+
+La Guerre de Bétony (3E 402-403) fut un conflit armé opposant le royaume de Daguefilante en Hauteroche au royaume de Sentinelle en Lenclume pour la souveraineté sur l'île de Bétony, située dans la Baie d'Iliac. Bien que relativement bref et localisé, ce conflit eut des répercussions politiques considérables et constitue le contexte immédiat des événements relatés dans The Elder Scrolls II: Daggerfall.
+
+## Le Contexte Géopolitique
+
+### La Baie d'Iliac
+
+La Baie d'Iliac est une vaste étendue d'eau bordée à l'est par Hauteroche et au sud par Lenclume. Cette région, l'une des plus densément peuplées et politiquement fragmentées de Tamriel, comptait à l'époque des dizaines de royaumes, duchés et baronnies indépendants ou semi-indépendants. Les rivalités entre ces micro-États étaient constantes et souvent violentes.
+
+### Daguefilante
+
+Le royaume de Daguefilante, situé sur la côte sud de Hauteroche, était l'un des plus puissants États bretons de la Baie d'Iliac. Sous le règne du Roi Lysandus, il cherchait à étendre son influence maritime et à sécuriser les routes commerciales de la baie.
+
+### Sentinelle
+
+Le royaume de Sentinelle, principal État rougegard de la côte nord de Lenclume, était gouverné par le Roi Camaron. Puissance commerciale et militaire, Sentinelle revendiquait historiquement la suzeraineté sur les îles de la baie méridionale, dont Bétony.
+
+### L'Île de Bétony
+
+Bétony est une île relativement petite mais stratégiquement située au centre de la Baie d'Iliac. Son contrôle offre un avantage commercial et militaire considérable, permettant de surveiller le trafic maritime et de prélever des taxes sur les navires de passage.
+
+## Les Causes du Conflit
+
+### Les Revendications Territoriales
+
+Les deux royaumes revendiquaient Bétony sur la base de droits historiques contradictoires. Daguefilante arguait d'anciens traités bretons, tandis que Sentinelle invoquait une occupation rougegarde antérieure. En vérité, la souveraineté de l'île avait changé de mains à de multiples reprises au cours des siècles.
+
+### Les Intérêts Économiques
+
+Au-delà des arguments historiques, les motivations réelles étaient économiques. Le contrôle de Bétony permettait de dominer les routes maritimes les plus lucratives de la baie. Les pêcheries de l'île constituaient également une ressource importante pour les communautés côtières.
+
+### L'Après-Simulacrum
+
+Le conflit s'inscrivait dans le contexte post-Simulacrum. Les dix années de mauvaise gouvernance sous Jagar Tharn avaient affaibli l'autorité impériale et enhardi les souverains locaux. L'Empire n'avait plus la capacité — ni peut-être la volonté — d'imposer la paix entre des royaumes qui se sentaient de plus en plus autonomes.
+
+## Le Déroulement du Conflit
+
+### La Déclaration de Guerre
+
+Le conflit éclata ouvertement en 3E 402 lorsque le Roi Lysandus de Daguefilante affirma publiquement la souveraineté de son royaume sur Bétony. Le Roi Camaron de Sentinelle rejeta cette prétention et mobilisa ses forces. Les tentatives de médiation, notamment par le temple d'Arkay, échouèrent.
+
+### Les Premières Escarmouches
+
+Les premiers engagements furent essentiellement navals, les deux flottes cherchant à contrôler les eaux autour de Bétony. Des raids côtiers frappèrent les villages de pêcheurs des deux camps, et le commerce maritime dans la baie fut gravement perturbé.
+
+### L'Escalade Terrestre
+
+Le conflit s'étendit rapidement au continent. Des armées furent levées de part et d'autre, et les royaumes voisins furent contraints de choisir leur camp. La plupart des États bretons soutinrent Daguefilante par solidarité ethnique, tandis que les seigneurs rougegards se rangèrent majoritairement derrière Sentinelle.
+
+### La Bataille de Cryngaine
+
+Le point culminant de la guerre fut la Bataille de Cryngaine en 3E 403, un affrontement terrestre majeur qui se solda par la victoire de Daguefilante. C'est lors de cette bataille que le Roi Lysandus trouva la mort — un événement dont les circonstances exactes demeurent controversées et dont les conséquences hanteraient littéralement la région pendant des années.
+
+## La Mort du Roi Lysandus
+
+### Les Circonstances Officielles
+
+Selon la version officielle, le Roi Lysandus tomba héroïquement au combat durant la Bataille de Cryngaine, frappé par une flèche ennemie. Cette version fut propagée par la cour de Daguefilante et acceptée par les chroniqueurs officiels.
+
+### La Vérité Cachée
+
+La réalité était bien plus sombre. Lysandus fut en fait assassiné par un complot impliquant Lord Woodborne, un noble de Daguefilante qui convoitait le trône. Ce meurtre déguisé en mort au combat constitue le mystère central des événements de Daggerfall.
+
+### Le Fantôme de Lysandus
+
+L'esprit du Roi Lysandus, furieux d'avoir été assassiné traîtreusement et privé de justice, ne trouva pas le repos. Son fantôme hanta les rues de Daguefilante, terrorisant la population et exigeant vengeance. Ce phénomène surnaturel alerta l'Empereur Uriel Septim VII lui-même.
+
+## Les Conséquences Immédiates
+
+### Le Traité de Reichton
+
+La guerre se conclut par le Traité de Reichton, qui accorda la souveraineté de Bétony à Daguefilante. Le nouveau Roi Gothryd, fils de Lysandus, consolida la victoire de son père et étendit l'influence de Daguefilante dans la baie.
+
+### Le Mariage Dynastique
+
+Pour sceller la paix, un mariage fut arrangé entre le Roi Gothryd de Daguefilante et la Princesse Aubk-i de Sentinelle, fille du défunt Roi Camaron (qui périt également durant la bataille). Cette union dynastique visait à prévenir toute reprise des hostilités.
+
+### Le Ressentiment Rougegard
+
+Malgré le traité et le mariage, le ressentiment demeura vif à Sentinelle et dans les territoires rougegards. La défaite était perçue comme une humiliation nationale, et de nombreuses voix appelèrent à la revanche.
+
+## L'Intervention Impériale
+
+### L'Enquête de l'Empereur
+
+L'Empereur Uriel Septim VII, informé des événements surnaturels à Daguefilante et soucieux de stabiliser la région, envoya un agent personnel pour enquêter. Cet agent — le protagoniste de Daggerfall — avait pour mission officielle de mettre fin à la hantise de Lysandus et pour mission secrète de retrouver une lettre compromettante de l'Empereur.
+
+### Le Totem de Tiber Septim
+
+L'enquête révéla des enjeux bien plus grands que prévu. Le Totem de Tiber Septim, un artefact permettant de contrôler le Numidium — le golem divin des Dwemers — se trouvait quelque part dans la région. Plusieurs factions rivales cherchaient à s'en emparer, menaçant l'équilibre du pouvoir continental.
+
+## Le Miracle de la Paix
+
+### Le Voile de l'Ouest
+
+En 3E 417, un événement métaphysique sans précédent frappa la région de la Baie d'Iliac. Connu sous le nom de Miracle de la Paix ou Voile de l'Ouest, cet événement est lié à l'activation du Numidium. La réalité elle-même sembla se fracturer et se recomposer : des dizaines de micro-royaumes fusionnèrent en quelques États puissants du jour au lendemain.
+
+### Les Conséquences Politiques
+
+Le Miracle de la Paix réduisit drastiquement le nombre d'entités politiques indépendantes dans la Baie d'Iliac. Daguefilante, Sentinelle, Refuge et Orsinium émergèrent comme les puissances dominantes, absorbant les petits royaumes environnants. Ce réalignement mit fin à des siècles de conflits micro-régionaux.
+
+## L'Héritage de la Guerre
+
+### Un Conflit Annonciateur
+
+La Guerre de Bétony, bien que limitée en portée, annonçait le déclin de l'autorité impériale. L'incapacité de l'Empire à prévenir le conflit entre deux de ses vassaux démontrait l'affaiblissement progressif du pouvoir central — un affaiblissement qui culminerait avec la Crise d'Oblivion trente ans plus tard.
+
+### La Mémoire Collective
+
+Dans la mémoire des peuples de la Baie d'Iliac, la Guerre de Bétony reste un symbole de l'absurdité des conflits territoriaux entre voisins. L'île elle-même, objet de tant de sang versé, n'avait en fin de compte qu'une valeur stratégique modeste comparée au coût humain de la guerre.
+
+### Les Leçons Non Retenues
+
+Malgré le Miracle de la Paix et la consolidation politique qui s'ensuivit, les leçons de la Guerre de Bétony ne furent guère retenues. Les rivalités régionales continuèrent de miner l'unité de l'Empire, et l'incapacité des souverains à dépasser leurs intérêts locaux contribua à la fragilité de Tamriel face aux crises à venir.

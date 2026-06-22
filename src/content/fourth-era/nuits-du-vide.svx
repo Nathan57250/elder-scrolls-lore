@@ -1,0 +1,89 @@
+---
+title: "Les Nuits du Vide — Chute des Lunes"
+slug: "nuits-du-vide"
+era: "fourth-era"
+category: "evenements"
+tags: ["nuits du vide", "lunes", "khajiit", "thalmor", "elsweyr", "masser", "secunda"]
+timelineYear: 98
+summary: "Les Nuits du Vide (4E 98-100) furent la disparition inexpliquée des deux lunes de Nirn pendant deux ans, un événement qui permit au Thalmor de coopter les Khajiit et d'absorber Elsweyr."
+sources: ["UESP: Void Nights", "Rising Threat", "The Imperial Library"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## L'Événement
+
+En **4E 98**, les deux lunes de Nirn — **Masser** et **Secunda** — disparurent du ciel nocturne. Pendant **deux ans**, le ciel resta vide la nuit. Aucune explication naturelle ne fut trouvée.
+
+Ce qui, pour la plupart des races, était un phénomène astronomique inquiétant, fut pour les **Khajiit** une **catastrophe existentielle**.
+
+## Pourquoi les Khajiit Furent Dévastés
+
+### La Dépendance Lunaire
+Les lunes ne sont pas de simples astres pour les Khajiit — elles déterminent **leur forme physique** :
+- Le **furespect** (forme corporelle) d'un Khajiit est déterminé par la phase des lunes à sa naissance
+- Les 16+ formes Khajiit (du tigre quadrupède au presque-elfe) dépendent des lunes
+- Sans lunes = **pas de nouvelles naissances viables** (ou naissances de forme indéterminée)
+- La société Khajiit s'organise autour du cycle lunaire
+
+### La Crise Spirituelle
+Pour les Khajiit, Masser et Secunda sont :
+- Les **restes de Lorkhan** (son corps coupé en deux par les Divins)
+- Sacrées dans leur théologie — Jone et Jode
+- La preuve que leur créateur existe
+- Leur disparition = possible mort de Lorkhan = fin des Khajiit en tant que peuple
+
+## Le "Sauvetage" du Thalmor
+
+### La Revendication
+En **4E 100**, les lunes réapparurent. Le **Thalmor** revendiqua immédiatement la responsabilité :
+- Ils affirmèrent avoir utilisé une magie puissante pour **restaurer** les lunes
+- Ils se présentèrent comme les sauveurs du peuple Khajiit
+- Les Khajiit, désespérés et reconnaissants, crurent (ou choisirent de croire)
+
+### La Vérité (Probablement)
+La plupart des analystes du lore suspectent que le Thalmor :
+- **Causa** la disparition des lunes (pas de les avoir restaurées)
+- Utilisa la crise qu'il avait créée pour se poser en sauveur
+- C'est un schéma classique de manipulation : créer le problème, offrir la solution
+- Aucune preuve directe n'existe dans aucune direction
+
+## Les Conséquences
+
+### Absorption d'Elsweyr
+La gratitude des Khajiit permit au Thalmor de :
+- Dissoudre la Confédération d'Elsweyr
+- La diviser en deux royaumes clients : **Anequina** et **Pelletine**
+- Intégrer les deux dans le **Domaine Aldmeri** comme états vassaux
+- Obtenir les guerriers Khajiit comme soldats pour la Grande Guerre future
+
+### Renforcement du Domaine
+Après les Nuits du Vide :
+- Le Domaine contrôle : Alinor + Val-Boisé + Elsweyr
+- C'est un empire massif prêt à défier l'Empire de Cyrodiil
+- Les Khajiit deviennent des soldats et éclaireurs du Domaine
+- En 4E 171, le Domaine est prêt pour la Grande Guerre
+
+## Chaîne Causale
+
+<CausalChain items={[
+  { text: "Thalmor prend le pouvoir sur Alinor (4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor" },
+  { text: "Absorbe Val-Boisé par coup d'état (4E 29)", indent: 1 },
+  { text: "NUITS DU VIDE (4E 98-100) — lunes disparaissent", indent: 1 },
+  { text: "Thalmor \"restaure\" les lunes", indent: 1 },
+  { text: "Khajiit reconnaissants → Elsweyr absorbé (4E 115)", indent: 1 },
+  { text: "Domaine Aldmeri complet → Prêt pour la guerre", indent: 1 },
+  { text: "Grande Guerre (4E 171)", link: "/chronologie/fourth-era/grande-guerre", indent: 1 }
+]} />
+
+## Importance Narrative
+
+Les Nuits du Vide illustrent la **méthode Thalmor** :
+- Pas de conquête brutale (contrairement à l'Empire)
+- **Manipulation**, création de crises, "sauvetage" intéressé
+- Exploitation des vulnérabilités culturelles et spirituelles
+- Patience sur des décennies
+
+C'est la même approche qu'ils utilisent avec le Concordat : affaiblir l'Empire de l'intérieur (interdiction de Talos → division → guerre civile) plutôt que de l'attaquer frontalement.

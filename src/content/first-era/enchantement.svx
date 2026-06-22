@@ -1,0 +1,103 @@
+---
+title: "La Guilde des Mages au Collège de Fortdhiver"
+slug: "enchantement"
+era: "first-era"
+category: "magie"
+tags: ["enchantement", "gemmes d'ame", "azura", "magie", "artefacts", "piege a ames"]
+timelineYear: 500
+summary: "L'enchantement est l'art d'insuffler des propriétés magiques dans les objets via les gemmes d'âme. Discipline controversée car elle emprisonne les âmes des créatures pour alimenter les enchantements."
+sources: ["UESP: Enchanting", "Souls, Black and White", "The Imperial Library"]
+---
+
+## Principes Fondamentaux
+
+L'**enchantement** est la discipline magique permettant d'insuffler des propriétés surnaturelles dans les objets (armes, armures, bijoux, vêtements). Contrairement à l'alchimie (qui utilise des ingrédients naturels), l'enchantement requiert une **gemme d'âme remplie** comme source d'énergie.
+
+### Le Processus
+1. **Capturer** une âme dans une gemme d'âme (via sort "Soul Trap")
+2. **Choisir** un objet à enchanter
+3. **Appliquer** l'enchantement sur une table d'enchantement
+4. L'âme est **consumée** — détruite pour alimenter l'enchantement
+
+## Les Gemmes d'Âme
+
+### Types (par taille)
+| Gemme | Capacité | Âmes contenues |
+|-------|----------|----------------|
+| Petty | Minimale | Mudcrabs, lapins |
+| Lesser | Faible | Loups, squelettes |
+| Common | Moyenne | Sabre cats, trolls |
+| Greater | Élevée | Mammoths, Draugr puissants |
+| Grand | Maximale | Géants, dragons (non-dragon souls) |
+| Black | Toute âme | **Âmes humanoïdes** (controversé) |
+
+### Gemmes Noires
+Les **Black Soul Gems** sont les seules à pouvoir contenir des âmes **humanoïdes** :
+- Considérées comme de la nécromancie
+- Illégales dans la plupart des juridictions
+- Fabriquées lors de rituels nécromantiques
+- L'Étoile d'Azura corrompue (Étoile Noire) fonctionne comme une gemme noire réutilisable
+- Le Piège à Âmes sur un humanoïde sans gemme noire échoue
+
+## Éthique et Controverse
+
+### Le Débat
+- Les âmes animales sont-elles "moins importantes" que les humanoïdes ?
+- L'enchantement détruit-il l'âme ou la libère-t-il après épuisement ?
+- La hiérarchie Blanc/Noir est-elle arbitraire ?
+- Les Dunmer pratiquent l'enchantement avec des gemmes noires sans tabou
+
+### Position de la Guilde des Mages
+- Les gemmes blanches : acceptées universellement
+- Les gemmes noires : interdites officiellement
+- En pratique : beaucoup de mages les utilisent discrètement
+- L'Ordre des Vers (Mannimarco) les utilise ouvertement
+
+## L'Art de l'Enchantement
+
+### Enchantements d'Armes
+- Dommages de feu, givre, foudre
+- Absorption de santé/magicka/stamina
+- Paralysie
+- Soul Trap intégré
+- Peur, Terreur
+- Bannissement de Daedra
+
+### Enchantements d'Armures
+- Résistance aux éléments
+- Fortification de compétences
+- Résistance à la magie
+- Muffle (silence des pas)
+- Respiration aquatique
+- Régénération
+
+### Enchantements de Bijoux
+- Fortification de magicka/santé/stamina
+- Résistance aux poisons
+- Amélioration de l'éloquence (Persuasion)
+- Prix des objets (Marchandage)
+
+## Maîtres Enchanteurs Notables
+
+- **Les Telvanni** — mages Dunmer maîtrisant l'enchantement avancé
+- **Les Dwemer** — enchantements mécaniques uniques (perdus)
+- **Neloth** (Tel Mithryn) — considéré comme l'un des plus grands enchanteurs vivants
+- **Les Psijiques** — enchantements subtils et puissants
+
+## Tables d'Enchantement
+
+En Bordeciel, les tables d'enchantement se trouvent :
+- Dans les Collèges de magie (Fortdhiver)
+- Chez certains mages de cour (Palais)
+- Dans les halls de Jarls (Dragonsreach)
+- Dans certaines forteresses abandonnées
+- Construisibles dans les demeures du Dovahkiin
+
+## Désenchantement
+
+Le **désenchantement** détruit un objet enchanté pour :
+- Apprendre l'enchantement qu'il portait
+- Permettre de reproduire cet enchantement
+- L'objet est détruit dans le processus
+- L'enchantement appris peut être appliqué à d'autres objets
+- Certains enchantements uniques ne peuvent pas être appris

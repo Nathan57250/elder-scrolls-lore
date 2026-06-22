@@ -1,0 +1,116 @@
+---
+title: "La Morag Tong"
+slug: "morag-tong"
+era: "second-era"
+category: "guildes"
+tags: ["morag-tong", "mephala", "morrowind", "assassins", "confrérie-noire", "dunmer", "exécutions-légales"]
+timelineYear: 324
+summary: "Guilde d'assassins légaux de Morrowind sanctionnée par le culte de Mephala, la Morag Tong opère par mandats d'exécution officiels depuis des millénaires."
+sources: ["UESP: Morag Tong", "Fire and Darkness", "ESO Lore", "The Brothers of Darkness"]
+---
+
+## Nature et Philosophie
+
+La **Morag Tong** (littéralement « Guilde des Ancêtres » en dunmeris) est la plus ancienne guilde d'assassins connue de Tamriel. Contrairement aux meurtriers ordinaires, les membres de la Morag Tong exercent un **assassinat sanctionné par la loi** — un concept unique à la culture dunmer de Morrowind.
+
+Leur philosophie repose sur un principe paradoxal : le meurtre ciblé prévient la guerre. En éliminant des individus spécifiques selon des contrats légaux, la Morag Tong évite les conflits de grande échelle entre les Grandes Maisons de Morrowind.
+
+## Origines et Patronne Daedrique
+
+### Mephala, la Tisseuse
+
+La Morag Tong vénère **Mephala**, le Prince Daedrique des secrets, du meurtre, et des complots. Dans le panthéon dunmer, Mephala est l'un des trois « Bons Daedra » (avec Azura et Boéthia), contrairement aux quatre « Mauvais Daedra ».
+
+Mephala enseigna aux Chimer (ancêtres des Dunmer) l'art du meurtre comme outil politique. Pour la Morag Tong, tuer n'est pas un péché mais un **acte sacré** — une offrande à la Tisseuse qui maintient l'équilibre des intrigues.
+
+### Ancienneté
+
+Les origines exactes de la Morag Tong se perdent dans la nuit des temps. Certaines sources suggèrent qu'elle existait déjà à l'**Ère Méréthique**, bien avant la fondation de Morrowind elle-même. La guilde précède toutes les institutions politiques dunmer actuelles.
+
+## Les Mandats d'Exécution
+
+### Fonctionnement Légal
+
+Le système des **mandats** (*writs of execution*) est au cœur de l'activité de la Morag Tong :
+
+1. Un commanditaire (généralement un noble ou un chef de Maison) dépose une requête
+2. Le **Maître de Guilde** évalue la légitimité de la demande
+3. Un mandat officiel est rédigé, portant le sceau de la Morag Tong
+4. Un assassin est assigné à la mission
+5. Après l'exécution, l'assassin **présente son mandat** aux autorités
+
+### Immunité Légale
+
+Le point crucial : un assassin de la Morag Tong portant un mandat valide **ne peut pas être poursuivi** pour meurtre en Morrowind. S'il est arrêté, il présente son mandat et est immédiatement libéré. Ce système est reconnu par :
+
+- Le Tribunal (avant sa chute)
+- Les Grandes Maisons
+- Les autorités impériales (à contrecœur, durant l'occupation)
+
+### Règles Strictes
+
+La Morag Tong impose des règles sévères à ses membres :
+
+- **Pas de victimes collatérales** — Seule la cible nommée peut être tuée
+- **Pas de témoins éliminés** — Discrétion absolue ou assumer le meurtre
+- **Pas de contrats personnels** — L'assassin ne choisit jamais sa cible
+- **Obéissance au Maître de Guilde** — Insubordination punie de mort
+
+## Organisation
+
+### Structure Hiérarchique
+
+| Rang | Fonction |
+|------|----------|
+| Maître de Guilde | Chef suprême, interprète de la volonté de Mephala |
+| Maître Exécuteur | Superviseur régional |
+| Frappe Noire | Assassin d'élite |
+| Ombrage | Membre confirmé |
+| Finisseur | Praticien |
+| Associé | Nouveau membre |
+
+### Lieux d'Opération
+
+La Morag Tong opère principalement en Morrowind, avec des repaires dissimulés dans :
+
+- **Vivec** — Le quartier général principal (avant la destruction de la cité)
+- **Ald'ruhn** — Sous la carapace du crabe empereur
+- **Sadrith Mora** — Parmi les tours champignon des Telvanni
+- **Balmora** — Dans les bas-quartiers de la ville
+
+## Rivalité avec la Confrérie Noire
+
+### La Scission
+
+La **Confrérie Noire** (*Dark Brotherhood*) est née d'une **scission** au sein de la Morag Tong durant la Deuxième Ère. Un groupe de dissidents rejeta l'autorité de Mephala pour se tourner vers **Sithis** et la **Mère de la Nuit**.
+
+### Différences Fondamentales
+
+| Aspect | Morag Tong | Confrérie Noire |
+|--------|-----------|-----------------|
+| Patronne | Mephala | Sithis / Mère de la Nuit |
+| Légalité | Légale en Morrowind | Illégale partout |
+| Contrats | Mandats officiels | Prière au Sacrement Noir |
+| Portée | Morrowind uniquement | Tout Tamriel |
+| Victimes collatérales | Interdites | Tolérées |
+| Philosophie | Outil politique | Culte de la mort |
+
+### Guerre des Ombres
+
+La Morag Tong considère la Confrérie Noire comme une **hérésie** et une perversion de leur art sacré. Durant des siècles, les deux organisations se livrèrent une guerre souterraine, chacune tentant d'éliminer les dirigeants de l'autre.
+
+En **2E 324**, la Morag Tong fut brièvement interdite dans tout l'Empire après l'assassinat du Potentát Versidue-Shaie — un acte attribué (peut-être faussement) à la guilde. Cette interdiction favorisa l'expansion de la Confrérie Noire dans les autres provinces.
+
+## Déclin et Survie
+
+### Les Catastrophes de Morrowind
+
+La Morag Tong subit des pertes considérables lors des catastrophes de la Quatrième Ère :
+
+- L'**Année Rouge** (4E 5) — L'éruption du Mont Écarlate dévasta Vvardenfell
+- L'**invasion argonienne** — Les anciens esclaves envahirent le sud de Morrowind
+- La chute du Tribunal — La perte du soutien théocratique
+
+### Persistance
+
+Malgré ces épreuves, la Morag Tong n'a jamais été officiellement dissoute. Des rumeurs persistent d'assassins portant encore les mandats de Mephala dans les ruines de Morrowind, maintenant vivante une tradition vieille de plusieurs millénaires. Tant que les Grandes Maisons intrigueront, la Tisseuse aura besoin de ses lames.

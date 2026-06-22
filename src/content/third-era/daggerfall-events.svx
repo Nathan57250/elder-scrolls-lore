@@ -1,0 +1,88 @@
+---
+title: "Les événements de TES: Daggerfall"
+slug: "daggerfall-events"
+era: "third-era"
+category: "evenements"
+tags: ["daggerfall", "totem-tiber-septim", "numidium", "warp-in-the-west", "haute-roche", "mantella"]
+timelineYear: 417
+summary: "Les événements entourant la redécouverte du Numidium et le Warp in the West, fracture temporelle qui redessina la Baie d'Iliac."
+sources: ["Le Warp de l'Ouest", "Le Totem de Tiber Septim", "Bref historique de l'Empire", "La Déformation de l'Ouest"]
+---
+
+## La Baie d'Iliac : un chaudron politique
+
+La **Baie d'Iliac**, située entre **Haute-Roche** et **Lenclume**, était à la fin de la Troisième Ère un territoire d'une complexité politique extraordinaire. Des dizaines de royaumes, duchés, baronnies et cités-États brétons et rougegardes s'y disputaient l'influence dans un jeu d'alliances et de trahisons permanent.
+
+Au cœur de ce chaos politique se trouvaient les grandes puissances régionales : le royaume de **Daguefilante**, le royaume de **Sentinelle**, le royaume de **Camuse**, la cité-état de **Frémarche** et l'éternellement disputé **Orsinium** des Orques. Chacune cherchait à étendre son influence aux dépens des autres.
+
+C'est dans ce contexte que l'Empereur **Uriel Septim VII**, encore marqué par son emprisonnement durant le **Simulacrum Impérial**, envoya un agent — le futur **Héros de Daggerfall** — enquêter sur un mystère aux implications continentales.
+
+## La mission secrète de l'Empereur
+
+La mission officielle de l'agent impérial était d'enquêter sur le fantôme du roi **Lysandus** de Daguefilante, dont le spectre hantait les rues de la ville en réclamant vengeance. Mais la véritable raison de la présence de l'agent était bien plus grave.
+
+Uriel Septim VII avait appris que le **Totem de Tiber Septim** — l'artefact permettant de contrôler le **Numidium**, le colossal golem dwemer — avait été localisé quelque part dans la région de la Baie d'Iliac. Le Numidium, utilisé autrefois par **Tiber Septim** pour conquérir Tamriel, représentait un pouvoir capable de redessiner la carte politique du continent.
+
+L'Empereur voulait récupérer le Totem avant que l'une des factions locales ne s'en empare. Mais il n'était pas le seul à le chercher — pratiquement tous les pouvoirs de la région avaient des agents en quête de l'artefact.
+
+## Le Numidium et le Totem
+
+Le **Numidium** — aussi appelé Anumidium ou Golem de Laiton — est la plus formidable arme jamais créée sur Tamriel. Conçu par les **Dwemer** et alimenté originellement par le **Cœur de Lorkhan**, il fut achevé par Tiber Septim avec une source d'énergie de substitution : le **Mantella**, une gemme d'âme contenant l'essence du mage de guerre **Zurin Arctus**.
+
+Le **Totem de Tiber Septim** est la clé de contrôle du Numidium — sans lui, le golem est une machine inerte. Tiber Septim avait utilisé le Numidium pour conquérir l'Archipel de l'Automne et unifier Tamriel, avant que la machine ne soit désactivée et cachée.
+
+La réactivation du Numidium offrirait à son détenteur un pouvoir militaire absolu — de quoi conquérir n'importe quel territoire ou écraser n'importe quel ennemi. Les enjeux de cette quête étaient donc littéralement le destin du continent.
+
+## Les factions en jeu
+
+De nombreuses factions rivalisaient pour s'emparer du Totem :
+
+L'**Empire** d'Uriel Septim VII cherchait à sécuriser l'artefact pour empêcher qu'une puissance régionale ne déstabilise l'équilibre continental.
+
+Le royaume de **Daguefilante**, sous la reine **Mynisera**, voulait le Totem pour affirmer sa suprématie sur la Baie d'Iliac.
+
+Le royaume de **Camuse** et ses alliés y voyaient un moyen de briser l'hégémonie de Daguefilante.
+
+L'**Ordre du Temple** (Underking), un nécromancien d'une puissance terrifiante identifié comme **Zurin Arctus** — ou peut-être **Wulfharth** — cherchait le Mantella pour mettre fin à sa propre existence maudite.
+
+Le roi de **Sentinelle** et le roi d'**Orsinium** avaient chacun leurs propres ambitions pour le Numidium.
+
+## Le Héros de Daggerfall
+
+Le **Héros de Daggerfall** — agent impérial dont le véritable nom est inconnu — navigua dans ce réseau d'intrigues pendant des mois, enquêtant sur le meurtre de Lysandus, traquant le Totem et survivant aux tentatives d'assassinat de multiples factions.
+
+Son enquête révéla la vérité sur la mort de Lysandus (un complot politique plutôt qu'une mort au combat), la localisation du Totem dans les profondeurs d'un donjon ancien, et les véritables intentions de chaque faction.
+
+Le moment décisif survint lorsque l'agent parvint à récupérer le Totem. Face à lui se présentait un choix impossible : à qui le remettre ? Chaque faction offrait des arguments et des récompenses, mais aucune ne garantissait un résultat positif pour Tamriel dans son ensemble.
+
+## Le Warp in the West
+
+Ce qui se passa ensuite est l'un des événements les plus mystérieux et les plus débattus de l'histoire de Tamriel : le **Warp in the West** (Déformation de l'Ouest), aussi appelé le « Miracle de la Paix ».
+
+Le 10 Hautesoleil 417 de la Troisième Ère, une fracture temporelle frappa la région de la Baie d'Iliac. L'espace et le temps se déformèrent, et lorsque la réalité se restabilisa, le paysage politique avait été radicalement transformé — comme si **plusieurs** résultats contradictoires s'étaient produits simultanément.
+
+Les dizaines de petits royaumes de la Baie furent consolidés en quatre grandes puissances : Daguefilante, Sentinelle, Camuse et Orsinium. Le Numidium semble avoir été activé — peut-être plusieurs fois, dans des réalités parallèles — avant d'être détruit ou désactivé.
+
+L'**Underking** trouva enfin le repos, le Mantella lui étant restitué. L'Empereur affirma avoir sécurisé le Totem. Le roi d'Orsinium proclama l'indépendance orque. Toutes ces issues contradictoires semblent avoir coexisté grâce au Warp.
+
+## Les théories sur le Warp
+
+Plusieurs explications ont été avancées pour le Warp in the West :
+
+La théorie du **Dragon Break** — une fracture dans le temps similaire à celle qui se produisit lors de l'activation du Numidium par Tiber Septim — est la plus acceptée. Le temps se serait littéralement fragmenté en réalités parallèles avant de se réunifier.
+
+Certains érudits de l'**Ordre Psijique** suggèrent que le Numidium, en raison de sa nature de « dieu artificiel », déstabilise la réalité par sa simple activation, créant des paradoxes temporels.
+
+D'autres théoriciens proposent que les **Princes Daedra** ou les **Aedra** eux-mêmes intervinrent pour empêcher qu'un seul pouvoir mortel ne domine grâce au Numidium.
+
+## Les conséquences durables
+
+Le Warp in the West eut des conséquences profondes :
+
+La consolidation politique de la Baie d'Iliac mit fin à des siècles de micro-guerres entre baronnies. Quatre nations stables remplacèrent des dizaines d'États fragiles — un résultat que beaucoup considèrent comme positif malgré la violence de la transition.
+
+**Orsinium** obtint une reconnaissance officielle comme nation souveraine, un accomplissement historique pour le peuple **Orque** après des siècles de persécution.
+
+La destruction apparente du Numidium élimina — du moins temporairement — la menace qu'un pouvoir mortel utilise cette arme pour dominer Tamriel.
+
+L'événement renforça paradoxalement l'autorité impériale : dans le chaos du Warp, l'Empire se présenta comme la seule force stabilisatrice, consolidant sa légitimité auprès des nouvelles nations de la Baie.

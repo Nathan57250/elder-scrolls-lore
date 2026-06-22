@@ -1,0 +1,128 @@
+---
+title: "L'Accomplissement de la Prophétie du Nérévar"
+description: "L'arrivée du Nérévarine en Morrowind, la destruction du Cœur de Lorkhan et la chute du Tribunal en 3E 427"
+era: "third-era"
+category: "evenements"
+timelineYear: 427
+tags: ["nerevarine", "morrowind", "dagoth-ur", "tribunal", "azura", "coeur-de-lorkhan", "vivec", "red-mountain"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# L'Accomplissement de la Prophétie du Nérévar (3E 427)
+
+En l'an 427 de la Troisième Ère, un prisonnier anonyme arriva à Morrowind et accomplit la Prophétie du Nérévarine — une prophétie vieille de plusieurs millénaires annonçant la réincarnation d'Indoril Nerevar. Cet événement provoqua la destruction du Cœur de Lorkhan, la chute de Dagoth Ur, et enclencha une cascade de conséquences qui culminerait avec l'Année Rouge, la plus grande catastrophe de l'histoire de Morrowind.
+
+## Origines et Causes
+
+### La Bataille de la Montagne Rouge (1E 700)
+
+Les racines de cette prophétie plongent dans l'Ère Première. Lors de la Bataille de la Montagne Rouge, les Chimers d'Indoril Nerevar affrontèrent les Dwemer de Dumac pour le contrôle du Cœur de Lorkhan — le cœur divin d'un dieu mort, source d'une puissance incommensurable, caché sous la Montagne Rouge.
+
+Nerevar avait obtenu de ses conseillers — Vivec, Almalexia, Sotha Sil — et de son général Voryn Dagoth le serment de ne jamais utiliser les Outils de Kagrenac sur le Cœur. Pourtant, après la disparition des Dwemer et la mort de Nerevar dans des circonstances troubles, les trois conseillers trahirent ce serment. Ils utilisèrent les Outils — Keening, Sunder et Wraithguard — pour puiser la puissance du Cœur et s'élever au rang de dieux vivants.
+
+### La Malédiction d'Azura
+
+Azura, Prince Daedra patronne des Chimers et protectrice de Nerevar, découvrit la trahison. Furieuse de voir ses fidèles briser leur serment le plus sacré, elle prononça une double malédiction. Les Chimers furent transformés physiquement — leur peau dorée devint cendrée, leurs yeux devinrent rouges. Ils devinrent les Dunmers, les Elfes Noirs. Et Azura prophétisa que Nerevar reviendrait pour rétablir la justice et punir les parjures.
+
+Le Tribunal — Vivec, Almalexia et Sotha Sil — nia publiquement la malédiction et réécrivit l'histoire. Selon leur version, la transformation était une bénédiction, et les événements de la Montagne Rouge s'étaient déroulés différemment. Pendant des millénaires, cette version officielle prévalut.
+
+### L'Éveil de Dagoth Ur
+
+Voryn Dagoth, que tous croyaient mort lors de la Bataille de la Montagne Rouge, avait en réalité survécu. Exposé au Cœur de Lorkhan, il était devenu autre chose — Dagoth Ur, un être d'une puissance terrible. Pendant des siècles, il demeura dormant sous la Montagne Rouge, se nourrissant lentement du Cœur.
+
+À partir de 2E 882 environ, Dagoth Ur s'éveilla pleinement. Il reprit le contrôle de la Montagne Rouge et de ses citadelles environnantes, repoussant les forces du Tribunal. Il commença la construction d'Akulakhan, un Second Numidium — un golem divin alimenté par le Cœur qui lui aurait donné le pouvoir de conquérir tout Tamriel.
+
+Pire encore, sa volonté commença à se répandre à travers les rêves des Dunmers sous forme de la Maladie Corprus et du Fléau, transformant les victimes en monstres dévoués à sa cause. Le Ghostfence, une barrière magique maintenue par le Tribunal, contenait à peine cette menace grandissante.
+
+### L'affaiblissement du Tribunal
+
+Le contrôle de la Montagne Rouge par Dagoth Ur privait le Tribunal de son accès au Cœur de Lorkhan. Sans possibilité de renouveler leur connexion divine, les trois dieux vivants perdaient progressivement leurs pouvoirs. Vivec maintenait Baar Dau — un météore géant suspendu au-dessus de Vivec City par sa seule volonté — mais combien de temps pourrait-il encore le retenir ?
+
+Le Temple du Tribunal, institution religieuse dominante de Morrowind, persécutait activement les « Dissidents » qui croyaient en la Prophétie du Nérévarine. Mais les signes se multipliaient : les rêves envoyés par Dagoth Ur, l'affaiblissement visible des Dieux Vivants, les failles dans le Ghostfence.
+
+### La machination de l'Empereur
+
+Uriel Septim VII, l'Empereur de Tamriel, était un homme de visions prophétiques. Guidé par les Parchemins des Anciens et ses propres pressentiments, il orchestra l'envoi d'un prisonnier spécifique vers Morrowind — un individu né sous certains signes, correspondant aux critères de la prophétie. L'Empereur voyait dans le Nérévarine un outil pour résoudre la crise de Dagoth Ur tout en affermissant le contrôle impérial sur cette province rebelle.
+
+## L'Événement : L'Accomplissement de la Prophétie
+
+### L'arrivée du prisonnier
+
+Le prisonnier débarqua au port de Seyda Neen, libéré par décret impérial avec pour mission secrète de contacter Caius Cosades, agent des Lames. Officiellement un affranchi ordinaire, il portait en lui le potentiel d'accomplir — ou d'échouer — la prophétie millénaire.
+
+### Les épreuves du Nérévarine
+
+L'accomplissement de la prophétie exigeait que le candidat prouve son identité à travers une série d'épreuves définies par les « Sept Visions » et les « Paroles Perdues ». Le prisonnier devait :
+
+- Être reconnu par les tribus Cendraises comme le Nérévarine
+- Être reconnu par les Grandes Maisons comme Hortator (champion de guerre)
+- Survivre au Corprus et en être guéri — prouvant qu'il était immunisé au pouvoir de Dagoth Ur
+- Obtenir les Outils de Kagrenac : Wraithguard, Keening et Sunder
+
+Chaque étape impliquait des épreuves mortelles, des négociations politiques complexes et la confrontation avec des forces hostiles. Le Temple envoya ses assassins, les partisans de Dagoth Ur cherchèrent à le corrompre par les rêves, et de nombreux « faux Nérévarines » avaient échoué avant lui.
+
+### La rencontre avec Vivec
+
+Dans un moment crucial, le Nérévarine rencontra Vivec lui-même. Le Dieu-Poète, affaibli et peut-être las de ses millénaires de mensonges, reconnut la réalité de la prophétie. Il remit au Nérévarine Wraithguard et lui expliqua comment utiliser les Outils sur le Cœur. C'était un aveu implicite de sa propre trahison originelle — le dieu acceptant le jugement d'Azura.
+
+### La destruction du Cœur de Lorkhan
+
+Le Nérévarine pénétra dans les profondeurs de la Montagne Rouge, traversa les citadelles de Dagoth Ur et atteignit la chambre du Cœur. Là, il affronta Dagoth Ur — non pas par la seule force des armes, mais par l'utilisation des Outils de Kagrenac sur le Cœur lui-même.
+
+En frappant le Cœur avec Sunder puis en le touchant avec Keening, le Nérévarine ne détruisit pas le Cœur — il le libéra. Le Cœur de Lorkhan disparut de la réalité physique, privant simultanément Dagoth Ur de sa source de puissance. Le dieu fou s'effondra, et avec lui toute son armée de créatures corrompues et ses grands projets de conquête.
+
+Akulakhan, le Second Numidium à peine achevé, s'effondra dans la lave de la Montagne Rouge. La menace existentielle qui pesait sur Tamriel fut annihilée.
+
+## Conséquences
+
+### La chute du Tribunal
+
+La destruction du Cœur priva définitivement le Tribunal de toute possibilité de renouveler ses pouvoirs divins. Les trois Dieux Vivants devinrent mortels — ou du moins, commencèrent un déclin irréversible.
+
+Sotha Sil, reclus dans sa Cité Mécanique depuis des années, fut assassiné par Almalexia qui sombrait dans la folie. Almalexia elle-même, démente et désespérée, tenta de tuer le Nérévarine avant d'être vaincue. Vivec, le plus énigmatique des trois, disparut simplement. Les chroniques divergent sur son sort — certains disent qu'il fut emmené par les Daedra, d'autres qu'il transcenda la réalité.
+
+### L'instabilité de Baar Dau
+
+La disparition de Vivec eut une conséquence catastrophique différée. Le météore Baar Dau, suspendu au-dessus de Vivec City depuis des siècles par la seule volonté du Dieu-Poète, n'avait plus rien pour le retenir. Les Ingénieurs du Temple tentèrent de maintenir la roche en place par des moyens magiques ordinaires, mais ces solutions n'étaient que temporaires.
+
+### La fin du Temple du Tribunal
+
+L'institution religieuse dominante de Morrowind perdit sa raison d'être. Les Dieux Vivants qu'elle adorait étaient morts, fous ou disparus. Le culte des Réclamations — les « vrais » Daedra de Morrowind (Azura, Boéthia, Méphala) — commença son retour, tout comme le respect pour les ancêtres et les traditions cendraises.
+
+### Le chemin vers l'Année Rouge
+
+La chaîne causale se poursuivit inexorablement. En 4E 5, les dispositifs magiques maintenant Baar Dau échouèrent définitivement. Le météore s'écrasa sur Vivec City avec une force apocalyptique, provoquant l'éruption de la Montagne Rouge. Cet événement — l'Année Rouge — dévasta la majeure partie de Morrowind, tuant des centaines de milliers de Dunmers et détruisant leur civilisation.
+
+### Implications métaphysiques
+
+La disparition du Cœur de Lorkhan de la réalité physique eut des répercussions sur la structure même de Mundus. Le Cœur était l'un des piliers de la création — sa libération affecta les fondements du monde d'une manière que même les plus grands mages ne comprennent pas entièrement.
+
+## Chaîne Causale
+
+<CausalChain items={[
+  { text: "Trahison du Tribunal (1E 700) + Malédiction d'Azura", link: "/chronologie/first-era/bataille-montagne-rouge" },
+  { text: "Prophétie du Nérévarine annoncée" },
+  { text: "Éveil de Dagoth Ur (2E 882)", link: "/chronologie/third-era/dagoth-ur" },
+  { text: "Maladie Corprus + Construction d'Akulakhan", indent: 1 },
+  { text: "Visions d'Uriel Septim VII → Envoi du Prisonnier (3E 427)" },
+  { text: "Épreuves + Reconnaissance comme Nérévarine" },
+  { text: "DESTRUCTION DU CŒUR DE LORKHAN" },
+  { text: "Mort de Dagoth Ur", indent: 1 },
+  { text: "Chute du Tribunal", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "Fin de la menace d'Akulakhan", indent: 1 },
+  { text: "Disparition de Vivec", link: "/chronologie/first-era/vivec", indent: 2 },
+  { text: "Baar Dau instable", indent: 3 },
+  { text: "ANNÉE ROUGE (4E 5)", link: "/chronologie/fourth-era/annee-rouge" },
+  { text: "Destruction de Morrowind", indent: 1 },
+  { text: "Exode Dunmer", indent: 1 },
+  { text: "Invasion Argonienne", indent: 1 }
+]} />
+
+## Réflexion sur la Causalité
+
+La Prophétie du Nérévarine illustre un paradoxe fondamental de Tamriel : les prophéties causent-elles les événements, ou les événements causent-ils les prophéties ? Azura annonça le retour de Nerevar parce que le Tribunal avait trahi — mais le Tribunal fut puni parce que la prophétie existait. L'Empereur envoya le prisonnier parce qu'il connaissait la prophétie — mais la prophétie s'accomplit parce que l'Empereur envoya le prisonnier.
+
+Ce qui est certain, c'est que la chaîne causale initiée par la trahison de 1E 700 ne s'acheva véritablement qu'avec l'Année Rouge de 4E 5 — plus de trois mille ans de conséquences en cascade, déclenchées par un unique acte de parjure au sommet de la Montagne Rouge.

@@ -1,0 +1,124 @@
+---
+title: "Les Impériaux — Peuple de l'Empire"
+slug: "imperiaux"
+era: "dawn-era"
+category: "races"
+tags: ["imperiaux", "cyrodiil", "empire", "diplomatie", "commerce", "coloviens", "nibenais"]
+timelineYear: 0
+summary: "Les Impériaux sont le peuple humain de Cyrodiil, bâtisseurs de trois empires successifs. Diplomates, commerçants et administrateurs nés, ils unirent Tamriel par la parole autant que par l'épée."
+sources: ["UESP: Imperials", "Pocket Guide to the Empire", "The Arcturian Heresy"]
+---
+
+## Présentation
+
+Les **Impériaux** (aussi appelés Cyrodiiliens) sont la race humaine native de **Cyrodiil** — le cœur géographique et politique de Tamriel. Ils ne sont ni les plus forts guerriers ni les plus grands mages, mais ils excellant dans ce qui construit les empires : la **diplomatie**, le **commerce**, la **loi** et l'**administration**.
+
+Trois empires successifs témoignent de leur génie organisationnel.
+
+## Sous-Groupes
+
+Les Impériaux se divisent en deux sous-cultures :
+
+### Les Coloviens (Ouest)
+- Guerriers et fermiers pragmatiques
+- Culture austère et martiale
+- Plus proches des Nordiques en tempérament
+- Villes : Skingrad, Chorrol, Kvatch
+- Fournissent la majorité des légionnaires
+
+### Les Nibenais (Est)
+- Marchands, bureaucrates et mages
+- Culture raffinée et cosmopolite
+- Commerce fluvial sur le Niben
+- Villes : Bravil, Leyawiin, Cheydinhal
+- Fournissent la majorité des administrateurs et diplomates
+
+## Les Trois Empires
+
+### L'Empire Alessien (1E 243-2200+)
+- Fondé par **Alessia** après la révolte contre les Ayléides
+- Premier empire humain de Tamriel
+- Théocratie (Ordre Alessien)
+- Tombé dans le fanatisme religieux
+
+### L'Empire Reman (1E 2703 - 2E 430)
+- Fondé par **Reman Cyrodiil**
+- Intégration des Akaviri (devenant les Lames)
+- Conquête de presque tout Tamriel (sauf Morrowind)
+- Chute avec l'assassinat de Reman III
+
+### L'Empire Septim (2E 854 - 4E 0)
+- Fondé par **Tiber Septim**
+- Le plus vaste et le plus durable
+- Conquête de TOUT Tamriel (y compris Morrowind)
+- Chute avec l'assassinat d'Uriel Septim VII et Martin
+
+### L'Empire Mede (4E 17 - ?)
+- Fondé par **Titus Mede** (usurpateur)
+- Empire affaibli, amputé de provinces
+- Signataire du Concordat de l'Or Blanc
+- Statut actuel : en déclin
+
+## Culture
+
+### La Loi et l'Ordre
+- La **Loi Impériale** est le fondement de la civilisation pour les Impériaux
+- Le système juridique impérial est le plus développé de Tamriel
+- Les contrats, traités et accords sont sacrés
+- "La plume est plus puissante que l'épée" — credo impérial
+
+### Le Commerce
+- Les Impériaux sont des marchands nés
+- La **Septim** (pièce d'or) est la monnaie universelle de Tamriel
+- Les guildes commerciales ont leur siège à Cyrodiil
+- "Voice of the Emperor" — pouvoir racial de persuasion
+
+### Religion
+Le panthéon impérial des **Huit (ou Neuf) Divins** :
+- Akatosh, Arkay, Dibella, Julianos, Kynareth, Mara, Stendarr, Zenithar
+- Talos (le Neuvième, controversé depuis le Concordat)
+- La religion impériale est syncrétique — assemblée à partir de traditions elfiques et humaines
+
+## La Légion Impériale
+
+L'armée impériale est la force militaire la plus **organisée** :
+- Structure hiérarchique stricte (Général → Légat → Centurion → Légionnaire)
+- Tactiques de groupe, formations, discipline
+- Pas les meilleurs combattants individuels mais imbattables en armée
+- Forts et camps à travers tout Tamriel
+- Intègre toutes les races (diversité comme force)
+
+## Traits Raciaux
+
+- Apparence méditerranéenne/romaine
+- Pas de résistance élémentaire notable
+- **Voice of the Emperor** — capacité de calmer les hostiles (charme)
+- Bonus commercial (meilleurs prix)
+- Longévité humaine standard
+- Polyvalence — bons dans tout, excellents en rien physiquement
+
+## Perception par les Autres
+
+| Race | Perception |
+|------|-----------|
+| Nordiques | "Faibles mais rusés, vendus aux Elfes" |
+| Rougegardes | "Bons alliés quand ça les arrange" |
+| Altmer | "Éphémères ambitieux, utiles comme sujets" |
+| Dunmer | "Colonisateurs avec de belles paroles" |
+| Khajiit | "Bon commerce, lois trop strictes" |
+| Orques | "Au moins ils nous laissent une place" |
+
+## Forces et Faiblesses
+
+### Forces
+- Organisation et administration sans égal
+- Diplomatie et commerce
+- Légion Impériale (armée organisée)
+- Capacité à unir des peuples divers
+- Pragmatisme politique
+
+### Faiblesses
+- Pas de trait martial ou magique exceptionnel
+- Tendance à l'arrogance impérialiste
+- Dépendance aux structures (s'effondrent sans Empire)
+- Corruption bureaucratique chronique

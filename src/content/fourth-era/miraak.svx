@@ -1,0 +1,56 @@
+---
+title: "Miraak"
+slug: "miraak"
+era: "fourth-era"
+category: "personnages"
+tags: ["dragonborn", "hermaeus-mora", "apocrypha", "solstheim", "dragon-priest", "bend-will"]
+timelineYear: 201
+summary: "Miraak, le Premier Enfant de Dragon, fut un Prêtre-Dragon rebelle dont le pacte avec Hermaeus Mora le condamna à des millénaires d'emprisonnement dans Apocrypha."
+sources: ["The Guardian and the Traitor", "Dragonborn DLC", "The Secrets of Solstheim", "Black Books"]
+---
+
+![Miraak dans Apocrypha](/images/merethic-era/miraak.jpg)
+
+# Miraak — Le Premier Enfant de Dragon
+
+## L'Ère Méréthique et le premier Dragonborn
+
+Bien avant que le Dernier Enfant de Dragon ne foule le sol de Bordeciel en 4E 201, un autre mortel avait reçu le don de la Voix du Dragon. **Miraak**, dont le nom signifie « Allégiance Guide » en langue draconique, fut le tout premier être humain à naître avec l'âme d'un dragon — le premier **Dovahkiin**.
+
+Durant l'Ère Méréthique, Miraak servait comme **Prêtre-Dragon** sur l'île de Solstheim, alors partie intégrante du continent de Tamriel. À cette époque, les dragons régnaient en maîtres absolus sur les mortels, et les Prêtres-Dragons étaient leurs lieutenants, administrant les populations humaines au nom de leurs maîtres ailés. Mais Miraak portait en lui une contradiction fondamentale : comment un être possédant l'âme d'un dragon pouvait-il se soumettre à d'autres dragons ?
+
+## La trahison et le pacte avec Hermaeus Mora
+
+La rébellion de Miraak contre les dragons ne fut pas motivée par la compassion envers les mortels opprimés, mais par un orgueil démesuré et une soif de pouvoir sans limites. Il refusa de se prosterner devant des créatures qu'il considérait comme ses égaux — voire ses inférieurs.
+
+C'est dans cette quête de puissance que Miraak se tourna vers **Hermaeus Mora**, le Prince Daedrique de la Connaissance Interdite et de la Mémoire. Le Gardien du Savoir Interdit offrit à Miraak des connaissances arcaniques d'une puissance inimaginable, notamment le Thu'um dévastateur **Bend Will** (Plie-Volonté), capable d'asservir les esprits des dragons eux-mêmes.
+
+En échange, Miraak devint le champion de Mora — un pacte dont il ne mesura pleinement les conséquences que bien trop tard.
+
+## La confrontation avec Vahlok
+
+Lorsque les autres Prêtres-Dragons découvrirent la trahison de Miraak, ils envoyèrent **Vahlok le Gardien** pour le détruire. L'affrontement qui s'ensuivit fut d'une violence telle qu'il sépara physiquement Solstheim du continent, créant le détroit qui existe encore aujourd'hui.
+
+Au moment où Vahlok allait porter le coup fatal, Hermaeus Mora intervint, arrachant Miraak au monde mortel pour le transporter dans son royaume d'Oblivion : **Apocrypha**. Ce sauvetage était en réalité une prison — Miraak était désormais prisonnier du Prince Daedrique, piégé dans un labyrinthe infini de livres et de connaissances interdites.
+
+## Les millénaires dans Apocrypha
+
+Apocrypha est un plan d'Oblivion constitué d'océans de liquide noir et de tours infinies de livres et de parchemins. Pour Miraak, cet endroit devint à la fois sa bibliothèque et sa cellule. Durant des milliers d'années, il accumula un savoir immense tout en cherchant désespérément un moyen de s'échapper de l'emprise de Mora.
+
+Dans cet espace hors du temps, Miraak ne vieillit pas mais ne put jamais trouver la paix. Il construisit son propre domaine au sein d'Apocrypha, asservissant les Chercheurs et les Lurkers — les créatures informes qui peuplent ce royaume — et planifiant inlassablement son retour dans le monde mortel.
+
+## Le retour en 4E 201
+
+En 4E 201, Miraak entreprit enfin sa tentative d'évasion. Depuis Apocrypha, il étendit son influence sur Solstheim à travers les **Livres Noirs** — des artefacts daédriques servant de portails vers le royaume de Mora. Il asservit les esprits des habitants de l'île, les forçant à construire d'immenses structures de pierre autour des Pierres Levées dans un rituel destiné à canaliser suffisamment de pouvoir pour briser ses chaînes.
+
+Son plan impliquait également l'absorption des âmes de dragons, volant au Dernier Enfant de Dragon les âmes des dragons qu'il tuait. Ce vol d'âmes constituait une provocation délibérée — Miraak avait besoin de cette énergie draconique pour alimenter son évasion.
+
+## L'affrontement final
+
+La confrontation entre les deux Enfants de Dragon eut lieu au coeur même d'Apocrypha. Miraak, fort de millénaires de savoir accumulé et de la maîtrise de Thu'ums oubliés depuis des ères, représentait un adversaire d'une puissance extraordinaire. Il pouvait devenir éthéré, asservir les dragons en plein vol, et manipuler la réalité même d'Apocrypha.
+
+Pourtant, au moment de sa défaite, ce fut **Hermaeus Mora** lui-même qui porta le coup final, transperçant Miraak de ses tentacules et absorbant son essence. Le Prince Daedrique refusait de laisser son champion lui échapper — même dans la mort. Miraak mourut en réalisant amèrement que son « sauveur » n'avait jamais été qu'un geôlier plus patient que les autres.
+
+## Héritage et signification
+
+Miraak incarne l'archétype du héros corrompu par l'hybris. Premier parmi les Enfants de Dragon, il aurait pu être le libérateur de l'humanité face aux dragons. Au lieu de cela, son orgueil le mena à une servitude pire que celle qu'il refusait — emprisonné non par des dragons mais par un être infiniment plus ancien et plus rusé. Son histoire est un avertissement : le savoir sans sagesse, le pouvoir sans humilité, ne mènent qu'à une captivité plus profonde.

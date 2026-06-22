@@ -1,0 +1,72 @@
+---
+title: "L'Archimage Gauldur"
+slug: "gauldur"
+era: "first-era"
+category: "personnages"
+tags: ["gauldur", "archimage", "amulette-de-gauldur", "jyrik", "sigdis", "mikrul", "bordeciel"]
+timelineYear: 63
+summary: "L'histoire tragique de l'Archimage Gauldur, trahi et assassiné par ses trois fils avides de pouvoir."
+sources: ["Le Fragment de Gauldur", "La légende interdite", "Journal de Daynas Valen"]
+---
+
+## Un mage au service de Bordeciel
+
+**Gauldur** fut l'un des plus puissants archimagiciens de la Première Ère en **Bordeciel**, un érudit dont le savoir et la puissance magique étaient révérés dans tout le royaume. Vivant durant les premières décennies de la Première Ère, à une époque où le royaume nordique était encore jeune et fragile, Gauldur servait de conseiller au **Haut-Roi** et était respecté par tous.
+
+Sa puissance provenait en grande partie d'un artefact extraordinaire : l'**Amulette de Gauldur**, un talisman qu'il avait lui-même forgé et qui amplifiait considérablement les capacités magiques de son porteur. Cet amulette était la source de son influence et, malheureusement, l'objet de la convoitise qui causerait sa perte.
+
+Gauldur résidait dans une tour isolée et consacrait ses jours à l'étude, à l'enseignement et au conseil politique. Il avait trois fils qu'il forma aux arts arcaniques, espérant faire d'eux des mages aussi accomplis que lui. Cette confiance paternelle serait sa plus grande erreur.
+
+## Les trois fils : Jyrik, Sigdis et Mikrul
+
+Les trois fils de Gauldur — **Jyrik**, **Sigdis** et **Mikrul** — avaient chacun développé des talents magiques considérables sous la tutelle de leur père. Mais ils partageaient également un trait fatal : une ambition dévorante que l'éducation paternelle ne parvint jamais à tempérer.
+
+**Jyrik**, l'aîné, était un maître des arts élémentaires et de la magie de destruction. Sa puissance brute était terrifiante, capable de déchaîner des tempêtes de feu et de glace avec une facilité déconcertante. Il convoitait le pouvoir absolu que l'amulette conférait à son père.
+
+**Sigdis**, le cadet, excellait dans les arts de l'illusion et de la conjuration. Rusé et manipulateur, il créait des doubles de lui-même pour tromper ses ennemis et utilisait la magie pour plier les esprits à sa volonté.
+
+**Mikrul**, le benjamin, maîtrisait la nécromancie et les arts sombres. Il commandait aux morts et drainait la force vitale des vivants, un talent qui horrifiait même ses frères.
+
+## Le parricide
+
+La tragédie frappa lorsque les trois frères, unis par leur cupidité commune, conspirèrent contre leur propre père. Motivés par le désir de s'emparer de l'Amulette de Gauldur, ils l'assassinèrent dans sa propre tour, un acte de trahison d'une monstruosité qui choqua tout Bordeciel.
+
+Après avoir tué Gauldur, les frères brisèrent l'amulette en trois fragments, chacun s'emparant d'une partie. Même fragmentée, l'amulette conférait une puissance considérable à chaque porteur. Armés de ces fragments, les trois frères se séparèrent et entreprirent des campagnes de terreur individuelles à travers Bordeciel.
+
+Jyrik marcha sur **Vendeaume** avec une armée, Sigdis sema le chaos dans les villages par ses illusions et ses manipulations, et Mikrul leva une armée de morts-vivants qui ravagea les terres du sud. Le royaume était menacé d'effondrement face à ces trois fléaux simultanés.
+
+## La chasse et la justice du Haut-Roi
+
+Face à cette triple menace, le **Haut-Roi** de Bordeciel envoya son champion personnel, l'Archimage **Geirmund**, à la tête d'une troupe de guerriers d'élite et de mages, avec pour mission de traquer et de neutraliser les trois fils de Gauldur.
+
+La chasse fut longue et sanglante. Geirmund poursuivit les frères un par un, affrontant leurs pouvoirs amplifiés par les fragments de l'amulette. Chaque confrontation fut une bataille désespérée.
+
+Jyrik fut traqué jusqu'à **Saarthal**, où il s'était retranché. L'affrontement magique fut si violent que les tunnels s'effondrèrent partiellement, piégeant une partie des poursuivants. Sigdis se réfugia dans un tertre ancien, utilisant ses illusions pour tromper ses ennemis encore et encore. Mikrul se barricada dans une crypte avec son armée de morts.
+
+Un à un, les trois frères furent vaincus, bien que Geirmund lui-même périt dans la bataille finale. Les fragments de l'amulette furent retirés de leurs cadavres et scellés séparément.
+
+## L'effacement de l'histoire
+
+Ce qui rend l'histoire de Gauldur particulièrement fascinante n'est pas seulement la tragédie elle-même, mais la manière dont elle fut délibérément effacée de la mémoire collective. Le Haut-Roi, horrifié par l'ampleur de la trahison et craignant que d'autres ne cherchent à reproduire les exploits des fils parricides, ordonna que toute mention de Gauldur et de ses fils soit supprimée.
+
+Les documents furent détruits, les bardes reçurent l'interdiction de chanter cette histoire, et quiconque prononçait le nom de Gauldur risquait la peine de mort. Les corps des trois frères furent scellés dans des tombeaux séparés, gardés par des sortilèges et des draugr, pour s'assurer qu'ils ne puissent jamais être réunis.
+
+Cette censure fut si efficace que pendant des millénaires, l'histoire de Gauldur ne survécut que sous forme de fragments incomplets, de rumeurs et de légendes à moitié oubliées. Le **Fragment de Gauldur**, l'un des rares documents survivants, ne fut redécouvert que durant la Quatrième Ère.
+
+## Les tombeaux et les gardiens
+
+Les trois fils furent enterrés dans des lieux séparés, chacun conçu pour empêcher toute tentative de récupération des fragments de l'amulette :
+
+**Jyrik Gauldurson** fut scellé sous **Saarthal**, dans les profondeurs de la cité détruite. Son tombeau est gardé par des draugr anciens et des pièges magiques liés aux lignes de force de la terre.
+
+**Sigdis Gauldurson** repose dans le **Tertre de Geirmund**, nommé ironiquement d'après celui qui le vainquit. Même mort, ses pouvoirs d'illusion persistent, créant des doubles spectraux qui désorientent les intrus.
+
+**Mikrul Gauldurson** fut enfermé dans la **Chute Folgunthur**, un complexe funéraire labyrinthique infesté de morts-vivants qu'il continue de commander depuis l'au-delà.
+
+## L'héritage et la redécouverte
+
+L'**Amulette de Gauldur**, même fragmentée, resta un objet de fascination pour les rares érudits qui connaissaient son existence. Sa reconstitution offrirait à son porteur une puissance magique immense — résistance à la magie, force vitale accrue et puissance d'incantation amplifiée.
+
+Durant la Quatrième Ère, l'aventurier **Daynas Valen** consacra sa vie à retrouver les fragments, guidé par d'anciens documents. Sa quête, bien qu'elle se termina par sa propre mort, ouvrit la voie à d'autres qui parviendraient finalement à reconstituer l'amulette.
+
+L'histoire de Gauldur est un avertissement sur les dangers de l'ambition démesurée et de la confiance aveugle. Elle montre aussi comment le pouvoir — représenté par la censure du Haut-Roi — peut réécrire l'histoire, transformant une tragédie en un silence qui dure des millénaires.

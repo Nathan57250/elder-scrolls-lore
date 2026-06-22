@@ -1,0 +1,100 @@
+---
+title: "Nocturnal — Prince des Ombres"
+slug: "nocturnal"
+era: "dawn-era"
+category: "daedra"
+tags: ["nocturnal", "prince daedrique", "ombres", "chance", "nightingales", "evergloam", "voleurs"]
+timelineYear: 0
+summary: "Nocturnal est le Prince Daedrique de la Nuit, des Ombres et de la Chance — patronne des voleurs, maîtresse de l'Evergloam, et l'un des plus anciens et mystérieux Princes Daedriques."
+sources: ["UESP: Nocturnal", "Nightingales: Fact or Fiction?", "Events of TES V: Skyrim"]
+---
+
+## Présentation
+
+**Nocturnal** est le Prince Daedrique de la Nuit, des Ombres, du Mystère et de la Chance. Elle est souvent considérée comme le plus **ancien** des Princes Daedriques — parfois appelée "Ur-Dra" (la première). Sa sphère englobe tout ce qui est caché, volé, ou opérant dans l'obscurité.
+
+Elle se manifeste sous la forme d'une femme encapuchonnée, enveloppée d'ombres vivantes, dont le visage n'est jamais entièrement visible.
+
+## L'Evergloam
+
+Le royaume de Nocturnal est l'**Evergloam** — un monde de crépuscule éternel :
+- Ni lumière totale ni obscurité complète
+- Un paysage de forêts brumeuses et de ruines gothiques
+- Les ombres y sont vivantes et conscientes
+- Le temps y est flou — les secondes et les siècles se confondent
+- Les Nightingales y servent après la mort
+
+## Les Nightingales
+
+Les **Nightingales** (Rossignols) sont les champions mortels de Nocturnal :
+- Un triumvirat de trois voleurs élites liés par un pacte
+- Ils protègent le **Skeleton Key** (Clé Squelette) et le sanctuaire
+- En échange : chance surnaturelle, pouvoirs d'ombre, et compétences accrues
+- Le prix : après la mort, leur âme sert dans l'Evergloam
+
+### Le Pacte
+Le pacte Nightingale est tripartite :
+1. **L'Agent** — opérations de terrain
+2. **Le Guetteur** — surveillance et renseignement
+3. **Le Maître** — leadership et coordination
+
+En 4E 201, les trois Nightingales étaient :
+- **Gallus Desidenius** (décédé, trahi par Mercer Frey)
+- **Karliah** (en exil)
+- **Mercer Frey** (traître, voleur de la Clé Squelette)
+- Le Dovahkiin remplace Mercer après l'avoir éliminé
+
+## La Clé Squelette
+
+Le **Skeleton Key** est l'artefact daedrique de Nocturnal :
+- Apparence : un crochet/clé en os
+- Pouvoir **physique** : ouvre n'importe quelle serrure
+- Pouvoir **métaphorique** : déverrouille le potentiel caché de l'utilisateur
+- Supprime les limitations mentales et physiques
+- Extrêmement dangereux car il élimine aussi les limites morales
+
+Mercer Frey vola la Clé et l'utilisa pour ses propres fins, ce qui :
+- Brisa les protections du sanctuaire Nightingale
+- Affaiblit l'influence de Nocturnal sur Nirn
+- Permit à Mercer de devenir un voleur "parfait" sans scrupules
+
+## La Guilde des Voleurs
+
+Bien que Nocturnal ne dirige pas officiellement la Guilde des Voleurs, son influence est omniprésente :
+- La "Chance de la Guilde" vient de sa bénédiction
+- Les Nightingales protègent secrètement la Guilde
+- La superstition des voleurs ("ne jamais voler un confrère") est liée à ses principes
+- Quand la Clé fut volée, la chance de la Guilde s'effondra (événements de Skyrim)
+
+## Philosophie
+
+Nocturnal est unique parmi les Princes :
+- Elle ne demande **pas** de vénération active
+- Elle ne cherche **pas** à dominer ou détruire
+- Elle représente l'**équilibre** entre lumière et ombre
+- Sa sphère est la **transaction** : un service pour un service
+
+### Principes
+- L'ombre n'est pas le mal — c'est l'absence de lumière observée
+- Le vol n'est pas immoral — c'est une redistribution
+- Le secret n'est pas la tromperie — c'est la discrétion
+- La chance n'est pas aléatoire — c'est l'opportunité saisie
+
+## Relations avec d'Autres Princes
+
+| Prince | Relation |
+|--------|----------|
+| Hermaeus Mora | Rivalité — elle garde les secrets, il les veut |
+| Meridia | Opposition — lumière vs ombre |
+| Clavicus Vile | Coopération rare (transactions) |
+| Mephala | Domaines adjacents (secrets, manipulation) |
+
+## Importance Cosmologique
+
+Certaines théories suggèrent que Nocturnal est :
+- Le **premier** esprit à avoir pris conscience dans le Vide
+- L'incarnation du **concept même** de l'inconnu
+- Plus ancienne que la distinction Aedroth/Daedroth
+- Le "fond" sur lequel le reste de l'Aurbis fut peint
+
+Son titre "Ur-Dra" implique une primordialité que même les autres Princes reconnaissent.

@@ -1,0 +1,60 @@
+---
+title: "Mara"
+slug: "mara"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divins", "amour", "compassion", "panthéon", "religion"]
+timelineYear: -99970
+summary: "Mara, déesse de l'amour et de la compassion, vénérée dans tous les panthéons de Tamriel."
+sources: ["Variétés de la foi dans l'Empire", "Les Dix Commandements des Neuf Divins", "Le Monomythe"]
+---
+
+## La Mère des Mortels
+
+**Mara** est l'une des déesses les plus universellement vénérées de Tamriel. Connue comme la Mère des Mortels, la Déesse de l'Amour et la patronne de la compassion, elle occupe une place centrale dans le panthéon des **Divins**. Son influence transcende les frontières culturelles et raciales, faisant d'elle l'une des rares divinités reconnues sous des formes similaires par presque toutes les races de **Nirn**.
+
+Dans la cosmologie de l'**Ère de l'Aube**, Mara fait partie des et'Ada originaux qui ont répondu à l'appel de **Lorkhan** pour créer le plan mortel. Contrairement à certains Aedra qui ont sacrifié leur pouvoir avec réticence, Mara est souvent décrite comme ayant donné volontairement une partie de son essence divine par amour pour la création à venir.
+
+## Rôle dans les Différents Panthéons
+
+Dans le panthéon impérial des Huit (puis Neuf) Divins, Mara est la déesse de l'amour, de la fertilité et du mariage. Les temples de Mara célèbrent les unions et offrent conseil aux couples. Ses prêtresses sont reconnues dans tout l'Empire comme les officiantes légitimes des cérémonies nuptiales.
+
+Chez les **Nordiques**, elle est connue sous le nom de Mara la Larme-Main, une déesse de la fertilité et de la famille. La tradition nordique la présente parfois comme l'épouse de **Kyne** dans certaines versions du mythe, ou comme une servante des dieux qui a pris en pitié les mortels. Sa place dans le panthéon nordique est ancienne et profondément enracinée dans la culture de **Bordeciel**.
+
+Pour les **Altmer**, Mara est reconnue mais occupe une position légèrement différente. Elle est associée à l'amour sous toutes ses formes, y compris l'amour filial et la dévotion. Les Hauts-Elfes la considèrent comme l'une des Aedra ayant contribué à la création, ce qui teinte leur vénération d'une certaine ambivalence caractéristique de la théologie altmer.
+
+Les **Bosmers** la vénèrent sous un aspect maternel et protecteur, tandis que les **Rougegardes** l'intègrent dans leur propre cosmologie sous des formes adaptées à leur tradition yokudan.
+
+## Les Temples et le Culte de Mara
+
+Les temples de Mara sont parmi les plus répandus de Tamriel. Reconnaissables à leur atmosphère chaleureuse et accueillante, ils servent de refuges pour les désespérés, les abandonnés et les cœurs brisés. Les prêtres et prêtresses de Mara sont formés à l'art de la guérison émotionnelle autant que physique.
+
+Le temple de Mara à Faillaise, en Bordeciel, est l'un des plus célèbres. C'est là que de nombreux aventuriers viennent célébrer leur mariage selon la tradition portant l'Amulette de Mara. Cette amulette est un symbole reconnu dans toute la province : la porter signifie que l'on cherche un compagnon de vie.
+
+Les bénédictions de Mara sont recherchées par les guérisseurs, car sa faveur accorde une résistance accrue à la magie et une capacité de guérison améliorée. Ses fidèles croient fermement que l'amour est la force la plus puissante de l'univers, capable de transcender même la mort.
+
+## Mara et la Restauration
+
+La magie de Restauration est intimement liée au culte de Mara. Les sorts de guérison les plus puissants sont souvent associés à sa bénédiction, et nombre de maîtres de la Restauration sont également des dévots de la déesse. L'école de Restauration dans les différentes guildes et académies magiques enseigne que la compassion est un prérequis à la maîtrise de ces arts.
+
+Les **Vigiles de Stendarr**, bien que principalement dévoués à **Stendarr**, reconnaissent en Mara une alliée naturelle dans leur combat contre les forces du mal. La compassion de Mara et la justice de Stendarr sont considérées comme complémentaires dans la protection des innocents.
+
+## Artefacts et Reliques
+
+L'Amulette de Mara est sans doute le symbole le plus connu associé à la déesse. Simple pendentif en apparence, il représente l'engagement et l'ouverture du cœur. Mais au-delà de cet objet courant, il existe des reliques plus puissantes attribuées à Mara.
+
+Le Bâton de Mara, un artefact rare, est capable de transformer l'hostilité en bienveillance. Les récits parlent également de sanctuaires bénis par Mara elle-même, où les malades et les blessés peuvent trouver une guérison miraculeuse.
+
+## Doctrines et Enseignements
+
+Les enseignements de Mara sont centrés sur l'amour inconditionnel, la compassion universelle et le pardon. Ses fidèles sont encouragés à voir le meilleur en chaque être, à offrir aide et réconfort sans jugement, et à cultiver des liens d'affection sincère avec leur prochain.
+
+La doctrine de Mara enseigne que l'amour n'est pas une faiblesse mais la plus grande des forces. Face aux ténèbres de **Sithis** et aux tentations des **Princes Daedriques**, l'amour de Mara offre un bouclier aussi solide que n'importe quelle armure. Ses prêtres considèrent que même les âmes les plus corrompues peuvent être rachetées par un amour sincère et persistant.
+
+Les fêtes consacrées à Mara sont des occasions de célébrer l'amour sous toutes ses formes : romantique, familial, amical et universel. Ces célébrations sont marquées par des festins communautaires, des échanges de cadeaux et des renouvellements de vœux.
+
+## Mara dans les Événements Historiques
+
+Durant la **Crise d'Oblivion**, les temples de Mara ont servi de refuges pour les populations civiles fuyant les invasions daedriques. Les prêtresses ont soigné d'innombrables blessés et offert réconfort aux endeuillés. La foi en Mara a été un pilier de la résistance morale des peuples de Tamriel face à l'horreur des portes d'Oblivion.
+
+Lors de la guerre civile de Bordeciel, les temples de Mara sont restés neutres, offrant refuge et guérison aux deux camps. Cette neutralité est caractéristique de la philosophie de Mara : l'amour et la compassion ne connaissent pas de camps politiques.

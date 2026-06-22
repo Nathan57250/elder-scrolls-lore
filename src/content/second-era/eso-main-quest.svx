@@ -1,0 +1,58 @@
+---
+title: "La quête principale d'ESO"
+slug: "eso-main-quest"
+era: "second-era"
+category: "evenements"
+tags: ["molag-bal", "cinq-compagnons", "mannimarco", "planemeld", "vestige", "eso"]
+timelineYear: 582
+summary: "En 2E 582, Molag Bal tenta de fusionner Nirn avec Havreglace lors du Planemeld, contrecarré par le Vestige et les Cinq Compagnons."
+sources: ["Elder Scrolls Online Main Quest", "Erta's Report", "Chaotic Creatia"]
+---
+
+## Le Planemeld
+
+En 2E 582, **Tamriel** fit face à la plus grande menace depuis la Peste Thrassienne. **Molag Bal**, Prince Daedra de la domination et du viol, lança le **Planemeld**, une tentative titanesque de fusionner son plan d'Oblivion, **Havreglace**, avec le plan mortel de **Nirn**. Si ce projet avait réussi, l'ensemble du monde mortel serait devenu une extension du royaume de Molag Bal, et tous les êtres vivants auraient été réduits à l'esclavage éternel sous sa domination.
+
+Le mécanisme du Planemeld reposait sur des **Ancres Sombres**, d'immenses crochets dimensionnels qui littéralement agrippaient le tissu de Mundus pour l'arracher vers Havreglace. Ces ancres, chacune aussi grande qu'une tour, tombaient du ciel à travers tout Tamriel, ancrant des portions du territoire à la dimension daedrique. À chaque point d'ancrage, la réalité se déformait : le ciel devenait noir, les morts se relevaient, et des hordes daedriques s'infiltraient dans le monde mortel.
+
+Le plan de Molag Bal avait été préparé pendant des décennies, avec la complicité consciente ou inconsciente de nombreux agents mortels. Les **Vers du Roi** de **Mannimarco** avaient mené des rituels de sacrifice de masse pour affaiblir les barrières entre les plans. Des cultes secrets avaient été établis dans toutes les provinces pour faciliter la transition. Le Seigneur du Viol avait tissé sa toile avec une patience que seul un être immortel pouvait manifester.
+
+## Les Cinq Compagnons
+
+Le dernier rempart contre le Planemeld aurait dû être l'**Amulette des Rois**, l'artefact le plus puissant de la lignée impériale. Les **Cinq Compagnons**, un groupe d'aventuriers exceptionnels, avaient tenté d'utiliser l'Amulette pour repousser l'invasion daedrique. Mais leur plan fut trahi par **Mannimarco**, le Roi des Vers, qui servait secrètement Molag Bal tout en poursuivant ses propres ambitions de divinité.
+
+Les Cinq Compagnons originaux comprenaient **Varen Aquilarios**, l'empereur usurpateur qui cherchait à légitimer son règne ; **Lyris Titanborn**, une guerrière demi-géante d'une force prodigieuse ; **Sai Sahan**, Grand Maître des Lames et gardien de l'Amulette ; **Abnur Tharn**, le Chancelier Impérial, mage d'une puissance considérable ; et Mannimarco lui-même, dont la trahison fut le catalyseur de la catastrophe.
+
+Lors du rituel raté connu sous le nom de **Soulburst**, l'Amulette des Rois explosa en énergie, brisant les barrières entre Nirn et Oblivion. Varen fut aveuglé et exilé, Lyris capturée à Havreglace, Sai Sahan emprisonné, et Abnur forcé de servir l'impératrice fantoche **Clivia Tharn**. Le Soulburst ne causa pas le Planemeld mais rendit Tamriel vulnérable à l'attaque de Molag Bal.
+
+## Le Vestige
+
+Au milieu de ce chaos cosmique émergea une figure improbable : le **Vestige**, un mortel dont l'âme avait été arrachée par Molag Bal lors d'un sacrifice rituel. Privé de son âme mais miraculeusement revenu à la vie, le Vestige possédait un avantage unique : sans âme, il ne pouvait être véritablement tué. La mort le renvoyait simplement à la fontaine de lumière la plus proche, un cycle de résurrection perpétuelle qui en faisait le champion parfait contre les forces d'Oblivion.
+
+Guidé par **le Prophète**, l'identité cachée de Varen Aquilarios aveuglé, le Vestige entreprit de rassembler les Cinq Compagnons dispersés et de trouver un moyen de repousser le Planemeld. Cette quête le mena à travers les donjons les plus dangereux de Tamriel, dans les profondeurs d'Havreglace lui-même, et face à face avec les lieutenants les plus terrifiants de Molag Bal.
+
+Chaque Compagnon retrouvé apportait une pièce du puzzle. Lyris, libérée d'Havreglace, offrait sa force guerrière. Tharn, retourné contre les Tharn, apportait sa connaissance de la magie impériale. Sai Sahan, libéré de sa prison, révéla la cachette de l'Amulette des Rois. Ensemble, les Compagnons et le Vestige reconstituèrent les éléments nécessaires pour un assaut final contre le Seigneur du Viol.
+
+## La trahison de Mannimarco
+
+**Mannimarco**, le Roi des Vers, poursuivait un agenda secret bien plus ambitieux que la simple servitude envers Molag Bal. Le plus grand nécromancien de l'histoire de Tamriel nourrissait depuis des millénaires le rêve de devenir un dieu, et il comptait utiliser le Planemeld comme tremplin vers l'apothéose. Sa trahison des Compagnons n'était qu'une étape dans un plan d'une complexité vertigineuse.
+
+Mannimarco avait conclu un pacte avec Molag Bal : en échange de son aide pour déclencher le Planemeld, le Prince Daedra lui accorderait le pouvoir divin qu'il convoitait. Mais le Roi des Vers sous-estimait la duplicité de son patron. Molag Bal n'avait aucune intention de partager quoi que ce soit, et Mannimarco découvrit trop tard qu'il n'était qu'un pion dans le jeu d'un être infiniment plus puissant et plus patient que lui.
+
+Le Vestige affronta Mannimarco à plusieurs reprises au cours de sa quête, chaque confrontation révélant une couche supplémentaire de la conspiration du nécromancien. La défaite finale de Mannimarco, piégé dans une boucle temporelle d'agonie par Molag Bal lui-même, fut un rappel cruel que même les manipulateurs les plus habiles peuvent être manipulés à leur tour.
+
+## L'assaut sur Havreglace
+
+Le climax de la crise fut un assaut direct sur **Havreglace**, une offensive sans précédent contre le plan personnel d'un Prince Daedra. Le Vestige, armé de l'**Amulette des Rois** restaurée et soutenu par les Compagnons survivants, pénétra dans le royaume de Molag Bal pour détruire les mécanismes du Planemeld à leur source.
+
+Havreglace se révéla être un lieu d'une horreur absolue : un paysage de souffrance éternelle où les âmes des mortels capturés étaient tourmentées pour l'éternité. Des tours d'acier froid s'élevaient au-dessus d'océans de misère, et les serviteurs de Molag Bal les **Dremora**, les **Xivkyn** et d'innombrables horreurs daedriques défendaient chaque pouce de terrain avec une férocité désespérée.
+
+L'affrontement final avec Molag Bal lui-même, rendu possible par le sacrifice d'un des Compagnons pour alimenter l'Amulette, fut un combat entre un mortel et un dieu. Le Vestige, temporairement élevé à un statut quasi-divin par la puissance de l'Amulette, parvint à vaincre l'avatar de Molag Bal et à démanteler le Planemeld, sauvant Nirn de la fusion avec Havreglace.
+
+## Les conséquences
+
+La défaite du Planemeld ne mit pas fin aux troubles de la **Deuxième Ère**. La **Guerre des Trois Bannières** continuait de faire rage, l'Empire restait fragmenté, et d'innombrables menaces régionales persistaient. Mais la survie même de Nirn en tant que plan indépendant fut assurée par le sacrifice du Vestige et des Compagnons.
+
+L'Amulette des Rois, endommagée mais pas détruite, resta un symbole de la légitimité impériale. Les Ancres Sombres cessèrent de tomber, bien que les cicatrices qu'elles avaient laissées dans le tissu de la réalité mettraient des siècles à guérir complètement. Molag Bal, affaibli mais pas vaincu, se retira dans les profondeurs d'Havreglace pour panser ses blessures et préparer ses prochains schémas.
+
+Le Vestige lui-même disparut de l'histoire officielle après la crise, son destin ultérieur inconnu. Certains disent qu'il continua à parcourir Tamriel, combattant d'autres menaces. D'autres croient qu'il trouva finalement le repos, son âme restaurée après la défaite de son tortionnaire. Quelle que soit la vérité, son rôle dans le salut du monde mortel reste l'un des actes d'héroïsme les plus extraordinaires de la Deuxième Ère.

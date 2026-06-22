@@ -1,0 +1,102 @@
+---
+title: "Les Compagnons de Jorrvaskr"
+slug: "compagnons"
+era: "fourth-era"
+category: "guildes"
+tags: ["compagnons", "jorrvaskr", "guerriers", "blancherive", "ysgramor", "cercle", "loup-garou"]
+timelineYear: 201
+summary: "Les Compagnons sont le plus ancien ordre de guerriers de Bordeciel — descendants spirituels d'Ysgramor, basés à Jorrvaskr à Blancherive depuis l'Ère Méréthique."
+sources: ["UESP: Companions", "Songs of the Return", "The Imperial Library"]
+---
+
+## Origines
+
+Les **Compagnons** (The Companions) tirent leur nom des **Cinq Cents Compagnons** d'Ysgramor — les guerriers Atmorans qui conquirent Bordeciel au Méréthique. Quand la conquête fut achevée, Ysgramor fonda **Jorrvaskr** — un hall de guerriers à Blancherive, construit autour du navire retourné qui les avait portés depuis Atmora.
+
+Jorrvaskr est donc le **plus ancien bâtiment humain** de Tamriel encore en activité.
+
+## Structure
+
+### Pas de Guilde
+Les Compagnons insistent : ils ne sont **pas** une guilde. Il n'y a :
+- Pas de contrat officiel
+- Pas de serment formel
+- Pas de hiérarchie rigide (en théorie)
+- Pas d'allégeance politique
+
+Un Compagnon est simplement un guerrier qui vit selon l'honneur et prend des contrats pour financer le hall.
+
+### Hiérarchie de Fait
+En pratique, une structure existe :
+
+| Rôle | Description |
+|------|-------------|
+| Héraut (Harbinger) | Guide moral, pas un chef au sens strict |
+| Le Cercle | Conseil intérieur (porteurs du sang de loup) |
+| Membres | Guerriers confirmés |
+| Whelps (Nouveaux) | Recrues en évaluation |
+
+### Le Cercle (The Circle)
+Le secret le mieux gardé des Compagnons : les membres du Cercle sont des **loups-garous**. Ils portent le sang du loup offert par les Sorcières de Glenmoril, servantes d'Hircine. Cette tradition remonte à plusieurs siècles.
+
+## Jorrvaskr
+
+Le hall est situé sur la place principale de Blancherive, à proximité du Skyforge :
+- **Rez-de-chaussée** : grand hall de festin, âtre central
+- **Sous-sol** : chambres individuelles, quartiers de vie
+- **Extérieur** : cour d'entraînement avec mannequins et cibles
+
+### Le Skyforge
+Forge antique **pré-humaine** au sommet de la colline, derrière Jorrvaskr :
+- Plus ancienne que la ville elle-même
+- Produit l'acier le plus fin de Bordeciel (Skyforge Steel)
+- Les **Nordiques anciens** sont incinérés ici
+- Le forgeron **Eorlund Gray-Mane** est son gardien actuel
+
+## Wuuthrad
+
+La hache légendaire d'**Ysgramor** — une hache à deux mains d'une puissance immense :
+- Brisée après la mort d'Ysgramor
+- Ses fragments dispersés à travers Bordeciel
+- Reconstituée par le Dernier Enfant de Dragon
+- Particulièrement efficace contre les elfes
+- Symbole suprême des Compagnons
+
+## Événements de 4E 201
+
+### La Crise Interne
+- Le Cercle est divisé sur la lycanthropie
+- **Kodlak Barbe-Blanche** (Héraut) cherche une cure — il veut rejoindre Sovngarde
+- **Aela la Chasseresse** embrasse le don de loup
+- Les **Chasseurs d'Argent** (Silver Hand) traquent les loups-garous du Cercle
+
+### Résolution
+- Les Chasseurs d'Argent attaquent Jorrvaskr, tuent Kodlak
+- Le Dernier Enfant de Dragon reconstitue Wuuthrad
+- Utilise les têtes des Sorcières de Glenmoril pour libérer l'esprit-loup de Kodlak
+- L'âme de Kodlak rejoint Sovngarde
+- Le Dovahkiin peut devenir le nouveau Héraut
+
+## Valeurs
+
+Les Compagnons incarnent les vertus nordiques :
+- **Honneur** — ne jamais fuir un combat accepté
+- **Loyauté** — les boucliers-frères passent avant tout
+- **Force** — la puissance physique comme idéal
+- **Indépendance** — pas d'allégeance politique (ni Empire, ni Sombrages)
+- **Méritocratie** — le rang se gagne par les actes, pas la naissance
+
+## Contrats
+
+Les Compagnons acceptent des travaux contre rémunération :
+- Extermination de bêtes sauvages
+- Protection de caravanes
+- Récupération d'objets dans des lieux dangereux
+- Élimination de bandits
+- Duels d'honneur par procuration
+
+Ils refusent catégoriquement :
+- L'assassinat
+- Le vol
+- Tout travail déshonorant
+- Les missions politiques

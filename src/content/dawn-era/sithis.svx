@@ -1,0 +1,95 @@
+---
+title: "Sithis, le Vide Originel"
+slug: "sithis"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["Sithis", "Padomay", "Vide", "Confrérie Noire", "IS-NOT", "Chaos", "Création", "Nuit Mère"]
+timelineYear: -99999
+summary: "Sithis, manifestation du Vide et de la non-existence, est la force primordiale de changement née de Padomay dont l'influence s'étend de la cosmologie abstraite jusqu'aux rituels meurtriers de la Confrérie Noire."
+sources: ["Sithis (in-game book)", "The Monomyth", "Fire and Darkness", "The Night Mother's Truth", "UESP: Sithis"]
+---
+
+## Le Concept de Sithis
+
+**Sithis** n'est pas un dieu au sens traditionnel du terme. Il ne possède ni temple, ni clergé légitime, ni même une volonté consciente selon la plupart des théologiens. Sithis est plutôt la **force métaphysique du Non-Être** — l'incarnation du changement, de la fin, et du Vide qui existait avant que toute chose ne prenne forme. Dans la cosmologie de l'**Aurbis**, Sithis représente le principe opposé à **Anui-El** : là où Anui-El est la stase, l'ordre et la permanence, Sithis est le flux, le chaos et la dissolution.
+
+### IS-NOT : la Philosophie du Néant
+
+Le concept le plus fondamental associé à Sithis est celui de l'**IS-NOT** (le N'EST-PAS). Avant la création de l'Aurbis, avant même que le temps n'existe, il y avait deux forces :
+
+- **IS** (EST) — la volonté d'exister, d'être statique, de persévérer. C'est **Anu**.
+- **IS-NOT** (N'EST-PAS) — la volonté de ne pas être, de changer, de détruire pour recréer. C'est **Padomay**.
+
+Sithis est la manifestation de Padomay au sein de l'Aurbis, tout comme Anui-El est la manifestation d'Anu. Ces deux forces ne sont pas des êtres pensants mais des **principes cosmiques absolus** dont l'interaction engendra toute la réalité.
+
+## Sithis et Padomay
+
+### La Distinction Subtile
+
+Les érudits débattent longuement sur la différence entre Sithis et **Padomay**. La distinction la plus acceptée est hiérarchique :
+
+| Concept | Nature | Échelle |
+|---------|--------|---------|
+| Padomay | Force primordiale pré-création | Au-delà de l'Aurbis |
+| Sithis | Manifestation de Padomay dans l'Aurbis | Au sein de la réalité |
+
+Padomay est l'idée pure du changement, existant en dehors de toute réalité compréhensible. Sithis est cette même force telle qu'elle se manifeste dans le cadre de l'existence — le Vide qui entoure et imprègne l'Aurbis.
+
+### Le Rôle dans la Création
+
+Paradoxalement, Sithis joue un rôle essentiel dans la Création elle-même. Sans le changement qu'il représente, rien ne pourrait naître de la stase d'Anu. C'est le conflit entre IS et IS-NOT qui engendra les premiers esprits, les **et-Ada**. Le texte *Sithis* affirme :
+
+> *Anu n'a créé rien. Il est immobile. C'est Sithis qui a créé toute chose, car le changement est création, et la stase est mort véritable.*
+
+Cette perspective — radicale et contestée — suggère que **Lorkhan** lui-même serait un « enfant » de Sithis, envoyé pour briser la stase d'Anu en créant Mundus.
+
+## La Confrérie Noire et le Culte de Sithis
+
+### Les Cinq Préceptes
+
+La **Confrérie Noire** est l'organisation la plus visiblement associée à Sithis. Pour ses membres, Sithis est bel et bien une entité consciente — un dieu sombre exigeant des âmes en offrande. Les assassins de la Confrérie croient que chaque meurtre est un sacrement, envoyant l'âme de la victime dans le Vide pour nourrir Sithis.
+
+Les rituels de la Confrérie reposent sur :
+
+1. **La Nuit Mère** — épouse mortelle de Sithis qui lui sacrifia ses cinq enfants, devenant après sa mort le canal par lequel Sithis communique ses volontés
+2. **L'Auditeur** — le membre unique capable d'entendre la voix de la Nuit Mère dans son cercueil
+3. **Le Sacrement Noir** — rituel d'invocation permettant aux clients de contacter la Confrérie
+4. **Les Ténèbres** — l'état de grâce dans lequel un assassin accomplit son art
+5. **Le Vide** — destination finale des victimes et récompense ultime des fidèles
+
+### La Nuit Mère : Épouse du Vide
+
+La **Nuit Mère** reste une figure entourée de mystère. Selon la tradition de la Confrérie, elle fut une femme mortelle qui entendit la voix de Sithis et lui offrit ses propres enfants en sacrifice suprême. En récompense, Sithis en fit sa compagne éternelle et le canal de sa volonté dans le monde des vivants.
+
+Son corps momifié, conservé dans un cercueil transporté par la Confrérie, continue de murmurer les noms de ceux qui doivent mourir à l'oreille de l'Auditeur.
+
+## Interprétations Théologiques
+
+### La Perspective des Argoniens
+
+Les **Argoniens** possèdent une relation unique avec Sithis. Dans leur culture, le Vide n'est pas un concept maléfique mais un aspect naturel du cycle de l'existence. Les **Hist** — les arbres sentients du Marais Noir — seraient selon certaines traditions directement liés à Sithis. Les Argoniens assassins de la Confrérie considèrent leur service comme un acte sacré et naturel, dépourvu de la connotation maléfique que d'autres cultures y attachent.
+
+### La Perspective Académique
+
+Les mages de l'**Université Arcane** et de l'**Ordre Psijique** considèrent généralement que la Confrérie Noire a anthropomorphisé une force cosmique impersonnelle. Pour eux, Sithis ne « veut » rien, ne « demande » rien — il est simplement l'entropie naturelle de l'univers, le changement inévitable qui dissout toute structure.
+
+### Le Paradoxe de la Personnification
+
+La question centrale reste : Sithis possède-t-il une conscience ? Plusieurs arguments s'affrontent :
+
+- **Pour** : La Nuit Mère communique véritablement, les contrats de la Confrérie sont honorés par des forces surnaturelles, certains spectres affirment servir Sithis dans l'au-delà
+- **Contre** : Les forces invoquées pourraient être d'origine daedrique (peut-être **Mephala**, fondatrice historique de la Morag Tong), Sithis en tant que non-existence ne peut logiquement posséder de volonté
+
+## Sithis dans la Métaphysique de l'Aurbis
+
+### Au-delà du Bien et du Mal
+
+Il serait réducteur de qualifier Sithis de « maléfique ». Le Vide est aussi nécessaire que la lumière. Sans la dissolution, rien de nouveau ne peut naître. Les saisons, la mort naturelle, l'évolution des espèces, la chute des empires — tout changement participe de Sithis. En ce sens, refuser Sithis reviendrait à refuser la vie elle-même, car la vie n'est possible que par le changement.
+
+### La Relation avec les Princes Daedra
+
+Les **Princes Daedra** sont souvent considérés comme des enfants de Sithis/Padomay, par opposition aux Aedra issus d'Anu/Anui-El. Cette classification est cependant simpliste — la réalité cosmologique est plus nuancée. Les Princes existent *dans* l'Aurbis et possèdent une identité définie, ce qui les distingue fondamentalement du Vide impersonnel de Sithis.
+
+### Le Vide Extérieur
+
+Au-delà de l'Aurbis — au-delà même d'Oblivion et d'Aetherius — s'étend le **Vide** véritable. Ce n'est pas un lieu mais une absence de lieu, pas une chose mais l'absence de toute chose. C'est le domaine ultime de Sithis, l'état naturel de la non-existence vers lequel toute la Création retournera peut-être un jour, quand le Rêve d'Anu prendra fin.

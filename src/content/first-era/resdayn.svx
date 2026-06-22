@@ -1,0 +1,58 @@
+---
+title: "Resdayn, l'ancienne Morrowind"
+slug: "resdayn"
+era: "first-era"
+category: "empires"
+tags: ["resdayn", "morrowind", "chimer", "dwemer", "nerevar", "dumac"]
+timelineYear: 400
+summary: "Resdayn fut le nom de l'alliance entre Chimer et Dwemer qui forma la première nation unifiée de ce qui deviendrait Morrowind."
+sources: ["Nerevar at Red Mountain", "The Battle of Red Mountain", "War of the First Council", "Pocket Guide to the Empire 1st Edition"]
+---
+
+## La fondation d'une nation improbable
+
+**Resdayn** est le nom ancien de la terre que nous connaissons aujourd'hui sous le nom de **Morrowind**. Mais plus qu'un simple toponyme, Resdayn désigne une alliance politique sans précédent entre deux peuples elfiques que tout séparait : les **Chimer**, adorateurs des Princes Daedra et guidés par leur foi, et les **Dwemer**, athées convaincus et maîtres de la technologie. Cette union, forgée dans la nécessité face aux envahisseurs nordiques, fut à la fois le plus grand triomphe diplomatique de l'ère et la source de la tragédie qui allait transformer la région pour toujours.
+
+Au début de la Première Ère, les terres de l'est de Tamriel étaient un patchwork de territoires Chimer et Dwemer en conflit perpétuel. Les Chimer, peuple de peau dorée issu de la migration des dissidents d'**Aldmeris** guidés par le prophète **Veloth**, occupaient les plaines, les marais et les côtes. Les Dwemer, reclus dans leurs cités souterraines, contrôlaient les régions montagneuses et les vastes réseaux de cavernes sous le continent.
+
+Ces deux peuples se méprisaient mutuellement depuis des siècles. Les Chimer considéraient les Dwemer comme des blasphémateurs qui niaient l'existence même des dieux. Les Dwemer regardaient les Chimer comme des superstitieux arriérés, esclaves de forces qu'ils ne comprenaient pas. La cohabitation était hostile, ponctuée de guerres territoriales et d'escarmouches frontalières.
+
+## La menace nordique
+
+C'est l'expansion agressive du **Premier Empire Nordique** sous le roi **Vrage le Doué** qui rendit l'alliance nécessaire. Les armées nordiques, portées par la puissance du **Thu'um** et galvanisées par leur foi guerrière, déferlèrent sur les terres de l'est au début de la Première Ère. Ni les Chimer seuls ni les Dwemer seuls ne pouvaient résister à cette marée nordique.
+
+Les conquérants nordiques ne faisaient pas de distinction entre les deux races elfiques. Pour eux, tous les elfes étaient des ennemis à soumettre ou à détruire. Cette menace commune força les deux peuples à dépasser leur hostilité ancestrale. Les pragmatiques de chaque camp reconnaissaient que la survie de l'un dépendait de la coopération avec l'autre.
+
+Les premières tentatives de rapprochement furent difficiles. Des siècles de méfiance ne s'effacent pas en quelques négociations. Mais la pression militaire nordique était un puissant catalyseur, et progressivement, les chefs les plus visionnaires des deux camps commencèrent à envisager une alliance formelle.
+
+## Nerevar et Dumac
+
+L'alliance de Resdayn fut personnifiée dans l'amitié légendaire entre deux chefs exceptionnels : **Indoril Nerevar**, Hortator des Chimer, et **Dumac Nain-Libre**, roi des Dwemer. Ces deux individus transcendèrent les préjugés de leurs peuples respectifs pour forger un lien personnel qui devint le fondement de l'alliance politique.
+
+Nerevar était un chef charismatique et un guerrier sans pareil, reconnu comme le plus grand capitaine de son peuple. Sa vision politique dépassait le cadre étroit du tribalisme Chimer : il voyait la possibilité d'une nation unifiée, forte de la combinaison des talents des deux races. Son conseiller et ami, **Vivec**, et ses généraux **Almalexia** et **Sotha Sil**, partageaient cette vision d'un avenir commun.
+
+Dumac était l'équivalent de Nerevar chez les Dwemer : un dirigeant respecté capable de commander l'obéissance des nombreux clans indépendants de son peuple. Son amitié avec Nerevar était authentique, un lien rare entre des êtres de cultures aussi différentes. Les deux chefs se reconnaissaient mutuellement comme des esprits d'exception, au-dessus des petitesses tribales.
+
+## L'expulsion des Nordiques
+
+L'alliance formelle entre Chimer et Dwemer permit la formation d'une force militaire combinée d'une efficacité redoutable. Les guerriers Chimer, fanatiques et déterminés, apportaient le nombre et la férocité. Les Dwemer contribuaient leur technologie incomparable : automates de combat, armes à vapeur, armures de métal enchanté et fortifications imprenables.
+
+La campagne pour libérer Resdayn de l'occupation nordique fut systématique et victorieuse. Les garnisons nordiques, conçues pour intimider des tribus elfiques désorganisées, ne pouvaient résister aux assauts coordonnés des deux armées. Forteresse après forteresse, les Nordiques furent repoussés vers l'ouest, jusqu'à ce que Resdayn soit entièrement libérée de leur présence.
+
+Cette victoire commune cimenta l'alliance et donna naissance à un sentiment national partagé. Chimer et Dwemer avaient combattu côte à côte, versé leur sang ensemble, et la fraternité du champ de bataille transcendait les anciennes querelles. Resdayn n'était plus seulement un traité : c'était devenu une patrie commune.
+
+## La coexistence et ses tensions
+
+La paix qui suivit l'expulsion des Nordiques ne fut pas parfaite. Les différences fondamentales entre les deux cultures ne disparurent pas avec l'ennemi commun. Les Chimer continuaient leurs dévotions aux Princes Daedra, notamment à **Azura**, **Boethiah** et **Mephala**, les Trois Bons Daedra. Les Dwemer persistaient dans leur athéisme militant et leurs recherches sur la nature de la divinité.
+
+La coexistence fonctionnait grâce à un accord tacite de non-ingérence : chaque peuple respectait les pratiques de l'autre sans chercher à les comprendre ou à les modifier. Les frontières entre territoires Chimer et Dwemer restaient clairement définies, et les zones de contact étaient gérées par des protocoles diplomatiques élaborés.
+
+Le commerce entre les deux peuples prospéra malgré les tensions. Les Dwemer échangeaient leurs produits technologiques contre les matériaux bruts et les produits agricoles des Chimer. Les cités-frontières comme **Ghostgate** devinrent des centres d'échange où les deux cultures se rencontraient pacifiquement. Pendant quelques siècles, Resdayn représenta un modèle de coopération inter-raciale unique dans l'histoire de Tamriel.
+
+## La rupture et la fin
+
+L'alliance de Resdayn s'effondra lors de la découverte du **Coeur de Lorkhan** sous la **Montagne Rouge** par le Tonal Architecte Dwemer **Kagrenac**. Les Dwemer entreprirent de construire un dieu artificiel, le **Numidium**, en utilisant le Coeur comme source d'énergie divine. Cette entreprise hérétique, qui menaçait de bouleverser l'équilibre métaphysique de **Nirn**, était inacceptable pour les Chimer.
+
+La **Guerre du Premier Conseil** qui s'ensuivit opposa les anciens alliés dans un conflit dévastateur. Nerevar, le coeur brisé par la trahison de son ami Dumac, mena ses armées contre les forteresses Dwemer. La **Bataille de la Montagne Rouge** fut le climax de ce conflit : Nerevar affronta Dumac, Kagrenac activa ses outils sur le Coeur, et dans un instant cataclysmique, le peuple Dwemer entier disparut de l'existence.
+
+Resdayn survécut en tant que terre mais pas en tant qu'alliance. Les Chimer, transformés en **Dunmer** par la malédiction d'**Azura** suite aux actions du **Tribunal**, renommèrent leur pays **Morrowind**. Le rêve de Nerevar et Dumac d'une nation unie dans la diversité mourut avec eux à la Montagne Rouge, laissant derrière lui un pays hanté par les fantômes de ce qui aurait pu être.

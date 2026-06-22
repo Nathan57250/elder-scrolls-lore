@@ -1,0 +1,88 @@
+---
+title: "Le Vampirisme à Tamriel"
+slug: "vampirisme"
+era: "first-era"
+category: "magie"
+tags: ["vampire", "molag bal", "sang", "mort-vivant", "volkihar", "maladie", "lamae bal"]
+timelineYear: 1000
+summary: "Le vampirisme est une malédiction originaire de Molag Bal — une maladie surnaturelle qui transforme ses victimes en prédateurs immortels aux multiples lignées et pouvoirs."
+sources: ["UESP: Vampirism", "Immortal Blood", "The Imperial Library: Vampires of the Iliac Bay"]
+---
+
+## Origines
+
+Le vampirisme fut créé par **Molag Bal**, le Prince Daedrique de la Domination, quand il viola la Nédique **Lamae Beolfag** — la première vampire. Cet acte de profanation visait à moquer Arkay et son domaine sur la mort. Lamae devint **Lamae Bal**, mère de tous les vampires.
+
+D'autres lignées émergèrent quand Molag Bal partagea sa malédiction avec d'autres mortels, créant les **vampires purs-sang** — ceux qui reçurent le don directement du Prince.
+
+## Infection et Transformation
+
+### Sanguinare Vampiris
+La maladie la plus commune se transmet par les attaques de vampires existants. Sans traitement dans les **72 heures**, la transformation est irréversible :
+
+1. **Jour 1-2** : Fièvre, sensibilité à la lumière
+2. **Jour 3** : Faim inexplicable, pâleur
+3. **Jour 3 (nuit)** : Mort et résurrection en vampire
+
+### Rite de Sang (Pure-Blood)
+Les vampires purs-sang sont créés par un rituel direct avec Molag Bal. Ce processus est instantané mais traumatisant — le mortel meurt et renaît immédiatement avec la pleine puissance vampirique.
+
+## Pouvoirs et Faiblesses
+
+### Capacités
+- **Force surhumaine** — augmente avec l'âge
+- **Régénération** — guérison accélérée
+- **Séduction** — charme surnaturel
+- **Invisibilité** (certaines lignées)
+- **Transformation** (Vampire Lord — purs-sang uniquement)
+- **Résistance au froid et au poison**
+- **Immortalité** — ne vieillissent pas
+
+### Vulnérabilités
+- **Soleil** — affaiblissement, dommages (sévérité variable selon la lignée)
+- **Feu** — vulnérabilité accrue
+- **Argent** — blessures plus graves
+- **Détection** — les yeux brillent, la peau pâlit avec la soif
+- **Faim** — la soif de sang est constante et irrépressible
+
+## Les Lignées Majeures
+
+| Lignée | Région | Particularité |
+|--------|--------|---------------|
+| Volkihar | Bordeciel | Les plus puissants, peuvent marcher sur la glace |
+| Cyrodiil | Cyrodiil | Maîtres de l'illusion, se fondent dans la société |
+| Quarra | Morrowind | Combattants brutaux, force brute |
+| Aundae | Morrowind | Mages vampires, maîtrise de la magie |
+| Berne | Morrowind | Assassins, invisibilité |
+| Ravenwatch | Haute-Roche | "Éthiques", se nourrissent sans tuer |
+
+## Le Clan Volkihar
+
+La lignée la plus notable en Bordeciel, dirigée par **Lord Harkon** depuis le château Volkihar sur une île de la Mer des Fantômes :
+- Purs-sang créés par le rituel de Molag Bal
+- Capacité de **Vampire Lord** — transformation en créature ailée
+- Harkon cherchait à utiliser les Parchemins des Anciens pour éteindre le soleil via la **Prophétie de Tyranus du Sang**
+- Défait par les **Dawnguard** et/ou le Dernier Enfant de Dragon en 4E 201
+
+## La Garde de l'Aube (Dawnguard)
+
+Ordre militant dédié à l'éradication des vampires :
+- Fondé au Deuxième Ère, dissous, puis refondé en 4E 201 par **Isran**
+- Basé au **Fort Dawnguard** dans la Brèche
+- Armement : arbalètes, boulons de soleil, sortilèges anti-morts-vivants
+- Alliés aux **Moth Priests** pour interpréter les Elder Scrolls
+
+## La Cure
+
+Le vampirisme peut être guéri :
+- **Avant transformation complète** : toute potion de guérison de maladie, bénédiction d'autel
+- **Après transformation** : rituel complexe impliquant une **Gemme d'Âme Noire remplie** et l'intervention de **Falion** (mage de Morthal) ou d'autres spécialistes
+- **Purs-sang** : la cure est quasi-impossible sans intervention divine directe
+
+## Perception Sociale
+
+Les vampires sont universellement craints et chassés. Cependant :
+- Certains vampires vivent parmi les mortels en se dissimulant (lignée Cyrodiil)
+- Le clan Ravenwatch de Haute-Roche démontre qu'une coexistence est possible
+- Les Vigiles de Stendarr et les Dawnguard les chassent activement
+- En Morrowind, les trois clans vampires existaient en relative tolérance tant qu'ils restaient discrets

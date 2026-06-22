@@ -1,0 +1,116 @@
+---
+title: "Faillaise"
+slug: "riften"
+era: "fourth-era"
+category: "lieux"
+tags: ["faillaise", "guilde-des-voleurs", "maven-roncenoir", "corruption", "mara", "lac-honrich"]
+timelineYear: 201
+summary: "Faillaise est une cite marchande du sud-est de Bordeciel, gangrénée par la corruption de la famille Roncenoir et servant de base operationnelle a la Guilde des Voleurs."
+sources: ["Erta's Journal", "Of Crossed Daggers", "The Nightingales", "Scourge of the Gray Quarter"]
+---
+
+# Faillaise
+
+## Presentation de la Cite
+
+**Faillaise** (*Riften*) est la capitale du fief du meme nom, situee sur les rives du **Lac Honrich** dans le sud-est de Bordeciel. Autrefois prospere cite marchande reputee pour ses pecheries et son hydromel, elle est devenue en 4E 201 un repaire de corruption, de crime organise et de decadence politique. Sous sa facade de cite paisible aux canaux pittoresques se cache un reseau criminel qui controle tous les aspects de la vie locale.
+
+La cite est construite sur des pilotis et des plateformes au-dessus de canaux qui se deversent dans le lac. Cette architecture unique — avec ses passerelles en bois, ses quais surplombant l'eau et ses ruelles etroites — offre un cadre ideal pour les activites clandestines : passages secrets, trappe dans les planchers, et canaux souterrains forment un labyrinthe propice a la fuite et a la dissimulation.
+
+## Geographie et Environnement
+
+Faillaise beneficie d'un climat plus clement que le reste de Bordeciel, grace a sa position meridionale et a la protection des montagnes environnantes. Le **Lac Honrich** et la foret d'automne qui l'entoure lui conferent un cadre naturel d'une beaute remarquable — feuillages dores, eaux calmes, brumes matinales.
+
+Les environs de la cite comprennent :
+- Le **Lac Honrich** — vaste etendue d'eau poissonneuse alimentant l'economie locale
+- La **Foret de la Faille** (*The Rift*) — foret de feuillus aux couleurs automnales perpetuelles
+- **Ragged Flagon** — reseau de souterrains sous la cite
+- Le **Monastere de Mara** — temple de la deesse de l'amour a l'entree de la ville
+- Des fermes et des vergers dans la vallee environnante
+
+## Maven Roncenoir : La Vraie Souveraine
+
+**Maven Roncenoir** (*Maven Black-Briar*) est la femme la plus puissante de Faillaise — et sans doute du fief tout entier. Officiellement simple proprietaire de la **Brasserie Roncenoir**, elle est en realite le pouvoir derriere le trone, manipulant le Jarl, la garde, les marchands et les criminels avec une main de fer gantee de velours.
+
+Les sources du pouvoir de Maven :
+- **La Brasserie Roncenoir** — sa fortune personnelle, produisant l'hydromel le plus vendu de Bordeciel
+- **La Guilde des Voleurs** — qu'elle utilise comme bras arme pour intimider ses rivaux
+- **La Confrerie Noire** — dont elle est une cliente reguliere pour eliminer les obstacles
+- **Le Thalmor** — avec qui elle entretient des relations diplomatiques profitables
+- **Les contacts imperiaux** — qui la protegent des consequences legales
+
+Maven ne gouverne pas par la force brute mais par la peur, la dette et le chantage. Chaque marchand lui doit de l'argent, chaque garde sait que la defier signifie la mort, et chaque politicien comprend que sa carriere depend de sa bonne volonte. Elle peut faire detruire un commerce, faire emprisonner un innocent, ou faire assassiner un ennemi d'un simple claquement de doigts.
+
+## Le Jarl et la Politique Locale
+
+Le **Jarl Laila Loi-des-Glaces** (*Laila Law-Giver*) est la dirigeante nominale de Faillaise, mais elle est largement deconnectee de la realite de sa cite. Sympathisante des Sombrages par conviction nationaliste, elle ignore — ou feint d'ignorer — la corruption qui gangrene son fief.
+
+Son intendant **Anuriel** est secretement a la solde de Maven, assurant que les decisions politiques servent les interets Roncenoir. Le fils de Laila, **Harrald**, est un incapable notoire. Seul son autre fils, **Saerlund**, semble conscient de la corruption mais impuissant a la combattre.
+
+Si les Imperiaux prennent le controle de la Faille durant la Guerre Civile, Maven est directement installee comme Jarl — officialisant simplement ce qui etait deja une realite de fait.
+
+## La Guilde des Voleurs
+
+La **Guilde des Voleurs** opere depuis les souterrains de Faillaise, dans un reseau de canaux et de salles appelé la **Souterraine** (*The Ratway*). Leur taverne clandestine, la **Ratissoire** (*Ragged Flagon*), est accessible par les egouts sous la cite.
+
+La presence de la Guilde affecte profondement la vie quotidienne :
+- Les commercants paient une "taxe de protection" informelle
+- Les gardes ferment les yeux sur les vols en echange de pots-de-vin
+- Les citoyens savent qu'il ne faut pas poser de questions
+- Les biens voles circulent ouvertement sur le marche noir
+- Toute plainte est inutile — la garde ne fera rien
+
+Malgre tout, la Guilde maintient un certain ordre dans le monde criminel. Sans elle, Faillaise serait en proie a une criminalite encore plus chaotique et violente.
+
+## La Brasserie Roncenoir
+
+La **Brasserie Roncenoir** (*Black-Briar Meadery*) est l'entreprise la plus rentable de Faillaise et l'une des plus importantes de Bordeciel. Elle produit l'**Hydromel Roncenoir**, une boisson reputee dans toute la province, ainsi que diverses autres bieres et alcools.
+
+La brasserie est situee a l'interieur des murs de la cite et emploie de nombreux ouvriers. Cependant, les conditions de travail sont dures et les employes vivent dans la peur de Maven. Toute tentative de syndicalisation ou de protestation est immediatement ecrasee — generalement par la Guilde des Voleurs ou par des menaces directes.
+
+**Ingun Roncenoir**, la fille de Maven, travaille officiellement a la brasserie mais passe son temps a etudier l'alchimie — en particulier les poisons. Son fascination morbide pour la toxicologie est toleree par sa mere, qui y voit peut-etre une competence utile.
+
+## Le Temple de Mara
+
+Le **Temple de Mara** est l'un des rares elements positifs de Faillaise. Dedie a la deesse de l'amour, de la compassion et de la fertilite, il est tenu par **Maramal** et les pretres de Mara qui officient les mariages et offrent refuge aux necessiteux.
+
+Le temple est situe pres de l'entree principale de la ville, symboliquement separe de la corruption interieure. C'est ici que les couples de tout Bordeciel viennent se marier selon les rites de Mara — un contraste ironique avec la ville sombre qui l'entoure.
+
+L'orphelinat **Bienfaisance d'Honorhall** (*Honorhall Orphanage*) est un autre etablissement notable, bien que sous la direction de la cruelle **Grelod la Douce**, il soit davantage une prison pour enfants qu'un lieu de charite.
+
+## Criminalite et Corruption
+
+La corruption a Faillaise est systemique et totale :
+
+**La Garde** — corrompue du capitaine au simple soldat. Les gardes acceptent les pots-de-vin, ignorent les crimes de la Guilde, et servent les interets de Maven.
+
+**La Justice** — inexistante pour les riches et les connectes. Un voleur pris en flagrant delit peut acheter sa liberte ; un innocent qui derange Maven peut etre emprisonne indefiniment.
+
+**Le Commerce** — controle par Maven et la Guilde. Les marchands independants sont intimides, taxes illegalement, ou simplement elimines.
+
+**L'Administration** — infiltree a tous les niveaux. L'intendant, les conseillers et les fonctionnaires servent Maven avant le Jarl.
+
+Le seul contrepoids est **Mjoll la Lionne** (*Mjoll the Lioness*), une aventuriere nordique qui tente de nettoyer la ville de sa corruption. Mais seule contre un systeme entier, ses efforts restent largement vains.
+
+## Economie
+
+Malgre la corruption, Faillaise reste une cite economiquement active :
+
+- **La peche** — le Lac Honrich fournit poissons et crustaces
+- **L'hydromel et la brasserie** — principale industrie sous controle Roncenoir
+- **L'apiculture** — liee a la production d'hydromel
+- **Le commerce** — position strategique sur les routes vers Morrowind et Cyrodiil
+- **L'agriculture** — la Faille est l'une des regions les plus fertiles de Bordeciel
+- **Le crime** — recel, contrebande et marche noir representent une economie parallele considerable
+
+## L'Incendie Historique
+
+L'histoire recente de Faillaise est marquee par un **incendie devastateur** qui ravagea une grande partie de la cite il y a quelques decennies. Cet evenement explique l'architecture de bois relativement recente qui contraste avec les fondations de pierre plus anciennes. Certains murmurent que l'incendie ne fut pas accidentel, mais les details restent obscurs.
+
+Avant l'incendie, Faillaise etait une cite plus prospere et moins corrompue. La destruction permit a des elements criminels de prendre le controle durant la reconstruction, et la famille Roncenoir saisit l'opportunite pour consolider son emprise sur la cite affaiblie.
+
+## Significance dans Bordeciel
+
+Faillaise represente le ventre mou de Bordeciel — la preuve que la corruption et le crime organise peuvent prosperer meme dans une societe guerriere. C'est un avertissement sur ce qui arrive quand la loi est a vendre et que le pouvoir se concentre entre des mains privees.
+
+Pourtant, pour ceux qui savent naviguer ses eaux troubles, Faillaise offre des opportunites que les cites plus honnetes ne peuvent fournir. C'est un lieu ou l'on peut disparaitre, se reinventer, ou trouver des services qu'aucune cite respectable ne proposerait ouvertement. Dans l'ombre de la corruption, une certaine forme de liberte existe — pour ceux qui en paient le prix.

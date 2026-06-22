@@ -1,0 +1,63 @@
+---
+title: "Haute-Roche : Terre des Bretons"
+slug: "haute-roche"
+era: "first-era"
+category: "lieux"
+tags: ["haute-roche", "bretons", "daggerfall", "faillemer", "orsinium", "feodalite", "politique"]
+timelineYear: 500
+summary: "Haute-Roche est une province de Tamriel ou la noblesse bretonne se dechire en intrigues politiques perpetuelles au sein d'un paysage de royaumes feodaux rivaux."
+sources: ["A History of Daggerfall", "Wayrest: Jewel of the Bay", "The Bretons: Mongrels or Paragons?", "Pocket Guide to the Empire, 3rd Edition"]
+---
+
+![Carte de Tamriel](/images/common/tamriel-map.jpg)
+
+## Haute-Roche : Le Pays des Mille Royaumes
+
+Haute-Roche occupe la peninsule nord-ouest de Tamriel, une terre de falaises battues par les vents, de vallees verdoyantes et de landes brumeuses. Cette province est avant tout connue pour sa fragmentation politique : des dizaines de royaumes, de duches et de cites-etats s'y disputent le pouvoir depuis des millenaires dans un ballet permanent d'alliances, de trahisons et de mariages arranges.
+
+## Les Bretons : Un Peuple de Sang-Mele
+
+Les Bretons sont le fruit d'une union singuliere dans l'histoire de Tamriel. Durant l'Ere Merethique, les Elfes Direnni — un clan d'Altmer installe en Haute-Roche — prirent des esclaves et des concubines parmi les populations humaines Nede. Au fil des generations, ces unions produisirent une race hybride possedant l'apparence des humains mais conservant une affinite naturelle pour la magie heritee de leur sang elfique.
+
+Cette double nature fait des Bretons les meilleurs mages parmi les races humaines. Leur resistance innee a la magie surpasse celle de tout autre peuple de Tamriel, et leur aptitude a manipuler les forces arcanes est remarquable. Cependant, cette ascendance mixte leur a aussi valu le mepris de certaines races plus "pures."
+
+## Daggerfall : La Cite des Poignards
+
+Daggerfall est la plus ancienne et la plus puissante des cites de Haute-Roche. Fondee au cours de la Premiere Ere, elle a donne son nom au celebre evenement connu sous le nom de Miracle du Fetide (ou Warp in the West), durant lequel une distorsion du Dragon du Temps permit a plusieurs resultats contradictoires de coexister simultanement.
+
+La cite elle-meme est un labyrinthe de ruelles medievales, de tours gothiques et de cryptes souterraines. Sa cour royale est legendaire pour la complexite de ses intrigues : un noble de Daggerfall peut etre assassine au matin, venge a midi et son meurtrier canonise au soir, tant les jeux de pouvoir y sont convolutifs.
+
+## Faillemer : La Perle de la Baie
+
+Faillemer (Wayrest) s'est imposee comme rivale de Daggerfall grace a sa position strategique sur la Baie d'Iliac. Cite marchande par excellence, elle a su convertir sa richesse commerciale en influence politique, devenant l'un des royaumes les plus prosperes de la province.
+
+La rivalite entre Daggerfall et Faillemer constitue l'un des axes majeurs de la politique de Haute-Roche. Des guerres ouvertes ont eclate a plusieurs reprises entre les deux puissances, et leurs espions respectifs maintiennent un reseau d'intrigues qui s'etend a travers toute la Baie d'Iliac.
+
+## Orsinium : Le Royaume Eternellement Assailli
+
+Au coeur des Montagnes de Wrothgar, les Orques (Orsimer) ont fonde et refonde leur cite d'Orsinium a de multiples reprises au cours de l'histoire. Chaque fois, les royaumes bretons et rougegardes voisins se sont allies pour la raser, considerant les Orques comme une menace inacceptable a leurs frontieres.
+
+Le siege d'Orsinium en 1E 980, mene conjointement par Daggerfall et Sentinel, dura pres de trente ans avant que la cite ne tombe enfin. Cet acharnement temoigne autant de la resilience orque que de la determination de leurs voisins a empecher l'emergence d'une puissance orsimer unifiee.
+
+## La Societe Feodale Bretonne
+
+La structure sociale de Haute-Roche est un edifice feodal d'une complexite byzantine. Au sommet tronent les rois et reines des differents royaumes. En dessous se deploie une hierarchie de ducs, comtes, barons, chevaliers et francs-tenanciers dont les obligations et privileges sont regis par un reseau inextricable de chartes, de serments et de precedents legaux.
+
+Les guildes jouent un role central dans cette societe :
+
+- **L'Ordre des Chevaliers du Dragon** : Protecteurs des rois et gardiens de l'honneur
+- **La Guilde des Mages** : Particulierement puissante en Haute-Roche, elle forme les nombreux sorciers bretons
+- **La Sombre Fraternite** : Florissante grace aux innombrables contrats generes par les intrigues nobiliaires
+- **Le Syndicat des Voleurs** : Operant dans l'ombre des cours royales
+
+## Magie et Enchantement
+
+Haute-Roche est reputee pour ses traditions magiques. Les Bretons excelling naturellement dans les arts arcanes, la province abrite de nombreuses academies et cercles de mages. La sorcellerie bretonne se distingue par son approche pragmatique : la ou les Altmer recherchent la perfection theorique et les Dunmer explorent les limites du permis, les mages bretons privilegient l'efficacite et l'application concrete.
+
+Les enchanteurs de Haute-Roche sont consideres parmi les meilleurs de Tamriel, et leurs artefacts sont recherches par les nobles et les aventuriers de tout le continent.
+
+## Un Heritage de Division
+
+La maledicition de Haute-Roche est aussi sa force : sa fragmentation empeche toute domination etrangere durable tout en interdisant l'unite interne. Les Bretons sont individuellement brillants — mages accomplis, diplomates subtils, guerriers competents — mais collectivement incapables de maintenir une alliance au-dela de la duree d'une menace commune.
+
+Cette eternelle division fait de Haute-Roche un theatre politique fascinant, ou le moindre mariage peut redessiner la carte du pouvoir et ou chaque banquet peut se transformer en champ de bataille.

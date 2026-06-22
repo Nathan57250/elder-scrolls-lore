@@ -1,0 +1,52 @@
+---
+title: "Les événements de Solstheim"
+slug: "solstheim-events"
+era: "fourth-era"
+category: "evenements"
+tags: ["solstheim", "miraak", "hermaeus-mora", "dragonborn", "raven-rock", "tel-mithryn", "apocrypha"]
+timelineYear: 201
+summary: "Les événements majeurs survenus sur Solstheim en 4E 201, incluant le retour de Miraak et l'influence d'Hermaeus Mora sur l'île."
+sources: ["Dragonborn DLC", "The Guardian and the Traitor", "The Winds of Change", "History of Raven Rock"]
+---
+
+## Solstheim en 4E 201
+
+L'île de **Solstheim**, située entre Bordeciel et **Morrowind**, connut en 4E 201 une série d'événements qui menacèrent l'existence même de ses habitants. Autrefois territoire nordique rattaché à Bordeciel, l'île avait été cédée à Morrowind après l'**Année Rouge** de 4E 5, lorsque l'éruption de la **Montagne Rouge** dévasta Vvardenfell et força des milliers de Dunmer à chercher refuge sur ses côtes.
+
+Lorsque le **Dernier Enfant de Dragon** posa le pied sur l'île, il découvrit une population sous l'emprise d'une force mystérieuse. Les habitants, dans un état de transe, construisaient d'étranges structures de pierre autour des Pierres Levées sans en avoir conscience. Cette manipulation mentale de masse était l'oeuvre de **Miraak**, le Premier Enfant de Dragon, qui cherchait à s'échapper de sa prison dans **Apocrypha**.
+
+## Le retour de Miraak
+
+**Miraak** avait été emprisonné dans le royaume d'**Hermaeus Mora** depuis l'Ère Méréthique, après sa rébellion contre le Culte du Dragon. Durant des millénaires, il avait accumulé un pouvoir considérable tout en planifiant son évasion. Son plan reposait sur l'asservissement des esprits des habitants de Solstheim à travers les **Livres Noirs**, des artefacts daédriques servant de liens directs avec Apocrypha.
+
+Les Pierres Levées de l'île — la Pierre de la Terre, la Pierre du Soleil, la Pierre de la Bête, la Pierre de l'Eau, la Pierre du Vent et la Pierre de l'Arbre — furent corrompues par l'influence de Miraak. Les habitants construisaient autour d'elles des sanctuaires destinés à canaliser leur énergie spirituelle vers le Premier Dragonborn, lui fournissant la puissance nécessaire pour briser les chaînes d'Apocrypha.
+
+## L'influence d'Hermaeus Mora
+
+**Hermaeus Mora**, le Prince Daedrique de la Connaissance Interdite, joua un rôle ambigu dans ces événements. Si Miraak était officiellement son champion, le Gardien du Savoir Interdit ne fit rien pour empêcher le Dernier Enfant de Dragon de pénétrer dans Apocrypha et de défier son prisonnier. Certains érudits suggèrent que Mora orchestrait délibérément l'affrontement entre les deux Dragonborn, cherchant à remplacer un champion récalcitrant par un autre plus malléable.
+
+Les **Livres Noirs** disséminés sur Solstheim constituaient les clés d'accès au royaume de Mora. Chacun d'entre eux — *Epistolary Acumen*, *Filament and Filigree*, *The Hidden Twilight*, *The Sallow Regent*, *Untold Legends*, *The Winds of Change* et *Waking Dreams* — ouvrait un passage vers une section différente d'Apocrypha, offrant à celui qui les consultait des pouvoirs uniques en échange d'un lien toujours plus étroit avec le Prince Daedrique.
+
+## La communauté de Raven Rock
+
+**Raven Rock**, principal établissement de l'île, était une ancienne colonie minière de la **Compagnie de la Baie Orientale** reconvertie en refuge dunmer. Sous la gouvernance du Conseiller **Morvayn**, la ville luttait pour sa survie entre les attaques de frêlons de cendre, la menace des bandits et l'épuisement apparent de sa mine d'ébonite.
+
+L'arrivée du Dernier Enfant de Dragon permit de résoudre plusieurs crises : la réouverture de la mine d'ébonite assura la pérennité économique de la ville, tandis que l'élimination de la menace de Miraak libéra les citoyens de leur asservissement mental. Les Dunmer de Raven Rock, bien qu'éloignés de leur patrie dévastée, trouvèrent ainsi un nouveau souffle.
+
+## Tel Mithryn et la magie Telvanni
+
+La tour champignon de **Tel Mithryn**, établie par le Maître **Neloth** de la Grande Maison **Telvanni**, représentait un avant-poste de la culture et de la magie dunmer sur Solstheim. Neloth, l'un des derniers grands sorciers Telvanni, menait ses recherches sur les Pierres du Coeur et les enchantements Dwemer avec un mépris caractéristique pour tout ce qui n'était pas sa propre quête de connaissance.
+
+Ses recherches sur les **Pierres du Coeur** — des fragments de la pierre du coeur de **Lorkhan** — fournirent des informations cruciales pour comprendre la nature du pouvoir de Miraak et les mécanismes de l'enchantement des Pierres Levées.
+
+## Les Skaals et les traditions nordiques
+
+Le village **Skaal**, dans la partie nord de l'île, abritait une communauté nordique ayant préservé des traditions chamaniques ancestrales. Leur chef spirituel, **Storn Crag-Strider**, détenait des connaissances anciennes sur la Voix et les Thu'ums oubliés que Mora convoitait depuis des millénaires.
+
+Le sacrifice de Storn — qui offrit volontairement ses connaissances à Hermaeus Mora en échange du dernier mot de pouvoir nécessaire pour vaincre Miraak — illustre le prix terrible que les habitants de Solstheim payèrent dans ce conflit entre deux Enfants de Dragon et un Prince Daedrique manipulateur.
+
+## Conséquences et héritage
+
+La défaite de Miraak dans Apocrypha mit fin à la menace directe pesant sur Solstheim, mais les conséquences à long terme restent incertaines. **Hermaeus Mora** considère désormais le Dernier Enfant de Dragon comme son nouveau champion — un titre que celui-ci n'a peut-être pas accepté volontairement. Les Livres Noirs demeurent sur l'île, et les passages vers Apocrypha restent ouverts pour quiconque ose les consulter.
+
+L'île elle-même, libérée de l'emprise de Miraak, retrouva une certaine normalité. Les Pierres Levées furent purifiées, les habitants reprirent conscience, et la vie quotidienne reprit son cours entre les cendres volcaniques et les vents glacés du nord. Mais le savoir que Mora a extrait des Skaals est perdu à jamais, et avec lui, une partie irremplaçable de la mémoire de Solstheim.

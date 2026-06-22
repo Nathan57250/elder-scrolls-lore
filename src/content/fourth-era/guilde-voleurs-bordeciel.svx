@@ -1,0 +1,131 @@
+---
+title: "La Guilde des Voleurs de Bordeciel"
+slug: "guilde-voleurs-bordeciel"
+era: "fourth-era"
+category: "guildes"
+tags: ["guilde-des-voleurs", "faillaise", "rossignols", "nocturnal", "mercer-frey", "karliah"]
+timelineYear: 201
+summary: "La Guilde des Voleurs de Bordeciel, basee dans les souterrains de Faillaise, traverse une periode de declin en 4E 201 avant de retrouver sa gloire passee grace a la decouverte de la trahison de son maitre."
+sources: ["Erta's Journal", "Gallus's Encoded Journal", "Nightingales: Fact or Fiction?", "The Real Barenziah"]
+---
+
+# La Guilde des Voleurs de Bordeciel
+
+## Presentation Generale
+
+La **Guilde des Voleurs** de Bordeciel est une organisation criminelle operant depuis les souterrains de la ville de **Faillaise** (*Riften*). Contrairement a la Confrerie Noire qui vend la mort, la Guilde vend le silence, la subtilite et la redistribution des richesses. Leur credo fondamental est simple : ne jamais tuer lors d'un contrat, ne jamais voler les pauvres, et toujours honorer les accords conclus avec leurs clients.
+
+En 4E 201, la Guilde traverse sa pire periode depuis des decennies. Les contrats echouent, la malchance s'accumule, et les membres desertent. Ce declin cache en realite une trahison au sommet meme de l'organisation.
+
+## La Ratissoire : Le Sanctuaire Souterrain
+
+Le quartier general de la Guilde se situe dans la **Ratissoire** (*The Ragged Flagon*), une taverne clandestine situee dans les egouts et les canaux souterrains sous Faillaise, dans un reseau de tunnels connu sous le nom de **Souterraine** (*The Ratway*). Ce labyrinthe de passages inonde, de passerelles branlantes et de salles abandonnees sert de protection naturelle contre les intrusions.
+
+La Ratissoire comprend :
+- La taverne principale, tenue par **Vekel le Silence**
+- La **Citerne** (*The Cistern*), dortoir et salle d'entrainement des membres
+- Des coffres-forts et des caches pour le butin
+- Un acces secret vers la surface via le cimetiere de Faillaise
+- Des ateliers pour le crochetage et la falsification
+
+L'organisation possede egalement un vaste reseau d'informateurs, de receleuses et de contacts dans toutes les villes de Bordeciel, bien que ce reseau se soit considerablement reduit au moment de la crise de 4E 201.
+
+## Hierarchie et Fonctionnement
+
+La Guilde est organisee selon une hierarchie stricte :
+
+**Le Maitre de Guilde** — autorite supreme, responsable des decisions strategiques et de la repartition des benefices. En 4E 201, ce poste est occupe par **Mercer Frey**.
+
+**Les Rossignols** — trio d'elite lie par serment a la Princesse Daedrique Nocturnal (voir section dediee).
+
+**Brynjolf** — bras droit du Maitre, recruteur et mentor. C'est un Nordique au charme desarmant qui repere les talents prometteurs dans les rues de Faillaise.
+
+**Delvin Mallory** — specialiste des cambriolages et contact avec la Confrerie Noire. Il distribue les contrats de vol aux membres.
+
+**Vex** — experte en infiltration et vols audacieux. Imperiale au caractere mordant, elle gere les contrats les plus delicats.
+
+**Tonilia** — receleuse officielle de la Guilde, elle transforme le butin en septims.
+
+Les membres ordinaires executent les contrats, reversent une part a la Guilde, et montent en grade selon leurs succes.
+
+## La Trahison de Mercer Frey
+
+Le declin de la Guilde n'est pas le fruit du hasard. **Mercer Frey**, le Maitre de Guilde, est en realite un traitre qui pille l'organisation depuis des annees. Son histoire est liee a celle de son predecesseur, **Gallus Desidenius**.
+
+Gallus etait un Maitre de Guilde brillant et respecte qui avait decouvert que Mercer detournait les fonds de la tresorerie. Avant de pouvoir reveler la verite, Gallus fut assassine par Mercer en 4E 176, environ vingt-cinq ans avant les evenements de 4E 201. Mercer fit porter la responsabilite du meurtre a **Karliah**, la compagne de Gallus et troisieme Rossignol.
+
+Karliah fut bannie et traques pendant des decennies tandis que Mercer prenait le controle de la Guilde. Pendant tout ce temps, il :
+- Vida systematiquement le tresor de la Guilde
+- Utilisa la **Cle Squelette** (*Skeleton Key*) volee a Nocturnal pour ses propres fins
+- Sabota discretement les operations pour masquer ses detournements
+- Maintint l'illusion d'un leadership competent face au declin
+
+## Les Rossignols et Nocturnal
+
+Les **Rossignols** (*Nightingales*) constituent l'aspect le plus secret et le plus sacre de la Guilde des Voleurs. Il s'agit d'un trio de voleurs d'elite lies par un pacte avec la Princesse Daedrique **Nocturnal**, la Dame de la Nuit et patronne des voleurs.
+
+Le pacte des Rossignols implique :
+- La protection du **Temple du Crepuscule** (*Nightingale Hall*), sanctuaire secret de Nocturnal
+- La garde de la **Cle Squelette**, un artefact daedrique de pouvoir immense
+- Le service eternel a Nocturnal apres la mort, en tant que gardiens spectraux dans le **Evergloam**, son plan d'Oblivion
+
+En echange, les Rossignols recoivent :
+- Les **Pouvoirs de Rossignol** — capacites surnaturelles de furtivite
+- L'**Armure de Rossignol** — equipement enchante d'une puissance rare
+- La faveur de Nocturnal, qui se manifeste comme une chance surnaturelle
+
+Les trois Rossignols au moment du meurtre de Gallus etaient : Gallus lui-meme, Karliah, et Mercer Frey. La trahison de Mercer constitua donc une triple violation — envers la Guilde, envers ses compagnons, et envers Nocturnal elle-meme.
+
+## La Cle Squelette
+
+La **Cle Squelette** (*Skeleton Key*) est un artefact daedrique de Nocturnal dont le pouvoir depasse largement son apparence modeste. Bien qu'elle puisse ouvrir n'importe quelle serrure physique, sa veritable nature est metaphysique : elle permet de deverrouiller le potentiel cache de son porteur, supprimant toutes les limitations personnelles.
+
+Mercer Frey utilisa la Cle pendant vingt-cinq ans pour :
+- Augmenter ses capacites de voleur au-dela du naturel
+- Ouvrir toutes les serrures et coffres qu'il rencontrait
+- Devenir pratiquement indetectable
+- Acceder a des lieux autrement inaccessibles
+
+Cependant, le vol de la Cle priva le Temple du Crepuscule de sa protection, ce qui provoqua la malediction de Nocturnal sur la Guilde — expliquant la malchance persistante qui frappait l'organisation.
+
+## La Restauration de la Guilde
+
+La restauration de la Guilde commenca lorsque Brynjolf recruta un nouveau membre particulierement talentueux en 4E 201. Ce nouveau voleur decouvrit progressivement la verite sur Mercer grace a Karliah, qui emergea de sa cachette apres des decennies d'exil.
+
+Les etapes de la restauration :
+1. La decouverte du journal encode de Gallus, traduit grace a **Enthir** du College de Fortdhiver
+2. La revelation de la trahison de Mercer devant la Guilde assemblee
+3. La poursuite de Mercer jusqu'a la ruine dwemer d'**Irkngthand** ou il tentait de voler les yeux de la statue de la **Reine des Neiges**
+4. La mort de Mercer dans les profondeurs inondees d'Irkngthand
+5. Le retour de la Cle Squelette au Temple du Crepuscule
+6. La restauration de la faveur de Nocturnal
+
+## Influence a Faillaise
+
+La Guilde des Voleurs entretient une relation symbiotique avec la ville de Faillaise. **Maven Roncenoir** (*Maven Black-Briar*), la femme la plus puissante de la ville, est leur principale cliente et protectrice. Grace a son influence politique et sa fortune, elle protege la Guilde des autorites en echange de services reguliers.
+
+Cette alliance permet a la Guilde de :
+- Operer avec une relative impunite dans Faillaise
+- Avoir des contacts au sein de la garde de la ville
+- Beneficier de la protection politique de Maven
+- Acceder a des contrats lucratifs via le reseau Roncenoir
+
+La corruption de Faillaise est si profonde que meme le Jarl est sous l'influence indirecte de Maven, et les gardes ferment les yeux sur les activites de la Guilde tant que la violence reste limitee.
+
+## Code et Principes
+
+Malgre sa nature criminelle, la Guilde des Voleurs opere selon un code strict :
+
+- **Pas de meurtre** — la violence est un dernier recours, jamais un objectif
+- **Pas de vol aux pauvres** — seuls les riches et les puissants sont des cibles
+- **Honorer les contrats** — un accord est sacre, meme entre voleurs
+- **Proteger la Guilde** — ne jamais reveler l'existence ou les secrets de l'organisation
+- **Partager les profits** — une part revient toujours a la Guilde
+
+Ces principes distinguent la Guilde des simples brigands et lui conferent une forme de legitimite dans le monde criminel. Un voleur de la Guilde est un professionnel, pas un voyou.
+
+## Heritage et Tradition
+
+La Guilde des Voleurs de Bordeciel s'inscrit dans une tradition millenaire. Des organisations similaires existent dans tout Tamriel — la Guilde des Voleurs de Cyrodiil etait autrefois legendaire sous la direction du **Renard Gris**. Celle de Bordeciel, bien que plus modeste, perpetue les memes ideaux de vol elegant, de redistribution des richesses, et de defi a l'autorite etablie.
+
+Apres la restauration de 4E 201, la Guilde connut un renouveau spectaculaire, retrouvant son influence dans toutes les grandes villes de Bordeciel et retablissant son reseau de contacts et de protecteurs. La benediction retrouvee de Nocturnal assura que la chance sourirait de nouveau a ceux qui operent dans l'ombre.

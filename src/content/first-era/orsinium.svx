@@ -1,0 +1,66 @@
+---
+title: "Orsinium"
+slug: "orsinium"
+era: "first-era"
+category: "lieux"
+tags: ["lieux", "orques", "cité-état", "haute-roche", "destructions", "malacath", "politique"]
+timelineYear: 950
+summary: "Orsinium, la cité-état des Orques, fondée et détruite à de multiples reprises au fil des ères."
+sources: ["L'Histoire d'Orsinium", "Le Vrai Noble Sang", "La Chute d'Orsinium", "Documents impériaux"]
+---
+
+## La Cité des Orques
+
+**Orsinium**, littéralement la « Cité des Pariah Folk » en ancien orcish, est la cité-état légendaire des **Orques** (Orsimer). Fondée, détruite et reconstruite à de multiples reprises au cours de l'histoire de Tamriel, Orsinium représente le rêve éternel du peuple orque : un foyer, une patrie, un lieu où ils ne seraient plus des parias mais des citoyens d'une nation souveraine.
+
+L'histoire d'Orsinium est celle d'une tragédie cyclique. Chaque fois que les Orques parviennent à bâtir leur cité et à établir une civilisation, leurs voisins se liguent pour la détruire. Chaque fois qu'elle tombe, les Orques la reconstruisent ailleurs, portant en eux la mémoire et l'espoir de leur nation éternelle. Cette résilience est l'héritage de **Malacath**, leur patron, qui enseigne que la force naît de l'adversité.
+
+## La Première Orsinium
+
+La première Orsinium fut fondée dans les montagnes de Wrothgar, en Haute-Roche, au cours de la Première Ère. Les Orques, dispersés et persécutés depuis leur transformation par **Boethia**, se rassemblèrent sous la direction d'un chef visionnaire pour bâtir leur propre forteresse dans les montagnes inhospitalières que les autres races ne voulaient pas habiter.
+
+Cette première cité était davantage une forteresse qu'une ville, construite selon les principes du Code de Malacath : robuste, fonctionnelle et défendable. Les Orques y développèrent leur art de la forge, déjà réputé comme le meilleur de Tamriel, et commencèrent à établir des relations commerciales prudentes avec leurs voisins **bretons** et rougegardes.
+
+Pendant des siècles, la première Orsinium survécut dans un isolement relatif, trop petite pour menacer ses voisins mais suffisamment forte pour résister aux raids occasionnels. Les Orques n'étaient pas aimés, mais ils étaient tolérés tant qu'ils restaient dans leurs montagnes.
+
+## Le Siège et la Chute (1E 950)
+
+En 1E 950 (ou selon certaines sources dans les siècles suivants, les dates étant disputées), une coalition formée par les royaumes bretons de Daguefilante et de Sentinel lança un assaut massif contre Orsinium. Ce siège, qui dura selon les récits entre trente et cent ans, se termina par la destruction totale de la cité.
+
+Les motivations de cette coalition étaient multiples : la peur d'une puissance orque grandissante, le désir de sécuriser les routes commerciales traversant les montagnes de Wrothgar, et le simple préjugé racial contre un peuple considéré comme barbare et monstrueux.
+
+La chute de la première Orsinium dispersa à nouveau les Orques à travers Tamriel. Certains se réfugièrent dans des strongholds isolés, retournant au mode de vie tribal. D'autres tentèrent de s'intégrer dans les sociétés voisines, avec un succès limité. Le traumatisme de cette destruction imprégna la culture orque d'une méfiance profonde envers les étrangers.
+
+## Les Reconstructions Successives
+
+L'histoire d'Orsinium après sa première destruction est une série de tentatives de reconstruction, chacune suivie d'une nouvelle destruction. Au fil des ères, Orsinium fut rebâtie dans différents emplacements des montagnes de Wrothgar, chaque incarnation un peu plus grande et un peu plus ambitieuse que la précédente.
+
+Durant la Deuxième Ère, Orsinium connut une période de relative prospérité sous le roi Kurog, qui tenta de moderniser la société orque et de réformer le culte de Malacath en faveur d'un retour au culte de **Trinimac**. Cette tentative de réforme religieuse provoqua une guerre civile au sein de la communauté orque, illustrant les tensions entre traditionalisme et adaptation.
+
+La reconnaissance officielle d'Orsinium comme province impériale fut accordée et révoquée à plusieurs reprises au cours de la Troisième Ère. Chaque reconnaissance était un triomphe diplomatique pour les Orques ; chaque révocation, une humiliation de plus.
+
+## Orsinium dans la Quatrième Ère
+
+Au début de la Quatrième Ère, Orsinium existait entre Haute-Roche et Martelfell. Cette incarnation de la cité était la plus développée de toutes, avec une architecture impressionnante mêlant la brutalité orque à des influences impériales. Les Orques y avaient développé une société complexe, avec des guildes, des académies et une administration fonctionnelle.
+
+Cependant, cette Orsinium fut à nouveau détruite en 4E 174, prise entre les conflits régionaux et la haine ancestrale de ses voisins. Les réfugiés orques se dispersèrent une fois de plus, beaucoup trouvant refuge en Bordeciel où ils établirent des strongholds dans les régions montagneuses.
+
+## La Société Orque et la Cité
+
+Orsinium représente pour les Orques bien plus qu'une simple ville. C'est la preuve qu'ils sont capables de civilisation, qu'ils peuvent être plus que les barbares que le monde voit en eux. La cité est un symbole d'espoir et de fierté, la manifestation physique de leur droit à exister en tant que nation.
+
+La société d'Orsinium est structurée selon le Code de Malacath mais adaptée aux exigences de la vie urbaine. Le chef (Ashkan ou roi) gouverne toujours par la force, mais la complexité d'une cité nécessite également des administrateurs, des diplomates et des artisans. Cette tension entre la brutalité du Code et les nécessités de la civilisation est au cœur de la politique d'Orsinium.
+
+Les forges d'Orsinium sont légendaires. L'acier orcish, réputé comme le plus solide de Tamriel, est produit dans ces forges depuis des millénaires. Le commerce des armes et armures orques est souvent le principal levier économique de la cité, lui permettant de nouer des alliances commerciales même avec des nations qui les méprisent culturellement.
+
+## Le Rêve Éternel
+
+La destruction répétée d'Orsinium n'a jamais éteint le rêve orque d'une patrie. Chaque génération d'Orques porte en elle l'espoir de reconstruire, de prouver au monde que leur peuple mérite sa place parmi les nations civilisées. Ce rêve est alimenté par la mémoire des gloires passées et par la promesse de Malacath que la force finira par triompher de l'adversité.
+
+Les scholars impériaux débattent de la légitimité des revendications orques. Certains arguent que les Orsimer, en tant que race changée par une force daedrique, n'ont pas les mêmes droits que les autres peuples. D'autres maintiennent que des millénaires d'existence et de contribution culturelle leur confèrent une légitimité indéniable. Ce débat reflète les préjugés profonds qui persistent envers les Orques dans la société tamriélique.
+
+## Héritage et Signification
+
+L'histoire d'Orsinium est un miroir de la condition orque : éternellement détruite, éternellement reconstruite, éternellement méprisée mais jamais vaincue. C'est l'une des histoires les plus poignantes de Tamriel, celle d'un peuple qui refuse d'abandonner malgré les siècles d'oppression et de destruction.
+
+Pour les historiens, Orsinium est aussi un cas d'étude fascinant sur la manière dont les sociétés de Tamriel traitent l'altérité. La destruction cyclique de la cité orque révèle les limites de la tolérance impériale et la persistance des préjugés raciaux, même dans un monde supposément civilisé.

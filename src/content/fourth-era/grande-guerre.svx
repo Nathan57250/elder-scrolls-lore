@@ -1,0 +1,158 @@
+---
+title: "La Grande Guerre"
+slug: "grande-guerre"
+era: "fourth-era"
+category: "evenements"
+tags: ["grande-guerre", "thalmor", "empire", "domaine-aldmeri", "concordat-or-blanc", "talos", "titus-mede-ii", "bataille-anneau-rouge"]
+timelineYear: 171
+summary: "Le conflit majeur de la Quatrieme Ere (4E 171-175) opposant le Domaine Aldmeri a l'Empire, conclu par le Concordat de l'Or Blanc qui interdit le culte de Talos."
+sources: ["UESP: Great War", "The Great War (Legate Justianus Quintius)", "Events of TES V: Skyrim", "Rising Threat"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Contexte Geopolitique
+
+La **Grande Guerre** (4E 171 — 4E 175) fut le conflit le plus devastateur de la Quatrieme Ere, opposant l'**Empire de Cyrodiil** sous Titus Mede II au **Second Domaine Aldmeri** dirige par le Thalmor. Ce conflit redessina la carte politique de Tamriel et sema les graines de la guerre civile de Bordeciel.
+
+### L'Empire Affaibli
+
+A l'aube du conflit, l'Empire n'etait plus que l'ombre de sa gloire septimienne :
+- La dynastie Septim s'etait eteinte avec Martin en 3E 433
+- La dynastie **Mede** regnait, mais sans la legitimite divine des Septim
+- **Lenclume** (Hammerfell) et l'Empire entretenaient des relations tendues
+- Morrowind, devastee par l'Annee Rouge, ne pouvait contribuer militairement
+- Le Marais Noir s'etait retire de l'Empire de facto
+
+### Le Domaine Aldmeri en Puissance
+
+Le Thalmor avait passe un siecle et demi a :
+- Consolider son pouvoir sur l'Archipel de l'Estival
+- Absorber Val-Boise par un coup d'etat
+- Coopter Elsweyr apres les Nuits du Vide
+- Constituer une armee redoutable et disciplinee
+- Infiltrer l'Empire par un reseau d'espions
+
+## L'Ultimatum (4E 171)
+
+En 4E 171, le Thalmor presenta a l'empereur **Titus Mede II** un ultimatum comprenant :
+
+1. L'**interdiction totale** du culte de Talos dans l'Empire
+2. La **dissolution** de l'ordre des Lames
+3. La **cession** de vastes territoires en Lenclume au Domaine
+4. Le **tribut** financier annuel au Domaine Aldmeri
+
+L'empereur refusa. Le meme jour, un ambassadeur du Thalmor deposa devant lui les tetes de chaque agent des Lames en territoire Aldmeri. La guerre commenca.
+
+## Deroulement du Conflit
+
+### Premiere Phase : L'Offensive Aldmeri (4E 171-172)
+
+Le Domaine frappa simultanement sur deux fronts :
+
+**Front de Cyrodiil :**
+- Les armees aldmeri envahirent par le sud, traversant Val-Boise
+- Le general Thalmor **Naarifin** mena l'avancee principale
+- Les defenses imperiales du sud furent submergees
+
+**Front de Lenclume :**
+- Une seconde armee attaqua Lenclume par la cote
+- Plusieurs cites cotières tomberent rapidement
+- Les Rougegarde opposerent une resistance acharnee
+
+### La Chute de la Cite Imperiale (4E 174)
+
+Le point le plus sombre de la guerre survint en **4E 174** :
+- Le general Naarifin assiegea et prit la **Cite Imperiale**
+- L'empereur Titus Mede II fut contraint de **fuir** vers le nord
+- Le Temple de l'Unique et le Palais Imperial furent profanes
+- La **Tour d'Or Blanc** elle-meme tomba aux mains du Thalmor
+- Les actes de cruaute perpetres durant le Sac de la Cite Imperiale resterent graves dans la memoire collective
+
+### La Bataille de l'Anneau Rouge (4E 175)
+
+La contre-offensive decisieve de l'Empire fut un chef-d'oeuvre tactique :
+
+| Force | Commandant | Role |
+|-------|-----------|------|
+| Armee du Nord | Titus Mede II | Attaque frontale depuis le nord |
+| Armee de l'Ouest | General Decianus (rappele de Lenclume) | Encerclement par l'ouest |
+| Nouvelle Legion | General Jonna (venue de Bordeciel) | Attaque par l'est |
+
+L'armee de Naarifin fut **completement encerclee** autour du lac Rumare. En une journee de combat acharne :
+- L'armee aldmeri du Centre fut aneantie
+- Le general Naarifin fut capture (et selon certaines sources, suspendu au sommet de la Tour d'Or Blanc pendant 33 jours)
+- La Cite Imperiale fut liberee
+
+Cependant, la victoire eut un **cout terrible** — les legions imperiales furent decimees et incapables de poursuivre la guerre.
+
+## Le Concordat de l'Or Blanc
+
+### La Decision Controversee
+
+Malgre la victoire de l'Anneau Rouge, l'empereur Titus Mede II choisit de **negocier la paix** — une decision qui reste controversee. L'Empire n'avait plus les forces de continuer le combat, et le Domaine disposait encore de reserves.
+
+### Les Termes du Traite
+
+Le Concordat de l'Or Blanc, signe en **4E 175**, imposa :
+
+1. **L'interdiction du culte de Talos** dans tout l'Empire — le Neuvieme Divin fut retire du pantheon officiel
+2. **La dissolution des Lames** — l'ordre ancien charge de proteger l'empereur fut officiellement aboli
+3. **La cession de territoires** dans le sud de Lenclume au Domaine Aldmeri
+4. **L'autorisation** pour les Justiciars du Thalmor d'operer en territoire imperial pour faire respecter l'interdiction
+5. La **libre circulation** des agents du Thalmor dans l'Empire
+
+### Les Reactions
+
+- **Lenclume** refusa les termes et fit **secession** de l'Empire plutot que d'accepter la cession territoriale, combattant seule cinq annees supplementaires avant d'obtenir un statu quo
+- **Bordeciel** accepta officiellement mais avec une rage grandissante — les Nordiques voyaient en Talos leur heros national
+- Les **provinces orientales** (Morrowind, Marais Noir) etaient deja hors de l'orbite imperiale
+
+## Consequences
+
+### L'Interdiction de Talos
+
+L'interdiction du culte de Talos devint le grief principal des Nordiques contre l'Empire :
+- Les sanctuaires de Talos furent detruits ou abandonnes
+- Les pretres furent contraints a la clandestinite
+- Les Justiciars du Thalmor arreterent et torturerent les fideles
+- La colere nordique alimenta directement la rebellion des Sombrages
+
+### L'Affaiblissement de l'Empire
+
+La Grande Guerre laissa l'Empire :
+- Militairement epuise et incapable de projeter sa force
+- Territorialement reduit (perte de Lenclume, autonomie de fait de plusieurs provinces)
+- Politiquement humilie face aux nations vassales
+- Infiltre par les agents du Thalmor jusque dans ses institutions
+
+### Les Graines de la Guerre Civile
+
+La phrase d'**Ulfric Sombrage** resume le sentiment nordique : *"L'Empire n'est plus qu'un pantin des Elfes."* La Grande Guerre et le Concordat sont les causes directes de la guerre civile de Bordeciel qui eclata en 4E 201.
+
+## Perspective Strategique
+
+Certains analystes du lore suggerent que le Concordat ne fut qu'une **treve**, pas une paix veritable. Le Thalmor cherche a affaiblir l'Empire suffisamment pour porter le coup final, tandis que l'Empire espere gagner le temps necessaire pour reconstituer ses forces. La guerre civile de Bordeciel sert parfaitement les interets du Thalmor — divisant l'Empire de l'interieur.
+
+## Chronologie Causale
+
+La Grande Guerre s'inscrit dans une chaîne d'événements plus large :
+
+<CausalChain items={[
+  { text: "Crise d'Oblivion (3E 433) → Fin des Septim", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Vacance du trône (17 ans)", indent: 1 },
+  { text: "Dynastie Mede (sans légitimité divine)", indent: 1 },
+  { text: "Affaiblissement structurel de l'Empire", indent: 1 },
+  { text: "Thalmor exploite le vide (prise de pouvoir sur Alinor, 4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 1 },
+  { text: "Absorption de Val-Boisé et Elsweyr (4E 29-115)", link: "/chronologie/fourth-era/nuits-du-vide", indent: 1 },
+  { text: "GRANDE GUERRE (4E 171-175)", indent: 1 },
+  { text: "Concordat de l'Or Blanc (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc", indent: 1 },
+  { text: "Interdiction de Talos → Radicalisation d'Ulfric", indent: 2 },
+  { text: "Incident de Markarth (4E 176)", link: "/chronologie/fourth-era/incident-markarth", indent: 2 },
+  { text: "Meurtre de Torygg (4E 201) → Guerre Civile", link: "/chronologie/fourth-era/guerre-civile-bordeciel", indent: 2 },
+  { text: "Retour d'Alduin (4E 201) → Retour du Dovahkiin", link: "/chronologie/fourth-era/alduin", indent: 1 }
+]} />
+
+Le Thalmor joue sur le long terme — chaque événement renforce leur position. L'Empire se fracture de l'intérieur exactement comme ils l'espèrent.

@@ -1,0 +1,50 @@
+---
+title: "Vivec"
+slug: "vivec"
+era: "first-era"
+category: "personnages"
+tags: ["tribunal", "morrowind", "chimer", "dunmer", "muatra", "36-lecons", "nerevar"]
+date: "1E 700 — 3E 427"
+timelineYear: 700
+summary: "Dieu-poète du Tribunal, guerrier-philosophe mi-Chimer mi-Dunmer, auteur des 36 Leçons. L'un des êtres les plus puissants et énigmatiques de Tamriel."
+mapCoords: { x: 720, y: 320 }
+province: "Morrowind"
+aliases: ["Vehk", "VIVEC", "le Guerrier-Poète"]
+relatedArticles: ["premiere-ere", "vvardenfell"]
+sources: ["UESP: Vivec (god)", "The 36 Lessons of Vivec", "The Imperial Library"]
+---
+
+![Vivec, le Guerrier-Poète](/images/first-era/vivec.jpg)
+
+## Le Mortel Vehk
+
+Avant d'être un dieu, **Vivec** était **Vehk** — un enfant né dans la misère du peuple Chimer, dans les cendres de Morrowind. Son histoire mortelle est obscure, mêlée de mythes qu'il a lui-même construits dans ses écrits.
+
+Ce que l'on sait : il devint l'un des plus proches conseillers du général **Nerevar** Indoril, aux côtés d'Almalexia et de Sotha Sil. Il était déjà reconnu comme un combattant et orateur exceptionnel.
+
+## L'Ascension au Divin
+
+Après la Bataille de la Montagne Rouge et la mort de Nerevar, Vivec et ses deux compagnons du Tribunal utilisèrent les **Outils de Kagrenac** (Keening, Sunder, Wraithguard) sur le **Cœur de Lorkhan** pour s'élever au rang de divinité.
+
+Cet acte — une trahison de leur serment à Nerevar — leur conféra un pouvoir quasi-illimité mais les marqua de la malédiction d'**Azura** : le peuple Chimer devint les Dunmer à la peau grise.
+
+## Le Guerrier-Poète
+
+En tant que dieu vivant, Vivec incarna un paradoxe ambulant :
+- **Mi-homme, mi-femme** — son apparence est divisée verticalement, un côté doré (Chimer) et l'autre cendré (Dunmer)
+- **Guerrier et poète** — capable de détruire des armées et d'écrire les textes métaphysiques les plus denses de Tamriel
+- **Menteur et saint** — ses enseignements contiennent à la fois des vérités profondes et des mensonges délibérés
+
+## Les 36 Leçons de Vivec
+
+Son œuvre majeure, les **36 Leçons de Vivec** (aussi appelées les Sermons), est un texte à la fois religieux, philosophique et occulte. Y sont encodés :
+- Le concept de **CHIM** — l'éveil de la conscience au sein du Rêve du Dormeur (Godhead), sans se dissoudre
+- La notion de **l'Énantiomorphe** — le schéma récurrent de Roi/Rebelle/Observateur qui structure l'histoire
+- Des instructions cachées pour atteindre la transcendance
+- L'aveu implicite du meurtre de Nerevar
+
+## La Chute
+
+Quand le Nérévarine détruisit le Cœur de Lorkhan en **3E 427**, Vivec perdit sa source de divinité. Affaibli, il disparut mystérieusement — enlevé par les Daedra selon certains, ayant atteint le CHIM et choisi de partir selon d'autres.
+
+Sans Vivec pour maintenir le **Ministère de la Vérité** (un météore qu'il avait arrêté en plein vol au-dessus de sa cité par sa seule volonté), la roche s'écrasa sur **Vivec City** en 4E 5, provoquant l'éruption du Mont Écarlate et la dévastation de Vvardenfell.

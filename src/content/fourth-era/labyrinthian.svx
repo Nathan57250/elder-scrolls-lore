@@ -1,0 +1,56 @@
+---
+title: "Labyrinthe"
+slug: "labyrinthian"
+era: "fourth-era"
+category: "lieux"
+tags: ["labyrinthian", "labyrinthe", "magnus", "baton-de-magnus", "morokei", "bromjunaar", "college-fortdhiver"]
+timelineYear: 201
+summary: "Le Labyrinthe, ancien complexe nordique abritant le Bâton de Magnus, lieu de pouvoir lié au Culte du Dragon et à l'Archi-Mage Savos Aren."
+sources: ["College of Winterhold Questline", "Lost Legends", "Shalidor's Insights", "Amongst the Draugr"]
+---
+
+## Bromjunaar, la cité oubliée
+
+Le **Labyrinthe** (Labyrinthian) est un vaste complexe de ruines situé dans les montagnes au sud-est de Morthal, dans la châtellerie de Hjaalmarche. Autrefois connue sous le nom de **Bromjunaar**, cette cité fut la capitale du **Culte du Dragon** durant l'Ère Méréthique — le centre politique et religieux d'où les Prêtres-Dragons administraient leurs domaines au nom de leurs maîtres ailés.
+
+À son apogée, Bromjunaar abritait la plus grande concentration de Prêtres-Dragons de tout Bordeciel. Le **Sanctuaire du Bois** en son centre servait de lieu de réunion où les Prêtres les plus puissants se rassemblaient pour délibérer des affaires du culte, arbitrer les disputes territoriales et coordonner la domination draconique sur les populations nordiques.
+
+## Architecture et structure
+
+Le complexe du Labyrinthe est immense, comprenant plusieurs zones distinctes reliées par des passages souterrains et des cours à ciel ouvert. L'architecture mêle le style nordique ancien — grands blocs de pierre brute, arches massives, escaliers monumentaux — aux éléments caractéristiques des temples du Culte du Dragon : autels à dragons, bas-reliefs narrant la gloire des maîtres ailés, et pièges mortels conçus pour protéger les trésors sacrés.
+
+Les principaux secteurs incluent le **Labyrinthe** proprement dit — un dédale de couloirs piégés et de chambres funéraires — ainsi que des zones annexes comme le **Passage Cérémoniel** et la salle du trône de **Morokei**. Chaque section fut conçue non seulement comme un lieu de culte mais aussi comme un tombeau, destiné à préserver les Prêtres-Dragons dans la non-mort pour l'éternité.
+
+## Le Prêtre-Dragon Morokei
+
+**Morokei**, dont le nom signifie « Glorieux » en langue draconique, fut l'un des plus puissants Prêtres-Dragons. Maître des arcanes, il était le gardien du **Bâton de Magnus** — un artefact d'une puissance considérable lié au dieu **Magnus**, l'Architecte de Mundus qui s'enfuit dans l'Aetherius avant l'achèvement de la Création.
+
+Morokei fut piégé dans un état de suspension entre la vie et la mort, maintenu par deux spectres entomanciens dont l'énergie vitale alimentait sa prison. Son masque — l'un des huit masques de Prêtres-Dragons enchantés — confère à son porteur une régénération magique prodigieuse, témoignant de la nature profondément arcanique de ce gardien.
+
+## Le Bâton de Magnus
+
+Le **Bâton de Magnus** est un artefact de la plus haute importance, créé — selon la légende — par **Magnus** lui-même ou en son honneur. Ses pouvoirs exacts sont débattus par les érudits, mais sa capacité à absorber et manipuler l'énergie magique est indéniable. Le Bâton peut drainer la magicka d'un adversaire, dissiper des barrières magiques d'une puissance extraordinaire, et canaliser des forces arcaniques brutes.
+
+En 4E 201, le Bâton devint l'objet d'une quête vitale lorsque **Ancano**, un agent du **Thalmor** infiltré au **Collège de Fortdhiver**, tenta d'utiliser l'**Oeil de Magnus** — un orbe de pouvoir mystérieux découvert sous **Saarthal** — pour acquérir une puissance illimitée. Seul le Bâton de Magnus pouvait contrer l'Oeil et neutraliser la menace qu'Ancano faisait peser sur tout Bordeciel.
+
+## Savos Aren et la tragédie du Labyrinthe
+
+L'Archi-Mage **Savos Aren** du Collège de Fortdhiver portait un terrible secret lié au Labyrinthe. Des décennies avant les événements de 4E 201, alors qu'il était encore étudiant, Savos et un groupe de six condisciples avaient tenté d'explorer le complexe en quête de gloire et de savoir. L'expédition tourna au désastre : un par un, les étudiants périrent face aux draugr, aux pièges et aux horreurs qui peuplaient les ruines.
+
+À la fin, seul Savos survécut — mais au prix d'un acte terrible. Pour contenir Morokei dans sa chambre funéraire, il sacrifia les deux derniers survivants de son groupe, **Hafnar Glace-Poing** et **Elvali Veren**, les transformant en spectres enchaînés dont l'énergie maintenant le Prêtre-Dragon prisonnier. Ce secret hanta Savos pour le reste de sa vie et explique pourquoi il envoya un autre chercher le Bâton plutôt que d'y retourner lui-même.
+
+## Le rôle dans la quête du Collège
+
+La récupération du Bâton de Magnus au coeur du Labyrinthe constitue l'épreuve culminante de la quête du **Collège de Fortdhiver**. L'exploration exige de traverser l'intégralité du complexe, affrontant draugr, trolls des glaces, spectres et pièges mécaniques avant de faire face à Morokei lui-même.
+
+La victoire sur Morokei libère les âmes de Hafnar et Elvali — mettant fin à leur tourment spectral de plusieurs décennies — et permet de s'emparer du Bâton. Le retour au Collège avec l'artefact permet de neutraliser Ancano et l'Oeil de Magnus, sauvant Fortdhiver et potentiellement tout Tamriel d'une catastrophe magique.
+
+## L'Oeil de Magnus et Saarthal
+
+La connexion entre le Labyrinthe, le **Bâton de Magnus** et l'**Oeil de Magnus** découvert sous **Saarthal** suggère un réseau de sites de pouvoir liés au dieu architecte. Magnus, qui conçut les plans de Mundus avant de s'enfuir dans l'Aetherius en déchirant le ciel — créant le Soleil — laissa derrière lui des artefacts dont la puissance dépasse la compréhension mortelle.
+
+L'**Ordre Psijique**, mystérieuse confrérie de mages d'Artaeum, intervint pour retirer l'Oeil de Magnus du monde mortel après la défaite d'Ancano, jugeant que les mortels n'étaient pas prêts à manier un tel pouvoir. Cette intervention confirme l'importance cosmique de ces artefacts.
+
+## Héritage
+
+Le Labyrinthe demeure l'un des sites les plus dangereux et les plus fascinants de Bordeciel. Ses ruines renferment encore d'innombrables secrets — des salles inexplorées, des passages effondrés et des chambres scellées dont le contenu reste inconnu. Pour les archéologues et les mages, il représente une source de connaissance inestimable ; pour les imprudents, un tombeau certain.

@@ -1,0 +1,121 @@
+---
+title: "Mannimarco, le Roi des Vers"
+slug: "mannimarco"
+era: "second-era"
+category: "personnages"
+tags: ["mannimarco", "nécromancie", "roi-des-vers", "vanus-galerion", "distorsion-ouest", "dieu-vers", "ordre-ver-noir"]
+timelineYear: 230
+summary: "Premier nécromancien de Tamriel et rival éternel de Vanus Galerion, Mannimarco ascenda au rang de divinité lors de la Distorsion de l'Ouest en 3E 417."
+sources: ["UESP: Mannimarco", "The Warp in the West", "Mannimarco, King of Worms", "ESO Lore", "The Imperial Library"]
+---
+
+## Les Origines : Artaeum et la Trahison
+
+**Mannimarco** naquit comme un Altmer des Îles Summerset, probablement au début de la Deuxième Ère. Doté d'un talent magique exceptionnel, il fut accepté au sein de l'**Ordre Psijique** sur l'île mystique d'Artaeum — le même ordre qui forma son futur rival.
+
+### Condisciple de Galerion
+
+Sur Artaeum, Mannimarco étudia aux côtés de **Trechtus** (le futur Vanus Galerion). Les deux jeunes mages étaient considérés comme les plus brillants de leur génération, mais leurs philosophies divergèrent radicalement :
+
+- **Galerion** voulait démocratiser la magie pour le bien de tous
+- **Mannimarco** cherchait à transcender la mortalité par la domination des morts
+
+### L'Expulsion
+
+Mannimarco commença à expérimenter la **nécromancie** en secret — animant des cadavres, piégeant des âmes, communiquant avec les morts. Lorsque ses pratiques furent découvertes, l'Ordre Psijique l'**expulsa** d'Artaeum. Cette humiliation alimenta une haine éternelle envers l'establishment magique et envers Galerion en particulier.
+
+## L'Ascension du Roi des Vers
+
+### Fondation de l'Ordre du Ver Noir
+
+Après son expulsion, Mannimarco ne disparut pas dans l'obscurité. Il fonda l'**Ordre du Ver Noir** (*Order of the Black Worm*) — un culte nécromantique qui attira des mages renégats, des chercheurs d'immortalité, et des âmes corrompues de tout Tamriel.
+
+L'Ordre se structura comme une anti-Guilde des Mages :
+
+- Là où la Guilde interdisait la nécromancie, l'Ordre en faisait sa spécialité
+- Là où la Guilde servait le public, l'Ordre ne servait que son maître
+- Là où la Guilde cherchait la connaissance, l'Ordre cherchait le **pouvoir absolu**
+
+### Les Pouvoirs du Roi des Vers
+
+Au fil des siècles, Mannimarco accumula un pouvoir terrifiant :
+
+- **Immortalité** — Par la nécromancie et la lichéité, il transcenda la mort naturelle
+- **Armées de morts-vivants** — Des légions entières obéissaient à sa volonté
+- **Piégeage d'âmes** — Il maîtrisa la capture et l'utilisation des âmes à un degré inégalé
+- **Manipulation politique** — Ses agents infiltrèrent toutes les institutions de Tamriel
+
+## La Rivalité avec Vanus Galerion
+
+### Le Conflit Éternel
+
+La rivalité entre Mannimarco et Galerion est l'un des conflits les plus durables du lore. Deux génies magiques, deux visions du monde irréconciliables :
+
+| Aspect | Vanus Galerion | Mannimarco |
+|--------|---------------|------------|
+| Objectif | Démocratiser la magie | Dominer par la magie |
+| Méthode | Éducation et structure | Terreur et nécromancie |
+| Vision de la mort | Repos sacré | Ressource à exploiter |
+| Héritage | La Guilde des Mages | L'Ordre du Ver Noir |
+| Légitimité | Reconnue par l'Empire | Traquée comme hérésie |
+
+### La Bataille Finale
+
+Galerion rassembla finalement une armée de mages de la Guilde pour affronter Mannimarco directement. La bataille fut **apocalyptique** — des centaines de mages et de morts-vivants s'affrontèrent dans un cataclysme de feu, de glace et d'énergie nécromantique.
+
+Galerion **mourut** durant cette bataille, mais son sacrifice affaiblit considérablement Mannimarco, le forçant à se retirer dans l'ombre pour des siècles. La victoire fut pyrrhique — les deux camps furent décimés.
+
+## Rôle durant la Guerre des Trois Bannières (2E 582)
+
+### Le Manipulateur Suprême
+
+Durant les événements d'*Elder Scrolls Online*, Mannimarco apparaît comme l'un des principaux antagonistes. Il :
+
+- Servait ostensiblement **Molag Bal** dans le projet du Planemeld
+- Manipulait les **Cinq Compagnons** qui tentaient d'allumer les Feux de Dragon
+- Planifiait secrètement de **trahir Molag Bal** pour s'emparer de son pouvoir
+- Utilisa le Vestige (le joueur) et tous les camps comme des pions
+
+### Ambition Démesurée
+
+Le plan de Mannimarco était d'une audace insensée : utiliser l'Amulette des Rois et le rituel de Molag Bal pour **usurper le pouvoir d'un Prince Daedrique**. Il échoua en 2E 582, mais cette ambition présageait sa future apothéose.
+
+## L'Apothéose : La Distorsion de l'Ouest (3E 417)
+
+### Le Numidium et le Bris du Dragon
+
+Le moment le plus extraordinaire de l'existence de Mannimarco survint lors de la **Distorsion de l'Ouest** (*Warp in the West*) en 3E 417 — un événement métaphysique où le **Numidium** fut activé simultanément par plusieurs factions dans la région d'Iliac Bay.
+
+Le Bris du Dragon (*Dragon Break*) qui en résulta créa un paradoxe temporel : **toutes les issues possibles** de l'activation du Numidium se réalisèrent simultanément. La réalité elle-même se fractura.
+
+### Le Dieu des Vers
+
+Dans l'une de ces réalités simultanées (qui devinrent toutes vraies), Mannimarco utilisa le pouvoir du Numidium pour **ascender au rang de divinité**. Il devint le **Dieu des Vers** (*God of Worms*) — une lune nécromantique, un astre de non-mort gravitant autour d'Arkay, le Divin de la vie et de la mort.
+
+### Le Paradoxe Mannimarco
+
+Après la Distorsion de l'Ouest, Mannimarco existe sous **deux formes simultanées** :
+
+1. **Le Dieu des Vers** — Une entité divine, une lune sombre qui éclipse périodiquement Arkay et permet aux nécromanciens de créer des gemmes d'âmes noires
+2. **Le mortel Mannimarco** — Un nécromancien puissant mais faillible, qui réapparaît durant la Crise d'Oblivion (3E 433) et peut être vaincu
+
+Ce paradoxe est une conséquence directe du Bris du Dragon : les deux états coexistent sans contradiction dans la métaphysique brisée de l'Aurbis.
+
+## Héritage et Influence
+
+### Impact sur la Magie
+
+Mannimarco transforma irréversiblement la pratique magique de Tamriel :
+
+- Il prouva que la nécromancie pouvait rivaliser avec toute autre école
+- Son existence justifia l'interdiction de la nécromancie par la Guilde des Mages
+- Il inspira des générations de nécromanciens — et motiva leurs persécuteurs
+- Son ascension prouva qu'un mortel pouvait devenir un dieu par la magie seule
+
+### Les Gemmes d'Âmes Noires
+
+L'une des conséquences pratiques de l'existence du Dieu des Vers : lorsque sa lune nécromantique éclipse Arkay (un événement appelé **Shade of the Revenant**), les enchanteurs peuvent créer des **gemmes d'âmes noires** — des gemmes capables de capturer les âmes des mortels sapients, un acte normalement impossible.
+
+### Un Mal Nécessaire ?
+
+Certains érudits tamriéliques argumentent que Mannimarco, malgré ses horreurs, servit un rôle cosmique. Sa rivalité avec Galerion poussa la Guilde des Mages à s'améliorer constamment. Son ascension divine créa un contrepoids à Arkay, maintenant un équilibre cosmique entre vie et mort. Le Roi des Vers est haï, craint — mais jamais ignoré.

@@ -1,0 +1,68 @@
+---
+title: "Mundus"
+slug: "mundus"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["cosmologie", "mundus", "plan-mortel", "création", "planètes", "aedra"]
+timelineYear: -99982
+summary: "Mundus, le plan mortel créé par les Aedra, sa structure cosmique et les huit planètes divines."
+sources: ["Le Monomythe", "Cosmologie", "De la structure de Mundus", "L'Astronomie impériale"]
+---
+
+## Le Plan Mortel
+
+**Mundus** est le plan mortel, le royaume de l'existence physique créé par les Aedra sous l'impulsion de **Lorkhan**. Situé au centre de l'**Aurbis**, entre l'**Aetherius** et l'**Oblivion**, Mundus est unique parmi les plans d'existence : c'est le seul endroit où la mortalité, le changement et le libre arbitre coexistent véritablement. Pour les habitants de **Nirn**, Mundus est tout simplement la réalité.
+
+La création de Mundus est l'événement central de la cosmologie tamriélique. Ce qui fut conçu comme un projet grandiose par Lorkhan et architecturé par **Magnus** devint un piège pour les et'Ada qui y participèrent, les emprisonnant dans leur propre création et les diminuant à jamais. Cette trahison perçue est la source du conflit cosmique entre les descendants des Aedra et ceux qui considèrent la création comme un acte d'amour.
+
+## La Structure Cosmique
+
+La structure de Mundus est à la fois physique et métaphysique. Au centre se trouve Nirn, le monde mortel proprement dit, entouré de huit planètes qui sont en réalité les corps des Divins, les Aedra qui ont donné le plus d'eux-mêmes à la création. Ces planètes sont les vestiges physiques de leur sacrifice divin.
+
+Les huit planètes divines sont :
+- **Akatosh** (le temps)
+- **Julianos** (la sagesse)
+- **Arkay** (le cycle vital)
+- **Zénithar** (le travail)
+- **Mara** (l'amour)
+- **Stendarr** (la miséricorde)
+- **Kynareth** (les cieux)
+- **Dibella** (la beauté)
+
+Chacune de ces planètes apparaît différemment selon l'observateur et le moment de l'observation. Les astronomes de Tamriel décrivent des sphères aux tailles impossibles, visibles comme de petits points lumineux dans le ciel nocturne mais se révélant immenses lorsqu'on s'en approche. Ce paradoxe est caractéristique de la nature mi-physique, mi-divine de Mundus.
+
+## Les Lunes de Nirn
+
+**Masser** et **Secunda**, les deux lunes de Nirn, occupent une place particulière dans la cosmologie de Mundus. Selon les traditions impériales, elles sont le corps divisé de Lorkhan, le dieu dont le cœur fut arraché par les autres Aedra en punition de sa tromperie. Les deux lunes sont donc les restes d'un dieu mort flottant éternellement au-dessus du monde qu'il créa.
+
+Pour les **Khajiit**, les lunes sont Jone et Jode, les esprits lunaires dont les phases déterminent la forme physique de chaque Khajiit à la naissance. Cette croyance donne aux lunes une importance capitale dans la culture khajiit, les élevant au rang de divinités à part entière.
+
+L'événement connu sous le nom de Vide Lunaire, lorsque les deux lunes disparurent du ciel pendant plusieurs années au début de la Quatrième Ère, provoqua une crise existentielle chez les Khajiit. Le **Thalmor** revendiqua la responsabilité du retour des lunes, s'assurant ainsi la loyauté de la nation khajiit.
+
+## Nirn au Centre
+
+**Nirn** elle-même est une planète unique, la seule de Mundus à abriter la vie mortelle telle que nous la connaissons. Son continent principal, Tamriel, est entouré d'autres masses terrestres : Akavir à l'est, Atmora au nord, Yokuda à l'ouest (en grande partie engloutie) et Aldmeris au sud (dont l'existence même est débattue).
+
+La géographie de Nirn est façonnée par les forces divines qui l'ont créée. Les montagnes sont les os de la terre, les rivières son sang, les forêts sa chevelure. Chaque élément du paysage porte la trace du sacrifice des Aedra, et les lieux les plus sacrés sont ceux où cette essence divine est la plus concentrée.
+
+## Le Soleil et les Étoiles
+
+Le soleil de Mundus, connu sous le nom d'Oeil de Magnus, n'est pas une étoile au sens astronomique. C'est le trou laissé dans le tissu de Mundus lorsque Magnus s'enfuit d'**Aetherius** en traversant la barrière entre les plans. La lumière du soleil est en réalité la lumière d'Aetherius, le royaume de la magie pure, qui s'infiltre à travers cette déchirure.
+
+De même, les étoiles ne sont pas des soleils lointains mais les trous percés par les Magna-Ge, les esprits qui suivirent Magnus dans sa fuite. Chaque étoile est une ouverture vers Aetherius, et c'est à travers ces ouvertures que la magie coule dans Mundus, alimentant les sorts des mages et les enchantements des artefacts.
+
+Cette compréhension transforme radicalement la vision de l'astronomie : le ciel nocturne n'est pas un vide parsemé de lumières mais une barrière criblée de perforations laissant filtrer l'énergie magique du plan supérieur.
+
+## La Convention et les Conséquences
+
+La **Convention**, le moment où les Aedra punirent Lorkhan pour sa tromperie en arrachant son cœur, est l'événement fondateur de l'ordre actuel de Mundus. Ce moment établit les règles qui régissent le plan mortel : le temps s'écoule de manière linéaire, la mort est permanente pour les mortels, et les Aedra sont trop affaiblis pour intervenir directement dans les affaires du monde.
+
+La Tour Adamantine, où la Convention eut lieu, devint la première Tour de Mundus, un pilier stabilisant la réalité elle-même. D'autres Tours furent ensuite créées ou découvertes à travers Tamriel, chacune ancrant un aspect de la réalité. Les théoriciens du **CHIM** considèrent ces Tours comme les colonnes qui empêchent Mundus de se dissoudre dans le néant.
+
+## La Fragilité de Mundus
+
+Mundus n'est pas un plan stable par nature. Contrairement aux royaumes d'Oblivion, créés et maintenus par la volonté d'un seul Prince Daedrique, Mundus dépend d'un équilibre complexe entre de multiples forces. Les **Bris-Dragons**, les Crises d'Oblivion et d'autres événements catastrophiques menacent périodiquement cet équilibre.
+
+Les **Princes Daedriques** considèrent Mundus comme un territoire à conquérir ou à corrompre. **Mehrunes Dagon** tenta à plusieurs reprises de fusionner Mundus avec son propre royaume, tandis que **Molag Bal** essaya de tirer Nirn vers Havreglace lors du Pont d'Âmes. Ces invasions sont rendues possibles par la fragilité inhérente du plan mortel.
+
+La prophétie selon laquelle la désactivation de toutes les Tours de Mundus entraînerait la dissolution du plan mortel pèse comme une épée de Damoclès sur toute la création. Certains érudits craignent que les événements de la Quatrième Ère, notamment la chute de la Tour d'Or-Blanc lors de la Grande Guerre, rapprochent Mundus de ce point de rupture.

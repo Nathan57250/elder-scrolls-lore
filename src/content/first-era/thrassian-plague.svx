@@ -1,0 +1,58 @@
+---
+title: "La Peste Thrassienne"
+slug: "thrassian-plague"
+era: "first-era"
+category: "evenements"
+tags: ["peste", "sload", "thras", "all-flags-navy", "pandémie", "bendu-olo"]
+timelineYear: 2260
+summary: "La Peste Thrassienne, lancée par les Sload de Thras, décima la moitié de la population de Tamriel et provoqua la formation de la All Flags Navy."
+sources: ["Pocket Guide to the Empire 3rd Edition", "The Infernal City", "2920: The Last Year of the First Era"]
+---
+
+## L'attaque biologique des Sload
+
+En 1E 2260, une catastrophe sanitaire sans précédent frappa le continent de **Tamriel** : la **Peste Thrassienne**. Cette épidémie dévastatrice, qui tua selon les estimations plus de la moitié de la population du continent, ne fut pas un phénomène naturel mais une arme biologique délibérément conçue et déployée par les **Sload**, les répugnants nécromanciens amphibiens de l'archipel de **Thras**.
+
+Les Sload sont parmi les races les plus détestées de **Nirn**, et pour de bonnes raisons. Ces créatures massives, ressemblant à d'immenses limaces ou à des crapauds obèses, sont dénuées de toute forme d'empathie ou de moralité. Pour eux, les autres races ne sont que des ressources à exploiter, des cadavres en puissance à transformer en serviteurs morts-vivants. Leur maîtrise de la nécromancie est sans égale, et la Peste Thrassienne fut peut-être leur oeuvre la plus ambitieuse et la plus terrifiante.
+
+La maladie se propageait avec une rapidité effrayante, transmise par l'air, l'eau et le contact. Les premiers symptômes apparaissaient en quelques heures : fièvre intense, hémorragies internes, nécrose des tissus. La mort survenait en trois à cinq jours dans la plupart des cas, et les guérisons étaient extrêmement rares. La magie de restauration conventionnelle s'avérait largement impuissante face à la maladie, suggérant une composante nécromantique dans sa conception.
+
+## La dévastation de Tamriel
+
+Les effets de la peste furent apocalyptiques. Des cités entières furent décimées en quelques semaines. Les routes commerciales, vecteurs de propagation, devinrent des autoroutes de la mort. Les régions les plus densément peuplées et les mieux connectées furent les plus durement frappées, tandis que les communautés isolées eurent plus de chances de survie.
+
+L'**Empire Cyrodiilien**, au coeur du réseau commercial continental, fut parmi les plus touchés. Les grandes villes de Cyrodiil perdirent entre la moitié et les deux tiers de leur population. La **Cité Impériale** elle-même ne fut pas épargnée, et le fonctionnement de l'administration impériale fut paralysé pendant des mois. Les provinces périphériques, livrées à elles-mêmes, sombrèrent dans le chaos.
+
+Les cadavres s'accumulaient plus vite que les vivants ne pouvaient les enterrer. Des fosses communes furent creusées aux portes des villes. Des quartiers entiers furent murés, leurs habitants abandonnés à leur sort. La peur de la contagion détruisit les liens sociaux : les malades étaient chassés par leurs propres familles, les médecins fuyaient, et les prêtres eux-mêmes hésitaient à administrer les derniers rites.
+
+## Les motivations des Sload
+
+Les raisons exactes qui poussèrent les Sload à déclencher cette catastrophe restent débattues. La théorie la plus communément acceptée est que les Sload cherchaient à affaiblir les civilisations continentales pour faciliter des raids de collecte de cadavres. Pour des nécromanciens de leur calibre, chaque mort représentait un serviteur mort-vivant potentiel, et la peste leur fournissait des millions de corps frais.
+
+D'autres érudits suggèrent que les Sload cherchaient à déstabiliser les pouvoirs établis pour étendre leur influence commerciale et politique. Les Sload étaient connus pour leurs activités de commerce et de piraterie dans la mer Abécéenne, et un continent affaibli serait moins capable de résister à leurs prédations maritimes.
+
+Il est également possible que la peste n'ait été qu'une expérience à grande échelle, un test des capacités nécromantiques des Sload mené avec une indifférence totale pour les conséquences. Pour des êtres dénués d'empathie et obsédés par la connaissance de la mort, des millions de victimes n'étaient qu'un échantillon statistique intéressant.
+
+## La All Flags Navy
+
+La réaction de Tamriel, une fois le pire de la pandémie passé, fut d'une unité remarquable. Pour la première et peut-être la seule fois de l'histoire, toutes les nations du continent s'unirent dans un effort militaire commun : la destruction de Thras et l'extermination de ses habitants. La **All Flags Navy**, la Marine de Tous les Drapeaux, fut la plus grande armada jamais assemblée sur les mers de Nirn.
+
+Le roi **Bendu Olo** de **Refuge**, en Haute-Roche, prit le commandement de cette coalition sans précédent. Des navires de guerre de toutes les provinces, de toutes les races et de toutes les allégeances politiques convergèrent vers un seul objectif : Thras. Cyrodiiliens, Nordiques, Rougegardes, Bretons, Bosmer et même quelques contingents elfiques plus âgés mirent de côté leurs différends pour participer à cette expédition punitive.
+
+L'armada qui mit voile vers Thras était d'une taille stupéfiante, comptant plusieurs centaines de navires de guerre et de transport. L'approvisionnement d'une telle force était un défi logistique monumental, mais la rage collective du continent envers les Sload fournissait une motivation sans faille. Chaque marin, chaque soldat avait perdu des proches à cause de la peste.
+
+## La destruction de Thras
+
+L'assaut sur **Thras** fut d'une violence totale. La All Flags Navy ne cherchait pas la conquête mais l'annihilation. L'archipel des Sload fut bombardé, envahi et systématiquement détruit. Les cités-corail des amphibiens furent rasées, leurs laboratoires nécromantiques démolis, leurs populations traquées et massacrées sans merci ni quartier.
+
+Les Sload, malgré leur puissance nécromantique, n'étaient pas préparés à un assaut d'une telle ampleur. Leurs défenses, conçues pour repousser des raids isolés, furent submergées par la masse de l'armada combinée. Les morts-vivants qu'ils levaient contre les envahisseurs étaient détruits plus vite qu'ils ne pouvaient en créer de nouveaux.
+
+La légende raconte que l'archipel de Thras fut coulé sous les flots par la puissance combinée des mages de la flotte. Que cette submersion ait été réelle ou métaphorique, le résultat fut le même : Thras fut considéré comme détruit, et la menace Sload éliminée pour de nombreuses générations. La victoire fut célébrée dans tout le continent comme un triomphe de l'unité sur la monstruosité.
+
+## Les conséquences à long terme
+
+La Peste Thrassienne et la campagne qui suivit eurent des conséquences durables sur l'histoire de Tamriel. La dépopulation massive bouleversa les équilibres démographiques et économiques de tout le continent. Des terres furent abandonnées, des savoirs perdus avec ceux qui les détenaient, et la reconstruction prit des décennies dans certaines régions.
+
+Paradoxalement, la peste facilita l'ascension de la dynastie **Reman** quelques décennies plus tard. Un continent affaibli et fragmenté était mûr pour être unifié sous une main forte, et Reman Cyrodiil sut exploiter le vide de pouvoir créé par la catastrophe. L'Empire Reman, second empire humain de l'histoire, fut en quelque sorte construit sur les cendres laissées par la peste des Sload.
+
+Quant aux Sload, ils ne furent pas entièrement éradiqués. Thras réapparut des flots au fil des siècles, et ses habitants recommencèrent leurs sinistres activités, quoiqu'à une échelle bien moindre. La mémoire de la peste et de la vengeance qui suivit maintint cependant les Sload dans une prudence relative, et jamais ils ne tentèrent à nouveau une attaque d'une telle ampleur contre le continent.

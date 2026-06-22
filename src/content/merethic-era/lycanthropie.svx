@@ -1,0 +1,95 @@
+---
+title: "La Lycanthropie — Le Don d'Hircine"
+slug: "lycanthropie"
+era: "merethic-era"
+category: "magie"
+tags: ["lycanthropie", "loup-garou", "hircine", "compagnons", "bête", "sang argenté"]
+timelineYear: -1000
+summary: "La lycanthropie est la capacité de se transformer en loup-garou, un don (ou malédiction) du Prince Daedrique Hircine — portée par les Compagnons de Blancherive et de nombreux chasseurs."
+sources: ["UESP: Lycanthropy", "The Imperial Library: On Lycanthropy", "Physicalities of Werewolves"]
+---
+
+## Origines
+
+La lycanthropie est un "cadeau" d'**Hircine**, le Prince Daedrique de la Chasse. Contrairement au vampirisme (qui est une malédiction de domination), la lycanthropie est présentée comme une **bénédiction** par son créateur — la forme ultime du prédateur.
+
+Les premiers loups-garous apparurent durant l'Ère Méréthique, quand Hircine accorda sa faveur à des chasseurs mortels qui l'honoraient.
+
+## Transmission
+
+### Par le Sang
+La méthode la plus courante est le **rituel du sang** :
+- Un loup-garou existant partage son sang avec un candidat
+- La transformation initiale est violente et désorientante
+- Chez les Compagnons, c'est un honneur réservé au Cercle Intérieur
+
+### Par Morsure
+Plus rare dans les jeux, mais théoriquement possible :
+- Morsure d'un loup-garou transformé
+- Transmission pas systématique
+- Considéré comme une malédiction quand non-consentie
+
+### Par Hircine directement
+Lors de certaines quêtes daedriques, Hircine peut accorder la lycanthropie directement.
+
+## La Transformation
+
+### Forme de Loup-garou
+- Taille massive (2-3x humain)
+- Griffes capables de déchirer l'armure
+- Vitesse et force surhumaines
+- Régénération accélérée
+- Sens amplifiés (odorat, ouïe)
+- Résistance à la plupart des armes (sauf argent)
+
+### Contrôle
+- **Novices** : transformation involontaire sous la pleine lune ou stress émotionnel
+- **Expérimentés** : transformation volontaire, contrôle partiel
+- **Maîtres** : contrôle total, transformation à volonté
+
+### Limitations
+- Impossible de porter armure ou utiliser armes/magie en forme bestiale
+- Durée limitée avant retour à la forme humaine
+- Épuisement après la transformation
+
+## Les Compagnons de Blancherive
+
+Le groupe le plus célèbre de lycanthropes est le **Cercle** — le cercle intérieur des Compagnons de Jorrvaskr :
+
+| Membre | Rôle | Attitude envers le sang |
+|--------|------|------------------------|
+| Kodlak Barbe-Blanche | Héraut | Cherchait la cure |
+| Aela la Chasseresse | Membre du Cercle | Embrasse le don |
+| Farkas | Membre du Cercle | Accepte |
+| Vilkas | Membre du Cercle | Ambivalent |
+| Skjor | Membre du Cercle | Embrassait le don |
+
+Le Cercle reçut le sang du loup via les **Sorcières de Glenmoril** — des hagravens au service d'Hircine. Cette tradition remonte au Deuxième Ère.
+
+## Les Terrains de Chasse d'Hircine
+
+Les loups-garous qui meurent ne vont pas à Sovngarde ni dans aucun autre au-delà conventionnel. Leur âme est réclamée par Hircine pour ses **Terrains de Chasse** (Hunting Grounds) — un plan d'Oblivion de forêts infinies où les esprits chassent pour l'éternité.
+
+C'est précisément ce que **Kodlak Barbe-Blanche** cherchait à éviter — il souhaitait que son âme rejoigne Sovngarde plutôt que d'être liée à un Prince Daedrique.
+
+## La Cure
+
+La lycanthropie peut être guérie :
+- **Têtes de Sorcières de Glenmoril** — brûlées au Brasier de Ysgramor, elles libèrent l'esprit du loup
+- **Bague d'Hircine** — ne guérit pas mais contrôle les transformations
+- **Intervention divine** — théoriquement possible via bénédiction d'un autre Prince
+
+## Autres Formes de Lycanthropie
+
+Le terme "lycanthropie" couvre plusieurs variantes :
+- **Loup-garou** (Werewolf) — la plus commune
+- **Ours-garou** (Werebear) — présent à Solstheim et dans les terres nordiques
+- **Sanglier-garou** (Wereboar) — rare, signalé en Haute-Roche
+- **Crocodile-garou** (Werecrocodile) — Marais Noir
+- **Vautour-garou** (Werevulture) — Val-Boisé (non confirmé)
+
+## Lycanthropie vs Vampirisme
+
+Les deux conditions sont **mutuellement exclusives** — le sang de l'une repousse l'autre. Un loup-garou ne peut devenir vampire et vice-versa (sauf dans des circonstances exceptionnelles impliquant l'intervention directe des Princes Daedriques).
+
+Cette exclusivité s'étend à l'après-mort : l'âme appartient soit à Hircine, soit à Molag Bal — jamais aux deux.

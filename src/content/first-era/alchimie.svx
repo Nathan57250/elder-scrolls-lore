@@ -1,0 +1,112 @@
+---
+title: "L'Alchimie — Science des Ingrédients"
+slug: "alchimie"
+era: "first-era"
+category: "magie"
+tags: ["alchimie", "potions", "poisons", "ingrédients", "nirnroot", "skooma", "science"]
+timelineYear: 500
+summary: "L'alchimie est l'art de combiner des ingrédients naturels pour créer des potions aux effets magiques — une discipline à mi-chemin entre science et magie accessible à tous."
+sources: ["UESP: Alchemy", "The Imperial Library: Alchemy", "De Rerum Dirennis"]
+---
+
+## Principes Fondamentaux
+
+L'**alchimie** diffère des autres formes de magie en ce qu'elle ne requiert **aucune magicka** de la part du praticien. Le pouvoir réside dans les **ingrédients** eux-mêmes — l'alchimiste ne fait que révéler et combiner leurs propriétés latentes.
+
+Chaque ingrédient possède jusqu'à **quatre propriétés** :
+- Combiner deux ingrédients partageant une propriété crée une potion
+- Les propriétés bénéfiques deviennent des potions
+- Les propriétés nocives deviennent des poisons
+- Un mélange peut avoir plusieurs effets simultanés
+
+## Catégories de Potions
+
+### Potions de Soin
+| Potion | Effet | Ingrédients communs |
+|--------|-------|---------------------|
+| Restauration de santé | Guérison immédiate | Blé, Fleur bleue de montagne |
+| Restauration de magicka | Recharge magique | Mora Tapinella, Bruyère pourpre |
+| Restauration de stamina | Récupération physique | Histcarp, Torchbug thorax |
+| Cure de maladie | Guérit les maladies | Chardon, Aile de papillon de faucon |
+| Cure de poison | Neutralise les poisons | Chardon, Mudcrab chitin |
+
+### Potions de Renforcement
+- Fortifier l'attaque / la magie / l'archerie
+- Invisibilité temporaire
+- Résistance aux éléments (feu, givre, foudre)
+- Respiration aquatique
+- Bouclier magique
+
+### Poisons
+- Dommages directs (santé, magicka, stamina)
+- Paralysie
+- Faiblesse aux éléments
+- Ralentissement
+- Dommages continus
+
+## La Nirnroot
+
+La **Nirnroot** est l'ingrédient le plus mystérieux de Tamriel :
+- Plante luminescente émettant un son caractéristique
+- Ne repousse jamais après cueillette (dans certaines versions du lore)
+- Propriétés alchimiques puissantes et variées
+- La variante **Crimson Nirnroot** ne pousse qu'au Blackreach (cité Dwemer souterraine)
+- Fait l'objet de recherches obsessionnelles par certains alchimistes (Sinderion)
+
+## Le Skooma
+
+La substance illicite la plus notoire de Tamriel :
+- Dérivé raffiné du **Moon Sugar** (sucre de lune)
+- Le Moon Sugar est produit naturellement en Elsweyr
+- Le Skooma est distillé à partir du sucre de lune
+- **Effets** : euphorie extrême, hallucinations, addiction instantanée
+- **Légalité** : interdit dans toutes les provinces sauf Elsweyr
+- **Commerce** : contrôlé par des cartels (Camonna Tong, Renrijra Krin)
+- **Impact social** : épidémie d'addiction, stéréotypes anti-Khajiit
+
+## Équipement
+
+L'alchimiste nécessite :
+- **Table d'alchimie** — plan de travail standard
+- **Alambic** — amplifie les effets positifs
+- **Calcinator** — augmente la puissance
+- **Mortier et pilon** — préparation de base
+- **Cornue** — amplifie les effets de durée
+
+## Traditions Alchimiques
+
+### L'École de Cyrodiil
+- Approche académique et méthodique
+- Liée à l'Université Arcane
+- Classification systématique des ingrédients
+- Texte de référence : *De Rerum Dirennis*
+
+### L'École de Morrowind
+- Utilisation intensive de la faune locale (netch, kwama, ash yam)
+- Intégrée à la culture Telvanni
+- Potions souvent plus puissantes mais instables
+- Tradition orale plutôt qu'académique
+
+### L'École de Bordeciel
+- Pragmatique, liée à la survie
+- Utilisation des plantes et champignons locaux
+- Moins sophistiquée mais plus accessible
+- Traditions chamaniques nordiques
+
+## Alchimie et Économie
+
+L'alchimie est l'un des **métiers les plus lucratifs** :
+- Les potions de soin ont une demande constante
+- Les poisons intéressent assassins et chasseurs
+- Les enchanteurs ont besoin de potions de fortification
+- Les aventuriers constituent un marché inépuisable
+- Le commerce de skooma (illégal) génère des fortunes
+
+## Limites
+
+L'alchimie ne peut pas :
+- Ramener les morts à la vie
+- Accorder l'immortalité permanente (sauf cas exceptionnels)
+- Égaler la puissance de la magie pure à haut niveau
+- Fonctionner sans ingrédients (contrairement à la magie)
+- Créer des effets instantanés à distance (il faut ingérer/appliquer)

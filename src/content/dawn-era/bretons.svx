@@ -1,0 +1,111 @@
+---
+title: "Les Bretons — Enfants de Deux Sangs"
+slug: "bretons"
+era: "dawn-era"
+category: "races"
+tags: ["bretons", "haute-roche", "magie", "chevalerie", "direnni", "demi-elfes", "politique"]
+timelineYear: 0
+summary: "Les Bretons sont une race humaine de Haute-Roche portant du sang elfique dans leurs veines, ce qui leur confère une affinité magique naturelle. Société chevaleresque fragmentée en royaumes rivaux."
+sources: ["UESP: Bretons", "Pocket Guide to the Empire: High Rock", "The Bretons: Mongrels or Paragons?"]
+---
+
+## Présentation
+
+Les **Bretons** sont une race humaine originaire de **Haute-Roche** (High Rock). Leur particularité : ils possèdent du **sang elfique** hérité des Direnni, ce qui leur confère des aptitudes magiques supérieures aux autres humains tout en conservant une apparence et une durée de vie humaines.
+
+## Origines
+
+### Le Métissage Direnni
+Le Clan **Direnni** (Altmer) régna sur Haute-Roche pendant des siècles :
+- Des unions entre Direnni et humains locaux (Nédiques) produisirent des métis
+- Ces enfants héritèrent d'une affinité magique elfique
+- Mais conservèrent une physiologie majoritairement humaine
+- Au fil des générations, ce mélange devint le **peuple Breton**
+- Le terme "Breton" signifie possiblement "peuple de la brume" ou "bâtard" (péjoratif à l'origine)
+
+### Conséquences Génétiques
+- Résistance naturelle à la magie (25% dans les jeux)
+- Capacité innée d'absorption magique
+- Intelligence et affinité avec toutes les écoles de magie
+- Apparence humaine standard (pas d'oreilles pointues visibles)
+- Durée de vie humaine (~80-100 ans, légèrement supérieure)
+
+## Haute-Roche
+
+### Géographie
+- Province du nord-ouest de Tamriel
+- Côte accidentée, montagnes (Wrothgar), forêts
+- Villes-états et royaumes fragmentés
+- Frontière avec Bordeciel (est) et Lenclume (sud)
+
+### Politique Fragmentée
+La Haute-Roche est **infâmement divisée** :
+- Dizaines de royaumes, duchés, baronnies, cités-états
+- Alliances changeantes et guerres perpétuelles
+- Chaque noble se proclame roi de quelque chose
+- L'intrigue politique est un art national
+- Le Warp in the West (3E 417) unifia partiellement la province
+
+## Culture
+
+### Chevalerie
+- Sociéé feudale et chevaleresque
+- Les ordres de chevalerie sont prestigieux
+- Le code d'honneur (en théorie) régit la noblesse
+- Les tournois et joutes sont populaires
+- L'héraldique est une science complexe
+
+### Magie Quotidienne
+- La magie est **socialement acceptée** (contrairement aux Nordiques)
+- De nombreux Bretons sont mages sans être dans la Guilde
+- Enchantement et alchimie sont des métiers courants
+- Les sorcières de la Reachwoman (Forsworn) sont une tradition parallèle
+
+### La Cour
+- Les intrigues de cour sont le sport national breton
+- La diplomatie, le complot et le mariage stratégique dominent
+- "Un Breton ne fait jamais confiance à un autre Breton" (dicton tamrielien)
+- Les assassinats politiques (discrets) sont monnaie courante
+
+## Sous-Groupes
+
+### Les Reachmen (Hommes des Ornières)
+- Bretons des Reach (région montagnarde frontalière Bordeciel/Haute-Roche)
+- Culture chamanique, pas chevaleresque
+- Hagraven worship (sorcières-oiseaux)
+- Les **Forsworn** en Bordeciel sont des Reachmen
+- Considérés comme des barbares par les "vrais" Bretons
+
+### Bretons "Civils"
+- Habitants des cités : Daggerfall, Wayrest, Evermore
+- Culture raffinée, commerçants, politiciens
+- Plus proches de la culture impériale
+
+## En Politique Impériale
+
+Les Bretons sont parmi les plus **loyaux** sujets de l'Empire :
+- L'Empire apporta une stabilité que leur fragmention ne permettait pas
+- La structure impériale protège les petits royaumes des grands
+- Bons administrateurs et diplomates
+- Moins affectés par l'interdiction de Talos (pas leur dieu principal)
+
+## Personnages Bretons Notables
+
+- **Tiber Septim** (possiblement, selon certaines sources — controversé)
+- **Jagar Tharn** — le battlemage qui usurpa le trône
+- **La Reine Barenziah** (en partie — parenté complexe)
+- **Les rois de Daggerfall et Wayrest**
+
+## Forces et Faiblesses
+
+### Forces
+- Meilleurs mages parmi les humains
+- Diplomates et politiciens naturels
+- Résistance à la magie
+- Adaptables culturellement
+
+### Faiblesses
+- Physiquement les plus faibles des humains
+- Division politique chronique
+- Tendance à la paranoïa et la méfiance
+- Culture de complot qui empêche la coopération sincère

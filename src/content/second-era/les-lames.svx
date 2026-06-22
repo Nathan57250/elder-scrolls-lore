@@ -1,0 +1,95 @@
+---
+title: "Les Lames — Gardes du Dragon"
+slug: "les-lames"
+era: "second-era"
+category: "guildes"
+tags: ["lames", "blades", "akaviri", "dragonborn", "empereur", "dragons", "chasseurs"]
+timelineYear: 854
+summary: "Les Lames sont un ordre ancien de gardes impériaux et chasseurs de dragons — fondé par des guerriers Akaviri Tsaesci qui se soumirent au premier Dragonborn qu'ils cherchaient."
+sources: ["UESP: Blades", "The Imperial Library: The Rise and Fall of the Blades", "Annals of the Dragonguard"]
+---
+
+## Origines Akaviri
+
+Les Lames descendent directement des **Dragonguard** — les guerriers Tsaesci d'Akavir qui envahirent Tamriel en 1E 2703. Leur objectif initial était de trouver et servir un **Dragonborn** :
+
+- Les Tsaesci vénéraient/chassaient les dragons sur Akavir
+- Ils cherchaient un être capable de les commander
+- Quand ils rencontrèrent **Reman Cyrodiil**, ils reconnurent le Dragonborn
+- Ils se soumirent immédiatement et devinrent ses gardes personnels
+
+## Évolution
+
+### Dragonguard → Lames
+- **1E 2703** : Les Tsaesci deviennent gardes de Reman
+- **2E** : Transformation en organisation impériale secrète
+- **2E 854** : Servent Tiber Septim, deviennent officiellement "les Lames"
+- **3E** : Double rôle — gardes impériaux ET réseau d'espionnage
+- **4E** : Traqués par le Thalmor, réduits à la clandestinité
+
+## Double Mission
+
+### Garde Impériale
+- Protection personnelle de l'Empereur
+- Basés à **Cloud Ruler Temple** (Cyrodiil)
+- Armure distinctive et katana akaviri
+- Serment de loyauté absolue au Sang de Dragon
+
+### Espionnage
+- Réseau d'agents dans toutes les provinces
+- Collecte d'informations pour l'Empire
+- Infiltration des organisations ennemies
+- Élimination discrète des menaces
+
+## Armement et Style
+
+| Élément | Description |
+|---------|-------------|
+| Arme | Katana akaviri (lame courbe, un fil) |
+| Armure | Armure lamellaire distinctive |
+| Architecture | Temples-forteresses de style pagode |
+| Entraînement | Combat à l'épée, furtivité, diplomatie |
+
+## La Chute (4E)
+
+Après la Grande Guerre et le Concordat de l'Or Blanc :
+1. Le Thalmor exigea la **dissolution** des Lames
+2. L'Empire accepta comme condition de paix
+3. Le Thalmor **chassa et tua** systématiquement les Lames
+4. Les survivants passèrent dans la clandestinité totale
+5. Cloud Ruler Temple fut détruit
+
+## En Bordeciel (4E 201)
+
+Seuls deux Lames survécurent en Bordeciel :
+- **Delphine** — se cachant comme aubergiste à Rivebois
+- **Esbern** — érudit se terrant dans les Ratways de Faillaise
+
+Ensemble avec le Dernier Enfant de Dragon, ils :
+- Redécouvrirent **Sky Haven Temple** (temple akaviri secret)
+- Déchiffrèrent le **Mur d'Alduin** — une prophétie gravée dans la pierre
+- Commencèrent à recruter de nouveaux membres
+- Exigèrent la mort de Paarthurnax (source de conflit)
+
+## Le Conflit avec les Grises-Barbes
+
+Les Lames et les Grises-Barbes sont fondamentalement opposés :
+- **Lames** : les dragons sont des ennemis à exterminer, Paarthurnax inclus
+- **Grises-Barbes** : la paix et le Thu'um sont sacrés, Paarthurnax s'est racheté
+- Le Dovahkiin doit choisir — ou trouver un compromis impossible
+
+## Le Mur d'Alduin
+
+La plus grande découverte des Lames — un bas-relief Akaviri à Sky Haven Temple dépeignant :
+- La prophétie du retour d'Alduin
+- Le **Dragonrend** comme seule arme contre lui
+- Les anciens héros nordiques qui le bannirent
+- Le rôle du Dovahkiin comme sauveur final
+
+## Héritage
+
+Les Lames incarnent un paradoxe :
+- Serviteurs dévoués du Dragonborn... mais lui donnent des ordres
+- Protecteurs de l'Empire... mais l'Empire les a abandonnés
+- Chasseurs de dragons... mais le dragon Paarthurnax est leur allié le plus précieux
+- Organisation secrète... mais leur temple et leur style sont immédiatement reconnaissables

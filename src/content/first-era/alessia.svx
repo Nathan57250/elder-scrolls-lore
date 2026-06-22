@@ -1,0 +1,83 @@
+---
+title: "Sainte Alessia et la Révolte des Esclaves"
+slug: "alessia"
+era: "first-era"
+category: "personnages"
+tags: ["alessia", "empire", "ayleid", "amulet-des-rois", "akatosh", "cyrodiil", "esclavage", "rebellion", "premier-empire"]
+timelineYear: 243
+summary: "Première impératrice humaine de Cyrodiil, Alessia libéra son peuple du joug des Ayléides et forgea un pacte divin avec Akatosh scellé par l'Amulette des Rois."
+sources: ["UESP: Alessia", "The Song of Pelinal", "Shezarr and the Divines", "The Imperial Library"]
+---
+
+## La Reine-Esclave
+
+Dans les geôles blanches des cités ayléides, où les elfes sauvages pratiquaient des tortures rituelles sur leurs esclaves humains, naquit celle qui allait changer le cours de l'histoire de Tamriel. **Alessia** — aussi nommée **Al-Esh** (« la Haute ») ou **Paravant** (« la première ») — était une esclave nédique dont la foi et la détermination allaient briser les chaînes d'un peuple entier.
+
+Les Ayléides, descendants dégénérés des Aldmer installés à Cyrodiil, avaient réduit les humains en esclavage depuis des siècles. Leurs pratiques étaient abominables :
+- Jardins de chair ornés d'entrailles humaines
+- Brûlures rituelles et mutilations artistiques
+- Sacrifices aux Princes Daedra, notamment Meridia et Molag Bal
+- Élevage de « bétail parlant » pour le divertissement
+
+## L'Appel aux Dieux
+
+Selon la tradition, Alessia priait chaque nuit dans sa cellule, implorant les dieux de délivrer son peuple. Ses prières furent entendues par **Akatosh** lui-même — le Dragon du Temps, chef du panthéon divin. Le dieu, ému par la souffrance des mortels, lui envoya des visions et une promesse : si elle se levait, le divin la soutiendrait.
+
+### Les Champions Divins
+
+Deux figures surhumaines répondirent à l'appel d'Alessia :
+
+| Champion | Nature | Rôle |
+|----------|--------|------|
+| **Morihaus** | Demi-dieu taureau, fils de Kyne | Amant d'Alessia, général ailé |
+| **Pelinal Whitestrake** | Shezarrine (avatar de Lorkhan/Shezarr) | Champion guerrier, destructeur de cités |
+
+Pelinal, en particulier, était une force de destruction pure — un être anachronique dont la fureur contre les elfes frôlait la folie. Ses « Croisades » rasèrent des dizaines de cités ayléides, bien que ses excès inquiétassent même ses alliés.
+
+## La Grande Révolte (1E 242-243)
+
+La révolte ne fut pas un soulèvement spontané mais une insurrection soigneusement organisée. Alessia forgea des alliances cruciales :
+
+### Les alliés clés
+- **Les Nords de Skyrim** — Le Haut-Roi envoya des légions pour soutenir la rébellion, voyant là une occasion d'affaiblir les elfes
+- **Les seigneurs ayléides dissidents** — Certains rois ayléides, adorateurs des Aedra plutôt que des Daedra, se rallièrent à Alessia
+- **Les tribus nédiques** — Des esclaves de toutes les provinces de Cyrodiil se soulevèrent simultanément
+
+La guerre culmina en **1E 243** lors de la prise de la **Tour d'Or Blanc** (White-Gold Tower), le cœur du pouvoir ayléide. L'empire elfique s'effondra en quelques mois.
+
+## Le Pacte avec Akatosh
+
+Le moment le plus sacré de l'histoire impériale survint sur le lit de mort d'Alessia. Akatosh lui-même apparut et scella un **Pacte du Sang des Dragons** :
+
+1. **Le don de l'Amulette des Rois** — Akatosh versa une goutte de son sang divin dans un joyau rouge, la Chim-el Adabal, créant l'Amulette des Rois
+2. **La Barrière draconique** — Tant qu'un empereur légitime du sang d'Alessia allumerait les Feux de Dragon, les barrières entre Mundus et Oblivion resteraient scellées
+3. **La promesse éternelle** — Les Daedra ne pourraient jamais envahir Tamriel en masse tant que le Pacte tiendrait
+
+Ce covenant, qui perdura jusqu'à l'assassinat d'Uriel Septim VII en 3E 433, constitue le fondement métaphysique de tout l'Empire.
+
+## L'Empire Alessien
+
+Après sa victoire, Alessia dut résoudre un dilemme théologique majeur : ses alliés nords vénéraient le panthéon nordique (Shor, Kyne, Alduin...) tandis que les Ayléides ralliés adoraient les Aedra elfiques (Auri-El, Mara, Stendarr...). Sa solution fut un coup de génie politique :
+
+### Le Panthéon des Huit Divins
+Elle fusionna les deux traditions en un panthéon unifié :
+- Akatosh (fusion d'Auri-El et d'Alduin)
+- Dibella, Arkay, Zenithar, Mara, Stendarr, Julianos, Kynareth
+
+Ce syncrétisme permit l'unité religieuse de l'Empire naissant, au prix de l'effacement du dieu Shezarr/Shor — le dieu des humains, trop controversé pour les elfes.
+
+## Mort et Sanctification
+
+Alessia mourut en **1E 266**, entourée de Morihaus et de ses fidèles. La légende veut que son âme fut accueillie directement par Akatosh. Elle fut canonisée comme **Sainte Alessia**, patronne de l'humanité et de la liberté.
+
+Son héritage est immense :
+- Fondation du concept même d'Empire humain sur Tamriel
+- Création du cadre religieux qui perdura quatre mille ans
+- Établissement du Pacte draconique protégeant Mundus
+- Symbole éternel de résistance contre l'oppression
+
+## L'Ordre Alessien
+
+Après sa mort, un culte monothéiste radical — l'**Ordre Alessien** — s'empara de son héritage. Dirigé par le prophète Marukh (qui prétendait avoir reçu des visions d'Alessia), cet ordre prônait la suprématie humaine et l'éradication de toute influence elfique. Pendant des siècles, il domina l'Empire, menant des purges et des réformes doctrinales, avant de s'autodétruire lors de la Guerre de la Vertu en 1E 2321.
+
+Alessia elle-même, figure de conciliation et d'unité, aurait sans doute désapprouvé ces excès commis en son nom.

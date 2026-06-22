@@ -1,0 +1,84 @@
+---
+title: "Les Races de Tamriel"
+slug: "races-de-tamriel"
+era: "dawn-era"
+category: "races"
+tags: ["races", "elfes", "humains", "beastfolk", "mer", "homme", "argonien", "khajiit"]
+timelineYear: -9999
+summary: "Présentation des dix races jouables de Tamriel : leur origine, leur culture, leurs capacités et leur place dans l'histoire."
+sources: ["UESP: Races", "The Imperial Library: Pocket Guide to the Empire"]
+---
+
+## Les Peuples de Tamriel
+
+Tamriel est habitée par une multitude de races intelligentes, généralement classées en trois groupes principaux : les **Hommes** (descendant de l'errance des Ehlnofey), les **Mer** (elfes, descendant des Aldmer), et les **Beastfolk** (races bestiales aux origines distinctes).
+
+## Les Races Humaines
+
+### Impériaux (Cyrodiil)
+
+Natifs de la province de Cyrodiil, les Impériaux sont des diplomates et commerçants nés. Ils ont fondé trois empires successifs et leur culture domine Tamriel depuis des millénaires. Leur talent pour la voix de commandement (*Voice of the Emperor*) reflète leur nature de bâtisseurs d'empire.
+
+### Nordiques (Bordeciel)
+
+Grands, robustes et résistants au froid, les Nordiques descendent des Atmorans qui émigrèrent du continent gelé d'Atmora. Guerriers féroces et marins intrépides, ils vénèrent Shor (Lorkhan) et possèdent une résistance naturelle au givre. Leur culture valorise l'honneur au combat et le passage à Sovngarde.
+
+### Rougegardes (Lenclume)
+
+Originaires du continent perdu de Yokuda, les Rougegardes sont les meilleurs guerriers naturels de Tamriel. Leur art martial, le *Shehai* (Way of the Sword), est légendaire. Farouchement indépendants, ils ont souvent résisté à la domination impériale.
+
+### Brétons (Haute-Roche)
+
+Descendants d'un métissage ancien entre Nédiques et Aldmer, les Brétons combinent une affinité naturelle pour la magie avec une constitution humaine. Leur société féodale, riche en intrigues politiques, produit d'excellents mages de bataille et enchanteurs.
+
+## Les Races Elfiques (Mer)
+
+### Altmer — Hauts-Elfes (Archipel de l'Automne)
+
+Les Altmer se considèrent comme les descendants les plus purs des Aldmer originels. Grands, dorés, et arrogants, ils possèdent la plus grande affinité naturelle pour la magie de toutes les races. Leur société est rigidement hiérarchisée et ils aspirent à la perfection — voire au retour à l'état divin.
+
+### Bosmer — Elfes des Bois (Val-Boisé)
+
+Petits et agiles, les Bosmer vivent en harmonie avec les forêts du Val-Boisé. Liés par le **Pacte Vert** (Green Pact), ils ne consomment aucune végétation et sont strictement carnivores. Ce sont les meilleurs archers de Tamriel et des éclaireurs sans pareils.
+
+### Dunmer — Elfes Noirs (Morrowind)
+
+Autrefois les Chimer (Peuple Changé), les Dunmer furent maudits par Azura après que le Tribunal utilisa les Outils de Kagrenac sur le Cœur de Lorkhan. Leur peau devint cendrée et leurs yeux rouges. Peuple fier et résilient, ils ont survécu à l'esclavage, aux éruptions et aux invasions.
+
+### Orques — Orsimer (Orsinium)
+
+Les Orsimer sont les "Elfes Parias" — transformés quand Trinimac fut dévoré par Boethiah et devint Malacath. Guerriers et forgerons hors pair, ils sont marginalisés par les autres races mais leur cité d'Orsinium a été détruite et reconstruite de nombreuses fois, témoignant de leur ténacité.
+
+## Les Races Bestiales
+
+### Argoniens (Marais Noir)
+
+Les Argoniens sont des reptiliens liés aux **Hist** — d'anciens arbres conscients qui précèdent la création même d'Anu et Padomay selon certaines théories. Ils sont résistants aux maladies et au poison, peuvent respirer sous l'eau, et régénèrent leurs membres. Leur société est profondément communautaire et mystique.
+
+### Khajiit (Elsweyr)
+
+Les Khajiit sont un peuple félin dont la morphologie varie drastiquement selon les phases lunaires de Jone et Jode (Masser et Secunda) lors de leur naissance. Certains ressemblent à des chats domestiques, d'autres à des tigres géants, d'autres encore sont quasi-humanoïdes. Agiles, rusés, et souvent victimes de préjugés, ils vénèrent Azurah qui leur donna leur forme.
+
+## Tableau Comparatif
+
+| Race | Province | Affinité | Trait distinctif |
+|------|----------|----------|-----------------|
+| Impérial | Cyrodiil | Diplomatie | Voix du Commandeur |
+| Nordique | Bordeciel | Combat | Résistance au froid |
+| Rougegarde | Lenclume | Épée | Adrénaline |
+| Bréton | Haute-Roche | Magie | Résistance magique |
+| Altmer | Alinor | Magie pure | Fortitude magique |
+| Bosmer | Val-Boisé | Archerie | Résistance poison/maladie |
+| Dunmer | Morrowind | Feu | Résistance au feu |
+| Orsimer | Orsinium | Forge/Combat | Rage berserk |
+| Argonien | Marais Noir | Alchimie | Respiration aquatique |
+| Khajiit | Elsweyr | Furtivité | Vision nocturne |
+
+## Races Disparues
+
+Plusieurs races ont disparu au fil des ères :
+- **Dwemer** — disparus lors de la Bataille de la Montagne Rouge (1E 700)
+- **Ayléides** — les Elfes Sauvages de Cyrodiil, anéantis par la Révolte Alessienne
+- **Falmers** — les Elfes des Neiges, réduits en esclavage par les Dwemer, dégénérés en créatures aveugles
+- **Gauchers** (Left-Handed Elves) — anéantis par les Rougegardes sur Yokuda
+- **Nédiques** — ancêtres proto-humains absorbés dans les populations modernes

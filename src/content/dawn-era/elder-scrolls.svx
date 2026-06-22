@@ -1,0 +1,79 @@
+---
+title: "Les Parchemins des Anciens (Elder Scrolls)"
+slug: "elder-scrolls"
+era: "dawn-era"
+category: "artefacts"
+tags: ["elder scrolls", "parchemins", "prophétie", "moth priest", "artefacts", "temps"]
+timelineYear: -9999
+summary: "Les Elder Scrolls sont des artefacts de la création elle-même — des fragments de la réalité antérieurs au temps, capables de révéler passé, présent et futur."
+sources: ["UESP: Elder Scrolls", "The Imperial Library: Ruminations on the Elder Scrolls", "Effects of the Elder Scrolls"]
+---
+
+## Nature des Parchemins
+
+Les **Elder Scrolls** (Parchemins des Anciens) ne sont pas de simples documents magiques. Ils sont des **fragments de la création** — des éclats de la réalité telle qu'elle existait avant que le temps ne soit linéaire. Ils ne furent ni écrits ni créés par un être mortel ou divin : ils **sont**.
+
+Leur nombre est inconnu — il fluctue. Certains érudits affirment qu'il en existe un nombre infini, d'autres qu'ils n'existent qu'au moment où on les observe.
+
+## Propriétés
+
+### Omniscience Partielle
+
+Un Elder Scroll contient **toute** l'information — passé, présent, futur, et les possibilités non réalisées. Mais cette information n'est accessible que fragmentairement, et jamais sans coût.
+
+### Cécité Progressive
+
+Lire un Elder Scroll sans entraînement provoque une **cécité progressive** :
+- Première lecture : vision trouble temporaire
+- Lectures répétées : dégradation permanente
+- Usage intensif : cécité totale et irréversible
+
+Les **Prêtres de la Mite** (Moth Priests) de la Bibliothèque Ancestrale de la Cité Impériale consacrent leur vie à l'étude des Parchemins, acceptant la cécité comme prix du savoir.
+
+### Indétermination
+
+Le contenu d'un Elder Scroll **change** selon qui le lit et quand. Un même Parchemin peut révéler des prophéties différentes à des lecteurs différents. Il ne ment jamais, mais il ne dit jamais toute la vérité.
+
+## Les Moth Priests
+
+L'ordre des Prêtres de la Mite est basé dans la **Bibliothèque Ancestrale** sous la Cité Impériale. Leur formation est longue :
+
+1. **Novice** — méditation et étude des textes secondaires
+2. **Initié** — contact indirect avec les Parchemins
+3. **Lecteur** — premières lectures supervisées
+4. **Maître** — lectures indépendantes (début de la perte de vue)
+5. **Ancien Aveugle** — cécité totale, mais visions permanentes
+
+Leur nom vient d'un rituel où des nuées de mites ancestrales se posent sur eux, formant des motifs qui guident leur interprétation.
+
+## Rôle dans l'Histoire
+
+### La Prophétie du Dovahkiin
+
+Un Elder Scroll fut utilisé par les anciens Nordiques pour projeter Alduin dans le futur — le **Roulement du Temps** (Time-Wound) au Sommet du Monde. Ce même Parchemin permit au Dernier Enfant de Dragon d'apprendre Dragonrend.
+
+### Le Sacrament de la Tour d'Or
+
+Les Empereurs Septim utilisaient un Elder Scroll lors du rituel de légitimation impériale, liant le sang du dragon à l'Amulette des Rois.
+
+### La Crise de l'Oblivion
+
+Lors de la destruction de la Bibliothèque Ancestrale pendant la Crise d'Oblivion, plusieurs Parchemins furent dispersés. Certains tombèrent aux mains de la Confrérie Noire, d'autres furent récupérés par les Dawnguard.
+
+## Localisation Connue
+
+| Parchemin | Localisation | Ère |
+|-----------|-------------|-----|
+| Scroll of Blood | Fort Dawnguard / Château Volkihar | 4E |
+| Scroll of the Sun | Grotte de Darkfall | 4E |
+| Scroll of Dragon | Sommet du Monde (Time-Wound) | 4E |
+| Plusieurs non-nommés | Bibliothèque Ancestrale, Cité Impériale | 3E-4E |
+| Parchemin d'Alduin | Tour de Mzark, Griffenoire | 4E |
+
+## Théories Métaphysiques
+
+Certains érudits (notamment Septimus Signus) théorisent que les Elder Scrolls sont des **artefacts du Godhead** — des fragments de la conscience du Dormeur qui contiennent le "code source" de la réalité. Les lire reviendrait à accéder directement au Rêve depuis l'intérieur du Rêve.
+
+D'autres suggèrent qu'ils sont les **mémoires d'Akatosh** — le dieu du Temps ayant inscrit toute la chronologie dans ces artefacts lors de la Convention.
+
+Quoi qu'il en soit, les Elder Scrolls restent l'un des plus grands mystères de Tamriel — des objets qui défient la compréhension même des plus sages.

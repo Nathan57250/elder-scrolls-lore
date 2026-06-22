@@ -1,0 +1,129 @@
+---
+title: "La Guerre des Trois Bannières"
+slug: "trois-alliances"
+era: "second-era"
+category: "evenements"
+tags: ["guerre-alliances", "pacte-coeurebene", "alliance-daguéfilante", "domaine-aldmeri", "interregne", "eso", "trône-rubis"]
+timelineYear: 580
+summary: "La Guerre des Trois Bannières opposa le Pacte de Cœurébène, l'Alliance de Daguefilante et le Premier Domaine Aldmeri pour le contrôle du Trône de Rubis durant l'Interrègne."
+sources: ["UESP: Alliance War", "ESO: The Improved Emperor's Guide to Tamriel", "ESO Lore", "The Imperial Library"]
+---
+
+## Contexte : L'Interrègne
+
+La **Guerre des Trois Bannières** éclata en **2E 580**, en plein cœur de l'**Interrègne** — cette longue période de chaos qui suivit la chute de la dynastie Reman et l'assassinat du dernier Potentát Akaviri en 2E 430. Sans empereur légitime sur le Trône de Rubis, Tamriel se fragmenta en royaumes rivaux, proies de seigneurs de guerre, de nécromanciens, et d'envahisseurs extraplanaires.
+
+### Le Catalyseur
+
+Plusieurs événements précipitèrent la formation des alliances :
+
+- L'instabilité chronique de Cyrodiil, où des usurpateurs se succédaient
+- La menace croissante de **Molag Bal** et de ses cultistes
+- Les ambitions du nécromancien **Mannimarco** qui manipulait les événements
+- Le désir de chaque faction d'imposer sa vision de l'ordre sur Tamriel
+
+## Le Pacte de Cœurébène
+
+### Composition
+
+- **Nordiques** de Bordeciel
+- **Dunmer** de Morrowind
+- **Argoniens** du Marais Noir
+
+### Leader : Le Haut-Roi Jorunn le Scalde-Roi
+
+**Jorunn** était un Nordique atypique — un poète et diplomate autant qu'un guerrier. Il forgea le Pacte après l'invasion akaviri de 2E 572, lorsque Nordiques, Dunmer et Argoniens durent combattre ensemble par nécessité.
+
+### Formation et Motivations
+
+Le Pacte est l'alliance la plus **improbable** des trois. Les Nordiques et les Dunmer se méfiaient mutuellement depuis des siècles, et les Argoniens avaient été réduits en esclavage par les Dunmer pendant des générations. Leur union repose sur :
+
+- **Pragmatisme militaire** — L'invasion akaviri prouva que la survie exigeait la coopération
+- **Le Grand Pacte** — Un serment solennel de non-agression et d'entraide
+- **Défense commune** — Chacun apporte ses forces : la puissance brute nordique, la magie dunmer, la guérilla argonienne
+
+### Philosophie Politique
+
+Le Pacte ne cherchait pas à conquérir Tamriel mais à **sécuriser ses frontières**. Leur objectif était de placer sur le Trône de Rubis un empereur qui respecterait l'autonomie des provinces et ne menacerait jamais leur indépendance.
+
+## L'Alliance de Daguefilante
+
+### Composition
+
+- **Brétons** de Hauteroche
+- **Rougegardes** de Lenclume
+- **Orques** d'Orsinium
+
+### Leader : Le Haut-Roi Émeric
+
+**Émeric** était un marchand devenu roi — un homme pragmatique qui comprenait que la prospérité commerciale nécessitait la stabilité politique. Son mariage avec la princesse Ra Navaira de Lenclume scella l'alliance.
+
+### Formation et Motivations
+
+L'Alliance de Daguefilante est la plus **conventionnelle** — ses membres partageaient déjà des intérêts commerciaux et géographiques. Ses motivations :
+
+- **Commerce et prospérité** — La stabilité du Trône de Rubis garantit les routes commerciales
+- **Restauration impériale** — Les Brétons, héritiers partiels de la culture impériale, veulent restaurer l'Empire
+- **Reconnaissance orsimer** — Les Orques obtiennent enfin une légitimité politique en échange de leur puissance militaire
+
+### Forces Militaires
+
+| Peuple | Spécialité |
+|--------|-----------|
+| Brétons | Chevaliers, battlemages, diplomatie |
+| Rougegardes | Épéistes d'élite, guerriers du désert |
+| Orques | Infanterie lourde, forgerons de guerre |
+
+## Le Premier Domaine Aldmeri
+
+### Composition
+
+- **Altmer** des Îles Summerset
+- **Bosmer** du Val-Boisé
+- **Khajiits** d'Elsweyr
+
+### Leader : La Reine Ayrenn
+
+**Ayrenn Arana Aldmeri** était une jeune reine altmer qui avait passé des années à voyager incognito à travers Tamriel. Cette expérience unique lui donna une perspective cosmopolite rare parmi son peuple.
+
+### Formation et Motivations
+
+Le Domaine Aldmeri est l'alliance la plus **idéologique**. Ayrenn estimait que les races mer (elfiques), plus anciennes et plus sages, devaient guider Tamriel :
+
+- **Supériorité culturelle** — Les Altmer se considèrent comme les héritiers légitimes des Aldmer originels
+- **Protection du Bosmer** — Le Val-Boisé, vulnérable, nécessite la protection summerset
+- **Alliance khajiit** — La reine Ayrenn sauva Elsweyr d'une épidémie, créant un lien de gratitude
+- **Ordre par la sagesse** — Contrairement aux humains « barbares », les mer apporteraient stabilité et raffinement
+
+### Distinction Importante
+
+Ce Premier Domaine Aldmeri ne doit **pas** être confondu avec le **Troisième Domaine Aldmeri** (le Thalmor de la Quatrième Ère). La reine Ayrenn, malgré sa croyance en la supériorité mer, n'était pas une suprémaciste génocidaire — elle cherchait à guider, non à exterminer.
+
+## Le Théâtre de Guerre : Cyrodiil
+
+### La Bataille pour le Trône de Rubis
+
+La guerre se concentra principalement en **Cyrodiil**, où les trois alliances luttaient pour le contrôle de la **Cité Impériale** et du Trône de Rubis. Le système fonctionnait ainsi :
+
+1. Les armées s'affrontaient pour le contrôle de **forteresses** stratégiques
+2. L'alliance dominant Cyrodiil pouvait couronner un **empereur** parmi ses champions
+3. Cet empereur, tant qu'il maintenait le contrôle, recevait les bénédictions des **Amulettes des Rois**
+
+### Guerre d'Usure
+
+Aucune alliance ne parvint à maintenir une domination durable. La guerre devint un cycle infini de conquêtes et de reconquêtes, affaiblissant les trois factions et le continent tout entier.
+
+## Conséquences et Fin
+
+### L'Épuisement
+
+La Guerre des Trois Bannières n'eut pas de vainqueur clair. Elle :
+
+- Dévasta les campagnes de Cyrodiil
+- Épuisa les ressources des trois alliances
+- Prouva qu'aucune faction ne pouvait dominer seule
+- Prépara le terrain pour l'unification future par Tiber Septim
+
+### L'Héritage
+
+Cette guerre démontra que Tamriel ne pouvait fonctionner comme un ensemble de nations rivales. L'Interrègne ne prit fin que lorsqu'un homme — **Tiber Septim** — unifia le continent par la force, la ruse, et le pouvoir divin. Les trois alliances, en s'épuisant mutuellement, rendirent paradoxalement cette unification possible.

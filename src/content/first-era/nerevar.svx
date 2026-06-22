@@ -1,0 +1,117 @@
+---
+title: "Indoril Nerevar"
+slug: "nerevar"
+era: "first-era"
+category: "personnages"
+tags: ["nerevar", "chimer", "morrowind", "tribunal", "azura", "montagne-rouge", "dwemer", "indoril"]
+date: "1E ~400 — 1E 700"
+timelineYear: 700
+summary: "Hortator et Grand Roi des Chimer, Indoril Nerevar unit son peuple contre les Dwemer et les envahisseurs nordiques. Sa mort à la Montagne Rouge et la trahison du Tribunal hantent l'histoire de Morrowind."
+mapCoords: { x: 720, y: 280 }
+province: "Morrowind"
+aliases: ["Nerevar", "Nerevar Indoril", "l'Hortator", "Nerevar Moon-and-Star", "le Champion d'Azura"]
+relatedArticles: ["guerre-alliance", "bataille-montagne-rouge", "tribunal", "vivec", "almalexia", "sotha-sil"]
+sources: ["UESP: Nerevar", "Nerevar at Red Mountain", "The Battle of Red Mountain", "The Imperial Library"]
+---
+
+![Indoril Nerevar, portant l'Anneau Lune-et-Étoile](/images/first-era/nerevar.jpg)
+
+## Les Origines
+
+**Indoril Nerevar** naquit au sein de la Grande Maison Indoril, l'une des plus prestigieuses lignées du peuple **Chimer** (les ancêtres dorés des Dunmer). Les détails de sa jeunesse sont obscurcis par le temps et la mythologie, mais les textes s'accordent sur un point : dès son plus jeune âge, Nerevar manifesta des qualités extraordinaires de meneur et de guerrier.
+
+Selon certaines sources, il fut d'abord un orphelin élevé dans la pauvreté avant d'être adopté par la Maison Indoril. D'autres le décrivent comme un noble de naissance. Ce qui est certain, c'est qu'il gravit les échelons du pouvoir par une combinaison rare de charisme, d'intelligence stratégique et de prouesse martiale.
+
+## L'Anneau Lune-et-Étoile
+
+L'artefact le plus associé à Nerevar est son célèbre anneau, **Lune-et-Étoile** (Moon-and-Star). Cet anneau enchanté, offert par la Daedra **Azura** elle-même, possédait le pouvoir de tuer instantanément quiconque le porterait sans en être le propriétaire légitime.
+
+L'anneau servait à la fois de :
+- Preuve irréfutable de l'identité de Nerevar
+- Symbole de sa faveur divine auprès d'Azura
+- Outil diplomatique — nul ne pouvait contester ses déclarations sous serment
+- Rappel constant de son lien avec les forces daédriques
+
+## L'Unification des Chimer
+
+### Le Contexte Politique
+
+Au début de la Première Ère, les Chimer de Morrowind étaient divisés en de nombreuses factions et Grandes Maisons qui se querellaient sans cesse. Les **Dwemer** (Elfes des Profondeurs) occupaient de vastes territoires souterrains et maintenaient une civilisation technologiquement supérieure dans leurs cités mécaniques.
+
+De plus, les **Nordiques** de Bordeciel avaient étendu leur Premier Empire jusque dans les terres de Morrowind, imposant une domination étrangère aux Chimer et aux Dwemer.
+
+### L'Ascension de l'Hortator
+
+Nerevar fut nommé **Hortator** — un titre militaire signifiant commandant suprême en temps de guerre. Par la diplomatie, la persuasion et parfois la force, il parvint à unifier les Grandes Maisons Chimer sous son commandement.
+
+Son plus grand exploit diplomatique fut peut-être de convaincre **Dumac Nain-Dur**, roi des Dwemer, de former une alliance contre l'ennemi commun nordique. Cette alliance, impensable au vu des différences philosophiques et religieuses entre les deux peuples elfiques, permit de repousser les Nordiques hors de Morrowind.
+
+## Le Premier Conseil
+
+L'alliance Chimer-Dwemer s'institutionnalisa sous la forme du **Premier Conseil** — le premier gouvernement unifié de Morrowind. Nerevar et Dumac en partageaient la direction, avec les Grandes Maisons Chimer et les cités-clans Dwemer représentées.
+
+Cette période est souvent considérée comme un âge d'or :
+- Morrowind était libérée de la domination nordique
+- Le commerce florissait entre les cités Chimer et Dwemer
+- Les arts et les sciences progressaient
+- La paix régnait dans la province
+
+## Les Compagnons de Nerevar
+
+Nerevar s'entoura de trois conseillers qui deviendraient les figures les plus importantes de l'histoire de Morrowind :
+
+### Vivec (Vehk)
+Guerrier-poète et mystique, Vivec était le plus charismatique des compagnons de Nerevar. Son intelligence et son éloquence en faisaient un diplomate hors pair.
+
+### Almalexia (Ayem)
+L'épouse de Nerevar elle-même, Almalexia était une guérisseuse et dirigeante naturelle, aimée du peuple pour sa compassion et sa beauté.
+
+### Sotha Sil (Seht)
+Le plus discret des trois, Sotha Sil était un mage et inventeur de génie, dont l'intellect rivalisait avec celui des savants Dwemer.
+
+## La Guerre du Premier Conseil
+
+### La Rupture
+
+La paix entre Chimer et Dwemer ne dura pas. Lorsque Nerevar apprit que les Dwemer — sous la direction de l'Architecte Tonal **Kagrenac** — tentaient de construire un **dieu mécanique** (le Numidium) en utilisant le **Cœur de Lorkhan**, il fut horrifié.
+
+Pour les Chimer, profondément religieux et dévots des Daedra, cette tentative de créer une divinité artificielle était un blasphème suprême. Nerevar confronta son ami Dumac, mais les versions divergent sur ce qui se passa : soit Dumac ignorait les projets de Kagrenac, soit il les défendit.
+
+### Le Conflit
+
+La guerre qui s'ensuivit opposa l'ensemble des Chimer aux Dwemer retranchés dans leurs cités souterraines. Ce conflit, connu comme la **Guerre du Premier Conseil**, culmina à la **Montagne Rouge** (Red Mountain), le grand volcan de Vvardenfell sous lequel les Dwemer avaient caché le Cœur de Lorkhan.
+
+## La Bataille de la Montagne Rouge
+
+Ce qui se passa exactement à la Montagne Rouge est l'un des plus grands mystères de l'histoire tamriélique. Les récits se contredisent :
+
+### Version du Temple (Tribunal)
+Nerevar affronta et vainquit Dumac en combat singulier. Kagrenac, désespéré, utilisa ses outils sur le Cœur de Lorkhan, ce qui provoqua la **disparition instantanée de tout le peuple Dwemer**. Nerevar, mortellement blessé, fit jurer à ses compagnons de ne jamais utiliser les Outils sur le Cœur, puis mourut de ses blessures.
+
+### Version d'Azura (Les Ashlanders)
+Après la bataille, Nerevar fit jurer à Vivec, Almalexia et Sotha Sil de ne pas profaner le Cœur. Mais une fois Nerevar mort — possiblement **assassiné** par ses propres compagnons — les trois rompirent leur serment et utilisèrent les Outils pour devenir des dieux.
+
+### Version de Dagoth Ur
+**Voryn Dagoth** (plus tard Dagoth Ur), le lieutenant chargé de garder les Outils, prétend que c'est lui qui fut trahi — qu'il gardait fidèlement les Outils quand le Tribunal le frappa.
+
+## La Malédiction et la Prophétie
+
+Quelle que soit la vérité, les conséquences furent dramatiques :
+
+- **Azura**, furieuse de la trahison du serment, maudit le peuple Chimer : leur peau dorée devint grise, leurs yeux devinrent rouges — ils devinrent les **Dunmer**
+- Azura prophétisa le retour de Nerevar — le **Nerevarine** — qui reviendrait pour punir les faux dieux du Tribunal
+- Le Tribunal (Vivec, Almalexia, Sotha Sil) devint divin mais vécut dans l'ombre de cette prophétie
+
+## Héritage
+
+L'héritage de Nerevar est immense et contradictoire :
+
+- Pour le **Temple du Tribunal**, il est un héros saint dont la mort était nécessaire et noble
+- Pour les **Ashlanders**, il est un roi trahi dont le retour est promis
+- Pour les **Maisons Dunmer**, il est le fondateur de l'unité de Morrowind
+- Pour le **Nerevarine** (3E 427), il est un précédent et une destinée à accomplir
+
+Sa Prophétie — l'**Incarnation du Nerevarine** — resta au cœur de la politique et de la religion de Morrowind pendant des millénaires, jusqu'à son accomplissement durant les événements de *The Elder Scrolls III: Morrowind*.
+
+> « Il marchera à nouveau parmi nous, né du feu et de l'étoile, et les faux dieux trembleront. »
+> — *Les Sept Visions*, Prophétie Ashlander

@@ -1,0 +1,54 @@
+---
+title: "Dagoth Ur"
+slug: "dagoth-ur"
+era: "third-era"
+category: "personnages"
+tags: ["dagoth-ur", "voryn-dagoth", "sixieme-maison", "coeur-lorkhan", "nerevarine", "corpus"]
+date: "1E 700 — 3E 427"
+timelineYear: 420
+summary: "Ancien allié de Nerevar devenu une divinité corrompue sous le Mont Écarlate, cherchant à unifier Tamriel sous le contrôle du Cœur de Lorkhan via la Peste du Corpus."
+mapCoords: { x: 735, y: 285 }
+province: "Morrowind"
+aliases: ["Voryn Dagoth", "le Sharmat", "le Rêveur"]
+relatedArticles: ["vivec", "premiere-ere", "vvardenfell"]
+sources: ["UESP: Dagoth Ur", "Dagoth Ur's Plans", "Events of TES III: Morrowind"]
+---
+
+![Dagoth Ur sous le Mont Écarlate](/images/third-era/dagoth-ur.jpg)
+
+## Voryn Dagoth — L'Ami Fidèle
+
+Avant d'être un monstre, **Voryn Dagoth** était le chef de la Grande Maison Dagoth et l'un des plus loyaux compagnons du général **Nerevar**. Lors de la Bataille de la Montagne Rouge, Nerevar lui confia la garde des Outils de Kagrenac pendant qu'il confrontait les chefs Dwemer.
+
+Quand Nerevar revint mourant et que le Tribunal demanda les outils, Voryn refusa — soit par corruption due au contact avec le Cœur, soit par fidélité à un serment fait à Nerevar. Le Tribunal l'attaqua et le laissa pour mort.
+
+## La Renaissance Sous la Montagne
+
+Mais Voryn Dagoth ne mourut pas. Le contact avec le **Cœur de Lorkhan** l'avait transformé. Pendant des millénaires, il demeura dans les profondeurs du Mont Écarlate, absorbant le pouvoir du Cœur, devenant quelque chose de plus qu'un mortel mais de moins qu'un dieu véritable.
+
+Il devint **Dagoth Ur** — une entité divine corrompue, un "Anti-Tribunal" alimenté par la même source mais sans le rituel approprié.
+
+## La Sixième Maison
+
+Dagoth Ur recréa la **Maison Dagoth** (officiellement dissoute après sa prétendue mort) sous le nom de **Sixième Maison**. Ses serviteurs — les **Ash Vampires**, les **Ash Ghouls**, et les malades du Corpus — formaient une armée liée à sa volonté par des rêves et la maladie.
+
+### La Peste du Corpus
+La **Corpus** est une maladie divine créée par Dagoth Ur :
+- Physiquement : déformation monstrueuse du corps, croissance de chair et d'os incontrôlée
+- Mentalement : perte de la volonté propre, assimilation dans le "Rêve" de Dagoth Ur
+- Particularité : elle rend **immortel** tout en détruisant l'esprit
+
+## Akulakhan — Le Second Numidium
+
+Le plan ultime de Dagoth Ur était la construction d'**Akulakhan** — un second Numidium (géant de métal) alimenté par le Cœur de Lorkhan. Avec cet automate divin, il comptait :
+1. Détruire le Tribunal
+2. Chasser l'Empire de Morrowind
+3. Propager le Corpus à tout Tamriel, unifiant l'humanité dans un seul esprit collectif — le sien
+
+## La Confrontation Finale
+
+En **3E 427**, le **Nérévarine** — la réincarnation de son ancien ami Nerevar — pénétra dans la Montagne Rouge avec les Outils de Kagrenac. Protégé par Wraithguard, il utilisa Sunder et Keening pour **détruire le Cœur de Lorkhan**.
+
+Privé de sa source de pouvoir, Dagoth Ur s'effondra. Dans ses derniers mots, il exprima un mélange de soulagement et de tristesse — comme si une part de Voryn Dagoth, l'ami loyal, avait survécu sous la corruption pendant tout ce temps.
+
+> *"Quel droit avais-tu ? Quel droit avais-tu de défaire mon travail de toute une vie ? Quel droit..."*

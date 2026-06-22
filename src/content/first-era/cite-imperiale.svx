@@ -1,0 +1,45 @@
+---
+title: "La Cité Impériale"
+slug: "cite-imperiale"
+era: "first-era"
+category: "geographie"
+tags: ["cyrodiil", "cite-imperiale", "tour-or-blanc", "empire", "ayleid"]
+date: "1E 243 — présent"
+timelineYear: 243
+summary: "Capitale de tous les Empires de Tamriel, construite autour de la Tour d'Or Blanc ayleid sur l'Île de la Cité, au centre du lac Rumare."
+mapCoords: { x: 512, y: 480 }
+province: "Cyrodiil"
+relatedArticles: ["premiere-ere", "crise-oblivion"]
+sources: ["UESP: Imperial City", "A Short History of Cyrodiil"]
+---
+
+## Histoire
+
+La **Cité Impériale** est la plus grande et plus importante ville de Tamriel, servant de capitale à chaque empire qui a unifié le continent.
+
+### Origines Ayléides
+La Tour d'Or Blanc (**White-Gold Tower**) fut construite par les **Ayléides** (Elfes Sauvages) durant l'Ère Méréthique. C'est l'une des Tours métaphysiques qui ancrent la réalité de Mundus — sa Pierre étant l'Amulette des Rois.
+
+### La Conquête Alessienne (1E 243)
+**Alessia** et sa révolte d'esclaves prirent la Cité Impériale aux Ayléides, en faisant la capitale du premier empire humain. La Tour d'Or Blanc devint le Palais Impérial.
+
+### Capitale Universelle
+Chaque empire successif — Alessien, Reman, Septim, Mede — a gouverné depuis la Cité Impériale.
+
+## Structure
+
+La ville est construite sur une **île circulaire** au milieu du lac Rumare, avec des ponts la reliant au continent. Elle est organisée en districts :
+
+- **Le District du Temple** — autour de la Tour d'Or Blanc et du Temple du Dieu Unique
+- **Le District du Marché** — centre commercial principal
+- **Le District Elfe** — quartier des populations elfiques
+- **Le District Talos** — quartier résidentiel (nommé d'après le Neuvième Divin)
+- **Le District de l'Arène** — contenant le célèbre Colisée Impérial
+- **L'Île de la Prison** — pénitencier impérial
+- **Les Égouts** — réseau souterrain immense, point de départ de nombreuses aventures
+
+## Importance Métaphysique
+
+La Tour d'Or Blanc n'est pas qu'un bâtiment — c'est un **pilier de la réalité**. Tant qu'elle et sa Pierre (l'Amulette des Rois) sont actives, la structure de Mundus est renforcée dans la région de Cyrodiil.
+
+La destruction de l'Amulette des Rois par Martin Septim en 3E 433 a désactivé cette Tour — un événement aux implications cosmiques encore mal comprises.

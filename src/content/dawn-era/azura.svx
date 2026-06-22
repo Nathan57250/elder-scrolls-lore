@@ -1,0 +1,88 @@
+---
+title: "Azura — Prince Daedrique de l'Aube et du Crépuscule"
+slug: "azura"
+era: "dawn-era"
+category: "daedra"
+tags: ["azura", "prince daedrique", "dunmer", "tribunal", "etoile d'azura", "moonshadow"]
+timelineYear: 0
+summary: "Azura est le Prince Daedrique de l'Aube et du Crépuscule, protectrice des Dunmer et orchestratrice de la chute du Tribunal. L'un des rares Princes considérés bienveillants."
+sources: ["UESP: Azura", "The Anticipations", "Azura and the Box"]
+---
+
+## Présentation
+
+**Azura** (aussi appelée Azurah chez les Khajiit) est le Prince Daedrique du Crépuscule et de l'Aube — la période liminale entre le jour et la nuit. Elle gouverne les transitions, les prophéties, la vanité et l'égoïsme. Son royaume d'Oblivion est **Moonshadow**, décrit comme un lieu d'une beauté impossible.
+
+Parmi les Princes, Azura est l'un des trois "bons Daedra" reconnus par la théologie Dunmer (avec Boéthia et Mephala), par opposition aux "mauvais Daedra" (Molag Bal, Sheogorath, Malacath, Mehrunes Dagon).
+
+## La Malédiction des Chimer
+
+L'acte le plus conséquent d'Azura fut la **transformation des Chimer en Dunmer**. Quand le Tribunal (Vivec, Almalexia, Sotha Sil) utilisa les Outils de Kagrenac sur le Cœur de Lorkhan pour devenir des dieux — violant le serment fait à Nerevar — Azura maudit tout le peuple Chimer :
+
+- Leur peau dorée devint **gris cendré**
+- Leurs yeux devinrent **rouge feu**
+- Ils furent renommés **Dunmer** (Elfes Noirs)
+
+Cette malédiction n'était pas un châtiment aveugle mais un **rappel permanent** de la trahison du Tribunal envers Nerevar et les Daedra.
+
+## La Prophétie du Nérévarrin
+
+Azura prophétisa que Nerevar se **réincarnerait** pour détruire le Tribunal et le Cœur de Lorkhan. Cette prophétie — le Nérévarrin — se réalisa en 3E 427 quand un prisonnier inconnu accomplit les Sept Épreuves et mit fin au pouvoir du Tribunal.
+
+Azura guida activement le Nérévarrin :
+- Visions et rêves prophétiques
+- Communication via son étoile
+- Instructions à travers les Ashlanders fidèles
+- Révélation du vrai destin face à Dagoth Ur
+
+## L'Étoile d'Azura
+
+L'**Étoile d'Azura** est son artefact daedrique — une gemme d'âme réutilisable :
+- Capture les âmes comme une gemme d'âme ordinaire
+- Ne se brise pas après utilisation (peut être vidée et réutilisée)
+- Apparaît dans presque chaque jeu de la série
+- En Bordeciel, une version corrompue (l'Étoile Noire) peut capturer les âmes humaines
+- Son sanctuaire est situé au sommet d'une montagne au sud de Fortdhiver
+
+## Moonshadow
+
+Le royaume d'Azura, **Moonshadow**, est décrit comme :
+- Un jardin de fleurs aux couleurs impossibles
+- Des cités d'argent sous un ciel perpétuellement crépusculaire
+- Une beauté si intense que les mortels qui y séjournent deviennent aveugles à la beauté terrestre
+- Habité par les Winged Twilights (serviteurs ailés d'Azura)
+
+## Relations avec les Mortels
+
+### Les Dunmer
+Azura est simultanément la **protectrice** et la **châtieuse** des Dunmer :
+- Les Ashlanders la vénèrent comme le principal "bon Daedra"
+- Le Temple des Tribunaux la considérait comme un "Anticipation" (prédécesseur symbolique d'un Tribunal)
+- Après la chute du Tribunal, son culte renaît parmi les Dunmer
+
+### Les Khajiit
+Sous le nom d'**Azurah**, elle est la créatrice des Khajiit :
+- Elle prit certains des enfants de Fadomai (Nirni)
+- Les façonna sous la lumière des lunes
+- Leur donna leurs formes variées (les furespecs)
+
+## Personnalité
+
+Azura est paradoxale :
+- **Bienveillante** envers ses fidèles mais **implacable** envers les traîtres
+- **Protectrice** mais exigeant une dévotion absolue
+- **Prophétique** mais manipulatrice dans l'accomplissement de ses visions
+- **Belle** et aimante mais profondément **vaniteuse** et rancunière
+
+Elle ne pardonne jamais un affront — la malédiction des Dunmer dura des millénaires pour punir trois individus.
+
+## Sphère d'Influence
+
+| Aspect | Description |
+|--------|-------------|
+| Domaine | Aube, crépuscule, transitions |
+| Jour sacré | 21e de Semailles de l'Aube |
+| Serviteurs | Winged Twilights |
+| Artefact | L'Étoile d'Azura |
+| Royaume | Moonshadow |
+| Ennemis | Molag Bal, Nocturnal |

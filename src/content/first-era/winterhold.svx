@@ -1,0 +1,56 @@
+---
+title: "Fortdhiver"
+slug: "winterhold"
+era: "first-era"
+category: "lieux"
+tags: ["fortdhiver", "winterhold", "effondrement", "college", "magie", "bordeciel", "grande-effondrement"]
+timelineYear: 400
+summary: "Fortdhiver, autrefois grande cité de Bordeciel et capitale du savoir magique, réduite à un village après le Grand Effondrement."
+sources: ["The Great Collapse", "On the Great Collapse", "History of the College of Winterhold", "The Holds of Skyrim"]
+---
+
+## La grande cité du nord
+
+**Fortdhiver** (Winterhold) fut autrefois l'une des plus grandes et des plus prospères cités de Bordeciel. Située sur la côte nord-est de la province, surplombant la **Mer des Fantômes**, la ville était un centre majeur de commerce maritime, d'érudition et de pouvoir politique. Son port accueillait des navires venus de tout Tamriel, et sa population rivalisait avec celle de **Solitude** et de **Vendeaume**.
+
+La cité devait sa prospérité à une combinaison de facteurs : une position portuaire stratégique sur les routes commerciales septentrionales, un accès aux richesses minières des montagnes environnantes, et la présence du **Collège de Fortdhiver** — la plus prestigieuse institution d'enseignement magique de Bordeciel — qui attirait érudits et mages de tout le continent.
+
+## Le Collège de Fortdhiver
+
+Le **Collège de Fortdhiver** fut fondé au début de la Première Ère par le légendaire archimage **Shalidor**, un mage nordique dont la puissance était telle qu'il aurait, selon la légende, créé le labyrinthe de Bromjunaar d'un seul murmure. Le Collège fut conçu comme un sanctuaire du savoir magique, ouvert à tous ceux démontrant une aptitude pour les arts arcaniques, sans distinction de race ou d'origine.
+
+Perché sur un promontoire rocheux relié à la ville par un pont de pierre, le Collège devint rapidement le centre d'études magiques le plus réputé du nord de Tamriel. Ses bibliothèques rivalisaient avec celles de la **Tour de Cristal** des Îles Summerset, et ses professeurs comptaient parmi les plus brillants esprits de chaque génération.
+
+## L'apogée de Fortdhiver
+
+Au cours de la Première Ère, Fortdhiver atteignit un apogée remarquable. La ville servit même brièvement de capitale de Bordeciel, le Haut-Roi siégeant dans son palais côtier plutôt que dans le traditionnel **Palais des Rois** de Vendeaume. Cette période vit la construction de quartiers entiers dédiés au commerce, aux arts et aux sciences.
+
+Le port de Fortdhiver était l'un des plus actifs de la Mer des Fantômes, accueillant des navires marchands venus d'**Atmora** (avant que ce continent ne devienne inhabitable), de Morrowind et même des terres plus lointaines. La richesse qui affluait permit la construction de bâtiments somptueux dont les ruines reposent aujourd'hui au fond de l'océan.
+
+## Le Grand Effondrement
+
+En 4E 122, une catastrophe d'une ampleur inégalée frappa Fortdhiver. En l'espace de quelques heures, la majeure partie de la ville s'effondra dans la mer, emportant des milliers d'habitants, des siècles d'architecture et d'innombrables trésors culturels dans les eaux glacées. Cet événement, connu sous le nom de **Grand Effondrement**, réduisit l'une des plus grandes cités de Bordeciel à un misérable village de quelques maisons battues par les vents.
+
+Les causes exactes du Grand Effondrement restent disputées. La théorie la plus répandue parmi la population attribue la catastrophe au Collège de Fortdhiver — une expérience magique ayant mal tourné aurait déstabilisé les falaises sur lesquelles reposait la ville. Le Collège nie catégoriquement toute responsabilité, affirmant que l'effondrement résulte de causes naturelles — érosion côtière accélérée par les courants de la Mer des Fantômes.
+
+## Les théories sur les causes
+
+Plusieurs hypothèses s'affrontent concernant les véritables causes du Grand Effondrement. Certains érudits établissent un lien avec l'**Année Rouge** de 4E 5 — l'éruption de la **Montagne Rouge** en Morrowind qui provoqua un tsunami dévastateur dans la Mer des Fantômes. Ce raz-de-marée aurait fragilisé les fondations rocheuses de Fortdhiver, créant les conditions d'un effondrement retardé survenu un siècle plus tard.
+
+D'autres pointent du doigt l'activité sismique naturelle de la côte nord de Bordeciel, ou encore les effets à long terme de la disparition des **Dwemer** sur la stabilité géologique souterraine. L'hypothèse d'une malédiction ou d'une vengeance surnaturelle circule également dans les tavernes, mais n'a jamais reçu de soutien académique sérieux.
+
+## La relation entre la ville et le Collège
+
+Après le Grand Effondrement, les relations entre les survivants de Fortdhiver et le Collège se détériorèrent considérablement. Les villageois, persuadés que les mages étaient responsables de la destruction de leur ville, développèrent une hostilité ouverte envers l'institution. Le fait que le Collège — construit sur son propre promontoire — ait survécu intact au cataclysme qui détruisit tout le reste ne fit que renforcer les soupçons.
+
+Cette méfiance reflète une attitude plus large des Nordiques envers la magie — un art souvent considéré comme dangereux et peu fiable par un peuple privilégiant la force physique et les traditions guerrières. Le Collège, autrefois fierté de la ville, devint un objet de ressentiment et de peur.
+
+## Fortdhiver à la fin de la Première Ère
+
+Bien avant le Grand Effondrement, Fortdhiver connut des périodes de déclin relatif au cours de la Première Ère. Les guerres successives, les changements de routes commerciales et la concurrence d'autres ports réduisirent progressivement son influence politique. Cependant, la présence constante du Collège lui garantit un rayonnement intellectuel qui compensait son déclin économique.
+
+La ville resta néanmoins un lieu de passage important pour les expéditions vers les régions arctiques et les explorations de la Mer des Fantômes, maintenant une pertinence stratégique même dans les périodes de moindre prospérité.
+
+## L'héritage de la grande cité
+
+L'histoire de Fortdhiver illustre la fragilité de la grandeur — comment une métropole puissante peut être réduite à un hameau par les caprices de la nature ou de la magie. Les ruines qui parsèment le littoral en contrebas des falaises, visibles par mer calme, rappellent aux rares visiteurs la splendeur disparue d'une cité qui fut, pendant des millénaires, un phare de civilisation sur les côtes glacées du nord de Tamriel.

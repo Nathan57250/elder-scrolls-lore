@@ -1,0 +1,92 @@
+---
+title: "L'Interrègne"
+description: "La période chaotique entre la chute de l'Empire Reman et l'avènement de Tiber Septim, marquée par les guerres civiles et l'absence d'autorité impériale"
+slug: interregnum
+category: "evenements"
+era: "second-era"
+timelineYear: 430
+keywords:
+  - interrègne
+  - deuxième ère
+  - chaos
+  - guerres civiles
+  - potentats akavirois
+  - trône du rubis
+  - alliance de daguefilante
+  - pacte de coeurébène
+  - domaine aldmeri
+---
+
+## L'Interrègne : L'Ère du Chaos
+
+L'Interrègne désigne la longue période de troubles politiques et militaires qui s'étend de la chute de la dynastie Reman et de l'assassinat du dernier Potentat akavirois en 2E 430 jusqu'à l'unification de Tamriel sous la bannière de Tiber Septim en 2E 896. Durant près de cinq siècles, le continent tout entier sombra dans une instabilité sans précédent, chaque province luttant pour sa propre survie ou pour s'emparer du Trône du Rubis.
+
+## Les Causes de l'Interrègne
+
+La chute de l'Empire Reman ne fut pas un événement soudain mais le résultat d'un long déclin. Après l'assassinat de Reman III par la Confrérie Noire en 2E 324, le pouvoir passa aux Potentats akavirois qui gouvernèrent en tant que régents. Leur règne, bien que relativement stable, ne possédait pas la légitimité dynastique nécessaire pour maintenir l'unité de l'Empire.
+
+L'assassinat du Potentat Savirien-Chorak et de tous ses héritiers en 2E 430 par la Confrérie Noire marqua le début véritable de l'Interrègne. Sans successeur légitime ni institution capable d'assurer la transition du pouvoir, l'Empire se fragmenta en une myriade de royaumes rivaux.
+
+## La Fragmentation Politique
+
+### Les Prétendants au Trône
+
+Dès les premières années de l'Interrègne, de nombreux seigneurs de guerre et monarques provinciaux revendiquèrent le Trône du Rubis. Cyrodiil elle-même fut déchirée entre plusieurs factions, chaque comte et chaque baron se déclarant le successeur légitime des Empereurs d'antan. Les guerres de succession se succédèrent, laissant la province impériale exsangue et divisée.
+
+### L'Isolement des Provinces
+
+Sans le ciment impérial, chaque province retrouva une autonomie de fait. Hauteroche se morcela en dizaines de petits royaumes belliqueux. Lenclume fut ravagée par des conflits tribaux entre les clans rougegards. Morrowind se replia sous la domination des Grandes Maisons dunmers. Bordeciel connut ses propres guerres de succession entre les différentes châtelleries.
+
+## Les Trois Alliances
+
+### Le Pacte de Coeurébène
+
+Vers 2E 572, une alliance inattendue se forma entre les Nordiques de Bordeciel, les Dunmers de Morrowind et les Argoniens du Marais Noir. Ce Pacte de Coeurébène naquit en réponse à l'invasion akaviroise du Second Directoire. Malgré les siècles de méfiance et d'hostilité entre ces peuples, la nécessité militaire forgea une coalition redoutable sous la direction du Roi-Scalde Jorunn.
+
+### Le Domaine Aldmeri
+
+Les Hauts-Elfes d'Alinor, les Elfes des Bois de Val-Boisé et les Khajiits d'Elsweyr formèrent le Premier Domaine Aldmeri sous l'égide de la Reine Ayrenn. Cette alliance cherchait à restaurer l'ordre sur Tamriel selon la vision elfique, considérant que les races humaines avaient prouvé leur incapacité à gouverner le continent.
+
+### L'Alliance de Daguefilante
+
+Les Brétons de Hauteroche, les Rougegards de Lenclume et les Orques d'Orsinium s'unirent dans l'Alliance de Daguefilante sous le commandement du Haut-Roi Émeric. Cette coalition, bien que composée de peuples aux histoires conflictuelles, partageait une vision pragmatique du pouvoir impérial.
+
+## La Guerre des Trois Bannières
+
+Le conflit majeur de l'Interrègne opposa ces trois alliances dans une guerre dévastatrice pour le contrôle de Cyrodiil et du Trône du Rubis. Chaque faction estimait avoir le droit et la capacité de restaurer l'Empire à sa gloire passée, mais selon ses propres termes et sa propre vision politique.
+
+Les batailles se concentrèrent particulièrement autour de la Cité Impériale, symbole du pouvoir universel. Les campagnes militaires ravagèrent les terres centrales de Cyrodiil, transformant le cœur de l'ancien Empire en un champ de bataille permanent.
+
+## Les Conséquences Sociales
+
+### Le Déclin du Commerce
+
+L'absence d'autorité impériale unifiée entraîna l'effondrement des routes commerciales sécurisées. Le banditisme devint endémique, les guildes marchandes perdirent leur protection légale, et le commerce interprovinçial déclina dramatiquement. Seule la Guilde des Marchands parvint à maintenir un semblant de réseau commercial.
+
+### La Montée des Guildes
+
+Paradoxalement, l'Interrègne favorisa l'essor des grandes guildes. La Guilde des Guerriers et la Guilde des Mages, initialement créées sous les Potentats akavirois, devinrent des institutions supranationales offrant stabilité et services dans un monde chaotique. La Guilde des Voleurs fut fondée durant cette période, profitant du désordre ambiant.
+
+### Les Souffrances Populaires
+
+Pour les populations civiles, l'Interrègne fut une époque de misère. Les famines, les épidémies et les violences militaires décimèrent des régions entières. Les paysans, privés de la protection impériale, étaient à la merci des seigneurs de guerre locaux et des bandes de pillards.
+
+## Les Menaces Extérieures
+
+### L'Invasion Akaviroise de 2E 572
+
+Le Second Directoire akavirois lança une invasion massive de Tamriel par le nord de Morrowind. Cette menace extérieure fut l'un des catalyseurs de la formation du Pacte de Coeurébène. La défaite des envahisseurs prouva que les peuples de Tamriel pouvaient encore s'unir face à un ennemi commun.
+
+### Les Incursions Daedriques
+
+L'affaiblissement des institutions magiques et religieuses rendit Tamriel plus vulnérable aux incursions des plans d'Oblivion. Plusieurs Princes Daedriques profitèrent du chaos pour étendre leur influence sur Nirn, notamment Molag Bal dont la Fusion des Plans menaça l'existence même de Mundus.
+
+## La Fin de l'Interrègne
+
+L'Interrègne prit fin avec l'ascension de Tiber Septim, né Hjalti Barbe-Précoce en Hauteroche. Par une combinaison de génie militaire, de diplomatie habile et de pouvoir surnaturel — notamment l'utilisation du Numidium — Tiber Septim parvint à réunifier l'ensemble de Tamriel sous sa bannière, fondant la Troisième Ère et la dynastie des Septim.
+
+## Héritage Historique
+
+L'Interrègne reste dans la mémoire collective comme la preuve que sans un pouvoir impérial fort, Tamriel est condamné au chaos. Cette conviction fonde la légitimité même de l'Empire des Septim et explique la réticence de nombreux peuples à remettre en cause l'autorité impériale, même lorsque celle-ci s'affaiblit considérablement durant les crises ultérieures.
+
+Les institutions nées durant cette période — les grandes guildes, les alliances provinciales, les traditions d'autonomie locale — continuèrent cependant d'influencer la politique tamrielique bien au-delà de la Deuxième Ère.

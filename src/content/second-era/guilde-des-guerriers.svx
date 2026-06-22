@@ -1,0 +1,98 @@
+---
+title: "La Guilde des Guerriers"
+slug: "guilde-des-guerriers"
+era: "second-era"
+category: "guildes"
+tags: ["guilde des guerriers", "mercenaires", "combat", "contrats", "guildes impériales"]
+timelineYear: 321
+summary: "La Guilde des Guerriers est une organisation de mercenaires légaux opérant sous charte impériale — offrant travail de protection, extermination et récupération à travers tout Tamriel."
+sources: ["UESP: Fighters Guild", "The Imperial Library: History of the Fighters Guild", "Charter of the Fighters Guild"]
+---
+
+## Fondation
+
+La **Guilde des Guerriers** fut fondée en 2E 321 par **Akaviri Potentate Versidue-Shaie** dans le cadre des réformes de guildes impériales. Créée comme alternative légale au mercenariat non-régulé, elle offrait :
+- Un cadre légal pour les combattants indépendants
+- Des contrats vérifiés et garantis
+- Une protection juridique pour ses membres
+- Un entraînement et des ressources partagés
+
+## Structure
+
+### Hiérarchie
+| Rang | Responsabilité |
+|------|---------------|
+| Maître de Guilde | Direction suprême, nominations |
+| Champion | Commandement opérationnel régional |
+| Maître d'Armes | Formation, évaluation |
+| Gardien | Chef d'une guilde locale |
+| Protecteur | Membres confirmés |
+| Guerrier | Membres standard |
+| Associé | Recrues |
+
+### Organisation
+- Halls de guilde dans chaque ville majeure
+- Autonomie locale sous charte impériale
+- Contrats affichés publiquement
+- Rémunération fixe selon difficulté
+
+## Types de Contrats
+
+La Guilde accepte :
+- **Extermination** — nettoyage de créatures (rats, trolls, vampires, bandits)
+- **Escorte** — protection de caravanes et voyageurs
+- **Récupération** — objets perdus dans des zones dangereuses
+- **Garde** — protection de lieux ou personnes
+- **Exploration** — nettoyage de ruines, grottes, forts abandonnés
+
+La Guilde **refuse** :
+- L'assassinat
+- L'intimidation
+- Le combat entre guildes (sauf circonstances exceptionnelles)
+- Les contrats illégaux
+
+## À Travers les Ères
+
+### Deuxième Ère (ESO)
+- Très active durant l'Interrègne
+- Corruptions par le Nécromancien Molag Bal via les Vers
+- Réformée par le Vestige
+- Lutte d'influence avec le Worm Cult
+
+### Troisième Ère
+- Présence dans toutes les provinces impériales
+- En Morrowind : concurrence avec les Grandes Maisons (qui ont leurs propres guerriers)
+- En Cyrodiil : hall principal dans chaque ville
+- Rivalité croissante avec la Confrérie Noire (qui empiète sur le "marché de la violence")
+
+### Quatrième Ère
+- Affaiblie par l'effondrement de l'Empire
+- En Bordeciel : remplacée par les **Compagnons** (structure similaire mais culturellement nordique)
+- Survit dans d'autres provinces mais avec moins d'influence
+
+## Code d'Honneur
+
+Règles fondamentales :
+1. Ne jamais refuser un contrat accepté (sauf immoralité prouvée)
+2. Ne pas voler les membres de la Guilde
+3. Ne pas tuer sans justification contractuelle
+4. Obéir aux ordres des supérieurs en mission
+5. Partager les profits selon les termes du contrat
+
+## Différences avec les Compagnons
+
+| Aspect | Guilde des Guerriers | Compagnons |
+|--------|---------------------|------------|
+| Structure | Hiérarchie formelle | Informelle |
+| Charte | Impériale | Aucune |
+| Portée | Tout Tamriel | Bordeciel uniquement |
+| Motivation | Profit | Honneur |
+| Spécialité | Mercenariat général | Combat héroïque |
+| Religion | Laïque | Shor/traditions nordiques |
+
+## Rivaux et Ennemis
+
+- **Confrérie Noire** — assassins illégaux
+- **Camonna Tong** — crime organisé en Morrowind
+- **Bandits** — cibles et concurrents
+- **Ordre des Vers** (Worm Cult) — infiltration nécromantique

@@ -1,0 +1,56 @@
+---
+title: "Le vampirisme à la Quatrième Ère"
+slug: "vampires-fourth-era"
+era: "fourth-era"
+category: "races"
+tags: ["vampires", "volkihar", "harkon", "serana", "dawnguard", "molag-bal", "sanguinare-vampiris"]
+timelineYear: 201
+summary: "Le vampirisme à la 4e ère, les différentes lignées vampiriques et le complot du seigneur Harkon pour éteindre le soleil."
+sources: ["Dawnguard DLC", "Immortal Blood", "Manifesto Cyrodiil Vampyrum", "The Aetherium Wars"]
+---
+
+## Le vampirisme dans le monde de Tamriel
+
+Le vampirisme est une affliction aussi ancienne que les Princes Daédriques eux-mêmes. Selon la tradition, c'est **Molag Bal**, le Prince de la Domination, qui créa les premiers vampires en violant une femme nedique nommée **Lamae Beolfag**, la transformant en la première fille de la nuit. Depuis lors, la malédiction s'est propagée à travers Tamriel sous de multiples formes, chaque souche vampirique présentant des caractéristiques distinctes selon la lignée et la région.
+
+À la Quatrième Ère, le vampirisme demeure une menace constante mais souvent invisible. De nombreux vampires vivent parmi les mortels sans éveiller les soupçons, se nourrissant discrètement et maintenant leur apparence humaine tant qu'ils assouvissent régulièrement leur soif de sang.
+
+## Les lignées vampiriques de Bordeciel
+
+En Bordeciel, la forme dominante de vampirisme se transmet par la maladie **Sanguinare Vampiris**, contractée lors des attaques vampiriques. Si elle n'est pas soignée dans les trois jours, la maladie se transforme en vampirisme complet, conférant au sujet des pouvoirs surnaturels mais aussi une vulnérabilité accrue au soleil et au feu.
+
+Les vampires de Bordeciel se répartissent en plusieurs factions. Les vampires « communs » vivent dans des grottes et des ruines, chassant les voyageurs imprudents. D'autres, plus discrets, s'intègrent à la société en se faisant passer pour des citoyens ordinaires. Mais la lignée la plus puissante et la plus ancienne est sans conteste le **Clan Volkihar**.
+
+## Le Clan Volkihar et le seigneur Harkon
+
+Le **Clan Volkihar** est la plus ancienne et la plus puissante lignée vampirique de Bordeciel. Établi dans le château de Volkihar, une forteresse isolée sur une île au large de la côte nord-ouest, ce clan tire son pouvoir directement de **Molag Bal** lui-même. Le seigneur **Harkon**, patriarche du clan, obtint le don du vampirisme pur en offrant mille âmes innocentes au Prince Daedrique dans un rituel d'une cruauté indicible.
+
+Le vampirisme Volkihar diffère fondamentalement des autres souches. Les membres du clan possèdent la forme de **Seigneur Vampire** — une transformation monstrueuse leur conférant des pouvoirs dévastateurs : lévitation, drain de vie à distance, invocation de gargouilles et capacité de ressusciter les morts. Contrairement aux vampires ordinaires, les Volkihar peuvent traverser la glace sans la briser, se faufilant sous les lacs gelés pour atteindre leurs victimes.
+
+## Le complot de la Prophétie Tyrannique du Soleil
+
+Le plan de **Harkon** reposait sur un ancien artefact connu sous le nom d'**Arc d'Auriel** — l'arc du dieu **Auri-El** lui-même, conservé depuis l'Ère Méréthique dans le sanctuaire perdu de la Grotte du Pic Oublié. Selon la Prophétie Tyrannique du Soleil, inscrite sur un **Parchemin des Anciens**, le sang d'une fille de Havrefroid de Molag Bal, tiré à travers l'arc en direction du soleil, plongerait le monde dans une nuit éternelle.
+
+Pour accomplir ce rituel, Harkon avait besoin de sa propre fille, **Serana**, qu'il avait fait enfermer avec un Parchemin des Anciens dans un sarcophage de la crypte de Boisenfeu des millénaires auparavant. Serana et sa mère **Valerica** avaient été transformées en « filles de Havrefroid » — des vampires pures créées par un rituel direct avec Molag Bal — spécifiquement pour servir de composante à la prophétie.
+
+## Serana et la résistance interne
+
+**Serana**, réveillée de son sommeil millénaire en 4E 201, se révéla être bien plus qu'un simple instrument dans les plans de son père. Dotée d'une volonté propre et d'une perspective unique — celle d'une femme arrachée à son époque et projetée dans un monde qu'elle ne reconnaissait plus — elle choisit de s'opposer à Harkon.
+
+Sa mère, **Valerica**, s'était enfuie dans le **Cairn de l'Âme** — un plan d'Oblivion servant de réceptacle aux âmes piégées dans les gemmes spirituelles — emportant avec elle l'un des Parchemins des Anciens nécessaires au rituel. Ce sacrifice volontaire témoigne de la profondeur du conflit qui déchirait le clan Volkihar de l'intérieur.
+
+## La Garde de l'Aube
+
+Face à la menace vampirique croissante, un ordre de chasseurs de vampires fut reformé : la **Garde de l'Aube** (Dawnguard). Dirigée par **Isran**, un ancien Vigile de **Stendarr** dont la méfiance et l'inflexibilité lui avaient valu d'être exclu de l'ordre, la Garde de l'Aube s'établit dans le Fort de la Garde de l'Aube, une ancienne forteresse dans le canyon de Dayspring.
+
+L'ordre recrutait des guerriers, des arbalétriers et même des mages spécialisés dans la magie de Restauration offensive — les sorts de **soleil** particulièrement dévastateurs contre les morts-vivants. L'ajout de trolls cuirassés à leur arsenal témoigne de leur pragmatisme face à une menace existentielle.
+
+## La résolution du conflit
+
+L'affrontement final entre la Garde de l'Aube et le Clan Volkihar eut lieu dans la grande salle du château de Volkihar. La mort de **Harkon** — transpercé par l'Arc d'Auriel ou vaincu par les armes conventionnelles — mit fin à la menace de la nuit éternelle. Le Clan Volkihar fut soit détruit, soit intégré par un nouveau dirigeant, selon les circonstances de la bataille.
+
+L'**Arc d'Auriel** lui-même survécut au conflit, tout comme les Parchemins des Anciens impliqués dans la prophétie. La question de savoir si la Prophétie Tyrannique du Soleil pourrait un jour être accomplie par d'autres mains reste ouverte — les artefacts nécessaires existent toujours, et le sang des filles de Havrefroid coule encore dans les veines de Serana.
+
+## Héritage vampirique
+
+Les événements de 4E 201 démontrèrent que le vampirisme, loin d'être une simple malédiction individuelle, pouvait constituer une menace civilisationnelle. Le plan de Harkon, s'il avait réussi, aurait fondamentalement altéré l'équilibre du monde en privant Tamriel de la lumière du soleil — transformant Nirn en un paradis pour les morts-vivants et un enfer pour les vivants.

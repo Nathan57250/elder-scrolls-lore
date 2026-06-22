@@ -1,0 +1,107 @@
+---
+title: "La Guilde des Mages"
+slug: "guilde-des-mages"
+era: "second-era"
+category: "guildes"
+tags: ["vanus-galerion", "magie", "arcane", "universites-arcaniques", "psijiques", "mannimarco", "dissolution"]
+timelineYear: 230
+summary: "Fondée par Vanus Galerion en 2E 230, la Guilde des Mages démocratisa l'accès au savoir arcanique avant d'être dissoute lors de la Quatrième Ère."
+sources: ["UESP: Mages Guild", "The Origin of the Mages Guild", "ESO Lore", "The Imperial Library"]
+---
+
+## Fondation et Origines
+
+La **Guilde des Mages** (ou *Mages Guild*) fut fondée en **2E 230** par **Vanus Galerion**, un ancien membre de l'Ordre Psijique originaire de l'île d'Artaeum. Galerion, né sous le nom de Trechtus dans une famille de serviteurs altmer, avait une vision révolutionnaire : rendre la magie accessible à tous, et non plus réservée aux élites insulaires des Psijiques ou aux cours royales.
+
+### La Rupture avec les Psijiques
+
+Galerion quitta l'Ordre Psijique après un désaccord fondamental sur la démocratisation du savoir arcanique. Tandis que les Psijiques considéraient la magie comme un art sacré nécessitant une sélection rigoureuse, Galerion estimait que tout individu doué devait pouvoir apprendre — moyennant finances et discipline.
+
+### La Charte de Guilde
+
+La Guilde obtint une charte officielle du **Potentát Akaviri** qui gouvernait l'Empire durant l'Interrègne. Cette charte accordait à la Guilde :
+
+- Le monopole de l'enseignement magique organisé
+- Le droit de vendre des services magiques au public
+- L'autorité de réguler la pratique de certaines magies dangereuses
+- Une protection juridique impériale pour ses membres
+
+## Structure et Organisation
+
+### Hiérarchie
+
+| Rang | Rôle |
+|------|------|
+| Archimage | Dirigeant suprême de la Guilde |
+| Maître de Guilde (régional) | Chef d'un chapitre provincial |
+| Magister | Spécialiste reconnu d'une école |
+| Évocateur | Membre confirmé |
+| Conjurateur | Praticien intermédiaire |
+| Apprenti | Membre junior en formation |
+| Associé | Nouveau membre |
+
+### Les Chapitres Provinciaux
+
+Chaque province de Tamriel possédait au moins un **hall de guilde**, souvent situé dans les capitales et les villes majeures. Les chapitres les plus renommés se trouvaient à :
+
+- **Primeterre** (Île de Balfiera) — Le siège originel
+- **Cité Impériale** (Cyrodiil) — L'Université Arcanique
+- **Sadrith Mora** (Morrowind) — Malgré la rivalité avec la Grande Maison Telvanni
+- **Skinguard** (Hauteroche) — Centre de recherche reconnu
+
+## Domaines d'Expertise
+
+La Guilde couvrait l'ensemble des **écoles de magie** reconnues :
+
+- **Destruction** — Magie offensive élémentaire
+- **Restauration** — Soins et protection contre les morts-vivants
+- **Altération** — Modification des propriétés physiques
+- **Conjuration** — Invocation d'entités et de créatures
+- **Illusion** — Manipulation de l'esprit et de la lumière
+- **Enchantement** — Infusion d'objets avec des propriétés magiques
+- **Alchimie** — Création de potions et de poisons
+
+### Interdictions
+
+La Guilde prohibait formellement la pratique de la **nécromancie** — une règle directement liée à la rivalité entre Galerion et son ancien condisciple **Mannimarco**, qui embrassa les arts noirs. Cette interdiction fut cependant assouplie sous certains Archimages corrompus.
+
+## Rôle Historique
+
+### La Deuxième Ère
+
+Durant les événements de la **Guerre des Trois Bannières** (2E 582), la Guilde tenta de maintenir une neutralité politique, offrant ses services à toutes les alliances. En pratique, de nombreux mages individuels prirent parti.
+
+### La Troisième Ère
+
+La Guilde atteignit son apogée sous l'Empire Septim, devenant une institution incontournable de la vie tamriélique. Elle offrait :
+
+- Formation magique pour les citoyens
+- Services d'enchantement et d'alchimie
+- Expertise contre les menaces surnaturelles
+- Conseil aux dirigeants politiques
+
+### La Crise d'Oblivion (3E 433)
+
+Durant l'invasion des Daedra orchestrée par Mehrunes Dagon, la Guilde joua un rôle crucial dans la défense de Tamriel. L'Archimage **Hannibal Traven** se sacrifia en piégeant son âme dans une gemme pour permettre au Champion de Cyrodiil d'affronter Mannimarco.
+
+## Dissolution lors de la Quatrième Ère
+
+Après la **Crise d'Oblivion**, la Guilde des Mages fut officiellement dissoute. Plusieurs facteurs contribuèrent à sa chute :
+
+1. **Scandale de la nécromancie** — La corruption interne mina la confiance publique
+2. **Le Grand Effondrement** — La catastrophe d'Hiver causa des perturbations magiques majeures
+3. **Rivalités politiques** — Le Thalmor chercha à contrôler l'enseignement magique
+4. **Fractures internes** — Désaccords idéologiques sur la direction de la Guilde
+
+### Les Successeurs
+
+Après la dissolution, plusieurs organisations prirent la relève :
+
+- Le **Collège de Fortdhiver** en Bordeciel — indépendant et plus tolérant
+- Le **Synode** en Cyrodiil — faction conservatrice pro-impériale
+- L'**Ordre des Murmures** — faction dissidente plus libérale
+- Les **Maisons Telvanni** en Morrowind — qui n'avaient jamais accepté l'autorité de la Guilde
+
+## Héritage
+
+Malgré sa disparition, la Guilde des Mages transforma irréversiblement Tamriel. Elle prouva que la magie pouvait être enseignée de manière structurée et accessible, établissant des traditions académiques qui perdurent dans chaque successeur. La vision de Vanus Galerion — un monde où le savoir arcanique n'est pas l'apanage des puissants — continue d'inspirer les mages de la Quatrième Ère.

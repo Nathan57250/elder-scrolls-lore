@@ -1,0 +1,90 @@
+---
+title: "Solstheim — L'Île entre les Mondes"
+slug: "solstheim"
+era: "fourth-era"
+category: "lieux"
+tags: ["solstheim", "morrowind", "bordeciel", "skaal", "raven rock", "miraak", "cendres"]
+timelineYear: 201
+summary: "Solstheim est une île volcanique entre Bordeciel et Morrowind — terre des Skaal, des réfugiés Dunmer, et du temple de Miraak, le Premier Enfant de Dragon."
+sources: ["UESP: Solstheim", "Events of TES V: Dragonborn", "History of Raven Rock"]
+---
+
+## Géographie
+
+**Solstheim** est une île de taille modeste située dans la **Mer des Fantômes**, au nord-est de Tamriel :
+- Au nord de Morrowind (administrativement)
+- Au nord-est de Bordeciel (géographiquement proche de Vendeaume)
+- Divisée entre une moitié **volcanique/cendrée** (sud) et une moitié **enneigée** (nord)
+
+### Régions
+- **Côte de cendres** (sud) — paysage dévasté par l'Année Rouge, cendres de la Montagne Rouge
+- **Forêts de pins** (centre) — zone de transition
+- **Toundra glacée** (nord) — territoire Skaal, ours polaires, horkers
+- **Côte ouest** — falaises et grottes
+
+## Histoire
+
+### Appartenance Disputée
+- **Ère Méréthique** : habitée par les Nordiques (prédécesseurs des Skaal)
+- **3E** : sous juridiction de l'Empire / Bordeciel
+- **4E 16** : cédée à **Morrowind** par le Haut-Roi de Bordeciel comme geste de compassion après l'Année Rouge
+- Depuis : colonie Dunmer sous protection Maison Redoran
+
+### L'Année Rouge et ses Effets
+L'éruption de la Montagne Rouge (4E 5) projeta des cendres jusqu'à Solstheim :
+- La moitié sud fut recouverte de cendres volcaniques
+- La végétation mourut, remplacée par des champignons et ash spawn
+- Les réfugiés Dunmer affluèrent massivement
+
+## Raven Rock
+
+Principale colonie de Solstheim — une ville minière Dunmer :
+- Fondée par la **Compagnie Orientale** (East Empire Company) pour exploiter l'ébonite
+- Aujourd'hui : gouvernée par le **Conseiller Morvayn** (Maison Redoran)
+- Économie : mine d'ébonite (épuisée puis rouverte), pêche, commerce
+- Architecture : mix nordique et dunmer (champignons, pierre noire)
+- Population : majoritairement Dunmer, quelques Nordiques et autres
+
+## Les Skaal
+
+Les **Skaal** sont un peuple nordique isolé vivant au nord de l'île :
+- Mode de vie traditionnel, chamanique
+- Vénération de la nature et du **All-Maker** (créateur universel)
+- Rejet de la civilisation "moderne"
+- Guerriers et chasseurs
+- Leur chamane guide la communauté
+- Le **Stalhrim** (glace enchantée) est leur secret de forge ancestral
+
+### Stalhrim
+Matériau unique aux Skaal — une glace enchantée plus dure que l'ébonite :
+- Seuls les Skaal connaissent la technique d'extraction
+- Armes et armures d'une qualité exceptionnelle
+- Résistance au froid extrême
+- Traditionnellement utilisé pour sceller les tombes
+
+## Miraak et le Temple
+
+En 4E 201, **Miraak** — le Premier Enfant de Dragon — tenta de revenir depuis Apocrypha :
+- Il utilisa son influence pour **contrôler mentalement** les habitants
+- Les victimes construisaient des structures mystérieuses sans le savoir
+- Le temple de Miraak (nord-est) était le centre de son pouvoir
+- Le Dernier Enfant de Dragon le confronta et le vainquit dans Apocrypha
+
+## Faune Unique
+
+| Créature | Description |
+|----------|-------------|
+| Netch | Méduses géantes flottantes (importées de Morrowind) |
+| Ash Spawn | Morts-vivants de cendre volcanique |
+| Riekling | Petits gobelins bleus des glaces |
+| Lurker | Créatures tentaculaires d'Apocrypha |
+| Bristleback | Sangliers chevauchés par les Rieklings |
+| Frost Giant | Géants des glaces rares et dangereux |
+
+## Tel Mithryn
+
+Tour champignon de **Maître Neloth** — un mage Telvanni excentrique :
+- Seule tour Telvanni hors de Morrowind
+- Neloth mène des recherches sur les pierres de cœur (Heart Stones)
+- Serviteurs et apprentis sous sa tutelle autoritaire
+- Source de quêtes et de savoir pour le Dovahkiin

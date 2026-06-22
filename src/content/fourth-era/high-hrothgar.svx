@@ -1,0 +1,50 @@
+---
+title: "Haut-Hrothgar"
+slug: "high-hrothgar"
+era: "fourth-era"
+category: "lieux"
+tags: ["high-hrothgar", "grises-barbes", "gorge-du-monde", "thuum", "paarthurnax", "jurgen-windcaller"]
+timelineYear: 201
+summary: "Haut-Hrothgar, le monastère des Grises-Barbes au sommet de la Gorge du Monde, sanctuaire de la Voix et refuge de Paarthurnax."
+sources: ["The Greybeards", "Seven Thousand Steps", "Erta's Note", "Skyrim Main Quest"]
+---
+
+## Le monastère au sommet du monde
+
+**Haut-Hrothgar** est un ancien monastère de pierre perché sur les flancs de la **Gorge du Monde** (Monahven en langue draconique), la plus haute montagne de Tamriel. Situé à une altitude vertigineuse, accessible uniquement par les **Sept Mille Marches** — un escalier taillé à même la roche de la montagne — le monastère est le siège des **Grises-Barbes**, un ordre contemplatif dédié à l'étude et à la maîtrise du **Thu'um**, la Voix.
+
+L'architecture du monastère reflète sa nature ascétique : des murs de pierre grise battus par les vents glaciaux, des salles dépouillées de tout ornement superflu, et des cours intérieures où les Grises-Barbes pratiquent leurs méditations vocales. Le bâtiment semble faire corps avec la montagne elle-même, comme s'il avait été façonné par la Voix plutôt que par des mains mortelles.
+
+## Les Sept Mille Marches
+
+Le pèlerinage des **Sept Mille Marches** constitue en lui-même une épreuve initiatique. Le chemin serpente depuis la ville d'Ivarstead au pied de la montagne jusqu'aux portes de Haut-Hrothgar, traversant des zones de plus en plus hostiles à mesure que l'altitude augmente. Des trolls des glaces, des loups et un froid mortel menacent les pèlerins tout au long de l'ascension.
+
+Le long du chemin, dix tablettes de pierre gravées racontent l'histoire de **Jurgen Parlevent** et la fondation de l'ordre des Grises-Barbes. Ces **Tablettes Emblématiques** constituent un enseignement progressif, préparant spirituellement le pèlerin à ce qui l'attend au sommet. Peu de mortels accomplissent ce pèlerinage — et moins encore sont admis au monastère.
+
+## Les Grises-Barbes
+
+Les **Grises-Barbes** sont des moines nordiques ayant consacré leur existence à la maîtrise de la Voix selon la **Voie de la Paix** établie par **Jurgen Parlevent**. Après la défaite des Nordiques face aux Elfes des Neiges à la bataille de la Montagne Rouge en 1E 416 — défaite attribuée à l'abus du Thu'um — Jurgen médita pendant sept ans et conclut que la Voix devait être utilisée uniquement pour le culte et la contemplation, jamais comme arme.
+
+Les Grises-Barbes vivent dans un silence quasi-permanent, car leur maîtrise du Thu'um est telle que le moindre murmure peut déclencher des tremblements de terre. Seul **Arngeir**, le plus ancien d'entre eux, s'adresse aux rares visiteurs — les autres ne parlent que pour enseigner les Mots de Pouvoir aux élus.
+
+## Paarthurnax, le secret au sommet
+
+Au-dessus de Haut-Hrothgar, au sommet même de la Gorge du Monde, vit le secret le plus extraordinaire des Grises-Barbes : **Paarthurnax**, un dragon ancien qui fut autrefois le lieutenant d'**Alduin** lui-même. Paarthurnax trahit son maître durant la Guerre des Dragons de l'Ère Méréthique, enseignant aux mortels le Thu'um et leur donnant ainsi l'arme qui leur permit de vaincre les dragons.
+
+Depuis lors, Paarthurnax médite au sommet de la montagne, luttant éternellement contre sa nature draconique — le désir inné de domination qui habite chaque dragon. « Quel meilleur acte de foi que de passer chaque jour en lutte contre sa propre nature ? » dit-il. Sa présence est connue des seuls Grises-Barbes, qui le considèrent comme leur véritable maître.
+
+## La Gorge du Monde dans l'histoire
+
+La **Gorge du Monde** est bien plus qu'une simple montagne. Selon la cosmologie nordique, c'est la Tour de Bordeciel — l'une des structures métaphysiques maintenant la stabilité de Mundus. Son sommet est le point le plus proche de l'**Aetherius** accessible depuis Nirn, ce qui explique pourquoi le Thu'um — une forme de magie liée aux forces créatrices de l'univers — y atteint sa plus grande puissance.
+
+C'est également au sommet de la Gorge du Monde que les anciens héros nordiques — **Hakon Borgne**, **Felldir l'Ancien** et **Gormlaith Épée Dorée** — utilisèrent le **Rouleau de l'Ancien** et le cri **Dragonrend** pour banir Alduin hors du temps, un acte qui ne le détruisit pas mais le projeta vers l'avenir.
+
+## Le rôle de Haut-Hrothgar en 4E 201
+
+Lorsque les dragons revinrent en 4E 201 avec la réapparition d'**Alduin**, les Grises-Barbes appelèrent le nouvel **Enfant de Dragon** à Haut-Hrothgar en faisant tonner sa convocation à travers tout Bordeciel — un événement que chaque habitant de la province entendit. Le monastère devint alors le lieu d'enseignement du Dovahkiin, qui y apprit les premiers Mots de Pouvoir nécessaires à sa quête.
+
+Haut-Hrothgar servit également de lieu neutre pour le **Conseil de Paix** — une tentative de cessez-le-feu entre l'Empire et les Sombrages négociée par les Grises-Barbes afin de permettre au Dovahkiin de se concentrer sur la menace draconique. Ce rôle diplomatique, inhabituel pour un ordre contemplatif, témoigne de la gravité de la crise.
+
+## Symbolisme et permanence
+
+Haut-Hrothgar représente un idéal de retenue et de sagesse dans un monde déchiré par les conflits. Alors que d'autres utilisent le pouvoir pour conquérir, les Grises-Barbes démontrent qu'une puissance immense peut coexister avec la paix — que le Thu'um, la plus terrible des armes, peut devenir un instrument de méditation et d'harmonie. Le monastère persiste, immuable, au-dessus des guerres et des empires qui naissent et meurent dans les plaines en contrebas.

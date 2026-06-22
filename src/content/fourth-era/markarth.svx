@@ -1,0 +1,105 @@
+---
+title: "Markarth"
+slug: "markarth"
+era: "fourth-era"
+category: "lieux"
+tags: ["markarth", "dwemer", "parjures", "sang-d-argent", "cidhna", "ciel-de-la-portee"]
+timelineYear: 201
+summary: "Markarth est une cite unique de Bordeciel, construite dans les ruines d'une ancienne cité dwemer, marquee par le conflit entre les Nordiques, les Parjures et la corruption de la famille Sang-d'Argent."
+sources: ["The Markarth Incident", "The Bear of Markarth", "Dwemer History and Culture", "The \"Madmen\" of the Reach"]
+---
+
+# Markarth
+
+## La Cite de Pierre
+
+**Markarth** (*Markarth*) est l'une des cites les plus singulières de Bordeciel et de tout Tamriel. Construite a meme les falaises de la **Portee** (*The Reach*), dans les vestiges d'une ancienne cite **dwemer** (*Nchuand-Zel*), elle est entierement composee de pierre et de metal. Aucun bois, aucun tissu — seulement la roche sculptee par une civilisation disparue il y a des millenaires et reutilisee par les occupants successifs.
+
+La cite s'etage sur plusieurs niveaux le long d'une cascade spectaculaire, le **Kartspire**, qui se deverse dans la riviere en contrebas. Les batiments sont tailles directement dans la paroi rocheuse, relies par des escaliers, des passerelles et des rampes de pierre dwemer. L'ensemble donne une impression de grandeur monumentale et d'immuabilite.
+
+## Heritage Dwemer
+
+Les **Dwemer** (*Nains*) construisirent la cite originelle — **Nchuand-Zel** — durant la Premiere Ere. Leur ingenierie etait si avancee que leurs structures ont survecu intactes pendant des millenaires apres leur mysterieuse disparition en 1E 700. Les caracteristiques dwemer encore visibles incluent :
+
+- Des conduites de vapeur et des mecanismes automatises toujours fonctionnels
+- Des portes et des verrous a engrenages d'une precision remarquable
+- Des colonnes et des arches decorees de motifs geometriques
+- Des **Animunculi** (*automates dwemer*) encore actifs dans les profondeurs
+- Le vaste complexe souterrain sous la cite, partiellement explore
+
+Les ruines souterraines de Nchuand-Zel sont dangereuses — peuplees d'automates dwemer, de Falmers degeneres et de pieges mortels. Les autorites de Markarth en interdisent l'acces, mais les explorateurs et les aventuriers tentent regulierement d'y penetrer.
+
+## Les Parjures (Forsworn)
+
+Le conflit dominant de la Portee est celui opposant les **Parjures** (*Forsworn*) aux Nordiques qui controlent la region. Les Parjures sont les descendants des **Hommes-des-Portees** (*Reachmen*), un peuple bretonique autochtone qui habitait la region bien avant l'arrivee des Nordiques.
+
+Les Parjures revendiquent la Portee comme leur terre ancestrale et menent une guerilla brutale contre l'occupation nordique :
+- Embuscades sur les routes et les cols montagneux
+- Raids contre les fermes et les villages isolés
+- Pratique des **Hagravens** — sorcieres corrompues mi-femmes mi-oiseaux
+- Utilisation de la magie primale et des rituels sanglants
+- Camps fortifies dans les hauteurs inaccessibles
+
+L'**Incident de Markarth** de 4E 174 est un evenement cle : profitant de la Grande Guerre entre l'Empire et le Thalmor, les Parjures s'emparerent de la cite et la gouvernerent pendant deux ans. C'est **Ulfric Sombrage** et sa milice qui reprirent la ville dans un bain de sang, massacrant les Parjures et les civils sympathisants sans distinction. Cet evenement sema les graines de la haine irreconciliable qui persiste en 4E 201.
+
+## La Famille Sang-d'Argent
+
+La veritable puissance a Markarth n'est pas le Jarl mais la famille **Sang-d'Argent** (*Silver-Blood*). Cette dynastie nordique controle les mines d'argent de la region — principale source de richesse de la Portee — et exerce une influence corrompue sur tous les aspects de la vie citadine.
+
+**Thongvor Sang-d'Argent** est le patriarche de la famille, un nationaliste nordique dur qui soutient les Sombrages. Son frere **Thonar** gere les operations dans l'ombre, manipulant les Parjures emprisonnes et controlant les activites criminelles.
+
+La famille Sang-d'Argent :
+- Possede la **Mine de Cidhna** et la plupart des mines de la region
+- Controle le commerce de l'argent qui fait la richesse de Markarth
+- Manipule le Jarl **Igmund** par la pression economique
+- Utilise les prisonniers comme main-d'oeuvre esclave dans les mines
+- Finance secretement certaines activites criminelles
+
+Leur emprise est si totale qu'on dit souvent que "le sang de Markarth coule en argent" — une reference a la fois a la richesse minerale et a la corruption qui l'accompagne.
+
+## La Mine de Cidhna
+
+La **Mine de Cidhna** (*Cidhna Mine*) est a la fois une mine d'argent et la prison la plus securisee de Bordeciel. Situee au coeur de la montagne sous la cite, elle est consideree comme inexpugnable — aucune evasion n'a jamais ete reussie (officiellement).
+
+Les prisonniers — principalement des Parjures captures — sont forces de travailler dans les veines d'argent pour le profit de la famille Sang-d'Argent. Les conditions sont inhumaines :
+- Travail force sans fin dans l'obscurite
+- Nourriture minimale et eau souillée
+- Aucun espoir de liberation pour la plupart
+- Violence entre prisonniers toleree par les gardes
+- Mort courante par epuisement ou effondrement
+
+**Madanach**, le "Roi en Haillons" (*King in Rags*), est le leader historique des Parjures emprisonne a Cidhna depuis l'Incident de Markarth. Malgre son emprisonnement, il continue de diriger le mouvement parjure depuis sa cellule, communiquant avec l'exterieur grace a des intermediaires — ironiquement avec la complicite de Thonar Sang-d'Argent qui l'utilise pour controler les Parjures.
+
+## Le Temple de Dibella
+
+Perche au sommet de la cite, le **Temple de Dibella** est un lieu de culte dedie a la deesse de la beaute et de l'amour. Les pretresses de Dibella maintiennent une communaute fermee, gardant jalousement le secret de leur **Sibylle** — une jeune fille douee de visions prophetiques.
+
+Le temple contraste fortement avec la violence et la corruption qui impregnent le reste de la cite. Il represente un ilot de serenite et de grace dans un ocean de brutalite.
+
+## Le Sanctuaire de Namira
+
+Sous la surface respectable de Markarth se cache un secret bien plus sombre : un **culte cannibale** dedie a la Princesse Daedrique **Namira**, Dame de la Decadence. Ce culte se reunit dans les profondeurs sous le **Hall des Morts** de la cite, ou ses membres — des citoyens apparemment respectables — festoient sur la chair des morts.
+
+Le pretre du Hall des Morts, **Verulus**, est conscient d'activites suspectes mais impuissant a les arreter. Le culte est protege par le secret et par la position sociale de ses membres.
+
+## Economie et Ressources
+
+Markarth tire sa richesse principalement de ses mines :
+- **L'argent** — ressource premiere, extraite en grande quantite
+- **Le fer et l'acier** — pour les armes et les outils
+- **Les pierres precieuses** — trouvees dans les veines profondes
+- **Les artefacts dwemer** — trouves dans les ruines et vendus a prix d'or
+
+Le commerce du cuir, de la viande et des fourrures complete l'economie, la Portee etant une region d'elevage importante malgre les raids parjures. La **Brasserie Sang-d'Argent** produit egalement de l'hydromel et de la biere vendus dans tout l'ouest de Bordeciel.
+
+## La Garde de Markarth
+
+La garde de Markarth est tristement reputee pour sa corruption et sa brutalite. Financee en partie par les Sang-d'Argent, elle sert autant les interets de la famille que ceux du Jarl. Les gardes sont prompts a accuser et emprisonner sur la base de preuves minces, alimentant la population de travailleurs forces de la Mine de Cidhna.
+
+Un dicton local resume la situation : *"Personne ne s'echappe de la Mine de Cidhna"* — une menace autant qu'un constat, rappelant que quiconque derange l'ordre etabli risque de finir dans les entrailles de la montagne.
+
+## Significance Culturelle
+
+Markarth est un microcosme des tensions qui dechirènt Bordeciel : le conflit entre les occupants nordiques et les peuples autochtones, la corruption des elites, l'exploitation des travailleurs, et la violence endemique qui en resulte. C'est une cite magnifique construite sur la souffrance, un monument a l'ingeniosite dwemer devenu le theatre de la cupidite humaine.
+
+La question de la legitimite — qui a le droit de gouverner la Portee ? — reste sans reponse. Les Nordiques ont conquis la region par la force, les Parjures tentent de la reprendre par la violence, et les Sang-d'Argent profitent du chaos pour s'enrichir. Dans ce triangle de conflits, ce sont les citoyens ordinaires qui souffrent le plus.

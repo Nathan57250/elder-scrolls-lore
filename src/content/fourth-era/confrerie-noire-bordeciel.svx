@@ -1,0 +1,132 @@
+---
+title: "La Confrerie Noire de Bordeciel"
+slug: "confrerie-noire-bordeciel"
+era: "fourth-era"
+category: "guildes"
+tags: ["confrerie-noire", "astrid", "mere-de-la-nuit", "sithis", "assassinat", "empereur"]
+timelineYear: 201
+summary: "La Confrerie Noire de Bordeciel, derniere branche survivante de l'ordre des assassins, est dechirée entre tradition et pragmatisme avant d'accomplir son contrat le plus audacieux : l'assassinat de l'Empereur."
+sources: ["The Night Mother's Truth", "Sacred Witness", "Fire and Darkness", "A Kiss, Sweet Mother"]
+---
+
+# La Confrerie Noire de Bordeciel
+
+## Nature de la Confrerie
+
+La **Confrerie Noire** (*Dark Brotherhood*) est l'organisation d'assassins la plus ancienne et la plus redoutee de tout Tamriel. Fondee sur le culte de **Sithis**, la Voix du Neant, et guidee par la **Mere de la Nuit** (*Night Mother*), la Confrerie offre la mort comme service — moyennant un prix et un rituel approprié.
+
+En 4E 201, la branche de Bordeciel est la derniere encore active sur tout le continent. Les autres sanctuaires ont ete detruits au fil des decennies : celui de Cyrodiil fut aneanti lors de la Crise d'Oblivion et ses suites, celui de Morrowind fut ravage par l'Annee Rouge. Seul le **Sanctuaire de Falkreath** perdure, cache dans les bois sombres du sud de Bordeciel.
+
+## Le Sanctuaire de Falkreath
+
+Le sanctuaire se dissimule derriere une **Porte Noire** (*Black Door*) enchantee, situee dans une grotte pres de la route entre Falkreath et la frontiere de Cyrodiil. La porte pose une question rituelle a quiconque cherche a entrer : *"Quel est le son du silence ?"* — et seule la reponse correcte (*"Le silence, mon frere"*) permet l'acces.
+
+L'interieur est un reseau de cavernes amenagees comprenant :
+- Des quartiers individuels pour chaque assassin
+- Un bassin d'eau noire consacre a Sithis
+- Un autel pour la Mere de la Nuit et son cercueil
+- Un espace d'entrainement au combat
+- Une salle de reunion autour d'une table de pierre
+- Des passages secrets vers la surface
+
+L'atmosphere y est paradoxalement familiale — les membres se considerent comme une famille, s'appelant "freres" et "soeurs" selon la tradition de l'ordre.
+
+## Astrid : La Dirigeante Pragmatique
+
+**Astrid** est la chef de facto du sanctuaire de Bordeciel. Femme nordique charismatique et mortellement competente, elle dirige la Confrerie selon ses propres regles plutot que selon les traditions ancestrales. Elle a ecarte la Mere de la Nuit et les Cinq Preceptes au profit d'une approche pragmatique et familiale.
+
+Sous sa direction :
+- Les contrats sont obtenus par le bouche-a-oreille et les contacts, pas par le Sacrement Noir
+- La hierarchie est informelle, basee sur le respect plutot que sur les titres
+- L'efficacite prime sur le rituel
+- La "famille" est la valeur supreme
+
+Astrid est mariee a **Arnbjorn**, un loup-garou et forgeron du sanctuaire. Elle est respectee par ses membres mais sa rebellion contre les traditions finira par causer la chute du sanctuaire.
+
+## Les Membres du Sanctuaire
+
+Le sanctuaire de Falkreath abrite un groupe eclectique d'assassins :
+
+**Arnbjorn** — epoux d'Astrid, Nordique et loup-garou, forgeron du sanctuaire. Bourru mais loyal.
+
+**Nazir** — un Rougegarde pragmatique qui distribue les contrats mineurs. Sarcastique et professionnel.
+
+**Babette** — une vampire ayant l'apparence d'une fillette de dix ans mais agee de plus de trois cents ans. Alchimiste experte en poisons, elle utilise son apparence innocente comme arme.
+
+**Festus Krex** — un vieux mage Imperial specialise dans la magie destructrice. Irascible mais brillant.
+
+**Gabriella** — une Elfe Noire discrete et efficace, devouee a Sithis.
+
+**Veezara** — un Argonien, dernier des **Ombres-Ecailles** (*Shadowscales*), assassins argoniens consacres a Sithis des la naissance.
+
+**Ciceron** — le Gardien de la Mere de la Nuit (voir section suivante).
+
+## Ciceron et la Mere de la Nuit
+
+L'arrivee de **Ciceron** au sanctuaire de Bordeciel est un tournant majeur. Ce bouffon Imperial est le **Gardien** (*Keeper*) de la **Mere de la Nuit** — le cadavre preserve de la fondatrice de la Confrerie qui communique la volonte de Sithis aux assassins par l'intermediaire d'un **Auditeur** (*Listener*).
+
+Ciceron a transporte le cercueil de la Mere de la Nuit a travers tout Tamriel apres la destruction des autres sanctuaires. Son journal revele un homme autrefois sain d'esprit qui a sombre dans la folie au cours de ses annees de solitude comme Gardien sans Auditeur.
+
+La **Mere de la Nuit** elle-meme est le cadavre embaume d'une femme qui, selon la legende, tua ses propres enfants en offrande a Sithis. En recompense, Sithis en fit l'oracle eternel de la Confrerie. Elle communique les contrats issus du **Sacrement Noir** — un rituel ou un client entoure d'ossements humains et de chair recite une priere a la Mere.
+
+Le conflit entre Ciceron (representant la tradition) et Astrid (representant le pragmatisme) menace de dechirer le sanctuaire.
+
+## Les Cinq Preceptes
+
+Les **Cinq Preceptes** (*Five Tenets*) sont les lois sacrees de la Confrerie, largement ignorees par Astrid :
+
+1. **Ne jamais deshonorer la Mere de la Nuit** — obeir a sa volonte sans question
+2. **Ne jamais trahir la Confrerie** — garder ses secrets jusqu'a la mort
+3. **Ne jamais desobeir a un superieur** — la hierarchie est sacree
+4. **Ne jamais voler un frere ou une soeur** — le butin est sacre entre membres
+5. **Ne jamais tuer un frere ou une soeur** — le sang de la famille ne doit pas couler
+
+La violation de ces preceptes invite traditionnellement la visite du **Spectre Noir** (*Wrath of Sithis*), un esprit vengeur envoyé par le Dieu du Neant.
+
+## Le Contrat de l'Empereur
+
+Le contrat le plus audacieux de l'histoire recente de la Confrerie est l'assassinat de l'**Empereur Titus Mede II** lui-meme. Ce contrat, recu par le Sacrement Noir via la Mere de la Nuit, est commande par **Amaund Motierre**, un membre du Conseil des Anciens de l'Empire.
+
+L'execution du contrat se deroule en plusieurs phases :
+
+**Phase 1 — Eliminer les obstacles :**
+- Assassinat de **Vittoria Vici**, cousine de l'Empereur, lors de son mariage a Solitude
+- Elimination du **commandant Maro**, chef de la garde personnelle de l'Empereur
+- Neutralisation de plusieurs cibles secondaires pour creer le chaos
+
+**Phase 2 — L'attentat initial :**
+- Infiltration d'un banquet officiel au **Chateau Dour** de Solitude
+- Empoisonnement du plat principal destine a l'Empereur
+- Cette tentative reussit... mais la cible s'avere etre un doublure
+
+**Phase 3 — La trahison d'Astrid :**
+- Astrid, effrayee par l'ampleur du contrat et craignant des represailles imperiales, trahit la Confrerie
+- Elle vend la localisation du sanctuaire aux **Penitus Oculatus** (garde secrete imperiale)
+- L'assaut detruit le sanctuaire et tue la plupart des membres
+- Rongee par le remords, Astrid accomplit le **Sacrement Noir** sur elle-meme, demandant sa propre mort
+
+**Phase 4 — L'assassinat final :**
+- L'Auditeur survivant localise l'Empereur a bord de son navire, le **Katariah**
+- Infiltration du navire et confrontation avec Titus Mede II
+- L'Empereur, conscient de son destin, accepte sa mort avec dignite
+- L'assassinat est accompli, completant le contrat
+
+## Les Consequences
+
+La destruction du sanctuaire de Falkreath et l'assassinat de l'Empereur ont des consequences majeures :
+
+- La Confrerie est decimee mais pas detruite — le nouvel Auditeur et les survivants (Nazir, Babette, Ciceron) reconstruisent
+- Un **nouveau sanctuaire** est etabli dans le sanctuaire abandonné de **Dawnstar**
+- L'Empire perd son souverain dans un moment de grande instabilite politique
+- La succession imperiale est plongee dans l'incertitude
+- La reputation de la Confrerie, paradoxalement, est restauree par cet exploit
+
+## Sithis et la Voix du Neant
+
+**Sithis** n'est pas un Daedra ni un Aedra — il est le **Neant** lui-meme, le vide primordial d'ou tout emerge et ou tout retourne. La Confrerie le venere comme le createur ultime, car la destruction est necessaire a la creation. Chaque ame envoyee dans le Neant est une offrande a Sithis.
+
+La relation entre Sithis et la Confrerie est mediee par la Mere de la Nuit, qui entend sa volonte et la transmet a l'Auditeur. Les assassins ne prient pas Sithis directement — il est au-dela de la priere, au-dela de la comprehension. Ils servent simplement comme instruments de sa volonte inexorable.
+
+## Heritage de la Confrerie
+
+Malgre sa quasi-destruction en 4E 201, la Confrerie Noire a survecu a pire au cours de ses millenaires d'existence. Tant que des mortels souhaiteront la mort d'autrui et connaitront le Sacrement Noir, la Mere de la Nuit ecoutera, et ses enfants repondront. La mort est eternelle, et ses serviteurs le sont aussi.

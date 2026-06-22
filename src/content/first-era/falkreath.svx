@@ -1,0 +1,56 @@
+---
+title: "Épervine"
+slug: "falkreath"
+era: "first-era"
+category: "lieux"
+tags: ["falkreath", "epervine", "cimetiere", "bordeciel", "nordiques", "histoire", "guerres"]
+timelineYear: 500
+summary: "Épervine et sa région, connue pour son immense cimetière et son histoire guerrière ancienne au carrefour de Bordeciel et de Cyrodiil."
+sources: ["A History of Falkreath", "Savior of the Slavers", "Holdings of Jarl Gjalund", "The Holds of Skyrim"]
+---
+
+## La châtellerie d'Épervine
+
+**Épervine** (Falkreath) est l'une des plus anciennes colonies nordiques de Bordeciel, nichée dans une vallée boisée au sud de la province, à proximité immédiate de la frontière avec Cyrodiil et Marteau-Fell. La région se distingue par ses forêts de pins denses, son climat relativement tempéré par rapport au reste de Bordeciel, et surtout par son immense **cimetière** — le plus grand de tout Tamriel — qui s'étend bien au-delà des limites de la ville elle-même.
+
+La châtellerie d'Épervine englobe une vaste zone forestière parsemée de lacs, dont le célèbre **Lac Ilinalta**, réputé pour sa profondeur inhabituelle et les rumeurs de phénomènes surnaturels en ses eaux. La région est bordée au sud par les monts Jerall qui forment la frontière naturelle avec Cyrodiil.
+
+## Le cimetière géant
+
+Le **cimetière d'Épervine** constitue le trait le plus frappant de la ville. S'étendant sur une superficie considérable, il abrite les dépouilles de guerriers, de nobles et de citoyens ordinaires accumulées sur des millénaires d'histoire. La tradition locale veut que « chaque pierre tombale raconte l'histoire d'un héros oublié » — une poétisation de la réalité plus sombre que cette accumulation de tombes reflète.
+
+La raison de la taille extraordinaire de ce cimetière est double. D'une part, la position stratégique d'Épervine au carrefour de trois provinces en fait un lieu de passage pour les armées depuis des millénaires, et chaque conflit y laissa son lot de morts. D'autre part, une tradition nordique locale veut que les guerriers tombés au combat dans la région soient enterrés à Épervine plutôt que rapatriés dans leur ville d'origine, faisant du cimetière un mémorial militaire à l'échelle de la province.
+
+## Histoire ancienne
+
+Les origines d'Épervine remontent aux premières installations nordiques en Bordeciel, peu après la conquête d'**Ysgramor** et de ses **Cinq Cents Compagnons**. Sa position méridionale en fit rapidement un avant-poste de la civilisation nordique face aux terres elfiques et impériales du sud. Dès la Première Ère, la ville servait de point de rassemblement pour les armées nordiques marchant vers le sud.
+
+Durant les premiers siècles de la Première Ère, Épervine changea de mains à plusieurs reprises entre Bordeciel et Cyrodiil. La région, bien que culturellement nordique, fut occasionnellement rattachée à l'Empire ou aux royaumes coloviens en fonction des aléas politiques et militaires. Cette alternance contribua à donner à la châtellerie un caractère cosmopolite inhabituel pour Bordeciel.
+
+## Les guerres et les batailles
+
+La proximité d'Épervine avec la frontière impériale en fit un théâtre de guerre récurrent. Au cours de la Première Ère, la région vit passer d'innombrables armées — nordiques marchant vers le sud pour razier les terres coloviennes, ou impériales remontant vers le nord pour soumettre les Nordiques. Chaque passage laissait des morts, et chaque mort enrichissait le cimetière.
+
+La **bataille d'Épervine**, qui opposa les forces nordiques aux armées coloviennes vers 1E 500, est considérée comme l'un des affrontements les plus sanglants de cette période. Les chroniques mentionnent des milliers de morts des deux côtés, dont beaucoup furent enterrés dans ce qui deviendrait le coeur du grand cimetière. Cette bataille marqua temporairement la frontière méridionale de l'influence nordique.
+
+## Le Lac Ilinalta
+
+Le **Lac Ilinalta**, situé au nord-est d'Épervine, occupe une place particulière dans le folklore local. Sa profondeur anormale et les courants sous-marins qui entraînèrent de nombreux nageurs vers le fond nourrirent des légendes de créatures aquatiques et d'esprits maléfiques. Les pêcheurs d'Épervine évitaient traditionnellement certaines zones du lac, prétendant que les eaux y devenaient « sombres et avides ».
+
+Les ruines du **Fort Ilinalta**, partiellement submergées sur la rive du lac, témoignent d'un passé trouble. Selon les archives, le fort fut abandonné après que sa garnison entière disparut dans des circonstances inexpliquées — un événement que les érudits attribuent à des expérimentations nécromantiques ayant mal tourné.
+
+## Économie et société
+
+L'économie d'Épervine repose traditionnellement sur l'exploitation forestière, la chasse et le commerce transfrontalier. Les immenses forêts de pins fournissent un bois de construction recherché dans tout Bordeciel, tandis que la proximité de la frontière favorise les échanges commerciaux avec Cyrodiil et Marteau-Fell.
+
+La société locale est profondément marquée par la conscience de la mortalité. Vivre au milieu du plus grand cimetière de Tamriel confère aux habitants d'Épervine une philosophie particulière — un mélange de pragmatisme face à la mort et de révérence pour les ancêtres qui imprègne chaque aspect de la vie quotidienne. Les prêtres d'**Arkay**, divinité de la Vie et de la Mort, y occupent une place prépondérante.
+
+## Le culte d'Arkay
+
+La présence du temple d'**Arkay** à Épervine n'est pas fortuite. Le dieu du cycle de la vie et de la mort est naturellement le patron d'une ville dont l'identité est indissociable de ses morts. Les prêtres d'Arkay d'Épervine sont réputés pour leur expertise en matière de rites funéraires et de protection contre la nécromancie — une compétence essentielle quand on veille sur autant de dépouilles.
+
+La bénédiction d'Arkay empêche les morts du cimetière de se relever comme draugr ou morts-vivants, un service dont l'importance ne peut être sous-estimée dans un monde où la nécromancie est une menace constante.
+
+## Héritage durable
+
+Épervine traversa les ères sans jamais perdre son caractère fondamental : celui d'un lieu de mémoire et de passage. Des guerres d'Ysgramor aux conflits de la Quatrième Ère, la ville continua d'accueillir les morts et de témoigner des sacrifices de générations successives. Son cimetière, toujours grandissant, reste le plus éloquent des monuments à la nature belliqueuse et mortelle de l'histoire de Tamriel.

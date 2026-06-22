@@ -1,0 +1,66 @@
+---
+title: "La Nuit des Larmes à Saarthal"
+slug: "night-of-tears"
+era: "merethic-era"
+category: "evenements"
+tags: ["saarthal", "nuit-des-larmes", "oeil-de-magnus", "nords", "elfes-des-neiges", "ysgramor"]
+timelineYear: -400
+summary: "L'attaque dévastatrice des Elfes des Neiges contre la colonie nordique de Saarthal et la découverte de l'Œil de Magnus."
+sources: ["La Nuit des Larmes", "Chants de retour", "Parmi les Falmers", "Journal de l'expédition de Saarthal"]
+---
+
+## Le contexte : Saarthal, première cité des Hommes
+
+**Saarthal** fut la première grande colonie établie par les **Atmorans** sur le continent de **Tamriel**, fondée par **Ysgramor** et ses compagnons lors de leur première migration depuis **Atmora**. Située dans ce qui deviendrait **Bordeciel**, dans la toundra glacée au nord de l'actuelle **Vendeaume**, Saarthal représentait le premier ancrage permanent des Hommes sur le continent.
+
+La colonie prospéra rapidement. Les Atmorans, habitués aux rigueurs du climat d'Atmora, trouvèrent en Bordeciel une terre certes froide mais riche en ressources. Ils défrichèrent, construisirent et s'étendirent, établissant des relations initialement pacifiques — ou du moins non belliqueuses — avec les **Falmers**, les Elfes des Neiges qui habitaient la région depuis des millénaires.
+
+Mais cette coexistence apparemment paisible cachait des tensions profondes. Les Elfes des Neiges observaient avec inquiétude la croissance rapide de la population humaine et, surtout, ils convoitaient quelque chose que les Atmorans avaient découvert dans les profondeurs de Saarthal.
+
+## L'Œil de Magnus
+
+Sous les fondations de Saarthal, les constructeurs atmorans découvrirent un artefact d'une puissance inimaginable : l'**Œil de Magnus**. Cet objet mystérieux, une sphère massive pulsant d'énergie magique, est associé à **Magnus**, l'architecte divin qui conçut le plan de **Mundus** avant de s'enfuir vers **Aetherius** au moment de la Création.
+
+La nature exacte de l'Œil reste débattue par les érudits. Certains pensent qu'il s'agit d'un fragment du pouvoir de Magnus laissé derrière lui lors de sa fuite. D'autres suggèrent que c'est un outil utilisé lors de la création du monde, abandonné accidentellement. D'autres encore avancent qu'il fut placé intentionnellement comme un piège ou un test.
+
+Ce qui est certain, c'est que l'Œil contient une quantité de pouvoir magique pratiquement illimitée, capable d'altérer la réalité elle-même. Les Atmorans, peuple guerrier peu versé dans les arts magiques, ne comprirent probablement pas pleinement ce qu'ils avaient trouvé. Les Elfes des Neiges, en revanche, en perçurent immédiatement l'importance.
+
+## La nuit de l'attaque
+
+L'attaque survint sans véritable avertissement. Par une nuit glaciale, les forces combinées des **Falmers** frappèrent Saarthal avec une violence totale et coordonnée. L'assaut ne visait pas la conquête ou le pillage ordinaire — il visait l'annihilation complète de la présence humaine.
+
+Les Elfes des Neiges attaquèrent de tous côtés, utilisant leur magie et leur supériorité numérique pour submerger les défenses atmoranes. La colonie, bien que fortifiée, n'était pas préparée à une offensive d'une telle ampleur. Les combats furent brefs et dévastateurs.
+
+La quasi-totalité de la population de Saarthal fut massacrée cette nuit-là. Hommes, femmes, enfants — les Falmers ne firent pas de distinction. La brutalité de l'attaque dépassa le cadre d'un simple conflit territorial ; c'était une tentative d'extermination motivée par la peur de ce que les humains pourraient devenir et par la convoitise de l'Œil de Magnus.
+
+## La fuite d'Ysgramor
+
+Parmi les très rares survivants de la Nuit des Larmes se trouvait **Ysgramor** lui-même, accompagné de ses deux fils, **Yngol** et **Ylgar**. La tradition nordique rapporte qu'Ysgramor combattit avec une férocité désespérée pour se frayer un chemin hors de la ville en flammes.
+
+La fuite vers les côtes et la traversée de la Mer des Fantômes vers Atmora furent un calvaire. Ysgramor, guerrier indomptable, fut brisé par le chagrin. Les **Chants de Retour** décrivent ses larmes, si abondantes que ses fils craignirent qu'il ne se noie dans sa propre tristesse.
+
+C'est ce chagrin qui donna à l'événement son nom : la **Nuit des Larmes**. Les larmes d'Ysgramor pour son peuple massacré devinrent le symbole de cette tragédie fondatrice, et la source de la fureur vengeresse qui allait suivre.
+
+## La vengeance et les Cinq Cents Compagnons
+
+De retour à Atmora, Ysgramor transforma sa douleur en rage et sa rage en mission. Il rassembla les **Cinq Cents Compagnons**, une armée d'élite composée des meilleurs guerriers d'Atmora, et entreprit de retourner à Tamriel non plus en colon pacifique mais en conquérant vengeur.
+
+Le retour des Cinq Cents Compagnons marqua le début de la **Guerre des Compagnons** contre les Elfes des Neiges. Cette campagne militaire fut d'une brutalité qui répondait à celle de la Nuit des Larmes. Ysgramor et ses guerriers ne cherchaient pas la coexistence — ils cherchaient la domination totale.
+
+Les Falmers furent repoussés, battus, pourchassés. Leur civilisation de surface fut progressivement détruite, les forçant à se réfugier sous terre auprès des **Dwemer**, où ils subiraient un sort peut-être pire que la mort : l'esclavage, l'aveuglement et la dégénérescence qui les transformerait en les créatures pitoyables connues sous le nom de Falmers modernes.
+
+## Les motivations profondes des Falmers
+
+La question des motivations des Elfes des Neiges reste débattue. L'explication la plus couramment acceptée est qu'ils attaquèrent pour s'emparer de l'**Œil de Magnus**, un artefact dont ils comprenaient la valeur mieux que les Atmorans.
+
+Certains historiens avancent également une dimension prophétique : les Falmers auraient pu percevoir, par leur magie ou leurs devins, la menace que les humains représenteraient à terme pour toutes les races elfiques de Tamriel. L'attaque aurait alors été une tentative désespérée de prévenir un futur où les Hommes domineraient le continent.
+
+D'autres théories suggèrent que les Falmers agissaient sous l'influence d'une force extérieure, peut-être un Prince Daedra ou une entité liée à l'Œil lui-même. La vérité complète est probablement perdue à jamais, enfouie avec la civilisation falmer.
+
+## L'héritage de la Nuit des Larmes
+
+La Nuit des Larmes est bien plus qu'un événement historique pour les **Nordiques** : c'est un mythe fondateur qui façonne leur identité collective. Elle justifie leur méfiance ancestrale envers les elfes, leur culture guerrière et leur conception de Bordeciel comme une terre conquise par le sang et les larmes.
+
+L'**Œil de Magnus** resta enfoui sous les ruines de Saarthal pendant des millénaires, jusqu'à sa redécouverte par le **Collège de Fortdhiver** durant la Quatrième Ère. Son exhumation déclencha une crise majeure impliquant le **Thalmor** et un sorcier nommé **Ancano**, prouvant que même après des milliers d'années, le pouvoir de cet artefact restait une source de convoitise et de danger.
+
+La Nuit des Larmes enseigne une leçon que Tamriel semble condamnée à répéter : la peur de l'autre et la convoitise du pouvoir mènent à des atrocités qui engendrent des cycles de vengeance sans fin.

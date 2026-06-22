@@ -1,0 +1,93 @@
+---
+title: "L'Incident de Markarth"
+slug: "incident-markarth"
+era: "fourth-era"
+category: "evenements"
+tags: ["markarth", "ulfric", "forsworn", "talos", "thalmor", "bordeciel", "igmund"]
+timelineYear: 176
+summary: "L'Incident de Markarth (4E 176) est l'événement qui radicalisa Ulfric Sombrage et posa les fondations de la Guerre Civile de Bordeciel, 25 ans avant qu'elle n'éclate."
+sources: ["UESP: Markarth Incident", "The Bear of Markarth", "Thalmor Dossier: Ulfric Stormcloak"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Contexte — Pourquoi Markarth ?
+
+### La Situation en 4E 174-176
+Un an après la signature du Concordat de l'Or Blanc (4E 175), la situation à Markarth était chaotique :
+- Pendant la Grande Guerre, les **Forsworn** (Parjures) — natifs des Ornières (Reach) — avaient profité du retrait des légions pour **reprendre Markarth**
+- Les Forsworn établirent un bref royaume indépendant
+- Le Jarl légitime (lignée nordique) était en exil
+- L'Empire, épuisé par la guerre, n'avait pas les forces de reconquérir la ville
+
+### Le Deal
+Le Jarl en exil (père de Jarl Igmund) passa un accord avec **Ulfric Sombrage**, alors jeune guerrier et Jarl de Vendeaume :
+- Ulfric reprend Markarth avec sa milice
+- En échange : le **libre culte de Talos** est autorisé dans la Châtellerie
+
+## L'Événement
+
+### La Reconquête
+Ulfric et ses hommes attaquèrent Markarth en force :
+- Utilisation du **Thu'um** au combat (Ulfric maîtrisait la Voix)
+- Bataille urbaine brutale
+- Les Forsworn furent écrasés — survivants emprisonnés à Cidna Mine
+- **Madanach** (le "Roi des Ornières") capturé et enfermé
+
+### Le Culte de Talos Rétabli
+Fidèle à l'accord, le Jarl restauré autorisa le culte de Talos à Markarth :
+- Les autels furent rouverts
+- Les prêtres de Talos prêchèrent librement
+- Les Nordiques célébrèrent ouvertement
+
+## La Trahison
+
+### Le Thalmor Intervient
+Les **Justiciars Thalmor** apprirent le culte ouvert de Talos à Markarth — une violation directe du Concordat. Ils exigèrent que l'Empire intervienne.
+
+L'Empire, incapable de risquer la reprise de la guerre avec le Domaine (il était encore en lambeaux), **céda aux exigences du Thalmor** :
+- Le culte de Talos fut à nouveau interdit à Markarth
+- La promesse faite à Ulfric fut **reniée**
+- Ulfric protesta — il fut **arrêté et emprisonné**
+
+### La Radicalisation
+Ce que l'Incident de Markarth enseigna à Ulfric :
+- L'Empire **ne peut pas** protéger les traditions nordiques
+- L'Empire **choisira toujours** le Thalmor plutôt que son propre peuple
+- La voie diplomatique est **morte** — seule la force compte
+- Le Concordat n'est pas un "mal temporaire" — c'est une soumission permanente
+
+## Le Dossier Thalmor
+
+Le dossier du Thalmor sur Ulfric (trouvable à l'ambassade) révèle :
+- Ulfric est classé comme **"atout non coopérant"**
+- Le Thalmor l'avait contacté pendant sa captivité dans la Grande Guerre
+- Ils le considèrent comme utile car il **divise l'Empire**
+- Ils ne veulent PAS sa victoire — juste la prolongation du conflit
+- L'Incident de Markarth servit parfaitement leurs intérêts
+
+## Chaîne Causale
+
+<CausalChain items={[
+  { text: "Concordat de l'Or Blanc (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc" },
+  { text: "Interdiction de Talos", indent: 1 },
+  { text: "Forsworn tiennent Markarth (profité de la guerre)", link: "/chronologie/fourth-era/forsworn-parjures-reach", indent: 1 },
+  { text: "Ulfric reprend Markarth en échange du libre culte", link: "/chronologie/fourth-era/ulfric-sombrage", indent: 1 },
+  { text: "Thalmor exige la répression", indent: 1 },
+  { text: "Empire cède → Ulfric emprisonné", indent: 1 },
+  { text: "INCIDENT DE MARKARTH (4E 176)", indent: 1 },
+  { text: "Ulfric radicalisé → 25 ans de ressentiment", indent: 1 },
+  { text: "Meurtre de Torygg (4E 201) → Guerre Civile", link: "/chronologie/fourth-era/guerre-civile-bordeciel", indent: 1 }
+]} />
+
+## Pourquoi Cela Compte
+
+L'Incident de Markarth est le **moment charnière** entre :
+- Le Concordat (un traité théoriquement temporaire)
+- Et la Guerre Civile (un conflit armé)
+
+Sans Markarth, Ulfric aurait peut-être continué à chercher des solutions diplomatiques. C'est la **trahison de la promesse** qui le convainquit que la violence était le seul langage que l'Empire comprenait.
+
+Ironie : le Thalmor n'eut même pas besoin de planifier cela. L'Empire se sabota lui-même par sa propre faiblesse.

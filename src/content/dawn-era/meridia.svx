@@ -1,0 +1,94 @@
+---
+title: "Meridia — Prince de la Lumière"
+slug: "meridia"
+era: "dawn-era"
+category: "daedra"
+tags: ["meridia", "prince daedrique", "lumiere", "morts-vivants", "colored rooms", "dawnbreaker"]
+timelineYear: 0
+summary: "Meridia est le Prince Daedrique de la Lumière et de la Vie — une entité unique parmi les Princes car elle hait les morts-vivants et fut autrefois un esprit d'Aetherius avant sa chute."
+sources: ["UESP: Meridia", "The Exegesis of Merid-Nunda", "Events of TES V: Skyrim"]
+---
+
+## Présentation
+
+**Meridia** (anciennement **Merid-Nunda**) est le Prince Daedrique de la Lumière, de la Vie, et de l'Énergie. Elle est unique parmi les Princes car elle n'est **pas originaire d'Oblivion** — elle fut autrefois un **Magne-Ge** (esprit d'Aetherius) qui fut bannie pour avoir consort avec les Daedra.
+
+Sa haine des morts-vivants est absolue et la distingue fondamentalement des autres Princes.
+
+## Origines
+
+### Merid-Nunda
+Avant d'être "Meridia", elle était **Merid-Nunda** — un esprit de lumière qui vivait dans Aetherius :
+- Elle faisait partie des Magne-Ge (ceux qui suivirent Magnus hors de Mundus)
+- Elle consort avec des esprits daedriques, violant les lois d'Aetherius
+- Bannie par les autres Magne-Ge
+- Elle se tailla un domaine dans Oblivion — les **Colored Rooms**
+- Conserva sa nature "lumineuse" malgré son statut daedrique
+
+Cette origine explique pourquoi Meridia :
+- Déteste les morts-vivants (perversion de la vie, qu'elle considère sacrée)
+- Peut manipuler la lumière comme aucun autre Daedra
+- Est mal à l'aise parmi les autres Princes
+- A une relation ambiguë avec les Divins
+
+## Les Colored Rooms
+
+Son royaume, les **Colored Rooms** (Chambres Colorées), est :
+- Un espace infini de lumière pure et prismatique
+- Des plateformes cristallines flottant dans la luminosité
+- Sans ombre, sans obscurité, sans repos
+- Habité par les **Aurorans** — ses serviteurs dorés
+- Paradoxalement oppressant — la lumière constante est une forme de torture
+
+## Dawnbreaker
+
+**Dawnbreaker** (Brise-Aube) est son artefact daedrique :
+- Une épée à lame dorée émettant une lumière surnaturelle
+- Inflige des dégâts de feu aux morts-vivants
+- Les morts-vivants tués explosent en lumière solaire (dommages en zone)
+- En Bordeciel, obtenue en nettoyant le Temple de Kilkreath des nécromanciens
+
+## La Haine des Morts-Vivants
+
+Pour Meridia, la nécromancie est le **péché suprême** :
+- Elle considère la vie comme sacrée et la mort comme naturelle
+- Réanimer un cadavre = pervertir le cycle vie/mort
+- Les vampires sont des abominations à détruire
+- Les liches représentent l'arrogance ultime
+- Elle ne fait **aucune distinction** entre nécromancie "bénigne" et maligne
+
+### Conséquences
+Cette position la place en conflit avec :
+- **Molag Bal** (créateur des vampires)
+- **Mannimarco** (Roi des Vers, archi-nécromancien)
+- **Arkay** lui-même — dont elle empiète sur le domaine
+- Tout mage de Conjuration qui touche à la nécromancie
+
+## Ayleid Connection
+
+Meridia fut intensément vénérée par les **Ayléides** (Elfes Sauvages de Cyrodiil) :
+- Plusieurs cités ayléides lui étaient dédiées
+- Ils utilisaient la lumière comme arme via ses enseignements
+- Les **Aurorans** (soldats dorés de Meridia) ont une esthétique ayléide
+- La chute des Ayléides réduisit considérablement son influence sur Mundus
+
+## Personnalité
+
+Meridia est :
+- **Autoritaire** — elle exige l'obéissance, pas la dévotion
+- **Intransigeante** — zéro tolérance envers les morts-vivants
+- **Méprisante** — elle considère les mortels comme des outils
+- **Directe** — contrairement aux autres Princes, elle ne joue pas de jeux subtils
+- **Juste** (selon ses critères) — elle protège réellement les vivants
+
+Sa voix dans Skyrim est amplifiée, résonnante, imposante — elle parle aux mortels comme un supérieur à un subordonné, pas comme un tentateur.
+
+## Paradoxe Moral
+
+Meridia illustre la complexité morale des Princes :
+- Elle **protège** les vivants des morts-vivants (objectivement "bon")
+- Elle utilise les mortels comme des **pions** jetables (objectivement "mauvais")
+- Sa lumière est **oppressive**, pas libératrice
+- Elle est "bonne" dans ses objectifs mais "daedrique" dans ses méthodes
+
+Les Vigiles de Stendarr la traitent quand même comme un Daedra à combattre — une position théologiquement cohérente mais pratiquement discutable.

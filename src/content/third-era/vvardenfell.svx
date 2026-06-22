@@ -1,0 +1,54 @@
+---
+title: "Vvardenfell"
+slug: "vvardenfell"
+era: "third-era"
+category: "geographie"
+tags: ["morrowind", "vvardenfell", "mont-ecarlate", "tribunal", "dagoth-ur", "dwemer"]
+date: "Ère Méréthique — 4E 5"
+timelineYear: 400
+summary: "Île volcanique de Morrowind dominée par le Mont Écarlate, site du Cœur de Lorkhan, des ruines Dwemer, et du conflit entre le Tribunal et Dagoth Ur."
+mapCoords: { x: 740, y: 300 }
+province: "Morrowind"
+relatedArticles: ["vivec", "dwemer", "premiere-ere"]
+sources: ["UESP: Vvardenfell", "Events of TES III: Morrowind"]
+---
+
+![Vvardenfell vue depuis la côte](/images/third-era/vvardenfell.jpg)
+
+## Géographie
+
+**Vvardenfell** est une immense île volcanique au centre de la province de Morrowind, dominée par le **Mont Écarlate** (Red Mountain) — un volcan actif massif au centre duquel se trouvait le Cœur de Lorkhan.
+
+L'île présente une diversité géographique remarquable :
+- **Côte d'Azura** — falaises et baies à l'est
+- **Terres de Cendre** (Ashlands) — déserts volcaniques au nord et centre
+- **Terres Amères** (Bitter Coast) — marécages à l'ouest
+- **Grazelands** — prairies au nord-est
+- **Région de la Faille Ouest** (West Gash) — collines boisées à l'ouest
+
+## Le Mont Écarlate et la Clôture Fantôme
+
+Le Mont Écarlate n'est pas un volcan ordinaire — en son cœur reposait le **Cœur de Lorkhan**, la source de pouvoir du Tribunal et de Dagoth Ur.
+
+Pour contenir la menace de Dagoth Ur et de sa peste du Corpus, le Tribunal érigea le **Ghostfence** — une immense barrière magique de spectres entourant le Mont Écarlate, alimentée par les âmes des morts dunmer.
+
+## Les Ruines Dwemer
+
+Vvardenfell abrite certaines des ruines Dwemer les mieux préservées de Tamriel :
+- **Arkngthand** — site de la redécouverte de Wraithguard
+- **Mzulft** — grande cité souterraine
+- **Nchardak** — cité semi-submergée sur l'île de Solstheim
+
+## Événements Majeurs
+
+### La Guerre du Nérévarine (3E 427)
+Le Nérévarine, prophétisé par Azura, arriva à Vvardenfell et :
+- Obtint les Outils de Kagrenac
+- Pénétra dans la Montagne Rouge
+- Détruisit le Cœur de Lorkhan
+- Vainquit Dagoth Ur
+
+### L'Année Rouge (4E 5)
+Après la disparition de Vivec et la chute du Ministère de la Vérité (un météore qu'il maintenait en suspension au-dessus de Vivec City), le météore s'écrasa, provoquant l'éruption du Mont Écarlate.
+
+L'**Année Rouge** dévasta Vvardenfell : tsunamis, pluies de cendres, coulées de lave. La majorité de l'île devint inhabitable. Des centaines de milliers de Dunmer périrent ou furent déplacés.

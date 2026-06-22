@@ -1,0 +1,132 @@
+---
+title: "L'Annee Rouge : La Destruction de Morrowind"
+slug: "annee-rouge"
+era: "fourth-era"
+category: "evenements"
+tags: ["annee-rouge", "morrowind", "montagne-rouge", "dunmer", "argoniens", "vvardenfell", "diaspora", "baar-dau"]
+timelineYear: 5
+summary: "En 4E 5, l'eruption catastrophique de la Montagne Rouge detruisit Vvardenfell et devasta Morrowind, declenchant l'invasion argonienne et la diaspora du peuple Dunmer."
+sources: ["UESP: Red Year", "The Red Year vol. I & II (Melis Ravel)", "Events of TES III: Morrowind", "Adril Arano's dialogue (TES V: Dragonborn)"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Le Cataclysme
+
+L'**Annee Rouge** (4E 5) designe la plus grande catastrophe naturelle de la Quatrieme Ere : l'eruption de la **Montagne Rouge** (Red Mountain), le volcan sacre situe au coeur de l'ile de **Vvardenfell**, en Morrowind. Cet evenement transforma en quelques heures une civilisation millenaire en un peuple de refugies.
+
+### La Chute de Baar Dau
+
+Le desastre trouva son origine dans la **lune de Baar Dau** (egalement nommee le Ministere de la Verite), un meteorite gigantesque que le dieu-vivant **Vivec** avait suspendu par la force de sa volonte au-dessus de la cite de Vivec durant toute la Troisieme Ere.
+
+Apres la disparition du Tribunal et la fin du pouvoir divin de Vivec suite aux evenements de TES III, le meteorite n'etait retenu que par le **Ingenium** — un dispositif magique alimente par des ames. Quand l'Ingenium fut detruit (evenements de TES IV: Oblivion, Infernal City), Baar Dau reprit sa chute inexorable.
+
+### L'Impact et l'Eruption
+
+L'impact de Baar Dau :
+- **Detruisit integralement** la cite de Vivec
+- Declencha l'eruption massive de la Montagne Rouge
+- Provoqua des raz-de-maree devastateurs sur toute la cote de Vvardenfell
+- Projeta des cendres et de la lave sur l'ensemble de l'ile
+
+## L'Etendue de la Devastation
+
+### Vvardenfell
+
+L'ile de Vvardenfell fut **quasi-totalement detruite**. Les grandes cites — Vivec, Balmora, Ald'ruhn, Sadrith Mora — furent ensevelies sous les cendres ou englouties. La population qui ne put fuir prit dans les tempetes de feu et les coulees pyroclastiques.
+
+### Le Continent de Morrowind
+
+Le continent ne fut pas epargne :
+- Des pluies de cendres s'abattirent pendant des semaines
+- Les recoltes furent detruites sur plusieurs annees
+- L'infrastructure economique s'effondra
+- Les Grandes Maisons perdirent leurs terres ancestrales
+
+| Region | Impact |
+|--------|--------|
+| Vvardenfell | Destruction quasi-totale |
+| Cote ouest du continent | Raz-de-maree, devastation severe |
+| Regions interieures | Pluies de cendres, famines |
+| Solstheim | Cendres volcaniques massives, climat transforme |
+
+## L'Invasion Argonienne
+
+### Le Contexte
+
+Les **Argoniens** (peuple reptilien du Marais Noir) avaient ete asservis par les Dunmer pendant des millenaires, notamment par la Grande Maison Dres et la Grande Maison Telvanni. La haine accumulee sur des generations trouva enfin son exutoire.
+
+### L'Offensive
+
+Quelques mois apres l'Annee Rouge, alors que Morrowind etait encore sous les cendres, les armees argoniennes envahirent le sud du pays :
+- Ils s'emparerent de toute la region meridionale de Morrowind
+- La Grande Maison Dres fut **pratiquement aneantie**
+- La Grande Maison Telvanni subit des pertes catastrophiques
+- Seule l'intervention de la **Grande Maison Redoran** permit de stabiliser une ligne de front
+
+### Le Role de l'Hist
+
+Certaines sources suggerent que l'**Hist** — les arbres-esprits mystiques qui guident les Argoniens — avait **prevu** la catastrophe et prepare son peuple a l'invasion, rappelant meme les Argoniens d'Oblivion ou des terres lointaines pour grossir les rangs de l'armee.
+
+## La Diaspora Dunmer
+
+### Les Refugies
+
+Des centaines de milliers de Dunmer furent contraints a l'exil :
+- Beaucoup fuirent vers **Bordeciel**, s'installant principalement a **Vendeaume** (le Quartier Gris)
+- D'autres gagnerent **Solstheim**, ou la Maison Redoran etablit une colonie autour de **Corberoc** (Raven Rock)
+- Certains rejoignirent Cyrodiil ou d'autres provinces
+
+### Le Quartier Gris de Vendeaume
+
+A Vendeaume, les refugies Dunmer furent parques dans le **Quartier Gris** — un ghetto miserable ou ils subirent la discrimination des Nordiques. Malgre des decennies de presence, ils restent des citoyens de seconde classe, victimes de racisme quotidien.
+
+### Solstheim et Corberoc
+
+L'Empire ceda l'ile de **Solstheim** a Morrowind en guise d'aide humanitaire. La Maison Redoran y etablit la colonie de Corberoc, sous l'autorite d'un Conseiller. Malgre les cendres qui recouvrent desormais la moitie sud de l'ile, les Dunmer y reconstruisirent une communaute.
+
+## Consequences a Long Terme
+
+L'Annee Rouge transforma irrevocablement le peuple Dunmer :
+
+1. **Effondrement des Grandes Maisons** — La hierarchie politique traditionnelle fut bouleversee, la Maison Redoran devenant dominante par sa force militaire
+2. **Fin du Temple du Tribunal** — Les derniers vestiges du culte du Tribunal disparurent, remplaces par le retour au culte des **Ancetres** et des **Bons Daedra** (les Reclamations)
+3. **Diaspora permanente** — Les Dunmer devinrent un peuple disperse, presents dans toutes les provinces mais chez eux nulle part
+4. **Renforcement identitaire** — Malgre (ou a cause de) la tragedie, l'identite culturelle dunmer se renforcer dans l'adversite
+5. **Affaiblissement geopolitique** — Morrowind cessa d'etre une puissance politique significative dans les affaires de Tamriel
+
+## Heritage
+
+L'Annee Rouge reste, en 4E 201, la **blessure fondatrice** de la Quatrieme Ere pour le peuple Dunmer. Chaque refugie du Quartier Gris, chaque mineur de Corberoc, porte en lui le souvenir de ce jour ou le ciel devint rouge et ou le monde des ancetres s'effondra dans le feu.
+
+## Chronologie Causale
+
+L'Année Rouge est un maillon central dans la chaîne des catastrophes de la Quatrième Ère :
+
+### Ce qui a causé l'Année Rouge
+
+<CausalChain items={[
+  { text: "Bataille de la Montagne Rouge (1E 700)", link: "/chronologie/first-era/bataille-montagne-rouge" },
+  { text: "Le Tribunal utilise le Cœur de Lorkhan → Vivec suspend Baar Dau", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "Prophétie du Nérévarrin → Mort de Dagoth Ur (3E 427)", link: "/chronologie/third-era/nerevarine", indent: 1 },
+  { text: "Perte du pouvoir du Tribunal → Vivec disparaît", indent: 1 },
+  { text: "L'Ingenium maintient Baar Dau artificiellement", indent: 1 },
+  { text: "Crise d'Oblivion (3E 433) → Chaos → Ingenium détruit", link: "/chronologie/third-era/crise-oblivion", indent: 1 },
+  { text: "ANNÉE ROUGE (4E 5)", indent: 1 }
+]} />
+
+### Ce que l'Année Rouge a causé
+
+<CausalChain items={[
+  { text: "ANNÉE ROUGE (4E 5)" },
+  { text: "Morrowind dévastée → Invasion argonienne", indent: 1 },
+  { text: "Diaspora Dunmer → Quartier Gris de Vendeaume → Tensions raciales", link: "/chronologie/fourth-era/vendeaume", indent: 1 },
+  { text: "Morrowind hors-jeu politiquement → Empire encore plus faible", indent: 1 },
+  { text: "Solstheim cédée → Colonie Dunmer isolée", link: "/chronologie/fourth-era/solstheim", indent: 1 },
+  { text: "Maison Redoran dominante → Politique Dunmer militarisée", link: "/chronologie/first-era/grandes-maisons-dunmer", indent: 1 },
+  { text: "Retour au culte des Réclamations (Azura, Boéthia, Mephala)", indent: 1 }
+]} />
+
+L'Année Rouge est la conséquence ultime d'un acte commis 3700 ans plus tôt — le Tribunal volant le pouvoir du Cœur de Lorkhan. Le prix de la divinité usurpée fut finalement payé par des millions d'innocents.

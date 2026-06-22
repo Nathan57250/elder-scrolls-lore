@@ -1,0 +1,104 @@
+---
+title: "Le Numidium"
+slug: "numidium"
+era: "first-era"
+category: "artefacts"
+tags: ["numidium", "dwemer", "kagrenac", "coeur-de-lorkhan", "tiber-septim", "mantella", "golem", "anumidium", "walk-brass", "tourbillon"]
+timelineYear: 700
+summary: "Golem divin colossal construit par les Dwemer pour atteindre la divinité, le Numidium est l'arme la plus dévastatrice jamais conçue sur Nirn, capable de nier la réalité elle-même."
+sources: ["UESP: Numidium", "UESP: Anumidium", "The Arcturian Heresy", "Where Were You When the Dragon Broke", "The Imperial Library"]
+---
+
+## Walk-Brass : la Machine-Dieu
+
+Le **Numidium** (également nommé **Walk-Brass**, **Anumidium** ou **le Golem de Cuivre**) est un automate colossal d'origine Dwemer, conçu non pas comme une simple arme de guerre mais comme un **véhicule d'ascension divine** pour un peuple entier. Culminant à des centaines de mètres de hauteur, cette construction de métal et de magie tonale représente l'aboutissement ultime de la philosophie Dwemer : la négation de l'existence des dieux et la création d'une divinité par la raison pure.
+
+## Conception et Philosophie Dwemer
+
+### Le refus du divin
+
+Les Dwemer étaient uniques parmi les peuples de Nirn : ils **niaient l'existence des dieux** tels que les autres races les concevaient. Pour eux, les Aedra et Daedra n'étaient que des phénomènes exploitables, pas des entités dignes d'adoration. Leur philosophie — la **Tonal Architecture** — postulait que la réalité était faite de vibrations manipulables.
+
+### Le projet de Kagrenac
+
+**Kagrenac**, le plus brillant des architectes tonaux, conçut le Numidium comme la preuve ultime de cette philosophie :
+
+- Si les dieux ne sont que des accumulations de croyance et d'énergie...
+- Et si le Cœur de Lorkhan contient l'énergie divine pure...
+- Alors on peut **construire** un dieu, et ce dieu prouvera que la divinité n'est qu'un mécanisme
+
+Le Numidium devait être le **dieu des Dwemer** — une divinité artificielle qui leur accorderait l'immortalité et la transcendance, non par la foi, mais par l'ingénierie.
+
+## Architecture et Fonctionnement
+
+### Structure physique
+
+Le Numidium est un golem bipède de proportions titanesques :
+- **Hauteur estimée** : entre 300 et 1000 mètres selon les sources
+- **Matériaux** : alliages Dwemer enchantés, cristaux de focalisation tonale, ossature d'ébonite
+- **Armement** : aucune arme conventionnelle — sa puissance réside dans sa nature même
+
+### Le principe de la Négation Tonale
+
+L'arme véritable du Numidium n'est ni un projectile ni une lame. C'est le **NO** — la Négation Tonale. Quand le Numidium est activé et focalisé sur une cible, il ne la détruit pas : il **nie son existence**. Il prononce, à l'échelle métaphysique, un « NON » si absolu que la réalité se conforme à cette assertion.
+
+Concrètement, cela signifie :
+- Des armées entières cessent d'avoir jamais existé
+- Des fortifications sont rétroactivement effacées
+- Le temps lui-même se fracture autour de son activation (Dragon Break)
+
+### La source d'énergie : le Cœur de Lorkhan
+
+Pour fonctionner, le Numidium nécessite une source d'énergie divine. Kagrenac l'avait conçu pour être alimenté par le **Cœur de Lorkhan** — le cœur du dieu créateur, enfoui sous la Montagne Rouge. C'est cette tentative d'activation qui provoqua la disparition des Dwemer en 1E 700.
+
+## Le Numidium incomplet
+
+Après la disparition des Dwemer, le Numidium resta inerte sous la Montagne Rouge — un colosse vide, sans âme divine pour l'animer. Pendant des millénaires, il demeura un mystère archéologique, trop dangereux pour être étudié, trop puissant pour être ignoré.
+
+Le **Tribunal** connaissait son existence mais ne pouvait l'activer : le Cœur de Lorkhan alimentait désormais leur propre divinité.
+
+## La Reconstruction par Tiber Septim
+
+### Le marché avec Vivec
+
+En **2E 896**, **Tiber Septim** (Talos) cherchait à conquérir le Domaine Aldmeri — la dernière puissance à résister à son Empire. Vivec, pragmatique, lui offrit un marché : le Numidium et les plans de Kagrenac en échange de l'autonomie de Morrowind (le Traité de l'Armistice).
+
+### La Mantella
+
+Sans le Cœur de Lorkhan, Tiber Septim avait besoin d'une source d'énergie alternative. Selon l'**Hérésie Arcturienne**, il utilisa la **Mantella** — une gemme contenant l'âme de **Zurin Arctus** (le Sous-Mage Impérial, peut-être identique à Wulfharth/Ysmir). L'extraction de cette âme fut un acte de trahison :
+
+| Élément | Détail |
+|---------|--------|
+| **La Mantella** | Pierre d'âme contenant l'esprit d'un Shezarrine |
+| **Zurin Arctus** | Mage impérial trahi, devenu le Souffle d'Arctus |
+| **Wulfharth** | Haut-Roi Nord ressuscité, possible source alternative de l'âme |
+
+### La conquête du Domaine
+
+Tiber Septim activa le Numidium reconstruit — rebaptisé **Anumidium** — contre le Domaine Aldmeri. L'effet fut dévastateur et immédiat : les hauts elfes capitulèrent. Un seul déploiement suffit à briser la résistance d'un continent entier.
+
+## Le Warp in the West (3E 417)
+
+### La Cassure du Dragon
+
+Des siècles plus tard, le Numidium fut réactivé dans la région d'Iliac Bay. L'événement, connu sous le nom de **Warp in the West** ou **Cassure du Dragon de la Baie d'Iliac**, provoqua un **Dragon Break** — une fracture temporelle où plusieurs réalités contradictoires coexistèrent simultanément avant de fusionner.
+
+Six résultats mutuellement exclusifs se produisirent tous en même temps :
+- Daggerfall conquit la région
+- Wayrest conquit la région
+- Sentinel conquit la région
+- Orsinium fut restauré
+- Le Souffle d'Arctus récupéra la Mantella
+- L'Empire prit le contrôle direct
+
+Le Numidium fut finalement désactivé (ou détruit), et la Mantella libérée.
+
+## Signification métaphysique
+
+Le Numidium n'est pas un simple automate géant. Il est une **déclaration philosophique incarnée** :
+
+- Il prouve que la divinité peut être **manufacturée**, sapant tout le cadre théologique de Tamriel
+- Son pouvoir de Négation menace le **Rêve du Godhead** lui-même — s'il niait suffisamment de réalité, il pourrait théoriquement « réveiller » l'Amaranth
+- Il est l'ultime expression de l'athéisme Dwemer : un dieu construit pour prouver que les dieux ne sont que des machines
+
+Le Numidium reste, même inactif, l'un des objets les plus dangereux de l'Aurbis — une bombe métaphysique capable de fracturer le temps et d'effacer l'existence.

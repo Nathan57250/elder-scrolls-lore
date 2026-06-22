@@ -1,0 +1,160 @@
+---
+title: "Les Atmorans et les Nèdes"
+description: "Les ancêtres des races humaines de Tamriel : des terres gelées d'Atmora aux premières civilisations de Bordeciel et Cyrodiil"
+slug: "atmorans"
+category: "races"
+era: "merethic-era"
+timelineYear: -1000
+tags: ["atmorans", "nèdes", "nordiques", "atmora", "races humaines", "migration", "ysgramor", "hommes"]
+---
+
+## Introduction
+
+Les Atmorans sont les ancêtres des races humaines de Tamriel du Nord, en particulier des Nordiques de Bordeciel. Venus du continent gelé d'Atmora, situé au nord de Tamriel au-delà de la Mer des Fantômes, ils migrèrent vers le sud en plusieurs vagues successives au cours de l'Ère Méréthique. Leur histoire est intimement liée à celle des Nèdes — un terme plus large désignant les premiers peuples humains de Tamriel, dont les origines exactes font l'objet de débats intenses parmi les érudits.
+
+## Atmora : La Patrie Ancestrale
+
+### Géographie et Climat
+
+Atmora, dont le nom signifie "Bois Ancien" en ehlnofex, est un continent situé au nord de Tamriel, séparé de Bordeciel par la Mer des Fantômes. À l'origine, Atmora était une terre de forêts boréales et de toundras habitables, avec un climat rigoureux mais vivable. Au fil des millénaires, cependant, le continent fut progressivement pris par un froid surnaturel qui gela non seulement la terre et les eaux, mais le temps lui-même.
+
+### Le Gel d'Atmora
+
+Le gel d'Atmora n'est pas un simple phénomène climatique. Les rares explorateurs ayant atteint le continent dans les ères ultérieures rapportent avoir trouvé non pas un désert de glace mort, mais un monde figé — des guerriers gelés en plein combat, des animaux immobilisés en pleine course, des vagues pétrifiées. Le temps lui-même s'est arrêté à Atmora, comme si le continent avait été littéralement exclu du flux temporel.
+
+Certains érudits attribuent ce phénomène à un excès d'influence anuique — le principe de stase ayant pris le dessus sur le changement, figeant le continent dans un état de permanence éternelle.
+
+### La Société Atmoran
+
+Avant le gel, la société atmoran était organisée en clans guerriers :
+
+- **Structure clanique** : Chaque clan était dirigé par un chef de guerre (jarl) et un sage (chamane ou prêtre)
+- **Culture guerrière** : Le combat était central dans la vie sociale, et la mort au combat était considérée comme l'honneur suprême
+- **Tradition orale** : Les Atmorans ne possédaient pas d'écriture avant Ysgramor ; toute connaissance était transmise par les skalds
+- **Culte des animaux totems** : Les Atmorans vénéraient des esprits animaux — le Dragon, le Renard, le Faucon, le Serpent, l'Ours, le Papillon de nuit, la Baleine et l'Hibou
+- **La Voix** : Certains guerriers maîtrisaient le Thu'um, le pouvoir de la Voix, capable de détruire par le seul son
+
+## Les Vagues de Migration
+
+### Les Premières Migrations
+
+La migration des Atmorans vers Tamriel ne fut pas un événement unique mais un processus s'étalant sur des siècles, voire des millénaires. Les premières vagues remontent à une époque très reculée de l'Ère Méréthique, bien avant Ysgramor.
+
+Ces premiers migrants établirent des communautés dispersées le long de la côte nord de Bordeciel, vivant de la pêche, de la chasse et d'un commerce limité. Certains poussèrent plus au sud, atteignant les vallées intérieures de Bordeciel et peut-être même les régions qui deviendraient Cyrodiil et Hauteroche.
+
+### La Migration d'Ysgramor
+
+La migration la plus célèbre est celle d'Ysgramor, qui établit la cité de Saarthal dans le nord de Bordeciel. Cette colonie prospéra pendant un temps avant d'être détruite lors de la Nuit des Larmes. Le Retour subséquent d'Ysgramor avec ses Cinq Cents Compagnons marqua le début de la domination humaine sur Bordeciel.
+
+### Les Dernières Vagues
+
+Après le Retour, des vagues supplémentaires de migrants continuèrent à arriver d'Atmora alors que les conditions sur le continent ancestral se détérioraient. Les dernières migrations significatives eurent lieu au début de la Première Ère. Après cela, Atmora devint totalement inaccessible, figée dans son gel éternel.
+
+## La Question Nède
+
+### Qui Sont les Nèdes ?
+
+Le terme "Nède" (parfois "Nédique") est utilisé pour désigner les premiers humains de Tamriel, en particulier ceux qui peuplèrent Cyrodiil, Hauteroche et Lenclume avant l'arrivée des cultures impériales. La relation entre les Nèdes et les Atmorans est un sujet de controverse majeure.
+
+### La Théorie de la Migration Unique
+
+Selon cette théorie, dominante dans la tradition impériale, tous les humains de Tamriel descendent des Atmorans. Les Nèdes seraient simplement les descendants des premières vagues de migration atmoran — ceux qui arrivèrent bien avant Ysgramor et se dispersèrent à travers le continent, développant des cultures distinctes au fil des millénaires d'isolation.
+
+### La Théorie des Origines Multiples
+
+Une autre théorie, plus controversée, suggère que les Nèdes sont un peuple distinct, originaire de Tamriel même ou d'un autre continent, et que les Atmorans ne représentent qu'une branche de l'humanité parmi d'autres. Selon cette perspective :
+
+- Les Nèdes de Cyrodiil pourraient avoir des origines séparées des Atmorans
+- Les hommes de Hauteroche auraient pu se mêler aux Elfes (les Brétons résultant de ce métissage)
+- Les Rédgardes de Yokuda auraient une origine totalement indépendante
+
+### L'Hypothèse de l'Errance d'Ehlnofey
+
+Le Monomythe parle des Ehlnofey Errants (Wandering Ehlnofey) — des esprits originels qui, contrairement aux Ehlnofey Anciens (ancêtres des Elfes), furent dispersés à travers le monde après la Guerre de l'Aube. Selon cette cosmogonie, tous les humains descendent de ces Ehlnofey Errants, ce qui expliquerait leur présence sur plusieurs continents simultanément.
+
+## Caractéristiques Physiques et Culturelles
+
+### Physique des Atmorans
+
+Les Atmorans étaient un peuple physiquement imposant :
+- Grande taille (dépassant souvent les deux mètres pour les guerriers)
+- Musculature puissante adaptée au froid
+- Peau claire, cheveux allant du blond au roux foncé
+- Yeux généralement clairs (bleus, gris, verts)
+- Résistance naturelle au froid, héritée de leur environnement ancestral
+
+Ces caractéristiques se retrouvent chez leurs descendants nordiques, bien qu'atténuées par des millénaires de métissage avec d'autres populations.
+
+### Religion et Spiritualité
+
+#### Le Panthéon Atmoran
+
+Les Atmorans vénéraient un panthéon de divinités souvent représentées sous forme animale :
+
+- **Alduin** (le Dragon) : Le Dévoreur de Mondes, qui met fin à chaque kalpa (cycle du monde). Les Atmorans le vénéraient et le craignaient en égale mesure
+- **Shor** (le Renard/le Manquant) : Le dieu des hommes, celui qui créa le monde pour les mortels au prix de sa propre vie. Équivalent de Lorkhan
+- **Kyne** (le Faucon) : Déesse du Ciel et des Tempêtes, épouse de Shor, mère des hommes
+- **Tsun** (l'Ours) : Dieu-bouclier de Shor, gardien de la Baleine de Shor (Sovngarde)
+- **Stuhn** (la Baleine) : Dieu de la rançon et de la miséricorde
+- **Jhunal** (l'Hibou) : Dieu de la connaissance, progressivement oublié par les Nordiques
+- **Orkey** (le Serpent) : Dieu de la mortalité, figure antagoniste
+- **Mara** (le Papillon de nuit) : Déesse de l'amour et de la fertilité
+
+#### Le Culte des Dragons
+
+Un aspect crucial de la religion atmoran est le Culte des Dragons. Dans les temps anciens, les dragons n'étaient pas des créatures mythiques mais des êtres bien réels qui régnaient sur les Atmorans. Le Culte des Dragons organisait la société autour de la vénération de ces créatures, avec des prêtres-dragons servant d'intermédiaires entre les mortels et leurs maîtres ailés.
+
+Ce culte ne fut renversé qu'avec la Guerre des Dragons, lorsque les mortels se rebellèrent avec l'aide de Paarthurnax et les premiers Thu'um enseignés aux hommes.
+
+### Le Thu'um
+
+Le Thu'um, ou Voix, est peut-être l'héritage culturel le plus distinctif des Atmorans. C'est l'art de projeter sa volonté à travers la parole, utilisant le langage draconique pour altérer la réalité. Les premiers Thu'um furent enseignés aux mortels par Paarthurnax, sur ordre de Kyne, pour leur permettre de combattre les dragons.
+
+Le Thu'um devint un élément central de la culture guerrière nordique. Les plus grands guerriers étaient des "Langues" (Tongues) — des maîtres du Thu'um capables de dévaster des armées par le seul pouvoir de leur voix. Ce n'est qu'après la Bataille de la Montagne Rouge (Première Ère) que Jurgen Parlevent fonda les Grises-Barbes et orienta le Thu'um vers la méditation et la paix.
+
+## Les Descendants des Atmorans
+
+### Les Nordiques
+
+Les Nordiques de Bordeciel sont les descendants les plus directs des Atmorans. Ils ont conservé nombre de traits culturels de leurs ancêtres :
+- La culture guerrière et l'honneur au combat
+- Le culte des morts et Sovngarde
+- La méfiance envers la magie et les Elfes
+- Les traditions du Compagnonnage (les Compagnons de Blancherive)
+- Le respect pour le Thu'um et les Grises-Barbes
+
+### Les Impériaux
+
+Les Impériaux de Cyrodiil sont partiellement issus de souches nédiques/atmoranes, mêlées à des influences elfiques (aldmeri et ayléides). Leur culture est plus cosmopolite et moins guerrière que celle des Nordiques, mais ils partagent certains traits physiques communs.
+
+### Les Brétons
+
+Les Brétons de Hauteroche résultent du métissage entre les populations nédiques et les Elfes Direnni qui dominèrent la région pendant des siècles. Ce mélange leur confère une affinité naturelle pour la magie, rare chez les peuples d'ascendance principalement humaine.
+
+## Savoir et Technologie
+
+### La Métallurgie
+
+Les Atmorans étaient des métallurgistes accomplis. Leur acier nordique, forgé selon des techniques transmises de génération en génération, était réputé pour sa résistance au froid et sa solidité. L'acier atmoran véritable — celui forgé sur le continent ancestral — est considéré comme supérieur à presque tout ce qui est produit en Tamriel.
+
+### La Navigation
+
+La survie des Atmorans dépendait de leur maîtrise de la navigation. Traverser la Mer des Fantômes — un océan dangereux, peuplé de créatures marines et balayé par des tempêtes surnaturelles — exigeait des navires solides et des marins expérimentés. Les longs navires atmorans étaient des merveilles d'ingénierie navale, capables de résister aux pires conditions.
+
+### L'Architecture
+
+L'architecture atmoran, visible dans les ruines de Saarthal et dans les tombes nordiques anciennes, privilégie la fonctionnalité et la durabilité. Les bâtiments étaient conçus pour résister au froid extrême, avec des murs épais, des salles souterraines et des systèmes de chauffage par foyers centraux.
+
+## L'Héritage
+
+### Une Civilisation Fondatrice
+
+Les Atmorans, malgré (ou à cause de) leur relative simplicité technologique et culturelle, sont les fondateurs de la civilisation humaine en Tamriel du Nord. Sans leur migration, le continent serait resté sous domination elfique indéfinie. Leur legs — le courage, la résilience, le Thu'um, la tradition guerrière — continue de définir des peuples entiers des millénaires après la disparition d'Atmora.
+
+### La Nostalgie d'Atmora
+
+Pour les Nordiques modernes, Atmora représente un paradis perdu — un foyer ancestral inaccessible, figé pour l'éternité dans la glace et le temps. Cette nostalgie se manifeste dans leur fierté raciale, leur attachement aux traditions et leur résistance au changement. Atmora est morte, mais son esprit vit dans chaque Nordique qui brandit une hache et affronte l'hiver.
+
+## Conclusion
+
+Les Atmorans et les Nèdes constituent les racines de l'humanité tamriélique. Leur histoire — migration, survie, conquête et adaptation — est celle de l'espèce humaine elle-même face à un monde dominé par des forces anciennes et puissantes. Des glaces d'Atmora aux trônes impériaux de Cyrodiil, leur voyage est celui d'un peuple qui refusa l'extinction et forgea sa place dans un monde qui ne lui était pas destiné.

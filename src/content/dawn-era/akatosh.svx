@@ -1,0 +1,98 @@
+---
+title: "Akatosh — Le Dragon Dieu du Temps"
+slug: "akatosh"
+era: "dawn-era"
+category: "aedra"
+tags: ["akatosh", "aedra", "temps", "dragons", "dragonfires", "alduin", "auriel"]
+timelineYear: 0
+summary: "Akatosh est le Chef du Panthéon des Divins, Dieu du Temps et père des Dragons. Sa bénédiction protégea Tamriel via les Dragonfires et l'Amulette des Rois pendant des millénaires."
+sources: ["UESP: Akatosh", "The Amulet of Kings", "Varieties of Faith"]
+---
+
+## Présentation
+
+**Akatosh** est le premier des Divins (Aedra), le Dieu du Temps, et le chef du panthéon des Huit (ou Neuf) Divins. Il est le premier esprit à s'être formé dans le Vide, et tous les autres dieux sont considérés comme postérieurs à lui. Sa sphère est le **Temps** lui-même — sans Akatosh, la causalité n'existerait pas.
+
+## Nature et Aspects
+
+Akatosh est perçu différemment selon les cultures :
+
+| Culture | Nom | Aspect |
+|---------|-----|--------|
+| Impériale | Akatosh | Dragon doré bienveillant |
+| Nordique | Alduin* | Dragon Monde-Mangeur |
+| Elfique | Auri-El | Roi des Aldmer, premier esprit |
+| Khajiit | Alkosh | Dragon-Roi du temps |
+
+*Note : Le lien entre Akatosh et Alduin est débattu — sont-ils le même être ou des fragments distincts ?
+
+## Les Dragonfires
+
+L'œuvre la plus importante d'Akatosh pour Tamriel :
+- Quand Alessia fonda le premier Empire, Akatosh forgea un pacte avec elle
+- Il versa **son propre sang** dans l'**Amulette des Rois**
+- Tant qu'un empereur légitime (Dragonborn) portait l'Amulette et allumait les **Dragonfires**...
+- La **Barrière de Liminal** empêchait les Daedra d'envahir Mundus
+- Ce pacte protégea Tamriel pendant plus de 3000 ans
+- Brisé en 3E 433 quand la lignée Septim s'éteignit
+
+## Les Dragons
+
+Akatosh est le **père de tous les Dragons** (Dovah) :
+- Les dragons sont des fragments de son pouvoir temporel
+- Chaque dragon est un aspect partiel d'Akatosh
+- Alduin est considéré comme son "premier-né"
+- Les Enfants de Dragon (Dovahkiin) portent une bénédiction d'Akatosh
+- L'âme de dragon du Dovahkiin vient directement d'Akatosh
+
+## L'Avatar d'Akatosh (3E 433)
+
+Lors de la Crise d'Oblivion, Martin Septim :
+1. Brisa l'Amulette des Rois
+2. Fusionna avec l'esprit d'Akatosh contenu dedans
+3. Se transforma en **Avatar d'Akatosh** — un dragon doré géant
+4. Combattit Mehrunes Dagon physiquement dans la Cité Impériale
+5. Repoussa Dagon dans Oblivion
+6. Se pétrifia en statue au Temple du Unique (Temple of the One)
+
+## Le Bris du Dragon (Dragon Break)
+
+Akatosh étant le Temps, des perturbations de son être causent des **Dragon Breaks** :
+- Le temps cesse d'être linéaire
+- Plusieurs réalités coexistent simultanément
+- Les événements contradictoires sont tous "vrais"
+- Le plus célèbre : le Warp in the West (3E 417)
+- Le Middle Dawn (Ordre Alessien) dura 1008 ans d'incohérence temporelle
+
+## Relation avec Alduin
+
+La question Akatosh/Alduin est l'un des grands débats théologiques :
+
+### Théorie 1 : Même Entité
+- Alduin est simplement l'aspect nordique d'Akatosh
+- Sa fonction de "Monde-Mangeur" est nécessaire au cycle kalpique
+- Les Nordiques voient le même dieu différemment
+
+### Théorie 2 : Entités Distinctes
+- Alduin est le premier-né d'Akatosh, pas Akatosh lui-même
+- Alduin se rebella contre son rôle (ne pas régner mais détruire/renouveler)
+- Paarthurnax : "Il n'est pas Akatosh, il est le fils d'Akatosh"
+- Le fait que le Dovahkiin (béni d'Akatosh) puisse tuer Alduin soutient cette théorie
+
+## Temples et Culte
+
+- Le **Temple du Unique** (Cité Impériale) — principal lieu de culte
+- Présent dans chaque chapelle de chaque ville impériale
+- Les prêtres d'Akatosh bénissent les voyageurs et guerriers
+- Le culte est universel et non-controversé (contrairement à Talos)
+- Symbole : le dragon
+- Jour sacré : 27 de Soirétoile
+
+## Importance Cosmologique
+
+Akatosh est peut-être l'entité la plus importante de l'Aurbis :
+- Sans le Temps, rien n'existe de manière cohérente
+- Il est la "colonne vertébrale" de la réalité
+- Les Towers (tours) stabilisent la réalité qu'il a initiée
+- Sa mort/absence causerait la fin de TOUT
+- Le Thalmor cherche possiblement à le défaire (théorie)

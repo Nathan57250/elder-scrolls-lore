@@ -1,0 +1,118 @@
+---
+title: "Les Nordiques — Fils de la Tempête"
+slug: "nordiques"
+era: "dawn-era"
+category: "races"
+tags: ["nordiques", "nords", "bordeciel", "sovngarde", "shor", "ysgramor", "guerriers"]
+timelineYear: 0
+summary: "Les Nordiques sont un peuple humain guerrier originaire d'Atmora, installé en Bordeciel depuis l'Ère Méréthique. Race de guerriers, de conteurs et de navigateurs, leur culture imprègne tout le nord de Tamriel."
+sources: ["UESP: Nords", "Songs of the Return", "Varieties of Faith"]
+---
+
+## Présentation
+
+Les **Nordiques** (Nords) sont la race humaine dominante de **Bordeciel** (Skyrim). Descendants des **Atmorans** qui traversèrent la Mer des Fantômes sous la conduite d'**Ysgramor**, ils sont un peuple de guerriers, de navigateurs, de conteurs et de buveurs — fiers, indépendants et méfiants de la magie.
+
+## Origines
+
+### Atmora
+Le continent d'**Atmora** (au nord de Tamriel) était la terre d'origine des proto-Nordiques :
+- Civilisation guerrière et chamanique
+- Atmora gela progressivement — devenant inhabitable
+- Migrations successives vers Tamriel (la plus célèbre : celle d'Ysgramor)
+- En 4E, Atmora est considéré comme un continent mort, gelé pour l'éternité
+
+### Le Retour
+Le voyage d'**Ysgramor et ses 500 Compagnons** est le mythe fondateur :
+- Premiers établissements à Saarthal
+- La Nuit des Larmes (massacre par les Falmers)
+- Le Retour vengeur avec 500 guerriers
+- Conquête de toute Bordeciel
+- Fondation de Vendeaume (la plus ancienne cité humaine)
+
+## Culture
+
+### Valeurs Fondamentales
+- **L'honneur** au combat — la mort au combat mène à Sovngarde
+- **La force** physique — le faible est méprisé (mais pas le sage)
+- **La liberté** — l'indépendance est un droit sacré
+- **La tradition** — les coutumes ancestrales sont sacrées
+- **Le clan** — la famille et le jarl passent avant tout
+
+### Le Mead Hall
+Le hall d'hydromel est le centre social nordique :
+- Lieu de festins, de récits héroïques et de politique
+- Le Jarl règne depuis son trône dans le hall
+- Jorvaskr (Blancherive) est le plus célèbre
+- La tradition de boire ensemble scelle les alliances
+
+### Les Bardes
+Les **Bardes** nordiques sont plus que des musiciens :
+- Gardiens de l'histoire orale
+- Le Collège des Bardes (Solitude) est une institution respectée
+- Les chants transmettent les exploits et leçons
+- Un guerrier sans chant à sa mémoire est oublié
+
+## Religion Nordique
+
+### Le Panthéon
+| Divin | Nom Nordique | Rôle |
+|-------|-------------|------|
+| Akatosh | Alduin* | Dieu du Temps (mais Alduin est son "fils") |
+| Kynareth | Kyne | Déesse du Ciel, patronne des guerriers |
+| Mara | Mara | Déesse de l'Amour |
+| Dibella | Dibella | Déesse de la Beauté |
+| Talos | Talos/Ysmir | Le Neuvième Divin (controversé) |
+| Shor | Shor | Le Dieu Mort (Lorkhan) — roi de Sovngarde |
+
+### Shor et Sovngarde
+- **Shor** est Lorkhan sous aspect nordique — un guerrier qui créa le monde
+- Il fut "tué" par les elfes (mythiquement)
+- Il attend les guerriers dans **Sovngarde** — le paradis nordique
+- Seuls les morts honorables y accèdent
+- Tsun garde le pont de l'os-baleine
+
+### Talos
+- **Talos** (Tiber Septim) est le Neuvième Divin pour les Nordiques
+- Un homme devenu dieu — le héros ultime
+- L'interdiction de son culte (Concordat) est une insulte suprême
+- L'identité nordique et le culte de Talos sont indissociables
+
+## Organisation Politique
+
+### Les Jarls
+- Bordeciel est divisé en **9 Châtelleries** (Holds)
+- Chaque Châtellerie est gouvernée par un **Jarl**
+- Le **Haut-Roi** est élu par le **Moot** (assemblée des Jarls)
+- Le titre peut être disputé par le **Thu'um** (combat rituel)
+
+### Le Thu'um
+Le **Cri** (Thu'um/Voice) est un art nordique ancien :
+- Utilisation de la Voix comme arme
+- Les Grises-Barbes l'enseignent sur le Haut Hrothgar
+- Autrefois, les armées nordiques avaient des "Tongues" (maîtres du Cri)
+- Depuis Jurgen Windcaller, le Thu'um est réservé à la contemplation (sauf les Enfants de Dragon)
+
+## Physique et Traits
+
+- Les plus **grands** humains de Tamriel
+- Peau claire, cheveux blonds ou roux typiques
+- Résistance naturelle au **froid** (50% de résistance au givre)
+- Constitution robuste
+- Longévité standard humaine (~80 ans)
+
+## Faiblesses Culturelles
+
+- **Méfiance de la magie** — les mages sont marginalisés
+- **Xénophobie** — particulièrement envers les Elfes et Khajiit
+- **Rigidité** — les traditions peuvent empêcher l'adaptation
+- **Alcoolisme** — culturellement normalisé
+- **Division interne** — les guerres civiles sont récurrentes
+
+## En 4E 201
+
+Les Nordiques sont au cœur de la Guerre Civile :
+- **Sombrage** : indépendance, honneur, tradition nordique
+- **Empire** : unité, pragmatisme, protection contre le Thalmor
+- La société est fracturée, les familles divisées
+- Le retour des Dragons ajoute au chaos

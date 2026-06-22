@@ -1,0 +1,54 @@
+---
+title: "Havreglace"
+slug: "coldharbour"
+era: "second-era"
+category: "lieux"
+tags: ["coldharbour", "havreglace", "molag-bal", "planemeld", "ancres-sombres", "oblivion", "vestige"]
+timelineYear: 582
+summary: "Havreglace, le plan d'Oblivion de Molag Bal, théâtre du Planemeld et de l'invasion de Tamriel par les Ancres Sombres en 2E 582."
+sources: ["The Coldharbour Compact", "Planemeld", "ESO Main Quest", "Varieties of Daedra"]
+---
+
+## Le plan de la Domination
+
+**Havreglace** (Coldharbour) est le plan d'Oblivion appartenant à **Molag Bal**, le Prince Daedrique de la Domination, du Viol et de l'Asservissement. C'est un lieu d'horreur absolue — une parodie torturée de Nirn où tout ce qui existe dans le monde mortel se retrouve sous une forme corrompue, dégradée et plongée dans un froid éternel. Les cieux sont perpétuellement couverts de nuages noirs déchirés par des éclairs bleutés, et aucun soleil n'y brille jamais.
+
+Havreglace est décrit par ceux qui en revinrent comme « Nirn tel qu'il serait si toute espérance en était retirée ». Des villes fantomatiques reproduisent les cités de Tamriel dans une version cauchemardesque — des bâtiments familiers mais distordus, peuplés de créatures monstrueuses et d'âmes tourmentées pour l'éternité.
+
+## Géographie de l'horreur
+
+La géographie d'Havreglace est un cauchemar topographique. Le plan est couvert d'un azur maladif — une lumière froide qui n'illumine rien véritablement. Des océans de fluide noirâtre bordent des côtes de pierre désolée. Des cages suspendues dans le vide contiennent les âmes des mortels piégés. Des tours de torture s'élèvent vers un ciel vide, et des fosses sans fond s'ouvrent sans prévenir sous les pieds des voyageurs.
+
+Parmi les lieux notables d'Havreglace figurent le **Trône de la Brutalité** — le palais personnel de Molag Bal, une structure d'une cruauté architecturale indicible — et la **Salle des Tourments**, où les âmes captives subissent des supplices éternels adaptés à leurs peurs les plus intimes. Chaque recoin du plan est conçu pour maximiser la souffrance et écraser la volonté.
+
+## Le Planemeld
+
+En **2E 582**, **Molag Bal** lança le **Planemeld** — une tentative de fusionner Havreglace avec Nirn, absorbant littéralement le monde mortel dans son plan d'Oblivion. Ce plan d'une ambition monstrueuse visait à asservir la totalité de la population mortelle de Tamriel, transformant Nirn en une extension de sa prison éternelle.
+
+Le Planemeld fut rendu possible par le travail de **Mannimarco**, le Roi des Vers et plus puissant nécromancien de l'histoire, qui servait d'agent mortel à Molag Bal. Mannimarco orchestrait les rituels nécessaires depuis Tamriel tandis que Molag Bal ouvrait les portails depuis Havreglace, travaillant ensemble pour briser les barrières entre les plans.
+
+## Les Ancres Sombres
+
+Les **Ancres Sombres** (Dark Anchors) constituaient l'instrument principal du Planemeld. Ces immenses structures métalliques — combinant des chaînes de métal infernal et des portails dimensionnels — s'abattaient depuis Havreglace sur la surface de Tamriel, ancrant littéralement le plan d'Oblivion au monde mortel. Chaque Ancre créait un point de fusion entre les deux réalités, attirant Havreglace vers Nirn.
+
+Les zones touchées par une Ancre Sombre se transformaient progressivement : le ciel prenait une teinte bleutée maladive, la température chutait, et des daedra envahissaient les environs. Des Daedroths, des Atronachs, des Clannfears et des Dremoras déferlaient par les portails, massacrant ou asservissant les populations locales. La destruction d'une Ancre exigeait un combat acharné contre les forces daédriques qui la protégeaient.
+
+## Les serviteurs de Molag Bal
+
+Havreglace est peuplé de créatures au service de Molag Bal, chacune incarnant un aspect de la domination et de la souffrance. Les **Dremora** — daedra humanoïdes d'une intelligence cruelle — forment l'élite militaire. Les **Harceleurs** (Harvesters) collectent les âmes pour alimenter les machinations de leur maître. Les **Titans** — d'immenses créatures ailées corrompues — patrouillent les cieux d'Havreglace.
+
+La hiérarchie d'Havreglace est brutalement simple : le pouvoir détermine tout. Les daedra les plus puissants dominent les plus faibles, et tous courbent l'échine devant Molag Bal. Les âmes mortelles captives occupent le rang le plus bas — objets à torturer, combustible spirituel à consumer pour alimenter les projets du Prince.
+
+## L'invasion et la résistance
+
+Face au Planemeld, les peuples de Tamriel s'organisèrent en résistance. Les **Guildes des Combattants et des Mages** mobilisèrent leurs forces, tandis que des héros individuels — dont le **Vestige**, un mortel dont l'âme avait été arrachée par Molag Bal — menèrent la contre-offensive. L'assaut final contre Havreglace lui-même constitua l'acte le plus audacieux de la résistance : envahir un plan d'Oblivion pour y détruire la source du Planemeld.
+
+La destruction des **Pinacles Noirs** — les structures dans Havreglace qui ancraient le Planemeld du côté d'Oblivion — mit fin à la fusion dimensionnelle. La confrontation directe entre le Vestige et Molag Bal, rendue possible par le sacrifice de **Meridia** prêtant sa puissance divine, brisa définitivement les plans du Prince de la Domination.
+
+## Le Pacte d'Havreglace
+
+Bien avant le Planemeld, **Sotha Sil** avait conclu le **Pacte d'Havreglace** avec Molag Bal et plusieurs autres Princes Daédriques après la destruction de la ville de Gilverdale. Ce pacte interdisait aux Princes de manifester directement leur puissance sur Nirn — une restriction que le Planemeld violait ouvertement. L'audace de Molag Bal résidait précisément dans cette transgression : il était prêt à briser un accord millénaire pour satisfaire son désir de domination totale.
+
+## Héritage du Planemeld
+
+Le Planemeld de 2E 582 démontra que les Princes Daédriques représentent une menace existentielle pour Nirn — une leçon que Tamriel dut réapprendre lors de la **Crise d'Oblivion** neuf cents ans plus tard. La capacité de Molag Bal à lancer une telle invasion — et la difficulté extrême à la repousser — souligna la vulnérabilité fondamentale du monde mortel face aux puissances d'Oblivion.

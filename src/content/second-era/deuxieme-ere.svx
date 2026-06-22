@@ -1,0 +1,50 @@
+---
+title: "La Deuxième Ère"
+slug: "deuxieme-ere"
+era: "second-era"
+category: "empires"
+tags: ["interregne", "tiber-septim", "alliance-daguéfilante", "pacte-coeurebene", "domaine-aldmeri", "molag-bal"]
+date: "2E 1 — 2E 896"
+summary: "L'Interrègne chaotique, les trois grandes alliances, l'invasion de Molag Bal, et l'ascension de Tiber Septim qui unifia tout Tamriel."
+timelineYear: 1
+sources: ["UESP: Second Era", "ESO Lore", "The Imperial Library"]
+---
+
+## L'Interrègne (2E 430 — 2E 854)
+
+Après la chute de la dynastie Reman et l'assassinat du dernier Potentát Akaviri, Tamriel sombra dans une période de chaos connue sous le nom d'**Interrègne**. Sans empereur pour unifier le continent, les provinces se fragmentèrent en royaumes rivaux.
+
+C'est durant cette période que le nécromancien **Mannimarco** (le Roi des Vers) gagna en puissance, et que de nombreuses factions émergèrent pour tenter de combler le vide de pouvoir.
+
+## Les Trois Alliances et la Guerre des Alliances (2E 580)
+
+Face à la menace du nécromancien-roi et de diverses forces destructrices, trois grandes alliances se formèrent :
+
+### Le Pacte de Cœurébène
+- **Races** : Nordiques, Dunmer, Argoniens
+- **Leader** : Le Haut-Roi Jorunn
+- **Territoire** : Bordeciel, Morrowind, Marais Noir
+
+### L'Alliance de Daguefilante
+- **Races** : Brétons, Rougegardes, Orques
+- **Leader** : Le Haut-Roi Émeric
+- **Territoire** : Hauteroche, Lenclume, Orsinium
+
+### Le Premier Domaine Aldmeri
+- **Races** : Altmer, Bosmer, Khajiits
+- **Leader** : La Reine Ayrenn
+- **Territoire** : Îles Summerset, Val-Boisé, Elsweyr
+
+## L'Ancrage de Molag Bal (2E 582)
+
+Simultanément à la Guerre des Alliances, le Prince Daedrique **Molag Bal** tenta de fusionner son royaume d'Oblivion (Havreglace) avec Mundus dans un événement appelé le **Planemeld**. Des "Ancres Sombres" — d'immenses crochets de métal — tombèrent du ciel à travers tout Tamriel, arrachant des portions du plan mortel.
+
+Un héros, le **Vestige** (dont l'âme avait été volée par Molag Bal), parvint à pénétrer dans Havreglace et à vaincre le Prince Daedrique avec l'aide des Cinq Compagnons et du Guerrier Lyrique.
+
+## L'Ascension de Tiber Septim (2E 854 — 2E 896)
+
+Le personnage le plus important de la Deuxième Ère est **Tiber Septim** (né Hjalti Early-Beard, aussi connu sous le nom de Talos). Général brillant et Enfant de Dragon, il unifia tout Tamriel par la conquête et la diplomatie.
+
+Ses conquêtes culminèrent avec l'utilisation du **Numidium** — le gigantesque golem Dwemer reconstruit par Zurin Arctus — pour soumettre le Domaine Aldmeri en un seul jour.
+
+En **2E 896**, Tiber Septim se proclama empereur de tout Tamriel, marquant le début de la **Troisième Ère** et de la dynastie Septim. Après sa mort, il ascenda au rang de divinité sous le nom de **Talos**, le Neuvième Divin.

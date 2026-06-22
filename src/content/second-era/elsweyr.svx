@@ -1,0 +1,67 @@
+---
+title: "Elsweyr : La Terre des Khajiits"
+slug: "elsweyr"
+era: "second-era"
+category: "lieux"
+tags: ["elsweyr", "khajiit", "lunes", "furstocks", "criniere", "skooma", "anequina", "pellitine"]
+timelineYear: 309
+summary: "Elsweyr est la patrie enigmatique des Khajiits, un peuple felin dont la morphologie est determinee par les lunes et dont la culture oscille entre raffinement et sauvagerie."
+sources: ["Mixed Unit Tactics", "Pocket Guide to the Empire, 3rd Edition", "Ahzirr Traajijazeri", "Words of Clan Mother Ahnissi"]
+---
+
+![Carte de Tamriel](/images/common/tamriel-map.jpg)
+
+## Elsweyr : Le Pays des Sables et des Lunes
+
+Elsweyr est la province la plus meridionale du continent de Tamriel, une terre de contrastes ou les deserts arides du nord cedent place aux jungles luxuriantes du sud. Mais la veritable singularite d'Elsweyr n'est pas sa geographie : c'est son peuple, les Khajiits, une race feline dont la complexite biologique et culturelle depasse l'entendement de la plupart des autres races.
+
+## Les Khajiits : Enfants des Lunes
+
+Les Khajiits se designent eux-memes comme les enfants d'Azurah (Azura), qui les faconnna a partir des Bosmers — ou, selon leur propre mythologie, qui leur revela leur veritable forme dissimilee par les ruses de Y'ffre. Quelle que soit la verite, les Khajiits sont un peuple unique dont l'existence est intimement liee aux deux lunes de Nirn : Masser (Jone) et Secunda (Jode).
+
+La societe khajiit est construite autour de la famille, du clan et de la devotion aux lunes. Leur langue, le Ta'agra, est melodieuse et complexe, et leur tendance a parler d'eux-memes a la troisieme personne deroute frequemment les etrangers.
+
+## Les Furstocks : Morphologie Lunaire
+
+L'aspect le plus extraordinaire de la biologie khajiit est le systeme des Furstocks. La forme physique d'un Khajiit n'est pas determinee par ses parents mais par la phase des deux lunes au moment de sa naissance. Selon l'alignement de Masser et Secunda, un Khajiit peut naitre sous l'une d'au moins seize formes radicalement differentes :
+
+- **Alfiq** : De la taille et de l'apparence d'un chat domestique, mais pleinement intelligent et capable de magie
+- **Senche-raht** : Aussi grand qu'un cheval de guerre, quadrupede, utilise comme monture par d'autres Khajiits
+- **Cathay** : La forme bipede la plus couramment observee par les autres races, de taille humaine
+- **Ohmes** : Presque indistinguable d'un Bosmer, sans fourrure ni queue apparente
+- **Pahmar** : De la taille et de la forme d'un tigre, quadrupede et feroce
+- **Dagi** : Petit et arboricole, adapte a la vie dans les arbres du sud
+
+Toutes ces formes sont considérees comme des Khajiits a part entiere dans leur societe. Un Alfiq apparemment identique a un chat de gouttiere peut etre un puissant mage ou un chef de clan respecte. Cette diversite morphologique est la source de nombreux malentendus avec les autres races, qui peinent a accepter qu'un felin quadrupede et un humanoide a fourrure appartiennent au meme peuple.
+
+## La Criniere (Mane)
+
+La Criniere est le dirigeant spirituel supreme des Khajiits, ne lors d'un alignement lunaire extremement rare impliquant une troisieme lune secrete, le Coursier de Jone et Jode. Il n'existe jamais qu'une seule Criniere a la fois dans le monde, et sa naissance est un evenement de portee cosmique pour tout le peuple khajiit.
+
+La Criniere est reconnaissable a son extraordinaire chevelure dans laquelle les Khajiits du peuple entier tressent des meches de leur propre fourrure en signe de devotion. Au fil des annees, cette criniere devient si volumineuse que la Criniere ne peut plus se deplacer sans assistance et est portee par des serviteurs lors des rares ceremonies publiques.
+
+Le role de la Criniere est celui d'un unificateur spirituel plutot que d'un dirigeant politique. Sa voix est celle des lunes elles-memes, et ses decrets sont consideres comme des revelations divines plutot que des lois seculieres.
+
+## Sucre-lune et Skooma
+
+Le sucre-lune (moon sugar) est la substance la plus importante et la plus controversee d'Elsweyr. Cette drogue cristalline, recoltee dans les cannes a sucre de la region de Tenmar, est omni-presente dans la culture khajiit : elle entre dans la composition de presque tous leurs aliments, boissons et remedes medicinaux. Pour les Khajiits, le sucre-lune est un don sacre des lunes, une substance divine qui nourrit autant le corps que l'ame.
+
+Le skooma est un derive raffine du sucre-lune, une drogue d'une puissance devastatrice qui cree une dependance quasi-instantanee chez les non-Khajiits. Le commerce du skooma est illegal dans tout l'Empire, mais il constitue l'une des principales exportations clandestines d'Elsweyr, alimentant des reseaux criminels a travers tout Tamriel.
+
+Cette economie grise est une source de tension perpetuelle entre Elsweyr et ses voisins. Les Khajiits ne comprennent pas la criminalisation de ce qu'ils considerent comme un sacrement, tandis que les autres provinces voient dans le commerce du skooma une menace existentielle pour leurs populations.
+
+## Anequina contre Pellitine
+
+Elsweyr est historiquement divisee en deux royaumes rivaux dont l'unification en 2E 309 donna naissance a la Confederation d'Elsweyr :
+
+**Anequina** occupe le nord de la province, une terre de steppes arides et de deserts peuplee de clans nomades guerriers. Les Khajiits d'Anequina sont reputes pour leur feroce independance, leur talent martial et leur mode de vie spartiate. Ils meprisent le luxe et la decadence du sud.
+
+**Pellitine** s'etend au sud, dans les jungles tropicales fertiles. Ses habitants ont developpe une civilisation raffinee de cites-etats commercantes, de palais somptueux et d'une culture artistique sophistiquee. Les Pellitinois regardent les Anequinois comme des barbares incultes.
+
+L'unification des deux royaumes fut un compromis politique fragile, et les tensions entre nord et sud n'ont jamais veritablement disparu. Le Thalmor exploita ces divisions pour annexer Elsweyr au Domaine Aldmeri, scindant a nouveau la province en deux entites clientes : le Royaume d'Anequina et le Royaume de Pellitine.
+
+## Sous le Joug du Thalmor
+
+La domination thalmor sur Elsweyr fut acquise par la ruse autant que par la force. Lorsque les deux lunes disparurent du ciel pendant deux annees (le Vide Lunaire), causant une panique existentielle chez les Khajiits, le Thalmor pretendit avoir restaure les lunes par sa magie. Reconnaissants, les Khajiits accepterent l'alliance avec le Domaine Aldmeri, ignorant que la disparition elle-meme avait probablement ete orchestree par le Thalmor.
+
+Depuis lors, Elsweyr sert le Domaine comme territoire vassal, fournissant des guerriers et des eclaireurs aux armees aldmeri tout en subissant une influence culturelle croissante de la part de ses maitres altmer.

@@ -1,0 +1,106 @@
+---
+title: "La Convention de la Tour Adamantine"
+slug: "convention"
+era: "dawn-era"
+category: "evenements"
+tags: ["Convention", "Tour Adamantine", "Aedra", "Lorkhan", "Mundus", "Montagne Rouge", "Ada-Mantia"]
+timelineYear: -9999
+summary: "Le conclave divin tenu au sommet de la Tour Adamantine, lors duquel les Aedra jugèrent Lorkhan et scellèrent les lois du monde mortel."
+sources: ["The Monomyth", "Before the Ages of Man", "Mythes de Shezarr", "Commentaires sur le Mysterium Xarxes", "Variantes du mythe de la Création"]
+---
+
+## La Convention : le Jugement des Dieux
+
+La Convention -- parfois nommée *Convocation* ou *Assemblée Divine* -- désigne le rassemblement primordial des et-Ada au sommet de la Tour Adamantine (Ada-Mantia), la plus ancienne structure connue de Tamriel, située sur l'île de Balfiera dans la baie d'Iliac. Cet événement fondateur marqua la fin de l'Ère de l'Aube et l'instauration du temps linéaire tel que les mortels le connaissent.
+
+### Contexte : la Trahison de Lorkhan
+
+Avant la Convention, le monde de Mundus existait dans un état de flux perpétuel. Les Aedra -- les esprits originels qui avaient accepté de sacrifier une part de leur essence pour façonner le plan mortel -- découvrirent l'ampleur de la tromperie orchestrée par Lorkhan. Le Dieu Manquant les avait convaincus de participer à la Création, mais le coût s'avéra bien plus élevé que promis :
+
+- Leur puissance divine s'amenuisait irréversiblement
+- Ils devenaient liés au plan mortel qu'ils avaient engendré
+- Certains d'entre eux s'affaiblissaient au point de mourir ou de se transformer en éléments du paysage
+
+Face à cette situation, les Aedra survivants convoquèrent la Convention pour déterminer le sort de l'architecte trompeur.
+
+## Le Déroulement de la Convention
+
+### L'Assemblée au Sommet
+
+Les sources divergent sur l'identité exacte des participants, mais les récits concordent sur la présence des esprits divins majeurs :
+
+| Participant | Rôle supposé |
+|---|---|
+| Auri-El (Akatosh) | Président du tribunal, accusateur principal |
+| Magnus | Architecte originel, témoin à charge |
+| Trinimac | Bras armé de la justice divine |
+| Mara | Voix de la tempérance |
+| Stendarr | Garant de l'ordre |
+| Lorkhan | L'accusé |
+
+### Le Verdict
+
+Le jugement fut unanime : Lorkhan était coupable de tromperie cosmique. Les Aedra décrétèrent que :
+
+1. **Lorkhan serait détruit** -- son essence divine lui serait arrachée
+2. **Son Coeur serait préservé** -- comme rappel éternel de sa trahison
+3. **Les lois de Mundus seraient fixées** -- le temps deviendrait linéaire et irréversible
+4. **Les Tours maintiendraient la réalité** -- Ada-Mantia servirait de modèle
+
+### L'Exécution du Châtiment
+
+Trinimac, champion des Aedra et plus puissant des guerriers divins, s'avança pour appliquer la sentence. Il arracha le Coeur de Lorkhan de sa poitrine divine. Le corps du Dieu Manquant fut déchiré en deux parties :
+
+- **Masser** (Jone) -- la plus grande des lunes de Nirn
+- **Secunda** (Jode) -- la plus petite lune
+
+Ces corps célestes, que les Khajiits nomment respectivement *Jone* et *Jode*, deviendraient les témoins éternels dans le ciel nocturne de la chute de Lorkhan.
+
+## Les Conséquences de la Convention
+
+### La Création de la Montagne Rouge
+
+Auri-El, insatisfait de simplement détruire Lorkhan, attacha le Coeur à une flèche et la décocha à travers le ciel. La flèche traversa tout Tamriel avant de s'enfoncer profondément dans la terre de Morrowind. L'impact créa la **Montagne Rouge** (Vvardenfell), le volcan colossal qui domine la province de Resdayn.
+
+Le Coeur de Lorkhan reposa ensuite pendant des éternités dans les profondeurs de la montagne, devenant une source de pouvoir incommensurable que les Dwemer tenteraient plus tard d'exploiter -- avec des conséquences désastreuses.
+
+### L'Instauration du Temps Linéaire
+
+La Convention établit ce que les érudits nomment parfois le *Contrat Divin* :
+
+- Le temps cessa d'être malléable et devint une progression constante
+- Les événements commencèrent à se succéder selon un ordre cause-conséquence
+- L'Ère de l'Aube prit officiellement fin
+- L'Ère Méréthique commença
+
+### Le Départ de Magnus
+
+Magnus, l'Architecte divin qui avait conçu les plans de Mundus pour Lorkhan, décida de fuir le plan mortel. Son départ déchira la membrane entre Mundus et l'Aetherius, créant le **Soleil** -- une brèche permanente par laquelle la lumière magique se déverse dans le monde. D'autres esprits mineurs le suivirent, créant les étoiles.
+
+### La Tour comme Ancre
+
+Ada-Mantia devint la première **Pierre de Tour** (*Tower Stone*), un concept fondamental de la métaphysique de Mundus. Les Tours sont des structures mythiques qui ancrent la réalité :
+
+- **Ada-Mantia** -- la Tour Zéro, archétype de toutes les autres
+- **Tour d'Or** (Crystal-Like-Law) -- construite par les Aldmer
+- **Tour Rouge** -- la Montagne Rouge elle-même
+- **Tour de Laiton** (Numidium) -- création des Dwemer
+- **Tour Blanche-Or** -- bâtie par les Ayleid à Cyrodiil
+
+## Interprétations et Controverses Théologiques
+
+### La Vision Elfique
+
+Pour les Mer (Elfes), la Convention représente un acte de justice contre un traître cosmique. Lorkhan est le Grand Ennemi, celui qui les a piégés dans la mortalité et les a séparés de leur essence divine. La Convention est célébrée comme le moment où l'ordre fut restauré.
+
+### La Vision Humaine
+
+Les traditions nordiques et impériales présentent un récit différent. Pour eux, Lorkhan (qu'ils nomment **Shor** ou **Shezarr**) est un héros tragique qui offrit aux esprits la chance de transcender leur nature divine à travers l'expérience mortelle. La Convention fut alors un meurtre -- le sacrifice injuste d'un bienfaiteur.
+
+### La Perspective Khajiit
+
+Dans la cosmologie khajiit, les événements sont perçus à travers le prisme de la dualité lunaire. Les deux lunes ne sont pas les restes d'un cadavre mais les manifestations continues d'un esprit encore actif, veillant sur Nirn depuis le ciel.
+
+## Héritage
+
+La Convention demeure l'événement le plus déterminant de l'histoire métaphysique de Tamriel. Chaque conflit théologique majeur, chaque guerre entre Hommes et Elfes, chaque tentative de manipulation des Tours trouve ses racines dans les décisions prises ce jour-là au sommet d'Ada-Mantia. Le Dominion Aldmeri, le Tribunal de Morrowind, la quête du Numidium -- tous sont des échos de la Convention, des tentatives de réviser ou de perpétuer le verdict prononcé à l'aube des temps.

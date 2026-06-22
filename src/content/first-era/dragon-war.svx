@@ -1,0 +1,74 @@
+---
+title: "La Guerre des Dragons"
+slug: "dragon-war"
+era: "first-era"
+category: "evenements"
+tags: ["evenements", "dragons", "thu'um", "nordiques", "rébellion", "première-ère", "paarthurnax"]
+timelineYear: 1
+summary: "La Guerre des Dragons, la rébellion des mortels contre la tyrannie du Culte du Dragon au début de la Première Ère."
+sources: ["La Guerre des Dragons", "Atlas de la race des dragons", "Chants de Skyrim", "Paroles du Vent"]
+---
+
+## La Tyrannie des Dragons
+
+La Guerre des Dragons fut l'un des conflits les plus déterminants de l'histoire de Tamriel. Au crépuscule de l'**Ère Méréthique** et à l'aube de la Première Ère, les **Nordiques** de l'ancien Bordeciel se soulevèrent contre la domination des dragons et de leur culte mortel, le Culte du Dragon. Cette révolte marqua la fin d'une ère d'esclavage et le début de l'âge des mortels en tant que maîtres de leur propre destin.
+
+Avant la guerre, les dragons régnaient sur Bordeciel en maîtres incontestés. Ces créatures immortelles, enfants d'**Akatosh** selon la tradition impériale, considéraient les mortels comme des êtres inférieurs, bons tout au plus à servir et à vénérer leurs maîtres ailés. Le Culte du Dragon, composé de prêtres mortels appelés Prêtres-Dragons, servait d'intermédiaire entre les dragons et le peuple.
+
+## Le Culte du Dragon
+
+Les Prêtres-Dragons étaient les vrais oppresseurs quotidiens du peuple nordique. Gouvernant au nom de leurs maîtres ailés, ils exerçaient un pouvoir absolu sur les populations humaines. Ils imposaient des corvées, des sacrifices et une dévotion absolue, punissant la moindre dissidence par la mort ou pire.
+
+Ces prêtres possédaient des pouvoirs magiques considérables, accordés par les dragons eux-mêmes. Ils maîtrisaient la nécromancie, l'enchantement et les magies de domination. À leur mort, ils étaient ensevelis dans de vastes complexes funéraires, les tertres nordiques, avec leurs serviteurs et leurs trésors, convaincus de régner encore dans l'au-delà.
+
+Les Masques des Prêtres-Dragons, des artefacts enchantés d'une puissance considérable, sont les vestiges les plus célèbres de cette ère. Chaque masque porte le nom et le pouvoir de son propriétaire originel, des reliques convoitées par les aventuriers et les érudits des millénaires plus tard.
+
+## Les Causes de la Rébellion
+
+La rébellion contre le Culte du Dragon ne fut pas un événement soudain mais l'aboutissement de générations d'oppression. Les causes immédiates sont débattues par les historiens, mais plusieurs facteurs convergèrent pour rendre la révolte inévitable.
+
+Les corvées de plus en plus lourdes imposées par les Prêtres-Dragons étouffaient les communautés nordiques. Les sacrifices humains, bien qu'acceptés initialement comme le prix de la protection des dragons, devinrent insupportables lorsqu'ils s'intensifièrent. Et la cruauté gratuite de certains Prêtres-Dragons, agissant comme des tyrans plutôt que comme des guides spirituels, érodait toute légitimité du système.
+
+Mais le catalyseur véritable de la rébellion fut l'intervention divine de **Kynareth** (Kyne dans la tradition nordique). La déesse des cieux, par compassion pour les mortels opprimés, intervint en envoyant **Paarthurnax**, un dragon renégat, pour enseigner aux humains le secret du **Thu'um**, le Cri de pouvoir.
+
+## Paarthurnax et le Don du Thu'um
+
+**Paarthurnax** est la figure la plus controversée de la Guerre des Dragons. Lieutenant d'**Alduin**, le Premier-Né d'Akatosh et chef suprême des dragons, Paarthurnax trahit son propre peuple en enseignant le Thu'um aux mortels. Ses motivations restent débattues : était-ce la compassion, le désir de pouvoir ou un plan plus vaste qui le poussa à cette trahison ?
+
+Le Thu'um, la Voix, est l'art de projeter sa volonté à travers la parole, transformant des mots en force pure. Les dragons sont naturellement capables du Thu'um, mais les mortels doivent méditer pendant des années pour maîtriser un seul Cri. Paarthurnax enseigna aux premiers guerriers humains les techniques nécessaires pour accélérer cet apprentissage.
+
+Les premiers maîtres du Thu'um, les Langues (Tongues), devinrent les champions de la rébellion. Armés du pouvoir de la Voix, ils pouvaient enfin affronter les dragons sur un pied d'égalité, Cri contre Cri, force contre force.
+
+## Le Déroulement de la Guerre
+
+La Guerre des Dragons ne fut pas un conflit bref. Elle dura des générations, un siècle ou plus selon certaines estimations. Les premiers affrontements furent des victoires coûteuses pour les mortels, chaque dragon abattu représentant un exploit héroïque qui coûtait des dizaines de vies.
+
+Les batailles se déroulèrent à travers tout Bordeciel, des plaines de la Brèche aux sommets des Montagnes de la Gorge. Les dragons, habitués à une domination incontestée, furent d'abord choqués par la résistance de leurs anciens esclaves. Mais ils s'adaptèrent rapidement, devenant des adversaires encore plus brutaux et impitoyables.
+
+Les Prêtres-Dragons menèrent la résistance au sol, utilisant leurs pouvoirs nécromantiques pour lever des armées de morts contre les rebelles. Les batailles étaient des cauchemars où les vivants affrontaient les morts tandis que des dragons crachaient le feu depuis les cieux.
+
+## La Chute d'Alduin
+
+Le point culminant de la Guerre des Dragons fut la confrontation avec **Alduin** lui-même, le Dévoreur de Mondes, le plus puissant de tous les dragons. Aucune armée mortelle ne pouvait espérer vaincre Alduin par la force brute, même avec le Thu'um.
+
+Trois héros nordiques, Hakon Borgne, Gormlaith Cœur-Doré et Felldir l'Ancien, développèrent une stratégie désespérée. Utilisant un **Parchemin des Anciens** (un Elder Scroll), ils lancèrent le Cri Déviation du Dragon (Dragonrend), un Cri unique créé par des mortels pour forcer les dragons à comprendre la mortalité, une concept qui les terrifiait.
+
+Ce Cri ne tua pas Alduin mais le força à atterrir. Incapables de le détruire, les héros utilisèrent le Parchemin des Anciens pour le projeter hors du temps, le bannissant dans un futur lointain. Cette solution temporaire sauva le monde mais reporta la menace à une ère future.
+
+## Les Conséquences
+
+La défaite d'Alduin ne mit pas fin immédiatement à la guerre. Les dragons restants, privés de leur chef, continuèrent à se battre pendant des décennies. Mais sans la coordination d'Alduin et face à des mortels de plus en plus habiles dans l'usage du Thu'um, ils furent progressivement vaincus, tués ou forcés à se cacher.
+
+Les Prêtres-Dragons subirent un sort particulièrement violent. Les populations libérées les traquèrent sans pitié, détruisant leurs temples et profanant leurs tombeaux. Les quelques Prêtres-Dragons qui survécurent se firent ensevelir vivants dans leurs sépultures, entrant dans un sommeil magique qui ne prendrait fin que des millénaires plus tard.
+
+## L'Héritage de la Guerre
+
+La Guerre des Dragons transforma fondamentalement la culture nordique. Le Thu'um devint le symbole suprême de la puissance nordique, et les Langues les héros les plus vénérés. La tradition guerrière de Bordeciel, l'indépendance farouche de son peuple et leur méfiance envers toute autorité imposée trouvent leurs racines dans cette rébellion originelle.
+
+Les Grises-Barbes, fondés par Jurgen Parlevent après la Guerre des Dragons, représentent une approche différente du Thu'um : la contemplation plutôt que la conquête. Parlevent prêcha que la Voix devait servir à la méditation et au culte de Kyne, non à la guerre. Cette philosophie pacifiste divisa la communauté des Langues et reste un sujet de débat en Bordeciel.
+
+## Le Retour d'Alduin
+
+Le bannissement d'Alduin dans le futur ne fut jamais une solution permanente. Les prophéties nordiques annoncèrent depuis des millénaires qu'Alduin reviendrait à la fin des temps pour dévorer le monde. En 4E 201, cette prophétie se réalisa lorsque le Dévoreur de Mondes émergea du flux temporel, ramenant avec lui la terreur des dragons sur un Bordeciel qui avait oublié comment les combattre.
+
+Seul l'Enfant de Dragon (Dovahkiin), un mortel né avec l'âme d'un dragon, put finalement accomplir ce que les anciens héros n'avaient pas pu faire : détruire véritablement Alduin, accomplissant ainsi la prophétie et fermant le cercle ouvert lors de la Guerre des Dragons originelle.

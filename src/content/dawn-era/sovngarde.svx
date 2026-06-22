@@ -1,0 +1,92 @@
+---
+title: "Sovngarde — Le Paradis des Guerriers"
+slug: "sovngarde"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["sovngarde", "shor", "mort", "nordiques", "au-delà", "aetherius", "tsun"]
+timelineYear: -9999
+summary: "Sovngarde est l'au-delà des guerriers nordiques — un hall éternel dans Aetherius où les valeureux festoient et combattent sous le regard de Shor."
+sources: ["UESP: Sovngarde", "Songs of Sovngarde", "The Imperial Library: Nordic Afterlife"]
+---
+
+## Nature
+
+![Sovngarde — le hall des valeureux](/images/dawn-era/sovngarde.jpg)
+
+**Sovngarde** est un domaine d'**Aetherius** — le plan immortel de la magie et des dieux. C'est l'au-delà réservé aux guerriers nordiques honorables, un concept analogue au Valhalla nordique.
+
+Ce n'est pas un simple "paradis" : c'est un lieu **physique** (dans la mesure où Aetherius est physique) que le Dernier Enfant de Dragon a visité et dont il est revenu.
+
+## Accès
+
+### Qui y accède ?
+- Les **guerriers morts au combat** avec honneur
+- Ceux qui ont vécu une vie de **bravoure** (pas nécessairement militaire)
+- Les héros reconnus par Shor/Tsun
+- Indépendamment de la race (bien que principalement Nordique)
+
+### Qui n'y accède pas ?
+- Les lâches et les déshonorants
+- Ceux dont l'âme est réclamée par un Prince Daedrique (loups-garous → Hircine, vampires → Molag Bal)
+- Les adorateurs de Daedra (leur âme va au Prince)
+- Ceux qui n'ont pas mérité le passage
+
+### Le Pont de la Baleine
+L'entrée de Sovngarde est gardée par **Tsun** — le dieu nordique de l'épreuve. Il se tient au **Pont de la Baleine** (Whale Bone Bridge), fait d'ossements de baleine gigantesques, et défie chaque arrivant en combat singulier pour prouver leur valeur.
+
+## Description
+
+### Le Hall des Valeureux (Hall of Valor)
+Un immense hall de festin où les héros de toutes les ères boivent, mangent, et se battent éternellement :
+- Tables chargées d'hydromel et de viande
+- Combat amical perpétuel (sans mort permanente)
+- Chants et récits des exploits passés
+- Lumière éternelle, ni jour ni nuit
+
+### L'Extérieur
+Au-delà du Hall, Sovngarde est décrite comme :
+- Des vallées verdoyantes couvertes de brume lumineuse
+- Un ciel éternel aux aurores boréales permanentes
+- Des montagnes majestueuses au loin
+- Une beauté surnaturelle, "plus réelle que le réel"
+
+## Résidents Notables
+
+| Héros | Ère | Exploit |
+|-------|-----|---------|
+| Ysgramor | Méréthique | Conquête de Bordeciel |
+| Jurgen Windcaller | 1ère | Fondation des Grises-Barbes |
+| Olaf One-Eye | 1ère | Capture de Numinex |
+| Felldir l'Ancien | Méréthique | Banni Alduin avec un Elder Scroll |
+| Gormlaith Golden-Hilt | Méréthique | Combattit les Dragons |
+| Hakon One-Eye | Méréthique | Guerrier de la Dragon War |
+| Kodlak Barbe-Blanche | 4ème | Héros des Compagnons (si libéré d'Hircine) |
+| Haut-Roi Torygg | 4ème | Tué par Ulfric |
+
+## L'Incident d'Alduin
+
+En 4E 201, **Alduin** se nourissait des âmes de Sovngarde — dévorant les morts pour accroître sa puissance avant de détruire le monde :
+- Il créa un **brouillard impénétrable** autour de Sovngarde pour désorienter les âmes
+- Les héros anciens ne pouvaient le combattre seuls
+- Le Dernier Enfant de Dragon pénétra Sovngarde via le portail au Skuldafn
+- Avec Felldir, Gormlaith et Hakon, il vainquit Alduin définitivement
+- Tsun renvoya le Dovahkiin à Mundus après la victoire
+
+## Shor
+
+**Shor** est l'aspect nordique de Lorkhan — le dieu mort qui créa Mundus. Il est le "roi" de Sovngarde, mais :
+- Son trône est **toujours vide** quand on le visite
+- Il est "absent" — peut-être parce que Lorkhan est mort/dispersé
+- Certains théorisent qu'il est toujours présent mais invisible aux yeux mortels
+- D'autres pensent qu'il se réincarne périodiquement en Shezarrine
+
+## Comparaisons Culturelles
+
+Chaque culture a son propre au-delà dans Aetherius :
+- **Nordiques** → Sovngarde (hall de Shor)
+- **Rougegardes** → Far Shores (les Côtes Lointaines)
+- **Khajiit** → Les Sables Derrière les Étoiles
+- **Impériaux** → Aetherius générique (pas de lieu nommé spécifique)
+- **Dunmer** → Rejoignent leurs ancêtres (pas Aetherius — tradition ancestrale)
+
+Ces lieux sont-ils des plans séparés ou des régions différentes d'Aetherius ? Les théologiens de Tamriel débattent encore.

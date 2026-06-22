@@ -1,0 +1,101 @@
+---
+title: "Hermaeus Mora — Prince du Savoir Interdit"
+slug: "hermaeus-mora"
+era: "dawn-era"
+category: "daedra"
+tags: ["hermaeus mora", "prince daedrique", "apocrypha", "livres noirs", "miraak", "savoir", "tentacules"]
+timelineYear: 0
+summary: "Hermaeus Mora est le Prince Daedrique du Savoir Interdit et de la Mémoire, gardien d'Apocrypha, une bibliothèque infinie contenant tout le savoir perdu ou caché de l'univers."
+sources: ["UESP: Hermaeus Mora", "Events of TES V: Dragonborn", "The Imperial Library"]
+---
+
+## Présentation
+
+**Hermaeus Mora** (aussi appelé Herma-Mora, le Jardinier des Hommes, le Démon du Savoir) est le Prince Daedrique de la Connaissance, de la Mémoire et du Destin. Sa sphère englobe tout le savoir — particulièrement celui qui est **interdit, oublié ou dangereux**.
+
+Il se manifeste sous la forme d'une **masse de tentacules et d'yeux** flottant dans le vide — une apparence qui reflète sa nature : omnisciente, tentaculaire, et fondamentalement inhumaine.
+
+## Apocrypha
+
+Le royaume d'Hermaeus Mora est **Apocrypha** — une bibliothèque infinie :
+- Des tours de livres s'élevant à l'infini dans un ciel verdâtre
+- Des océans d'encre noire
+- Des couloirs sans fin de parchemins et grimoires
+- Le savoir de tous les mondes y est archivé
+
+### Les Habitants
+- **Seekers** — créatures humanoïdes lévitantes, gardiens des livres
+- **Lurkers** — monstres tentaculaires aquatiques
+- Les **âmes de chercheurs** — mortels piégés pour l'éternité à lire
+- Mora lui-même, omniprésent dans chaque recoin
+
+### Le Piège
+Quiconque entre dans Apocrypha pour chercher un savoir spécifique se retrouve **absorbé** par la quête de connaissance. Les mortels y perdent la notion du temps, lisant pour l'éternité, incapables de partir tant qu'il reste quelque chose à apprendre — et il reste toujours quelque chose.
+
+## Les Livres Noirs
+
+Les **Black Books** (Livres Noirs) sont des artefacts d'Hermaeus Mora sur Nirn :
+- Des portails vers Apocrypha déguisés en livres
+- Quiconque les lit est transporté dans le royaume de Mora
+- Chaque livre contient un savoir spécifique (et un piège)
+- En Bordeciel/Solstheim, sept Livres Noirs sont accessibles
+- Ils confèrent des pouvoirs mais à un prix
+
+## Miraak et Hermaeus Mora
+
+La relation entre **Miraak** (le Premier Enfant de Dragon) et Mora est centrale :
+- Miraak fut le premier humain à lire un Livre Noir (Ère Méréthique)
+- Mora lui enseigna des Cris de Dragon inconnus des autres
+- Miraak utilisa ce pouvoir pour se rebeller contre le Culte du Dragon
+- Quand les autres dragons l'attaquèrent, Mora l'aspira dans Apocrypha
+- Miraak y resta prisonnier pendant des millénaires, servant de champion réticent
+- En 4E 201, il tenta de s'échapper — Mora utilisa le Dovahkiin pour le remplacer
+
+## Le Dovahkiin et Mora
+
+En 4E 201, le Dernier Enfant de Dragon fut approché par Hermaeus Mora :
+- Via le Livre Noir de la quête principale de Dragonborn
+- Mora offrit le **Cri "Bend Will"** (soumettre la volonté) en échange du savoir des Skaal
+- Le chamane Skaal **Storn Crag-Strider** sacrifia sa vie pour transmettre ce savoir
+- Le Dovahkiin devint le nouveau champion de Mora (volontairement ou non)
+
+## Les Oghma Infinium
+
+L'**Oghma Infinium** est l'artefact daedrique de Mora :
+- Un livre contenant un savoir universel
+- Sa lecture confère une augmentation massive de compétences
+- Le livre disparaît après lecture (le savoir a un prix)
+- Nommé d'après Oghma, servante de Xarxes (le scribe d'Auri-El)
+
+## Philosophie et Danger
+
+Hermaeus Mora représente un paradoxe :
+- Le savoir est **neutre** — ni bon ni mauvais
+- Mais la quête **obsessionnelle** du savoir est destructrice
+- Mora offre toujours ce qu'on cherche — mais le prix est toujours sa liberté
+- Il ne contraint pas — il **séduit** par la curiosité
+
+### Le Prix du Savoir
+Chaque interaction avec Mora suit un schéma :
+1. Le mortel cherche un savoir spécifique
+2. Mora le fournit gracieusement
+3. Le mortel réalise qu'il en veut plus
+4. Il devient dépendant, puis prisonnier
+5. Son âme finit dans Apocrypha pour l'éternité
+
+## Relations
+
+| Prince | Relation |
+|--------|----------|
+| Vaermina | Domaines adjacents (rêves/savoir) — coopération rare |
+| Mora Bal | Indifférence mutuelle |
+| Mephala | Rivalité (secrets vs savoir) |
+| Nocturnal | Conflit (elle cache ce qu'il veut révéler) |
+
+## Manifestations
+
+Mora apparaît différemment selon les cultures :
+- **Nordiques** : Herma-Mora, le "Woodland Man" — un piège pour les chamanes
+- **Impériaux** : Le Démon du Savoir — figure académique dangereuse
+- **Skaal** : Le "All-Maker corrompu" — force antagoniste à leur spiritualité
+- **Universel** : Masse de tentacules verdâtres avec yeux multiples

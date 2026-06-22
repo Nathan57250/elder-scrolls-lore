@@ -1,0 +1,50 @@
+---
+title: "Les Ehlnofey, ancêtres des mortels"
+slug: "ehlnofey"
+era: "dawn-era"
+category: "races"
+tags: ["ehlnofey", "création", "guerre", "ancêtres", "mortels"]
+timelineYear: -99700
+summary: "L'histoire des Ehlnofey, esprits primordiaux devenus les ancêtres de toutes les races mortelles de Nirn."
+sources: ["The Annotated Anuad", "Before the Ages of Man", "Shezzar and the Divines"]
+---
+
+## Les esprits originels
+
+Les **Ehlnofey** furent parmi les premiers esprits à habiter **Nirn** après sa création lors de la **Convention**. Ces êtres, ni tout à fait divins ni tout à fait mortels, représentaient une étape intermédiaire dans la dégradation des et'Ada originels. Contrairement aux **Daedra** qui refusèrent de participer à la création, les Ehlnofey choisirent de rester sur Mundus, sacrifiant une partie de leur essence divine pour donner forme au monde.
+
+Leur nature exacte demeure un sujet de débat parmi les érudits. Certains les décrivent comme des fragments des **Aedra** originels, des morceaux de divinité éparpillés lors de la création. D'autres les considèrent comme des esprits mineurs qui gravitaient autour des grandes forces créatrices. Ce qui est certain, c'est qu'ils possédaient une puissance bien supérieure à celle des mortels qui leur succéderaient.
+
+Les Ehlnofey habitaient un monde encore malléable, où les lois de la physique n'étaient pas entièrement fixées. La géographie de **Nirn** à cette époque était radicalement différente de celle que nous connaissons : un unique supercontinent entouré d'eaux primordiales, sous un ciel où **Aetherius** brillait à travers les trous laissés par **Magnus** lors de sa fuite.
+
+## La division des Ehlnofey
+
+Au fil du temps, les Ehlnofey se divisèrent en deux groupes distincts, séparés par des catastrophes géologiques qui fragmentèrent leur continent originel. Les **Ehlnofey Errants** furent dispersés à travers le monde, contraints de voyager et de s'adapter à des environnements hostiles. Leur existence nomade les endurcit et les transforma profondément.
+
+Les **Ehlnofey Installés**, quant à eux, conservèrent leur territoire d'origine, un fragment relativement préservé de l'ancien monde. Ils maintinrent davantage de leur héritage spirituel et de leur connexion aux forces divines. Leur civilisation, bien que diminuée par rapport à l'ère de la création, resta plus sophistiquée et plus proche de l'état originel.
+
+Cette séparation ne fut pas qu'une simple division géographique. Elle engendra des différences culturelles, spirituelles et même physiques fondamentales. Les Errants devinrent plus robustes, plus adaptables, tandis que les Installés conservèrent une grâce et une longévité supérieures. Ces différences allaient devenir la source d'un conflit dévastateur.
+
+## La Guerre des Ehlnofey
+
+Lorsque les deux groupes se retrouvèrent enfin, la reconnaissance mutuelle céda rapidement la place à l'incompréhension et au conflit. La **Guerre des Ehlnofey** fut un cataclysme d'une ampleur inimaginable, un conflit qui remodela littéralement la face de **Nirn**. Les forces déployées par ces êtres semi-divins dépassaient tout ce que les mortels pourraient jamais reproduire.
+
+Les continents furent brisés et reformés. Les océans surgirent là où s'étendaient autrefois des plaines. Des chaînes de montagnes s'élevèrent en quelques instants sous la puissance des combats. Le monde unique des origines fut fracturé en les continents que nous connaissons aujourd'hui : **Tamriel**, **Akavir**, **Atmora**, **Yokuda** et les autres terres lointaines.
+
+La guerre ne connut pas de véritable vainqueur. Les deux camps furent décimés, et les survivants, épuisés et diminués, n'étaient plus que l'ombre de leurs ancêtres. C'est cette diminution progressive qui marqua la transition définitive vers la condition mortelle. Chaque génération naissait un peu plus faible, un peu plus éphémère, jusqu'à ce que les Ehlnofey cessent d'exister en tant que tels.
+
+## L'héritage racial
+
+Des Ehlnofey Installés naquirent les ancêtres des **Mers**, les races elfiques de Tamriel. Les **Aldmer**, premiers parmi les elfes, conservèrent le plus fidèlement l'héritage de leurs ancêtres. D'eux descendirent les **Altmer**, les **Bosmer**, les **Dunmer**, les **Orsimer** et toutes les autres races elfiques. Leur longévité, leur affinité naturelle pour la magie et leur structure sociale hiérarchique témoignent de cette filiation.
+
+Des Ehlnofey Errants naquirent les ancêtres des **Hommes**. Les **Nédiques**, les **Atmorans**, les **Yokudans** et les **Rougegardes** portent tous en eux l'héritage de ces nomades endurcis. Leur robustesse, leur adaptabilité et leur détermination à conquérir de nouveaux territoires reflètent la nature errante de leurs progéniteurs.
+
+Les **Argoniens** et les **Khajiits** représentent des cas particuliers. Les premiers furent transformés par les **Hists**, des entités peut-être antérieures aux Ehlnofey eux-mêmes. Les seconds furent façonnés par **Azura** à partir des Bosmer, selon certaines traditions, bien que les Khajiits eux-mêmes rejettent cette interprétation.
+
+## Implications métaphysiques
+
+La transition des Ehlnofey vers les races mortelles soulève des questions fondamentales sur la nature de l'existence sur **Nirn**. Si les mortels sont véritablement les descendants d'êtres semi-divins, alors chaque être vivant porte en lui un fragment infinitésimal de divinité. Cette idée est au coeur de nombreuses traditions religieuses et philosophiques de **Tamriel**.
+
+Les **Psijiques** enseignent que la mortalité n'est qu'un voile, et que la nature divine originelle peut être retrouvée par la méditation et la discipline. Les **Thalmor** poussent cette logique à son extrême, cherchant à défaire la création elle-même pour restaurer l'état divin originel des Mers. Les traditions nordiques, à l'inverse, célèbrent la condition mortelle comme un don, une libération des chaînes de l'éternité.
+
+La mémoire des Ehlnofey survit dans les mythes de toutes les cultures de Tamriel, sous des noms différents et des interprétations variées. Mais tous s'accordent sur un point : nous sommes les enfants d'êtres plus grands que nous, et notre monde fut forgé dans le sang d'une guerre dont les cicatrices sont encore visibles dans la géographie même de **Nirn**.

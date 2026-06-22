@@ -1,0 +1,104 @@
+---
+title: "Les Orques — Les Enfants de Malacath"
+slug: "orques"
+era: "dawn-era"
+category: "races"
+tags: ["orques", "orsimer", "malacath", "orsinium", "forgerons", "trinimac", "parias"]
+timelineYear: 0
+summary: "Les Orsimer (Orques) sont les descendants des suiveurs de Trinimac, transformés quand leur dieu fut dévoré par Boéthia. Peuple de guerriers-forgerons rejetés et résilients, bâtisseurs perpétuels d'Orsinium."
+sources: ["UESP: Orcs", "The True Nature of Orcs", "History of Orsinium"]
+---
+
+## Présentation
+
+Les **Orsimer** ("Peuple du Paria") — communément appelés **Orques** — sont une race elfe transformée. Autrefois parmi les plus nobles des Aldmer (suiveurs du dieu Trinimac), ils furent physiquement et spirituellement corrompus quand Boéthia dévora Trinimac et le recracha sous forme de **Malacath**.
+
+## La Transformation
+
+### Avant : Les Suiveurs de Trinimac
+- Trinimac était le champion des Aedra, le plus puissant guerrier divin
+- Ses suiveurs étaient des Aldmer d'élite — guerriers et prêtres
+- Ils s'opposèrent au schisme de Veloth (qui créa les Chimer)
+- Ils tentèrent de bloquer l'exode des Chimer
+
+### L'Acte de Boéthia
+- Boéthia trompa Trinimac et le dévora
+- En utilisant la forme de Trinimac, elle convainquit les Chimer de partir
+- Ce qui resta de Trinimac devint **Malacath** — difforme, amer, rejeté
+- Ses suiveurs furent simultanément transformés en **Orques** — la peau verdit, les défenses poussèrent, les traits s'alourdirent
+
+## Orsinium
+
+**Orsinium** ("Cité des Orques") est le rêve éternel et tragique des Orsimer :
+- Fondée et détruite **au moins quatre fois** dans l'histoire
+- Chaque fois reconstruite avec une détermination acharnée
+- Chaque fois rasée par les nations voisines (Bretons, Rougegardes)
+
+### Les Différentes Orsinium
+| Version | Localisation | Destin |
+|---------|--------------|--------|
+| Première (1E 1000) | Monts Wrothgar | Rasée par alliance Breton-Rougegarde |
+| Deuxième (2E) | Monts Wrothgar | Détruite pendant l'Interregnum |
+| Troisième (3E) | Haute-Roche | Admise comme province impériale puis saccagée |
+| Quatrième (4E) | Monts Wrothgar | Statut actuel incertain |
+
+## La Société des Forteresses
+
+Les Orques qui ne vivent pas à Orsinium s'organisent en **Strongholds** (Forteresses) :
+- Chaque forteresse est dirigée par un **Chef** unique
+- Le Chef est le seul mâle autorisé à se reproduire
+- Les **Forge-Épouses** gèrent la forge (métallurgie)
+- Le **Chamane** maintient le lien avec Malacath
+- Les mâles non-Chefs sont "Berserkers" — guerriers de rang
+
+### Le Code de Malacath
+- Pas de vol (résolu par le sang ou l'exil)
+- Le faible doit obéir au fort
+- Le Chef est remplacé quand un fils le bat en combat
+- Les étrangers ne sont admis que s'ils prouvent leur valeur
+- La honte est pire que la mort
+
+## Malacath
+
+**Malacath** (aussi appelé Mauloch par les Nordiques) est leur patron :
+- Prince Daedrique des Parias, des Ostracisés et du Serment Brisé
+- Il n'est PAS un Prince "normal" — il est un Aedra corrompu
+- Son royaume est l'**Ashpit** — un espace de cendres éternelles
+- Il protège ceux que la société rejette
+- Il ne réconforte pas — il endurcit
+
+## Forge et Artisanat
+
+Les Orques sont les **meilleurs forgerons** de Tamriel :
+- L'acier orque est reconnu comme l'un des plus solides
+- Les armures lourdes orques sont légendaires
+- La tradition de forge est sacrée (les Forge-Épouses sont vénérées)
+- L'orichalque est leur métal de prédilection
+- En Bordeciel, les armes et armures orques rivalisent avec l'ébonite
+
+## Perception et Préjugés
+
+Les Orques subissent un racisme constant :
+- Longtemps considérés comme des "monstres", pas des elfes
+- L'admission à l'Empire (3E 399 - Warp in the West) fut tardive
+- Toujours vus comme violents et primitifs
+- Les cités refusaient de leur accorder la citoyenneté
+- En 4E 201, les forteresses de Bordeciel sont isolées et méfiantes
+
+## En Bordeciel (4E 201)
+
+Plusieurs forteresses orques existent :
+- **Largashbur** — maudite par un géant daedrique
+- **Dushnikh Yal** — la plus prospère
+- **Narzulbur** — près d'une mine d'ébonite
+- **Mor Khazgur** — isolée dans les montagnes
+- Les Orques "de la cité" vivent aussi dans les villes (gardes, forgerons)
+
+## Paradoxe Culturel
+
+Les Orques incarnent un paradoxe :
+- **Guerriers féroces** mais aussi les plus grands **artisans** de Tamriel
+- Société **brutale** mais avec un code d'honneur **strict**
+- Considérés comme des barbares mais capables de bâtir des **civilisations**
+- Rejetés par tous mais perpétuellement **résilients**
+- Leur dieu est un Paria — et ils embrassent ce statut

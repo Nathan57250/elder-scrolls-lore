@@ -1,0 +1,65 @@
+---
+title: "La Nécromancie à Tamriel"
+slug: "necromancie-tamriel"
+era: "first-era"
+category: "magie"
+tags: ["nécromancie", "gemmes d'âme", "culte du ver", "conjuration", "magie noire"]
+timelineYear: 1000
+summary: "Histoire complète de la nécromancie à Tamriel, de ses origines controversées aux débats juridiques qui ont façonné sa pratique à travers les ères."
+sources: ["The Arcturian Heresy", "Mannimarco, King of Worms", "Guild Memos on Soul Trapping", "N'Gasta! Kvata! Kvakis!"]
+---
+
+# La Nécromancie à Tamriel
+
+## Définition et origines
+
+La nécromancie constitue l'une des disciplines magiques les plus anciennes et les plus controversées de Tamriel. Définie au sens strict comme l'art de manipuler les forces de la mort et de la non-vie, elle englobe un vaste éventail de pratiques allant de la simple communication avec les défunts jusqu'à la création d'armées de morts-vivants. Ses origines se perdent dans les brumes de l'Ère Méréthique, lorsque les premiers mages elfiques explorèrent les limites entre Aetherius, Mundus et Oblivion.
+
+Les traditions nécromantiques les plus anciennes proviennent vraisemblablement des pratiques funéraires des Ayleids, qui utilisaient des techniques de préservation des âmes bien avant la fondation de toute institution magique formelle. Certains érudits attribuent également une influence significative aux Psijiques d'Artaeum, bien que l'Ordre ait toujours nié tout lien avec ces arts sombres.
+
+## Les Gemmes d'Âme : Noires et Blanches
+
+Au coeur de la pratique nécromanticienne se trouvent les **gemmes d'âme**, des cristaux naturels ou artificiels capables de contenir l'essence vitale d'une créature. La distinction fondamentale s'établit entre deux catégories :
+
+Les **gemmes blanches** (Petty, Lesser, Common, Greater, Grand) ne peuvent capturer que les âmes des créatures non-pensantes — animaux, daedra mineurs et morts-vivants. Leur usage est généralement toléré, voire encouragé, par les institutions magiques officielles pour l'enchantement d'objets.
+
+Les **gemmes noires** (Black Soul Gems), en revanche, sont capables de piéger les âmes des êtres doués de raison — Hommes, Mers et Khajiits. Leur création nécessite un rituel précis effectué lors d'un événement appelé le Revenant, lorsque la lune nécro de Mannimarco passe devant Arkay. La possession seule de ces gemmes constitue un crime capital dans la plupart des provinces de Tamriel.
+
+## Le Culte du Ver
+
+Aucune discussion sur la nécromancie ne saurait être complète sans évoquer l'**Ordre du Ver Noir**, fondé par le tristement célèbre Mannimarco, le Roi des Vers. Ancien étudiant de l'Île d'Artaeum aux côtés de Vanus Galerion, Mannimarco choisit une voie radicalement opposée à celle de son condisciple.
+
+Tandis que Galerion fondait la Guilde des Mages pour démocratiser l'accès au savoir arcanique, Mannimarco rassemblait autour de lui les nécromanciens les plus ambitieux et les plus impitoyables de Tamriel. Le Culte du Ver devint rapidement une organisation tentaculaire, opérant dans l'ombre à travers tout le continent. Ses membres pratiquaient :
+
+- La réanimation massive de cadavres pour constituer des armées
+- Le piégeage systématique d'âmes mortelles
+- La recherche de la lichéité comme forme d'immortalité
+- L'invocation de morts-vivants puissants depuis les plans d'Oblivion
+
+Le conflit entre la Guilde des Mages et le Culte du Ver culmina lors de plusieurs affrontements sanglants au cours de la Première Ère, établissant une rivalité qui perdurerait pendant des millénaires.
+
+## Débats sur la légalité
+
+Le statut juridique de la nécromancie varie considérablement selon les provinces et les époques :
+
+**En Cyrodiil**, la Guilde des Mages a longtemps maintenu une interdiction officielle, bien que certains Archimages aient adopté des positions plus nuancées. Sous Hannibal Traven, la pratique fut strictement bannie, entraînant l'expulsion de plusieurs membres éminents.
+
+**À Morrowind**, le Temple du Tribunal considérait la nécromancie comme un affront aux ancêtres, punissable de mort. Paradoxalement, le culte des ancêtres dunmer implique une forme de communication avec les morts qui confine à la nécromancie dans sa définition la plus large.
+
+**En Haute-Roche**, certains royaumes tolèrent discrètement la pratique à des fins de recherche, tandis que d'autres la répriment férocement.
+
+**Au Marais Noir**, les Argoniens considèrent toute manipulation des morts comme une abomination absolue, en raison de leur lien profond avec le cycle naturel de la vie orchestré par les Hists.
+
+## Relation avec l'École de Conjuration
+
+La classification académique de la nécromancie demeure un sujet de vif débat parmi les théoriciens de la magie. Formellement, la plupart des sorts nécromantiques relèvent de l'**École de Conjuration**, aux côtés de l'invocation de daedra et de la téléportation. Cette classification s'explique par le mécanisme fondamental commun : l'appel et la liaison d'une entité — qu'elle soit daedrique ou spectrale — au plan mortel.
+
+Cependant, de nombreux praticiens arguent que la nécromancie devrait constituer une école à part entière, tant ses principes théoriques diffèrent de la conjuration classique. Là où le conjurateur négocie avec des entités conscientes et volontaires, le nécromancien impose sa volonté à des âmes captives ou à de la matière inerte.
+
+Certains sorts nécromantiques empruntent également à l'École de Restauration — ironie suprême, car Restauration et Nécromancie manipulent toutes deux les forces vitales, mais dans des directions diamétralement opposées. Le sort de Drain de Vie, par exemple, se situe à la frontière exacte entre ces deux disciplines.
+
+## Héritage et influence contemporaine
+
+Malgré des siècles de persécution, la nécromancie n'a jamais été éradiquée. Elle persiste dans les cryptes oubliées, les bibliothèques secrètes et les laboratoires souterrains de Tamriel. Son influence se fait sentir dans des domaines aussi variés que la médecine magique, la jurisprudence sur les droits des morts-vivants et la philosophie métaphysique concernant la nature de l'âme.
+
+La question fondamentale demeure : la nécromancie est-elle intrinsèquement maléfique, ou n'est-elle qu'un outil dont la moralité dépend de l'usage qu'on en fait ? Les Dunmers gardiens d'ancêtres, les prêtres d'Arkay et les nécromanciens du Ver apporteraient chacun une réponse radicalement différente à cette interrogation éternelle.

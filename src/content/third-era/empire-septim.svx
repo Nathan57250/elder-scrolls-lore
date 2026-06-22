@@ -1,0 +1,80 @@
+---
+title: "La Dynastie Septim"
+slug: "dynastie-septim"
+era: "third-era"
+category: "politique"
+tags: ["septim", "empire", "tiber septim", "martin septim", "cyrodiil", "dragonborn"]
+timelineYear: 1
+summary: "Chronique complète de la Dynastie Septim, de l'ascension de Tiber à la mort de Martin, couvrant les règnes de tous les empereurs qui façonnèrent la Troisième Ère."
+sources: ["Brief History of the Empire", "The Arcturian Heresy", "The Real Barenziah", "Oblivion Crisis Summary"]
+---
+
+# La Dynastie Septim
+
+## Fondation : Tiber Septim (3E 1 - 3E 38)
+
+La Troisième Ère débute avec le couronnement de **Tiber Septim**, né Hjalti Barbe-Précoce (ou Talos de la Forêt d'Atmora, selon les sources), le premier homme à unifier l'intégralité de Tamriel sous une seule bannière. Son ascension depuis le statut de général nordique jusqu'au trône impérial constitue l'une des épopées les plus extraordinaires — et les plus controversées — de l'histoire.
+
+Tiber conquit les dernières provinces récalcitrantes grâce au **Numidium**, le golem colossal des Dwemers reconstruit et alimenté par le Mantella. Son règne de trente-huit ans établit les fondations administratives, militaires et religieuses de l'Empire qui perdurerait pendant toute la Troisième Ère. À sa mort — ou plutôt à son **apothéose** — il devint Talos, le Neuvième Divin, protecteur de l'Humanité.
+
+## Les premiers successeurs
+
+**Pelagius I** (3E 38 - 3E 41) régna brièvement avant d'être assassiné par la Confrérie Noire dans le Temple de l'Unique à la Cité Impériale. Son règne trop court ne laissa guère de marque.
+
+**Kintyra I** (3E 41 - 3E 48), nièce de Tiber, fut la première impératrice de la dynastie. Son règne fut marqué par la prospérité et le mécénat artistique, établissant la Cité Impériale comme capitale culturelle de Tamriel.
+
+**Uriel I** (3E 48 - 3E 64) se distingua comme administrateur hors pair, consolidant les institutions impériales et renforçant le réseau routier reliant les provinces. Il fonda le Conseil des Anciens dans sa forme moderne.
+
+**Uriel II** (3E 64 - 3E 82) hérita d'un empire fragilisé par des catastrophes naturelles et des épidémies. Son règne fut une lutte constante contre l'adversité, et les finances impériales ne s'en remirent jamais pleinement sous son autorité.
+
+## La période de consolidation
+
+**Pelagius II** (3E 82 - 3E 99) fut un souverain économe jusqu'à l'obsession, refusant de recevoir les ambassadeurs étrangers par avarice. Paradoxalement, cette parcimonie permit de restaurer les coffres impériaux vidés par son prédécesseur.
+
+**Antiochus** (3E 99 - 3E 120) incarna l'excès dans tous les domaines — festins, intrigues, débauche. Son règne fut cependant marqué par la victoire décisive de la **Guerre de l'Île**, au cours de laquelle les forces combinées de Tamriel repoussèrent une invasion pirate majeure des Maormers.
+
+**Kintyra II** (3E 120 - 3E 121) ne régna qu'un an avant d'être détrônée et assassinée par sa tante Potema et son cousin Uriel, lors de ce qu'on nomme la **Guerre du Diamant Rouge** — la première grande guerre civile de la dynastie Septim.
+
+## La Guerre du Diamant Rouge et ses suites
+
+**Uriel III** (3E 121 - 3E 127) usurpa le trône avec l'aide de sa mère **Potema**, la Reine-Louve de Solitude. Son règne illégitime plongea l'Empire dans une guerre civile dévastatrice qui dura six ans. Il fut finalement capturé et brûlé vif par une foule en colère.
+
+**Cephorus I** (3E 127 - 3E 140) passa la majeure partie de son règne à combattre les derniers partisans de Potema et à restaurer l'unité impériale. La défaite finale de la Reine-Louve à Solitude en 3E 137 marqua la fin de cette période sombre.
+
+**Magnus** (3E 140 - 3E 145) régna brièvement, davantage préoccupé par les affaires de son royaume natal de Lilmoth que par l'Empire dans son ensemble.
+
+## L'âge d'or : les Uriel
+
+**Pelagius III** (3E 145 - 3E 153), dit « Pelagius le Fou », est resté dans les mémoires comme le plus excentrique des empereurs Septim. Ses crises de démence publiques — se déshabillant devant la cour, conversant avec des murs — menèrent à sa régence par son épouse Katariah, puis à son internement.
+
+**Katariah** (3E 153 - 3E 200), Dunmer de naissance et épouse de Pelagius III, gouverna comme régente puis comme impératrice à part entière pendant près d'un demi-siècle. Son règne fut paradoxalement l'un des plus prospères et des plus stables de toute la dynastie, bien que certains puristes contestèrent la légitimité d'une non-humaine sur le trône de Tiber.
+
+**Cassynder** (3E 200 - 3E 202) et **Uriel IV** (3E 202 - 3E 246), descendants de Katariah, gouvernèrent avec compétence mais sans éclat, le second luttant constamment contre un Conseil des Anciens qui contestait son autorité.
+
+**Cephorus II** (3E 246 - 3E 268) hérita d'un empire de nouveau menacé par des conflits régionaux et consacra son règne à la répression du **Camoran Usurpateur**, un seigneur de guerre bosmer qui ravagea l'ouest de Tamriel pendant deux décennies.
+
+## Les derniers Septim
+
+**Uriel V** (3E 268 - 3E 290) fut le grand conquérant de la dynastie tardive. Son invasion audacieuse du continent d'**Akavir** en 3E 288 témoigne d'une ambition sans borne — mais aussi d'une témérité fatale. Il mourut lors de la désastreuse retraite de la Bataille d'Ionith, laissant un fils en bas âge.
+
+**Uriel VI** (3E 290 - 3E 320) grandit sous la régence de sa mère et du Conseil des Anciens, ne reprenant véritablement le pouvoir qu'à l'âge de vingt-deux ans. Il mourut dans un accident de cheval suspect.
+
+**Morihatha** (3E 320 - 3E 339) gouverna avec une efficacité remarquable avant d'être assassinée par un courtisan mécontent.
+
+**Pelagius IV** (3E 339 - 3E 368) présida un empire de plus en plus fragmenté, où les provinces périphériques échappaient progressivement au contrôle central.
+
+## Uriel VII et la fin (3E 368 - 3E 433)
+
+**Uriel VII** régna pendant soixante-cinq ans — le plus long règne de la dynastie après Tiber lui-même. Les dix premières années furent usurpées par le battlemage impérial **Jagar Tharn**, qui emprisonna l'empereur dans Oblivion et prit sa place grâce à la magie d'illusion. Cette période, connue comme le **Simulacrum Impérial**, ne prit fin que grâce à l'intervention d'un héros anonyme.
+
+Le règne effectif d'Uriel VII fut marqué par une succession de crises majeures : le Distorsion de l'Ouest (le Dragon Break de 3E 417), la résurgence de Dagoth Ur à Morrowind et enfin la **Crise d'Oblivion** en 3E 433.
+
+Uriel VII fut assassiné par des agents de l'Aube Mythique le 27 Soirétoile 3E 433, après que ses trois fils légitimes eurent été éliminés. Avant de mourir, il confia l'Amulette des Rois à un prisonnier inconnu — le futur Héros de Kvatch.
+
+## Martin Septim : le dernier
+
+**Martin Septim**, fils illégitime d'Uriel VII, était un prêtre d'Akatosh ignorant de sa lignée lorsque la Crise d'Oblivion éclata. Humble, érudit et courageux, il accepta le fardeau de son héritage pour sauver Tamriel. Lors de la Bataille finale de la Cité Impériale, Martin brisa l'Amulette des Rois et se transforma en **avatar d'Akatosh** pour vaincre Mehrunes Dagon, se sacrifiant dans le processus.
+
+Avec Martin moururent la Dynastie Septim et la Troisième Ère. Le Trône du Dragon resta vacant, les Feux du Dragon s'éteignirent, et Tamriel entra dans l'incertitude de la Quatrième Ère — une ère sans Dragonborn sur le trône, sans pacte entre les mortels et les Divins, sans la protection qui avait maintenu les plans d'Oblivion à distance pendant quatre siècles.
+
+L'héritage des Septim demeure immense : un continent unifié, une culture commune, un réseau d'institutions qui survécut à leur disparition. Mais leur absence laissa un vide que ni les Mede ni aucune autre dynastie ne parvint véritablement à combler.

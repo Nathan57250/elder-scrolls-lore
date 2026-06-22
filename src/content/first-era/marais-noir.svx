@@ -1,0 +1,60 @@
+---
+title: "Le Marais Noir : Argonie"
+slug: "marais-noir"
+era: "first-era"
+category: "lieux"
+tags: ["marais-noir", "argoniens", "hist", "an-xileel", "maladies", "argonie", "saxhleel"]
+timelineYear: 1000
+summary: "Le Marais Noir est une province marecageuse et mortelle ou les Argoniens vivent en symbiose avec les arbres Hist, proteges par un environnement si hostile qu'aucune armee etrangere n'a jamais conquis son interieur."
+sources: ["The Argonian Account", "Pocket Guide to the Empire, 3rd Edition", "Murky Time: A Treatise on Argonian Historics", "The Infernal City"]
+---
+
+![Carte de Tamriel](/images/common/tamriel-map.jpg)
+
+## Le Marais Noir : La Province Impenetrable
+
+Le Marais Noir — egalement appele Argonie ou Black Marsh — est la province la plus inhospitaliere de Tamriel pour toute creature non-native. Situee au sud-est du continent, cette vaste etendue de marecages, de jungles putrides et d'eaux stagnantes est un cauchemar vivant pour les etrangers : maladies mortelles, predateurs invisibles, terrains mouvants et une flore venimeuse s'y combinent pour creer un environnement qui semble activement rejeter toute presence non-argonienne.
+
+## Les Argoniens : Le Peuple des Racines
+
+Les Argoniens, ou Saxhleel dans leur propre langue, sont les habitants reptiliens du Marais Noir. Contrairement aux autres races de Tamriel, les Argoniens ne descendent pas des Ehlnofey ni d'aucun ancetre commun aux autres peuples. Leur origine est liee aux Hist, les arbres sentients qui precedent toute civilisation connue sur Nirn.
+
+Physiquement, les Argoniens sont des etres reptiliens bipedes dotes d'ecailles, de queues et de la capacite remarquable de respirer sous l'eau indefiniment. Leur biologie est radicalement differente de celle des autres races : ils sont a sang froid, possedent une resistance naturelle aux poisons et aux maladies, et peuvent regenerer des membres perdus — bien que lentement.
+
+Un aspect fascinant de la biologie argonienne est sa fluidite. Les Argoniens peuvent changer de sexe au cours de leur vie en lechant la seve de l'Hist lors de ceremonies specifiques. Le genre n'est pas fixe pour eux mais un etat transitoire, une notion que les autres races peinent generalement a comprendre.
+
+## Les Arbres Hist
+
+Les Hist sont bien plus que de simples arbres. Ces organismes colossaux constituent une intelligence collective qui existait sur Nirn avant meme l'arrivee des Aedra et des Daedra. Ils sont peut-etre les etres les plus anciens de toute la creation, des survivants d'un kalpa precedent — un cycle de creation anterieur au notre.
+
+Chaque Hist est connecte aux autres par un reseau racinaire souterrain qui s'etend sous tout le Marais Noir. Ce reseau forme une conscience partagee, un esprit collectif d'une antiquite et d'une puissance incalculables. Les Hist communiquent entre eux instantanement, partagent leurs souvenirs sur des millions d'annees et observent le monde a travers un prisme temporel incomprehensible aux mortels.
+
+La seve de l'Hist est sacree pour les Argoniens. Des la naissance, les jeunes Argoniens boivent cette seve, qui determine leur forme physique, leurs capacites et meme leur personnalite. Sans la seve de l'Hist, un Argonien reste un simple lezard denue de conscience. C'est l'Hist qui fait des Argoniens un peuple pensant.
+
+## L'An-Xileel : Les Liberateurs
+
+L'An-Xileel est l'organisation politique qui gouverne le Marais Noir depuis la fin de la Troisieme Ere. Ce mouvement nationaliste argonien prit le pouvoir apres la Crise d'Oblivion, durant laquelle les Argoniens accomplirent un exploit sans precedent : ils envahirent Oblivion.
+
+Lorsque les portails d'Oblivion s'ouvrirent sur le Marais Noir, les Hist percurent la menace et rappelerent tous les Argoniens vers les marais. Galvanises par la seve de l'Hist, les guerriers argoniens se ruerent dans les portails et attaquerent les forces daedriques avec une telle ferocite que Mehrunes Dagon fut contraint de fermer ses propres portails pour proteger ses royaumes. Le Marais Noir est la seule province ou les envahisseurs daedriques furent eux-memes envahis.
+
+Forts de cette victoire, l'An-Xileel declara l'independance du Marais Noir vis-a-vis de l'Empire et lanca meme une invasion du sud de Morrowind, deja devastee par l'eruption du Mont Ecarlate. Cette vengeance contre des siecles d'esclavage dunmer fut brutale et systematique.
+
+## Maladies et Dangers
+
+Le Marais Noir est un charnier bacteriologique. Les maladies endemiques de la province — Fievre Noire, Peste Knahaten, Pourriture de Helstrom — ont tue plus d'envahisseurs que toutes les armees argoniennes combinees. La Peste Knahaten a elle seule extermina des populations entieres dans les provinces voisines au cours de la Deuxieme Ere.
+
+Les Argoniens sont naturellement immunises contre la plupart de ces fleaux, ce qui constitue une defense passive redoutable. Les expeditions imperiales dans l'interieur du Marais Noir se sont invariablement soldees par des catastrophes sanitaires, les soldats succombant aux fievres avant meme d'avoir rencontre l'ennemi.
+
+Au-dela des maladies, le Marais abrite une faune terrifiante : wamasus (dragons des marais), hackwings (reptiles volants), voriplasmes (masses gelatineuses corrosives) et d'innombrables especes de serpents, d'insectes et de parasites dont la seule fonction semble etre de tuer les intrus.
+
+## L'Interieur Impenetrable
+
+Si les zones cotieres du Marais Noir ont ete partiellement colonisees par l'Empire — des cites comme Lilmoth, Soulrest et Gideon portent la marque imperiale — l'interieur profond de la province n'a jamais ete cartographie ni conquis par aucune puissance etrangere.
+
+L'interieur est un monde a part : un labyrinthe aquatique ou la terre ferme n'existe presque plus, ou les arbres Hist atteignent des proportions cataclysmiques et ou les cites argoniennes sont construites sur des plateformes de racines entrelacees flottant sur des eaux noires et insondables. Helstrom, la supposee capitale, n'a ete visitee par aucun non-Argonien et confirmee dans son existence.
+
+## Culture et Spiritualite
+
+La culture argonienne est profondement etrangere aux conceptions des autres races. Le temps n'est pas lineaire pour les Saxhleel — passe, present et futur coexistent dans la seve de l'Hist. La mort n'est pas une fin mais un retour a l'Hist, une reabsorption dans la conscience collective. Les noms argoniens changent au fil de la vie, refletant les transformations de l'individu.
+
+Cette perspective unique fait des Argoniens un peuple difficile a comprendre pour les etrangers, mais d'une resilience extraordinaire face a l'adversite.

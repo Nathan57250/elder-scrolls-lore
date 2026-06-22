@@ -1,0 +1,49 @@
+---
+title: "L'Ère de l'Aube"
+slug: "ere-de-laube"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["aurbis", "anu", "padomay", "convention", "lorkhan", "mundus", "et-ada"]
+summary: "La période avant le temps mortel — création de l'Aurbis, naissance des Et'Ada, et la Convention qui donna naissance à Mundus."
+timelineYear: 0
+sources: ["UESP: Dawn Era", "The Imperial Library: Before the Ages of Man"]
+---
+
+## La Naissance de l'Aurbis
+
+Avant le début des temps, il n'existait que le **Vide**. De ce néant émergèrent deux forces primordiales : **Anu**, l'incarnation de la stase et de l'ordre, et **Padomay** (aussi appelé Sithis), l'incarnation du changement et du chaos. Leur interaction créa le **Nir** — la possibilité de l'existence elle-même.
+
+De l'interplay entre Anu et Padomay naquit l'**Aurbis** — la totalité de l'existence, englobant ce qui deviendrait Aetherius, Oblivion, et Mundus.
+
+## Les Et'Ada : Esprits Originels
+
+Les premières entités conscientes à émerger furent les **Et'Ada** ("esprits originels" en aldmeris). Ces êtres de pouvoir immense se divisèrent en deux groupes selon leur nature :
+
+- Les **Aedriques** — ceux qui suivirent le principe d'Anu, favorisant l'ordre et la création
+- Les **Daedriques** — ceux qui suivirent le principe de Padomay, favorisant le changement et l'individualité
+
+Parmi les plus puissants de ces esprits se trouvaient **Akatosh** (le Dragon du Temps), **Magnus** (le Dieu de la Magie), et **Lorkhan** (le Trickster).
+
+## Le Plan de Lorkhan
+
+**Lorkhan**, l'esprit le plus ambigu et controversé, conçut un plan audacieux : créer un plan mortel, un lieu où les esprits pourraient expérimenter la finitude et, à travers elle, transcender leur nature divine.
+
+Il convainquit Magnus de concevoir le plan architectural de ce monde, et persuada de nombreux Et'Ada de contribuer leur essence à sa création. Ainsi naquit **Mundus** — le Plan Mortel.
+
+## La Convention
+
+Cependant, la création de Mundus eut un coût terrible. Les Et'Ada qui y contribuèrent perdirent une grande partie de leur pouvoir divin. Furieux de cette tromperie, ils se rassemblèrent sur la **Tour Adamantine** (Direnni Tower) pour juger Lorkhan.
+
+Lors de cette assemblée appelée la **Convention** :
+- **Magnus** et les Magna-Ge fuirent Mundus en déchirant le tissu de l'Aurbis, créant les étoiles et le soleil (passages vers Aetherius)
+- Les Et'Ada piégés dans Mundus devinrent les **Aedra** (les Divins), liés au monde qu'ils avaient créé
+- **Lorkhan** fut jugé et son cœur arraché par Trinimac sur ordre d'Auriel
+- Le cœur fut lancé à travers Tamriel, créant le **Mont Écarlate** de Morrowind là où il tomba
+
+## Héritage Métaphysique
+
+La Convention établit les fondements de la réalité telle que les mortels la connaissent :
+- **Le Temps** commença à s'écouler linéairement (grâce à Akatosh)
+- Les **Tours** devinrent les piliers métaphysiques maintenant la stabilité de Mundus
+- Le cycle de la vie et de la mort fut instauré pour les âmes mortelles
+- L'Aurbis se structura en trois plans : **Aetherius** (le ciel magique), **Oblivion** (les royaumes daédriques), et **Mundus** (le plan mortel au centre)

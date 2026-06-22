@@ -1,0 +1,58 @@
+---
+title: "La destruction de Kvatch"
+slug: "kvatch"
+era: "third-era"
+category: "evenements"
+tags: ["kvatch", "oblivion", "porte-oblivion", "mehrunes-dagon", "martin", "crise"]
+timelineYear: 433
+summary: "La destruction de Kvatch par une porte d'Oblivion fut la première manifestation majeure de la Crise d'Oblivion et le lieu où Martin Septim fut découvert."
+sources: ["Oblivion Main Quest", "The Oblivion Crisis", "Kvatch Rebuilt"]
+---
+
+## La perle du Colovien
+
+**Kvatch** était l'une des grandes cités de **Cyrodiil** occidental, perchée sur une colline des hautes terres coloviennes qui dominait la vallée de la Rivière d'Or. Ville prospère et fière, elle était réputée pour sa grande arène, sa chapelle d'**Akatosh** et ses vignobles qui produisaient certains des meilleurs vins de la province. Le **Comte Goldwine** gouvernait depuis le château qui couronnait la colline, et la ville comptait plusieurs milliers d'habitants vivant dans une relative aisance.
+
+La position géographique de Kvatch, sur une élévation naturelle entourée de murailles solides, en faisait une cité facile à défendre par des moyens conventionnels. Ses murailles avaient repoussé des armées par le passé, et ses habitants se sentaient en sécurité derrière leurs fortifications ancestrales. Mais rien dans l'expérience militaire de Tamriel ne les avait préparés à ce qui allait survenir.
+
+La vie à Kvatch suivait un rythme paisible en cette fin de Troisième Ère. Les marchands commerçaient sur la grande place, les prêtres officiaient à la chapelle, et les combattants s'entraînaient à l'arène. Personne ne se doutait que leur ville était sur le point de devenir le symbole de la plus grande catastrophe de l'ère moderne.
+
+## L'ouverture de la Porte
+
+Dans la nuit du 27 au 28 Soirétoile 3E 433, quelques heures après l'assassinat de l'empereur **Uriel Septim VII** à la Cité Impériale, une **Porte d'Oblivion** massive s'ouvrit devant les murailles de Kvatch. Cette porte, un portail dimensionnel reliant **Nirn** au plan de **Mehrunes Dagon**, était d'une taille sans précédent : une arche de feu et de ténèbres haute comme une tour, crachant une lumière rouge sang dans le ciel nocturne.
+
+L'ouverture de la Porte fut instantanée et sans avertissement. Un instant, la plaine devant Kvatch était paisible ; l'instant suivant, un trou dans la réalité déversait les armées de l'Enfer sur le monde mortel. Des **Dremora**, des **Clannfears**, des **Scamps** et des créatures bien pires s'engouffrèrent par milliers dans la brèche, leurs cris de guerre résonnant dans la nuit comme les trompettes de l'apocalypse.
+
+Les gardes de la cité furent pris complètement au dépourvu. Les sentinelles sur les murailles virent la Porte s'ouvrir et donnèrent l'alarme, mais il n'existait aucune procédure pour faire face à une invasion daedrique. En quelques minutes, les premières vagues d'assaillants atteignirent les murs, et la bataille pour Kvatch commença dans la confusion et la terreur la plus absolue.
+
+## La bataille et la chute
+
+La défense de Kvatch fut héroïque mais désespérée. Les gardes de la ville, rejoints par des citoyens armés à la hâte, tinrent les murailles aussi longtemps que possible. Mais les Dremora n'étaient pas des soldats ordinaires : c'étaient des êtres immortels, des guerriers millénaires pour qui la mort n'était qu'un inconvénient temporaire. Chaque défenseur tué était une perte irremplaçable ; chaque Dremora détruit renaissait dans les fournaises d'Oblivion et revenait au combat.
+
+Les murailles de Kvatch, conçues pour résister aux béliers et aux échelles, ne pouvaient rien contre la magie destructrice des Dremora. Des boules de feu daedrique frappaient les fortifications avec une précision dévastatrice, faisant s'effondrer des sections entières de remparts. Des créatures volantes survolaient les défenses pour attaquer la ville de l'intérieur, semant la panique parmi les civils qui tentaient de fuir.
+
+La chute de la ville fut rapide et totale. En quelques heures, Kvatch passa d'une cité prospère à un charnier en flammes. Les bâtiments brûlaient, les rues étaient jonchées de cadavres, et les survivants fuyaient vers la campagne ou se terraient dans les caves en attendant une mort qui semblait inévitable. Le château du Comte tomba en dernier, ses défenseurs combattant jusqu'au dernier homme.
+
+## Les survivants et le camp de réfugiés
+
+Une fraction de la population parvint à s'échapper avant que l'encerclement ne soit complet. Ces survivants, traumatisés et souvent blessés, se regroupèrent dans un camp de fortune au pied de la colline, sous la protection précaire de quelques gardes rescapés menés par **Savlian Matius**, capitaine de la garde de Kvatch.
+
+Le camp de réfugiés était un lieu de désespoir et de terreur. Les survivants étaient hantés par ce qu'ils avaient vu et perdu. Des familles avaient été séparées, des enfants orphelins pleuraient leurs parents, et les blessés mourraient faute de soins suffisants. La chapelle de campagne, tenue par quelques prêtres survivants, était le seul point de lumière dans cet océan de souffrance.
+
+Parmi ces survivants se trouvait un prêtre d'Akatosh nommé **Martin**, un homme apparemment ordinaire que personne ne soupçonnait d'être le fils illégitime de l'empereur assassiné. Martin avait aidé à évacuer des civils pendant l'attaque, risquant sa vie pour sauver d'autres. Son courage et son altruisme lors de cette nuit terrible étaient les premiers signes de la grandeur qui se révélerait bientôt.
+
+## La reconquête
+
+L'arrivée du **Champion de Cyrodiil** au camp de réfugiés marqua le tournant de la situation. Porteur de la mission confiée par l'empereur mourant, le Champion apprit que Martin se trouvait toujours quelque part dans la ville dévastée. Pour le retrouver, il fallait d'abord fermer la Porte d'Oblivion qui continuait de déverser des renforts daedriques sur Kvatch.
+
+La fermeture de la Porte de Kvatch fut le premier exploit du Champion dans la Crise d'Oblivion, et l'un des plus remarquables. Pénétrer dans une dimension daedrique, survivre à ses horreurs, trouver et détruire la **Pierre de Sigil** qui maintenait le portail ouvert, tout cela relevait de l'exploit surhumain. Pourtant, le Champion y parvint, fermant la Porte et coupant le flux de renforts daedriques.
+
+La reconquête de la ville elle-même suivit, menée par Savlian Matius et les gardes survivants, soutenus par le Champion. Quartier par quartier, les forces daedriques résiduelles furent éliminées. La chapelle, où les derniers civils s'étaient barricadés, fut libérée. Martin fut retrouvé vivant parmi les réfugiés de la chapelle, et le Champion put enfin lui révéler sa véritable identité.
+
+## Les conséquences et la mémoire
+
+Kvatch ne se remit jamais complètement de sa destruction. Bien que des efforts de reconstruction furent entrepris dans les années suivantes, la ville ne retrouva jamais sa population ni sa prospérité d'antan. Les ruines calcinées et les murailles effondrées restèrent pendant longtemps un témoignage silencieux de la violence de la Crise d'Oblivion.
+
+La destruction de Kvatch servit d'avertissement pour tout Tamriel. Si une cité fortifiée et prospère pouvait être anéantie en quelques heures, aucun lieu n'était à l'abri. La nouvelle se répandit comme une traînée de poudre à travers les provinces, semant la panique et forçant les autorités à prendre la menace daedrique au sérieux. Des milices furent levées, des fortifications renforcées, et les Guildes des Mages furent mobilisées pour étudier les moyens de fermer les Portes.
+
+Dans la mémoire collective, Kvatch devint le symbole de la vulnérabilité du monde mortel face aux forces d'Oblivion. Son nom est invoqué chaque fois que les dangers des Daedra sont discutés, un rappel que la barrière entre les mondes est plus fragile qu'on ne le croit, et que la destruction peut frapper n'importe où, n'importe quand, sans avertissement ni pitié.

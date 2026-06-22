@@ -1,0 +1,113 @@
+---
+title: "Les Altmer — Hauts-Elfes"
+slug: "altmer"
+era: "dawn-era"
+category: "races"
+tags: ["altmer", "hauts-elfes", "alinor", "thalmor", "iles-de-automne", "magie", "superiority"]
+timelineYear: 0
+summary: "Les Altmer (Hauts-Elfes) sont les descendants les plus purs des Aldmer originaux, habitant l'Archipel de l'Automne. Maîtres de la magie, ils considèrent les autres races comme inférieures et cherchent à restaurer leur nature divine."
+sources: ["UESP: Altmer", "Pocket Guide to the Empire", "Rising Threat"]
+---
+
+## Présentation
+
+Les **Altmer** ("Peuple Élevé") sont les Elfes les plus proches génétiquement des **Aldmer** originaux — les premiers elfes nés des Ehlnofey. Ils habitent l'**Archipel de l'Automne** (Summerset Isles) et se considèrent comme la race la plus ancienne, la plus pure et la plus proche du divin.
+
+## La Pureté du Sang
+
+### L'Obsession Généalogique
+Les Altmer maintiennent une obsession pour la **pureté raciale** :
+- Généalogies tracées sur des millénaires
+- Les mariages inter-raciaux sont un tabou absolu
+- Les enfants "imparfaits" étaient historiquement... éliminés (selon certaines sources)
+- L'objectif : maintenir le lien avec les et-Ada (esprits originels)
+- Ils croient que chaque génération "dilue" leur divinité originelle
+
+### La Logique Théologique
+Pour les Altmer, la mortalité est une **malédiction** :
+- Les et-Ada étaient immortels et divins
+- La création de Mundus les piégea dans la chair
+- Chaque naissance éloigne davantage de l'état originel
+- Le but ultime : retrouver l'immortalité divine
+
+## L'Archipel de l'Automne
+
+Les **Summerset Isles** (Alinor) sont leur patrie :
+- Deux îles principales (Summerset et Auridon)
+- Architecture de cristal et de corail — tours impossibles
+- Société rigide divisée en castes
+- Magie omniprésente dans la vie quotidienne
+- Longtemps fermées aux étrangers (jusqu'à 3E 100)
+
+### Villes Principales
+- **Alinor** — capitale, tours de cristal
+- **Cloudrest** — cité au sommet d'une montagne (Eton Nir)
+- **Shimmerene** — port principal
+- **Lillandril** — centre académique
+
+## Société
+
+### Hiérarchie
+La société Altmer est strictement hiérarchisée :
+- **Roi/Reine** — monarque
+- **Thalmor** — conseil dirigeant (devenu dominant en 4E)
+- **Kinlords/Kinladies** — noblesse
+- **Sages et Mages** — classe éduquée
+- **Artisans** — classe moyenne
+- **Serviteurs** — bas de l'échelle
+
+### Longévité
+Les Altmer vivent **plusieurs siècles** :
+- Durée de vie naturelle de 200-300 ans (voire plus)
+- Avec la magie, certains atteignent 1000+ ans
+- Cette longévité explique leur patience politique
+- Ils voient les races humaines comme des enfants éphémères
+
+## Magie
+
+Les Altmer sont les **plus grands mages** de Tamriel :
+- Résistance naturelle aux effets magiques
+- Affinité innée avec toutes les écoles de magie
+- Les premières écoles de magie furent Altmer
+- L'Ordre Psijique est d'origine Altmer
+- La Guilde des Mages fut fondée par un Altmer (Vanus Galerion)
+
+### Faiblesse Paradoxale
+- Leur forte connexion magique les rend **vulnérables** à la magie offensive
+- En termes de jeu : +25% de dommages magiques reçus (dans certains jeux)
+- Physiquement plus fragiles que les races guerrières
+
+## Le Thalmor
+
+En 4E, le **Thalmor** prit le contrôle de la société Altmer :
+- Idéologie suprémaciste elfique radicale
+- Objectif déclaré : restaurer la divinité des Mer
+- Objectif caché : "dé-créer" Mundus en supprimant les Towers
+- Fondation du **Domaine Aldmeri** (alliance Altmer + Bosmer + Khajiit)
+- Guerre contre l'Empire → Concordat de l'Or Blanc
+
+### Pas Tous les Altmer
+Important : tous les Altmer ne soutiennent pas le Thalmor :
+- De nombreux Altmer furent persécutés comme "dissidents"
+- Certains fuirent vers l'Empire
+- La société Altmer elle-même est divisée
+- Le Thalmor maintient le pouvoir par la peur autant que par l'idéologie
+
+## Relations
+
+| Race | Relation |
+|------|----------|
+| Bosmer | Alliés (sous le Domaine), vus comme des cousins primitifs |
+| Dunmer | Mépris mutuel (schisme Veloth) |
+| Humains | Considérés comme éphémères et inférieurs |
+| Orques | Non reconnus comme Mer (elfes) |
+| Khajiit | Alliés opportunistes |
+| Bretons | Le plus "acceptable" des humains (sang elfique) |
+
+## Personnages Altmer Notables
+
+- **Vanus Galerion** — fondateur de la Guilde des Mages
+- **Mannimarco** — le Roi des Vers (nécromancien)
+- **Elenwen** — ambassadrice Thalmor en Bordeciel
+- **Ancano** — agent Thalmor au Collège de Fortdhiver
+- **La Reine Ayrenn** (2E) — fondatrice du Premier Domaine Aldmeri

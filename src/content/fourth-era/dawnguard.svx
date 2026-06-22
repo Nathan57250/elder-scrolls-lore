@@ -1,0 +1,63 @@
+---
+title: "La Garde de l'Aube"
+slug: "dawnguard"
+era: "fourth-era"
+category: "guildes"
+tags: ["vampires", "volkihar", "auriel", "serana", "harkon", "chasseurs-de-vampires"]
+timelineYear: 201
+summary: "La Garde de l'Aube est un ordre de chasseurs de vampires reforme en 4E 201 pour contrer la menace du clan Volkihar et sa prophetie de nuit eternelle."
+sources: ["Dawnguard Manifesto", "Immortal Blood", "The Aetherium Wars"]
+---
+
+# La Garde de l'Aube
+
+## Origines Historiques
+
+La **Garde de l'Aube** (*Dawnguard*) fut originellement fondee durant la Deuxieme Ere par les Jarls de Bordeciel comme force specialisee dans l'eradication des vampires. Leur forteresse, le **Fort de la Garde de l'Aube**, fut construite dans un canyon recule du Fief de Faillaise pour servir de base operationnelle.
+
+Cependant, l'ordre connut une fin tragique lorsque son chef lui-meme fut corrompu par le vampirisme. La honte de cet echec mena a la dissolution de l'organisation et a l'abandon de leur forteresse pendant des siecles. Le Fort tomba dans l'oubli, recouvert par la vegetation et efface des memoires.
+
+## La Refondation en 4E 201
+
+Lorsque les attaques de vampires se multiplierent a travers Bordeciel en 4E 201, un homme du nom d'**Isran** prit l'initiative de refonder l'ordre. Ancien Vigile de Stendarr, Isran avait quitte les Vigiles qu'il jugeait trop mous face a la menace des morts-vivants. Il restaura le Fort de la Garde de l'Aube et commenca a recruter des combattants determines.
+
+Isran etait un homme dur, paranoidque mais competent. Il equipa ses recrues :
+- D'arbaletes, armes particulierement efficaces contre les vampires
+- De sorts de restauration offensifs
+- De pieges et de fortifications specialisees
+- D'un entrainement intensif au combat contre les morts-vivants
+
+## La Menace du Clan Volkihar
+
+La reformation de la Garde de l'Aube ne fut pas prematuree. Le **Clan Volkihar**, la plus ancienne et la plus puissante lignee vampirique de Bordeciel, s'eveillait d'une longue dormance. Bases dans un chateau ancestral sur une ile glacee au large de la cote nord, les Volkihar n'etaient pas des vampires ordinaires.
+
+Leur seigneur, **Harkon**, etait un ancien roi nordique qui avait obtenu le vampirisme pur directement de **Molag Bal** — le Prince Daedrique createur du vampirisme — en sacrifiant mille innocents dans un rituel d'une cruaute inimaginable. Harkon possedait la forme de **Seigneur Vampire** (*Vampire Lord*), une transformation monstrueuse conferant des pouvoirs immenses.
+
+## La Prophetie du Soleil Ensanglante
+
+La motivation d'Harkon depassait la simple predation. Le seigneur vampire avait decouverto une prophetie ancienne inscrite dans un **Parchemin des Anciens** : la **Prophetie du Soleil Ensanglante**. Selon cette prophetie, un rituel specifique permettrait d'**eteindre le soleil**, plongeant le monde dans une nuit eternelle.
+
+Pour les vampires, cela signifiait la liberation de leur plus grande faiblesse. Sans soleil, ils pourraient regner sans entrave, chassant les mortels comme du betail a toute heure. La prophetie necessitait trois elements :
+- Un **Parchemin des Anciens** specifique
+- L'**Arc d'Auriel** (*Auriel's Bow*), l'arme legendaire du Dieu-Dragon des Elfes
+- Le sang d'une **Fille de Havreglace** — une mortelle offerte a Molag Bal
+
+## Serana : la Fille de Havreglace
+
+Le personnage central de ce conflit fut **Serana**, la propre fille d'Harkon. Transformee en vampire par le rituel de Molag Bal des millenaires auparavant, elle avait ete scellee dans un sarcophage avec l'un des Parchemins des Anciens par sa mere **Valerica**, precisement pour empecher Harkon de completer la prophetie.
+
+Serana emergea de son sommeil desorientee dans un monde meconnaissable. Malgre sa nature vampirique, elle choisit de s'opposer aux plans de son pere, formant une alliance improbable avec le Sangdragon et la Garde de l'Aube. Son conflit interieur — entre la loyaute filiale et l'horreur des ambitions paternelles — definit le coeur emotionnel de cette crise.
+
+## L'Arc d'Auriel
+
+L'**Arc d'Auriel** est un artefact d'une puissance incommensurable, forge par les dieux eux-memes. Selon la mythologie elfique, Auriel l'utilisa pour abattre Lorkhan a l'Ere de l'Aube, lancant le coeur du dieu dechu a travers le ciel. L'arc possede un lien unique avec le soleil — Magnus, l'oeil du Mage qui s'enfuit d'Aetherius.
+
+Retrouve dans les ruines du **Temple Oublie** d'Auriel apres un periple a travers la **Vallee Oubliee** (*Forgotten Vale*) — un sanctuaire cache des Elfes des Neiges (*Falmer*) avant leur degenerescence — l'Arc devint la cle de tout le conflit.
+
+## Resolution et Heritage
+
+Le conflit se resolut dans les salles du Chateau Volkihar. Harkon, refusant de renoncer a sa prophetie, fut finalement detruit par l'Arc d'Auriel, l'arme meme qu'il cherchait a corrompre. Sa mort brisa la cohesion du Clan Volkihar, les survivants etant soit elimines soit disperses.
+
+La Garde de l'Aube, son objectif principal accompli, poursuivit son activite de vigilance contre les vampires a travers Bordeciel. Sous la direction inflexible d'Isran, l'ordre retrouva sa place comme rempart contre les tenebres — un role qu'il avait failli a remplir des siecles auparavant.
+
+L'Arc d'Auriel, quant a lui, resta entre les mains du Sangdragon — un rappel que les armes des dieux eux-memes marchent parfois parmi les mortels.

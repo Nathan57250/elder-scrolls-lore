@@ -1,0 +1,93 @@
+---
+title: "La Confrérie des Ténèbres — Mythic Dawn"
+slug: "mythic-dawn"
+era: "third-era"
+category: "religion"
+tags: ["mythic dawn", "mehrunes dagon", "oblivion", "culte", "mankar camoran", "assassinat"]
+timelineYear: 433
+summary: "L'Aurore Mythique (Mythic Dawn) est le culte de Mehrunes Dagon responsable de l'assassinat des Septim et de l'ouverture des portes d'Oblivion en 3E 433."
+sources: ["UESP: Mythic Dawn", "Commentaries on the Mysterium Xarxes", "Events of TES IV: Oblivion"]
+---
+
+## Présentation
+
+L'**Aurore Mythique** (Mythic Dawn) est un culte daedrique voué à **Mehrunes Dagon** — le Prince Daedrique de la Destruction, du Changement et de la Révolution. Ce qui distingue ce culte, c'est son succès : ils accomplirent ce qu'aucun autre culte n'avait réussi — **briser la Barrière de Liminal** et permettre une invasion à grande échelle de Mundus.
+
+## Le Fondateur : Mankar Camoran
+
+**Mankar Camoran** était un Altmer (ou Bosmer selon les sources) qui se proclamait héritier du roi Camoran de Val-Boisé. Érudit brillant et orateur charismatique :
+- Auteur des **Commentaires sur le Mysterium Xarxes** — quatre volumes de propagande
+- Possédait le **Mysterium Xarxes** — livre sacré de Mehrunes Dagon
+- Créa son propre **Paradis** (Paradise) — un plan d'Oblivion personnel
+- Considérait Dagon non comme un destructeur mais comme un **libérateur**
+
+### Sa Philosophie
+Camoran enseignait que :
+- Mundus est une **prison** créée par Lorkhan pour piéger les esprits
+- Mehrunes Dagon veut **détruire cette prison** pour libérer les âmes
+- L'Empire Septim est le gardien de cette prison (via les Dragonfires)
+- Détruire l'Empire = libérer l'humanité
+
+## Le Plan
+
+L'Aurore Mythique exécuta un plan de plusieurs décennies :
+
+### Phase 1 : Infiltration
+- Recrutement dans toutes les couches de la société
+- Cellules dormantes à travers Cyrodiil
+- Membres dans la garde impériale (accès aux égouts)
+- Espions au sein du palais
+
+### Phase 2 : L'Assassinat (3E 433)
+- Élimination des trois fils de l'Empereur Uriel Septim VII
+- Assassinat de l'Empereur lui-même dans les Égouts Impériaux
+- Vol de l'**Amulette des Rois**
+
+### Phase 3 : L'Invasion
+- Extinction des Feux de Dragon (plus d'Empereur légitime)
+- Effondrement de la Barrière de Liminal
+- Ouverture de **Portes d'Oblivion** à travers tout Tamriel
+- Invasion massive de Daedra (Dremora, Clannfear, Xivilai, Scamps)
+
+## Les Portes d'Oblivion
+
+Les **Oblivion Gates** étaient des portails entre les Deadlands de Dagon et Mundus :
+- Dizaines de portes ouvertes simultanément à travers Cyrodiil
+- Chaque porte déversait des armées daedriques
+- Les portes pouvaient être fermées en détruisant leur **Sigil Stone** (au sommet de tours à l'intérieur)
+- La fermeture était extrêmement dangereuse — nécessitait de traverser Oblivion
+
+## La Défaite
+
+Le culte fut défait par une combinaison de facteurs :
+1. Le **Héros de Kvatch** infiltra et détruisit le Paradis de Camoran
+2. Mankar Camoran fut tué, l'Amulette des Rois récupérée
+3. **Martin Septim** (dernier héritier) utilisa l'Amulette pour invoquer Akatosh
+4. L'Avatar d'Akatosh ferma toutes les portes et repoussa Dagon
+5. Le culte se dispersa, traqué par l'Empire
+
+## Conséquences
+
+L'Aurore Mythique réussit paradoxalement son objectif partiel :
+- L'Amulette des Rois est **détruite**
+- La dynastie Septim est **éteinte**
+- La Barrière de Liminal ne peut plus être restaurée
+- L'Empire est irrévocablement affaibli
+- Mais Mundus survit — Dagon échoua à le "libérer"
+
+## Héritage
+
+En 4E 201, des vestiges du culte existent :
+- Le **Musée de l'Aurore Mythique** à Aubétoile (Bordeciel) tenu par un fanatique
+- Des copies des Commentaires circulent encore
+- Le Mysterium Xarxes fut peut-être détruit — peut-être pas
+- L'événement traumatisa Tamriel durablement
+
+## Recrutement
+
+L'Aurore Mythique attirait ses membres par :
+- La **promesse de paradis** — Camoran offrait l'éternité dans son Paradise
+- La **rhétorique révolutionnaire** — "libérer" les mortels de la prison de Mundus
+- Le **charisme** de Camoran — orateur exceptionnel
+- Le **ressentiment** envers l'Empire — outil de recrutement efficace
+- Les **quatre tomes** des Commentaires servaient de filtre (seuls les plus dévoués déchiffraient le message caché)

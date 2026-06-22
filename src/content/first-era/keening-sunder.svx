@@ -1,0 +1,62 @@
+---
+title: "Keening, Sunder et Wraithguard"
+slug: "keening-sunder"
+era: "first-era"
+category: "artefacts"
+tags: ["keening", "sunder", "wraithguard", "kagrenac", "dwemer", "coeur-de-lorkhan", "outils", "morrowind"]
+timelineYear: 700
+summary: "Les trois outils de Kagrenac — Keening, Sunder et Wraithguard — créés pour manipuler le Coeur de Lorkhan et qui causèrent la disparition des Dwemer."
+sources: ["Kagrenac's Tools", "The Battle of Red Mountain", "Nerevar at Red Mountain", "Morrowind Main Quest"]
+---
+
+## Les outils du Grand Architecte
+
+**Keening**, **Sunder** et **Wraithguard** sont les trois artefacts créés par **Kagrenac**, le Grand Architecte et Tonaliste en chef des **Dwemer**, dans le but de manipuler le **Coeur de Lorkhan** — le coeur divin du dieu mort **Lorkhan**, enfoui sous la **Montagne Rouge** de Morrowind. Ces trois outils constituent ensemble le sommet de la science tonale dwemer et représentent les artefacts les plus dangereux jamais fabriqués par des mains mortelles.
+
+Leur création marqua un tournant dans l'histoire de Tamriel : leur utilisation provoqua la disparition instantanée de toute la race dwemer, et leur redécouverte ultérieure par le **Tribunal** permit à trois mortels de devenir des dieux vivants.
+
+## Kagrenac et la science tonale
+
+**Kagrenac** était le scientifique le plus brillant de la civilisation dwemer — un « Tonaliste » maîtrisant l'art de manipuler la matière et la réalité par la résonance et le son. La science tonale dwemer postulait que toute chose possède une fréquence fondamentale, et que manipuler cette fréquence permet de transformer la chose elle-même.
+
+Kagrenac découvrit que le Coeur de Lorkhan, enfoui sous la Montagne Rouge depuis la Convention, pouvait être « accordé » — que sa fréquence divine pouvait être exploitée pour conférer la divinité à l'ensemble du peuple dwemer. Pour ce faire, il conçut trois outils spécifiques, chacun remplissant une fonction précise dans le processus.
+
+## Sunder — Le Marteau
+
+**Sunder** est un marteau de forge enchanté conçu pour frapper le Coeur de Lorkhan et en extraire la substance divine. Chaque coup de Sunder sur le Coeur produit une résonance tonale qui libère une parcelle d'énergie divine — comme un mineur extractant du minerai d'un gisement, mais à l'échelle métaphysique.
+
+Le marteau est fait d'un alliage dwemer inconnu, enchâssé de cristaux qui canalisent et contiennent l'énergie libérée par l'impact. Sans la protection de Wraithguard, le simple fait de tenir Sunder suffit à désintégrer le porteur — l'énergie divine est si intense qu'elle consume instantanément la chair et l'âme de quiconque la touche sans protection adéquate.
+
+## Keening — La Lame
+
+**Keening** est une dague de cristal dont la lame vibre à une fréquence précise destinée à « modeler » l'énergie divine extraite par Sunder. Si Sunder est le marteau du forgeron, Keening est le ciseau qui donne forme au métal brut. La lame découpe et sculpte la substance divine, la préparant pour l'utilisation désirée.
+
+Le bourdonnement constant de Keening — audible même à travers son fourreau — témoigne de sa vibration tonale permanente. Cette vibration est si parfaitement calibrée qu'elle peut interagir avec les forces fondamentales de la Création. Comme Sunder, Keening est létale pour quiconque la manie sans Wraithguard.
+
+## Wraithguard — Le Gantelet
+
+**Wraithguard** est un gantelet enchanté servant de protection pour le porteur des deux autres outils. Son enchantement crée une barrière entre la chair mortelle et les énergies divines manipulées par Keening et Sunder, empêchant la désintégration du porteur. Sans Wraithguard, l'utilisation des deux autres outils est un suicide certain.
+
+Wraithguard est également l'outil le plus difficile à activer — il nécessite un processus d'**attunement** (harmonisation) spécifique à chaque porteur, adaptant l'enchantement protecteur à la signature spirituelle unique de l'utilisateur. Ce processus, dans le cas du **Nérévarine**, nécessita l'intervention de **Vivec** lui-même.
+
+## La disparition des Dwemer
+
+En 1E 700, lors de la **Bataille de la Montagne Rouge** qui opposa les Dwemer au alliance Chimer-Nordique, Kagrenac utilisa ses trois outils sur le Coeur de Lorkhan dans un acte de désespoir. Les détails exacts de ce qu'il fit — et de ce qu'il cherchait à accomplir — sont disputés, mais le résultat est indiscutable : l'intégralité du peuple **Dwemer** disparut instantanément de la surface de Nirn.
+
+Toutes les théories sur cette disparition convergent sur un point : les outils de Kagrenac furent l'instrument de cette catastrophe. Qu'il ait cherché à rendre les Dwemer divins, à créer un nouveau dieu (**Numidium**), ou simplement à fuir le monde mortel, les outils lui donnèrent le pouvoir de transformer le destin de sa race entière — pour le meilleur ou pour le pire.
+
+## Le Tribunal et les outils
+
+Après la disparition des Dwemer, les trois membres du futur **Tribunal** — **Vivec**, **Almalexia** et **Sotha Sil** — s'emparèrent des outils de Kagrenac. Malgré le serment fait au roi **Nerevar** de ne jamais les utiliser, ils les tournèrent vers le Coeur de Lorkhan et s'en servirent pour se conférer la divinité, devenant les dieux vivants de Morrowind.
+
+Cet acte — une trahison selon la plupart des sources — donna naissance au Tribunal divin qui régna sur les Dunmer pendant des millénaires. Mais cette divinité était dépendante de visites régulières au Coeur pour « recharger » leur pouvoir, faisant d'eux des dieux par emprunt plutôt que par nature.
+
+## Le Nérévarine et les outils
+
+En 3E 427, le **Nérévarine** — réincarnation prophétisée de Nerevar — utilisa à son tour les outils de Kagrenac pour détruire le Coeur de Lorkhan sous la Montagne Rouge, anéantissant **Dagoth Ur** et mettant fin simultanément à la menace du Sixième Fléau et au pouvoir divin du Tribunal. Cet acte accomplit la prophétie du Nérévarine et changea fondamentalement le destin de Morrowind.
+
+Après la destruction du Coeur, les outils perdirent leur raison d'être — sans Coeur à manipuler, leur fonction principale était devenue sans objet. Leur sort ultérieur est incertain : Keening fut retrouvée à Fortdhiver des siècles plus tard, mais Sunder et Wraithguard semblent avoir disparu.
+
+## Signification métaphysique
+
+Les outils de Kagrenac illustrent l'ambition suprême des Dwemer : manipuler les fondements mêmes de la Création. Là où d'autres peuples priaient les dieux, les Dwemer construisaient des outils pour les égaler. Cette audace — cette hybris — est à la fois leur plus grand accomplissement et la cause probable de leur fin. Les outils demeurent un avertissement : certains pouvoirs ne sont pas faits pour des mains mortelles, fussent-elles aussi habiles que celles de Kagrenac.

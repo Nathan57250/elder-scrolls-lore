@@ -1,0 +1,117 @@
+---
+title: "Les Dunmer — Elfes Noirs"
+slug: "dunmer"
+era: "dawn-era"
+category: "races"
+tags: ["dunmer", "elfes noirs", "morrowind", "azura", "maisons", "chimer", "cendres"]
+timelineYear: 0
+summary: "Les Dunmer (Elfes Noirs) sont les descendants des Chimer, maudits par Azura pour la trahison du Tribunal. Peuple fier et résilient de Morrowind, leur culture mêle ancêtres, Daedra et politique impitoyable."
+sources: ["UESP: Dunmer", "The Battle of Red Mountain", "Varieties of Faith: The Dark Elves"]
+---
+
+## Présentation
+
+Les **Dunmer** ("Peuple Sombre") — les Elfes Noirs — sont les habitants de **Morrowind**. Autrefois les **Chimer** ("Peuple Changé") à la peau dorée, ils furent transformés par la malédiction d'Azura : peau gris cendré et yeux rouges. Cette transformation extérieure masque une culture d'une profondeur et complexité sans égale.
+
+## De Chimer à Dunmer
+
+### Les Chimer
+Les Chimer furent créés quand le prophète **Veloth** mena un exode d'Aldmer dissidents :
+- Rejet des dieux Aldmer (Aedra) pour les Daedra
+- Migration vers Morrowind sous la guidance de Boéthia, Azura et Mephala
+- Peau dorée originelle, culture radicalement différente des Altmer
+- Fondation des Grandes Maisons et de la société de clan
+
+### La Malédiction (1E 700)
+Quand le Tribunal utilisa le Cœur de Lorkhan :
+- Azura maudit TOUS les Chimer — pas seulement les trois traîtres
+- Transformation physique instantanée et irréversible
+- Symbole permanent de la trahison
+
+## Les Grandes Maisons
+
+La société Dunmer est organisée en **Grandes Maisons** :
+
+| Maison | Spécialité | Caractère |
+|--------|-----------|-----------|
+| Redoran | Guerre, honneur | Guerriers disciplinés |
+| Telvanni | Magie | Mages excentriques et individualistes |
+| Hlaalu | Commerce, diplomatie | Politiciens opportunistes |
+| Indoril | Religion, tradition | Conservateurs théocratiques |
+| Dres | Agriculture, esclavage | Esclavagistes du sud |
+| Dagoth | (détruite) | Corrompue par le Cœur |
+| Sadras | (4E, remplace Hlaalu) | Administrateurs |
+
+## Religion
+
+### Les Trois Bons Daedra
+- **Boéthia** — Anticipation d'Almalexia (complots)
+- **Azura** — Anticipation de Sotha Sil (transitions)
+- **Mephala** — Anticipation de Vivec (secrets)
+
+### Les Quatre Coins de la Maison des Troubles
+- **Molag Bal** — domination
+- **Sheogorath** — folie
+- **Malacath** — trahison
+- **Mehrunes Dagon** — destruction
+
+### Le Tribunal (1E 700 - 3E 427)
+- Vivec, Almalexia, Sotha Sil — dieux-mortels
+- Vénérés comme le Tribunal pendant des millénaires
+- Chute après les événements de Morrowind (3E 427)
+- Le Nouveau Temple restaura le culte des Ancêtres et des Bons Daedra
+
+### Le Culte des Ancêtres
+La tradition la plus profonde des Dunmer :
+- Les ancêtres protègent leurs descendants
+- Les tombes ancestrales sont sacrées (profaner = peine de mort)
+- Communication avec les esprits via les chamanes
+- Les os des ancêtres sont des reliques
+
+## Culture et Société
+
+### L'Esclavage
+- L'esclavage était **légal** en Morrowind jusqu'à 3E 430+
+- Principalement des Argoniens et des Khajiit
+- Justifié culturellement (les "bêtes" sont inférieures)
+- Aboli sous pression impériale (source de ressentiment)
+- Raison principale de la haine Argoniens-Dunmer
+
+### L'Honneur et la Vengeance
+- Le code d'honneur Dunmer est complexe et violent
+- La **Morag Tong** (assassinat légal) règle les conflits entre Maisons
+- Les duels sont codifiés
+- La vengeance de sang peut durer des générations
+
+### La Magie
+- Les Dunmer sont naturellement doués en magie
+- Résistance au feu (50% — lien avec les cendres et la lave)
+- La Conjuration et la Destruction sont valorisées
+- Les Telvanni sont les plus grands mages de Morrowind
+
+## L'Année Rouge et l'Exil (4E 5)
+
+L'éruption de la **Montagne Rouge** (Red Mountain) dévasta Morrowind :
+- Vvardenfell rendue inhabitable
+- Des millions de morts
+- Réfugiés Dunmer à travers Tamriel
+- Invasion argonienne dans le chaos
+- La Maison Redoran devint dominante (seule à avoir maintenu une armée)
+- Les Dunmer de Bordeciel (Quartier Gris de Vendeaume) vivent dans la pauvreté
+
+## En Bordeciel (4E 201)
+
+Les Dunmer réfugiés sont un peuple **traumatisé** :
+- Parqués dans le Quartier Gris de Vendeaume
+- Victimes de racisme nordique
+- Nostalgie de Morrowind
+- Certains prospèrent (commerçants, mages)
+- Ressentiment envers les Nordiques ET l'Empire (qui ne les a pas protégés)
+
+## Traits Raciaux
+
+- Peau gris cendré, yeux rouges
+- Résistance au feu (naturelle)
+- Affinité avec la magie destructrice
+- Longévité elfique (200-300 ans)
+- "Ancestor's Wrath" — capacité d'enflammer leur peau (pouvoir racial)

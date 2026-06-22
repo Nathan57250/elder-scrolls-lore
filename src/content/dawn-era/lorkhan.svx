@@ -1,0 +1,123 @@
+---
+title: "Lorkhan, le Dieu Manquant"
+slug: "lorkhan"
+era: "dawn-era"
+category: "personnages"
+tags: ["Lorkhan", "Shor", "Shezarr", "Aedra", "Coeur de Lorkhan", "Shezarrines", "Mundus", "Trickster"]
+timelineYear: -9999
+summary: "Lorkhan, le dieu trompeur qui convainquit les Aedra de créer Mundus, fut châtié lors de la Convention mais son influence persiste à travers les Shezarrines et son Coeur immortel."
+sources: ["The Monomyth", "Sithis", "Shezarr and the Divines", "Five Songs of King Wulfharth", "Commentaires sur le Mysterium Xarxes", "The Song of Pelinal"]
+---
+
+## Lorkhan : l'Architecte de la Mortalité
+
+Lorkhan -- connu également sous les noms de **Shor**, **Shezarr**, **Lorkhaj**, **Sep** ou encore **le Dieu Manquant** -- est sans doute la divinité la plus controversée et la plus déterminante du panthéon de Tamriel. Ni tout à fait Aedra, ni véritablement Daedra, il occupe une position unique dans la cosmologie : celle du créateur-trompeur dont l'acte fondateur donna naissance au plan mortel tout en condamnant ses participants à la finitude.
+
+### Noms et Aspects à travers les Cultures
+
+| Culture | Nom | Perception |
+|---|---|---|
+| Impériale | Shezarr | Dieu absent, esprit de l'Humanité |
+| Nordique | Shor | Roi des dieux, héros guerrier |
+| Khajiit | Lorkhaj | Le Lune Mauvaise, trompeur lunaire |
+| Rédguard | Sep | Le serpent affamé |
+| Aldmer / Altmer | Lorkhan | Le Grand Ennemi |
+| Dunmer (ante-Tribunal) | Lorkhan | L'Adversaire nécessaire |
+| Bosmer | Lorkhan | Le Renard Rusé |
+
+## La Grande Tromperie
+
+### L'Idée de Mundus
+
+Au commencement, dans le Vide de l'Aurbis, les et-Ada -- les esprits originels nés du conflit entre Anu et Padomay -- existaient sans forme ni but défini. Lorkhan, décrit dans certains textes comme un enfant de Sithis (l'incarnation du chaos primordial), conçut une vision révolutionnaire : créer un plan d'existence où les esprits pourraient se connaître eux-mêmes à travers la limitation et la mortalité.
+
+Selon *Le Monomythe* :
+
+> *Lorkhan parcourut les royaumes de l'Aetherius, murmurant son Idée à l'oreille de chaque esprit. À certains il promit la gloire, à d'autres la sagesse, à tous il promit quelque chose de nouveau.*
+
+### La Persuasion des Aedra
+
+La méthode exacte par laquelle Lorkhan convainquit les autres esprits varie selon les traditions :
+
+- **Tradition nordique** : Shor inspira les dieux par sa bravoure et sa vision, les invitant à créer un lieu de défi et d'honneur
+- **Tradition elfique** : Lorkhan usa de mensonges et de demi-vérités, dissimulant le coût véritable de la Création
+- **Tradition rédguard** : Sep, rendu fou par la Faim, dévora les esprits pour les forcer à participer
+- **Tradition khajiit** : Lorkhaj fut corrompu par les Ténèbres du Grand Vide et transmit cette corruption aux autres
+
+### Le Coût de la Création
+
+Quand les Aedra réalisèrent l'ampleur du sacrifice exigé, il était trop tard. La création de Mundus avait :
+
+1. Drainé irréversiblement leur essence divine
+2. Les avait liés au plan mortel comme gardiens involontaires
+3. Transformé certains d'entre eux en éléments naturels (la terre de Y'ffre, par exemple)
+4. Rendu impossible un retour complet à leur état antérieur
+
+## La Mort de Lorkhan
+
+### Le Jugement de la Convention
+
+Rassemblés au sommet de la Tour Adamantine, les Aedra survivants jugèrent Lorkhan coupable de tromperie cosmique. Trinimac, le plus puissant champion des Aedra, fut désigné bourreau.
+
+### L'Arrachement du Coeur
+
+Trinimac plongea sa main dans la poitrine de Lorkhan et en arracha le Coeur -- un artefact d'une puissance incommensurable, concentrant l'essence même de la divinité de la Création. Le corps de Lorkhan, vidé de son noyau divin, se scinda pour former les deux lunes de Nirn : **Masser** et **Secunda**.
+
+### Le Coeur à travers l'Histoire
+
+Auri-El fixa le Coeur à une flèche et le tira dans la mer, où il s'enfonça dans la roche pour créer la Montagne Rouge. Le Coeur devint ensuite un catalyseur de nombreux événements majeurs :
+
+- Les **Dwemer** construisirent le Numidium en tentant d'exploiter sa puissance
+- Le **Tribunal** (Vivec, Almalexia, Sotha Sil) y puisa pour accéder à la divinité
+- **Dagoth Ur** l'utilisa pour alimenter son Fléau Divin
+- Le **Nérévarine** détruisit les enchantements qui le liaient, provoquant l'éruption de la Montagne Rouge
+
+## Les Shezarrines : Avatars du Dieu Mort
+
+### Le Concept
+
+Bien que mort, l'influence de Lorkhan persiste dans le monde mortel à travers des incarnations partielles nommées **Shezarrines** -- des individus portant un fragment de l'esprit de Shor/Shezarr. Ces avatars apparaissent généralement dans les moments critiques de l'histoire humaine, souvent pour défendre les races humaines contre les menaces elfiques ou démoniaques.
+
+### Shezarrines Connues ou Supposées
+
+Les érudits débattent de l'identité exacte des Shezarrines, mais plusieurs figures historiques sont fréquemment citées :
+
+- **Pelinal Whitestrake** -- le Chevalier Divin à moitié fou qui libéra Cyrodiil des Ayleids. Les textes le décrivent comme un être anachronique, couvert d'une armure impossible, sujet à des rages génocidaires et pleurant un amant dont le nom évoquait les étoiles.
+- **Wulfharth** (Ysmir) -- le Haut-Roi de Bordeciel qui mourut et ressuscita à de multiples reprises, chaque fois pour défendre les Nordiques contre leurs ennemis. Les *Cinq Chants du Roi Wulfharth* constituent le récit le plus détaillé d'une Shezarrine.
+- **Tiber Septim** (Talos) -- l'unificateur de Tamriel, dont l'ascension au statut de divinité pourrait représenter la réintégration de Lorkhan dans le panthéon divin.
+- **Le Dernier Enfant de Dragon** -- certains érudits spéculent sur cette possibilité.
+
+### Caractéristiques des Shezarrines
+
+Les Shezarrines partagent généralement certains traits :
+
+- Une affinité naturelle pour le Thu'um ou la magie vocale
+- Un destin inextricablement lié aux conflits entre Hommes et Mer
+- Une résistance remarquable à la mort définitive
+- Des épisodes de rage incontrôlable ou de folie divine
+- Un lien mystique avec le concept de *Royauté* et de souveraineté
+
+## Lorkhan dans la Métaphysique
+
+### L'Espace Manquant
+
+Dans la cosmologie de l'Aurbis, chaque Prince Daedrique possède un plan d'Oblivion. Chaque Aedra est incarné dans un corps céleste. Lorkhan, lui, est *absent* -- son espace est Mundus lui-même. Certains mystiques considèrent que Nirn n'est pas simplement la création de Lorkhan mais son *corps*, et que chaque mortel vivant à sa surface existe littéralement à l'intérieur du dieu mort.
+
+### CHIM et la Tour de Lorkhan
+
+Les enseignements ésotériques de Vivec (les *Trente-Six Leçons*) suggèrent que Lorkhan avait atteint l'état de **CHIM** -- la conscience de soi au sein du Rêve d'Anu -- et que la création de Mundus était un acte délibéré d'Amour. Dans cette interprétation, la "tromperie" n'en était pas une : Lorkhan sacrifia volontairement son existence divine pour offrir aux esprits la possibilité d'atteindre eux aussi cette illumination.
+
+### Sovngarde : le Hall de Shor
+
+Les Nordiques croient que Shor préside **Sovngarde**, le paradis des guerriers morts vaillamment. Si cette croyance est vraie, elle implique que Lorkhan n'est pas véritablement mort mais continue d'exister sous une forme réduite dans un au-delà réservé à ses fidèles -- un trône vide attendant le retour du roi.
+
+## Héritage et Influence Contemporaine
+
+L'ombre de Lorkhan plane sur chaque ère de l'histoire de Tamriel :
+
+- Le **culte de Talos** perpétue sa mémoire sous une forme acceptable pour l'Empire
+- Le **Dominion Aldmeri** cherche à effacer Talos du panthéon, ce qui pourrait affaiblir les ancres maintenant Mundus
+- Chaque tentative d'utiliser le **Numidium** réactive les questions non résolues de la Convention
+- Les **Langues** nordiques qui maîtrisent le Thu'um s'inscrivent dans la tradition de Shor
+
+Lorkhan demeure le paradoxe central de la théologie tamriélique : un dieu haï par ceux qu'il a créés elfes, vénéré par ceux qu'il a créés humains, et dont la mort même pourrait n'être qu'une ruse supplémentaire du plus grand trompeur que l'Aurbis ait jamais connu.

@@ -1,0 +1,112 @@
+---
+title: "Fondation de la Guilde des Voleurs"
+description: "L'histoire de la création de la Guilde des Voleurs durant la Deuxième Ère, ses principes fondateurs et son organisation clandestine"
+slug: guilde-des-voleurs-fondation
+category: "guildes"
+era: "second-era"
+timelineYear: 560
+keywords:
+  - guilde des voleurs
+  - deuxième ère
+  - grey fox
+  - renard gris
+  - Nicolas Closque
+  - code des voleurs
+  - ombre
+  - abah's landing
+---
+
+## La Fondation de la Guilde des Voleurs
+
+La Guilde des Voleurs est l'une des organisations criminelles les plus anciennes et les plus structurées de Tamriel. Contrairement aux bandes de brigands ordinaires, elle s'est toujours distinguée par un code d'honneur strict et une organisation quasi-corporative. Sa fondation durant la Deuxième Ère marque un tournant dans l'histoire de la criminalité organisée sur le continent.
+
+## Les Origines
+
+### Le Contexte de l'Interrègne
+
+La fondation de la Guilde des Voleurs s'inscrit dans le contexte chaotique de l'Interrègne. L'absence d'autorité impériale centralisée créa un vide juridique dont profitèrent de nombreux criminels. Cependant, cette même anarchie rendait le métier de voleur particulièrement dangereux : sans règles, les criminels se faisaient concurrence de manière violente et autodestructrice.
+
+### Les Précurseurs
+
+Avant la Guilde proprement dite, plusieurs organisations proto-criminelles existaient à travers Tamriel. Les Clochettes de Lenclume, les Faucheurs de Hauteroche et diverses confréries de pickpockets opéraient dans les grandes cités. Mais aucune ne possédait l'envergure ni la structure nécessaires pour constituer une véritable guilde transcontinentale.
+
+## La Fondation Proprement Dite
+
+### Abah's Landing
+
+L'un des berceaux les plus importants de la Guilde des Voleurs se situe à Abah's Landing, dans la région de Hew's Bane en Lenclume. Ce port franc, relativement à l'abri des autorités, servit de terrain d'essai pour les premiers principes organisationnels de la Guilde. Les voleurs locaux y développèrent un système sophistiqué de clôtures, d'informateurs et de planques qui servit de modèle pour l'organisation future.
+
+### Les Premiers Maîtres de Guilde
+
+La structure hiérarchique de la Guilde des Voleurs fut établie dès sa fondation. À sa tête se trouvait un Maître de Guilde dont l'identité était souvent secrète ou protégée par des artifices magiques. Les capitaines de quartier supervisaient les opérations dans chaque ville, tandis que les receleurs assuraient l'écoulement des marchandises volées.
+
+## Le Code des Voleurs
+
+### Les Principes Fondamentaux
+
+Le Code des Voleurs constitue la pierre angulaire de l'organisation. Ses règles principales sont :
+
+- Ne jamais voler un autre membre de la Guilde
+- Ne jamais tuer lors d'un cambriolage sauf en cas de légitime défense absolue
+- Ne jamais trahir la Guilde aux autorités
+- Respecter les contrats acceptés
+- Reverser une part des gains à la Guilde
+
+### La Philosophie du Vol
+
+La Guilde des Voleurs se distingue fondamentalement de la Confrérie Noire par sa philosophie. Là où les assassins embrassent la mort comme un art, les voleurs considèrent leur métier comme un acte de redistribution. Le vol est perçu non comme un acte de violence, mais comme une démonstration d'habileté et d'intelligence.
+
+### Les Sanctions
+
+Tout manquement au Code entraîne des sanctions sévères. Un voleur qui tue inutilement lors d'une mission peut être banni de la Guilde. Un traître s'expose à des représailles qui, sans aller jusqu'au meurtre systématique, peuvent inclure la ruine financière et l'exposition publique de ses crimes passés.
+
+## L'Organisation et la Structure
+
+### Les Quartiers Généraux
+
+Chaque chapitre de la Guilde possède un quartier général caché, généralement situé dans les égouts, les catacombes ou les souterrains des grandes cités. Ces repaires servent à la fois de lieu de réunion, d'entrepôt pour les biens volés et de refuge en cas de danger.
+
+### Le Réseau de Receleurs
+
+L'une des innovations majeures de la Guilde fut la création d'un réseau organisé de receleurs. Ces marchands apparemment légitimes achètent les biens volés et les revendent par des canaux détournés. Ce système permet aux voleurs d'écouler rapidement leur butin sans s'exposer au danger de la revente directe.
+
+### Les Spécialisations
+
+La Guilde reconnaît plusieurs spécialisations parmi ses membres :
+
+- Les cambrioleurs, spécialistes de l'effraction
+- Les pickpockets, experts du vol à la tire
+- Les monte-en-l'air, acrobates volant par les toits
+- Les escrocs, maîtres de la manipulation
+- Les infiltrateurs, capables de s'introduire dans les organisations ennemies
+- Les éclaireurs, qui repèrent les cibles et planifient les opérations
+
+## Les Relations avec les Autres Factions
+
+### La Confrérie Noire
+
+Les relations entre la Guilde des Voleurs et la Confrérie Noire ont toujours été complexes. Si les deux organisations opèrent dans l'illégalité, leurs philosophies sont diamétralement opposées. La Guilde interdit le meurtre gratuit tandis que la Confrérie en fait son commerce. Un respect mutuel teinté de méfiance caractérise leurs interactions.
+
+### Les Autorités
+
+La Guilde entretient souvent des relations ambiguës avec les autorités locales. Dans certaines villes, des gardes corrompus ferment les yeux sur les activités de la Guilde en échange de pots-de-vin. Dans d'autres, la traque des voleurs est menée avec acharnement, forçant la Guilde à une clandestinité totale.
+
+### La Guilde des Marchands
+
+Les relations avec la Guilde des Marchands sont naturellement conflictuelles, les marchands étant les victimes les plus fréquentes des voleurs. Cependant, certains marchands peu scrupuleux collaborent avec la Guilde pour éliminer leurs concurrents ou récupérer des biens perdus.
+
+## L'Expansion à Travers Tamriel
+
+### Les Chapitres Provinciaux
+
+Au fil des décennies suivant sa fondation, la Guilde des Voleurs étendit son influence à toutes les provinces de Tamriel. Chaque chapitre provincial adapta les principes fondateurs aux réalités locales tout en maintenant l'allégeance au Code commun.
+
+### Le Renard Gris
+
+L'une des traditions les plus mystérieuses de la Guilde est celle du Renard Gris, un titre et un masque transmis de génération en génération au chef suprême de l'organisation. Le Capuchon Gris de Nocturne, un artefact daedrique, confère à son porteur l'anonymat total — le monde oublie littéralement l'identité de celui qui le porte.
+
+## L'Héritage de la Guilde
+
+La fondation de la Guilde des Voleurs durant la Deuxième Ère établit un modèle d'organisation criminelle qui perdura à travers les âges. Son influence sur la société tamrielique est immense : elle régule le crime, limite la violence gratuite et offre paradoxalement une forme de stabilité dans le monde souterrain. Sans elle, le banditisme serait bien plus chaotique et dangereux pour les populations civiles.
+
+La Guilde survécut à toutes les transitions politiques — de l'Interrègne à l'Empire des Septim, de la crise d'Oblivion à la montée du Dominium Aldmeri — prouvant que tant qu'il existera des richesses à redistribuer, les voleurs auront leur place dans le monde.

@@ -1,0 +1,58 @@
+---
+title: "Histoire des Lames"
+slug: "blades-history"
+era: "third-era"
+category: "guildes"
+tags: ["lames", "akavir", "dragonguard", "empereurs", "espions", "dissolution"]
+timelineYear: 200
+summary: "L'histoire complète des Lames, de leurs origines comme Garde-Dragon akaviri à leur rôle de protecteurs impériaux et leur dissolution au début de la Quatrième Ère."
+sources: ["The Rise and Fall of the Blades", "Erta's Report", "Atlas of Dragons", "Pocket Guide to the Empire"]
+---
+
+## Les origines akaviri
+
+Les **Lames** trouvent leurs origines dans la **Garde-Dragon** d'**Akavir**, un ordre de guerriers du continent oriental dont la mission première était la traque et l'élimination des dragons. Les **Tsaesci** d'Akavir étaient obsédés par les dragons, à tel point que selon la légende ils les auraient tous dévorés sur leur continent. La Garde-Dragon était l'élite de cette tradition de chasse draconique, des guerriers d'une compétence martiale exceptionnelle armés de katanas finement ouvragés.
+
+Lorsque les Tsaesci envahirent **Tamriel** en 1E 2703, menés par leur Potentat, ils cherchaient les dragons qui avaient fui Akavir. Leur invasion fut repoussée par l'empereur **Reman Cyrodiil**, mais la rencontre entre les envahisseurs et l'empereur changea le cours des deux civilisations. Les Tsaesci, reconnaissant en Reman un **Dovahkiin** un Enfant de Dragon s'agenouillèrent devant lui et jurèrent de le servir.
+
+Cette soumission volontaire transforma la Garde-Dragon en un ordre au service de la dynastie impériale. Les guerriers Tsaesci devinrent les gardes du corps, les espions et les conseillers les plus fidèles des empereurs Reman. Leur loyauté n'allait pas à l'Empire en tant qu'institution mais au sang du dragon qui coulait dans les veines de Reman et de ses descendants. Cette distinction subtile mais cruciale allait définir l'identité des Lames pour des millénaires.
+
+## La transformation en Lames
+
+Au fil des siècles, l'ordre s'ouvrit aux recrues non-Tsaesci et évolua en ce que nous connaissons sous le nom de **Lames**. L'identité akaviri s'estompa progressivement, remplacée par une culture propre qui mélangeait traditions orientales et occidentales. Les katanas restèrent l'arme emblématique, et certains rituels Tsaesci furent maintenus, mais l'ordre devint fondamentalement tamriélien.
+
+Sous la dynastie des **Septim**, les Lames atteignirent l'apogée de leur puissance et de leur influence. **Tiber Septim** lui-même était un Dovahkiin, et sa relation avec les Lames reproduisait celle de Reman avec la Garde-Dragon originelle. L'ordre servait l'empereur comme garde personnelle, service de renseignement et force d'intervention spéciale, une combinaison de rôles qui en faisait l'organisation la plus polyvalente et la plus redoutée de l'Empire.
+
+Le quartier général des Lames, le **Temple de l'Ancêtre des Nuées** dans les montagnes de Cyrodiil, abritait les archives les plus complètes de l'Empire sur les dragons, les Dovahkiin et les menaces surnaturelles. Le **Mur d'Alduin**, une prophétie sculptée dans la pierre par les anciens Akaviri, y était conservé, attendant le jour où sa signification deviendrait cruciale pour la survie du monde.
+
+## Le rôle sous les Septim
+
+Durant la Troisième Ère, les Lames fonctionnaient principalement comme un service de renseignement au service direct de l'empereur. Leurs agents, les **Spectrins**, opéraient sous couverture dans toutes les provinces de l'Empire, collectant des informations, neutralisant des menaces et exécutant les volontés impériales loin des regards officiels. Leur existence était un secret de polichinelle : tout le monde savait qu'ils existaient, mais personne ne pouvait prouver qui ils étaient.
+
+Le Grand Maître des Lames servait de conseiller personnel à l'empereur pour les questions de sécurité. **Jauffre**, le dernier Grand Maître de la Troisième Ère, résidait au **Prieuré de Weynon**, un monastère qui servait de couverture à l'une des bases les plus importantes de l'ordre. C'est à Jauffre que le Champion de Cyrodiil apporta l'Amulette des Rois après l'assassinat d'Uriel Septim VII.
+
+Les Lames maintenaient également une veille sur les activités daedriques, nécromantiques et autres menaces surnaturelles. Leurs archives contenaient des siècles d'informations sur les cultes dangereux, les artefacts puissants et les prophéties en attente de réalisation. Cette base de connaissances faisait des Lames l'institution la mieux informée de l'Empire sur les dangers occultes.
+
+## La Crise d'Oblivion et la chute des Septim
+
+La **Crise d'Oblivion** de 3E 433 mit les Lames à l'épreuve comme jamais auparavant. L'assassinat de l'empereur et la destruction du Prieuré de Weynon par l'**Aube Mythique** portèrent des coups sévères à l'organisation. Mais les Lames se rassemblèrent au **Temple de l'Ancêtre des Nuées** et jouèrent un rôle crucial dans la protection de **Martin Septim** et la résolution de la crise.
+
+Les Lames combattirent aux côtés du Champion de Cyrodiil à travers toute la crise, fermant des Portes d'Oblivion, défendant Bruma contre un assaut daedrique massif, et escortant Martin jusqu'à la Cité Impériale pour l'affrontement final. Leur bravoure fut exemplaire, et plusieurs membres de l'ordre payèrent de leur vie leur dévouement à la cause impériale.
+
+Mais le sacrifice de Martin, qui se transforma en avatar d'**Akatosh** pour repousser **Mehrunes Dagon**, laissa les Lames sans raison d'être. Leur serment les liait au sang du dragon, et avec l'extinction de la lignée des Septim, ce serment ne pouvait plus être honoré. L'ordre survécut à la crise mais perdit son identité fondamentale : des protecteurs sans personne à protéger.
+
+## La dissolution et la persécution
+
+La **Quatrième Ère** fut catastrophique pour les Lames. Le **Concordat de l'Or Blanc**, traité imposé par le **Domaine Aldmeri** à l'Empire à la fin de la **Grande Guerre**, exigea explicitement la dissolution de l'ordre. Les **Thalmor** considéraient les Lames comme une menace directe : des chasseurs de dragons qui pourraient interférer avec leurs propres plans concernant le culte de **Talos** et la nature divine des Dragonborn.
+
+La chasse aux Lames fut systématique et brutale. Les agents Thalmor traquèrent les membres de l'ordre à travers tout l'Empire, les exécutant ou les forçant à entrer en clandestinité. Le Temple de l'Ancêtre des Nuées fut mis sous scellés. Les archives furent confisquées ou détruites. En quelques années, une organisation qui avait servi l'Empire pendant des millénaires fut réduite à une poignée de survivants cachés.
+
+Les rares Lames qui survécurent cette purge vécurent dans l'ombre, changeant d'identité, se déplaçant constamment, n'osant jamais révéler leur affiliation passée. **Delphine** et **Esbern**, les plus connus de ces survivants, ne se firent connaître qu'en 4E 201, lorsque l'apparition d'un nouveau Dovahkiin leur donna enfin une raison de sortir de l'ombre.
+
+## L'espoir d'une renaissance
+
+L'apparition de l'**Enfant de Dragon** en Bordeciel en 4E 201 offrit aux Lames survivants une chance de renaissance. Pour la première fois depuis l'extinction des Septim, un être porteur du sang du dragon existait dans le monde, et avec lui revenait la possibilité de reconstruire l'ordre sur ses fondations originelles. Le Temple de l'Ancêtre des Nuées fut rouvert, et les premières recrues d'un nouvel ordre furent acceptées.
+
+Mais la question de l'identité des nouvelles Lames restait ouverte. Seraient-elles un service de renseignement impérial comme sous les Septim ? Un ordre de chasseurs de dragons comme la Garde-Dragon originelle ? Ou quelque chose d'entièrement nouveau, adapté aux réalités d'une ère sans empereur ? La réponse dépendrait du Dovahkiin et de la vision qu'il ou elle imposerait à l'ordre renaissant.
+
+L'histoire des Lames, de la Garde-Dragon d'Akavir aux fugitifs de la Quatrième Ère, est celle d'un ordre qui se réinventa constamment pour servir un idéal immuable : la protection du sang du dragon. Cet idéal survécut aux changements de dynastie, aux invasions daedriques et à la persécution. Tant qu'un Dovahkiin existera quelque part dans le monde, les Lames auront une raison d'exister.

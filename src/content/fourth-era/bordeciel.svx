@@ -1,0 +1,90 @@
+---
+title: "Bordeciel — La Patrie des Nordiques"
+slug: "bordeciel"
+era: "fourth-era"
+category: "lieux"
+tags: ["bordeciel", "skyrim", "nordiques", "châtelleries", "jarls", "géographie"]
+timelineYear: 201
+summary: "La province de Bordeciel, terre des Nordiques : ses neuf châtelleries, ses montagnes enneigées, ses ruines nordiques et son rôle central dans les événements de la Quatrième Ère."
+sources: ["UESP: Skyrim", "Pocket Guide to the Empire, 1st Edition", "Nords of Skyrim"]
+---
+
+## Géographie
+
+![Carte de Bordeciel](/images/fourth-era/skyrim-map.png)
+
+Bordeciel (Skyrim) est la province la plus septentrionale de Tamriel, délimitée par :
+- **Nord** : la Mer des Fantômes (Sea of Ghosts)
+- **Ouest** : Haute-Roche et Lenclume
+- **Sud** : Cyrodiil
+- **Est** : Morrowind
+
+Le paysage est dominé par la **Gorge du Monde** (Throat of the World) — la plus haute montagne de Tamriel, au sommet de laquelle médite Paarthurnax.
+
+### Régions Naturelles
+- **Toundra volcanique** (Estemarche) — geysers et sources chaudes
+- **Forêts de pins** (Épervine, La Brèche) — vallées boisées
+- **Plaines enneigées** (Blancherive, Winterhold) — steppes gelées
+- **Côtes rocheuses** (Haafingar, Hjaalmarch) — falaises et marais
+- **Montagnes** (La Crevasse) — Reach sauvage, Briseurs
+
+## Les Neuf Châtelleries
+
+| Châtellerie | Capitale | Jarl (4E 201) | Allégeance |
+|-------------|----------|---------------|------------|
+| Blancherive | Blancherive | Balgruuf | Neutre |
+| Estemarche | Vendeaume | Ulfric Sombrage | Sombrages |
+| Haafingar | Solitude | Elisif la Juste | Empire |
+| La Brèche | Faillaise | Laila Law-Giver | Sombrages |
+| Épervine | Épervine | Siddgeir | Empire |
+| Hjaalmarch | Morthal | Idgrod Ravencrone | Empire |
+| La Crevasse | Markarth | Igmund | Empire |
+| Hivernale | Fortdhiver | Korir | Sombrages |
+| Pâle | Aubétoile | Skald l'Ancien | Sombrages |
+
+## Villes Majeures
+
+### Solitude
+Capitale impériale de Bordeciel, siège du Haut-Roi (ou Haute-Reine). Perchée sur un immense arche de pierre naturelle, c'est la ville la plus cosmopolite et la plus riche de la province. Le Palais Bleu domine la cité.
+
+### Vendeaume
+La plus ancienne cité humaine de Tamriel, fondée par Ysgramor. Le Palais des Rois est taillé dans la pierre même de la montagne. Quartier général de la rébellion Sombrage et ville natale d'Ulfric.
+
+### Markarth
+Construite dans les ruines d'une ancienne cité Dwemer, Markarth est un chef-d'œuvre d'architecture de pierre. La ville est hantée par le conflit avec les Briseurs (Forsworn) — les natifs du Reach qui revendiquent leur terre.
+
+### Fortdhiver
+Autrefois un centre d'érudition magique abritant le prestigieux Collège de Fortdhiver. Le **Grand Effondrement** (4E 122) détruisit la majeure partie de la ville quand la mer engloutit ses falaises.
+
+## Culture Nordique
+
+### Valeurs
+- **Honneur au combat** — la mort au combat mène à Sovngarde
+- **Méfiance de la magie** — les Nordiques préfèrent l'acier
+- **Hydromel et festins** — la convivialité comme ciment social
+- **Conteurs** (Skalds) — tradition orale des exploits héroïques
+
+### Sovngarde
+Le paradis des guerriers nordiques, un vaste hall de fête présidé par Shor (Lorkhan) où les valeureux combattent et festoient éternellement. Accessible via la Baleine (Whale Bone Bridge) gardée par Tsun.
+
+### Le Thu'um
+L'art de la Voix — héritage de l'ère des Dragons. Autrefois un art martial, il fut réservé aux Grises-Barbes (Greybeards) après la défaite de Jurgen Windcaller. Les Enfants de Dragon naissent avec cette capacité innée.
+
+## Histoire Récente
+
+- **4E 122** : Grand Effondrement de Fortdhiver
+- **4E 174** : Sac de la Cité Impériale par le Thalmor
+- **4E 175** : Concordat de l'Or Blanc — Talos banni
+- **4E 176** : Incident de Markarth — Ulfric reprend la ville
+- **4E 201** : Ulfric tue le Haut-Roi Torygg
+- **4E 201** : Retour d'Alduin et du Dernier Enfant de Dragon
+
+## Faune et Flore
+
+Bordeciel abrite une faune unique et dangereuse :
+- **Dragons** — revenus d'entre les morts en 4E 201
+- **Trolls des neiges** — régénèrent sauf face au feu
+- **Sabrecats** — félins à dents de sabre
+- **Géants** — nomades avec leurs mammouths
+- **Draugr** — morts-vivants nordiques dans les tombes anciennes
+- **Spriggans** — esprits des forêts hostiles

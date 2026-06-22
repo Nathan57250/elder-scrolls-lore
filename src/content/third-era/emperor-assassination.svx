@@ -1,0 +1,56 @@
+---
+title: "L'assassinat d'Uriel Septim VII"
+slug: "emperor-assassination"
+era: "third-era"
+category: "evenements"
+tags: ["uriel-septim", "assassinat", "aube-mythique", "prophétie", "martin", "oblivion"]
+timelineYear: 433
+summary: "L'assassinat de l'empereur Uriel Septim VII par l'Aube Mythique marqua le début de la Crise d'Oblivion et révéla l'existence de son fils illégitime Martin."
+sources: ["Oblivion Main Quest", "The Oblivion Crisis", "Brief History of the Empire"]
+---
+
+## Les dernières heures d'un empereur
+
+Le 27 Soirétoile de l'an 3E 433, l'empereur **Uriel Septim VII** fut assassiné dans les passages secrets sous la **Cité Impériale**, mettant fin à une dynastie qui avait régné sur **Tamriel** pendant plus de quatre siècles. Ce meurtre, perpétré par des agents de l'**Aube Mythique**, un culte daedrique dédié à **Mehrunes Dagon**, ne fut pas simplement la mort d'un homme mais l'extinction d'une lignée divine et le début d'une crise existentielle pour tout le continent.
+
+Uriel Septim VII avait régné pendant soixante-cinq ans, un règne parmi les plus longs de l'histoire impériale. Malgré les épreuves le **Simulacre Impérial** orchestré par **Jagar Tharn**, les intrigues politiques constantes et les menaces extérieures le vieil empereur avait maintenu l'Empire uni et relativement stable. Mais dans ses dernières années, des visions prophétiques lui avaient révélé que sa fin approchait, et que cette fin serait le prélude à une catastrophe bien plus grande.
+
+L'empereur avait pressenti sa mort mais ne l'avait pas fuie. Les rapports des survivants indiquent qu'il marcha vers son destin avec une sérénité qui stupéfia ses gardes et ses assassins. Ses derniers actes furent délibérés : confier l'**Amulette des Rois** à un prisonnier inconnu, un geste apparemment insensé qui s'avéra être la décision qui sauva le monde.
+
+## L'Aube Mythique et le complot
+
+L'**Aube Mythique** était un culte voué à **Mehrunes Dagon**, le Prince Daedra de la destruction et du changement radical. Dirigé par **Mankar Camoran**, un Altmer (ou Bosmer selon les sources) qui se prétendait descendant de la lignée Camoran de Val-Boisé, le culte avait infiltré la société impériale pendant des décennies, préparant l'ouverture des **Portes d'Oblivion** et l'invasion de Tamriel par les hordes daedriques.
+
+Le plan de l'Aube Mythique était d'une logique terrifiante. La lignée des Septim était liée aux **Feux du Dragon** par l'Amulette des Rois. Tant qu'un Septim vivait et que les Feux brûlaient, les barrières entre **Oblivion** et **Mundus** restaient solides, empêchant toute invasion daedrique à grande échelle. Pour ouvrir la voie à Mehrunes Dagon, il fallait donc éteindre les Feux en éliminant tous les porteurs du sang de Septim.
+
+L'assassinat de l'empereur et de ses trois fils reconnus fut coordonné avec une précision militaire. Les princes héritiers furent tués dans leurs résidences respectives, probablement dans les heures précédant ou suivant le meurtre de leur père. En une nuit, la lignée des Septim fut présumée éteinte, et les Feux du Dragon s'éteignirent pour la première fois en quatre siècles.
+
+## Les derniers mots et la prophétie
+
+Les dernières paroles d'Uriel Septim VII, prononcées face à un prisonnier sans nom dans les tunnels sous la prison impériale, sont parmi les plus citées de l'histoire tamriélique. L'empereur parla de rêves, de destinée, et d'étoiles qui s'alignaient pour un moment de transformation cosmique. Il affirma que sa mort n'était pas une fin mais le début d'un chapitre écrit depuis longtemps.
+
+En confiant l'Amulette des Rois au prisonnier, Uriel Septim accomplissait un acte prophétique conscient. Il savait, par ses visions, que ce prisonnier jouerait un rôle crucial dans les événements à venir. Cette prescience, qu'elle ait été d'origine divine ou simplement le fruit d'une intuition aiguisée par des décennies de pouvoir, s'avéra parfaitement exacte.
+
+L'empereur révéla également l'existence d'un fils illégitime, **Martin**, un prêtre d'**Akatosh** vivant incognito dans la chapelle de **Kvatch**. Cette révélation, faite dans ses derniers instants de vie, était le testament politique d'Uriel Septim : un plan de succession secret, préparé pour une éventualité qu'il avait longtemps redoutée. Martin était la police d'assurance de l'Empire, le dernier espoir d'une lignée que ses ennemis croyaient avoir éradiquée.
+
+## Le prisonnier et la mission
+
+Le prisonnier auquel Uriel Septim confia l'Amulette des Rois devint le **Champion de Cyrodiil**, l'un des plus grands héros de l'histoire de Tamriel. Son identité, sa race et son passé restent mystérieux les chroniques ne s'accordent pas sur ces détails mais ses actions changèrent le cours de l'histoire. Porteur de l'Amulette, il devint le lien entre le monde ancien et le nouveau, le messager qui connecterait Martin à son héritage.
+
+La mission était claire : apporter l'Amulette des Rois à **Jauffre**, Grand Maître des **Lames**, à **Prieuré de Weynon**, puis retrouver Martin avant que l'Aube Mythique ne le fasse. Chaque heure comptait, car les portes d'Oblivion commençaient déjà à s'ouvrir à travers Cyrodiil, et sans un Septim pour rallumer les Feux du Dragon, rien ne pourrait arrêter l'invasion.
+
+Le voyage du prisonnier, de la prison impériale aux flammes de Kvatch puis aux salles du **Temple de l'Unique**, constitue l'une des quêtes les plus désespérées et les plus importantes de la Troisième Ère. Chaque étape était une course contre la montre, chaque victoire un répit temporaire dans un monde qui se désintégrait sous les assauts de Mehrunes Dagon.
+
+## La signification historique
+
+L'assassinat d'Uriel Septim VII ne fut pas simplement le meurtre d'un dirigeant politique. C'était la rupture d'un pacte cosmique, la brisure d'une barrière métaphysique qui protégeait le monde mortel depuis la fondation de l'Empire par **Tiber Septim**. En tuant le dernier empereur reconnu, l'Aube Mythique ne changeait pas seulement le paysage politique : elle altérait les lois fondamentales qui gouvernaient la relation entre Mundus et Oblivion.
+
+La **Crise d'Oblivion** qui suivit fut la conséquence directe et prévisible de cet acte. Les portes daedriques s'ouvrirent dans toutes les provinces, déversant des hordes de Dremora et d'autres horreurs sur un continent non préparé. Des milliers de civils périrent, des villes furent détruites, et pendant un moment, il sembla que Tamriel tout entier allait être submergé par les forces de la destruction.
+
+Ce n'est que grâce au sacrifice de **Martin Septim**, le fils illégitime révélé dans les derniers instants d'Uriel, que la crise fut résolue. Martin brisa l'Amulette des Rois, invoquant l'avatar d'**Akatosh** lui-même pour repousser Mehrunes Dagon dans les rues de la Cité Impériale. Mais ce triomphe coûta au monde sa dernière lignée impériale divine, et l'ère qui suivit, la **Quatrième Ère**, commença sans empereur et sans la protection des Feux du Dragon.
+
+## L'héritage mémoriel
+
+La mémoire d'Uriel Septim VII est celle d'un homme qui connut son destin et l'accepta avec grâce. Ses dernières paroles, empreintes de sagesse et de résignation, sont étudiées dans les temples d'Akatosh comme exemple de soumission digne à la volonté divine. Le vieil empereur, malgré ses imperfections et ses échecs passés, racheta une vie entière dans la dignité de sa mort.
+
+Le lieu de son assassinat, dans les tunnels sous la Cité Impériale, devint un site de pèlerinage informel. Les citoyens impériaux y déposaient des fleurs et des prières, honorant le dernier empereur d'une ère révolue. Pour le peuple de Cyrodiil, la mort d'Uriel Septim marquait la fin d'une époque de relative sécurité et le début d'un avenir incertain, sans la protection de la lignée dragonée.

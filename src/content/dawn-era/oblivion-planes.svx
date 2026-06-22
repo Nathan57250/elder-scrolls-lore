@@ -1,0 +1,102 @@
+---
+title: "Les Plans d'Oblivion"
+slug: "oblivion-planes"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["oblivion", "plans", "princes-daedriques", "royaumes", "liminal-barriers", "cosmologie", "daedra"]
+aliases: ["Oblivion"]
+timelineYear: -99983
+summary: "Les plans d'Oblivion, la mer de royaumes daedriques qui sépare Mundus d'Aetherius, et les mécanismes régissant ces dimensions infinies."
+sources: ["UESP: Oblivion", "The Imperial Library: Planes of Oblivion", "On Oblivion", "The Doors of Oblivion"]
+---
+
+## Introduction
+
+**Oblivion** n'est pas un lieu unique mais un ensemble infini de plans d'existence situés entre **Mundus** (le plan mortel) et **Aetherius** (le plan immortel). C'est une vaste mer dimensionnelle dans laquelle flottent les royaumes personnels des **Princes Daedriques** et d'innombrables poches de réalité mineures. Oblivion est souvent perçu comme hostile et chaotique, mais sa véritable nature est bien plus complexe.
+
+## La Structure d'Oblivion
+
+### La Mer du Vide
+
+Oblivion peut être conceptualisé comme un océan dimensionnel. Entre les royaumes établis des Princes Daedriques s'étend un espace chaotique et informe — parfois appelé les **Eaux d'Oblivion** ou le **Vide entre les mondes**. Cet espace n'obéit à aucune loi physique cohérente et est extrêmement dangereux pour tout être mortel qui s'y aventurerait sans protection.
+
+### Les Royaumes Principaux
+
+Seize Princes Daedriques majeurs possèdent chacun un ou plusieurs royaumes personnels dans Oblivion. Ces plans sont des extensions de la volonté et de la personnalité de leur maître — des dimensions entières façonnées par un ego divin. Chaque royaume reflète la sphère d'influence de son Prince et fonctionne selon des lois internes propres.
+
+### Les Plans Mineurs
+
+Au-delà des seize grands royaumes existent des centaines, voire des milliers, de **plans mineurs**. Certains appartiennent à des Daedra moindres (comme les **Seigneurs Daedriques**), d'autres sont des fragments de réalité abandonnés, et certains semblent exister sans maître apparent. Le **Soul Cairn** (Cairn de l'Âme), par exemple, n'appartient à aucun Prince mais est gouverné par les mystérieux **Ideal Masters**.
+
+## Les Seize Royaumes Principaux
+
+### Havreglace (Coldharbour) — Molag Bal
+
+Le royaume de **Molag Bal**, Prince de la domination et du viol. Havreglace est une parodie grotesque de Nirn — une version corrompue et gelée de Tamriel où tout est désolation. Des tours de glace noire s'élèvent sous un ciel sans soleil, et les âmes captives y sont torturées pour l'éternité. C'est ici que **Molag Bal** tenta d'arracher Nirn dans l'événement connu sous le nom de **Planemeld**.
+
+### Apocrypha — Hermaeus Mora
+
+Le domaine d'**Hermaeus Mora**, Prince du savoir interdit et de la mémoire. Apocrypha est une bibliothèque infinie — des couloirs sans fin remplis de livres, de parchemins et de connaissances oubliées. Des océans d'encre noire séparent des îles de papier, et des tentacules émergent de chaque surface. Tout savoir perdu finit en Apocrypha, mais le prix pour y accéder est souvent la sanité mentale.
+
+### Les Deadlands — Mehrunes Dagon
+
+Le royaume de **Mehrunes Dagon**, Prince de la destruction et du changement. Les Deadlands sont un plan de lave, de flammes et de ruines éternelles. Des citadelles de fer rouge surplombent des mers de feu, et des armées de Dremora s'entraînent perpétuellement à la guerre. C'est de ce plan que Dagon lança son invasion lors de la **Crise d'Oblivion** en 3E 433.
+
+### Les Shivering Isles — Sheogorath
+
+Le domaine de **Sheogorath**, Prince de la folie. Les Shivering Isles sont divisées en deux moitiés : **Mania** (la folie joyeuse et créative) et **Dementia** (la folie paranoïaque et destructrice). C'est un lieu de couleurs impossibles, de champignons géants et de logique inversée. Sa capitale, **New Sheoth**, est aussi belle qu'elle est dérangeante.
+
+### Le Hunting Grounds — Hircine
+
+Le terrain de chasse d'**Hircine**, Prince de la chasse et des lycanthropes. C'est une forêt sans fin où les proies sont chassées éternellement. Les âmes des **loups-garous** y résident après la mort, condamnées à chasser et être chassées pour l'éternité. Le paysage change constamment pour offrir de nouveaux défis.
+
+### L'Ashpit — Malacath
+
+Le royaume de **Malacath** (anciennement Trinimac), patron des Orques et des exclus. L'Ashpit est un plan de cendres et de poussière — désolé mais stoïque, reflétant l'endurance et la résilience de ses habitants. C'est ici que les âmes des Orques fidèles trouvent leur repos.
+
+### Evergloam — Nocturnal
+
+Le domaine de **Nocturnal**, Princesse de la nuit et des ombres. Evergloam est un crépuscule éternel — un monde de brumes, d'obscurité et de murmures. Les voleurs les plus habiles y trouvent leur au-delà, et les **Rossignols** lui jurent fidélité en échange de pouvoirs furtifs.
+
+### Attribution's Share — Clavicus Vile
+
+Le plan de **Clavicus Vile**, Prince des pactes et des vœux. C'est un lieu trompeur de beauté superficielle où rien n'est ce qu'il semble — reflétant la nature des marchés empoisonnés que Vile propose aux mortels.
+
+### Quagmire — Vaermina
+
+Le royaume de **Vaermina**, Princesse des cauchemars. Quagmire est un plan de terreur onirique constamment changeant — un cauchemar vivant qui se reconfigure sans cesse pour maximiser l'horreur de ses habitants.
+
+### Autres Royaumes
+
+- **Le Moonshadow** — **Azura** : un lieu de beauté impossible, demi-crépuscule éternel
+- **Les Colored Rooms** — **Meridia** : des salles de lumière pure, hostiles aux morts-vivants
+- **Le Spiral Skein** — **Mephala** : une toile de secrets et d'intrigues
+- **Les Pits** — **Peryite** : un plan de pestilence et d'ordre paradoxal
+- **Misty Grove** — **Sanguine** : un lieu de débauche et de fêtes sans fin
+- **Le Scuttling Void** — **Namira** : un plan de décomposition et d'obscurité
+
+## Le Fonctionnement des Plans
+
+### Les Lois Internes
+
+Chaque plan d'Oblivion fonctionne selon ses propres lois, dictées par la volonté de son Prince. Le temps peut s'écouler différemment, la gravité peut être inversée, et les lois de la physique n'ont aucune obligation de cohérence. Un Prince est **omnipotent** dans son propre royaume — il en est littéralement le dieu.
+
+### Les Barrières Liminales
+
+Les **Barrières Liminales** sont les protections magiques qui empêchent les plans d'Oblivion de fusionner avec Mundus. Pendant l'ère des **Septim**, les **Dragonfires** et l'**Amulette des Rois** maintenaient ces barrières. Quand elles tombèrent, les invasions daedriques massives devinrent possibles.
+
+### L'Invocation et les Portails
+
+Les mortels peuvent interagir avec Oblivion par :
+- **L'invocation** — faire venir des Daedra mineurs à travers les barrières
+- **Les portails** — ouvrir des passages physiques (comme les Portes d'Oblivion de la Crise)
+- **Les sanctuaires** — des points de contact rituels avec des Princes spécifiques
+- **Les artefacts daedriques** — des objets liés à un Prince servant de conduits
+
+### Les Sigils et les Ancres
+
+Maintenir un portail ouvert entre Oblivion et Nirn requiert une quantité colossale d'énergie. Les **Pierres de Sigil** ancrent les portails de Dagon, tandis que les **Ancres Sombres** de Molag Bal servent un objectif similaire lors du Planemeld. Sans ces ancres, les portails se referment rapidement.
+
+## Oblivion dans l'Histoire
+
+Les interactions entre Nirn et Oblivion ont marqué l'histoire de Tamriel : le **Planemeld** de la Deuxième Ère, la **Crise d'Oblivion** de la Troisième Ère, et d'innombrables invasions mineures. Chaque fois, les mortels ont dû repousser les forces daedriques — un combat éternel entre le plan mortel et les puissances qui désirent le conquérir ou le corrompre.

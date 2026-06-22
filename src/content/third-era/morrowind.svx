@@ -1,0 +1,87 @@
+---
+title: "Morrowind — La Terre des Dunmer"
+slug: "morrowind"
+era: "third-era"
+category: "lieux"
+tags: ["morrowind", "dunmer", "grande maison", "tribunal", "montagne rouge", "ashlands"]
+timelineYear: 400
+summary: "La province de Morrowind, terre ancestrale des Dunmer : ses Grandes Maisons, ses paysages hostiles de cendre et de champignons géants, et son histoire tumultueuse."
+sources: ["UESP: Morrowind", "Pocket Guide to the Empire, 3rd Edition", "The Imperial Library: Great Houses"]
+---
+
+## Géographie
+
+Morrowind est la province nord-est de Tamriel, dominée par la **Montagne Rouge** (Red Mountain) — un volcan actif au centre de l'île de Vvardenfell. La province est divisée en régions distinctes :
+
+### Vvardenfell
+L'île volcanique centrale, théâtre des événements de TES III :
+- **Ashlands** — plaines de cendres balayées par les tempêtes
+- **Bitter Coast** — marais côtiers, champignons géants
+- **West Gash** — collines verdoyantes
+- **Ascadian Isles** — terres fertiles, agriculture
+- **Molag Amur** — plateau volcanique hostile
+- **Sheogorad** — archipel au nord
+
+### Continent
+- **Resdayn** — le cœur historique
+- **Deshaan** — plaines au sud
+- **Stonefalls** — côte volcanique ouest
+- **Eastmarch** — frontière avec Bordeciel
+
+## Les Grandes Maisons
+
+La société Dunmer est organisée en **Grandes Maisons** — des clans politico-familiaux qui gouvernent la province :
+
+| Maison | Spécialité | Territoire | Philosophie |
+|--------|-----------|-----------|-------------|
+| Hlaalu | Commerce, diplomatie | Ouest | Pragmatisme, pro-Empire |
+| Redoran | Honneur, guerre | Nord-Ouest | Devoir, discipline |
+| Telvanni | Magie, individualisme | Est | Pouvoir personnel, isolation |
+| Indoril | Religion, tradition | Centre | Piété, conservatisme |
+| Dres | Esclavage, agriculture | Sud-Est | Tradition, xénophobie |
+| Dagoth | (Éteinte/ressuscitée) | Montagne Rouge | — |
+
+### Maison Hlaalu
+Pragmatiques et opportunistes, les Hlaalu furent les alliés les plus proches de l'Empire. Après l'Année Rouge et l'abandon impérial, ils furent **déchus** de leur statut de Grande Maison — remplacés par la Maison Sadras.
+
+### Maison Telvanni
+Les mages-lords Telvanni vivent dans d'immenses **tours champignon** qu'ils cultivent par la magie. Radicalement individualistes, ils ne reconnaissent comme loi que le pouvoir personnel. Leurs tours sont accessibles uniquement par lévitation — un filtrage délibéré.
+
+### Maison Redoran
+Guerriers d'honneur et protecteurs de Morrowind. Après l'Année Rouge, ils prirent le leadership de la province, défendant les Dunmer contre l'invasion Argonienne.
+
+## Religion
+
+### Le Tribunal (avant 3E 427)
+Pendant des millénaires, les Dunmer vénérèrent trois dieux-vivants :
+- **Vivec** — guerrier-poète, dualité, paradoxe
+- **Almalexia** — reine-mère, guérison, compassion
+- **Sotha Sil** — mystère, invention, mécanique
+
+Leur pouvoir provenait du **Cœur de Lorkhan**, canalisé par les Outils de Kagrenac. Quand le Nérévarrin détruisit cette source, le Tribunal perdit ses pouvoirs divins.
+
+### La Réconciliation
+Après la chute du Tribunal, les Dunmer revinrent aux **Bons Daedra** :
+- **Azura** — aube et crépuscule, prophétie
+- **Boethiah** — complot, compétition
+- **Mephala** — mystère, assassinat
+
+Et les **Quatre Coins de la Maison des Troubles** (les "mauvais" Daedra à craindre).
+
+## L'Année Rouge et ses Conséquences
+
+En 4E 5, la Montagne Rouge **explosa**, dévastant Vvardenfell et une grande partie du continent. Quelques années plus tard, les **Argoniens** envahirent le sud de Morrowind — une vengeance historique pour des siècles d'esclavage.
+
+La diaspora Dunmer se répandit à travers Tamriel :
+- **Corberoc** (Solstheim) — colonie sous protection Redoran
+- **Le Quartier Gris** de Vendaume — ghetto dunmer en Bordeciel
+- **Refugiés** dispersés dans Cyrodiil et Haute-Roche
+
+## Culture
+
+Les Dunmer sont un peuple résilient marqué par :
+- La **vénération des ancêtres** — communication avec les esprits familiaux
+- Le **dualisme** — la souffrance forge la force
+- L'**esclavage** (aboli en 3E 427) — autrefois pratiqué sur Argoniens et Khajiit
+- L'**architecture organique** — champignons, coquillages, insectes géants (silt striders)
+- Le **netche** et le **guar** comme bêtes de somme

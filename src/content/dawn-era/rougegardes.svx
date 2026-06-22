@@ -1,0 +1,112 @@
+---
+title: "Les Rougegardes — Guerriers de Yokuda"
+slug: "rougegardes"
+era: "dawn-era"
+category: "races"
+tags: ["rougegardes", "redguard", "yokuda", "lenclume", "epee", "alik'r", "hoonding"]
+timelineYear: 0
+summary: "Les Rougegardes sont les meilleurs épéistes de Tamriel, descendants des guerriers de Yokuda qui détruisirent leur propre continent. Fiers et indépendants, ils refusèrent le Concordat de l'Or Blanc."
+sources: ["UESP: Redguards", "Pocket Guide to the Empire: Hammerfell", "From the Memory Stone of Makela Leki"]
+---
+
+## Présentation
+
+Les **Rougegardes** (Redguards) sont un peuple humain originaire du continent perdu de **Yokuda**. Ils sont unanimement considérés comme les **meilleurs guerriers individuels** de Tamriel — leur art de l'épée est sans égal. Ils habitent **Lenclume** (Hammerfell), un désert impitoyable qu'ils conquirent par la force.
+
+## Yokuda — Le Continent Perdu
+
+### L'Ancien Monde
+**Yokuda** était un continent à l'ouest de Tamriel :
+- Civilisation avancée, martiale et sophistiquée
+- L'art de l'épée ("Way of the Sword") élevé au rang de philosophie
+- Plusieurs empires et royaumes rivaux
+- Guerres dévastatrices entre factions
+
+### La Destruction
+Yokuda fut **détruit** — submergé sous les eaux :
+- La cause exacte est débattue
+- Théorie dominante : un maître épéiste utilisa une technique interdite (l'Atomos Pankratosword) qui coupa l'atome/la réalité
+- Le continent s'effondra dans l'océan
+- Les survivants (les Ra Gada — "Warrior Wave") fuirent vers Tamriel
+
+## La Conquête de Lenclume
+
+Les Ra Gada arrivèrent en Tamriel en 1E 808 :
+- Débarquement brutal sur les côtes de Lenclume
+- Extermination ou soumission des populations existantes (Nédiques, Orques, Elfes Gauches)
+- Conquête totale en quelques décennies
+- La "Warrior Wave" ne faisait pas de prisonniers
+- Fondation de Sentinel, Taneth, et d'autres cités
+
+## L'Art de l'Épée
+
+### La Philosophie
+Pour les Rougegardes, le combat à l'épée est un **art sacré** :
+- "The Way of the Sword" — philosophie de vie complète
+- L'épée est une extension de l'âme
+- La maîtrise de l'épée = la maîtrise de soi
+- Les écoles de combat sont des institutions vénérées
+
+### Les Ansei (Saints de l'Épée)
+Les **Ansei** étaient les plus grands maîtres de Yokuda :
+- Capables de manifester une **Spirit Sword** (épée d'énergie pure)
+- Considérés comme des saints après la mort
+- Leurs tombes (Halls of the Virtues of War) sont sacrées
+- La technique de l'Atomos est un Ansei qui détruisit Yokuda
+
+### Méfiance de la Magie
+- Les Rougegardes préfèrent la **compétence martiale** à la magie
+- La magie est vue comme une béquille pour les faibles
+- La nécromancie est une abomination absolue
+- Seule la magie de guérison est tolérée (pragmatisme)
+
+## Culture
+
+### Crowns et Forebears
+La société Rougegarde est divisée en deux factions :
+- **Crowns** (Couronnes) — traditionalistes, culte de Yokuda, isolationnistes
+- **Forebears** (Ancêtres) — modernistes, pro-Empire, pragmatiques
+- Ce schisme définit la politique de Lenclume depuis des siècles
+
+### Le HoonDing
+Le **HoonDing** ("Make Way God") est une divinité Rougegarde :
+- Un avatar qui se manifeste quand les Rougegardes doivent "faire chemin"
+- Apparaît lors des plus grandes crises
+- Certains croient que Tiber Septim était un aspect du HoonDing
+- Représente la force irrésistible de la conquête
+
+### Religion
+| Divinité | Rôle |
+|----------|------|
+| Tall Papa (Ruptga) | Chef du panthéon |
+| Tu'whacca | Dieu des morts |
+| Tava | Déesse du vent |
+| HoonDing | Dieu guerrier |
+| Satakal | Le Serpent Monde (cycle destruction/création) |
+| Leki | Déesse de l'épée |
+
+## Le Concordat et l'Indépendance
+
+En 4E 175, les Rougegardes **refusèrent** le Concordat de l'Or Blanc :
+- Plutôt que de céder leur sud au Thalmor, ils quittèrent l'Empire
+- Combattirent le Domaine Aldmeri **seuls**
+- Et **gagnèrent** — repoussant les forces Thalmor
+- Prouvant que la résistance au Thalmor était possible
+- Source de ressentiment : l'Empire ne les aida pas
+
+## Traits Raciaux
+
+- Peau foncée (brune à noire)
+- Constitution athlétique et robuste
+- Résistance naturelle aux poisons
+- "Adrenaline Rush" — endurance surhumaine temporaire
+- Aucune affinité magique particulière (mais pas de faiblesse non plus)
+- Longévité humaine standard
+
+## En Bordeciel (4E 201)
+
+Les Rougegardes sont présents mais rares :
+- Les **Guerriers Alik'r** traquent une fugitive à travers la province
+- Quelques marchands et mercenaires dans les villes
+- Pas de communauté organisée (contrairement aux Dunmer)
+- Respectés pour leurs compétences martiales

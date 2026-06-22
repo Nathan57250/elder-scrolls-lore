@@ -1,0 +1,87 @@
+---
+title: "Alduin le Dévoreur de Mondes"
+slug: "alduin"
+era: "fourth-era"
+category: "personnages"
+tags: ["alduin", "dragons", "dovahkiin", "sovngarde", "fin-des-temps", "thuum"]
+date: "Ère Méréthique — 4E 201"
+timelineYear: 201
+summary: "Le Premier-Né d'Akatosh, roi des Dragons, destiné à dévorer le monde à la fin des temps. Vaincu par le Dovahkiin à Sovngarde en 4E 201."
+aliases: ["Alduin", "World-Eater", "Destroyer Devour Master", "le Premier-Né"]
+relatedArticles: ["quatrieme-ere", "thuum", "ere-merethique"]
+sources: ["UESP: Alduin", "The Alduin/Akatosh Dichotomy", "Events of TES V: Skyrim"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Origines — Ce qui a mené à cet événement
+
+**Pourquoi Alduin est-il revenu MAINTENANT, en 4E 201 ?**
+
+Le retour d'Alduin n'est pas un hasard cosmique — il est la conséquence directe d'événements survenus des millénaires plus tôt et de l'affaiblissement progressif des barrières métaphysiques de Mundus :
+
+1. **L'exil temporel lors de la Guerre des Dragons** : Durant l'Ère Méréthique, les trois héros nordiques (Hakon, Gormlaith, Felldir) ne pouvaient pas tuer Alduin. Ils utilisèrent un **Parchemin des Anciens** pour le projeter hors du temps — non pas le détruire, mais le *reporter*. Le Parchemin l'envoya en avant dans le courant temporel, vers un point fixe du futur.
+
+2. **La Crise d'Oblivion (3E 433) brisa les Dragonfires** : La mort de Martin Septim et la destruction de l'Amulette des Rois mirent fin à la barrière draconique protégeant Mundus. Les Dragonfires s'éteignirent définitivement. Cette extinction affaiblit les barrières métaphysiques entre les plans d'existence — et potentiellement les mécanismes qui maintenaient Alduin hors du temps.
+
+3. **L'émergence à la Gorge du Monde** : Alduin réapparut exactement là où il avait été banni — au sommet de la Gorge du Monde — puis se dirigea vers Helgen. Le point de sortie temporelle était fixé depuis l'Ère Méréthique.
+
+4. **La nécessité du Dovahkiin** : Sans les Dragonfires, sans l'Amulette des Rois, sans dynastie Septim, seul un **Enfant de Dragon** — un mortel doté d'une âme draconique — pouvait affronter Alduin. L'affaiblissement post-Crise d'Oblivion rendait un Dovahkiin indispensable comme dernier rempart.
+
+![Alduin, le Dévoreur de Mondes](/images/fourth-era/alduin.jpg)
+
+## Nature et Rôle Cosmique
+
+**Alduin** n'est pas un simple dragon — il est le **Premier-Né d'Akatosh**, le Dragon du Temps lui-même. Son rôle cosmique est celui du **Dévoreur de Mondes** : il est destiné à consumer la réalité à la fin de chaque kalpa (cycle cosmique), permettant la renaissance d'un nouveau monde.
+
+La question fondamentale d'Alduin est : **a-t-il abandonné son rôle cosmique par orgueil ?** Au lieu de dévorer le monde comme prévu, il choisit de le **dominer** — de régner comme un roi plutôt que d'accomplir sa fonction de destruction/renaissance.
+
+## Le Culte du Dragon (Ère Méréthique)
+
+Durant l'Ère Méréthique, Alduin régna sur Bordeciel à travers une hiérarchie de dragons et de **Prêtres-Dragons** humains. Les mortels étaient des esclaves, et les dragons étaient vénérés comme des dieux.
+
+Les Prêtres-Dragons les plus puissants furent récompensés par des **Masques Draconiques** qui leur conféraient un pouvoir immense, même après leur mort (devenant des Draugr).
+
+## La Rébellion et l'Exil
+
+Quand les mortels se rebellèrent (avec l'aide de **Paarthurnax** et le don du Thu'um par Kynareth), trois héros nordiques — **Hakon**, **Gormlaith**, et **Felldir** — affrontèrent Alduin au sommet de la **Gorge du Monde**.
+
+Ne pouvant le tuer (car il est un aspect d'Akatosh et peut-être nécessaire à l'existence), ils utilisèrent un **Parchemin des Anciens** combiné au Cri **Dragonrend** pour le projeter hors du courant du temps — l'envoyant dans le futur.
+
+## Le Retour (4E 201)
+
+Alduin réapparut en **4E 201** à Helgen, Bordeciel — pile au moment de l'exécution prévue du Dovahkiin et d'Ulfric Sombrage. Sa première action fut de détruire la ville, sauvant involontairement les deux.
+
+Il commença immédiatement à **ressusciter les dragons** morts enterrés à travers Bordeciel, reconstruisant son armée.
+
+## La Défaite
+
+Le **Dovahkiin**, guidé par les Greybeards, Paarthurnax, et les Lames :
+1. Apprit **Dragonrend** via un Parchemin des Anciens utilisé au Temps du Vent (une brèche temporelle)
+2. Affronta Alduin à la Gorge du Monde, le forçant à fuir
+3. Captura le dragon **Odahviing** à Fort-Dragon pour localiser le portail vers Sovngarde
+4. Se rendit à **Sovngarde** où Alduin dévorait les âmes des morts nordiques
+5. Avec l'aide des trois héros anciens, vainquit Alduin une dernière fois
+
+## Alduin est-il mort ?
+
+La question reste ouverte. Contrairement aux autres dragons dont le Dovahkiin absorbe l'âme, **l'âme d'Alduin ne fut pas absorbée** après sa défaite. Paarthurnax lui-même suggère qu'Alduin pourrait revenir — soit dans ce kalpa, soit pour accomplir son véritable rôle de Dévoreur lors de la fin du monde.
+
+## Chaîne Causale
+
+<CausalChain items={[
+  { text: "Ère Méréthique : Alduin domine les mortels" },
+  { text: "Guerre des Dragons : Rébellion des mortels avec l'aide de Paarthurnax" },
+  { text: "Parchemin des Anciens + Dragonrend → Alduin projeté HORS du temps" },
+  { text: "(non détruit, seulement reporté)", indent: 1 },
+  { text: "Crise d'Oblivion (3E 433) → Martin Septim se sacrifie", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Dragonfires éteints définitivement", indent: 1 },
+  { text: "Barrières métaphysiques affaiblies", indent: 2 },
+  { text: "Alduin émerge à la Gorge du Monde (4E 201)" },
+  { text: "Destruction d'Helgen (sauve involontairement le Dovahkiin)", indent: 1 },
+  { text: "Résurrection des dragons à travers Bordeciel", indent: 1 },
+  { text: "Le Dovahkiin affronte Alduin à Sovngarde → Défaite (mais âme non absorbée)", link: "/chronologie/fourth-era/enfant-de-dragon" },
+  { text: "Alduin reviendra-t-il ? (Rôle cosmique inachevé)" }
+]} />

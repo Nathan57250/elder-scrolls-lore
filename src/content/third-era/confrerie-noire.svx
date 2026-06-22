@@ -1,0 +1,114 @@
+---
+title: "La Confrérie Noire"
+slug: "confrerie-noire"
+era: "third-era"
+category: "guildes"
+tags: ["confrerie-noire", "sithis", "mere-nuit", "assassins", "morag-tong", "sanctuaire", "tenebres"]
+timelineYear: 358
+summary: "Guilde d'assassins vénérant Sithis et la Mère de la Nuit, la Confrérie Noire opère dans l'ombre à travers tout Tamriel, liée par les Cinq Préceptes et un rituel macabre connu sous le nom de Sacrement Noir."
+sources: ["UESP: Dark Brotherhood", "The Night Mother's Truth", "Sacred Witness", "Events of TES IV: Oblivion", "Events of TES V: Skyrim"]
+---
+
+## Origines — De la Morag Tong à la Confrérie
+
+La **Confrérie Noire** naquit d'un schisme au sein de la **Morag Tong**, la guilde d'assassins légale de Morrowind qui sert le Prince Daedra Méphala. Au cours de la Deuxième Ère, un groupe de dissidents rejeta la structure sanctionnée par l'État et la vénération de Méphala pour embrasser une entité bien plus ancienne et plus terrible : **Sithis** — le Vide lui-même.
+
+Là où la Morag Tong tue sur contrat légal avec l'approbation du gouvernement dunmer, la Confrérie Noire tue pour quiconque accomplit le **Sacrement Noir**. Pas de légalité, pas de justification politique — seulement la mort comme service sacré.
+
+## Sithis et la Mère de la Nuit
+
+### Sithis — Le Vide Primordial
+
+**Sithis** n'est pas un dieu au sens traditionnel. Il est la force de changement et de dissolution qui précède toute création. Là où Anu représente la stase et la permanence, Sithis est l'entropie, la fin, le retour au néant. Les membres de la Confrérie croient que chaque âme qu'ils envoient dans le Vide nourrit Sithis.
+
+### La Mère de la Nuit
+
+La **Mère de la Nuit** est le lien entre Sithis et ses fidèles mortels. Selon la tradition de la Confrérie :
+
+- Elle fut jadis une femme mortelle qui assassina ses cinq enfants en offrande à Sithis
+- En récompense, Sithis la transforma en son épouse spectrale et porte-parole
+- Son corps momifié est conservé et déplacé secrètement entre les Sanctuaires
+- Seul l'**Auditeur** peut entendre sa voix et recevoir les contrats
+
+### L'Auditeur et le Gardien
+
+La hiérarchie de communication divine fonctionne ainsi :
+
+1. **Sithis** transmet sa volonté à la **Mère de la Nuit**
+2. La Mère de la Nuit murmure les contrats à l'**Auditeur** (un membre unique choisi par elle)
+3. L'Auditeur transmet les ordres aux **Gardiens** (chefs de chaque Sanctuaire)
+4. Les Gardiens distribuent les contrats aux **assassins**
+
+## Les Cinq Préceptes
+
+Tout membre de la Confrérie est lié par les **Cinq Préceptes** — des règles absolues dont la violation entraîne la visite d'un esprit vengeur :
+
+| Précepte | Règle |
+|----------|-------|
+| Premier | Ne jamais désobéir ou refuser d'obéir aux ordres d'un supérieur de la Confrérie |
+| Deuxième | Ne jamais compromettre la Confrérie ou ses membres |
+| Troisième | Ne jamais voler les possessions d'un Frère ou d'une Sœur Noir(e) |
+| Quatrième | Ne jamais tuer un Frère ou une Sœur Noir(e) |
+| Cinquième | Ne jamais refuser de payer la Confrérie pour ses services |
+
+La violation d'un Précepte invoque la colère de Sithis. Selon les membres, un spectre apparaît au traître dans son sommeil — et il ne se réveille jamais.
+
+## Le Sacrement Noir
+
+Le **Sacrement Noir** est le rituel par lequel un commanditaire sollicite les services de la Confrérie :
+
+### Les Composants Requis
+- Un corps humain (réel ou symbolique)
+- Des ossements humains
+- De la chair humaine
+- Des Feuilles de Belladone
+- Des pétales de Cœur de Nuit
+
+### Le Rituel
+Le commanditaire doit s'enfermer dans une pièce sombre, disposer les composants autour de lui, puis poignarder le corps en répétant l'incantation :
+
+> *"Douce Mère, douce Mère, envoie ton enfant vers moi, car les péchés des indignes doivent être baptisés dans le sang et la peur."*
+
+Si le rituel est accompli correctement, la Mère de la Nuit entend l'appel et transmet le contrat à l'Auditeur.
+
+## Structure et Sanctuaires
+
+La Confrérie opère à travers un réseau de **Sanctuaires** — des repaires cachés répartis dans toutes les provinces de Tamriel. Chaque Sanctuaire est une famille :
+
+- **Le Gardien** — chef du Sanctuaire, reçoit les contrats de l'Auditeur
+- **Les Assassins** — membres confirmés qui exécutent les contrats
+- **Les Apprentis** — nouvelles recrues en période d'essai
+- **Le Gardien de la Crypte** — protecteur du corps de la Mère de la Nuit (dans le Sanctuaire qui l'abrite)
+
+### Sanctuaires connus durant la Troisième Ère
+
+- **Cheydinhal** (Cyrodiil) — l'un des plus actifs, dirigé par Ocheeva
+- **Bois Noir** (Cyrodiil) — Sanctuaire abandonné abritant le corps de la Mère de la Nuit
+- **Falkreath** (Bordeciel) — ancien Sanctuaire dans les profondeurs d'une crypte nordique
+- **Refuges multiples à Morrowind** — en compétition directe avec la Morag Tong
+
+## La Confrérie durant la Troisième Ère
+
+### La Purification
+
+L'événement le plus traumatisant de la Confrérie au cours de la Troisième Ère fut la **Purification** du Sanctuaire de Cheydinhal. Orchestrée par Lucien Lachance sur ordre de ce qu'il croyait être la Mère de la Nuit, cette purge impliquait l'élimination de tous les membres du Sanctuaire par un seul assassin.
+
+En réalité, cette manipulation était l'œuvre d'un traître infiltré — preuve que même une organisation bâtie sur le secret peut être corrompue de l'intérieur.
+
+### Rivalité avec la Morag Tong
+
+En Morrowind, la Confrérie Noire et la Morag Tong se livrent une guerre de l'ombre permanente :
+
+- La Morag Tong considère la Confrérie comme des hérétiques dévoyés
+- La Confrérie voit la Morag Tong comme des reliques timides enchaînées par la bureaucratie
+- Les assassinats mutuels sont fréquents
+- Le Tribunal favorisait historiquement la Morag Tong, maintenant la Confrérie dans la clandestinité à Morrowind
+
+## Philosophie et Croyances
+
+Pour ses membres, la Confrérie n'est pas simplement une guilde criminelle — c'est un **ordre religieux**. La mort n'est pas un péché mais un sacrement. Chaque contrat accompli est une prière à Sithis, chaque vie prise est une offrande au Vide.
+
+Cette conviction sincère distingue la Confrérie des simples mercenaires. Un assassin de la Confrérie ne tue pas pour l'or — il tue parce que la mort est sacrée, et que le Vide réclame son dû.
+
+> *"Qu'est-ce que la musique de la vie ? Le silence, mon frère."*
+> — Phrase de reconnaissance traditionnelle de la Confrérie Noire

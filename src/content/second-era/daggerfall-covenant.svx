@@ -1,0 +1,88 @@
+---
+title: "L'Alliance de Daguefilante"
+slug: "daggerfall-covenant"
+era: "second-era"
+category: "empires"
+tags: ["daguefilante", "alliance", "bretons", "rougegardes", "orques", "emeric", "haute-roche"]
+timelineYear: 567
+summary: "L'Alliance de Daguefilante : coalition pragmatique entre Brétons, Rougegardes et Orques pour revendiquer le trône impérial."
+sources: ["Guide de l'Alliance de Daguefilante", "Guide de l'Ère du Chaos", "Mémoires du Haut-Roi Emeric"]
+---
+
+## Une alliance de pragmatisme
+
+L'**Alliance de Daguefilante** (Daggerfall Covenant) fut formée en l'an 567 de la Seconde Ère, unissant trois peuples du nord-ouest de **Tamriel** : les **Brétons** de **Haute-Roche**, les **Rougegardes** de **Lenclume** et les **Orques** d'**Orsinium**. Contrairement au **Pacte de Cœurébène**, fondé dans l'urgence militaire, ou au **Domaine Aldmeri**, motivé par l'idéologie, l'Alliance de Daguefilante était une construction essentiellement pragmatique et commerciale.
+
+Le cerveau de cette alliance était le **Haut-Roi Emeric** de Haute-Roche, un ancien marchand devenu roi par mariage, dont le génie résidait dans la diplomatie et le commerce plutôt que dans la guerre. Emeric comprit que les trois nations du nord-ouest, séparées, seraient vulnérables face aux grandes puissances — mais unies, elles constitueraient un bloc économique et militaire capable de rivaliser avec n'importe quelle faction.
+
+## Les Brétons : le cœur politique
+
+Les **Brétons** de Haute-Roche formaient le centre politique et diplomatique de l'Alliance. Peuple d'ascendance mixte — descendant à la fois des **Nediques** et des **Direnni**, une lignée elfique — les Brétons combinaient l'ambition humaine avec une affinité naturelle pour la magie héritée de leur sang elfique.
+
+La société brétonne était caractérisée par sa fragmentation féodale : des dizaines de royaumes, duchés et baronnies se disputaient perpétuellement l'influence et le territoire. Cette division chronique était à la fois la faiblesse et la force des Brétons — leur compétition interne produisait une élite politique et diplomatique extraordinairement compétente.
+
+Le Haut-Roi **Emeric**, en unifiant les royaumes brétons sous une bannière commune, accomplit un exploit politique que peu avaient cru possible. Son alliance avec les Rougegardes par mariage avec la reine **Ra Neza** de Sentinelle cimenta cette unification.
+
+Les Brétons apportaient à l'Alliance leur réseau commercial, leur magie de bataille sophistiquée et leur expertise diplomatique.
+
+## Les Rougegardes : la puissance militaire
+
+Les **Rougegardes** de **Lenclume** (Hammerfell) constituaient le bras armé de l'Alliance. Descendants des **Ra Gada** de **Yokuda**, un continent englouti, les Rougegardes étaient réputés comme les meilleurs épéistes de Tamriel et des guerriers d'une bravoure exceptionnelle.
+
+Leur adhésion à l'Alliance répondait à des préoccupations sécuritaires : Lenclume était menacé tant par les ambitions altmer au sud que par les raids nordiques au nord. L'alliance avec les Brétons offrait une frontière nord sécurisée et un accès aux réseaux commerciaux de Haute-Roche.
+
+Les Rougegardes apportaient une infanterie redoutable, une tradition maritime puissante et le contrôle des routes commerciales méridionales. Leur école de combat, l'**Ansei** ou « Saints du Sabre », produisait des guerriers dont la maîtrise de l'épée frôlait le surnaturel.
+
+Le mariage dynastique entre Emeric et la princesse rougegarde scella l'alliance par les liens du sang, transformant une entente commerciale en une union politique durable.
+
+## Les Orques : les alliés surprenants
+
+L'inclusion des **Orques** (Orsimer) dans l'Alliance fut l'élément le plus surprenant et le plus controversé. Peuple traditionnellement marginalisé et persécuté, les Orques avaient vu leur royaume d'**Orsinium** détruit à plusieurs reprises par des coalitions brétonne-rougegarde.
+
+Le roi **Kurog gro-Bagrakh** d'Orsinium négocia l'adhésion de son peuple à l'Alliance en échange de la reconnaissance officielle d'Orsinium comme nation souveraine et de la fin des persécutions. Pour les Orques, l'Alliance représentait une opportunité historique d'intégration et de respectabilité.
+
+Les Orques apportaient une force brute inégalée au combat, une expertise de forge exceptionnelle et un réseau de forteresses montagnardes stratégiquement placées. Leur armure orque, réputée pour sa solidité, équipait une partie des forces de l'Alliance.
+
+Cette inclusion avait aussi une dimension symbolique : elle démontrait que l'Alliance de Daguefilante se définissait par les intérêts communs plutôt que par l'ethnie — en contraste avec le Domaine Aldmeri elfique ou le Pacte centré sur les peuples du nord-est.
+
+## Les motivations économiques
+
+Plus que tout autre faction de la Guerre des Trois Bannières, l'Alliance de Daguefilante était motivée par des considérations économiques. Le Haut-Roi Emeric, marchand de formation, comprenait que le contrôle du commerce était le véritable pouvoir.
+
+L'**Interrègne** qui suivit la fin de la dynastie **Reman** avait perturbé les routes commerciales de tout Tamriel. Les guerres permanentes, le banditisme et l'absence d'autorité centrale rendaient le commerce dangereux et coûteux.
+
+L'Alliance cherchait à s'emparer du trône impérial de **Cyrodiil** non pas par ambition impérialiste mais pour restaurer l'infrastructure commerciale de l'Empire. Un Empire stable, sous contrôle bréton, garantirait la sécurité des routes marchandes et la prospérité de l'Alliance.
+
+Ce mercantilisme assumé distinguait l'Alliance de ses rivales : là où le Domaine parlait de sagesse et le Pacte de défense, Daguefilante parlait d'or et de commerce.
+
+## L'organisation militaire
+
+L'armée de l'Alliance combinait les forces des trois nations en une structure unifiée :
+
+Les **chevaliers brétons** formaient une cavalerie lourde redoutable, soutenue par des mages de bataille formés dans les académies de Haute-Roche. La **Garde du Lion**, force d'élite d'Emeric, constituait le noyau du commandement.
+
+L'**infanterie rougegarde** était la meilleure de Tamriel en combat rapproché. Les guerriers de Lenclume combinaient vitesse, technique et endurance dans un style de combat qui décontenançait les tactiques conventionnelles.
+
+Les **berserkers orques** servaient de troupes de choc, brisants les lignes ennemies par la force brute. Leur capacité à entrer en rage de combat les rendait terrifiants sur le champ de bataille.
+
+La **marine** de l'Alliance, principalement rougegarde, dominait la Baie d'Iliac et les mers occidentales, assurant la logistique et projetant la puissance navale.
+
+## Les faiblesses internes
+
+Malgré son pragmatisme, l'Alliance de Daguefilante souffrait de faiblesses structurelles significatives :
+
+La **rivalité féodale brétonne** ne disparut jamais complètement. Certains nobles brétons considéraient Emeric comme un parvenu marchand et complotaient en permanence pour accroître leur propre pouvoir.
+
+La **méfiance envers les Orques** persistait dans la population brétonne et rougegarde. Des siècles de conflit ne s'effacent pas par un traité, et les incidents racistes étaient fréquents.
+
+Les **différences culturelles** entre les trois peuples créaient des frictions constantes. Les Brétons étaient des politiciens et des commerçants, les Rougegardes des guerriers d'honneur, les Orques des survivants pragmatiques — ces mentalités s'opposaient souvent.
+
+## L'héritage de l'Alliance
+
+L'Alliance de Daguefilante ne survécut pas à la fin de la Guerre des Trois Bannières, mais son héritage se prolongea de manières significatives :
+
+La **Baie d'Iliac** resterait un espace de commerce et de rivalité entre Brétons et Rougegardes pendant des ères, culminant avec les événements du **Voile de l'Ouest** et le **Warp in the West** de la Troisième Ère.
+
+**Orsinium** continuerait son existence précaire, alternant entre reconnaissance et destruction, jusqu'à sa relocalisation en Haute-Roche puis son statut incertain durant la Quatrième Ère.
+
+L'idée qu'une alliance pouvait transcender les haines raciales par l'intérêt commun influença la diplomatie tamriélique pour les siècles suivants, même si cette leçon fut souvent oubliée.

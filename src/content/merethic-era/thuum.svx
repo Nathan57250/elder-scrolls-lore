@@ -1,0 +1,57 @@
+---
+title: "Le Thu'um — La Voix"
+slug: "thuum"
+era: "merethic-era"
+category: "magie"
+tags: ["thuum", "dragons", "greybeards", "dovahkiin", "cris", "paarthurnax", "jurgen"]
+date: "Ère Méréthique — présent"
+timelineYear: -500
+summary: "L'art ancestral de la Voix — le pouvoir de projeter sa volonté par le langage draconique. Utilisé par les Dragons, les Langues nordiques, et le Dovahkiin."
+relatedArticles: ["quatrieme-ere", "ere-merethique"]
+sources: ["UESP: Thu'um", "The Way of the Voice", "Children of the Sky"]
+---
+
+## Nature du Thu'um
+
+Le **Thu'um** (prononcé "THU-eum"), aussi appelé **la Voix** ou **Storm Voice**, est la capacité de concentrer sa force vitale dans des **Cris** (Shouts) — des mots de pouvoir en **Dovahzul** (langage draconique) qui modifient la réalité.
+
+Ce n'est pas de la magie au sens conventionnel. Le Thu'um est une expression de **volonté pure** canalisée par la compréhension profonde d'un concept. Chaque Cri est composé de trois **Mots de Pouvoir** qui, combinés, produisent un effet spécifique.
+
+## Les Dragons et le Langage
+
+Pour les **Dragons**, le Thu'um est leur nature même — parler est agir, et chaque mot qu'ils prononcent porte une fraction de pouvoir. Le Dovahzul n'est pas un simple langage : c'est une expression directe de la réalité.
+
+Les dragons les plus puissants pouvaient :
+- **Unrelenting Force** (Fus Ro Dah) — projeter une onde de force
+- **Fire Breath** (Yol Toor Shul) — cracher le feu
+- **Frost Breath** (Fo Krah Diin) — geler tout sur leur passage
+- **Dragonrend** (Joor Zah Frul) — forcer un dragon à comprendre la mortalité (créé par les mortels)
+
+## L'Histoire de la Voix
+
+### Le Culte du Dragon (Ère Méréthique)
+Les premiers humains de Bordeciel vivaient sous la domination des dragons. Les **Prêtres-Dragons** servaient d'intermédiaires et oppressaient le peuple.
+
+### La Rébellion (fin de l'Ère Méréthique)
+La déesse Kynareth (Kyne) eut pitié des mortels et envoya **Paarthurnax** — un dragon renégat — pour enseigner le Thu'um aux humains. Les premiers **Langues** (Tongues) humains utilisèrent ce pouvoir pour renverser le joug draconique.
+
+Trois héros — **Hakon Un-Œil**, **Gormlaith Hache Dorée**, et **Felldir le Vieux** — utilisèrent le Cri **Dragonrend** et un Parchemin des Anciens pour projeter Alduin hors du temps.
+
+### Jurgen Windcaller (1E 416)
+Après la défaite nordique à la **Bataille de la Montagne Rouge**, le guerrier Jurgen Windcaller médita pendant sept ans sur les raisons de l'échec. Il conclut que le Thu'um devait être utilisé comme outil de **vénération**, non de guerre.
+
+Il fonda l'ordre des **Greybeards** (Barbes-Grises) et la doctrine de la **Voie de la Voix** — n'utiliser le Thu'um que pour la contemplation et l'honneur des dieux.
+
+### Le Dovahkiin (4E 201)
+Le **Dovahkiin** (Enfant de Dragon) est un mortel né avec l'âme d'un dragon — capable d'absorber les âmes des dragons vaincus et d'apprendre les Cris instantanément, là où un Greybeard passe des décennies à maîtriser un seul Mot.
+
+## Cris Notables
+
+| Cri | Dovahzul | Effet |
+|-----|----------|-------|
+| Force Implacable | Fus Ro Dah | Onde de choc projetant tout |
+| Souffle de Feu | Yol Toor Shul | Flammes dévastatrices |
+| Ralentissement du Temps | Tiid Klo Ul | Dilate le temps |
+| Appel du Dragon | Od Ah Viing | Invoque un dragon allié |
+| Chute du Dragon | Joor Zah Frul | Force un dragon à atterrir |
+| Cri de Tempête | Strun Bah Qo | Invoque une tempête |

@@ -1,0 +1,58 @@
+---
+title: "Julianos"
+slug: "julianos"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divins", "sagesse", "logique", "magie", "connaissance"]
+timelineYear: -99955
+summary: "Julianos, dieu de la sagesse et de la logique, patron des érudits et des mages de Tamriel."
+sources: ["Variétés de la foi dans l'Empire", "Le Livre des Divins", "De la magie et de ses sources"]
+---
+
+## Le Dieu de la Sagesse
+
+**Julianos** est le Divin de la sagesse, de la logique et de la connaissance. Patron des érudits, des mages et des législateurs, il incarne la quête du savoir rationnel et la compréhension des lois qui régissent l'univers. Dans le panthéon des **Divins**, Julianos occupe une position unique en tant que gardien de l'intellect et des arts magiques.
+
+Dans la cosmologie de l'**Ère de l'Aube**, Julianos est associé à l'établissement des lois fondamentales de la réalité. Là où **Akatosh** a donné le temps et **Kynareth** les cieux, Julianos aurait établi les principes logiques et mathématiques qui sous-tendent le fonctionnement de **Mundus**. Sans sa contribution, la magie elle-même serait chaotique et imprévisible.
+
+## Le Savoir et la Magie
+
+Julianos est intrinsèquement lié à la pratique de la magie sur Tamriel. Les universités magiques, et en particulier l'Université Arcane de la **Cité Impériale**, lui vouent un culte institutionnel. Les mages qui cherchent à comprendre les mécanismes profonds de la magie plutôt qu'à simplement l'utiliser sont considérés comme les dévots les plus sincères de Julianos.
+
+La relation entre Julianos et **Magnus**, l'architecte de Mundus, est un sujet de débat théologique. Certains érudits considèrent Magnus comme l'aspect cosmique de ce que Julianos représente pour les mortels : la compréhension de la création. D'autres maintiennent qu'ils sont des entités distinctes, Magnus étant la source brute de la magie et Julianos la discipline nécessaire pour la maîtriser.
+
+Les écoles de magie reconnues, la Destruction, la Conjuration, l'Altération, l'Illusion, la Restauration et l'**Enchantement**, sont toutes considérées comme des domaines d'étude bénis par Julianos. Sa bénédiction est recherchée par les étudiants avant les examens et par les chercheurs avant les expériences dangereuses.
+
+## Les Temples et l'Éducation
+
+Les temples de Julianos fonctionnent souvent comme des bibliothèques et des centres d'apprentissage. Contrairement aux temples d'autres Divins qui mettent l'accent sur la prière et la méditation, ceux de Julianos encouragent l'étude active, le débat et la recherche. Les prêtres de Julianos sont autant des enseignants que des guides spirituels.
+
+Dans les provinces impériales, les écoles de droit et les tribunaux portent souvent le symbole de Julianos, un triangle. Ce symbole représente la trinité de la connaissance : l'observation, la compréhension et l'application. Les juges et les avocats invoquent Julianos pour obtenir la clarté d'esprit nécessaire à des jugements équitables.
+
+L'**Ordre Psijique**, bien que suivant ses propres traditions mystiques, reconnaît en Julianos un principe fondamental de leur philosophie : la discipline de l'esprit comme voie vers l'illumination. Cette convergence entre la théologie impériale et les traditions elfiques les plus anciennes suggère que Julianos touche à quelque chose d'universel dans la nature de la réalité.
+
+## Julianos dans les Différentes Cultures
+
+Pour les **Impériaux**, Julianos est le patron naturel des bureaucrates, des scribes et des administrateurs de l'Empire. La complexité de la gouvernance impériale nécessite des esprits formés à la logique et à l'analyse, qualités que Julianos est censé accorder à ses fidèles.
+
+Les **Bretons**, avec leur tradition magique riche et leur société complexe, vouent un culte particulièrement développé à Julianos. Les universités de Haute-Roche le considèrent comme leur fondateur spirituel, et nombre de nobles bretons se vantent de leur dévotion intellectuelle au dieu de la sagesse.
+
+Chez les **Altmer**, l'équivalent de Julianos est Jephre, bien que cette correspondance soit contestée par les théologiens des deux cultures. Les Hauts-Elfes considèrent la sagesse divine comme inséparable de l'expérience du monde naturel, une vision plus holistique que l'approche purement rationnelle du culte impérial.
+
+## Doctrines et Principes
+
+Les enseignements de Julianos reposent sur plusieurs principes fondamentaux. Le premier est que l'ignorance est la source de toute souffrance : comprendre le monde permet de le maîtriser et d'éviter ses dangers. Le deuxième est que la logique est le langage de la création : les lois de la nature sont mathématiques et peuvent être déchiffrées par un esprit discipliné.
+
+Le troisième principe, plus controversé, affirme que la connaissance ne doit pas être cachée. Ce précepte met les fidèles de Julianos en conflit avec **Hermaeus Mora**, le Prince Daedrique de la connaissance interdite, qui accumule le savoir pour le garder hors de portée des mortels. La distinction entre la sagesse de Julianos et l'obsession de Mora est un thème récurrent dans la littérature théologique.
+
+Les fêtes de Julianos sont marquées par des concours de rhétorique, des expositions de découvertes et des lectures publiques. La plus importante est la Fête de la Sagesse, célébrée différemment selon les régions mais toujours centrée sur la célébration du savoir.
+
+## Artefacts et Reliques
+
+Parmi les reliques attribuées à Julianos, les plus célèbres sont les Tomes de la Sagesse, des ouvrages enchantés qui s'adaptent à leur lecteur et révèlent toujours un savoir nouveau. Le Bâton du Sage, une autre relique, amplifie les capacités magiques de son porteur tout en aiguisant son esprit.
+
+Les sanctuaires de Julianos, présents dans la plupart des villes impériales, offrent une bénédiction qui augmente temporairement les capacités magiques du fidèle. Cette bénédiction est particulièrement recherchée par les mages avant d'entreprendre des enchantements complexes ou des rituels dangereux.
+
+## Héritage Culturel
+
+L'influence de Julianos sur la civilisation tamriélique est incalculable. Les systèmes juridiques, les méthodes scientifiques, les traditions académiques et les pratiques magiques structurées portent tous la marque de ses enseignements. Dans un monde où la magie est réelle et mesurable, la frontière entre science et religion s'estompe, et Julianos incarne parfaitement cette fusion du sacré et du rationnel.

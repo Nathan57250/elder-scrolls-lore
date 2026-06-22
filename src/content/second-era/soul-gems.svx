@@ -1,0 +1,96 @@
+---
+title: "Les Gemmes d'Âme"
+slug: "soul-gems"
+era: "second-era"
+category: "magie"
+tags: ["gemmes-ame", "piegeage-ames", "cairn-des-ames", "enchantement", "necromancie", "ideal-masters"]
+timelineYear: 400
+summary: "Les gemmes d'âme, leur fonctionnement, le processus de piégeage des âmes et le mystérieux Cairn des Âmes."
+sources: ["L'Art de l'Enchantement", "Âmes, Noires et Blanches", "Rapport sur les Maîtres Idéaux", "Opuscule sur la Capture d'Âme"]
+---
+
+## Nature et origine des gemmes d'âme
+
+Les **gemmes d'âme** sont des cristaux naturels — ou parfois artificiels — possédant la propriété extraordinaire de contenir l'essence vitale d'une créature. Ces pierres, qui varient en taille, en pureté et en capacité, constituent l'un des composants les plus fondamentaux de la pratique de l'**enchantement** et de certaines formes de **nécromancie**.
+
+Géologiquement, les gemmes d'âme se forment dans des conditions particulières, là où les courants de magie souterraine — les lignes de force de **Mundus** — intersectent certaines formations cristallines. Cette convergence crée une structure minérale capable de résonner avec l'énergie des âmes, à la manière d'un réceptacle naturel.
+
+On les trouve principalement dans les cavernes profondes, les mines anciennes et les régions à forte concentration magique. Leur rareté relative — en particulier pour les spécimens de grande qualité — en fait des objets de commerce lucratif et parfois de conflits violents.
+
+## Classification et hiérarchie
+
+Les gemmes d'âme sont classées selon leur capacité, c'est-à-dire la puissance maximale de l'âme qu'elles peuvent contenir :
+
+Les **gemmes mesquines** (Petty) ne peuvent contenir que les âmes les plus faibles — celles de petites créatures comme les rats, les insectes géants ou les esprits mineurs. Elles sont courantes et peu coûteuses.
+
+Les **gemmes moindres** (Lesser) acceptent les âmes de créatures plus substantielles : loups, ours, trolls communs. Elles constituent le standard de base pour la plupart des enchantements ordinaires.
+
+Les **gemmes communes** (Common) peuvent piéger les âmes de créatures magiques moyennes : atronachs mineurs, draugr puissants, trolls des glaces.
+
+Les **gemmes supérieures** (Greater) contiennent les âmes de créatures puissantes : mammouths, atronachs majeurs, géants.
+
+Les **gemmes grandioses** (Grand) sont les plus grandes des gemmes ordinaires, capables de contenir les âmes des créatures les plus puissantes de Tamriel.
+
+Les **gemmes d'âme noires** constituent une catégorie à part, capable de contenir les âmes des êtres humanoïdes pensants — un acte considéré comme un crime dans la plupart des juridictions de Tamriel.
+
+## Le processus de piégeage
+
+Le piégeage d'une âme nécessite deux éléments : une gemme d'âme vide de capacité suffisante et un sort de **Piège d'Âme** (Soul Trap) actif sur la cible au moment de sa mort. Le processus magique est précis et implacable.
+
+Lorsque le sort est actif et que la créature meurt, son âme — ou plus exactement son animus, son énergie vitale — est arrachée à son enveloppe corporelle et dirigée vers la gemme la plus proche capable de la contenir. L'âme y est alors emprisonnée, préservée dans un état de suspension.
+
+La question de la conscience des âmes piégées fait débat parmi les mages. Certains affirment que l'âme dans la gemme n'est qu'une réserve d'énergie brute, dépourvue de conscience. D'autres — notamment les opposants éthiques au piégeage — soutiennent que l'âme conserve une forme de conscience et souffre de son emprisonnement.
+
+La **Guilde des Mages** adopta historiquement une position de compromis : le piégeage d'âmes animales (« blanches ») est légal et éthiquement acceptable, tandis que le piégeage d'âmes humanoïdes (« noires ») est interdit et puni sévèrement.
+
+## Âmes blanches et âmes noires
+
+La distinction entre âmes « blanches » et âmes « noires » constitue le fondement éthique et légal de la régulation du piégeage d'âmes sur **Tamriel** :
+
+Les **âmes blanches** sont celles des créatures non pensantes : animaux, monstres, esprits mineurs. Elles peuvent être piégées dans des gemmes ordinaires et leur utilisation en enchantement est universellement acceptée.
+
+Les **âmes noires** sont celles des êtres doués de raison : humains, elfes, hommes-bêtes. Elles ne peuvent être contenues que dans des **gemmes d'âme noires**, des cristaux spéciaux créés par des procédés nécromantiques. Leur piégeage constitue un crime dans la majorité des nations civilisées.
+
+La raison de cette distinction est autant pratique que morale. Les gemmes ordinaires semblent incapables de contenir la complexité d'une âme humanoïde — comme si la conscience refusait la prison. Seules les gemmes noires, altérées par la magie noire, peuvent forcer cette contention.
+
+**Vanus Galerion**, fondateur de la Guilde des Mages, fut l'un des premiers à codifier cette distinction légale, en réaction directe aux pratiques de son ancien condisciple **Mannimarco**, le Roi des Vers.
+
+## Le Cairn des Âmes
+
+Le **Cairn des Âmes** (Soul Cairn) est un plan d'**Oblivion** intimement lié au processus de piégeage des âmes. Ce domaine sinistre et désolé est gouverné par les **Maîtres Idéaux** (Ideal Masters), des entités mystérieuses dont la nature exacte reste débattue.
+
+Le Cairn se présente comme un paysage infini de désolation violacée, parsemé de structures osseuses et de cristaux géants. Les âmes qui y aboutissent errent sans but, dépouillées de leur volonté et de la majeure partie de leur identité. C'est un lieu de non-existence plutôt que de tourment actif — un purgatoire d'oubli.
+
+Lorsqu'une gemme d'âme est utilisée pour un enchantement, l'énergie de l'âme est consommée mais l'essence résiduelle — s'il en reste — se retrouve aspirée vers le Cairn des Âmes. Les Maîtres Idéaux collectent ces résidus comme d'autres accumulent des richesses.
+
+Les **Maîtres Idéaux** commerce avec les nécromanciens et les conjurateurs, offrant des pouvoirs et des connaissances en échange d'âmes. Ce commerce constitue l'une des pratiques magiques les plus sombres de Tamriel, car il implique la condamnation délibérée d'êtres conscients à une éternité de servitude.
+
+## Applications en enchantement
+
+L'utilisation principale des gemmes d'âme est l'**enchantement** — le processus d'infusion d'un objet avec des propriétés magiques permanentes. L'âme piégée sert de source d'énergie, alimentant l'enchantement aussi longtemps que sa charge persiste.
+
+Le processus d'enchantement requiert trois éléments : l'objet à enchanter, la gemme d'âme remplie et la connaissance de l'enchantement désiré. L'enchanteur transfère l'énergie de l'âme dans l'objet, la liant à un effet magique spécifique.
+
+La puissance de l'enchantement dépend directement de la puissance de l'âme utilisée. Une gemme mesquine ne produira qu'un enchantement faible et de courte durée, tandis qu'une gemme grandiose permettra des effets puissants et durables.
+
+Certaines armes enchantées possèdent la propriété de piéger elles-mêmes les âmes de leurs victimes, se rechargeant automatiquement — une application particulièrement redoutable en combat.
+
+## Les Dwemer et les gemmes d'âme
+
+Les **Dwemer** développèrent une utilisation industrielle des gemmes d'âme sans précédent. Leurs automates sont alimentés par des gemmes enchâssées dans leur structure, fournissant l'énergie nécessaire à leur fonctionnement autonome.
+
+Cette utilisation à grande échelle soulève des questions troublantes. Les milliers d'automates dwemer encore actifs nécessitèrent des milliers d'âmes pour leur création. D'où vinrent-elles ? Les Dwemer piégeaient-ils systématiquement la faune souterraine, ou avaient-ils des méthodes plus sinistres ?
+
+Certaines théories suggèrent que les Dwemer développèrent des gemmes d'âme artificielles ou des méthodes pour recycler l'énergie des âmes sans les consommer entièrement — des techniques perdues avec leur civilisation.
+
+## Éthique et controverses
+
+Le piégeage d'âmes reste l'un des sujets les plus controversés de la pratique magique. Les positions varient considérablement selon les cultures :
+
+Les **Dunmer** du Temple du **Tribunal** considèrent le piégeage comme un outil parmi d'autres, sa moralité dépendant de l'usage qui en est fait. Le **Morag Tong** utilise des gemmes d'âme noires sans scrupule.
+
+L'**Empire Septim** et la **Guilde des Mages** maintiennent une interdiction stricte des gemmes noires tout en autorisant le commerce des gemmes blanches.
+
+Les **Vigiles de Stendarr** considèrent tout piégeage d'âme comme une abomination, y compris celui des animaux, arguant que toute âme mérite le repos.
+
+Les adorateurs de **Molag Bal**, Prince de la domination, pratiquent le piégeage d'âmes comme un acte de dévotion, offrant les âmes piégées à leur seigneur daédrique.

@@ -1,0 +1,114 @@
+---
+title: "Paarthurnax"
+slug: "paarthurnax"
+era: "fourth-era"
+category: "personnages"
+tags: ["paarthurnax", "dragons", "alduin", "grises-barbes", "gorge-du-monde", "voix"]
+timelineYear: 201
+summary: "Paarthurnax est un dragon ancien qui trahit Alduin durant la Guerre Draconique pour enseigner le Thu'um aux mortels, et qui medite au sommet de la Gorge du Monde depuis des millenaires."
+sources: ["The Dragon War", "Atlas of Dragons", "Seven Fights of the Aldudagga", "Erta's Journal"]
+---
+
+# Paarthurnax
+
+## Le Dragon qui Choisit les Mortels
+
+**Paarthurnax** est l'un des dragons les plus anciens et les plus enigmatiques de Tamriel. Son nom en langue draconique se traduit par "Ambition-Cruaute-Dominance" — un nom qui revele sa nature originelle et rend sa redemption d'autant plus remarquable. Car Paarthurnax est le dragon qui **trahit Alduin**, le Devoreur de Mondes, pour enseigner aux mortels le pouvoir de la **Voix** (*Thu'um*) et leur donner les moyens de se liberer de la tyrannie draconique.
+
+En 4E 201, il vit reclus au sommet de la **Gorge du Monde** (*Throat of the World*), le pic le plus eleve de Tamriel, ou il medite sur la nature de l'existence et guide les **Grises-Barbes** depuis des millenaires.
+
+## Origines et Nature Draconique
+
+Comme tous les dragons (*Dovah*), Paarthurnax est un fragment de l'esprit d'**Akatosh**, le Dieu-Dragon du Temps. Les dragons ne sont pas de simples betes — ce sont des ames eternelles incarnees, des etres de pouvoir pur dont chaque mot est un acte de creation ou de destruction. Ils sont immortels par nature, ne pouvant etre veritablement tues que par un **Dovahkiin** (Enfant de Dragon) capable d'absorber leur ame.
+
+Dans la hierarchie draconique originelle, Paarthurnax servait comme **lieutenant d'Alduin**, le Premier-Ne d'Akatosh. Son rang etait eleve — il etait l'un des plus anciens et des plus puissants parmi ses freres. Son nom meme temoigne de sa cruaute passee et de son ambition sans bornes.
+
+## La Guerre Draconique
+
+Durant l'**Ere Merethique**, les dragons regnaient sur les mortels comme des dieux-rois, exigeant adoration et sacrifice. Les hommes servaient dans le **Culte du Dragon**, une theocratie brutale dirigee par des pretres-dragons qui interpretaient la volonte de leurs maitres ailes. Les dragons dominaient par la Voix — leur pouvoir inne de reformer la realite par le langage.
+
+La **Guerre Draconique** eclata lorsque certains mortels commencerent a se rebeller contre cette tyrannie. Mais sans le Thu'um, les mortels etaient impuissants face aux dragons. C'est alors que Paarthurnax fit son choix decisif.
+
+## La Trahison et l'Enseignement
+
+A la demande de **Kyne** (Kynareth), la deesse du Ciel et patronne des mortels, Paarthurnax se retourna contre ses freres. Il enseigna aux mortels le secret du **Thu'um** — la capacite d'utiliser la Voix draconique, normalement reservee aux dragons seuls.
+
+Cet acte de trahison etait d'une portee incommensurable :
+- Il donna aux mortels une arme capable de rivaliser avec les dragons
+- Il brisa le monopole draconique sur le pouvoir de la Voix
+- Il permit la creation de la technique du **Dragonrend** — un Cri concu specifiquement pour forcer les dragons au sol
+- Il rendit possible la defaite d'Alduin
+
+Les premiers mortels a maitriser le Thu'um grace a l'enseignement de Paarthurnax devinrent les premiers **Langues** (*Tongues*), des guerriers d'une puissance devastatrice qui menerent la rebellion a la victoire.
+
+## La Chute d'Alduin
+
+Grace au Thu'um et au Cri Dragonrend, les heros nordiques **Hakon Un-Oeil**, **Felldir l'Ancien** et **Gormlaith Hache-Doree** affronterent Alduin au sommet de la Gorge du Monde. Ne parvenant pas a le tuer definitivement, ils utiliserent un **Parchemin des Anciens** pour le projeter hors du temps — le bannissant dans un futur lointain plutot que de le detruire.
+
+Paarthurnax fut temoin de cette bataille et comprit que le probleme n'etait que reporte, pas resolu. Il choisit de rester au sommet de la Gorge du Monde, veillant et meditant en attendant le retour inevitable d'Alduin.
+
+## Les Millenaires de Meditation
+
+Apres la Guerre Draconique, Paarthurnax se retira au sommet de la Gorge du Monde ou il entama une meditation qui dure depuis des millenaires. Son objectif est double :
+
+**La maitrise de soi** — Paarthurnax lutte chaque jour contre sa nature draconique. Les dragons sont faits pour dominer (*Dovah* signifie litteralement "chasseur" en draconique). La cruaute, l'ambition et le desir de pouvoir sont inscrits dans son essence meme. Chaque instant de paix est une victoire personnelle contre ses propres instincts.
+
+**La comprehension du Way of the Voice** — Paarthurnax developpa une philosophie de la Voix comme outil de connaissance plutot que de domination. Cette philosophie fut plus tard codifiee par **Jurgen Parlevent** (*Jurgen Windcaller*) en la **Voie de la Voix**, doctrine des Grises-Barbes.
+
+Sa citation la plus celebre resume sa philosophie :
+> *"Quel est le meilleur ? Etre ne bon, ou surmonter sa nature mauvaise par un effort constant ?"*
+
+## Paarthurnax et les Grises-Barbes
+
+Les **Grises-Barbes** (*Greybeards*) sont un ordre monastique dedie a l'etude de la Voix, vivant au monastere de **Haut-Hrothgar** sur les flancs de la Gorge du Monde. Bien que la plupart des gens croient que les Grises-Barbes sont les maitres de la Voix, ils reconnaissent eux-memes Paarthurnax comme leur **maitre supreme**.
+
+La relation entre Paarthurnax et les Grises-Barbes :
+- Il est leur guide spirituel depuis la fondation de l'ordre
+- Il leur enseigne des Mots de Pouvoir et les secrets du Thu'um
+- Il les conseille sur les questions metaphysiques et spirituelles
+- Il vit au-dessus d'eux — litteralement et figurativement — au sommet du pic
+- Seuls les plus avances des Grises-Barbes gravissent le sommet pour le consulter
+
+L'existence de Paarthurnax est un secret jalousement garde. Le commun des mortels ignore qu'un dragon vit au sommet de la Gorge du Monde, et les Grises-Barbes ne revelent cette information qu'a ceux qu'ils jugent dignes.
+
+## Le Retour d'Alduin en 4E 201
+
+Le retour d'Alduin en 4E 201 confirma les craintes millenaires de Paarthurnax. Le Devoreur de Mondes commenca a ressusciter les dragons morts, reconstituant son armee en vue de reprendre la domination du monde.
+
+Paarthurnax joua un role crucial dans la resistance :
+- Il revela au **Dovahkiin** (l'Enfant de Dragon) l'existence du Cri Dragonrend
+- Il expliqua comment utiliser un Parchemin des Anciens pour observer le passe et apprendre le Cri
+- Il guida le Dovahkiin vers le moyen de penetrer dans **Sovngarde** pour affronter Alduin
+- Il fournit la sagesse et la connaissance accumulees en des millenaires de meditation
+
+Sans les informations et les conseils de Paarthurnax, la defaite finale d'Alduin aurait ete impossible.
+
+## Le Dilemme Moral
+
+L'existence de Paarthurnax pose un dilemme moral fondamental. Les **Lames** (*Blades*), representees par **Delphine** et **Esbern**, exigent sa mort. Leur argument est pragmatique : Paarthurnax etait un lieutenant d'Alduin qui participa activement a l'asservissement des mortels. Peu importe ses millenaires de penitence, ses crimes passes meritent la mort. De plus, un dragon reste un dragon — sa nature pourrait le faire rechuter a tout moment.
+
+Les **Grises-Barbes** s'opposent fermement a cette demande. Leur argument est philosophique : Paarthurnax a prouve sa redemption par des millenaires de service et de maitrise de soi. Le juger pour des actes commis dans un passe si lointain est injuste, et sa sagesse est irreplacable.
+
+Le Dovahkiin doit choisir :
+- **Epargner Paarthurnax** — honorer sa redemption et maintenir l'alliance avec les Grises-Barbes
+- **Tuer Paarthurnax** — satisfaire les Lames et eliminer un danger potentiel
+
+Ce choix n'a pas de reponse "correcte" — il interroge la nature de la justice, du pardon et de la possibilite de changer.
+
+## La Philosophie de Paarthurnax
+
+Paarthurnax a developpe au fil des millenaires une philosophie unique qui melange la sagesse draconique et la compassion mortelle :
+
+**Sur la nature** — "La nature d'un dragon est de dominer. Mais je choisis de ne pas dominer. Chaque jour est un combat, et chaque jour je choisis la paix."
+
+**Sur le temps** — En tant que fragment d'Akatosh, Paarthurnax percoit le temps differemment des mortels. Pour lui, les millenaires ne sont qu'un instant, et pourtant chaque instant est une eternite de lutte.
+
+**Sur la Voix** — "Le Thu'um n'est pas une arme. C'est une facon d'etre. Chaque Mot est une verite, et la verite peut liberer ou detruire."
+
+**Sur les mortels** — Il admire la capacite des mortels a changer, a evoluer, a choisir leur destin — une liberte que les dragons, prisonniers de leur nature, n'ont pas naturellement.
+
+## Heritage et Influence
+
+L'influence de Paarthurnax sur l'histoire de Tamriel est incalculable. Sans sa trahison, les mortels n'auraient jamais maitrise le Thu'um, Alduin n'aurait jamais ete vaincu, et les dragons regneraient encore en tyrans. Il est, paradoxalement, le plus grand bienfaiteur de l'humanite — un dragon qui donna aux hommes le pouvoir de tuer les dragons.
+
+Sa meditation continue au sommet de la Gorge du Monde symbolise la possibilite eternelle de la redemption et le prix qu'elle exige : non pas un acte unique de contrition, mais un combat quotidien et permanent contre sa propre nature. Paarthurnax n'est pas bon parce qu'il est ne bon — il est bon parce qu'il choisit de l'etre, chaque jour, contre tout ce que son etre lui commande.

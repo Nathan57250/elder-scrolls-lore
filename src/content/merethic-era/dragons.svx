@@ -1,0 +1,99 @@
+---
+title: "Les Dragons — Fils d'Akatosh"
+slug: "dragons"
+era: "merethic-era"
+category: "races"
+tags: ["dragons", "dovah", "akatosh", "thu'um", "shouts", "alduin", "paarthurnax", "dragonborn"]
+timelineYear: -2500
+summary: "Les Dragons (Dovah) sont les enfants d'Akatosh — des êtres immortels dont l'essence même est le pouvoir, la domination et le Verbe, inextricablement liés au temps et au destin."
+sources: ["UESP: Dragons", "Atlas of Dragons", "The Imperial Library: Dragon Language"]
+---
+
+## Nature
+
+Les **Dragons** (Dovah, Dov au pluriel) ne sont pas des "créatures" au sens biologique. Ce sont des **fragments d'Akatosh** — des éclats du dieu du Temps incarnés sous forme reptilienne. Chaque dragon est :
+- **Immortel** — ne vieillit pas, ne meurt pas naturellement
+- **Unique** — chacun possède un nom en Dovahzul (langage draconique)
+- **Intrinsèquement dominant** — la domination est leur nature, pas un choix
+
+## Le Dovahzul
+
+Le **Dovahzul** (langage des dragons) n'est pas un simple moyen de communication — c'est un **langage de pouvoir**. Quand un dragon parle, sa voix altère la réalité :
+- Chaque mot peut devenir un **Thu'um** (Cri)
+- Les trois mots d'un Cri complet sont des aspects d'un concept
+- Pour les dragons, parler ET combattre sont la même chose (combat = débat)
+
+### Exemples de Cris
+
+| Cri | Mots (Dovahzul) | Effet |
+|-----|-----------------|-------|
+| Force Implacable | Fus Ro Dah | Onde de choc physique |
+| Souffle de Givre | Fo Krah Diin | Souffle glacial |
+| Feu Infernal | Yol Toor Shul | Souffle de feu |
+| Dragonrend | Joor Zah Frul | Force la mortalité temporaire |
+| Appel du Dragon | Od Ah Viing | Invoque un dragon allié |
+| Ralentissement | Tiid Klo Ul | Ralentit le temps |
+
+## Hiérarchie Draconique
+
+La société draconique est une **méritocratie de puissance** :
+- Le plus fort domine (Thur = tyran/souverain)
+- La soumission n'est pas un déshonneur — c'est la nature
+- Alduin est le **premier-né** et donc le plus puissant
+- Les dragons se combattent par la Voix autant que par les griffes
+
+### Dragons Notables
+
+| Dragon | Rôle | Statut (4E 201) |
+|--------|------|-----------------|
+| Alduin | Premier-Né, Dévoreur de Mondes | Vaincu à Sovngarde |
+| Paarthurnax | Lieutenant d'Alduin, puis traître | Vivant, Gorge du Monde |
+| Odahviing | Dragon loyal puis allié du Dovahkiin | Vivant, libre |
+| Durnehviir | Piégé dans le Cairn de l'Âme | "Vivant" (mort-vivant) |
+| Mirmulnir | Premier dragon tué en 4E 201 | Mort (Tour de Guet Ouest) |
+| Sahloknir | Ressuscité par Alduin à Kynesgrove | Mort |
+| Numinex | Capturé par Olaf One-Eye | Mort (1E) |
+| Nafaalilargus | Servit Tiber Septim | Mort (2E) |
+
+## La Dragon War (Ère Méréthique)
+
+### La Tyrannie
+Les dragons gouvernèrent les humains de Tamriel comme des dieux. Les **Dragon Priests** servaient d'intermédiaires, imposant un régime théocratique brutal :
+- Les humains étaient esclaves/adorateurs
+- Les Prêtres Dragons recevaient des pouvoirs en échange de leur service
+- La résistance était punie de mort par le Thu'um
+
+### La Rébellion
+Paarthurnax, convaincu par Kyne, enseigna le Thu'um aux mortels :
+- Les humains apprirent à **Crier** contre les dragons
+- La guerre qui s'ensuivit dura des générations
+- Le Cri **Dragonrend** — qui impose la compréhension de la mortalité — fut l'arme décisive
+- Alduin fut banni dans le futur par un Elder Scroll
+- Les dragons survivants se dispersèrent et entrèrent en hibernation
+
+## Mort et Absorption d'Âme
+
+Les dragons sont quasi-immortels, mais :
+- Ils **peuvent** être tués par des moyens physiques
+- MAIS un dragon mort peut être **ressuscité** par un autre dragon (Alduin le faisait)
+- La seule mort **permanente** est l'**absorption d'âme** par un Dragonborn
+- Le Dragonborn absorbe le savoir et le pouvoir du dragon tué
+- C'est pour cela que le Dragonborn est le seul à pouvoir véritablement vaincre les dragons
+
+## Le Retour (4E 201)
+
+Alduin, banni dans le futur par les anciens Nordiques, **réapparut** en 4E 201 :
+1. Arrivée au Sommet du Monde (interruption de l'exécution à Helgen)
+2. Résurrection systématique des dragons morts à travers Bordeciel
+3. Reconstruction de son armée draconique
+4. Objectif : dévorer les âmes de Sovngarde, puis le monde
+5. Vaincu par le Dernier Enfant de Dragon
+
+## Philosophie Draconique
+
+Pour un dragon :
+- **Exister = dominer** (le mot "dragon" en Dovahzul signifie "dominion")
+- **Parler = agir** (pas de séparation entre mot et réalité)
+- La **force** détermine tout — il n'y a pas de morale, seulement le pouvoir
+- Le **temps** est leur domaine — en tant que fragments d'Akatosh
+- La **mort** est incompréhensible — Dragonrend fonctionne car il force cette compréhension

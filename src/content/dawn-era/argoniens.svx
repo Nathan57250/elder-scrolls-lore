@@ -1,0 +1,114 @@
+---
+title: "Les Argoniens — Peuple du Hist"
+slug: "argoniens"
+era: "dawn-era"
+category: "races"
+tags: ["argoniens", "hist", "marais noir", "saxhleel", "reptiliens", "an-xileel"]
+timelineYear: 0
+summary: "Les Argoniens (Saxhleel) sont un peuple reptilien du Marais Noir, liés symbiotiquement aux arbres Hist qui les créèrent et guident leur civilisation depuis l'aube des temps."
+sources: ["UESP: Argonians", "The Infernal City", "Murky Waters"]
+---
+
+## Présentation
+
+Les **Argoniens** (leur vrai nom est **Saxhleel**, "peuple de la racine") sont une race reptilienne humanoïde originaire du **Marais Noir** (Black Marsh / Argonia). Ils sont fondamentalement différents des autres races de Tamriel car ils ne descendent pas des Ehlnofey — ils furent **créés par les Hist**.
+
+## Les Hist
+
+Les **Hist** sont des arbres sentients et collectivement intelligents :
+- Existence depuis avant la création de Mundus
+- Forment un réseau de conscience collective
+- Communiquent via la sève (hallucinogène pour les non-Argoniens)
+- Créèrent les Argoniens pour être leurs "mains" dans le monde physique
+- Chaque Argonien lèche la sève du Hist à la naissance — cela détermine sa forme
+
+### Lien Argonien-Hist
+- Les Argoniens sont **physiologiquement liés** aux Hist
+- Éloignés trop longtemps, ils deviennent léthargiques et désorientés
+- Les Hist influencent les décisions collectives des Argoniens
+- À la mort, l'âme argonienne retourne au Hist (pas à l'Aetherius)
+- Le Hist peut "rappeler" massivement les Argoniens en cas de danger
+
+## Physiologie
+
+Les Argoniens sont uniques biologiquement :
+- Corps reptilien avec écailles, queue, et griffes
+- Respiration aquatique native
+- Résistance naturelle aux maladies et poisons
+- Régénération accélérée
+- **Histskin** — capacité de régénération rapide (pouvoir racial)
+- Capacité de changer de sexe sous influence du Hist (lore profond)
+- Leur forme physique dépend de la sève léchée à la naissance
+
+### Formes Variées
+Tous les Argoniens ne se ressemblent pas :
+- Certains ont des cornes, d'autres des plumes ou des crêtes
+- La taille varie considérablement
+- Les **Naga** sont des Argoniens géants et sauvages
+- Les formes sont déterminées par le Hist selon les besoins de la communauté
+
+## Histoire
+
+### Ère Méréthique
+- Les Hist existaient avant les Ehlnofey
+- Création des premiers Argoniens
+- Résistance aux invasions elfiques
+
+### Première Ère
+- Esclavage massif par les Dunmer (Maison Dres et Telvanni)
+- Les Argoniens furent la main-d'œuvre de Morrowind pendant des siècles
+- Révoltes sporadiques écrasées
+
+### Deuxième et Troisième Ère
+- Intégration partielle dans l'Empire
+- Le Marais Noir reste largement inexploré et hostile aux étrangers
+- L'esclavage continue dans les zones frontalières avec Morrowind
+
+### Quatrième Ère — La Revanche
+Après l'Année Rouge (4E 5) :
+- Les Hist **rappelèrent** massivement les Argoniens
+- L'**An-Xileel** (faction politique argonienne) prit le pouvoir
+- Ils **envahirent le sud de Morrowind** affaibli
+- Saccagèrent des villes Dunmer — vengeance pour des siècles d'esclavage
+- Repoussèrent les Daedra lors de la Crise d'Oblivion (seule province à le faire)
+
+## L'An-Xileel
+
+Le mouvement politique **An-Xileel** :
+- Nationaliste et isolationniste
+- Gouverne le Marais Noir post-Crise d'Oblivion
+- Rejette l'Empire et toute ingérence étrangère
+- Prône le retour aux traditions Hist
+- Hostilité envers les Dunmer et les étrangers en général
+
+## Culture
+
+### Société
+- Pas de concept de propriété privée comme les autres races
+- Les communautés sont organisées autour des Hist
+- Les noms sont fluides — un Argonien peut changer de nom selon les étapes de sa vie
+- Noms en Jel (leur langue) traduits en Tamrielique : "Traverses-les-Marécages", "Dort-sur-les-Nuages"
+
+### Spiritualité
+- Le Hist est le centre de leur spiritualité
+- Pas de culte des Divins ni des Daedra (traditionnellement)
+- La mort = retour au Hist, pas un passage vers l'au-delà
+- Les chamanes (Treeminders) interprètent la volonté du Hist
+
+## La Crise d'Oblivion et les Argoniens
+
+Fait remarquable : lors de la Crise d'Oblivion (3E 433), les Argoniens :
+- Furent rappelés par les Hist
+- **Envahirent les Portes d'Oblivion** au lieu d'être envahis
+- Les Dremora fermèrent leurs propres portes face à l'assaut argonien
+- C'est la seule province qui repoussa l'invasion activement
+
+## Relations avec les Autres Races
+
+| Race | Relation |
+|------|----------|
+| Dunmer | Haine ancestrale (esclavage) |
+| Khajiit | Sympathie mutuelle (opprimés similaires) |
+| Impériaux | Méfiance (colonisateurs) |
+| Nordiques | Indifférence mutuelle |
+| Autres | Incompréhension culturelle profonde |

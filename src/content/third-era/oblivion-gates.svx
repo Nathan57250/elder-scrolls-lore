@@ -1,0 +1,90 @@
+---
+title: "Les Portes d'Oblivion"
+slug: "oblivion-gates"
+era: "third-era"
+category: "magie"
+tags: ["oblivion", "portes", "pierres-de-sigil", "mehrunes-dagon", "crise-oblivion", "daedra"]
+timelineYear: 433
+summary: "Le fonctionnement des Portes d'Oblivion, les Pierres de Sigil qui les maintiennent et le rôle qu'elles jouèrent dans la Crise d'Oblivion."
+sources: ["Les Portes d'Oblivion", "Mythic Dawn Commentaries", "Journal de guerre de la Légion", "Rapport sur les Plans d'Oblivion"]
+---
+
+## La barrière entre les mondes
+
+**Mundus** — le plan mortel — et **Oblivion** — le royaume des **Princes Daedra** — sont séparés par une barrière métaphysique maintenue par les **Piliers de la Création**, le sacrifice des **Aedra** qui donna naissance au monde. Cette barrière, parfois appelée le « Rempart de Liminal », empêche normalement les Daedra de grande puissance d'accéder physiquement au plan mortel.
+
+Les **Portes d'Oblivion** sont des brèches dans cette barrière — des passages physiques reliant un lieu de Mundus à un plan d'Oblivion spécifique. Leur création est l'un des actes magiques les plus complexes et les plus dangereux qui soient, car elle implique littéralement de déchirer le tissu de la réalité.
+
+En temps normal, ces brèches sont rares, instables et temporaires. Mais durant la **Crise d'Oblivion** de 3E 433, le culte du **Mythic Dawn** parvint à ouvrir des centaines de portes permanentes vers les Terres Mortes de **Mehrunes Dagon**, menaçant de submerger tout **Tamriel** sous les hordes daédriques.
+
+## L'anatomie d'une Porte d'Oblivion
+
+Une Porte d'Oblivion se manifeste physiquement comme une arche massive de pierre ou de métal, encadrant un portail de flammes et d'énergie daédrique. Sa taille varie — certaines sont à peine assez grandes pour laisser passer un homme, d'autres sont colossales, permettant le passage de créatures gigantesques.
+
+Du côté de Mundus, la porte se présente comme une structure surgie du sol, souvent accompagnée de corruption de la terre environnante : le sol se craquelle, la végétation meurt, des flammes jaillissent de fissures et une lueur rougeâtre envahit le ciel. L'atmosphère même se charge d'une énergie malsaine qui affecte les êtres vivants à proximité.
+
+De l'autre côté, le passage mène directement dans le plan d'Oblivion correspondant. Durant la Crise, toutes les portes menaient aux **Terres Mortes** (Deadlands), le royaume personnel de Mehrunes Dagon — un paysage de lave, de métal incandescent et de désolation infernale.
+
+## Les Pierres de Sigil : le cœur du mécanisme
+
+Le maintien d'une Porte d'Oblivion permanente nécessite un ancrage énergétique : la **Pierre de Sigil** (Sigil Stone). Cet artefact daédrique sert de source d'énergie et de point d'ancrage dimensionnel, maintenant la brèche ouverte et stable.
+
+Une Pierre de Sigil est un orbe de pierre sombre, incandescent d'énergie daédrique, habituellement conservé au sommet d'une **Tour de Sigil** dans le plan d'Oblivion. Cette tour est le point névralgique de chaque porte — sa destruction ou le retrait de la pierre provoque l'effondrement immédiat du passage.
+
+La pierre fonctionne comme un conduit bidirectionnel : elle pompe l'énergie du plan d'Oblivion pour maintenir la brèche ouverte dans la barrière de Liminal. Sans cet apport constant d'énergie daédrique, les forces naturelles de Mundus refermeraient la brèche en quelques instants.
+
+Les Pierres de Sigil possèdent également des propriétés utiles une fois retirées de leur tour : elles contiennent une charge magique exploitable pour l'enchantement, et certains mages les collectaient spécifiquement à cette fin durant la Crise.
+
+## Le processus d'ouverture
+
+L'ouverture d'une Porte d'Oblivion nécessite un rituel complexe combinant plusieurs éléments :
+
+Un **ancrage rituel** du côté de Mundus — typiquement un cercle d'invocation tracé avec des matériaux imprégnés d'énergie daédrique : sang de Daedra, cendres d'Oblivion, ou cristaux de feu de l'Enfer.
+
+Une **connexion avec un plan d'Oblivion spécifique** — le rituéliste doit avoir un lien avec le plan visé, généralement obtenu par un pacte avec le Prince Daedra correspondant.
+
+Un **sacrifice d'énergie** considérable — l'ouverture de la barrière de Liminal exige une quantité de puissance magique que peu de mages individuels possèdent. Le Mythic Dawn utilisait des sacrifices humains pour alimenter ses rituels.
+
+Une **Pierre de Sigil** pré-positionnée du côté d'Oblivion, prête à maintenir la porte une fois ouverte.
+
+Durant la Crise d'Oblivion, **Mankar Camoran** et le Mythic Dawn avaient perfectionné ce processus au point de pouvoir ouvrir des portes en série, chacune soutenue par l'énergie de Dagon lui-même.
+
+## La Crise d'Oblivion : les portes en masse
+
+La **Crise d'Oblivion** de 3E 433 représente l'utilisation la plus massive et la plus dévastatrice des Portes d'Oblivion dans l'histoire connue. Après l'assassinat de l'Empereur **Uriel Septim VII** et de ses héritiers par le **Mythic Dawn**, les **Dragonfires** s'éteignirent — affaiblissant fatalement la barrière entre Mundus et Oblivion.
+
+Les Dragonfires, maintenus par la lignée des Empereurs Septim portant l'**Amulette des Rois**, constituaient un renforcement magique supplémentaire de la barrière de Liminal. Sans eux, l'ouverture de portes devint considérablement plus facile.
+
+**Mehrunes Dagon** exploita cette opportunité pour ouvrir des centaines de portes simultanément sur tout Cyrodiil. Des armées de Dremora, de Xivilai, de Clannfear et d'autres Daedra déferèrent sur le monde mortel, assiégeant villes et forteresses.
+
+Chaque porte devait être fermée individuellement — un héros devait pénétrer dans le plan d'Oblivion, combattre à travers les Terres Mortes, gravir la Tour de Sigil et retirer ou détruire la Pierre de Sigil.
+
+## La fermeture des portes
+
+La méthode de fermeture d'une Porte d'Oblivion est brutalement simple dans son principe mais terriblement dangereuse dans son exécution :
+
+Le combattant doit traverser la porte vers le plan d'Oblivion, survivre aux hordes de Daedra qui gardent le passage, naviguer à travers un paysage hostile et mortel, localiser la Tour de Sigil — souvent protégée par des défenses supplémentaires — et atteindre son sommet.
+
+Au sommet, la Pierre de Sigil doit être retirée ou détruite. Le retrait provoque un effondrement en chaîne : la tour s'effondre, la réalité locale se déstabilise, et quiconque se trouve dans le plan d'Oblivion est expulsé vers Mundus tandis que la porte se referme.
+
+Le processus est extrêmement dangereux. De nombreux soldats et aventuriers périrent en tentant de fermer des portes, submergés par les défenseurs daédriques ou tués par l'environnement hostile des Terres Mortes.
+
+## Les défenses des Tours de Sigil
+
+Les Terres Mortes que les héros devaient traverser étaient des environnements conçus pour tuer. Le terrain était composé de roches volcaniques, de lacs de lave et de structures de métal daédrique incandescent.
+
+Les **Tours de Sigil** étaient des constructions massives, spiralées, remplies de pièges et de gardiens. Les Dremora — soldats d'élite de Dagon — les défendaient avec une férocité méthodique. Des **Xivilai**, créatures daédriques intelligentes et magiquement puissantes, commandaient les défenses.
+
+Certaines tours possédaient des systèmes de défense supplémentaires : des ponts qui s'effondraient, des salles qui se remplissaient de flammes, des cages emprisonnant des créatures féroces relâchées sur les intrus.
+
+## L'héritage des Portes
+
+La Crise d'Oblivion et ses portes laissèrent un impact durable sur Tamriel :
+
+Les sites où s'ouvraient les portes restèrent marqués pendant des années — terre stérile, flore morte, résidus d'énergie daédrique. Certains devinrent des lieux évités, considérés comme maudits.
+
+La compréhension des mécanismes des portes progressa considérablement, permettant aux mages de développer de meilleures protections contre les incursions daédriques futures.
+
+L'événement motiva la création de barrières magiques supplémentaires protégeant Mundus, bien que la méthode exacte reste secrète — possiblement liée au sacrifice de **Martin Septim** qui se transforma en avatar d'**Akatosh** pour repousser Dagon lui-même.
+
+Les **Vigiles de Stendarr** de la Quatrième Ère patrouillent encore les sites des anciennes portes, veillant à ce qu'aucune résurgence ne se produise.

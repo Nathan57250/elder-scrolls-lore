@@ -1,0 +1,65 @@
+---
+title: "Les Hists"
+slug: "hists-arbres-sentients"
+era: "first-era"
+category: "races"
+tags: ["hist", "argoniens", "marais noir", "oblivion", "arbres sentients"]
+timelineYear: 1
+summary: "Les Hists sont des arbres sentients immémoriaux du Marais Noir dont la conscience collective précède la création de Mundus et façonne l'existence même des Argoniens."
+sources: ["The Annotated Anuad", "Children of the Root", "Mere-Glim's Account", "Murkmire Lorebooks"]
+---
+
+# Les Hists
+
+## Des êtres antérieurs à la Création
+
+Les **Hists** comptent parmi les entités les plus anciennes et les plus mystérieuses de toute existence connue. Ces arbres gigantesques et sentients qui peuplent le Marais Noir (Black Marsh) ne sont pas de simples végétaux doués de conscience — ils constituent une forme de vie radicalement différente de tout ce que Tamriel abrite, une intelligence collective dont les origines précèdent la formation même de Mundus.
+
+Selon l'**Anuad Annoté**, les Hists existaient déjà dans un monde antérieur à la création actuelle — un monde détruit lors du conflit entre Anu et Padomay. Lorsque les fragments de ce monde précédent furent réassemblés pour former Nirn, les Hists survécurent, faisant d'eux des témoins et des vestiges d'une réalité antédiluvienne que même les Aedra et les Daedra ne peuvent pleinement comprendre.
+
+## Nature et conscience
+
+La conscience des Hists défie toute catégorisation conventionnelle. Chaque arbre individuel possède sa propre forme de pensée, mais tous les Hists sont interconnectés par un réseau racinaire souterrain qui s'étend sous l'intégralité du Marais Noir. Ce réseau forme une **conscience collective** — non pas une ruche mentale unique, mais une communauté de pensées distinctes qui communiquent et collaborent à travers les âges.
+
+Les Hists perçoivent le temps de manière fondamentalement différente des êtres mortels. Pour eux, passé, présent et futur ne constituent pas une séquence linéaire mais un ensemble simultané. Cette perception temporelle non-linéaire explique leur apparente omniscience et leur capacité à anticiper des événements des siècles avant qu'ils ne surviennent.
+
+Leur « langage » — si ce terme est applicable — se manifeste par des sécrétions de sève aux compositions chimiques infiniment variées, des vibrations racinaires et des émanations psychiques que seuls les Argoniens peuvent pleinement percevoir et interpréter.
+
+## Le lien avec les Argoniens
+
+La relation entre les Hists et les **Argoniens** (ou Saxhleel dans leur propre langue) constitue l'un des liens les plus profonds entre deux formes de vie dans tout Tamriel. Les Argoniens ne sont pas simplement un peuple qui vénère les Hists — ils sont littéralement **créés** par eux.
+
+À la naissance, chaque Argonien est amené devant un Hist pour lécher sa sève. Ce rituel, loin d'être purement symbolique, détermine le sexe, la forme physique et certains traits de personnalité du nouveau-né. Un Argonien qui n'a jamais goûté la sève de l'Hist demeure dans un état de développement incomplet — conscient et intelligent, mais déconnecté de l'identité collective de son peuple.
+
+Plus profondément encore, les âmes argoniennes sont liées au cycle des Hists. Lorsqu'un Argonien meurt, son âme retourne aux Hists plutôt que de voyager vers Aetherius ou le Cairn de l'Âme. Les Hists préservent ces âmes et les réintroduisent dans de nouveaux corps argoniens, créant un cycle de réincarnation qui leur est propre. Cela explique pourquoi les gemmes d'âme noires fonctionnent différemment — et parfois pas du tout — sur les Argoniens profondément liés à leur Hist.
+
+## Rôle dans la Crise d'Oblivion
+
+L'épisode le plus spectaculaire de l'histoire récente des Hists survint lors de la **Crise d'Oblivion** en 3E 433. Lorsque les portes d'Oblivion s'ouvrirent à travers tout Tamriel, le Marais Noir fut attaqué comme les autres provinces. Mais la réponse fut sans précédent.
+
+Les Hists, percevant la menace à travers leur conscience temporelle étendue, avaient **anticipé** l'invasion. Des semaines avant l'ouverture des premières portes, ils commencèrent à sécréter une sève modifiée — un appel chimique qui rappela les Argoniens dispersés à travers l'Empire vers leur terre natale. Ceux qui répondirent à l'Appel subirent une transformation : la sève des Hists les rendit plus forts, plus féroces, plus résistants.
+
+Lorsque les portes s'ouvrirent enfin dans le Marais Noir, les armées argoniennes n'attendirent pas que les Daedra en sortent. Elles **envahirent Oblivion**. Les Argoniens pénétrèrent dans les Deadlands avec une telle violence et une telle détermination que les Dremora furent contraints de **fermer leurs propres portes** pour stopper l'assaut. Le Marais Noir est la seule province de Tamriel à avoir repoussé l'invasion d'Oblivion par la force brute.
+
+## L'invasion de Morrowind
+
+Galvanisés par leur victoire contre les forces de Mehrunes Dagon et transformés par la sève de guerre des Hists, les Argoniens ne s'arrêtèrent pas à la défense de leur territoire. En 4E 6, sous l'impulsion de l'organisation politico-militaire **An-Xileel** — profondément dévouée aux Hists — les armées argoniennes envahirent le sud de Morrowind.
+
+Cette invasion, connue sous le nom d'**Invasion Accienne**, visait les Dunmers déjà dévastés par l'éruption du Mont Écarlate. Les motivations étaient multiples :
+
+- La vengeance historique pour des millénaires d'esclavage des Argoniens par les Grandes Maisons dunmers
+- La volonté des Hists d'étendre leur influence au-delà des frontières traditionnelles du Marais Noir
+- L'expansion territoriale vers des terres fertiles pour planter de nouveaux Hists
+
+Le rôle exact des Hists dans cette décision demeure débattu. Les An-Xileel affirmèrent agir selon la volonté des arbres, mais certains érudits pensent que les Hists, fondamentalement non-agressifs, furent instrumentalisés par une faction politique argonienne radicalisée.
+
+## Mystères persistants
+
+De nombreuses questions fondamentales sur les Hists demeurent sans réponse :
+
+- **Quelle est leur véritable nature ?** Sont-ils des fragments d'un Ehlnofey oublié ? Les restes d'un monde précédent ? Une forme de vie totalement indépendante de la cosmologie conventionnelle ?
+- **Que veulent-ils ?** Leur conscience est si étrangère aux esprits mortels que leurs motivations — si elles existent — restent incompréhensibles.
+- **Sont-ils tous bienveillants ?** Des récits mentionnent des Hists « corrompus » ou « renégats » dont la sève produit des effets horrifiques sur les Argoniens.
+- **Quel est leur lien avec Sithis ?** La théologie argonienne place Sithis au sommet de leur panthéon, et les Hists semblent servir d'intermédiaires entre cette force primordiale et le monde mortel.
+
+Les Hists demeurent, en définitive, l'un des plus grands mystères de Nirn — des observateurs silencieux dont la sagesse millénaire reste inaccessible à quiconque ne partage pas la sève qui coule dans les veines du Marais Noir.

@@ -1,0 +1,90 @@
+---
+title: "Le culte des Daedra à travers Tamriel"
+slug: "daedric-worship"
+era: "second-era"
+category: "religion"
+tags: ["daedra", "princes-daedra", "culte", "persecution", "religion", "oblivion"]
+timelineYear: 300
+summary: "Les différentes formes de culte daédrique à travers Tamriel, leur diversité culturelle et la persécution qu'elles subissent."
+sources: ["Les Princes Daedra", "Variétés de la foi dans l'Empire", "Invocation des Daedra", "Livre des Daedra"]
+---
+
+## Les Princes Daedra : entre vénération et terreur
+
+Les **Princes Daedra** sont les entités les plus puissantes d'**Oblivion**, des êtres d'une antiquité inconcevable dont le pouvoir rivalise avec celui des **Aedra** eux-mêmes. Au nombre de seize officiellement reconnus — bien que ce décompte soit contesté — ils suscitent à travers **Tamriel** des réactions allant de la dévotion la plus fervente à la terreur absolue.
+
+Contrairement aux Aedra, qui sacrifièrent une part de leur pouvoir pour créer **Mundus** et demeurent relativement distants, les Princes Daedra interagissent activement avec le monde mortel. Ils offrent des pactes, accordent des pouvoirs, manipulent des champions et interviennent parfois directement dans les affaires de Tamriel.
+
+Cette accessibilité explique en grande partie leur attrait : là où les Aedra restent silencieux face aux prières, un Prince Daedra peut répondre, récompenser — et punir. Le culte daédrique est fondamentalement transactionnel : le fidèle offre sa dévotion et reçoit en retour pouvoir, savoir ou protection.
+
+## La diversité des cultes
+
+Il serait réducteur de parler « du » culte daédrique comme d'un phénomène unique. Chaque Prince possède ses propres cultes, et ceux-ci varient considérablement selon la culture, la région et l'époque :
+
+**Azura**, Princesse de l'aube et du crépuscule, est vénérée ouvertement par les **Dunmer** comme l'une des trois « Bons Daedra ». Son culte est respectable, institutionnel et parfaitement légal à **Morrowind**. Ailleurs sur Tamriel, il est toléré comme excentrique mais rarement persécuté.
+
+**Meridia**, Princesse de la lumière et de la vie, est paradoxalement considérée comme relativement bénigne malgré son statut daédrique. Son opposition active aux morts-vivants et à **Molag Bal** lui vaut même la sympathie de certains prêtres des Divins.
+
+**Hermaeus Mora**, Prince de la connaissance interdite, attire les érudits et les chercheurs obsessionnels. Son culte est secret par nature — ses fidèles cherchent des savoirs que le monde préférerait voir oubliés.
+
+**Molag Bal**, Prince de la domination et du viol, attire les sadiques et les assoiffés de pouvoir. Son culte est universellement condamné et traqué avec la plus grande sévérité.
+
+## Le culte daédrique chez les Dunmer
+
+Les **Dunmer** de **Morrowind** représentent le cas unique d'un peuple dont la religion officielle vénère des Princes Daedra. Cette tradition remonte à **Veloth** et à l'exode des **Chimer**, fondée sur le culte des trois « Bons Daedra » :
+
+**Boethiah** est le patron de la force, de la ruse et du renversement. Son culte enseigne que le conflit forge la grandeur et que seuls les forts méritent de régner. Les épreuves mortelles entre fidèles sont considérées comme des actes de dévotion.
+
+**Mephala** patronne le secret, l'intrigue et l'assassinat rituel. Le **Morag Tong**, guilde d'assassins légale à Morrowind, opère sous sa bénédiction. Ses enseignements concernent le meurtre comme art sacré et la manipulation comme vertu.
+
+**Azura** guide les destinées et les transitions. Son culte est le plus « bienveillant » des trois, offrant prophéties et protection à ses fidèles en échange de leur dévotion absolue.
+
+Les trois « Mauvais Daedra » — **Molag Bal**, **Shéogorath** et **Malacath** — sont reconnus mais repoussés rituellement. Des cérémonies spécifiques existent pour apaiser leur colère sans les vénérer.
+
+## Les cultes secrets à travers l'Empire
+
+Dans les territoires de l'**Empire**, où le culte des **Huit Divins** (puis Neuf) est la religion officielle, la vénération des Daedra est généralement illégale ou socialement inacceptable. Cela n'empêche pas l'existence de cultes secrets prospères.
+
+Les **covens de Hircine** rassemblent des fidèles du Prince de la Chasse, souvent des lycanthropes qui considèrent leur condition comme un don plutôt qu'une malédiction. Ils se réunissent lors de pleines lunes pour des chasses rituelles.
+
+Les **fidèles de Sanguine**, Prince de la débauche, existent dans toutes les grandes villes sous forme de cercles hédonistes. Leurs réunions ressemblent à des orgies profanes mais possèdent une dimension rituelle réelle.
+
+Les **adorateurs de Namira**, Princesse de la répugnance, forment les cultes les plus secrets et les plus choquants — leurs pratiques incluant le cannibalisme rituel, ils encourent la peine de mort dans toutes les juridictions.
+
+Les **disciples de Clavicus Vile**, Prince des pactes, sont souvent des marchands, des politiciens ou des ambitieux qui cherchent des raccourcis vers le pouvoir — toujours au prix de conséquences imprévues.
+
+## La persécution et l'inquisition
+
+La persécution du culte daédrique a varié en intensité selon les époques et les régimes politiques :
+
+L'**Ordre Alessien** de la Première Ère représenta le sommet de l'intolérance religieuse, persécutant non seulement les cultes daédriques mais toute forme de spiritualité déviant de leur dogme monothéiste.
+
+L'**Empire Septim** de la Troisième Ère adopta une position plus nuancée : le culte daédrique n'était pas systématiquement poursuivi tant qu'il ne troublait pas l'ordre public, mais les cultes les plus dangereux — adorateurs de Molag Bal, de Mehrunes Dagon, de Namira — étaient activement traqués.
+
+Les **Vigiles de Stendarr**, ordre militant dédié à l'éradication des influences daédriques, représentent la forme la plus organisée de la persécution durant la Quatrième Ère. Ils ne font pas de distinction entre « bons » et « mauvais » Daedra.
+
+Le **Thalmor** de la Quatrième Ère poursuit le culte de **Talos** avec une férocité qui rappelle l'inquisition alessienne, bien que leur cible soit un « Divin » plutôt qu'un Daedra.
+
+## Les artefacts daédriques et la tentation
+
+Les **Princes Daedra** attirent des fidèles en partie par la promesse d'artefacts de pouvoir extraordinaire. Chaque Prince possède un artefact emblématique qu'il confie parfois à des mortels en échange de services :
+
+L'**Étoile d'Azura**, gemme d'âme réutilisable. Le **Masque de Clavicus Vile**. L'**Anneau de Hircine**. Le **Marteau de Volendrung** de Malacath. La **Rose Sanguine** de Sanguine. Le **Rasoir de Mehrunes Dagon**. La **Masse de Molag Bal**.
+
+Ces artefacts sont des outils de séduction autant que de pouvoir. Ils attirent les mortels vers les Princes, créant une dépendance et une allégeance progressive. Beaucoup de cultes daédriques naissent lorsqu'un mortel obtient un artefact et commence à recruter d'autres fidèles pour honorer son « bienfaiteur ».
+
+## Le Mythic Dawn : un cas d'étude
+
+Le **Mythic Dawn**, culte de **Mehrunes Dagon** qui provoqua la **Crise d'Oblivion** en 3E 433, illustre le potentiel destructeur du culte daédrique à son paroxysme. Fondé par **Mankar Camoran**, ce culte parvint à assassiner l'Empereur **Uriel Septim VII** et à ouvrir les **Portes d'Oblivion** sur tout Cyrodiil.
+
+Le Mythic Dawn recrutait dans toutes les couches de la société : nobles, marchands, soldats, mages. Son succès prouvait que le culte daédrique n'est pas réservé aux marginaux — il peut séduire quiconque est suffisamment désespéré, ambitieux ou idéaliste.
+
+La destruction causée par la Crise d'Oblivion renforça considérablement l'hostilité populaire envers tout culte daédrique, légitimant les persécutions qui suivirent.
+
+## L'ambiguïté morale
+
+La question de la moralité du culte daédrique est plus complexe qu'il n'y paraît. Certains Princes offrent des bénédictions réelles sans contrepartie destructrice apparente. Les fidèles d'Azura, de Meridia ou même de Nocturnal ne causent pas nécessairement de mal.
+
+La distinction entre « bons » et « mauvais » Daedra est elle-même culturellement relative : bons pour les Dunmer, les mêmes Princes sont jugés néfastes par l'Empire. Et certains Aedra ne sont pas exempts de cruauté dans leurs mythologies.
+
+Cette ambiguïté garantit que le culte daédrique persistera toujours, quelle que soit l'intensité de la persécution. Tant que les mortels chercheront le pouvoir, la connaissance ou la transcendance par des voies interdites, les Princes Daedra trouveront des fidèles.

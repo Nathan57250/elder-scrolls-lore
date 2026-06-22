@@ -1,0 +1,84 @@
+---
+title: "Le Premier Domaine Aldmeri"
+slug: "aldmeri-dominion-first"
+era: "second-era"
+category: "empires"
+tags: ["domaine-aldmeri", "premier-domaine", "altmer", "bosmer", "khajiit", "ayrenn", "archipel-automne"]
+timelineYear: 580
+summary: "La formation du Premier Domaine Aldmeri, alliance entre les Altmer de l'Archipel et les Bosmer du Val-Boisé sous la reine Ayrenn."
+sources: ["Le Domaine Aldmeri", "Manifeste de la Reine Ayrenn", "Guide de l'Ère du Chaos"]
+---
+
+## La renaissance d'une ambition elfique
+
+Le **Premier Domaine Aldmeri** fut fondé en l'an 580 de la Seconde Ère sous l'impulsion de la reine **Ayrenn** des **Altmer**, unissant les Hauts-Elfes de l'**Archipel de l'Automne** et les Elfes des Bois du **Val-Boisé** — rejoints plus tard par les **Khajiit** d'**Elsweyr** — dans une alliance dont le but proclamé était de rétablir l'ordre et la sagesse elfique sur un continent ravagé par les guerres humaines.
+
+Le Domaine représentait bien plus qu'une simple alliance militaire : c'était une déclaration philosophique. Les Altmer, qui se considéraient comme les héritiers directs des **Aldmer** originels et donc comme la race la plus ancienne et la plus sage de Tamriel, estimaient que le chaos engendré par les empires humains successifs prouvait l'incapacité des races mortelles jeunes à gouverner.
+
+Cette conviction d'une supériorité culturelle et raciale innée — tempérée chez Ayrenn par un pragmatisme surprenant mais bien présente dans l'idéologie du Domaine — trouverait des échos sinistres des millénaires plus tard dans les doctrines du **Thalmor** de la Quatrième Ère.
+
+## La Reine Ayrenn : une souveraine atypique
+
+**Ayrenn Arana Aldmeri** était une figure extraordinaire dans le contexte rigide de la société altmer. Née héritière du trône de l'Archipel, elle disparut mystérieusement durant sa jeunesse pour parcourir Tamriel pendant des années, vivant parmi les races humaines et les autres peuples — une expérience impensable pour une princesse altmer.
+
+Son retour et son couronnement choquèrent la noblesse conservatrice de l'Archipel. Ayrenn n'était pas l'isolationniste traditionnelle que ses conseillers auraient préférée : elle avait vu le monde, compris les autres cultures et développé une vision de coopération interraciale sous leadership altmer — plutôt que de domination pure.
+
+Cette nuance distinguait Ayrenn des suprémacistes altmer les plus extrêmes. Elle ne considérait pas les autres races comme inférieures par nature, mais comme ayant besoin de la guidance des Hauts-Elfes. Le Domaine sous sa direction était paternaliste mais pas génocidaire — une distinction significative.
+
+## L'alliance avec les Bosmer
+
+Les **Bosmer** du **Val-Boisé** rejoignirent le Domaine pour des raisons à la fois culturelles et pragmatiques. En tant que descendants des mêmes Aldmer ancestraux que les Altmer, ils partageaient des liens ethniques et historiques anciens.
+
+Le Val-Boisé avait souffert des incursions impériales et des tentatives de colonisation humaine. Rejoindre le Domaine offrait une protection militaire que la nation boisée, avec sa population dispersée et son rejet de l'agriculture conventionnelle (le **Pacte Vert** interdisant de blesser la végétation), ne pouvait assurer seule.
+
+Le roi **Camoran Aeradan** formalisa l'adhésion du Val-Boisé au Domaine, plaçant les forces bosmeri sous commandement conjoint. Les Bosmer apportaient des compétences uniques : archerie inégalée, connaissance des forêts, furtivité et — dans les cas extrêmes — la capacité d'invoquer le Wild Hunt, une transformation terrifiante en créatures monstrueuses.
+
+## L'intégration des Khajiit
+
+L'adhésion des **Khajiit** d'**Elsweyr** au Domaine fut plus tardive et plus complexe. Les Khajiit, peuple félin aux formes multiples dictées par les cycles lunaires, n'avaient pas de liens ethniques avec les elfes. Leur inclusion dans une alliance elfique surprit beaucoup.
+
+Le contexte explique cette alliance : Elsweyr traversait une crise politique et économique dévastatrice. Les épidémies du **Fléau Thrassien** avaient décimé la population, et les conflits internes entre les deux royaumes khajiit — Anequina et Pelletine — affaiblissaient la nation.
+
+Le Domaine Aldmeri offrit aide, stabilité et protection en échange de l'allégeance khajiit. Ayrenn présenta cette inclusion comme la preuve que son Domaine n'était pas exclusivement elfique mais ouvert à tous les peuples cherchant l'ordre et la prospérité — bien que les critiques y vissent une forme de vassalisation de fait.
+
+## L'idéologie du Domaine
+
+L'idéologie officielle du Premier Domaine Aldmeri reposait sur plusieurs piliers :
+
+**La sagesse de l'ancienneté** : les Altmer, en tant que descendants les plus proches des Aldmer originels, possédaient une sagesse accumulée sur des millénaires qui les qualifiait naturellement pour diriger.
+
+**L'échec des empires humains** : la succession de crises — chute de l'empire Alessien, effondrement de l'empire de **Reman**, chaos de l'Interrègne — prouvait selon les Altmer que les humains étaient incapables de maintenir un ordre stable.
+
+**L'harmonie par la hiérarchie** : le Domaine proposait un ordre international basé sur la reconnaissance des compétences naturelles de chaque race, sous la supervision bienveillante des Altmer.
+
+**La protection contre les Daedra** : les Altmer, avec leur longue tradition magique, se présentaient comme les meilleurs gardiens contre les incursions daédriques qui menaçaient régulièrement Tamriel.
+
+## Le rôle dans la Guerre des Trois Bannières
+
+Le Premier Domaine Aldmeri fut l'un des trois belligérants majeurs de la **Guerre des Trois Bannières**, s'opposant au **Pacte de Cœurébène** et à l'**Alliance de Daguefilante** pour le contrôle du trône impérial de **Cyrodiil**.
+
+La stratégie militaire du Domaine combinait la discipline et la magie des légions altmer, l'archerie et la guérilla forestière des Bosmer, et l'agilité et la ruse des guerriers khajiit. Cette combinaison produisait une force flexible et redoutable.
+
+Le Domaine ne cherchait pas simplement à s'emparer du trône impérial : il voulait refonder l'Empire sur des principes elfiques, remplaçant le chaos humain par l'ordre altmer. C'était une ambition de civilisation, pas simplement de conquête.
+
+## Les forces armées du Domaine
+
+L'appareil militaire du Domaine était sophistiqué et bien organisé :
+
+Les **légions altmer** constituaient le cœur de l'armée : des soldats disciplinés, bien équipés et soutenus par des mages de bataille formés dans les académies de l'Archipel. Leur excellence magique compensait un nombre souvent inférieur aux armées humaines.
+
+Les **archers bosmer** étaient les meilleurs tireurs de Tamriel, capables de toucher des cibles à des distances impossibles pour d'autres races. En forêt, ils étaient pratiquement invisibles et mortellement efficaces.
+
+Les **guerriers khajiit** apportaient vitesse et adaptabilité. Certaines sous-espèces khajiit — les Senche-raht en particulier — servaient même de montures de combat, créant une cavalerie unique.
+
+Les **Justiciars** du Domaine formaient une force de police interne et de renseignement, ancêtres directs des Justiciars du Thalmor de la Quatrième Ère.
+
+## La dissolution et l'héritage
+
+Le Premier Domaine Aldmeri ne survécut pas longtemps à la fin de la Guerre des Trois Bannières. Sans la menace d'un Empire unifié hostile et sans la personnalité unificatrice d'Ayrenn, les tensions internes — méfiance bosmer envers le paternalisme altmer, ressentiment khajiit face au traitement de second rang — érodèrent la cohésion de l'alliance.
+
+Mais l'idée du Domaine ne mourut jamais véritablement. L'aspiration des Altmer à restaurer la prééminence elfique sur Tamriel resurgirait cycliquement à travers les ères :
+
+Le **Second Domaine Aldmeri** serait fondé durant la Seconde Ère tardive, avec des objectifs similaires.
+
+Le **Troisième Domaine Aldmeri** — le **Thalmor** de la Quatrième Ère — reprendrait les mêmes thèmes mais avec une idéologie bien plus radicale, abandonnant le paternalisme relativement bienveillant d'Ayrenn pour un suprémacisme elfique agressif visant potentiellement la destruction de l'humanité elle-même.

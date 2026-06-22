@@ -1,0 +1,60 @@
+---
+title: "Zénithar"
+slug: "zenithar"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divins", "travail", "commerce", "artisanat", "prospérité"]
+timelineYear: -99945
+summary: "Zénithar, dieu du travail et du commerce, patron des marchands et des artisans de Tamriel."
+sources: ["Variétés de la foi dans l'Empire", "Le Livre des Divins", "De l'artisanat et de la piété"]
+---
+
+## Le Dieu du Travail
+
+**Zénithar** est le Divin du travail, du commerce et de la communication. Patron des marchands, des artisans et de tous ceux qui gagnent honnêtement leur vie par l'effort de leurs mains ou la sueur de leur front, il incarne la dignité du labeur et la valeur de la productivité. Parmi les **Divins**, Zénithar est peut-être le plus pragmatique, enseignant que la piété se démontre par les actes concrets plutôt que par la contemplation.
+
+Dans la cosmologie de l'**Ère de l'Aube**, Zénithar est souvent associé au concept de transformation constructive. Là où **Lorkhan** a proposé la création du monde et **Magnus** en a conçu les plans, Zénithar aurait incarné le principe même du travail nécessaire à la réalisation de **Mundus**. Sa contribution est celle du labeur divin qui transforme l'idée en réalité.
+
+## Doctrines et Enseignements
+
+L'enseignement central de Zénithar est simple mais profond : le travail honnête est la plus haute forme de dévotion. Ses fidèles croient que chaque objet bien fabriqué, chaque transaction équitable et chaque journée de labeur consciencieux constituent une prière silencieuse au dieu du commerce.
+
+Zénithar enseigne que la prospérité n'est pas un péché mais une récompense légitime de l'effort. Contrairement aux ascètes d'autres cultes, les prêtres de Zénithar encouragent l'accumulation de richesses tant qu'elle résulte d'un travail honnête et de pratiques commerciales équitables. La cupidité et la tromperie sont les seuls péchés commerciaux véritables.
+
+Le précepte le plus célèbre de Zénithar est souvent résumé ainsi : « Le travail apporte la prospérité, et la prospérité permet la charité. » Cette chaîne vertueuse relie l'effort individuel au bien-être collectif, justifiant le commerce comme un service rendu à la communauté.
+
+## Les Temples et les Guildes Marchandes
+
+Les temples de Zénithar fonctionnent autant comme des centres d'affaires que comme des lieux de culte. Ils abritent souvent des marchés sanctifiés, des banques de prêt à taux équitable et des bureaux d'arbitrage commercial. Les prêtres de Zénithar servent de médiateurs dans les disputes commerciales et de garants de la bonne foi dans les transactions.
+
+La Guilde des Marchands, bien qu'officiellement séculière, entretient des liens étroits avec le culte de Zénithar. Les serments commerciaux sont souvent prononcés sur son symbole, l'enclume, et les contrats les plus importants sont bénis par ses prêtres pour assurer leur exécution de bonne foi.
+
+Les guildes d'artisans, des forgerons aux tisserands en passant par les ébénistes, placent leurs ateliers sous la protection de Zénithar. Chaque forge, chaque établi et chaque métier à tisser est considéré comme un autel miniature dédié au dieu du travail.
+
+## Zénithar dans les Différentes Cultures
+
+Pour les **Impériaux**, Zénithar est naturellement associé à la puissance commerciale de l'Empire. Les routes commerciales, les marchés impériaux et le système monétaire sont tous considérés comme des manifestations de la bénédiction de Zénithar. Les marchands impériaux invoquent son nom avant chaque voyage commercial.
+
+Chez les **Nordiques**, Zénithar est connu sous le nom de Tsun, un aspect plus guerrier associé au concept d'épreuve et de mérite. Le travail pour les Nordiques est indissociable du combat contre les éléments et de la survie dans un environnement hostile, ce qui colore leur interprétation du dieu.
+
+Les **Bretons** de Haute-Roche vouent un culte développé à Zénithar, intégrant son influence dans leur tradition d'artisanat magique. Les enchanteurs bretons considèrent leur art comme la fusion parfaite du travail manuel et de la magie, une double bénédiction de Zénithar et de **Julianos**.
+
+Les **Rougegardes** associent Zénithar à leur tradition d'excellence dans la forge d'armes. Les épées courbes de Lenclume sont considérées comme le summum de l'art martial et artisanal, dignes de la bénédiction du dieu du travail.
+
+## La Bénédiction de Zénithar
+
+Recevoir la bénédiction de Zénithar est censé améliorer les compétences artisanales et commerciales du fidèle. Les marchands bénis négocient de meilleurs prix, les forgerons créent des armes plus solides et les mineurs trouvent des filons plus riches. Cette bénédiction pratique explique la popularité du culte parmi les classes laborieuses.
+
+Les sanctuaires de Zénithar sont présents dans la plupart des villes et villages de Tamriel. Ils se trouvent souvent près des marchés ou des quartiers artisanaux, accessibles à ceux qui commencent leur journée de travail. Une prière rapide à l'aube devant le symbole de l'enclume est un rituel quotidien pour de nombreux travailleurs.
+
+## Zénithar et l'Économie de Tamriel
+
+L'influence de Zénithar sur l'économie de Tamriel dépasse la simple bénédiction individuelle. Son culte a contribué à l'établissement de standards commerciaux, de systèmes de poids et mesures et de codes de conduite marchande à travers l'Empire. Les lois contre la fraude et la contrefaçon sont souvent inspirées de ses préceptes.
+
+La Compagnie de la Baie Orientale, malgré ses pratiques parfois douteuses, invoquait Zénithar dans ses chartes fondatrices. Cette tension entre l'idéal du commerce équitable prêché par Zénithar et la réalité des pratiques commerciales de Tamriel est un thème récurrent dans la littérature économique du continent.
+
+## Opposition et Conflits
+
+Zénithar s'oppose naturellement à la paresse et à la malhonnêteté, mais son principal antagoniste cosmique est plus subtil. Les **Princes Daedriques** qui offrent le pouvoir sans effort, comme **Clavicus Vile** avec ses pactes trompeurs, représentent tout ce que Zénithar rejette. Le raccourci est l'antithèse de son enseignement : la vraie valeur ne peut naître que du travail sincère.
+
+Les voleurs et les escrocs sont considérés comme des blasphémateurs par les fidèles de Zénithar. Non seulement ils prennent sans produire, mais ils sapent la confiance qui est le fondement de tout commerce. La Guilde des Voleurs est vue comme une abomination par les dévots les plus stricts du dieu du travail.

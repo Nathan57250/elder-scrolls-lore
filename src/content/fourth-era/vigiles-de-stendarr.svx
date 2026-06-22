@@ -1,0 +1,94 @@
+---
+title: "Les Vigiles de Stendarr"
+slug: "vigiles-de-stendarr"
+era: "fourth-era"
+category: "guildes"
+tags: ["vigiles", "stendarr", "daedra", "vampires", "loups-garous", "morts-vivants", "ordre militant"]
+timelineYear: 10
+summary: "Les Vigiles de Stendarr sont un ordre militant dédié à l'éradication des Daedra, morts-vivants, loups-garous et vampires — fondés après la Crise d'Oblivion pour protéger les mortels."
+sources: ["UESP: Vigilants of Stendarr", "The Imperial Library: Orders of Tamriel"]
+---
+
+## Fondation
+
+Les **Vigiles de Stendarr** furent fondés au début de la Quatrième Ère, directement en réponse à la **Crise d'Oblivion** (3E 433). Après l'ouverture de centaines de portails daedriques à travers Tamriel, la population civile réalisa sa vulnérabilité face aux forces surnaturelles.
+
+L'ordre naquit de la volonté de prêtres de Stendarr (le Divin de la Miséricorde) de **protéger activement** les mortels plutôt que de simplement prier pour eux.
+
+## Mission
+
+> "Stendarr apporte sa miséricorde aux mortels. Nous sommes le bras armé de cette miséricorde."
+
+Les Vigiles traquent et éliminent :
+- **Daedra** — créatures invoquées et cultistes daedriques
+- **Vampires** — morts-vivants buveurs de sang
+- **Loups-garous** — lycanthropes de toutes formes
+- **Morts-vivants** — draugr, squelettes, spectres
+- **Sorcières** — pratiquantes de magie daedrique
+
+## Organisation
+
+### Structure
+- Pas de hiérarchie militaire rigide
+- **Gardien** — chef d'un hall régional
+- **Vigile** — membre actif patrouillant
+- **Novice** — en formation
+
+### Hall de Stendarr
+En Bordeciel, leur base était le **Hall des Vigiles** — un bâtiment modeste dans la Pâle. En 4E 201, il fut **détruit par les vampires du Clan Volkihar**, démontrant tragiquement les limites de l'ordre.
+
+## Méthodes
+
+### Combat
+- Sortilèges anti-morts-vivants (Turn Undead, bénédictions solaires)
+- Armes d'argent contre les loups-garous
+- Magie de Restauration offensive
+- Pieux, ail, et sanctifications contre les vampires
+
+### Investigation
+- Patrouilles régulières sur les routes
+- Enquêtes sur les disparitions suspectes
+- Infiltration des cultes daedriques
+- Interrogatoires (parfois brutaux)
+
+## Philosophie
+
+Les Vigiles opèrent selon un code strict :
+- **Aucune** tolérance envers le surnaturel hostile
+- La miséricorde s'applique aux **mortels** — pas aux abominations
+- Pas de distinction entre "bons" et "mauvais" Daedra
+- Un vampire "repenti" reste un vampire à éliminer
+- Les artefacts daedriques doivent être détruits ou enfermés
+
+### Les Limites Morales
+Cette intransigeance pose des questions :
+- Un loup-garou qui contrôle sa bête mérite-t-il la mort ?
+- Un vampire qui ne tue pas est-il toujours un ennemi ?
+- La destruction d'un artefact daedrique est-elle toujours possible ou souhaitable ?
+
+## En Bordeciel (4E 201)
+
+Les Vigiles sont présents mais **sous-équipés** :
+- Patrouilles sur les routes, souvent en petits groupes de 2-3
+- Hostilité immédiate envers les loups-garous et vampires
+- Destruction par le Clan Volkihar → collaboration avec les Dawnguard
+- Membres dispersés après la destruction de leur hall
+
+## Relations
+
+| Faction | Relation |
+|---------|----------|
+| Dawnguard | Alliés naturels (anti-vampires) |
+| Compagnons | Conflit potentiel (lycanthropie du Cercle) |
+| Collège de Fortdhiver | Méfiance (magie conjuration = daedrique?) |
+| Thalmor | Tolérance mutuelle (ennemi commun : Daedra) |
+| Confrérie Noire | Ennemi (Sithis = force daedrique) |
+
+## Faiblesses
+
+L'ordre souffre de plusieurs limitations :
+- **Sous-équipement** — pas de financement impérial solide
+- **Fanatisme** — l'intransigeance aliène des alliés potentiels
+- **Manque de nuance** — certains cas ne sont pas noir/blanc
+- **Petits nombres** — insuffisants face aux menaces massives
+- **Vulnérabilité** — comme prouvé par l'attaque Volkihar

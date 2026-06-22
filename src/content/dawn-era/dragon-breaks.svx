@@ -1,0 +1,61 @@
+---
+title: "Les Brisures du Dragon"
+slug: "dragon-breaks"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["temps", "akatosh", "dragon-break", "marukhati", "warp-in-the-west"]
+timelineYear: -9999
+summary: "Les Brisures du Dragon sont des phenomenes metaphysiques ou le temps lineaire se fracture, permettant a des realites contradictoires de coexister simultanement."
+sources: ["Where Were You When the Dragon Broke?", "The Warp in the West", "Before the Ages of Man"]
+---
+
+# Les Brisures du Dragon
+
+## La Nature du Temps sur Nirn
+
+Dans l'univers des Parchemins des Anciens, le temps n'est pas une constante immuable. Il est maintenu par **Akatosh**, le Dieu-Dragon du Temps, dont l'existence meme constitue l'epine dorsale de la linearite temporelle. Lorsque cette epine se brise, le temps lui-meme se fracture en fragments contradictoires : c'est ce que les erudits appellent une **Brisure du Dragon** (*Dragon Break*).
+
+Durant une Brisure, la causalite cesse de fonctionner normalement. Des evenements mutuellement exclusifs se produisent simultanement. Des royaumes entiers peuvent vivre des realites differentes au meme instant, et lorsque le temps se reconstitue, toutes ces realites deviennent simultanement vraies dans le continuum historique.
+
+## L'Aube Mediane (Middle Dawn)
+
+La plus longue Brisure du Dragon documentee dura **mille huit ans**, de 1E 1008 a 1E 2208. Elle fut provoquee deliberement par les **Selectifs Marukhati**, une faction radicale de l'Ordre Alessien qui cherchait a purifier Akatosh de toute influence elfique.
+
+Les Selectifs utiliserent des rituels de danse mystique pour "scinder" le Dragon du Temps, tentant de separer les aspects meriques d'Akatosh (lies a Auriel, le dieu aldmer) de ses aspects humains. Le resultat fut catastrophique : le temps perdit toute coherence pendant plus d'un millenaire.
+
+Pendant cette periode, des temoignages contradictoires abondent :
+- Certains affirment que les tours de la Cite Imperiale changerent de forme des dizaines de fois
+- D'autres rapportent que des generrations entieres naquirent et moururent en un instant
+- Les Khajiits pretendent que leur lune disparut pendant deux annees, ou peut-etre deux siecles
+
+## La Deformation de l'Ouest (Warp in the West)
+
+L'evenement de 3E 417, connu sous le nom de **Deformation de l'Ouest**, constitue la Brisure du Dragon la plus recente et la mieux documentee. Dans la region de la Baie d'Iliac, sept factions revendiquerent simultanement le **Numidium** — le golem divin des Dwemer — et l'utiliserent chacune pour asseoir leur domination.
+
+Le resultat logiquement impossible fut que *toutes ces factions reussirent en meme temps* :
+- Le Royaume de Daggerfall absorba ses rivaux du nord
+- Le Royaume de Sentinel etendit son territoire
+- Le Royaume de Wayrest consolida son pouvoir
+- Orsinium obtint sa reconnaissance officielle
+- Le Roi des Vers devint un dieu
+- L'Empire retrouva le controle de la region
+
+Lorsque la Brisure se resolut, l'ancienne mosaique de quarante-quatre royaumes minuscules se retrouva consolidee en quatre grandes nations — un resultat qui satisfaisait simultanement tous les denouements contradictoires.
+
+## La Brisure et la Divinite
+
+Les Brisures du Dragon sont intrinsequement liees a la nature d'Akatosh. Le dieu lui-meme n'est peut-etre pas une entite unique mais un **assemblage d'aspects temporels** maintenus ensemble par la foi collective. Certains theologiens affirment qu'Akatosh, Auriel, Alduin et Alkosh ne sont que des facettes du meme etre — un etre dont la fragmentation engendre les Brisures.
+
+## Consequences Metaphysiques
+
+Les Brisures du Dragon posent des questions fondamentales sur la nature de la realite dans l'Aurbis :
+
+1. **L'histoire est-elle objective ?** Si des evenements contradictoires sont tous vrais, le concept meme de fait historique devient suspect.
+2. **Les heros sont-ils des points de fracture ?** Certains theorisent que les individus dotes d'un destin extraordinaire — les Prismatiques, les Sangdragon — sont eux-memes des micro-brisures ambulantes.
+3. **Le temps peut-il etre repare definitivement ?** Chaque Brisure laisse des cicatrices dans le tissu temporel, et certains erudits craignent qu'une Brisure finale ne detruise la linearite a jamais.
+
+## La Tour d'Or et la Stabilite Temporelle
+
+La **Tour d'Or Blanc** de Cyrodiil joue un role crucial dans le maintien de la stabilite temporelle. En tant que Pierre de la Tour, l'Amulette des Rois servait d'ancre pour Akatosh dans le monde mortel. Sa destruction a la fin de la Troisieme Ere pourrait avoir fragilise le temps lui-meme, rendant de futures Brisures plus probables.
+
+Les erudiths de l'Universite Arcane continuent de debattre : les Brisures du Dragon sont-elles des aberrations ou une caracteristique fondamentale d'un univers ou les dieux sont reels et le temps n'est qu'une convention maintenue par la volonte divine ?

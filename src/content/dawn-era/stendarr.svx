@@ -1,0 +1,58 @@
+---
+title: "Stendarr"
+slug: "stendarr"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divins", "miséricorde", "justice", "vigiles", "religion"]
+timelineYear: -99960
+summary: "Stendarr, dieu de la miséricorde et de la justice, patron des Vigiles qui traquent les abominations."
+sources: ["Variétés de la foi dans l'Empire", "Le Livre des Divins", "Les Vigiles de Stendarr"]
+---
+
+## Le Dieu de la Miséricorde
+
+**Stendarr** est le Divin de la miséricorde, de la justice et de la charité. Parmi les **Divins**, il représente l'équilibre entre la compassion et la fermeté, offrant sa protection aux justes tout en punissant les impies. Son rôle dans le panthéon impérial est celui du gardien des faibles et du défenseur des opprimés contre les forces du mal.
+
+Durant l'**Ère de l'Aube**, Stendarr fut l'un des et'Ada originaux qui participèrent à la création de **Mundus**. Sa contribution au plan mortel est associée à l'établissement de principes fondamentaux de justice et de pitié qui régissent les interactions entre les êtres conscients. Sans son influence, disent les théologiens, le monde serait un lieu de cruauté sans limite.
+
+## La Théologie de Stendarr
+
+La doctrine de Stendarr repose sur deux piliers apparemment contradictoires : la miséricorde envers les innocents et l'intolérance absolue envers le mal. Cette dualité est au cœur de son culte. Stendarr enseigne que la vraie justice n'est pas aveugle mais éclairée par la compassion, et que la vraie miséricorde ne saurait tolérer que le mal prospère.
+
+Dans le panthéon impérial, Stendarr est souvent invoqué par les juges, les gardiens de prison et les bourreaux qui cherchent à exercer leur fonction avec équité. Les soldats prient Stendarr avant la bataille pour qu'il leur accorde la force de protéger les innocents et la sagesse de distinguer l'ennemi du civil.
+
+Chez les **Nordiques**, Stendarr est connu sous le nom de Stuhn, le dieu des rançons et de la clémence envers les prisonniers de guerre. Cette version nordique met l'accent sur l'honneur dans la victoire et la dignité accordée aux vaincus, une valeur profondément ancrée dans la culture guerrière du nord.
+
+Les **Bretons** de Haute-Roche vouent un culte particulièrement fervent à Stendarr, intégrant ses enseignements dans leur système juridique complexe et leur tradition chevaleresque.
+
+## Les Vigiles de Stendarr
+
+L'ordre le plus célèbre dédié à Stendarr est celui des Vigiles de Stendarr, un groupe de chasseurs militants voués à l'éradication des abominations de Tamriel. Fondés après la **Crise d'Oblivion** de la Troisième Ère, les Vigiles ont juré de traquer et de détruire toute présence daedrique, mort-vivante ou lycanthropique sur le plan mortel.
+
+Les Vigiles patrouillent les routes et les régions sauvages de Tamriel, cherchant les signes d'activité daedrique ou nécromanticienne. Leur quartier général en Bordeciel, le Hall des Vigiles, servait de base d'opérations pour leurs expéditions dans la province. Malheureusement, ce bastion fut détruit par les vampires du clan Volkihar lors de leur résurgence durant la Quatrième Ère.
+
+Les méthodes des Vigiles sont souvent critiquées pour leur brutalité. Leur zèle dans la purge des adorateurs de Daedra et des créatures surnaturelles les amène parfois à des excès que certains considèrent comme contraires à l'esprit même de miséricorde prêché par Stendarr. Cette tension entre justice et compassion est au cœur des débats internes de l'ordre.
+
+## Les Bénédictions et la Magie
+
+La bénédiction de Stendarr accorde une résistance aux effets magiques et une protection contre les forces daedriques. Les guérisseurs qui invoquent Stendarr se spécialisent dans les sorts de protection et de bannissement, créant des barrières contre les influences maléfiques.
+
+La magie associée à Stendarr est principalement défensive. Les sorts de Protection et les cercles de bannissement sont les spécialités de ses prêtres. L'Aura de Stendarr, un sort emblématique des Vigiles, permet de détecter et de blesser les morts-vivants dans un rayon autour du lanceur.
+
+Les reliques de Stendarr incluent le Marteau de la Justice, capable de bannir les Daedra en un seul coup, et le Bouclier du Miséricordieux, qui absorbe les attaques magiques dirigées contre son porteur.
+
+## Stendarr et les Princes Daedriques
+
+La relation entre Stendarr et les **Princes Daedriques** est une opposition fondamentale. Parmi tous les Divins, Stendarr est celui dont le culte s'oppose le plus activement aux forces d'**Oblivion**. Là où d'autres Divins ignorent ou tolèrent l'existence des Daedra, Stendarr les considère comme des abominations à purger.
+
+Cette opposition est particulièrement marquée envers **Molag Bal**, le Prince de la domination et du viol, dont les créations (vampires et autres morts-vivants) sont les cibles principales des Vigiles. La haine entre les fidèles de Stendarr et les serviteurs de Molag Bal est ancestrale et irréconciliable.
+
+**Mehrunes Dagon**, le Prince de la destruction, est également un ennemi juré de Stendarr. La Crise d'Oblivion qui a motivé la création des Vigiles était l'œuvre de Dagon, et les cicatrices laissées par cette invasion alimentent encore la rage sacrée des fidèles de Stendarr.
+
+## Héritage et Influence
+
+L'influence de Stendarr sur la civilisation de Tamriel est considérable. Les codes de justice de nombreuses nations s'inspirent de ses enseignements, tentant d'équilibrer punition et réhabilitation. Les hospices et les refuges pour les pauvres portent souvent son nom, rappelant que la miséricorde envers les démunis est un devoir sacré.
+
+Dans la Quatrième Ère, le culte de Stendarr connaît un renouveau, alimenté par les menaces croissantes des vampires, des adorateurs de Daedra et des nécromanciens. Les Vigiles recrutent activement parmi les aventuriers et les soldats démobilisés, offrant un sens et une mission à ceux qui cherchent à protéger les innocents.
+
+La dualité de Stendarr, entre douceur et sévérité, continue d'inspirer les débats théologiques. Est-il possible d'être miséricordieux tout en étant implacable ? Les fidèles de Stendarr répondent que oui : la miséricorde s'adresse aux victimes, l'implacabilité aux bourreaux.

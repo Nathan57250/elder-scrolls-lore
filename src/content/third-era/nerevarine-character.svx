@@ -1,0 +1,58 @@
+---
+title: "Le Nérévarine"
+slug: "nerevarine-character"
+era: "third-era"
+category: "personnages"
+tags: ["nerevarine", "morrowind", "nerevar", "prophetie", "azura", "dagoth-ur", "tribunal", "prisonnier"]
+timelineYear: 427
+summary: "Le Nérévarine en tant que personnage, prisonnier devenu prophète réincarné, libérateur de Morrowind et destructeur du Tribunal."
+sources: ["Morrowind Main Quest", "The Lost Prophecy", "Nerevar at Red Mountain", "Azura's Prophecy", "The Seven Curses"]
+---
+
+## Le prisonnier sans nom
+
+Le **Nérévarine** est le titre donné à la réincarnation prophétisée d'**Indoranyon Nerevar** — le légendaire roi guerrier des Chimers qui unit les Grandes Maisons et les tribus Cendraises avant de périr dans des circonstances controversées à la Bataille de la Montagne Rouge. En 3E 427, un prisonnier sans nom, incarcéré dans les geôles impériales de Cyrodiil, fut libéré sur ordre personnel de l'**Empereur Uriel Septim VII** et envoyé à **Morrowind** avec une mission secrète : accomplir — ou devenir — la prophétie du Nérévarine.
+
+L'identité exacte du Nérévarine avant son emprisonnement est inconnue. Race, genre, passé — tout varie selon les récits. Ce qui est constant est sa condition de « prisonnier » — un thème récurrent chez les héros de Tamriel, comme si le destin exigeait que ses instruments soient d'abord brisés avant de pouvoir être forgés à neuf.
+
+## La Prophétie du Nérévarine
+
+La **Prophétie du Nérévarine** — ou Prophétie Perdue — est un ensemble de versets cryptiques transmis par **Azura**, la Princesse Daedrique de l'Aube et du Crépuscule. La prophétie annonce le retour de Nerevar sous une nouvelle forme pour venger sa trahison, détruire les faux dieux du **Tribunal** et libérer Morrowind de la menace de **Dagoth Ur** et de son Sixième Fléau.
+
+Les signes identifiant le Nérévarine sont multiples : il doit être « né d'un certain jour sous une certaine étoile », « ni reconnu ni nommé », « étranger en Morrowind ». Ces critères étaient délibérément vagues — des dizaines de prétendants au titre avaient échoué avant que le véritable Nérévarine ne soit reconnu. Le **Temple du Tribunal** avait même créé un bureau spécifiquement dédié à la réfutation des candidats au Nérévarine.
+
+## Les épreuves de la reconnaissance
+
+Avant d'être reconnu comme le véritable Nérévarine, le prisonnier dut accomplir une série d'épreuves prescrites par la prophétie. Il devait gagner la confiance des **Tribus Cendraises** — les Dunmer nomades des Terres de Cendre qui avaient préservé la mémoire de Nerevar dans sa forme la plus pure — et être reconnu par leurs sages femmes et leurs khans de guerre.
+
+Le processus impliquait de prouver sa valeur selon les traditions cendraises : survie dans les terres désolées, prouesses martiales, et surtout la visite des **Cavernes des Incarnés** — les tombeaux de tous les « Nérévarine ratés » qui avaient échoué avant lui. La vue de ces échecs passés soulignait à la fois le poids de la prophétie et la possibilité très réelle de l'échec.
+
+## Le rôle de Caius Cosades
+
+L'Empereur **Uriel Septim VII** — qui avait reçu des visions prophétiques concernant le Nérévarine — orchestra la libération du prisonnier et son envoi à Morrowind via le port de **Seyda Neen**. Sur place, il fut pris en charge par **Caius Cosades**, un agent des **Lames** déguisé en vieillard sucrier, qui dirigeait le réseau de renseignement impérial à Vvardenfell.
+
+Cosades guida les premiers pas du futur Nérévarine, l'orientant vers les contacts nécessaires tout en collectant des informations sur la prophétie et la menace grandissante de Dagoth Ur. Ce patronage impérial témoigne de la convergence rare entre les intérêts politiques de l'Empire et les forces prophétiques de l'univers.
+
+## La confrontation avec Dagoth Ur
+
+**Dagoth Ur** — autrefois **Voryn Dagoth**, un seigneur chimer trahi par le futur Tribunal — s'était éveillé sous la Montagne Rouge, alimenté par le **Coeur de Lorkhan**. Sa puissance grandissante menaçait tout Morrowind à travers le **Sixième Fléau** — une maladie surnaturelle transformant ses victimes en monstres dévoués à sa cause — et la construction du second **Numidium**, Akulakhan.
+
+Le Nérévarine, équipé de **Wraithguard**, **Sunder** et **Keening** — les outils de **Kagrenac** — pénétra dans le coeur de la Montagne Rouge et détruisit le Coeur de Lorkhan. Cet acte anéantit Dagoth Ur, dont l'existence dépendait du Coeur, mais détruisit simultanément la source de pouvoir du Tribunal, condamnant **Vivec**, **Almalexia** et **Sotha Sil** à la mortalité.
+
+## Le rapport avec le Tribunal
+
+La relation du Nérévarine avec le **Tribunal** est complexe. Théologiquement, il est leur némésis — la vengeance de Nerevar qu'ils avaient trahi et tué. Pratiquement, **Vivec** lui-même l'aida à accomplir la prophétie, lui fournissant Wraithguard et des informations cruciales. Ce paradoxe — un dieu aidant l'instrument de sa propre chute — reflète la complexité morale du personnage de Vivec.
+
+Après la destruction du Coeur, la perte de leur divinité condamna les trois membres du Tribunal à des destins tragiques : **Sotha Sil** fut assassiné par Almalexia, **Almalexia** sombra dans la folie et fut elle-même détruite, et **Vivec** disparut mystérieusement — emporté, selon certains, par les **Daedra** en compensation de ses crimes passés.
+
+## L'après-prophétie
+
+Après l'accomplissement de la prophétie, le Nérévarine devint une figure d'une importance politique immense en Morrowind. Reconnu simultanément comme Hortator (chef de guerre) par les Grandes Maisons et comme Nérévarine par les Tribus Cendraises, il possédait une légitimité que nul autre individu en Morrowind ne pouvait revendiquer.
+
+Pourtant, selon les traditions ultérieures, le Nérévarine quitta Morrowind après l'accomplissement de sa mission — certains disent vers **Akavir**, d'autres vers des destinations inconnues. Comme d'autres héros prophétiques, il semble que le destin n'avait plus d'usage pour lui une fois la prophétie accomplie.
+
+## Le prisonnier comme archétype
+
+Le Nérévarine illustre parfaitement l'archétype du « Prisonnier » dans la métaphysique des Elder Scrolls — un être dont la nature fondamentale est l'absence de destin fixe, ce qui paradoxalement lui permet d'accomplir n'importe quel destin. Le Prisonnier est libre précisément parce qu'il n'est rien : sans passé, sans identité, sans attaches, il peut devenir n'importe quoi — y compris la réincarnation d'un ancien roi.
+
+Cette liberté métaphysique est ce qui distingue le Nérévarine des dizaines de prétendants qui échouèrent avant lui : ils avaient une identité, une histoire, des liens — autant de chaînes qui les empêchaient de devenir véritablement Nerevar. Le prisonnier sans nom, dépouillé de tout, pouvait s'emplir entièrement de la prophétie.

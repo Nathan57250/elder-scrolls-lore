@@ -1,0 +1,124 @@
+---
+title: "Les Royaumes Daedriques — Domaines des Princes"
+slug: "daedric-realms"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "princes-daedriques", "royaumes", "coldharbour", "apocrypha", "deadlands", "shivering-isles", "oblivion"]
+timelineYear: -99900
+summary: "Description détaillée de chaque royaume des Princes Daedriques, leur géographie, leurs habitants et les expériences des mortels qui les ont visités."
+sources: ["UESP: Planes of Oblivion", "The Doors of Oblivion", "TES IV: Shivering Isles", "TES Online: Coldharbour", "TES V: Dragonborn - Apocrypha"]
+---
+
+## Introduction
+
+Chaque **Prince Daedrique** possède un royaume personnel dans les plans d'**Oblivion** — une dimension entière façonnée par sa volonté et reflétant sa sphère d'influence. Ces royaumes ne sont pas de simples lieux : ils sont des extensions vivantes de la personnalité de leur maître, des univers où un seul esprit est loi absolue.
+
+Les mortels qui visitent ces royaumes — volontairement ou non — y trouvent des paysages impossibles, des dangers inimaginables, et parfois des récompenses au prix terrible.
+
+## Havreglace (Coldharbour)
+
+### Le Domaine de Molag Bal
+
+**Havreglace** est le royaume de **Molag Bal**, Prince de la domination, du viol et des intrigues. C'est peut-être le plan le plus redouté de tous — une parodie désolée de **Nirn** elle-même, comme si le monde mortel avait été vidé de toute chaleur et de toute espérance.
+
+### Géographie
+
+Le paysage d'Havreglace est une version corrompue de Tamriel : on y reconnaît des structures familières — villes, forteresses, temples — mais toutes sont ruinées, gelées et dépourvues de vie. Un ciel gris et oppressant surplombe des plaines de glace noire. La lumière est rare, toujours froide, et le silence n'est brisé que par les gémissements des âmes captives.
+
+### La Cité Impériale d'Havreglace
+
+Au centre du royaume se dresse une réplique grotesque de la **Cité Impériale** — les mêmes rues, les mêmes bâtiments, mais vidés de toute humanité et remplis de **Daedra** serviteurs. C'est le trône de Molag Bal, depuis lequel il orchestre ses plans de conquête de Mundus.
+
+### Le Planemeld
+
+En 2E 582, Molag Bal tenta de **fusionner** Havreglace avec Nirn dans un événement appelé le **Planemeld** — utilisant des **Ancres Sombres** pour attirer physiquement le monde mortel dans son royaume. Le **Vestige** (héros d'ESO) mit fin à cette menace en affrontant Molag Bal dans son propre domaine.
+
+## Apocrypha
+
+### Le Domaine d'Hermaeus Mora
+
+**Apocrypha** est le royaume d'**Hermaeus Mora**, Prince du destin, du savoir interdit et de la mémoire. C'est une bibliothèque sans fin — un cosmos de connaissances accumulées depuis l'aube des temps.
+
+### L'Architecture du Savoir
+
+Apocrypha se manifeste comme un enchevêtrement infini de :
+- **Bibliothèques** sans murs ni plafond, s'étendant à l'infini
+- **Océans d'encre noire** séparant des archipels de livres
+- **Tentacules** émergeant de chaque surface, parfois formant des ponts ou des escaliers
+- **Tours de livres** s'élevant vers un ciel de parchemin
+
+Les **Seekers** et les **Lurkers** — serviteurs d'Hermaeus Mora — patrouillent ce labyrinthe, protégeant les secrets les plus dangereux.
+
+### Les Livres Noirs
+
+Les **Livres Noirs** sont des artefacts permettant aux mortels d'entrer physiquement dans Apocrypha. Le **Dragonborn** utilisa ces ouvrages pour affronter **Miraak**, le premier Enfant de Dragon, qui avait été piégé en Apocrypha pendant des millénaires après avoir défié son maître Hermaeus Mora.
+
+## Les Deadlands
+
+### Le Domaine de Mehrunes Dagon
+
+Les **Deadlands** sont le royaume de **Mehrunes Dagon**, Prince de la destruction, de l'ambition et du changement révolutionnaire. C'est un plan de guerre perpétuelle et de cataclysme constant.
+
+### Un Monde de Feu
+
+Le paysage des Deadlands est dominé par :
+- Des **mers de lave** s'étendant à perte de vue
+- Des **citadelles de fer et d'obsidienne** surplombant les flammes
+- Un **ciel rouge sang** illuminé par des éclairs constants
+- Des **plaines de cendres** où marchent les armées de Dremora
+
+Les **Dremora** — la caste guerrière des Daedra — sont les principaux habitants, organisés en une hiérarchie militaire rigide servant les desseins destructeurs de leur Prince.
+
+### La Crise d'Oblivion
+
+Pendant la **Crise d'Oblivion** (3E 433), les Deadlands furent le point de départ de l'invasion de Tamriel. Des centaines de **Portes d'Oblivion** s'ouvrirent sur Nirn, déversant les armées de Dagon. Le **Héros de Kvatch** pénétra à de multiples reprises dans les Deadlands pour fermer ces portails en détruisant les **Pierres de Sigil** qui les maintenaient.
+
+## Les Shivering Isles
+
+### Le Domaine de Sheogorath
+
+Les **Shivering Isles** sont le royaume de **Sheogorath**, Prince de la folie. C'est peut-être le plan d'Oblivion le plus fascinant — un lieu où la logique est un concept étranger et où la beauté côtoie l'horreur.
+
+### La Division Mania/Dementia
+
+Les Isles sont divisées en deux régions distinctes :
+- **Mania** (au nord) — la folie créative, joyeuse, colorée. Champignons géants luminescents, fleurs impossibles, habitants excentriques mais rarement dangereux
+- **Dementia** (au sud) — la folie destructrice, paranoïaque, sombre. Marais empoisonnés, arbres morts, habitants instables et violents
+
+### New Sheoth
+
+La capitale **New Sheoth** est elle-même divisée : **Bliss** (côté Mania) et **Crucible** (côté Dementia). Sheogorath règne depuis son palais au centre, arbitrant les conflits entre ses deux aspects avec une indifférence amusée.
+
+### Le Greymarch
+
+Cycliquement, Sheogorath se transforme en **Jyggalag** (Prince de l'ordre) dans un événement appelé le **Greymarch** — l'ordre détruit la folie, puis Sheogorath renaît. Ce cycle fut brisé quand le **Champion de Cyrodiil** devint le nouveau Sheogorath.
+
+## Evergloam
+
+### Le Domaine de Nocturnal
+
+**Evergloam** est un crépuscule éternel — un monde de brumes, d'ombres et de murmures. La lumière n'y est jamais vive, et les contours de toute chose sont flous. Les **Rossignols** — les champions de Nocturnal — y servent après leur mort, gardant les frontières entre les ombres.
+
+Le **Sepulcher du Crépuscule** en Bordeciel est un point de contact entre Nirn et Evergloam, gardé par les spectres des anciens Rossignols.
+
+## Le Hunting Grounds
+
+### Le Domaine d'Hircine
+
+Une forêt primordiale sans fin, éternellement baignée dans la lumière de la lune. Les **loups-garous** et les chasseurs morts au service d'**Hircine** y poursuivent des proies éternelles. Le paysage se transforme constamment pour offrir de nouveaux terrains de chasse. C'est un paradis sauvage pour ceux qui embrassent leur nature bestiale — et un enfer pour ceux qui y sont piégés comme gibier.
+
+## Moonshadow
+
+### Le Domaine d'Azura
+
+**Moonshadow** est décrit comme le plus beau de tous les plans d'Oblivion. Un éternel crépuscule aux couleurs de rose et de violet baigne des jardins d'une beauté surnaturelle. Les fleurs y chantent, l'air y est parfumé, et la lumière est toujours celle de l'aube ou du couchant. **Azura**, Princesse de l'aube et du crépuscule, y règne avec une grâce que même ses détracteurs reconnaissent.
+
+## Les Colored Rooms
+
+### Le Domaine de Meridia
+
+Les **Colored Rooms** de **Meridia** sont un plan de lumière pure et aveuglante. Contrairement à la plupart des royaumes daedriques, c'est un lieu activement hostile aux **morts-vivants** et à la nécromancie. Meridia, bien que techniquement un Prince Daedrique, est d'origine Magna-Ge — ce qui explique son affinité pour la lumière d'Aetherius.
+
+## L'Expérience Mortelle
+
+Les mortels qui visitent ces royaumes rapportent universellement un sentiment d'**oppression** — la conscience écrasante d'être dans un lieu gouverné par une intelligence alien et toute-puissante. Le temps s'écoule différemment, les sens sont trompés, et la volonté est constamment testée. Survivre à une visite dans un plan d'Oblivion est un exploit ; en revenir inchangé est pratiquement impossible.

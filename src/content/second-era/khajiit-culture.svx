@@ -1,0 +1,77 @@
+---
+title: "La Culture Khajiit"
+slug: "culture-khajiit"
+era: "second-era"
+category: "races"
+tags: ["khajiit", "furstocks", "crinière", "sucre de lune", "skooma", "riddle'thar"]
+timelineYear: 309
+summary: "Étude approfondie de la culture khajiit, des dix-sept morphologies lunaires aux traditions spirituelles du Riddle'Thar et au rôle sacré de la Crinière."
+sources: ["Words of Clan Mother Ahnissi", "Erta's Report on the Khajiit", "The Moon Cats and their Dance", "Ahzirr Traajijazeri"]
+---
+
+# La Culture Khajiit
+
+## Un peuple façonné par les lunes
+
+Les Khajiits d'Elsweyr constituent l'une des civilisations les plus fascinantes et les plus incomprises de Tamriel. Peuple félin aux origines liées aux Bosmers par l'ancêtre commune Nirni, les Khajiits se distinguent de toutes les autres races par une caractéristique unique : leur morphologie physique est entièrement déterminée par les phases des deux lunes de Nirn — Masser (Jone) et Secunda (Jode) — au moment de leur naissance.
+
+Cette relation entre les lunes et la forme physique n'est ni métaphorique ni superstitieuse. Elle constitue le fondement biologique, spirituel et culturel de l'ensemble de la société khajiit. Les Khajiits appellent ce système le **Treillis Lunaire** (Lunar Lattice), un réseau de forces cosmiques qui lie leur peuple aux rythmes célestes.
+
+## Les Furstocks : dix-sept formes
+
+Le terme **Furstock** désigne chacune des morphologies possibles pour un Khajiit. La tradition en reconnaît dix-sept, bien que certaines soient si rares qu'elles n'ont pas été observées depuis des générations :
+
+**Les formes quadrupèdes :**
+- **Alfiq** — ressemblant à un chat domestique ordinaire, mais doué de parole et d'intelligence. Souvent sous-estimés, les Alfiq sont de redoutables mages.
+- **Alfiq-raht** — légèrement plus grand que l'Alfiq, de la taille d'un gros chat sauvage.
+- **Senche** — un félin massif de la taille d'un cheval, parfois utilisé comme monture par d'autres Khajiits.
+- **Senche-raht** — le plus grand des Furstocks quadrupèdes, rivalisant en taille avec un mammouth.
+
+**Les formes bipèdes :**
+- **Suthay-raht** — la forme la plus communément rencontrée hors d'Elsweyr, digitigrade avec une fourrure complète et une queue.
+- **Cathay** — bipède de taille humaine, plus robuste que le Suthay-raht.
+- **Cathay-raht** — aussi appelé « homme-jaguar », imposant et puissamment musclé.
+- **Ohmes** — presque indistinguable d'un Bosmer, sans fourrure visible ni queue apparente.
+- **Ohmes-raht** — similaire à l'Ohmes mais conservant une légère fourrure et des traits plus félins.
+- **Tojay** et **Tojay-raht** — formes mystérieuses rarement documentées, associées aux régions boisées.
+- **Dagi** et **Dagi-raht** — petits et agiles, adaptés à la vie arboricole dans les forêts de Tenmar.
+- **Pahmar** et **Pahmar-raht** — ressemblant à de grands félins bipèdes, puissants guerriers.
+
+La **Crinière** (Mane) et les **Lunes mortes** (Moons die) constituent des cas à part, liés à des configurations lunaires exceptionnelles.
+
+## La Crinière (The Mane)
+
+La **Crinière** est le dirigeant spirituel de tous les Khajiits, né uniquement lorsque les deux lunes sont alignées d'une manière extraordinairement rare. Il n'existe jamais plus d'une Crinière en vie à la fois. Ce n'est pas un roi au sens politique — c'est une incarnation vivante de la volonté lunaire, un être dont l'existence même lie le peuple khajiit aux forces célestes.
+
+Traditionnellement, la Crinière ne marche jamais : elle est portée par des serviteurs dévoués. Sa chevelure — ou plus exactement sa crinière — est tressée avec les mèches offertes par chaque Khajiit qui lui rend visite, symbolisant l'unité du peuple tout entier. Au fil du temps, cette crinière devient si volumineuse et si lourde qu'elle nécessite plusieurs porteurs.
+
+Le rôle de la Crinière est celui d'unificateur, de médiateur entre les clans souvent rivaux d'Elsweyr, et de gardien des traditions spirituelles ancestrales.
+
+## Le Sucre de Lune et le Skooma
+
+Le **Sucre de Lune** (Moon Sugar) est bien plus qu'une simple drogue aux yeux des Khajiits. Cette substance cristalline, récoltée dans les champs de canne à sucre d'Elsweyr, est considérée comme la « sueur cristallisée » des deux lunes elles-mêmes. Sa consommation fait partie intégrante de la cuisine, de la médecine et de la spiritualité khajiit.
+
+Pour les Khajiits, le Sucre de Lune est un sacrement qui renforce leur connexion au Treillis Lunaire. Sa prohibition dans les autres provinces de Tamriel est perçue comme une incompréhension culturelle profonde, voire comme une forme d'oppression impériale.
+
+Le **Skooma**, en revanche, est une distillation concentrée et altérée du Sucre de Lune. Même au sein de la société khajiit, le Skooma est considéré avec ambivalence — reconnu comme dangereux et addictif, il demeure néanmoins présent dans certains rituels et sa prohibition totale n'a jamais fait consensus.
+
+## Le Riddle'Thar
+
+Le **Riddle'Thar Epiphany** (l'Épiphanie du Riddle'Thar), survenue en 2E 309 sous la direction de la Crinière Rid-Thar-ri'Datta, constitua une révolution théologique majeure. Cette réforme religieuse unifia les deux royaumes khajiits — Anequina au nord et Pellitine au sud — sous un même cadre spirituel.
+
+Le Riddle'Thar (littéralement « le Sucre caché » ou « l'Énigme ») établit un nouveau paradigme :
+
+- Les anciens cultes des dieux individuels furent subordonnés à une cosmologie unifiée
+- Les phases lunaires devinrent le calendrier rituel officiel de tout le peuple
+- La hiérarchie religieuse fut restructurée autour des Mères de Clan
+- Un code moral basé sur l'équilibre et la modération remplaça les anciennes traditions guerrières
+
+Le Riddle'Thar n'est pas un dieu mais un concept — l'idée que la vérité spirituelle est un mystère que chaque Khajiit doit résoudre individuellement, guidé par les lunes et les enseignements des Mères de Clan.
+
+## Le Treillis Lunaire (Lunar Lattice)
+
+Le **Treillis Lunaire** désigne le réseau de forces cosmiques qui lie Jone et Jode aux Khajiits. Selon la théologie khajiit, ce treillis fut créé par Azurah (leur nom pour Azura) lorsqu'elle façonna les premiers Khajiits à partir des Bosmers originels, leur donnant la capacité de changer de forme selon les lunes.
+
+Ce n'est pas seulement un concept religieux : le Treillis a des effets mesurables. Les Khajiits ressentent physiquement les éclipses lunaires, et la disparition temporaire des lunes lors de la Crise du Néant provoqua une panique existentielle à travers tout Elsweyr — un traumatisme qui fut exploité par les Thalmors pour rallier les Khajiits au Domaine Aldmeri.
+
+Le Treillis Lunaire représente ainsi le lien indissoluble entre les Khajiits, leur terre, leurs lunes et leur identité même — un lien qu'aucune autre race de Tamriel ne peut véritablement comprendre.

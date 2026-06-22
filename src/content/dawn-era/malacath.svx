@@ -1,0 +1,64 @@
+---
+title: "Malacath"
+slug: "malacath"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "prince-daedrique", "orques", "trinimac", "parias", "code"]
+timelineYear: -99840
+summary: "Malacath, anciennement Trinimac, Prince Daedrique des parias et des Orques, gardien du Code de Malacath."
+sources: ["Le Vrai Noble Sang", "La Malédiction de l'Orque", "Le Code de Malacath", "Les Véritables Origines des Orques"]
+---
+
+## Le Prince des Parias
+
+**Malacath** est le Prince Daedrique des parias, des asservis et de ceux qui ont juré vengeance. Patron des **Orques**, il est unique parmi les Princes Daedriques car il ne fut pas toujours un Daedra. Malacath est la forme corrompue et transformée de **Trinimac**, autrefois le plus puissant champion des Aedra, un guerrier divin vénéré par les Aldmer de l'aube des temps.
+
+Cette dualité fait de Malacath une figure profondément tragique et complexe. Il est à la fois le protecteur féroce de ceux que la société rejette et un rappel vivant que même les plus nobles peuvent être déchus. Sa relation avec ses fidèles est brutale mais sincère : il ne promet pas le paradis mais la force de survivre dans un monde hostile.
+
+## La Chute de Trinimac
+
+L'histoire de la transformation de Trinimac en Malacath est l'un des mythes les plus marquants de la cosmologie de Tamriel. Trinimac était le champion d'**Auriel** (l'aspect elfique d'Akatosh), le plus puissant des esprits divins après les Aedra principaux. Il menait les armées aldmer contre les forces du changement et de la tromperie.
+
+Lorsque le prophète Veloth commença à prêcher la parole de **Boethia** et à guider les Chimer (futurs **Dunmer**) vers l'exode de la Cité de Cristal, Trinimac s'opposa à lui. Selon la légende, **Boethia** défia Trinimac et, par la ruse ou la force, le dévora. À l'intérieur de Boethia, Trinimac fut corrompu, digéré spirituellement, et lorsque Boethia le recracha, il était devenu Malacath, une chose tordue et diminuée.
+
+Les fidèles de Trinimac qui assistèrent à cette humiliation furent transformés en même temps que leur dieu, devenant les premiers Orques, les Orsimer. Leur peau devint verte, leurs traits grossirent et ils furent chassés par les autres elfes qui les considéraient désormais comme des aberrations. Ce traumatisme originel marque encore la culture orque des millénaires plus tard.
+
+## Le Code de Malacath
+
+Le Code de Malacath est l'ensemble des lois et traditions qui régissent la société orque. C'est un système brutal mais cohérent, fondé sur la force, l'honneur et la vengeance. Le Code établit les règles suivantes :
+
+Ne volez pas. Ne trichez pas. Ne mentez pas. Si vous êtes offensé, exigez réparation par le sang. Le fort gouverne le faible. Le chef prouve sa valeur par le combat. Les vieux et les faibles qui ne peuvent plus contribuer doivent chercher une mort honorable.
+
+Ce code peut sembler barbare aux yeux des autres cultures, mais il a une logique interne impeccable. Dans un monde qui rejette les Orques, seule la force garantit la survie. Le Code de Malacath transforme cette nécessité en vertu, faisant de la brutalité un sacrement et de la résilience une prière.
+
+## Malacath et les Orques
+
+La relation entre Malacath et les Orques est celle d'un père dur avec ses enfants. Il ne les console pas mais les pousse à être plus forts. Il ne les protège pas mais leur donne les outils pour se protéger eux-mêmes. Cette approche produit un peuple endurci, capable de survivre dans les conditions les plus hostiles.
+
+Les strongholds (forteresses) orques de Bordeciel et de Haute-Roche sont organisés selon le Code de Malacath. Le chef (Ashkan) gouverne par la force et peut être défié à tout moment par un rival. Les forgerons sont les membres les plus respectés après le chef, car les armes et armures orques sont réputées comme les plus solides de Tamriel.
+
+Les chamanes orques communiquent directement avec Malacath, recevant ses instructions et transmettant sa volonté. Contrairement aux prêtres d'autres divinités, ils ne sont pas des intercesseurs doux mais des porteurs de la parole brutale de leur Prince.
+
+## Ashpit, le Royaume de Malacath
+
+Le plan d'Oblivion de Malacath est l'Ashpit (Fosse de Cendres), un monde désolé de cendres et de poussière. C'est un lieu austère et impitoyable, reflétant parfaitement la philosophie de son maître. Seuls les Orques les plus forts et les plus honorables y trouvent leur repos final, prouvant leur valeur pour l'éternité dans des épreuves sans fin.
+
+L'Ashpit n'est pas un paradis au sens traditionnel. C'est un lieu d'éternel combat et d'épreuve, où les âmes des Orques méritants peuvent enfin se battre sans contraintes dans un monde qui ne les rejette plus. Pour un peuple habitué à l'exclusion, un royaume qui leur appartient en propre, aussi rude soit-il, est une récompense en soi.
+
+## Le Volendrung
+
+Le **Volendrung** est le marteau légendaire de Malacath, l'un des artefacts daedriques les plus puissants de Tamriel. Ce marteau colossal absorbe l'endurance de ses victimes pour la transférer à son porteur. Son nom fait référence aux **Dwemer** et à leur cité de Volenfell, suggérant une histoire complexe entre les Orques et les Elfes des Profondeurs.
+
+Le Volendrung change de mains au fil des ères, apparaissant toujours là où Malacath juge qu'un champion en a besoin. Il est à la fois une arme et un symbole : celui qui le porte est reconnu comme le champion de Malacath, un guerrier qui a prouvé sa valeur au-delà de tout doute.
+
+## La Question de l'Identité
+
+Un débat théologique persistant entoure Malacath : est-il véritablement Trinimac transformé ou une entité entièrement nouvelle qui a pris la place de l'ancien dieu ? Malacath lui-même semble rejeter la connexion, déclarant parfois que Trinimac est mort et qu'il est quelque chose d'autre. Les Orques ne se soucient guère de cette question académique, acceptant Malacath tel qu'il est.
+
+Certains Orsimer ont tenté de restaurer le culte de Trinimac, croyant que leur dieu originel peut être retrouvé sous la corruption de Malacath. Ces mouvements sont considérés comme hérétiques par les traditionalistes et créent des tensions au sein de la communauté orque, particulièrement dans la cité d'**Orsinium**.
+
+## Héritage et Influence
+
+L'influence de Malacath dépasse les Orques. Tout paria, tout rejeté, tout être qui a connu l'injustice de l'exclusion peut trouver un écho dans son culte. Les esclaves libérés, les exilés politiques et les criminels en quête de rédemption par la force sont tous des fidèles potentiels.
+
+Dans un monde qui valorise la civilité et la diplomatie, Malacath rappelle une vérité inconfortable : parfois, la seule réponse à l'injustice est la force brute. Cette philosophie fait de lui un Prince controversé mais indéniablement puissant dans le panthéon daedrique.

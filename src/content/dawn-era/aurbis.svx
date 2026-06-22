@@ -1,0 +1,68 @@
+---
+title: "L'Aurbis — Structure de la Réalité"
+slug: "aurbis"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["aurbis", "aetherius", "oblivion", "mundus", "nirn", "chim", "amaranth", "godhead"]
+timelineYear: -9999
+summary: "La cosmologie de l'univers Elder Scrolls : Aetherius, Oblivion, Mundus, et les théories métaphysiques (CHIM, Amaranth, Godhead) qui sous-tendent toute la réalité."
+sources: ["UESP: Cosmology", "The Imperial Library: Cosmology", "Loveletter from the Fifth Era"]
+---
+
+![Structure de l'Aurbis](/images/dawn-era/aurbis-map.png)
+
+## Vue d'Ensemble
+
+L'**Aurbis** est la totalité de l'existence dans l'univers Elder Scrolls. Ce n'est pas simplement un "univers" au sens physique — c'est un ensemble de plans d'existence imbriqués, chacun obéissant à ses propres lois.
+
+La structure de l'Aurbis peut être visualisée comme un ensemble de sphères concentriques :
+
+## Les Plans d'Existence
+
+### Aetherius — Le Plan Immortel
+Le plan de la magie pure et de l'énergie créatrice. C'est d'Aetherius que vient toute la **magie** de Mundus — elle filtre à travers les étoiles et le soleil (qui sont les trous laissés par Magnus et les Magna-Ge quand ils fuirent la création).
+
+Les âmes des morts vertueux rejoignent Aetherius (Sovngarde pour les Nordiques, le Far Shore pour les Rougegardes, etc.).
+
+### Oblivion — Les Royaumes Daedriques
+Un vaste espace contenant les royaumes personnels des **Princes Daedriques** — des plans de réalité façonnés par la volonté de chaque Prince :
+- **Havreglace** (Molag Bal) — un lieu de domination et de froid
+- **Shivering Isles** (Sheogorath) — folie, divisé en Mania et Dementia
+- **Apocrypha** (Hermaeus Mora) — bibliothèque infinie de savoir interdit
+- **Deadlands** (Mehrunes Dagon) — flammes et destruction éternelles
+
+### Mundus — Le Plan Mortel
+Le monde physique, au centre duquel se trouve **Nirn** — la planète où vivent les mortels. Tamriel est le continent principal de Nirn.
+
+Mundus est unique car il est le seul plan où le **temps** s'écoule linéairement (grâce à Akatosh) et où les êtres sont mortels.
+
+## Les Théories Métaphysiques
+
+### Le Godhead (la Tête Divine)
+Selon certaines interprétations ésotériques, **toute la réalité est un rêve**. L'Aurbis entier existe dans l'esprit d'un être appelé le **Godhead** — un dormeur cosmique dont le rêve constitue l'existence.
+
+### CHIM
+Le **CHIM** (prononcé "KIM") est l'état de conscience où un être réalise qu'il est un personnage dans le Rêve du Godhead — **tout en refusant de cesser d'exister**. C'est affirmer "JE SUIS" face à la révélation que vous n'êtes pas réel.
+
+Ceux qui atteignent le CHIM sans se dissoudre gagnent un pouvoir quasi-omnipotent au sein du Rêve. Vivec et Tiber Septim sont les deux individus les plus souvent cités comme ayant atteint le CHIM.
+
+### L'Amaranth
+Au-delà du CHIM existe l'**Amaranth** — la capacité de **rêver son propre rêve**, devenant un nouveau Godhead et créant un nouvel Aurbis indépendant. C'est la transcendance ultime.
+
+### Zéro-Somme
+L'échec du CHIM. Quand un être réalise qu'il n'est pas réel mais **ne parvient pas à maintenir son identité**, il se **zéro-somme** — il cesse d'exister, effacé de la réalité comme s'il n'avait jamais été.
+
+## Les Tours
+
+Les **Tours** sont des structures métaphysiques qui ancrent la réalité de Mundus. Chacune a une **Pierre** (un artefact ou concept qui l'active) :
+
+| Tour | Pierre | Statut |
+|------|--------|--------|
+| Ada-Mantia (Direnni) | Convention (l'événement) | Active |
+| Tour d'Or Blanc | Amulette des Rois | Désactivée (3E 433) |
+| Tour Écarlate | Cœur de Lorkhan | Désactivée (3E 427) |
+| Tour de Neige | Inconnue | Statut incertain |
+| Tour d'Orichalque | Inconnue | Détruite (submersion de Yokuda) |
+| Tour de Cristal | Inconnue | Désactivée (4E ~?) |
+
+Si toutes les Tours sont désactivées, la Convention serait "annulée" et Mundus pourrait se dissoudre — ce que le Thalmor, selon certaines théories, chercherait activement à accomplir pour restaurer l'état elfique primordial.

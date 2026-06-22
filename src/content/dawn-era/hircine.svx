@@ -1,0 +1,101 @@
+---
+title: "Hircine — Prince de la Chasse"
+slug: "hircine"
+era: "dawn-era"
+category: "daedra"
+tags: ["hircine", "prince daedrique", "lycanthropie", "chasse", "hunting grounds", "loups-garous", "compagnons"]
+timelineYear: 0
+summary: "Hircine est le Prince Daedrique de la Chasse, créateur de la lycanthropie et maître des Hunting Grounds. Son influence touche les Compagnons de Jorvaskr et tous les lycanthropes de Tamriel."
+sources: ["UESP: Hircine", "On Lycanthropy", "Events of TES III: Bloodmoon"]
+---
+
+## Présentation
+
+**Hircine** est le Prince Daedrique de la Chasse, de la Traque, et du Sport. Sa sphère ne concerne pas la cruauté gratuite mais la **relation primordiale entre prédateur et proie** — le frisson de la poursuite, le respect de la bête, et le cycle de la chasse.
+
+Il se manifeste souvent comme un être massif avec une **tête de cerf** (ou portant un crâne de cerf cornu), un corps musculeux, et une aura sauvage.
+
+## Les Hunting Grounds
+
+Le royaume d'Hircine, les **Hunting Grounds** (Terrains de Chasse), est un paradis de chasseur :
+- Des forêts infinies, denses et sauvages
+- Le gibier le plus dangereux de tous les plans
+- Les lycanthropes fidèles y chassent pour l'éternité après la mort
+- Le jour, les chasseurs traquent — la nuit, ils deviennent le gibier
+- C'est un cycle éternel et joyeux pour ceux qui embrassent la bête
+
+### L'Alternative à Sovngarde
+Pour les Nordiques lycanthropes (comme les Compagnons), les Hunting Grounds remplacent **Sovngarde** :
+- Les Compagnons du Cercle y vont après la mort
+- Kodlak Blancemane chercha à se libérer du lien pour rejoindre Sovngarde
+- Le Dovahkiin peut libérer l'âme de Kodlak des Hunting Grounds
+
+## La Lycanthropie
+
+Hircine est le **créateur de la lycanthropie** :
+- La bénédiction/malédiction qui transforme les mortels en bêtes
+- Les loups-garous sont les plus communs, mais d'autres formes existent :
+  - **Werebears** (ours-garous) — Solstheim, Nord
+  - **Werecrocodiles** — Marais Noir
+  - **Wereboars** (sangliers-garous) — Haute-Roche
+  - **Werelions** — Elsweyr
+  - **Werevultures** — Valenwood
+  - **Weresharks** — (mentionnés, non confirmés)
+
+### Transmission
+La lycanthropie se transmet par :
+- Morsure d'un lycanthrope transformé (le plus commun)
+- Rituel avec le sang d'un lycanthrope (Compagnons de Jorvaskr)
+- Bénédiction directe d'Hircine (rare)
+- Malédiction d'Hircine sur un individu (punition)
+
+## L'Anneau d'Hircine
+
+Son artefact daedrique est l'**Anneau d'Hircine** :
+- Permet au porteur de se transformer à volonté (hors lycanthropes)
+- Pour les lycanthropes : transformations supplémentaires
+- Maudit dans certaines versions : transformations incontrôlées
+- Offert au vainqueur de la Grande Chasse
+
+## La Grande Chasse (Bloodmoon)
+
+La **Grande Chasse** est l'événement majeur d'Hircine :
+- Se produit quand la lune devient rouge sang
+- Hircine manifeste un aspect sur Nirn
+- Il choisit un gibier "digne" et des chasseurs
+- La chasse se déroule jusqu'à ce que le gibier ou les chasseurs meurent
+- En 3E 427 sur Solstheim, le Nérévarrin fut impliqué dans la Bloodmoon
+
+## Les Compagnons et Hircine
+
+Le **Cercle** des Compagnons de Jorvaskr (Blancherive) porte le sang d'Hircine :
+- Transmis depuis les premiers Compagnons via les Sorcières de Glenmoril
+- Confère la transformation en loup-garou
+- Donne : force, vitesse, régénération, sens accrus
+- Coûte : l'âme va aux Hunting Grounds, pas à Sovngarde
+- Certains membres (Kodlak) considèrent cela comme une malédiction
+
+## Philosophie
+
+Hircine est l'un des Princes les plus "honorables" :
+- Il respecte le gibier digne
+- La chasse a des **règles** — ce n'est pas du massacre
+- Le prédateur et la proie sont tous deux honorés
+- Il ne méprise pas les mortels — il les considère comme du gibier potentiel
+- La mort à la chasse est une **mort honorable**, pas une punition
+
+### Code du Chasseur
+- Traquer avec habileté, pas avec cruauté
+- Respecter la proie — ne pas gaspiller
+- La chasse est un sport, pas une extermination
+- Le plus dangereux gibier est le plus honorable
+- Tuer sans défi est indigne
+
+## Relations
+
+| Prince | Relation |
+|--------|----------|
+| Meridia | Indifférence (sphères non-conflictuelles) |
+| Namira | Contraste (elle consomme, lui chasse) |
+| Molag Bal | Opposition (domination vs sport) |
+| Kynareth/Kyne | Domaines adjacents (nature sauvage) |

@@ -1,0 +1,119 @@
+---
+title: "Les Artefacts Daedriques"
+slug: "artefacts-daedriques"
+era: "dawn-era"
+category: "artefacts"
+tags: ["artefacts", "daedra", "princes daedriques", "puissance", "quêtes daedriques"]
+timelineYear: -9999
+summary: "Les artefacts daedriques sont des objets de puissance immense créés par les Princes Daedriques — offerts aux mortels en échange de services, ils traversent les ères en passant de main en main."
+sources: ["UESP: Daedric Artifacts", "Tamrielic Lore", "The Imperial Library: Daedric Quests"]
+---
+
+## Nature des Artefacts
+
+Les artefacts daedriques sont fondamentalement différents des objets enchantés ordinaires :
+- Créés par la **volonté directe** d'un Prince Daedrique
+- **Indestructibles** par des moyens conventionnels
+- Tendent à **revenir** à leur Prince après un temps (des décennies ou siècles)
+- Possèdent souvent une **conscience** ou une volonté propre
+- Leur puissance est liée à la sphère du Prince créateur
+
+## Les Artefacts Majeurs
+
+### Azura — L'Étoile d'Azura
+- Gemme d'âme réutilisable à l'infini
+- Ne capture normalement que les âmes de créatures (pas humaines)
+- Peut être corrompue en **Étoile Noire** pour capturer des âmes humaines
+- L'un des artefacts les plus désirés par les enchanteurs
+
+### Boethiah — L'Ébonyte (Ebony Mail)
+- Armure lourde d'ébonite enchantée
+- Enveloppe le porteur d'un nuage de poison
+- Rend partiellement invisible quand accroupi
+- Accordée à celui qui prouve sa valeur par la trahison
+
+### Clavicus Vile — Le Masque de Clavicus Vile
+- Masque augmentant la persuasion et le marchandage
+- Barbe (son chien) est souvent séparé du Masque
+- Clavicus Vile est connu pour ses pactes à double tranchant
+- L'artefact le plus "sûr" car passif
+
+### Hermaeus Mora — L'Oghma Infinium
+- Livre de savoir ultime accordant une augmentation massive de compétences
+- Se désintègre après lecture
+- Contient le savoir interdit compilé par Xarxes, scribe d'Auri-El
+- Obtenu en servant les intérêts de Mora
+
+### Hircine — L'Anneau d'Hircine
+- Permet de contrôler les transformations de loup-garou
+- Sans l'anneau, les transformations sont aléatoires
+- Alternative : **Cuirasse du Sauveur** (Savior's Hide) — résistance magique
+
+### Malacath — Volendrung
+- Marteau de guerre colossal d'origine orque
+- Draine la stamina des ennemis
+- Symbole de la puissance brutale des Orsimer
+- Passe entre les mains des champions d'Orsinium
+
+### Mehrunes Dagon — Le Rasoir de Mehrunes
+- Dague avec une chance de tuer instantanément
+- Petit mais infiniment dangereux
+- Symbole de la destruction absolue de Dagon
+- Brisé en fragments, doit être reconstitué
+
+### Mephala — La Lame d'Ébonite (Ebony Blade)
+- Katana absorbant la vie des ennemis
+- Se renforce en tuant des personnes qui vous font **confiance**
+- Plus sombre artefact moralement — récompense la trahison
+- Murmure à son porteur, l'encourageant au meurtre
+
+### Meridia — L'Aube-brisée (Dawnbreaker)
+- Épée brûlant les morts-vivants avec la lumière de Meridia
+- Provoque une explosion solaire en tuant un mort-vivant
+- L'un des rares artefacts daedriques "bienveillants"
+- Meridia déteste les morts-vivants passionnément
+
+### Molag Bal — La Masse de Molag Bal
+- Masse drainant la force vitale et l'âme des victimes
+- Piège les âmes dans des gemmes
+- L'artefact le plus ouvertement maléfique
+- Obtenu en brisant la volonté d'un prêtre
+
+### Namira — L'Anneau de Namira
+- Permet de se nourrir de cadavres humains
+- Accorde régénération et stamina en consommant les morts
+- L'artefact le plus répugnant socialement
+- Lié au culte cannibalique de Namira
+
+### Nocturnal — Le Squelette Key (Skeleton Key)
+- Crochet incassable ouvrant n'importe quelle serrure
+- Pas seulement physique — "ouvre" aussi les barrières métaphysiques
+- Volé par Mercer Frey à la Guilde des Voleurs
+- Doit être retourné au Crépuscule Perpétuel
+
+### Sanguine — La Rose de Sanguine
+- Bâton invoquant un Dremora allié au combat
+- Obtenu après une nuit de débauche avec Sanguine
+- Artefact le plus "amusant" — reflète la nature festive de son Prince
+
+### Sheogorath — Le Wabbajack
+- Bâton aux effets totalement **aléatoires**
+- Peut transformer un ennemi en lapin, en Dremora, ou le soigner
+- Parfaite incarnation de la folie de Sheogorath
+- Impossible à utiliser stratégiquement
+
+### Vaermina — Le Crâne de Corruption (Skull of Corruption)
+- Bâton se chargeant avec les **rêves** des dormeurs
+- Projette des cauchemars comme projectiles
+- Se charge en se tenant près de personnes endormies
+- Représente le pouvoir de Vaermina sur les rêves
+
+## Cycle des Artefacts
+
+Les artefacts daedriques suivent un cycle :
+1. Un Prince offre l'artefact à un mortel méritant
+2. Le mortel l'utilise jusqu'à sa mort
+3. L'artefact "disparaît" et retourne au plan de son Prince
+4. Des décennies ou siècles plus tard, il réapparaît pour un nouveau champion
+
+Ce cycle explique pourquoi les mêmes artefacts apparaissent dans chaque jeu Elder Scrolls — ils sont éternels et en perpétuelle circulation.

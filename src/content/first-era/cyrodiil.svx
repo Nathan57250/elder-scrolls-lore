@@ -1,0 +1,85 @@
+---
+title: "Cyrodiil — Le Cœur de l'Empire"
+slug: "cyrodiil"
+era: "first-era"
+category: "lieux"
+tags: ["cyrodiil", "empire", "cité impériale", "colovie", "nibenay", "provinces"]
+timelineYear: 243
+summary: "La province de Cyrodiil, centre politique de Tamriel : berceau de trois empires, terre de diversité entre les guerriers coloviens et les raffinés nibénais."
+sources: ["UESP: Cyrodiil", "Pocket Guide to the Empire, 1st Edition", "The Imperial Library"]
+---
+
+## Géographie
+
+Cyrodiil occupe le centre de Tamriel, entouré par toutes les autres provinces. Malgré sa réputation de "province tempérée", c'est une terre de contrastes :
+
+### Régions
+- **Heartlands** — plaines centrales autour du lac Rumare et de la Cité Impériale
+- **Colovie** (ouest) — hautes terres boisées, peuplées de guerriers pragmatiques
+- **Nibenay** (est) — vallée fluviale fertile, culture raffinée et mercantile
+- **Gold Coast** — côte ouest prospère (Anvil, Kvatch)
+- **Blackwood** — marais au sud-est, frontière avec le Marais Noir
+- **Jerall Mountains** — massif montagneux nordique (frontière avec Bordeciel)
+- **Valus Mountains** — montagnes orientales (frontière avec Morrowind)
+
+### Le Lac Rumare
+Au centre exact de la province, le lac Rumare entoure l'**Île de la Cité** sur laquelle se dresse la Cité Impériale et la Tour d'Or Blanc.
+
+## La Cité Impériale
+
+La plus grande ville de Tamriel est construite autour de la **Tour d'Or Blanc** (White-Gold Tower) — une structure ayléide antérieure à toute civilisation humaine. La ville est organisée en districts circulaires :
+
+- **Green Emperor Way** — jardins et cimetière impérial
+- **Market District** — commerce
+- **Talos Plaza** — quartier résidentiel noble
+- **Temple District** — Temple des Divins
+- **Arcane University** — centre de la Guilde des Mages
+- **Arboretum** — jardins botaniques
+- **Waterfront** — quartier portuaire pauvre
+
+### La Prison Impériale
+Sous la Cité se trouvent les **Égouts Impériaux** et la Prison — point de départ de TES IV: Oblivion, où l'Empereur Uriel Septim VII fut assassiné.
+
+## Histoire Politique
+
+### Premier Empire (Alessien, 1E 243 - 1E 2331)
+Fondé par Sainte Alessia après la libération des humains de l'esclavage ayléide. Un empire théocratique centré sur le culte des Huit Divins et le monothéisme alessien.
+
+### Deuxième Empire (Reman, 1E 2703 - 2E 430)
+Fondé par Reman Cyrodiil qui unifia Tamriel contre l'invasion Akaviri. Dynastie éteinte par le Morag Tong, suivie de l'Interrègne.
+
+### Troisième Empire (Septim, 2E 854 - 4E 175)
+Fondé par Tiber Septim qui conquit tout Tamriel grâce au Numidium. La plus longue période de stabilité du continent. Terminé par la Crise d'Oblivion et la dynastie Mede qui suivit.
+
+## Culture Dualiste
+
+### Les Coloviens (Ouest)
+- Guerriers, légionnaires, gens de la frontière
+- Pragmatiques et directs
+- Architecture sobre en pierre
+- Proches des cultures nordique et rougegarde
+- Villes : Chorrol, Skingrad, Anvil, Kvatch
+
+### Les Nibénais (Est)
+- Marchands, nobles, érudits
+- Raffinés et politiquement subtils
+- Architecture ornée, jardins luxuriants
+- Influence elfique et akaviri dans la culture
+- Villes : Bravil, Leyawiin, Cheydinhal
+
+## La Légion Impériale
+
+L'armée de l'Empire est basée à Cyrodiil — une force professionnelle organisée sur le modèle romain :
+- **Légions** numérotées (10 en temps de paix, plus en guerre)
+- **Discipline** — entraînement rigoureux, code d'honneur
+- **Diversité** — toutes les races peuvent servir
+- **Garnisons** dans chaque province de l'Empire
+
+## Après la Crise d'Oblivion
+
+La fin de la dynastie Septim et la destruction de l'Amulette des Rois affaiblirent profondément Cyrodiil :
+- Perte du pacte d'Akatosh protégeant contre les invasions daedriques
+- Sécession de multiples provinces
+- Montée en puissance du Thalmor
+- Installation de la dynastie Mede (Titus Mede I)
+- Sac de la Cité Impériale lors de la Grande Guerre (4E 174)

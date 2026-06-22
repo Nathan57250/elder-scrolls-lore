@@ -1,0 +1,143 @@
+---
+title: "Sotha Sil"
+slug: "sotha-sil"
+era: "first-era"
+category: "personnages"
+tags: ["tribunal", "morrowind", "sotha-sil", "mécanique", "clockwork-city", "dwemer", "nerevar", "dunmer"]
+date: "1E ~500 — 3E 427"
+timelineYear: 700
+summary: "Sotha Sil, le Dieu Mécanique du Tribunal, est le créateur de la Cité Mécanique et le plus énigmatique des trois dieux vivants de Morrowind. Génie reclus et mélancolique, il chercha à perfectionner le monde par la raison et l'artifice."
+mapCoords: { x: 740, y: 310 }
+province: "Morrowind"
+aliases: ["Seht", "le Dieu Mécanique", "le Forgeur d'Horlogerie", "Père de la Cité Mécanique", "le Magicien"]
+relatedArticles: ["tribunal", "nerevar", "vivec", "almalexia", "dwemer", "guerre-alliance"]
+sources: ["UESP: Sotha Sil", "The Truth in Sequence", "36 Lessons of Vivec", "The Imperial Library"]
+---
+
+![Sotha Sil dans sa Cité Mécanique](/images/first-era/sotha-sil.jpg)
+
+## Le Mortel Seht
+
+Avant de devenir un dieu, **Sotha Sil** — né **Seht** — était un enfant du village de **Ald Sotha**, un modeste établissement Chimer dans le sud de Morrowind. Son histoire mortelle est marquée par la tragédie : le village fut détruit lors d'un raid daédrique orchestré par **Méhrunes Dagon**, et le jeune Seht fut l'un des rares survivants.
+
+Recueilli et éduqé, il manifesta très tôt un intellect prodigieux. Sa capacité à comprendre les mécanismes du monde — qu'il s'agisse de magie, de mathématiques ou de philosophie — dépassait celle de tout autre mortel. Il devint naturellement l'un des conseillers les plus précieux de **Nerevar**, apportant une perspective analytique aux décisions de l'Hortator.
+
+## Le Plus Discret des Trois
+
+Parmi les compagnons de Nerevar qui formeraient le Tribunal, Sotha Sil était le moins visible. Là où **Vivec** était le poète charismatique et **Almalexia** la guérisseuse aimée du peuple, Sotha Sil était le penseur silencieux — celui qui réfléchissait pendant que les autres agissaient.
+
+Cette discrétion ne diminuait en rien son importance. C'est souvent Sotha Sil qui élaborait les stratégies, résolvait les problèmes insolubles et trouvait des solutions là où d'autres ne voyaient que des impasses.
+
+## L'Ascension Divine
+
+### La Bataille de la Montagne Rouge
+
+Sotha Sil participa à la Bataille de la Montagne Rouge aux côtés de Nerevar, Vivec et Almalexia. Après la disparition des Dwemer et la mort de Nerevar, il fut — avec les deux autres — complice de l'utilisation des **Outils de Kagrenac** sur le **Cœur de Lorkhan**.
+
+### La Transformation
+
+L'utilisation des Outils conféra à Sotha Sil un pouvoir divin, mais transforma aussi sa nature profonde. Là où Vivec embrassa sa dualité et où Almalexia se nourrit de l'adoration, Sotha Sil semble avoir été **accablé** par la divinité.
+
+Pour lui, devenir un dieu n'était pas une victoire — c'était un problème à résoudre. Comment un esprit rationnel gère-t-il l'omniscience partielle ? Comment un mortel supporte-t-il l'éternité ?
+
+## La Cité Mécanique
+
+### Conception
+
+L'oeuvre majeure de Sotha Sil est la **Cité Mécanique** (Clockwork City) — un monde entier, miniaturisé et perfectionné, contenu dans une sphère cachée quelque part sous Morrowind. Cette cité est son chef-d'oeuvre, son obsession et sa prison volontaire.
+
+La Cité Mécanique est une reproduction de Mundus — le monde mortel — mais **perfectionnée**. Chaque élément est remplacé par un équivalent mécanique plus efficace, plus ordonné, plus prévisible :
+
+- Le ciel est un dôme d'engrenages lumineux
+- Les arbres sont des structures de laiton articulées
+- L'eau est un fluide synthétique aux propriétés contrôlées
+- Les créatures sont des automates aux comportements programmés
+- Même la lumière et le son sont régulés mécaniquement
+
+### Philosophie du Projet
+
+La Cité Mécanique n'est pas un simple exercice d'ingénierie — c'est une **thèse philosophique matérialisée**. Sotha Sil croyait que le monde mortel était imparfait non par nature, mais par manque de design. Si un esprit suffisamment brillant pouvait reconcevoir chaque aspect de la réalité, la souffrance et le chaos pourraient être éliminés.
+
+Cette vision le rapproche dangereusement de la philosophie Dwemer — un parallèle qu'il reconnaissait et qui le troublait.
+
+### Les Fabricants
+
+Les habitants de la Cité Mécanique sont principalement des **Fabricants** — des êtres mi-organiques mi-mécaniques créés par Sotha Sil. Certains sont des automates purs, d'autres sont des créatures biologiques augmentées de composants mécaniques.
+
+Parmi les plus notables :
+- Les **Factotums** — serviteurs polymorphes
+- Les **Récolteurs** — créatures collectant des matériaux
+- Les **Apôtres** — disciples mortels acceptant l'augmentation mécanique
+- **Barbas** (possible) — Sotha Sil aurait capturé le familier de Clavicus Vile
+
+## Le Pacte avec les Daedra
+
+### La Négociation
+
+L'un des actes les plus extraordinaires de Sotha Sil fut de **négocier** directement avec les **Princes Daédriques**. Après le Désastre de Gilverdale — où Méhrunes Dagon ravagea un village entier — Sotha Sil se rendit dans les Plans d'Oblivion et négocia un accord avec huit Princes Daédriques.
+
+Ce **Pacte de Sotha Sil** (Coldharbour Compact) stipulait que les Princes ne manifesteraient plus jamais directement sur Nirn. Les détails exacts et les contreparties offertes restent inconnus, mais le Pacte tint pendant des millénaires — jusqu'à la Crise d'Oblivion de la Troisième Ère.
+
+### Relations avec les Princes
+
+Les rapports de Sotha Sil avec les Daedra étaient complexes :
+- Il les considérait comme des forces naturelles, non comme des divinités
+- Il les étudiait avec la même objectivité que n'importe quel phénomène
+- Plusieurs Princes le respectaient (ou le craignaient) pour son intelligence
+- **Azura** le haïssait pour sa participation à la trahison de Nerevar
+- **Méhrunes Dagon** était son ennemi personnel depuis la destruction d'Ald Sotha
+
+## Personnalité et Philosophie
+
+### Le Mystique Rationnel
+
+Sotha Sil incarne un paradoxe : un dieu qui ne croit pas à la divinité. Pour lui, le pouvoir divin n'est qu'une énergie comme une autre — puissante, certes, mais explicable et maîtrisable. Cette perspective le rend unique parmi les figures divines de Tamriel.
+
+### Les Vérités en Séquence
+
+Les enseignements de Sotha Sil, compilés dans *Les Vérités en Séquence* (The Truth in Sequence), exposent sa vision du monde :
+
+- L'univers est un mécanisme dont les rouages peuvent être compris
+- La foi aveugle est inférieure à la compréhension
+- Le progrès vers la perfection est le devoir de tout être pensant
+- L'entropie et le chaos sont des défauts de conception, non des fatalités
+- L'individu a le pouvoir de se réinventer — de se **refabrifier**
+
+### La Mélancolie Divine
+
+Malgré (ou à cause de) son immense pouvoir, Sotha Sil était profondément **mélancolique**. Les rares témoignages de ceux qui le rencontrèrent décrivent un être infiniment las, portant le poids de connaissances trop lourdes pour un seul esprit.
+
+Il avait vu les mécanismes secrets de la réalité et savait que certains problèmes n'avaient pas de solutions — pas même pour un dieu.
+
+## Relations avec le Tribunal
+
+### Avec Vivec
+Sotha Sil et Vivec entretenaient un **respect mutuel** teinté de distance. Vivec comprenait la vision de Sotha Sil sans la partager, et admirait son intellect tout en déplorant son isolement. Vivec qualifia Sotha Sil de « le meilleur d'entre nous ».
+
+### Avec Almalexia
+La relation avec Almalexia était plus **tendue**. Sotha Sil voyait la quête de pouvoir et d'adoration d'Almalexia comme une faiblesse, tandis qu'elle percevait son retrait du monde comme un abandon de ses responsabilités envers le peuple Dunmer.
+
+Cette tension devint fatale.
+
+## La Mort
+
+### L'Assassinat
+
+En **3E 427**, alors que le pouvoir du Tribunal déclinait avec l'affaiblissement de leur connexion au Cœur de Lorkhan, **Almalexia** — devenue folle et paranoïaque — se rendit dans la Cité Mécanique et **assassina Sotha Sil**.
+
+Les circonstances exactes sont troublantes : Sotha Sil ne se défendit pas. Certains spéculent qu'il avait **prévu** sa propre mort et l'avait acceptée comme inévitable — un dernier rouage dans un mécanisme plus grand.
+
+### L'Héritage
+
+La mort de Sotha Sil marqua le début de la fin du Tribunal. Sa Cité Mécanique persista cependant, maintenue par ses mécanismes autonomes, devenant un lieu de pèlerinage et de danger pour ceux qui osaient y pénétrer.
+
+## Dans la Mémoire Dunmer
+
+Pour le peuple Dunmer, Sotha Sil reste une figure ambivalente :
+- Les **Apôtres de Sotha Sil** perpétuent ses enseignements et son culte
+- Le Temple le vénère comme le Mystère — le dieu qu'on ne comprend pas
+- Les érudits le considèrent comme le plus grand intellect de l'histoire de Morrowind
+- Les poètes le pleurent comme le dieu qui portait la tristesse du monde
+
+> « Il ne créa pas la Cité Mécanique pour remplacer le monde. Il la créa pour prouver que le monde pouvait être meilleur — et pour pleurer le fait qu'il ne le sera jamais. »
+> — *Méditations d'un Factotum*, manuscrit anonyme

@@ -1,0 +1,89 @@
+---
+title: "Les Ayléides — Elfes Sauvages de Cyrodiil"
+slug: "ayleides"
+era: "merethic-era"
+category: "races"
+tags: ["ayléides", "elfes sauvages", "cyrodiil", "esclavage", "nédiques", "alessia", "cité blanche"]
+timelineYear: -1000
+summary: "Les Ayléides (Elfes Sauvages) dominèrent Cyrodiil pendant des millénaires — bâtisseurs de la Tour d'Or Blanc, esclavagistes des Nédiques, et maîtres d'une magie stellaire unique."
+sources: ["UESP: Ayleids", "The Imperial Library: Ayleid Civilization", "The Last King of the Ayleids"]
+---
+
+## Civilisation
+
+Les **Ayléides** (Wild Elves, Heartland High Elves) furent la première grande civilisation à s'établir à Cyrodiil. Descendants des Aldmer qui colonisèrent le centre de Tamriel, ils développèrent une culture sophistiquée mais brutale :
+
+- **Architecture** monumentale de pierre blanche et de cristal
+- Maîtrise de la **magie stellaire** (Ayleidoon — tirant pouvoir des étoiles et météorites)
+- Société urbaine organisée en cités-états indépendantes
+- Culte des Daedra (certaines cités) et des étoiles (d'autres)
+
+## La Tour d'Or Blanc
+
+La **White-Gold Tower** — le bâtiment le plus iconique de Tamriel — est une construction **ayléide**. Érigée à l'Ère Méréthique comme centre de pouvoir :
+- Construite sur un nexus magique naturel
+- Sert de **Tour** métaphysique ancrant la réalité de Mundus
+- Contient le **Pierre** de la Tour (plus tard l'Amulette des Rois)
+- Capturée par les humains lors de la Révolte Alessienne (1E 243)
+
+## L'Esclavage des Nédiques
+
+Les Ayléides asservirent les **Nédiques** (proto-humains) de Cyrodiil pendant des siècles. Cet esclavage était particulièrement cruel :
+- Torture institutionnalisée comme divertissement
+- Expérimentations magiques sur les esclaves
+- "Jardins de chair" — installations de torture artistique
+- Sacrifices humains aux Princes Daedriques
+
+Certaines sources décrivent :
+- Des esclaves transformés en mobilier vivant
+- Des "illuminations" — immolations humaines pour éclairer des festivités
+- Des arènes où les esclaves combattaient des créatures invoquées
+
+## La Révolte Alessienne (1E 243)
+
+La brutalité ayléide provoqua finalement un soulèvement :
+- **Alessia** organisa secrètement les esclaves
+- **Pelinal Whitestrake** (Shezarrine) mena la guerre
+- **Morihaus** (demi-dieu taurin) combattit aux côtés des humains
+- Les Ayléides adorateurs d'Aedra (minorité) rejoignirent les rebelles
+
+### Chute des Cités
+Pelinal détruisit les cités ayléides une par une dans une fureur génocidaire :
+- Son dernier combat fut contre le roi Umaril l'Inplumé
+- Pelinal fut démembré mais Umaril fut vaincu
+- Umaril ne fut tué définitivement qu'en 3E (Knights of the Nine DLC)
+
+## Après la Chute
+
+Les survivants Ayléides se dispersèrent :
+- Certains trouvèrent refuge chez les **Bosmer** du Val-Boisé
+- D'autres se cachèrent dans des ruines souterraines
+- La majorité fut exterminée ou absorbée par les populations elfiques voisines
+- En quelques siècles, la race s'éteignit complètement
+
+## Héritage
+
+Les Ayléides laissèrent un héritage immense :
+- **Architecture** — ruines omniprésentes à travers Cyrodiil (donjons d'Oblivion)
+- **Pierres de Varla et Welkynd** — cristaux magiques réutilisables
+- **White-Gold Tower** — devenue le cœur de l'Empire humain
+- **Métallurgie** — l'alliage "Ayleid" reste recherché
+- **Magie stellaire** — certains sorts en dérivent
+
+## Ruines Notables
+
+| Ruine | Localisation | Particularité |
+|-------|-------------|---------------|
+| White-Gold Tower | Cité Impériale | Devenue palais impérial |
+| Lindai | Cyrodiil nord | Piégée, intacte |
+| Nenalata | Cyrodiil est | Dernière cité habitée |
+| Miscarcand | Cyrodiil ouest | Trésor de la Grande Welkynd Stone |
+| Garlas Malatar | Gold Coast | Temple de Meridia |
+
+## Morale du Récit
+
+L'histoire des Ayléides sert de mise en garde dans le lore :
+- Le pouvoir absolu corrompt — même une civilisation "avancée"
+- L'esclavage engendre toujours la révolte
+- La cruauté systémique est auto-destructrice
+- Mais aussi : le génocide en représailles pose ses propres questions morales (Pelinal dans sa frénésie tua des Khajiit innocents en les confondant avec des elfes)

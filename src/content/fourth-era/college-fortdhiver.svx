@@ -1,0 +1,88 @@
+---
+title: "Le Collège de Fortdhiver"
+slug: "college-fortdhiver"
+era: "fourth-era"
+category: "guildes"
+tags: ["collège", "fortdhiver", "magie", "winterhold", "archmage", "savos aren", "ancano"]
+timelineYear: 201
+summary: "Le Collège de Fortdhiver est la dernière institution majeure d'enseignement magique en Bordeciel — un bastion de savoir dans une province hostile à la magie."
+sources: ["UESP: College of Winterhold", "The Imperial Library: History of Winterhold"]
+---
+
+## Présentation
+
+Le **Collège de Fortdhiver** est perché sur un promontoire isolé au bord de la Mer des Fantômes, relié à la ville par un pont étroit et vertigineux. C'est la seule institution d'enseignement magique de Bordeciel — et l'une des rares à subsister après la dissolution de la Guilde des Mages en 4E 1.
+
+## Histoire
+
+### Fondation
+Le Collège fut fondé au Premier Ère par **Shalidor** — un archimage légendaire capable, dit-on, de construire des villes entières par la magie. Il souhaitait créer un lieu d'étude dédié à toutes les formes de magie, libre des contraintes politiques.
+
+### Le Grand Effondrement (4E 122)
+L'événement le plus traumatisant de l'histoire du Collège :
+- Une catastrophe naturelle (ou magique?) engloutit la majorité de la ville de Fortdhiver
+- Les falaises s'effondrèrent dans la mer, emportant des quartiers entiers
+- Le Collège **survécut** intouché sur son promontoire
+- Les habitants accusèrent les mages d'être responsables
+- Depuis, le Collège est isolé et méprisé par la population locale
+
+### 4E 201 — L'Incident de l'Œil de Magnus
+- Découverte de l'**Œil de Magnus** dans les ruines de Saarthal
+- Le Thalmor **Ancano** tenta de s'emparer de son pouvoir
+- Le Bâton de Magnus fut nécessaire pour le neutraliser
+- L'Archimage **Savos Aren** mourut durant la crise
+- Le Dernier Enfant de Dragon devint potentiellement le nouvel Archimage
+
+## Organisation
+
+### Hiérarchie
+| Titre | Responsabilité |
+|-------|---------------|
+| Archimage | Direction suprême du Collège |
+| Maître-Mage | Second, gestion quotidienne |
+| Maître Expert | Responsable d'une école de magie |
+| Mage | Membre diplômé |
+| Apprenti | Étudiant avancé |
+| Novice | Étudiant débutant |
+
+### Les Départements (4E 201)
+- **Destruction** — Maître Faralda (Altmer)
+- **Conjuration** — Maître Phinis Gestor (Bréton)
+- **Restauration** — Maître Colette Marence (Bréton)
+- **Altération** — Maître Tolfdir (Nordique)
+- **Illusion** — Maître Drevis Neloren (Dunmer)
+- **Enchantement** — Maître Sergius Turrianus (Impérial)
+
+## Architecture
+
+Le Collège est organisé en plusieurs bâtiments :
+- **Hall of the Elements** — salle principale de pratique, où l'Œil de Magnus fut exposé
+- **Hall of Attainment** — dortoirs des étudiants
+- **Hall of Countenance** — quartiers des maîtres
+- **Arcanaeum** — la bibliothèque, gérée par l'Orc Urag gro-Shub
+- **Midden** — sous-sols sombres, lieu d'expériences interdites
+- **Tour de l'Archimage** — quarters privés du dirigeant
+
+## Le Conflit avec Bordeciel
+
+Le Collège est **détesté** par la majorité des Nordiques :
+- Méfiance culturelle envers la magie (tradition nordique)
+- Accusation de responsabilité dans le Grand Effondrement
+- Les Sombrages voient le Collège comme un nid d'étrangers
+- Seule la nécessité de recherche magique le maintient toléré
+
+Malgré cette hostilité, le Collège accepte des étudiants de **toutes les races** — un cosmopolitisme rare en Bordeciel.
+
+## Artefacts Notables
+
+- **Œil de Magnus** — orbe de pouvoir immense lié à Magnus, l'architecte de Mundus
+- **Bâton de Magnus** — nécessaire pour contrôler l'Œil
+- **Gauldur Amulet** — reconstruit dans les profondeurs de Saarthal
+- **Savos Aren's Amulet** — vestige de l'Archimage déchu
+
+## Relations Extérieures
+
+- **Psijiques** — les rares contacts avec l'Ordre Psijique surviennent au Collège
+- **Thalmor** — Ancano était un "conseiller" (espion) imposé par le Domaine Aldmeri
+- **Empire** — soutien distant, le Collège est techniquement indépendant
+- **Jarl de Fortdhiver** — Korir déteste le Collège mais ne peut rien faire

@@ -1,0 +1,86 @@
+---
+title: "Le Pacte de Cœurébène"
+slug: "ebonheart-pact"
+era: "second-era"
+category: "empires"
+tags: ["pacte-coeurebene", "dunmer", "nordiques", "argoniens", "alliance", "seconde-ere", "jorunn"]
+timelineYear: 572
+summary: "L'alliance improbable entre Dunmer, Nordiques et Argoniens face à la menace de l'invasion akaviri et du Planemeld."
+sources: ["Le Pacte de Cœurébène et ses origines", "La Seconde Invasion Akaviri", "Guide de l'Ère du Chaos"]
+---
+
+## Une alliance contre nature
+
+Le **Pacte de Cœurébène** représente l'une des alliances les plus improbables et les plus fascinantes de l'histoire de **Tamriel**. Formé en l'an 572 de la Seconde Ère, il unit trois peuples que tout séparait : les **Dunmer** de **Morrowind**, les **Nordiques** de **Bordeciel** et les **Argoniens** du **Marais Noir**.
+
+L'improbabilité de cette alliance ne peut être surestimée. Les Dunmer avaient réduit les Argoniens en esclavage pendant des siècles. Les Nordiques et les Dunmer s'étaient affrontés dans d'innombrables guerres frontalières. Les Nordiques considéraient les Argoniens avec condescendance au mieux. Chaque peuple avait des raisons historiques profondes de haïr les deux autres.
+
+Pourtant, face à une menace existentielle commune, ces ennemis séculaires trouvèrent un terrain d'entente. Le Pacte de Cœurébène démontre que même les haines les plus anciennes peuvent être temporairement surmontées quand la survie est en jeu.
+
+## La menace akaviri : catalyseur de l'alliance
+
+L'événement déclencheur du Pacte fut la **Seconde Invasion Akaviri** de 572 2E. Les forces du Directoire Kamal d'**Akavir**, sous le commandement d'Ada'Soom Dir-Kamal, débarquèrent sur les côtes orientales de Tamriel avec une armée massive.
+
+Les envahisseurs frappèrent d'abord le nord de Morrowind, puis se tournèrent vers Bordeciel. La ville de **Vendeaume** fut assiégée, le Haut-Roi **Jorunn** manqua de périr, et pendant un moment terrible, il sembla que rien ne pourrait arrêter l'avancée akaviri.
+
+C'est dans ce contexte de désespoir que l'impensable se produisit. Les armées dunmer, sous la direction de la générale **Almalexia** (le dieu-vivant du **Tribunal**), marchèrent vers Bordeciel non pas pour conquérir mais pour aider. Les forces argoniennes, dirigées par des chefs de guerre pragmatiques, se joignirent à l'effort.
+
+L'armée akaviri fut finalement écrasée lors de la **Bataille de Stonefalls**, prise en étau entre les trois forces alliées. Cette victoire commune scella l'alliance.
+
+## Les fondements du Pacte
+
+Le Pacte de Cœurébène fut formalisé par un traité établissant plusieurs principes fondamentaux :
+
+**Défense mutuelle** : toute agression contre l'un des trois membres serait considérée comme une agression contre tous. Cette clause était le cœur du Pacte, transformant trois nations vulnérables en un bloc militaire redoutable.
+
+**Respect des souverainetés** : chaque nation conservait son gouvernement interne, ses lois et ses traditions. Le Pacte ne cherchait pas l'unification politique mais la coopération militaire.
+
+**Abolition progressive de l'esclavage** : concession majeure des Dunmer, qui acceptèrent de libérer leurs esclaves argoniens — bien que la mise en application de cette clause restât notoirement incomplète.
+
+**Le Haut-Roi Jorunn** de Bordeciel devint le chef nominal du Pacte, un choix pragmatique qui reflétait la contribution militaire nordique et la force personnelle de Jorunn comme leader charismatique.
+
+## Les tensions internes
+
+Malgré la coopération officielle, le Pacte de Cœurébène fut perpétuellement miné par les tensions entre ses membres :
+
+Les **Dunmer des Grandes Maisons** acceptaient mal de traiter les Argoniens en égaux après des siècles de relations maître-esclave. La **Maison Dres** et la **Maison Telvanni**, les plus grands esclavagistes, obéirent au traité avec une mauvaise foi évidente, libérant les esclaves en théorie tout en maintenant des formes déguisées de servitude.
+
+Les **Argoniens** portaient le souvenir de générations d'asservissement et ne faisaient confiance aux Dunmer qu'avec une extrême réserve. Beaucoup considéraient l'alliance comme un mal nécessaire plutôt qu'une réconciliation véritable.
+
+Les **Nordiques**, peuple fier et indépendant, supportaient mal la diplomatie et les compromis qu'exigeait une alliance tripartite. Certains clans considéraient la coopération avec les elfes comme une honte.
+
+## Le rôle dans la Guerre des Trois Bannières
+
+Le Pacte de Cœurébène fut l'une des trois grandes alliances qui s'affrontèrent lors de la **Guerre des Trois Bannières**, un conflit continental déclenché par le vide de pouvoir laissé par l'effondrement de la dynastie **Reman** et l'affaiblissement de l'Empire.
+
+Face au Pacte se dressaient le **Premier Domaine Aldmeri** — alliance des **Altmer** et des **Bosmer** — et l'**Alliance de Daguefilante** — coalition des **Brétons**, des **Rougegardes** et des **Orques**. Chaque faction revendiquait le trône impérial de Cyrodiil.
+
+Le Pacte de Cœurébène justifiait sa campagne par le désir de préserver l'indépendance de ses membres face à un Empire potentiellement hostile ou à une domination elfique. Jorunn ne cherchait pas nécessairement l'Empire pour lui-même, mais voulait garantir qu'aucun pouvoir hostile ne s'en emparerait.
+
+## L'organisation militaire
+
+La force militaire du Pacte reposait sur la complémentarité de ses trois armées :
+
+Les **Nordiques** fournissaient l'infanterie lourde, les guerriers au corps à corps dont la férocité et la résistance au froid étaient légendaires. Les huscarls nordiques formaient l'épine dorsale des forces de choc.
+
+Les **Dunmer** apportaient la puissance magique et la versatilité tactique. Les mages de guerre dunmer, en particulier ceux de la **Maison Telvanni**, possédaient un arsenal arcanique terrifiant. L'infanterie dunmer, bien équipée et disciplinée, complétait efficacement la fureur nordique.
+
+Les **Argoniens** excellaient dans la guerre de guérilla, l'espionnage et les opérations amphibies. Leur capacité à respirer sous l'eau et à se déplacer dans les marais donnait au Pacte un avantage tactique unique dans certains théâtres d'opérations.
+
+## La menace du Planemeld
+
+Au-delà de la guerre politique pour le trône impérial, le Pacte de Cœurébène affronta une menace bien plus terrifiante : le **Planemeld**, la tentative de **Molag Bal** de fusionner son plan d'Oblivion, Havreglace, avec Mundus.
+
+Les **Ancres Noires** de Molag Bal tombaient sur tout Tamriel, arrachant des portions du monde mortel vers Oblivion. Face à cette menace apocalyptique, les trois alliances durent parfois coopérer malgré leur conflit, reconnaissant que la domination daédrique serait pire que n'importe quel résultat politique mortel.
+
+Le Pacte contribua significativement à la résistance contre le Planemeld, ses forces combattant les cultistes de Molag Bal et les créatures daédriques qui envahissaient ses territoires.
+
+## L'héritage et la dissolution
+
+Le Pacte de Cœurébène ne survécut pas longtemps à la fin de la Guerre des Trois Bannières. Sans menace extérieure commune pour maintenir la cohésion, les tensions internes reprirent le dessus.
+
+L'esclavage des Argoniens par les Dunmer reprit progressivement. Les conflits frontaliers entre Nordiques et Dunmer recommencèrent. Les Argoniens se replièrent dans leur isolement marécageux traditionnel.
+
+Pourtant, le souvenir du Pacte persista. Il prouva que la coopération entre peuples radicalement différents était possible, même si temporaire. Et les leçons militaires de cette alliance influencèrent les doctrines de combat de ses trois peuples pour les siècles suivants.
+
+L'ironie finale est que la **Grande Maison Indoril** et la **Grande Maison Redoran**, qui avaient le plus soutenu le Pacte côté dunmer, seraient parmi les premières victimes de l'invasion argonienne de Morrowind durant la Quatrième Ère — une vengeance historique pour des siècles d'esclavage que même le Pacte n'avait pas véritablement effacés.

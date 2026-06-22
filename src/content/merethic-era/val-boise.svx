@@ -1,0 +1,60 @@
+---
+title: "Val-Boise : Le Royaume Vert"
+slug: "val-boise"
+era: "merethic-era"
+category: "lieux"
+tags: ["val-boise", "bosmer", "pacte-vert", "falinesti", "chasse-sauvage", "thalmor", "yffre"]
+timelineYear: -1000
+summary: "Val-Boise est la patrie forestiere des Bosmers, un royaume ou les arbres marchent, ou la nature exige un tribut de chair et ou le Pacte Vert regit chaque aspect de la vie."
+sources: ["A Dance in Fire", "The Wild Hunt", "Erta's Report to Anequina", "Pocket Guide to the Empire, 1st Edition"]
+---
+
+![Carte de Tamriel](/images/common/tamriel-map.jpg)
+
+## Val-Boise : La Foret Vivante
+
+Val-Boise occupe le sud-ouest de Tamriel, une province entierement recouverte d'une jungle dense et impenetrable qui n'a rien de commun avec les forets ordinaires du continent. Ici, les arbres sont conscients. La canopee se deplace. Les racines murmurent. Cette foret n'est pas un simple ecosysteme — c'est une entite vivante, et ses habitants, les Bosmers, en sont autant les gardiens que les prisonniers.
+
+## Les Bosmers : Le Peuple de la Foret
+
+Les Bosmers, ou Elfes des Bois, sont les plus petits et les plus agiles des peuples elfiques. Contrairement a leurs cousins Altmer qui batissent des tours de cristal ou aux Dunmer qui dominent la cendre, les Bosmers ont choisi de se soumettre a la nature plutot que de la soumettre. Ce choix fondateur, realise a l'aube de leur civilisation, definit chaque aspect de leur existence.
+
+Physiquement, les Bosmers sont reconnaissables a leur petite stature, leurs traits felins et leur agilite surnaturelle. Ce sont les meilleurs archers de Tamriel, capables de decocher une fleche a travers l'oeil d'un moucheron en plein vol. Leur vision nocturne et leur capacite a se mouvoir sans bruit dans les sous-bois en font des chasseurs et des eclaireurs sans egaux.
+
+## Le Pacte Vert : La Loi de Y'ffre
+
+Le Pacte Vert (Green Pact) est le fondement sacre de la civilisation bosmer. Conclu avec Y'ffre, le dieu de la Foret et des Saisons, ce pacte impose aux Bosmers trois interdictions absolues :
+
+**Premierement**, il est interdit de nuire a toute vegetation. Les Bosmers ne peuvent couper d'arbre, cueillir de fruit ni cultiver de plante. Toute matiere vegetale qu'ils utilisent doit provenir d'autres provinces ou etre d'origine non-boisvalienne.
+
+**Deuxiemement**, les Bosmers doivent suivre un regime strictement carnivore. Le Pacte exige que toute creature tuee soit entierement consommee, y compris les ennemis tombes au combat. Cette pratique de cannibalisme rituel, connue sous le nom de Festin de la Viande, horrifie les autres peuples mais constitue une obligation sacree pour les Bosmers.
+
+**Troisiemement**, les Bosmers doivent accepter la foret telle qu'elle est, sans la modifier ni la contraindre. En echange, Y'ffre a donne forme et stabilite au monde naturel, sortant les Bosmers du chaos de l'Ere de l'Aube.
+
+## Falinesti : La Cite Qui Marche
+
+Falinesti est la merveille la plus extraordinaire de Val-Boise — et peut-etre de tout Tamriel. Cette cite entiere est construite dans les branches d'un arbre colossal dont la hauteur defie l'imagination. Mais le plus remarquable est que Falinesti se deplace. L'arbre-cite migre a travers la province au rythme des saisons, parcourant un circuit milleniaire a travers la jungle.
+
+Les Bosmers ont amenage chaque branche, chaque noeud et chaque creux de cet arbre titanesque en quartiers d'habitation, en marches suspendus et en salles du trone aeriens. Des ponts de liane relient les differents niveaux, et des ascenseurs naturels — seve solidifiee et racines mobiles — permettent de circuler dans cette metropole verticale.
+
+Tragiquement, depuis la fin de la Troisieme Ere, Falinesti a cesse de se deplacer. L'arbre s'est enracine et n'a plus bouge, un evenement que les Bosmers considerent comme un presage funeste dont la signification reste debattue.
+
+## La Chasse Sauvage
+
+La Chasse Sauvage (Wild Hunt) est l'arme ultime et la malediction supreme des Bosmers. Lorsqu'une menace existentielle pese sur Val-Boise, les chamans bosmers peuvent invoquer un rituel ancien qui transforme les participants en une horde de monstres informes et devastateurs. Ces creatures chassent et detruisent tout sur leur passage avec une ferocite surnaturelle.
+
+Le prix est terrible : la transformation est irreversible. Ceux qui participent a la Chasse Sauvage ne reviennent jamais a leur forme elfique. Ils deviennent des betes a jamais, perdant toute conscience et toute humanite. C'est pourquoi ce rituel n'est invoque qu'en dernier recours, quand la survie meme du peuple bosmer est en jeu.
+
+Historiquement, la Chasse Sauvage a ete declenchee moins d'une dizaine de fois, et chaque occurrence a laisse des cicatrices profondes dans la memoire collective bosmer.
+
+## La Domination du Thalmor
+
+La relation entre Val-Boise et le Domaine Aldmeri est complexe et douloureuse. Lorsque le Thalmor prit le pouvoir en Alinor et forma le Second Domaine Aldmeri, Val-Boise fut integre de force dans cette alliance. Les Altmer considerent les Bosmers comme des cousins inferieurs, utiles en tant qu'eclaireurs et archers mais incapables de se gouverner eux-memes.
+
+Le Thalmor a impose de nombreuses restrictions aux traditions bosmeres, tentant de "civiliser" ces elfes qu'ils jugent primitifs. Les agents thalmor patrouillent les cites bosmeres, reprimant toute dissidence et imposant le culte des anciens dieux mer au detriment des traditions locales.
+
+Pourtant, la resistance existe. Dans les profondeurs de la jungle, loin des yeux des occupants, des clans bosmers maintiennent les anciens rites et attendent le jour ou Val-Boise se liberera du joug aldmeri.
+
+## La Nature Sauvage
+
+Val-Boise abrite une faune extraordinaire et mortelle : des senche-tigres enormes, des etrangleurs vegetaux (que les Bosmers ne peuvent combattre sans violer le Pacte), des insectes venimeux de taille monstrueuse et des esprits de la foret dont les intentions sont rarement bienveillantes. La jungle elle-meme semble conspirer contre les etrangers, refermant ses sentiers et egarant les voyageurs imprudents dans ses profondeurs sans fin.

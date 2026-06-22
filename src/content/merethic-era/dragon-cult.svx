@@ -1,0 +1,123 @@
+---
+title: "Le Culte du Dragon — Prêtres-Dragons et Guerre Draconique"
+slug: "dragon-cult"
+era: "merethic-era"
+category: "religion"
+tags: ["culte-du-dragon", "pretres-dragons", "guerre-draconique", "alduin", "miraak", "paarthurnax", "masques", "bordeciel", "atmora", "dovahkiin"]
+timelineYear: -1500
+summary: "L'histoire du Culte du Dragon, théocratie tyrannique d'Atmora et de Bordeciel, des Prêtres-Dragons masqués à la Guerre Draconique qui mit fin à leur règne."
+sources: ["UESP: Dragon Cult", "The Dragon War", "Skorm Snow-Strider's Journal", "Atlas of Dragons"]
+---
+
+## Origines du Culte
+
+### Les Dragons d'Atmora
+
+Bien avant l'arrivée des hommes en Tamriel, les **Dragons** — ou **Dov** dans leur propre langue — régnaient sur le continent gelé d'**Atmora**. Ces êtres immortels, fragments de la puissance du dieu du temps **Akatosh** (qu'ils nomment Bormahu, "Notre Père"), se considéraient comme les maîtres légitimes du monde mortel.
+
+Les premiers humains d'Atmora, impressionnés par la puissance et l'intelligence des dragons, les vénérèrent comme des dieux vivants. Cette adoration donna naissance au **Culte du Dragon** — une théocratie qui structura la société humaine pendant des millénaires.
+
+### La Hiérarchie Draconique
+
+La société du Culte obéissait à un ordre strict :
+
+1. **Alduin** — le "Premier-Né d'Akatosh", autoproclamé Dieu-Roi de tous les dragons
+2. **Les Dragons supérieurs** — lieutenants d'Alduin (Paarthurnax, Odahviing, Sahloknir...)
+3. **Les Prêtres-Dragons** — mortels choisis servant d'intermédiaires
+4. **Les fidèles** — la masse des humains soumis au Culte
+5. **Les esclaves** — ceux qui résistaient au joug draconique
+
+## Les Prêtres-Dragons
+
+### Des Mortels au Pouvoir Terrible
+
+Les **Prêtres-Dragons** (*Dragon Priests*) constituaient l'élite mortelle du Culte. Choisis par les dragons eux-mêmes pour leur intelligence, leur ambition et leur aptitude à la magie, ils reçurent une parcelle du pouvoir draconique en échange de leur service absolu.
+
+Chaque Prêtre-Dragon portait un **masque rituel** forgé dans un métal unique et enchanté par la magie des dragons. Ces masques conféraient des pouvoirs surnaturels et servaient de symboles d'autorité. Après leur mort, les Prêtres-Dragons furent inhumés dans des **tertres funéraires** (barrows) avec leurs masques, liés à la non-vie par des enchantements draconiques.
+
+### Masques des Prêtres-Dragons Connus
+
+| Prêtre-Dragon | Masque | Pouvoir | Domaine |
+|---------------|--------|---------|---------|
+| Konahrik | Or | Guérison et flammes | Chef suprême |
+| Morokei | Bleu transparent | Régénération magique | Bromjunaar |
+| Krosis | Vert bronze | Alchimie et discrétion | Montagnes |
+| Nahkriin | Noir obsidienne | Magie destructrice | Skuldafn |
+| Volsung | Bronze | Commerce et respiration aquatique | Côtes |
+| Rahgot | Brun rouille | Endurance surhumaine | Tertre de Forelhost |
+| Vokun | Gris sombre | Conjuration | Hautes Portes |
+| Hevnoraak | Fer forgé | Immunité aux poisons | Valunstrad |
+| Otar le Fou | Cuivre | Résistance élémentaire | Ragnvald |
+
+### La Tyrannie des Prêtres
+
+Sous le règne des Prêtres-Dragons, la population humaine subissait :
+- Le **travail forcé** pour la construction de temples et de tertres monumentaux
+- Des **sacrifices rituels** pour honorer les dragons
+- L'**interdiction** de toute pratique religieuse alternative
+- La **conscription** pour les guerres entre factions draconiques
+- Des **tributs** écrasants en nourriture, or et matériaux
+
+## Miraak — Le Premier Enfant de Dragon
+
+### L'Élu Devenu Rebelle
+
+**Miraak** fut le premier **Dovahkiin** (Enfant de Dragon) — un mortel né avec l'âme d'un dragon, capable d'absorber la puissance des Dov vaincus et de maîtriser le Thu'um instantanément. Initialement, il servit le Culte du Dragon en tant que Prêtre-Dragon sur l'île de **Solstheim**.
+
+Cependant, la nature même du Dovahkiin — posséder l'âme d'un dragon — rendait impossible une soumission durable. Miraak réalisa que son pouvoir dépassait celui de ses maîtres et se rebella contre le Culte.
+
+### Le Pacte avec Hermaeus Mora
+
+Dans sa quête de pouvoir absolu, Miraak conclut un pacte avec le Prince Daedra **Hermaeus Mora**, Seigneur du Savoir Interdit. Ce dernier lui accorda des connaissances et des pouvoirs au-delà de l'entendement mortel, notamment la capacité de plier les esprits à sa volonté par la magie des **Pierres Noires** (Black Books).
+
+### La Confrontation et l'Exil
+
+Lorsque les dragons envoyèrent une armée pour écraser sa rébellion, Miraak utilisa le Thu'um pour dévaster ses ennemis. Au moment critique, plutôt que d'affronter la mort, il fut arraché à Mundus par Hermaeus Mora et emprisonné dans son royaume d'**Apocrypha** — la bibliothèque infinie des savoirs interdits — où il demeura pendant des millénaires.
+
+## La Guerre Draconique
+
+### Les Causes de la Révolte
+
+La tyrannie croissante des Prêtres-Dragons et l'indifférence des dragons envers la souffrance humaine finirent par provoquer une révolte. Plusieurs facteurs convergèrent :
+
+- L'exemple de Miraak prouva qu'il était possible de défier les dragons
+- Les exigences des Prêtres devinrent insoutenables
+- La déesse **Kynareth** (Kyne pour les Nordiques) eut pitié des mortels
+
+### L'Intervention de Paarthurnax
+
+**Paarthurnax**, le propre lieutenant d'Alduin, commit l'acte de trahison le plus important de l'Ère Méréthique. À la demande de Kynareth, il enseigna le **Thu'um** aux mortels — leur donnant l'arme capable de combattre les dragons sur un pied d'égalité.
+
+Les premiers **Langues** (*Tongues*) humains maîtrisant le Thu'um devinrent les champions de la rébellion. La guerre qui s'ensuivit fut longue et sanglante, marquée par des batailles apocalyptiques où le ciel se déchirait sous les Cris.
+
+### Les Héros de la Guerre
+
+Trois guerriers se distinguèrent comme les champions ultimes de l'humanité :
+
+- **Hakon Un-Oeil** — chef de guerre impitoyable et Langue redoutable
+- **Gormlaith Hache Dorée** — guerrière féroce dont la rage égalait celle des dragons
+- **Felldir le Vieux** — sage et stratège, détenteur d'un Parchemin des Anciens
+
+### La Chute d'Alduin
+
+Au sommet de la **Gorge du Monde** (Throat of the World), les trois héros affrontèrent Alduin lui-même. Utilisant le Cri **Dragonrend** — une création purement mortelle forçant les dragons à comprendre le concept de finitude — ils clouèrent Alduin au sol.
+
+Incapables de le détruire véritablement (car Alduin est un aspect du temps lui-même), Felldir utilisa un **Parchemin des Anciens** pour projeter le Dévoreur-de-Monde hors du flux temporel, le bannissant dans un futur lointain.
+
+## Les Conséquences
+
+### L'Effondrement du Culte
+
+Sans Alduin, le Culte du Dragon s'effondra. Les dragons survivants furent traqués et tués un par un par les Langues humains. Les Prêtres-Dragons furent renversés, tués, ou se retirèrent dans leurs tombeaux enchantés pour attendre un retour qui ne viendrait pas avant des millénaires.
+
+### Un Héritage de Pierre et de Mort
+
+Le Culte du Dragon laissa derrière lui :
+- Des **centaines de tertres funéraires** parsemant Bordeciel, habités par des Draugr
+- Les **Murs de Mots** — inscriptions en Dovahzul préservant les Cris anciens
+- La tradition des **Langues** et plus tard des **Barbes-Grises**
+- Une méfiance profonde des Nordiques envers toute forme de tyrannie théocratique
+
+### Le Retour (4E 201)
+
+Des millénaires plus tard, en 4E 201, Alduin réémergea du flux temporel au sommet de la Gorge du Monde — exactement là où il avait été banni. Il entreprit de ressusciter ses dragons et de rétablir sa domination. Seule l'apparition du **Dernier Dovahkiin** permit de mettre fin à cette menace, accomplissant ce que les héros antiques n'avaient pu faire : détruire Alduin dans Sovngarde elle-même.

@@ -1,0 +1,97 @@
+---
+title: "Ysgramor et les Cinq Cents Compagnons"
+slug: "ysgramor"
+era: "merethic-era"
+category: "personnages"
+tags: ["ysgramor", "cinq-cents-compagnons", "nuit-des-larmes", "saarthal", "vendhelm", "atmora", "falmer", "bordeciel", "nordiques"]
+timelineYear: -800
+summary: "L'épopée d'Ysgramor, premier héros humain de Tamriel, qui mena les Cinq Cents Compagnons dans la reconquête de Bordeciel après la Nuit des Larmes."
+sources: ["UESP: Ysgramor", "Songs of the Return", "Night of Tears", "The Imperial Library: Five Hundred Companions"]
+---
+
+## Ysgramor — Le Premier Héros de l'Humanité
+
+**Ysgramor** est unanimement considéré comme le plus grand héros de l'histoire nordique. Guerrier, explorateur et érudit, il fut le premier humain à transcrire le langage nordique en utilisant les runes elfiques — un acte qui lui valut autant d'admiration que ses exploits guerriers. Son nom résonne à travers les âges comme le symbole de la ténacité et de la fureur des hommes du Nord.
+
+Originaire du continent gelé d'**Atmora**, situé au nord de Tamriel, Ysgramor appartenait à une civilisation humaine ancienne dont la culture reposait sur l'honneur martial et la tradition orale. Lorsque les guerres civiles ravagèrent Atmora, Ysgramor mena un groupe de colons vers les rivages prometteurs de Tamriel.
+
+## La Fondation de Saarthal
+
+### La Première Cité Humaine
+
+Ysgramor et ses partisans débarquèrent sur la côte septentrionale de Bordeciel et fondèrent **Saarthal** — la première colonie humaine permanente sur le continent. La cité prospéra rapidement, attirant de nouveaux colons d'Atmora et développant des relations initialement pacifiques avec les **Falmer** (Elfes des Neiges) qui peuplaient la région.
+
+### Un Secret Enfoui
+
+Les érudits modernes suggèrent que Saarthal abritait un artefact d'une puissance incommensurable : l'**Oeil de Magnus**, une relique liée au dieu de la magie lui-même. Certains historiens estiment que c'est la découverte de cet artefact qui précipita la catastrophe à venir, les Falmer cherchant à s'emparer de ce pouvoir.
+
+## La Nuit des Larmes
+
+L'événement le plus traumatisant de l'histoire nordique primitive porte le nom de la **Nuit des Larmes** (*Night of Tears*). Sans avertissement, les Falmer lancèrent une attaque coordonnée et dévastatrice contre Saarthal.
+
+### Le Massacre
+
+- La quasi-totalité de la population de Saarthal fut exterminée
+- Hommes, femmes et enfants furent massacrés sans distinction
+- La cité fut réduite en cendres et en ruines
+- Seuls Ysgramor et ses deux fils, **Yngol** et **Ylgar**, parvinrent à s'échapper
+
+### La Fuite vers Atmora
+
+Les trois survivants traversèrent la Mer des Fantômes dans une embarcation de fortune, affrontant des tempêtes terrifiantes. La traversée coûta la vie à **Yngol**, l'aîné, dont le navire fut englouti par les eaux glacées. Ysgramor atteignit Atmora le coeur brisé mais animé d'une rage inextinguible.
+
+## Le Retour des Cinq Cents Compagnons
+
+### Le Serment de Vengeance
+
+De retour à Atmora, Ysgramor rallia à sa cause les plus grands guerriers du continent. Son récit du massacre enflamma les coeurs et **cinq cents héros** jurèrent de le suivre pour venger Saarthal. Chacun d'entre eux est nommé dans les *Chants du Retour*, l'épopée nordique qui relate leurs exploits.
+
+### Figures Notables des Compagnons
+
+| Compagnon | Rôle | Exploit |
+|-----------|------|---------|
+| Ysgramor | Chef suprême | Porteur de Wuuthrad, fondateur de Vendhelm |
+| Ylgar | Fils d'Ysgramor | Capitaine de la flotte de retour |
+| Jeek de la Rivière | Capitaine | Fondateur de Jorrvaskr à Blancherive |
+| Menro et Chelrid | Guerriers jumeaux | Premiers à poser le pied sur le rivage |
+| Terrfyg | Érudit-guerrier | Chroniqueur des Compagnons |
+
+### La Guerre du Retour
+
+La campagne militaire des Cinq Cents Compagnons fut d'une brutalité sans précédent. Méthodiquement, ils balayèrent Bordeciel du nord au sud :
+
+1. **Débarquement** à Hsaarik Head, pointe nord de Bordeciel
+2. **Reconquête de Saarthal** et purification rituelle des ruines
+3. **Dispersion** en groupes de combat à travers tout le territoire
+4. **Extermination systématique** des populations Falmer
+5. **Établissement** de nouvelles colonies sur les ruines elfiques
+
+## La Fondation de Vendhelm
+
+Après avoir sécurisé la région, Ysgramor fonda la ville de **Vendhelm** (*Windhelm*) — la plus ancienne cité humaine encore existante à ce jour. Construite par les mains des Compagnons survivants, elle fut bâtie en pierre grise et se dresse encore fièrement sur les rives de la Rivière Blanche.
+
+Vendhelm devint :
+- Le **siège du pouvoir** d'Ysgramor et de ses descendants
+- La **capitale** du premier royaume nordique unifié
+- Un **monument** à la mémoire des morts de Saarthal
+- Le coeur de la **culture nordique** pendant des millénaires
+
+## L'Héritage d'Ysgramor
+
+### Wuuthrad — La Hache Légendaire
+
+L'arme d'Ysgramor, **Wuuthrad** ("Tempête de Larmes"), est une hache de guerre à deux mains forgée à partir des larmes versées par le héros pour ses fils et son peuple. La légende affirme que l'acier absorba son chagrin et sa rage, devenant particulièrement mortelle contre les elfes.
+
+### Les Compagnons de Jorrvaskr
+
+L'ordre guerrier des **Compagnons**, basé à Jorrvaskr dans la ville de Blancherive, perpétue directement la tradition des Cinq Cents originaux. Leur salle de banquet fut construite à partir de la coque renversée du navire de Jeek de la Rivière.
+
+### La Tombe d'Ysgramor
+
+Ysgramor fut inhumé dans un tumulus monumental sur une île au large de la côte nord de Bordeciel. Ce tombeau, gardé par les esprits de ses Compagnons, demeure un lieu sacré pour tous les Nordiques — un pèlerinage que tout guerrier digne de ce nom aspire à accomplir.
+
+## Controverses Historiques
+
+Si les Nordiques vénèrent Ysgramor comme un libérateur, certains érudits — notamment elfiques — voient dans sa campagne un **génocide** plutôt qu'une juste vengeance. La destruction quasi-totale des Falmer, qui furent ensuite réduits en esclavage par les Dwemer et dégénérèrent en créatures aveugles et sauvages, soulève des questions morales que l'histoire nordique préfère ignorer.
+
+Néanmoins, l'impact d'Ysgramor sur l'histoire de Tamriel est indéniable : sans lui, l'humanité n'aurait peut-être jamais pris pied sur le continent, et l'ensemble de l'histoire qui suivit — les Empires, les guerres, les héros — n'aurait simplement pas existé.

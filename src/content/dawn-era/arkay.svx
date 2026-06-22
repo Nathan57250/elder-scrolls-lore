@@ -1,0 +1,62 @@
+---
+title: "Arkay"
+slug: "arkay"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divins", "mort", "vie", "cycle", "nécromancie", "religion"]
+timelineYear: -99940
+summary: "Arkay, dieu du cycle de la vie et de la mort, gardien de la frontière entre les vivants et les morts."
+sources: ["Variétés de la foi dans l'Empire", "Arkay le Dieu", "Le Livre des Divins", "Loi d'Arkay"]
+---
+
+## Le Gardien du Cycle
+
+**Arkay** est le Divin des cycles de la vie et de la mort, le gardien de la frontière sacrée qui sépare les vivants des morts. Parmi les **Divins**, il occupe une position solennelle mais essentielle : sans lui, les âmes ne trouveraient jamais le repos et les morts ne laisseraient jamais place aux vivants. Il est le dieu des funérailles, des naissances et de tout ce qui marque les transitions de l'existence mortelle.
+
+Les mythes de l'**Ère de l'Aube** présentent deux versions contradictoires de l'origine d'Arkay. La première le décrit comme un et'Ada originel qui a volontairement limité sa puissance pour créer le cycle de la mortalité dans **Mundus**. La seconde, plus controversée, affirme qu'Arkay était un mortel, un commerçant mourant qui fut élevé au rang de dieu par **Mara** pour sa dévotion exceptionnelle.
+
+## La Loi d'Arkay
+
+Le principe le plus fondamental du culte d'Arkay est connu sous le nom de Loi d'Arkay ou Bénédiction d'Arkay. Cette loi divine établit une barrière sacrée entre la vie et la mort : les morts doivent rester morts, et les vivants doivent vivre pleinement jusqu'à ce que leur heure arrive naturellement.
+
+Cette loi est la base de l'opposition absolue du culte d'Arkay à la **nécromancie**. Animer un cadavre, lier une âme ou transformer un vivant en mort-vivant sont des violations directes de la Loi d'Arkay, des crimes contre l'ordre naturel de l'univers. Les prêtres d'Arkay consacrent une grande partie de leur temps à combattre les nécromanciens et à purifier les lieux souillés par la mort-vivance.
+
+La Bénédiction d'Arkay est un rituel pratiqué sur les corps des défunts pour empêcher leur animation ultérieure. Ce rituel scelle le corps contre la nécromancie, rendant impossible sa réanimation par des moyens magiques. Dans les sociétés civilisées de Tamriel, ce rituel fait partie intégrante des rites funéraires.
+
+## Les Prêtres et les Temples
+
+Les prêtres d'Arkay sont à la fois des guides spirituels pour les mourants, des officiants funéraires et des chasseurs de morts-vivants. Leur formation couvre la théologie du cycle vital, les rites funéraires de multiples cultures et les techniques de destruction des morts-vivants.
+
+Les temples d'Arkay sont invariablement situés près des cimetières et des cryptes. Ils servent de lieu de recueillement pour les endeuillés, de chapelles ardentes pour les défunts et de postes de garde contre les incursions nécromantiques. L'architecture de ces temples est sobre et solennelle, avec des symboles du cycle éternel.
+
+Le Hall des Morts, présent dans chaque ville de Bordeciel, est un temple d'Arkay en miniature. Ses gardiens veillent sur les dépouilles des citoyens décédés et s'assurent que les rites appropriés sont accomplis pour garantir le repos des âmes.
+
+## Arkay et la Nécromancie
+
+L'opposition entre Arkay et la nécromancie est l'un des conflits les plus anciens et les plus fondamentaux de Tamriel. Les nécromanciens violent la Loi d'Arkay chaque fois qu'ils pratiquent leur art, ce qui fait d'eux les ennemis naturels du culte.
+
+La **Guilde des Mages** a longtemps été divisée sur la question de la nécromancie, certains archimages la tolérant comme une branche légitime de la recherche magique. Les prêtres d'Arkay ont toujours combattu cette position, arguant que la nécromancie est intrinsèquement maléfique indépendamment de l'intention du pratiquant.
+
+**Molag Bal**, le Prince Daedrique qui créa les premiers vampires, est l'ennemi suprême d'Arkay. Le vampirisme est une violation permanente de la Loi d'Arkay, un état d'entre-deux obscène où un être n'est ni vivant ni mort. Les prêtres d'Arkay et les **Vigiles de Stendarr** collaborent souvent dans la traque des vampires.
+
+## Arkay dans les Différentes Cultures
+
+Pour les **Impériaux**, Arkay est le dieu des rites funéraires et le gardien des cimetières. Son culte est profondément ancré dans les traditions mortuaires impériales, de la veillée funèbre à l'enterrement en passant par les prières pour les défunts.
+
+Chez les **Nordiques**, la mort est perçue différemment. Les guerriers valeureux espèrent rejoindre **Sovngarde**, le paradis des braves, plutôt que de suivre le cycle normal d'Arkay. Néanmoins, les Nordiques respectent Arkay sous le nom d'Orkey, reconnaissant son rôle dans le cycle naturel même s'ils aspirent à le transcender par la mort héroïque.
+
+Les **Rougegardes** possèdent leur propre tradition de gardiens des morts, les Gardiens de Tu'whacca, qui remplissent un rôle similaire à celui des prêtres d'Arkay. Tu'whacca est l'aspect yokudanais d'Arkay, le guide des âmes vers leur repos final dans le Far Shores.
+
+Les **Dunmer** ont une relation complexe avec la mort et les ancêtres. Leur pratique de communication avec les esprits ancestraux, bien que techniquement une forme de nécromancie, est considérée comme distincte car elle repose sur le consentement des esprits.
+
+## Le Cycle Éternel
+
+La philosophie d'Arkay enseigne que la mort n'est pas une fin mais une transition. Les âmes des défunts rejoignent l'**Aetherius** ou sont recyclées dans le flux de la création, alimentant de nouvelles vies. Ce cycle est considéré comme sacré et nécessaire : sans la mort, il n'y aurait pas de place pour de nouvelles naissances.
+
+Cette vision donne au culte d'Arkay une dimension sereine que l'on ne retrouve pas dans les religions qui voient la mort comme un ennemi. Pour les prêtres d'Arkay, accompagner un mourant est un acte aussi saint que bénir un nouveau-né. Les deux moments sont des passages sacrés dans le cycle éternel.
+
+## Reliques et Bénédictions
+
+La bénédiction d'Arkay accorde une résistance à la magie nécromantique et une protection contre les maladies. Les fidèles qui portent l'amulette d'Arkay sont considérés comme protégés contre les tentatives de réanimation après leur mort.
+
+Parmi les reliques associées à Arkay, le Bâton du Nécromancien est paradoxalement l'une des plus célèbres. Cet artefact, capable de commander les morts-vivants, est gardé par les prêtres d'Arkay non pour l'utiliser mais pour empêcher qu'il ne tombe entre de mauvaises mains.

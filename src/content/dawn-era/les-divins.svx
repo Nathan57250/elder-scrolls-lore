@@ -1,0 +1,86 @@
+---
+title: "Les Divins — Le Panthéon Impérial"
+slug: "les-divins"
+era: "dawn-era"
+category: "religion"
+tags: ["divins", "aedra", "neuf divins", "huit divins", "akatosh", "talos", "religion", "temple"]
+timelineYear: -9999
+summary: "Les Huit (ou Neuf) Divins forment le panthéon officiel de l'Empire de Cyrodiil — les Aedra qui sacrifièrent leur pouvoir pour créer Mundus."
+sources: ["UESP: Nine Divines", "The Imperial Library: Varieties of Faith", "Pocket Guide to the Empire"]
+---
+
+## Les Aedra et la Création
+
+Les **Aedra** ("nos ancêtres" en aldmeris) sont les Et'Ada qui participèrent à la création de Mundus sous l'impulsion de Lorkhan. Contrairement aux Daedra, ils **sacrifièrent** une partie de leur puissance divine pour tisser le plan mortel. Ce sacrifice les rendit **mortels** dans un sens — diminués, incapables d'agir directement dans le monde.
+
+Leur influence passe par les bénédictions, les prophéties, et de rares avatars.
+
+## Les Huit Divins
+
+### Akatosh — Le Dragon du Temps
+- **Sphère** : Temps, Endurance, Éternité
+- **Symbole** : Dragon
+- Le chef des Divins, premier des Et'Ada à se former. Il établit le temps linéaire lors de la Convention. Son sang coule dans les Empereurs Septim (le "Sang de Dragon"). Il s'est manifesté sous forme d'avatar lors de la Crise d'Oblivion pour sceller les portes d'Oblivion.
+
+### Arkay — Le Cycle de Vie
+- **Sphère** : Naissance, Mort, Cycle des saisons
+- **Symbole** : Cercle de vie
+- Gardien de la frontière entre la vie et la mort. Ses prêtres protègent les corps des morts contre la nécromancie. La "Loi d'Arkay" empêche les âmes d'être ramenées contre leur gré.
+
+### Dibella — La Beauté
+- **Sphère** : Beauté, Amour, Art
+- **Symbole** : Fleur
+- Déesse des arts et de l'affection. Son culte est populaire mais parfois controversé pour ses aspects plus sensuels. Ses temples enseignent aussi bien la peinture que les "arts de l'amour".
+
+### Julianos — La Sagesse
+- **Sphère** : Sagesse, Logique, Littérature, Loi
+- **Symbole** : Triangle
+- Patron des érudits et des mages. Associé à la Guilde des Mages et aux universités impériales.
+
+### Kynareth — La Nature
+- **Sphère** : Ciel, Vent, Nature
+- **Symbole** : Oiseau
+- Déesse de l'air et patronne des marins. C'est elle qui donna le souffle à Mundus — l'espace dans lequel exister. Associée au Thu'um nordique (sous le nom de Kyne).
+
+### Mara — L'Amour Maternel
+- **Sphère** : Amour, Compassion, Fertilité
+- **Symbole** : Mains jointes
+- La Mère-Déesse, patronne des mariages et des foyers. Ses temples offrent refuge et guérison. Ses prêtresses célèbrent les unions à travers tout Tamriel.
+
+### Stendarr — La Miséricorde
+- **Sphère** : Justice, Miséricorde, Charité
+- **Symbole** : Calice
+- Dieu de la compassion et protecteur des faibles. Les **Vigiles de Stendarr** sont un ordre militant dédié à l'éradication des Daedra, vampires et loups-garous.
+
+### Zenithar — Le Travail
+- **Sphère** : Commerce, Travail, Artisanat
+- **Symbole** : Enclume
+- Patron des marchands et artisans. "Zenithar dit : le travail est sa propre récompense." Souvent associé à Kynareth comme son époux.
+
+## Le Neuvième Divin : Talos
+
+**Talos** (Tiber Septim) fut élevé au rang de Divin après sa mort en 3E 38, devenant le Dieu de la Guerre et de la Gouvernance. Son statut divin est la question théologique la plus controversée de Tamriel :
+
+- **Pour les Impériaux et Nordiques** : Talos est un dieu légitime, un mortel ayant atteint l'apothéose
+- **Pour le Thalmor** : Talos est un faux dieu, un homme mortel que les humains vénèrent par arrogance
+
+Le **Concordat de l'Or Blanc** (4E 175) interdit officiellement le culte de Talos — une clause qui déclencha directement la Guerre Civile de Bordeciel.
+
+## Les Variations Culturelles
+
+Le même Divin porte des noms différents selon les cultures :
+
+| Impérial | Nordique | Elfique | Khajiit |
+|----------|----------|---------|---------|
+| Akatosh | Alduin | Auri-El | Alkosh |
+| Kynareth | Kyne | — | Khenarthi |
+| Mara | Mara | — | Mara |
+| Arkay | Orkey | Xarxes | — |
+| Stendarr | Stuhn | Syrabane | S'rendarr |
+| Dibella | — | — | — |
+| Julianos | Jhunal | — | — |
+| Zenithar | Tsun | — | — |
+
+## Les Bénédictions
+
+Les fidèles peuvent recevoir des **bénédictions** en priant aux autels des Divins dans les temples. Ces bénédictions sont de courte durée mais réelles — preuve tangible de l'existence et de l'attention des Divins envers Mundus, malgré leur état diminué.

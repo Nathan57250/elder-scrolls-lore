@@ -1,0 +1,101 @@
+---
+title: "La Troisième Ère"
+slug: "troisieme-ere"
+era: "third-era"
+category: "empires"
+tags: ["empire-septim", "simulacre-imperial", "warp-in-the-west", "crise-oblivion", "uriel-septim"]
+date: "3E 1 — 3E 433"
+summary: "L'ère de la dynastie Septim : le Simulacre Impérial, le Warp in the West, la guerre du Nérévar, et la Crise d'Oblivion qui mit fin à l'ère."
+timelineYear: 1
+sources: ["UESP: Third Era", "The Imperial Library", "Events of Morrowind, Oblivion"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Vue d'Ensemble — L'Ère de la Stabilité Fragile
+
+La Troisième Ère est un paradoxe : **433 ans de paix relative** maintenus par un système à point de défaillance unique — la lignée Septim et les Dragonfires. Tant que le système tient, Tamriel est protégé. Quand il cède, tout s'effondre en une nuit.
+
+### Ce qui a créé la Troisième Ère
+- Tiber Septim conquiert tout Tamriel (2E 854-896) avec le Numidium
+- Il forge une paix forcée — toutes les provinces sous un Empire
+- Il atteint l'apothéose → le culte de Talos cimente la légitimité impériale
+- Les Dragonfires + l'Amulette des Rois protègent contre les invasions daedriques
+
+### Les fissures qui s'accumulent
+Sous la surface de la paix, le système pourrit :
+
+| Période | Événement | Fissure créée |
+|---------|-----------|---------------|
+| 3E 389-399 | Simulacre Impérial | L'Empereur est vulnérable — 10 ans sans être détecté |
+| 3E 417 | Warp in the West | La réalité elle-même peut être brisée |
+| 3E 427 | Nérévarrin | Cœur de Lorkhan détruit → Tribunal tombe → Morrowind instable |
+| 3E 433 | Crise d'Oblivion | Le système entier s'effondre en une nuit |
+
+## La Dynastie Septim
+
+La Troisième Ère fut dominée par la **dynastie Septim**, descendante de Tiber Septim. L'Empire maintint une paix relative à travers Tamriel pendant la majeure partie de cette période, malgré de nombreuses intrigues et crises.
+
+L'empereur **Uriel Septim VII** régna pendant la majorité de la fin de la Troisième Ère (3E 368 — 3E 433), survivant à des usurpations, des emprisonnements, et des complots.
+
+## Le Simulacre Impérial (3E 389 — 3E 399)
+
+Le mage **Jagar Tharn**, conseiller impérial, emprisonna secrètement l'empereur Uriel Septim VII dans une dimension parallèle et prit sa place grâce à la magie d'illusion. Pendant dix ans, il régna sous son apparence, semant la discorde.
+
+Un héros anonyme, guidé par le fantôme de la sorcière Ria Silmane, rassembla les fragments du **Bâton du Chaos** et démasqua l'imposteur, libérant le véritable empereur.
+
+## Le Warp in the West (3E 417)
+
+Aussi appelé le "Miracle du Paix" ou le **Dragon Break** de la Baie d'Iliac, cet événement reste l'un des plus mystérieux de l'histoire de Tamriel.
+
+Un agent des Lames en possession du **Totem du Numidium** activa le golem Dwemer. La réalité elle-même se fractura — **six issues mutuellement exclusives se produisirent simultanément** (un phénomène appelé Dragon Break, où le temps perd sa linéarité).
+
+Le résultat : les dizaines de petits royaumes de la région de la Baie d'Iliac fusionnèrent en quatre grandes nations (Daguefilante, Sentinelle, Orsinium, Wayrest).
+
+## La Prophétie du Nérévarine (3E 427)
+
+Sur l'île de **Vvardenfell** en Morrowind, un prisonnier se révéla être la réincarnation de **Nerevar** — le Nérévarine prophétisé. Avec les outils de Kagrenac (Keening, Sunder, Wraithguard), le Nérévarine pénétra dans le Cœur de la Montagne Rouge et :
+
+- Détruisit le **Cœur de Lorkhan**, coupant la source de pouvoir de Dagoth Ur
+- Vainquit **Dagoth Ur** et mit fin à la Peste de la Rouille
+- Brisa la source d'immortalité du **Tribunal**, condamnant Vivec, Almalexia et Sotha Sil à retrouver leur mortalité
+
+## La Crise d'Oblivion (3E 433)
+
+La Troisième Ère s'acheva dans le sang et le feu. L'Aube Mythique, un culte voué à **Mehrunes Dagon** (Prince Daedrique de la Destruction), assassina l'empereur Uriel Septim VII et tous ses héritiers connus.
+
+Des **Portes d'Oblivion** s'ouvrirent à travers tout Tamriel, déversant des armées daedriques. La ville de **Kvatch** fut entièrement détruite.
+
+**Martin Septim**, fils bâtard et dernier héritier secret de la lignée Septim, fut retrouvé à temps. Avec l'aide du Champion de Cyrodiil, il se sacrifia dans le Temple du Dieu Unique en se fusionnant avec l'Amulette des Rois pour devenir un **Avatar d'Akatosh** — un dragon divin qui repoussa Mehrunes Dagon dans Oblivion.
+
+La mort de Martin mit fin à la lignée Septim et aux **Feux du Dragon** qui protégeaient les barrières entre Oblivion et Mundus. La Troisième Ère prit fin.
+
+## Chaîne Causale — De Tiber Septim à la Fin
+
+<CausalChain items={[
+  { text: "Tiber Septim conquiert Tamriel (2E 854)", link: "/chronologie/second-era/tiber-septim" },
+  { text: "Forge l'Amulette des Rois + Dragonfires", link: "/chronologie/first-era/amulette-des-rois", indent: 1 },
+  { text: "433 ans de protection contre les Daedra", indent: 1 },
+  { text: "Dagoth Ur se réveille (sous la Montagne Rouge)", link: "/chronologie/third-era/dagoth-ur", indent: 1 },
+  { text: "Le Mythic Dawn s'infiltre (pendant des décennies)", link: "/chronologie/third-era/mythic-dawn", indent: 1 },
+  { text: "Le Tribunal perd son pouvoir (progressivement)", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "3E 427 : Le Nérévarrin détruit le Cœur", link: "/chronologie/third-era/nerevarine" },
+  { text: "Tribunal mortel → Vivec disparaît → Baar Dau instable", indent: 1 },
+  { text: "Conséquence collatérale fatale pour l'avenir", indent: 1 },
+  { text: "3E 433 : Le Mythic Dawn frappe", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Assassine les Septim → Dragonfires éteints", indent: 1 },
+  { text: "Martin se sacrifie → Dagon repoussé", link: "/chronologie/third-era/martin-septim", indent: 1 },
+  { text: "Amulette DÉTRUITE → plus jamais de protection", indent: 1 },
+  { text: "RÉSULTAT : Le monde post-3E 433 est DÉFINITIVEMENT vulnérable", indent: 1 }
+]} />
+
+## L'Ironie Tragique
+
+La Troisième Ère illustre une ironie profonde du lore :
+- Le système **fonctionnait** (Dragonfires = protection parfaite)
+- Mais il reposait sur **une seule famille** (les Septim)
+- Quand cette famille meurt, il n'y a **aucun plan B**
+- 433 ans de sécurité ont rendu les gens **complaisants**
+- Le Mythic Dawn n'avait qu'à tuer 4 personnes pour détruire la protection de tout un monde

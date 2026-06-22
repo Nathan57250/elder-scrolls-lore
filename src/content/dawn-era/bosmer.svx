@@ -1,0 +1,112 @@
+---
+title: "Les Bosmer — Elfes des Bois"
+slug: "bosmer"
+era: "dawn-era"
+category: "races"
+tags: ["bosmer", "elfes des bois", "val-boise", "pacte vert", "viande", "y'ffre", "metamorphes"]
+timelineYear: 0
+summary: "Les Bosmer (Elfes des Bois) de Val-Boisé vivent sous le Pacte Vert, interdit de toucher à la végétation. Chasseurs, archers d'élite et carnivores stricts, ils pratiquent le cannibalisme rituel."
+sources: ["UESP: Bosmer", "A Dance in Fire", "The Green Pact and the Dominion"]
+---
+
+## Présentation
+
+Les **Bosmer** ("Peuple des Bois") sont les Elfes de la forêt, habitants de **Val-Boisé** (Valenwood) — une jungle dense et vivante au sud-ouest de Tamriel. Leur particularité définissante est le **Pacte Vert** (Green Pact) : un accord avec Y'ffre qui leur interdit d'abîmer la végétation, les forçant à un mode de vie exclusivement carnivore.
+
+## Le Pacte Vert
+
+### Les Termes
+Le **Green Pact** est un accord sacré entre les Bosmer et Y'ffre (dieu de la forêt) :
+- **Interdiction** de couper, brûler ou blesser toute plante
+- **Interdiction** de manger des végétaux (fruit, légume, grain)
+- Les Bosmer doivent manger exclusivement de la **viande**
+- En échange, la forêt les protège et obéit à leurs chamanes
+- Val-Boisé est une jungle **vivante** et hostile aux envahisseurs
+
+### Conséquences Pratiques
+- Régime 100% carnivore (viande, insectes, lait)
+- Pas d'agriculture — chasse et cueillette animale uniquement
+- Pas de construction en bois — ils vivent dans les arbres vivants
+- L'importation de bois est la seule source de matériaux (commerce)
+- Les vêtements sont en cuir, os, chitine
+
+### Le Cannibalisme Rituel
+La clause la plus troublante du Pacte :
+- Les ennemis tués au combat doivent être **consommés** entièrement
+- Rien ne doit être gaspillé
+- Ce n'est pas de la cruauté mais un **devoir religieux**
+- Le "Meat Mandate" stipule que le corps doit être mangé dans les 3 jours
+- Les ennemis jugés indignes ne sont pas mangés (insulte suprême)
+
+## Y'ffre
+
+**Y'ffre** (aussi Jephre) est le dieu patron des Bosmer :
+- Esprit de la Forêt et de la Narration
+- Il donna une forme fixe au monde (avant lui, tout était chaos/métamorphose)
+- Le premier à se "raconter" en existence — créant les lois de la nature
+- Les Bosmer étaient des **métamorphes** avant que Y'ffre ne les fixe
+- Le Pacte est le prix de cette forme stable
+
+## Val-Boisé (Valenwood)
+
+### La Jungle Vivante
+Val-Boisé est unique parmi les provinces :
+- La forêt est **sentiente** à un degré — elle réagit aux menaces
+- Les arbres sont immenses (certains sont des villes entières)
+- **Falinesti** — la capitale nomade, un arbre géant mobile (qui s'enracina)
+- La canopée est impénétrable aux armées conventionnelles
+- Le sous-bois grouille de prédateurs
+
+### Villes
+- **Falinesti** — arbre-cité gigantesque (anciennement mobile)
+- **Elden Root** — ville construite dans un arbre gigantesque (Graht-oak)
+- **Woodhearth** — port côtier
+- **Haven** — port commercial
+
+## Le Wild Hunt
+
+La capacité la plus terrifiante des Bosmer :
+- En cas de menace existentielle, les Bosmer peuvent invoquer la **Wild Hunt**
+- Les participants **perdent leur forme** — redeviennent des métamorphes
+- Ils se transforment en monstres informes et dévorent tout
+- C'est IRRÉVERSIBLE — les participants ne redeviennent jamais normaux
+- Utilisé seulement en dernier recours absolu (quelques fois dans l'histoire)
+- Même les autres Bosmer craignent la Wild Hunt
+
+## Compétences
+
+### Archerie
+Les Bosmer sont les **meilleurs archers** de Tamriel :
+- Adresse naturelle exceptionnelle
+- Arcs en corne/os (pas de bois — Pacte Vert)
+- Tireurs d'élite de légende
+- Utilisés comme archers d'élite dans toutes les armées
+
+### Furtivité
+- Petite taille (les plus petits des Mer)
+- Agilité extraordinaire
+- Connaissance innée de la forêt
+- Capacité de se fondre dans l'environnement
+- "Command Animal" — pouvoir racial de calmer les bêtes
+
+## Relations Politiques
+
+### Le Domaine Aldmeri
+- Val-Boisé fut intégré au Domaine Aldmeri (dominé par le Thalmor)
+- Les Bosmer sont des alliés **réticents** des Altmer
+- Le Thalmor ignore/méprise le Pacte Vert
+- Certains Bosmer résistent, d'autres acceptent la "protection"
+
+### L'Empire
+- Sous l'Empire Septim : province impériale
+- Économie basée sur l'exportation de peaux et l'importation de tout le reste
+- Après le Concordat : sous domination Thalmor
+
+## Traits Physiques
+
+- Les plus **petits** des races elfiques
+- Peau brun-vert, yeux ambrés
+- Oreilles pointues (elfiques)
+- Agilité et vitesse supérieures
+- Résistance aux maladies et poisons
+- Longévité elfique (200+ ans)

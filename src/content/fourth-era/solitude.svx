@@ -1,0 +1,83 @@
+---
+title: "Solitude — Capitale de Bordeciel"
+slug: "solitude"
+era: "fourth-era"
+category: "lieux"
+tags: ["solitude", "haafingar", "palais bleu", "empire", "barde", "bordeciel"]
+timelineYear: 201
+summary: "Solitude est la capitale impériale de Bordeciel — une cité majestueuse perchée sur une arche de pierre naturelle, siège du pouvoir impérial et du Haut-Roi."
+sources: ["UESP: Solitude", "Walking the World, Vol XI", "The Imperial Library"]
+---
+
+## Situation
+
+![Vue de Solitude depuis la route](/images/fourth-era/solitude.jpg)
+
+**Solitude** (Haafingar) est bâtie sur un immense **arche naturelle de pierre** qui s'avance au-dessus de la mer — un promontoire spectaculaire qui rend la ville quasi-imprenable. La rivière Karth passe en dessous, créant un port naturel protégé.
+
+C'est la ville la plus riche, la plus peuplée, et la plus cosmopolite de Bordeciel.
+
+## Architecture
+
+### Le Palais Bleu (Blue Palace)
+Résidence du Haut-Roi (ou Haute-Reine) de Bordeciel. Un édifice imposant de pierre bleue et d'arches élégantes, dominant la ville depuis son point le plus élevé. En 4E 201, il est occupé par la **Jarl Elisif la Juste** — veuve du Haut-Roi Torygg, assassiné par Ulfric.
+
+### Château Dour
+La forteresse militaire de Solitude, siège du **Général Tullius** et du commandement de la Légion Impériale en Bordeciel. C'est ici que sont coordonnées les opérations contre la rébellion Sombrage.
+
+### Le Collège des Bardes
+Institution unique à Solitude, le Collège forme musiciens, poètes et historiens. Les Bardes jouent un rôle crucial dans la culture nordique — ils préservent l'histoire orale et les traditions.
+
+### La Cour du Bourreau
+Visible depuis l'entrée de la ville — une cour où les exécutions publiques ont lieu. Le joueur assiste à une exécution dès son arrivée à Solitude.
+
+## Rôle Politique
+
+Solitude est le **siège du pouvoir impérial** en Bordeciel :
+- Résidence du Haut-Roi / Haute-Reine
+- Quartier général de la Légion Impériale
+- Ambassade du Thalmor à proximité
+- Centre administratif de la province
+
+### Position dans la Guerre Civile
+Solitude est le bastion principal de la **faction impériale** :
+- Jarl Elisif soutient l'Empire par loyauté envers son mari assassiné
+- Le Général Tullius coordonne les opérations depuis Château Dour
+- La ville est relativement épargnée par les combats directs
+
+## Commerce et Économie
+
+Le port de Solitude est le principal point d'entrée maritime de Bordeciel :
+- Commerce avec Haute-Roche, Cyrodiil, et l'archipel de l'Automne
+- La **Compagnie de Commerce de l'Est** y a son siège
+- Marché couvert prospère
+- Artisanat de luxe (bijouterie, teinture, ébénisterie)
+
+## Lieux Notables
+
+| Lieu | Description |
+|------|-------------|
+| Palais Bleu | Résidence royale |
+| Château Dour | Garnison impériale |
+| Collège des Bardes | École de musique et poésie |
+| Temple des Divins | Plus grand temple de Bordeciel |
+| Proudspire Manor | Résidence la plus chère du jeu |
+| Winking Skeever | Auberge principale |
+| Radiant Raiment | Boutique de vêtements raffinés |
+| Palais d'Angeline | Herboristerie et alchimie |
+
+## Le Temple des Divins
+
+Le plus grand temple de Bordeciel, dédié aux **Huit Divins** (officiellement — le culte de Talos y est interdit depuis le Concordat) :
+- Autels des huit divinités autorisées
+- Prêtresses et prêtres résidents
+- Lieu de mariage le plus prestigieux de la province
+- L'autel de Talos est **absent** — conformément à l'interdiction
+
+## Histoire
+
+- **1E** : Fondation comme port de pêche nordique
+- **2E** : Devient capitale sous l'influence impériale
+- **3E** : Prospère sous la pax impériale
+- **4E 201** : Torygg tué par Ulfric → Guerre civile
+- Le meurtre de Torygg est l'étincelle : Ulfric le défia en duel et utilisa le **Thu'um** pour le projeter, puis le tua à l'épée — les Impériaux parlent d'assassinat, les Sombrages d'un duel honorable.

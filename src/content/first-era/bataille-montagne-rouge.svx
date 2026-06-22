@@ -1,0 +1,127 @@
+---
+title: "La Bataille de la Montagne Rouge"
+slug: "bataille-montagne-rouge"
+era: "first-era"
+category: "evenements"
+tags: ["montagne-rouge", "nerevar", "dagoth-ur", "dwemer", "tribunal", "kagrenac", "coeur-de-lorkhan", "morrowind", "chimer"]
+timelineYear: 700
+summary: "Affrontement cataclysmique entre les Chimer de Nerevar et les Dwemer de Dumac au sommet de la Montagne Rouge, qui provoqua la disparition des Dwemer et la naissance du Tribunal."
+sources: ["UESP: Battle of Red Mountain", "Nerevar at Red Mountain", "The Battle of Red Mountain (Vivec's version)", "Five Songs of King Wulfharth", "The Imperial Library"]
+---
+
+## Un événement, mille versions
+
+La **Bataille de la Montagne Rouge** (vers 1E 700) est l'événement le plus disputé de l'histoire de Tamriel. Aucun récit ne concorde pleinement — chaque source (le Temple du Tribunal, les Ashlanders, les Dwemer disparus, les Nordiques) offre une version contradictoire. Ce qui suit est une tentative de synthèse, mais le lecteur est averti : la vérité est peut-être inaccessible.
+
+### Ce que tous les récits confirment :
+- Les Chimer et les Dwemer s'affrontèrent au sommet de la **Montagne Rouge** (Red Mountain / Dagoth-Ur)
+- Le peuple **Dwemer disparut entièrement** au cours ou immédiatement après la bataille
+- Le général **Nerevar** mourut peu après
+- Les outils de **Kagrenac** et le **Cœur de Lorkhan** furent au centre du conflit
+
+## Les Causes du Conflit
+
+### La découverte du Cœur de Lorkhan
+
+Profondément enfoui sous la Montagne Rouge gisait le **Cœur de Lorkhan** — l'organe divin arraché au dieu créateur lors de la Convention, planté là comme un pilier du monde par les Aedra. Les Dwemer, en creusant leurs cités souterraines, le découvrirent.
+
+**Kagrenac**, Grand Architecte Tonal des Dwemer, comprit immédiatement le potentiel de cette relique. Il forgea trois outils pour manipuler le Cœur :
+
+| Outil | Fonction |
+|-------|----------|
+| **Keening** | Dague de focalisation tonale |
+| **Sunder** | Marteau d'extraction d'énergie |
+| **Wraithguard** | Gantelet protecteur |
+
+Son projet : créer un dieu artificiel — le **Numidium** — alimenté par la puissance divine du Cœur.
+
+### La trahison révélée
+
+**Nerevar**, Hortator (champion de guerre) des Chimer et ami juré du roi Dwemer **Dumac**, apprit l'existence de ce projet par **Dagoth Ur** (Voryn Dagoth), l'un de ses plus fidèles vassaux. Nerevar tenta d'abord la diplomatie. Selon certaines sources, Dumac ignorait lui-même les travaux de Kagrenac ; selon d'autres, il les approuvait pleinement.
+
+Les négociations échouèrent. La guerre devint inévitable.
+
+## Le Déroulement de la Bataille
+
+### Les forces en présence
+
+**Camp Chimer :**
+- Nerevar Indoril — Hortator, porteur de la Lune-et-l'Étoile
+- Almalexia — épouse de Nerevar, reine guerrière
+- Vivec — conseiller et combattant
+- Sotha Sil — mage et stratège
+- Dagoth Ur — gardien désigné des outils de Kagrenac
+- Les Grandes Maisons Chimer unifiées
+
+**Camp Dwemer :**
+- Roi Dumac Dwarfking — souverain de Resdayn
+- Kagrenac — architecte tonal et scientifique suprême
+- Les armées mécaniques et les centurions de vapeur
+- Les clans Dwemer de Vvardenfell
+
+### L'assaut
+
+Les Chimer assiégèrent la forteresse intérieure de la Montagne Rouge. Les combats furent apocalyptiques — magie pure contre technologie tonale, armées de chair contre automates de métal. Nerevar affronta Dumac en combat singulier et le tua (ou Dumac mourut autrement, selon les versions).
+
+### Le moment critique
+
+Au moment où la défaite Dwemer semblait consommée, **Kagrenac frappa le Cœur de Lorkhan avec ses outils**. Ce qui se passa ensuite est le plus grand mystère de l'Ère :
+
+**L'intégralité du peuple Dwemer disparut instantanément.**
+
+Chaque Dwemer — homme, femme, enfant, soldat, artisan — où qu'il se trouvât sur Nirn, cessa d'exister au même instant. Seuls restèrent leurs cités vides, leurs automates désormais sans maîtres, et leurs artefacts muets.
+
+## La Mort de Nerevar
+
+Après la bataille, Nerevar confia les outils de Kagrenac à **Voryn Dagoth** pendant qu'il consultait ses conseillers. Ce qui advint ensuite diverge radicalement selon les sources :
+
+### Version du Temple (officielle)
+Nerevar, blessé mortellement lors de la bataille, mourut de ses blessures après avoir donné sa bénédiction au Tribunal pour utiliser les outils « avec sagesse ».
+
+### Version des Ashlanders (dissidente)
+Nerevar fut **assassiné** par Vivec, Almalexia et Sotha Sil, qui convoitaient le pouvoir du Cœur. Ils trahirent leur serment fait à Nerevar de ne jamais utiliser les outils.
+
+### Version de Dagoth Ur
+Dagoth Ur, au contact prolongé des outils, fut corrompu par le Cœur. Quand le Tribunal revint chercher les artefacts, il refusa de les rendre. Un combat s'ensuivit. Nerevar mourut dans cette confrontation, et Dagoth Ur fut « détruit » — pour renaître des siècles plus tard.
+
+## Les Conséquences
+
+### La naissance du Tribunal
+Vivec, Almalexia et Sotha Sil utilisèrent les outils de Kagrenac sur le Cœur de Lorkhan pour **s'élever au rang de dieux vivants**. Ils fondèrent le **Tribunal** (ALMSIVI) et régnèrent sur Morrowind pendant des millénaires.
+
+### La malédiction d'Azura
+La Princesse Daedra **Azura**, qui avait été témoin du serment de Nerevar, maudit les parjures et leur peuple entier. Les Chimer — à la peau dorée et aux yeux clairs — devinrent les **Dunmer** à la peau cendrée et aux yeux rouges.
+
+### La Prophétie du Nérévarine
+Azura prophétisa que Nerevar **renaîtrait** pour juger les traîtres. Cette prophétie se réalisa en 3E 427 avec l'arrivée du Nérévarine, qui détruisit Dagoth Ur et brisa le pouvoir du Tribunal.
+
+### Le Ghostfence
+Dagoth Ur, revenu d'entre les morts et alimenté par le Cœur, menaça Morrowind depuis l'intérieur de la Montagne Rouge. Le Tribunal érigea le **Ghostfence** — une barrière magique colossale — pour contenir sa corruption (le Fléau Cendrais).
+
+## Héritage historiographique
+
+La Bataille de la Montagne Rouge illustre un principe fondamental du lore de Tamriel : **l'histoire est écrite par ceux qui ont le pouvoir de la réécrire**. Le Tribunal, devenu divin, réécrivit littéralement la réalité pour justifier son ascension. Les Ashlanders, marginalisés, conservèrent une mémoire orale dissidente. Et les Dwemer emportèrent leur version dans le néant.
+
+## Cascade des Conséquences (3700 ans)
+
+La Bataille de la Montagne Rouge est l'**événement pivot** de l'histoire de Tamriel. Ses conséquences se déploient sur quatre ères :
+
+### Première Ère
+- Disparition des Dwemer → Cités abandonnées → Mystère non résolu
+- Naissance du Tribunal → Théocratie Dunmer millénaire
+- Malédiction d'Azura → Chimer deviennent Dunmer
+- Dagoth Ur enterré mais vivant → Menace dormante
+
+### Troisième Ère
+- Retour de Dagoth Ur → Fléau cendrais, Ghostfence
+- Prophétie du Nérévarrin → Arrivée du héros (3E 427)
+- Destruction du Cœur de Lorkhan → Chute du Tribunal
+- Vivec disparaît → Baar Dau n'est plus soutenu → Ingenium temporaire
+
+### Quatrième Ère
+- Ingenium détruit → Baar Dau s'écrase → **Année Rouge** (4E 5)
+- Morrowind dévastée → Invasion argonienne → Diaspora Dunmer
+- Empire affaibli (sans Morrowind) → Vulnérable face au Thalmor
+- Grande Guerre → Concordat → Guerre Civile de Bordeciel
+
+**Un seul acte — frapper le Cœur avec les Outils — résonne encore 3700 ans plus tard.**

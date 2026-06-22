@@ -1,0 +1,79 @@
+---
+title: "Les Falmers — La Chute des Elfes des Neiges"
+slug: "falmers"
+era: "merethic-era"
+category: "races"
+tags: ["falmer", "elfes des neiges", "dwemer", "esclavage", "dégénérescence", "griffenoire"]
+timelineYear: -500
+summary: "Les Falmers étaient autrefois les Elfes des Neiges — une civilisation elfique brillante de Bordeciel, réduite en esclavage par les Dwemer et dégénérée en créatures aveugles et hostiles."
+sources: ["UESP: Falmer", "The Imperial Library: Fall of the Snow Elves", "Knight-Paladin Gelebor"]
+---
+
+## Les Elfes des Neiges
+
+Avant leur chute, les **Elfes des Neiges** (Snow Elves) étaient une civilisation mer prospère occupant Bordeciel :
+- Culture raffinée et architecturalement avancée
+- Maîtrise de la magie du givre et de la lumière
+- Société religieuse vénérant Auri-El (Akatosh elfique)
+- Rivaux des premiers colons Atmorans (proto-Nordiques)
+
+## La Chute
+
+### La Nuit des Larmes
+L'événement déclencheur fut la **Nuit des Larmes** — l'attaque des Elfes des Neiges contre la colonie humaine de Saarthal. Les motivations exactes sont disputées :
+- Version nordique : une attaque génocidaire non provoquée
+- Version elfique probable : les humains avaient découvert quelque chose de puissant sous Saarthal (l'Œil de Magnus?)
+
+### La Vengeance d'Ysgramor
+Le retour d'Ysgramor avec les **Cinq Cents Compagnons** déclencha une guerre d'extermination contre les Elfes des Neiges. Submergés par les vagues de colons Atmorans, les Elfes furent repoussés dans les montagnes puis contraints de fuir.
+
+### Le Pacte avec les Dwemer
+Désespérés, les survivants Elfes des Neiges se réfugièrent auprès des **Dwemer** qui occupaient de vastes cités souterraines. Les Dwemer acceptèrent — à une condition terrible :
+
+> Les Elfes des Neiges devaient consommer un **champignon toxique** qui les rendrait aveugles.
+
+Ce champignon altéra irréversiblement leur biologie, les rendant dépendants des Dwemer pour leur survie.
+
+## L'Esclavage
+
+Pendant des siècles, les anciens Elfes des Neiges furent :
+- **Aveuglés** — par les champignons obligatoires
+- **Asservis** — main-d'œuvre dans les cités Dwemer
+- **Dégénérés** — perte progressive de l'intelligence, de la culture, du langage
+- **Transformés** — sélection non-naturelle vers des formes insectoïdes
+
+Quand les Dwemer disparurent en 1E 700, les Falmers furent libérés — mais ils n'étaient plus des elfes. Ils étaient devenus autre chose.
+
+## Les Falmers Modernes
+
+Les créatures connues sous le nom de "Falmers" en 4E 201 sont :
+- **Aveugles** — sens compensatoires (ouïe, odorat extrêmes)
+- **Hostiles** — attaquent tout intrus dans leur territoire
+- **Organisés** — société tribale rudimentaire avec chamans
+- **Insectoïdes** — armure et armes en chitine de chaurus
+- **Souterrains** — habitent les ruines Dwemer et les grottes profondes
+
+### Symbiose avec les Chaurus
+Les Falmers élèvent des **chaurus** — insectes géants venimeux :
+- Utilisés comme bêtes de guerre
+- Leur chitine sert d'armure et d'armes
+- Les œufs et le venin sont utilisés rituellement
+- Les chaurus chasseurs (volants) servent d'éclaireurs
+
+## L'Exception : Gelebor
+
+Le **Chevalier-Paladin Gelebor** est le dernier Elfe des Neiges non-dégénéré connu. Découvert dans la **Vallée Oubliée** (Forgotten Vale) — un sanctuaire caché d'Auri-El :
+- A survécu des millénaires en isolation
+- Garde le Temple d'Auri-El
+- Témoigne de ce que les Elfes des Neiges étaient autrefois
+- Espère qu'un jour les Falmers pourraient "guérir"
+
+## Implications
+
+La tragédie des Falmers soulève des questions lore profondes :
+- Les Dwemer sont-ils coupables d'un crime contre une race entière ?
+- Les Falmers peuvent-ils théoriquement être restaurés ?
+- Certains indices dans les ruines montrent des Falmers retrouvant une intelligence rudimentaire — la dégénérescence est-elle réversible ?
+- Le champignon aveuglant était-il un outil de contrôle délibéré ou une "protection" mal comprise ?
+
+La Vallée Oubliée prouve qu'au moins un refuge a préservé la forme originelle — ce qui implique que d'autres pourraient exister, cachés dans les profondeurs de Tamriel.

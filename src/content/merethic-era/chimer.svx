@@ -1,0 +1,70 @@
+---
+title: "Les Chimer, le peuple doré de Veloth"
+slug: "chimer"
+era: "merethic-era"
+category: "races"
+tags: ["chimer", "veloth", "dunmer", "morrowind", "daedra", "boethiah", "azura"]
+timelineYear: -1500
+summary: "L'histoire des Chimer, les ancêtres dorés des Dunmer, depuis leur exode religieux jusqu'à leur transformation."
+sources: ["Le Pèlerinage de la Grâce", "Les Anticipations", "La Bataille de la Montagne Rouge", "Nerevar à la Montagne Rouge"]
+---
+
+## Qui étaient les Chimer ?
+
+Les **Chimer**, littéralement le « Peuple Changé » en langue aldmeri, étaient une race d'elfes à la peau dorée et aux yeux brillants qui existèrent durant l'Ère Méréthique et une grande partie de la Première Ère. Ancêtres directs des **Dunmer** actuels, ils se distinguaient des autres Mer par leur rejet radical du panthéon **Aldmer** traditionnel au profit du culte des **Princes Daedra**.
+
+Physiquement, les Chimer ressemblaient aux **Altmer** dont ils descendaient, avec une peau allant du doré pâle au bronze et des traits élancés caractéristiques des races elfiques. Leur transformation ultérieure en Dunmer — la peau devenue cendrée et les yeux rougeoyants — constitue l'un des événements les plus marquants de l'histoire de **Tamriel**.
+
+Les Chimer formaient une société théocratique organisée en clans et en maisons, structure qui perdure encore chez les Dunmer modernes sous la forme des **Grandes Maisons**.
+
+## L'exode depuis l'Archipel de l'Automne
+
+L'histoire des Chimer commence par un acte de dissidence religieuse. Dans l'**Archipel de l'Automne**, berceau de la civilisation **Aldmer**, un prophète nommé **Veloth** reçut des visions de **Boethiah**, le Prince Daedra de la conspiration et du renversement. Boethiah lui révéla ce qu'il présenta comme les mensonges des **Aedra** et la vérité cachée par les traditions aldmeri.
+
+Veloth prêcha une nouvelle voie spirituelle, centrée sur le culte des trois « Bons Daedra » : **Boethiah**, **Azura** et **Mephala**. Ses enseignements attirèrent un nombre croissant de dissidents parmi les Aldmer, des elfes insatisfaits par la rigidité de la société de l'Archipel.
+
+Face à l'opposition croissante des autorités traditionnelles, Veloth organisa un grand exode. Des milliers de fidèles quittèrent l'Archipel de l'Automne pour entreprendre un pèlerinage vers l'est, traversant tout le continent de Tamriel à la recherche d'une terre promise.
+
+## La traversée et l'arrivée à Resdayn
+
+Le pèlerinage des Chimer fut long et périlleux. Guidés par les visions de **Veloth** et la bénédiction d'**Azura**, ils traversèrent les terres hostiles du continent, évitant ou combattant les autres peuples qu'ils rencontraient. La tradition rapporte que Boethiah les protégea en prenant la forme de **Trinimac**, le dieu champion des Aldmer, et en le dévorant — acte qui transforma les fidèles de Trinimac en **Orques**.
+
+Les Chimer s'installèrent finalement dans la région qui deviendrait **Morrowind**, alors appelée Resdayn. Cette terre volcanique, dominée par la **Montagne Rouge**, offrait un environnement inhospitalier mais défendable. Les Chimer y virent un signe de leurs patrons daédriques : seuls les forts et les dévoués survivraient dans ce pays.
+
+La terre de Resdayn n'était cependant pas vide. Les **Dwemer**, un autre peuple elfique aux croyances radicalement différentes, occupaient déjà les profondeurs souterraines de la région.
+
+## La structure sociale des Chimer
+
+La société chimeri s'organisa autour de principes à la fois religieux et claniques. Les Chimer ne formèrent jamais un État unifié au sens traditionnel ; ils constituaient plutôt une confédération de clans et de maisons liés par la foi commune et l'allégeance à des chefs charismatiques.
+
+Les **Grandes Maisons** qui dominent encore la société dunmer trouvent leur origine dans cette période. Chaque maison développa ses propres traditions, ses spécialités et ses interprétations du dogme daédrique. La rivalité entre maisons, tempérée par la nécessité de coopérer face aux menaces extérieures, devint un trait culturel durable.
+
+Le clergé jouait un rôle fondamental. Les prêtres et prêtresses des trois Bons Daedra servaient de guides spirituels, de juges et parfois de dirigeants. Le culte d'**Azura** enseignait la prophétie et la destinée. Celui de **Boethiah** prônait la force et la ruse politique. **Mephala** patronnait les intrigues, le secret et les assassinats rituels — tradition qui donnera naissance au **Morag Tong**.
+
+## Les conflits avec les Dwemer
+
+La coexistence entre Chimer et **Dwemer** en Resdayn fut marquée par des tensions perpétuelles. Les deux peuples différaient sur pratiquement tout : les Chimer étaient profondément religieux et vénéraient les Daedra, tandis que les Dwemer étaient des rationalistes athées qui ne reconnaissaient aucune divinité.
+
+Les Dwemer occupaient les profondeurs, construisant leurs cités souterraines et développant leur technologie, tandis que les Chimer vivaient en surface. Les conflits territoriaux éclataient régulièrement, et la méfiance réciproque définissait leurs relations.
+
+Ce n'est que face à la menace commune des envahisseurs **Nordiques** que les deux peuples s'unirent temporairement, sous la direction conjointe du roi chimer **Nerevar** et du roi dwemer **Dumac**. Cette alliance improbable donna naissance au Premier Conseil de Resdayn.
+
+## La religion des trois Bons Daedra
+
+Le cœur de la culture chimeri reposait sur le culte des trois « Bons Daedra », aussi appelés les **Anticipations** :
+
+**Boethiah**, Prince du complot et du renversement, était le patron de la guerre juste et de la transformation par le conflit. Les Chimer le considéraient comme celui qui leur avait révélé la vérité et libéré de l'esclavage spirituel des Aldmer.
+
+**Azura**, Princesse de l'aube et du crépuscule, incarnait la prophétie, le destin et les transitions. Elle était considérée comme la protectrice du peuple chimer, celle qui guidait leurs pas vers leur destinée.
+
+**Mephala**, la Tisseuse, patronnait le secret, les intrigues et les relations entre les maisons. Son culte enseignait que la tromperie et l'assassinat pouvaient être des actes sacrés lorsqu'ils servaient le bien du peuple.
+
+Les « Mauvais Daedra » — **Molag Bal**, **Shéogorath** et **Malacath** — étaient reconnus mais craints et repoussés.
+
+## La transformation en Dunmer
+
+La fin des Chimer en tant que peuple distinct survint à la suite des événements de la **Bataille de la Montagne Rouge**. Lorsque les trois généraux de **Nerevar** — **Vivec**, **Almalexia** et **Sotha Sil** — utilisèrent les Outils de **Kagrenac** sur le **Cœur de Lorkhan** pour atteindre la divinité, ils brisèrent un serment sacré fait à **Azura**.
+
+La Princesse Daedra, furieuse de cette trahison, maudit l'ensemble du peuple chimer. Leur peau dorée devint cendrée, grise comme la cendre de la Montagne Rouge, et leurs yeux prirent une teinte rouge sang. Ainsi naquirent les **Dunmer**, le « Peuple Sombre ».
+
+Cette malédiction — ou bénédiction, selon l'interprétation — marqua la fin de l'ère chimeri et le début de l'ère dunmer. Le **Tribunal** présenta cette transformation comme un don plutôt qu'une punition, réécrivant l'histoire pour asseoir sa légitimité divine.

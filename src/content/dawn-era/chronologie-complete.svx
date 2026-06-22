@@ -1,0 +1,169 @@
+---
+title: "Chronologie des Grands Événements de Tamriel"
+slug: "chronologie-complete"
+era: "dawn-era"
+category: "evenements"
+tags: ["chronologie", "histoire", "timeline", "evenements", "eres", "resume"]
+timelineYear: 0
+summary: "Frise chronologique complète des événements majeurs de l'histoire de Tamriel, de la création de l'Aurbis aux événements de Skyrim, avec les liens de causalité entre chaque période."
+sources: ["UESP: Timeline", "The Imperial Library: History", "All TES Games"]
+---
+
+## L'Ère de l'Aube (Temps Non-Linéaire)
+
+Avant le temps linéaire, tout se produit simultanément :
+
+- **Anu et Padomay** s'affrontent → Naissance de l'Aurbis
+- **Les et-Ada** se forment (esprits originels)
+- **Lorkhan** convainc les Aedra de créer Mundus
+- **La Convention** — les Aedra jugent Lorkhan, lui arrachent le Cœur
+- Le Cœur est jeté en Tamriel → crée la Montagne Rouge
+- **Magnus** fuit → crée le Soleil (trou vers Aetherius)
+- Les Magne-Ge le suivent → créent les étoiles
+- **Les Divins** se sacrifient pour stabiliser Mundus
+- **Les Daedra** refusent le sacrifice → créent leurs royaumes d'Oblivion
+- **Akatosh** instaure le Temps linéaire → fin de l'Ère de l'Aube
+
+**Ce qui en découle** : Deux camps sont définis — les Aedra (sacrifiés, affaiblis) et les Daedra (intacts, exclus). Les elfes vénèrent les Aedra (leurs ancêtres), les hommes remercient Lorkhan (leur créateur). Ce schisme théologique définit TOUTE l'histoire future.
+
+## L'Ère Méréthique (~2500 ans avant 1E 1)
+
+### Événements et causalité
+
+| Événement | Cause | Conséquence |
+|-----------|-------|-------------|
+| Aldmer colonisent Tamriel | Quittent Aldmeris perdue | Fondation de toutes les cultures elfiques |
+| Schisme de Veloth | Boéthia inspire le rejet | Chimer migrent → futurs Dunmer |
+| Culte du Dragon | Dragons règnent sur les hommes | Oppression → future révolte |
+| Atmorans migrent | Atmora gèle | Humanité arrive en Tamriel |
+| Nuit des Larmes (Saarthal) | Falmers attaquent colons humains | Retour d'Ysgramor → guerre d'extermination |
+| 500 Compagnons | Vengeance d'Ysgramor | Nordiques dominent Bordeciel, Falmers repoussés |
+| Guerre du Dragon | Humains se rebellent | Dragon Cult détruit, dragons bannis |
+| Alduin banni par Elder Scroll | Impossible à tuer → envoyé dans le futur | Reviendra en 4E 201 |
+
+## Première Ère (~2920 ans)
+
+### La chaîne des empires
+
+```
+Ayléides asservissent les humains (Cyrodiil)
+  → Cruauté extrême → Révolte d'Alessia (1E 243)
+  → Aide de Pelinal + Morihaus + Nordiques
+  → Premier Empire humain fondé
+  → Pacte avec Akatosh → Amulette des Rois → Dragonfires
+  → Protection de Mundus contre les Daedra
+```
+
+### La catastrophe Dwemer-Chimer
+
+```
+Dwemer découvrent le Cœur de Lorkhan
+  → Kagrenac crée les Outils → projet Numidium
+  → Nerevar l'apprend → tente diplomatie → échoue
+  → Bataille de la Montagne Rouge (1E 700)
+  → Kagrenac frappe le Cœur → DWEMER DISPARAISSENT
+  → Nerevar meurt → Tribunal vole le pouvoir divin
+  → Azura maudit les Chimer → Dunmer naissent
+  → Dagoth Ur survit sous la Montagne → bombe à retardement
+```
+
+### Fin de la Première Ère
+
+```
+Akaviri envahissent (1E 2703)
+  → Reman Cyrodiil les bat à Pale Pass
+  → Akaviri se soumettent → deviennent les Lames
+  → Reman fonde le Deuxième Empire
+  → Empire Reman dure 200 ans → assassiné par la Confrérie Noire
+```
+
+## Deuxième Ère (~896 ans)
+
+### L'Interregnum et le chaos
+
+```
+Assassinat de Reman III (2E 324)
+  → Potentats Akaviri gouvernent
+  → Assassinat de Savirien-Chorak (2E 430)
+  → AUCUN EMPEREUR → 400 ans de chaos total
+  → Guildes se forment (Mages, Guerriers, Voleurs)
+  → Confrérie Noire se sépare de la Morag Tong
+  → Mannimarco tente de devenir un dieu
+  → Planemeld de Molag Bal (2E 582) → repoussé par le Vestige
+  → Trois Alliances se battent pour le trône vide
+```
+
+### Tiber Septim unifie tout
+
+```
+Interregnum crée un désir d'ordre
+  → Hjalti/Tiber Septim émerge (2E 854)
+  → Conquiert par le Thu'um + armées + Numidium
+  → Premier empire à contrôler TOUT Tamriel
+  → Atteint l'apothéose → devient Talos (Neuvième Divin)
+  → Fonde la dynastie Septim → Troisième Ère commence
+```
+
+## Troisième Ère (~433 ans)
+
+### La Pax Septima et ses fissures
+
+| Période | Événement | Conséquence |
+|---------|-----------|-------------|
+| 3E 389-399 | Simulacrum Impérial | Jagar Tharn usurpe 10 ans → Empire fragilisé |
+| 3E 405 | Guerre de Betony | Haute-Roche instable |
+| 3E 417 | Warp in the West | Dragon Break → 6 résultats simultanés |
+| 3E 427 | Nérévarrin à Morrowind | Dagoth Ur détruit → Tribunal perd son pouvoir |
+| 3E 433 | Crise d'Oblivion | FIN DE TOUT → 4ème Ère |
+
+### La Crise d'Oblivion — le pivot
+
+```
+Mythic Dawn infiltre l'Empire (décennies)
+  → Assassine Uriel VII + héritiers (3E 433)
+  → Dragonfires éteints → Barrière de Liminal s'effondre
+  → Portes d'Oblivion s'ouvrent partout
+  → Kvatch détruite → Martin Septim découvert
+  → Martin brise l'Amulette → Avatar d'Akatosh
+  → Dagon repoussé MAIS :
+    - Amulette DÉTRUITE → plus jamais de Dragonfires
+    - Dynastie Septim ÉTEINTE → plus de légitimité divine
+    - Empire BRISÉ → début de la fin
+```
+
+## Quatrième Ère (~201+ ans)
+
+### La cascade post-Oblivion
+
+```
+Crise d'Oblivion (3E 433)
+  ├→ Année Rouge (4E 5) : Baar Dau tombe → Montagne Rouge explose
+  │    ├→ Morrowind dévastée → Diaspora Dunmer
+  │    └→ Invasion argonienne → Vengeance pour l'esclavage
+  ├→ Thalmor prend le pouvoir (4E 22) : Exploite le chaos
+  │    ├→ Absorbe Val-Boisé (4E 29)
+  │    └→ Coopte Elsweyr (4E 115)
+  ├→ Grande Guerre (4E 171-175)
+  │    └→ Concordat de l'Or Blanc (4E 175)
+  │         ├→ Interdiction de Talos
+  │         ├→ Sécession de Lenclume
+  │         └→ Radicalisation d'Ulfric (Incident de Markarth, 4E 176)
+  └→ Bordeciel en 4E 201
+       ├→ Guerre Civile (Ulfric vs Empire)
+       ├→ Retour d'Alduin (envoyé depuis l'Ère Méréthique)
+       ├→ Retour des Dragons
+       └→ Le Dovahkiin émerge
+```
+
+## Le Fil Rouge
+
+Si l'on devait résumer l'histoire de Tamriel en une seule chaîne causale :
+
+1. Lorkhan crée Mundus (piège les esprits)
+2. Les esprits piégés deviennent mortels (elfes puis humains)
+3. Les mortels se battent pour le pouvoir des dieux (Cœur, Outils, Towers)
+4. Chaque tentative de voler le pouvoir divin a des conséquences catastrophiques
+5. La Crise d'Oblivion détruit le dernier rempart (Dragonfires)
+6. Le monde est désormais vulnérable — et Alduin revient pour le manger
+
+**La question fondamentale** : Le monde de Tamriel est-il en train de mourir ? Chaque Tower qui tombe (Crystal Tower détruite par les Daedra, White-Gold affaiblie, Red Tower éteinte) rapproche Mundus de la dissolution. Le Thalmor veut accélérer ce processus. Le Dovahkiin est peut-être le dernier espoir — ou peut-être que la fin est inévitable.

@@ -1,0 +1,98 @@
+---
+title: "Les Princes Daedriques"
+slug: "princes-daedriques"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "oblivion", "princes", "mehrunes-dagon", "molag-bal", "azura", "sheogorath", "hermaeus-mora"]
+summary: "Les seize Princes Daedriques — des Et'Ada qui refusèrent de participer à la création de Mundus, régnant sur leurs propres royaumes d'Oblivion."
+timelineYear: -5000
+sources: ["UESP: Daedric Princes", "The Book of Daedra", "The Imperial Library"]
+---
+
+## Nature des Princes
+
+Les **Princes Daedriques** sont des Et'Ada qui, lors de la création de Mundus, choisirent de ne pas sacrifier leur essence. Contrairement aux Aedra (qui s'affaiblirent en créant le monde), les Princes conservèrent leur plein pouvoir et créèrent leurs propres royaumes dans **Oblivion**.
+
+Ils ne sont ni bons ni mauvais dans un sens absolu — chacun incarne une **sphère d'influence** (un concept, une force, un domaine) qu'ils personnifient de manière absolue.
+
+## Les Seize Princes
+
+### Mehrunes Dagon
+**Sphère** : Destruction, Changement, Révolution, Ambition
+**Royaume** : Les Deadlands (terres de flammes et de lave)
+**Notable** : Responsable de la Crise d'Oblivion (3E 433). A tenté d'envahir Mundus à plusieurs reprises.
+
+### Molag Bal
+**Sphère** : Domination, Viol, Asservissement
+**Royaume** : Havreglace (Coldharbour) — une parodie froide et morte de Tamriel
+**Notable** : Créateur des vampires (premier vampire : Lamae Beolfag). A tenté le Planemeld en 2E 582.
+
+### Azura
+**Sphère** : Crépuscule, Aube, Vanité, Prophétie
+**Royaume** : Moonshadow — un lieu d'une beauté irréelle
+**Notable** : Maudit les Chimer en Dunmer. Prophétisa le Nérévarine. Parmi les rares Princes "bienveillants".
+
+### Sheogorath
+**Sphère** : Folie, Créativité, Chaos
+**Royaume** : Shivering Isles — divisé en Mania (joie maniaque) et Dementia (paranoïa)
+**Notable** : Le plus imprévisible des Princes. Autrefois Jyggalag (Prince de l'Ordre) avant d'être maudit.
+
+### Hermaeus Mora
+**Sphère** : Connaissance, Mémoire, Savoir Interdit
+**Royaume** : Apocrypha — une bibliothèque infinie d'ouvrages et de tentacules
+**Notable** : Possesseur des Parchemins Noirs. A aidé le Dovahkiin à vaincre Miraak.
+
+### Nocturne
+**Sphère** : Nuit, Ombres, Chance, Mystère
+**Royaume** : Evergloam — ténèbres éternelles
+**Notable** : Patronne des Rossignols (branche secrète de la Guilde des Voleurs).
+
+### Hircine
+**Sphère** : Chasse, Sport, Garous
+**Royaume** : Le Hunting Grounds — forêts infinies de chasse
+**Notable** : Créateur de la lycanthropie. Organise la Grande Chasse.
+
+### Boethiah
+**Sphère** : Complot, Trahison, Pouvoir
+**Royaume** : Attribution's Share
+**Notable** : Dévora Trinimac et le transforma en Malacath.
+
+### Mephala
+**Sphère** : Mensonge, Sexe, Meurtre, Secrets
+**Royaume** : Le Web
+**Notable** : Créatrice de la Morag Tong (guilde d'assassins de Morrowind).
+
+### Malacath
+**Sphère** : Exclus, Ostracisés, Serments trahis
+**Royaume** : Ashpit
+**Notable** : Autrefois Trinimac (champion aedrique), transformé après avoir été dévoré par Boethiah.
+
+### Meridia
+**Sphère** : Lumière, Vie, Haine des Morts-Vivants
+**Royaume** : Le Colored Rooms
+**Notable** : Originellement un Magna-Ge, pas un Daedra. Déteste viscéralement la nécromancie.
+
+### Clavicus Vile
+**Sphère** : Pactes, Vœux, Pouvoir par la tromperie
+**Royaume** : Le Seuil
+**Notable** : Toujours accompagné de Barbas, son chien/aspect.
+
+### Vaermina
+**Sphère** : Rêves, Cauchemars, Terreur
+**Royaume** : Quagmire — cauchemars changeants
+**Notable** : Son artefact, le Crâne de Corruption, vole les rêves.
+
+### Namira
+**Sphère** : Répugnance, Cannibalisme, Décomposition
+**Royaume** : Le Scuttling Void
+**Notable** : Patronne des Cannibales et des êtres rejetés.
+
+### Peryite
+**Sphère** : Peste, Maladies, Ordre Naturel
+**Royaume** : Les Pits
+**Notable** : Considéré comme le plus faible des Princes. Maintient l'ordre de la "grande chaîne".
+
+### Sanguine
+**Sphère** : Débauche, Plaisir, Indulgence
+**Royaume** : Les Myriad Realms (10 000 royaumes de fête)
+**Notable** : Le plus "amical" des Princes — préfère les farces à la destruction.

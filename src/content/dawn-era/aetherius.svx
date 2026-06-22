@@ -1,0 +1,94 @@
+---
+title: "Aetherius — Le Royaume de la Magie"
+slug: "aetherius"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["aetherius", "magie", "magnus", "magna-ge", "soleil", "etoiles", "sovngarde", "plan-immortel"]
+timelineYear: -99984
+summary: "Aetherius, le plan immortel d'où provient toute la magie de Nirn, le royaume que Magnus créa en fuyant la création du monde mortel."
+sources: ["UESP: Aetherius", "The Imperial Library: Cosmology", "The Monomyth", "Magic from the Sky"]
+---
+
+## Introduction
+
+**Aetherius** est le plan immortel situé au-delà d'**Oblivion** dans la structure cosmologique de l'**Aurbis**. C'est la source de toute **magie** sur **Nirn**, le domaine de la lumière pure et de l'énergie créatrice infinie. Contrairement aux royaumes sombres et capricieux d'Oblivion, Aetherius est décrit comme un lieu de splendeur inimaginable — un océan de lumière magique sans limite.
+
+C'est depuis Aetherius que **Magnus** et les **Magna-Ge** observent la création qu'ils ont abandonnée, et c'est vers Aetherius que les âmes des mortels vertueux voyagent après la mort.
+
+## La Nature d'Aetherius
+
+### Un Plan de Magie Pure
+
+Aetherius n'est pas un lieu physique au sens où les mortels l'entendent. C'est un plan d'existence constitué de **magicka** brute — l'énergie fondamentale qui sous-tend toute la réalité. Les descriptions mortelles parlent d'une lumière aveuglante, d'un espace infini rempli de couleurs impossibles et de structures géométriques qui défient la compréhension.
+
+Contrairement à Mundus, où le temps et l'espace contraignent l'existence, Aetherius est un lieu où ces concepts n'ont qu'une pertinence relative. Les esprits qui y résident existent dans un état d'éternité — ni vivants ni morts au sens mortel, mais simplement **étant**.
+
+### La Relation avec les Et'Ada
+
+Les **et'Ada** (esprits originels) qui ne participèrent pas à la création de Mundus et qui ne choisirent pas de demeurer dans Oblivion résident en Aetherius. Ces êtres comprennent **Magnus**, les **Magna-Ge**, et d'innombrables esprits mineurs dont les noms sont oubliés des mortels. Ils conservent leur pleine puissance divine, contrairement aux **Aedra** affaiblis par leur investissement dans Mundus.
+
+## Les Étoiles et le Soleil
+
+### La Fuite de Magnus
+
+Lors de la création de **Nirn**, **Magnus** servit d'architecte — c'est lui qui dessina les plans du monde mortel. Mais quand il comprit que la construction exigeait le sacrifice de l'essence divine de ses participants, il refusa de continuer. Magnus s'enfuit vers Aetherius, déchirant le tissu de la réalité en traversant les couches d'Oblivion.
+
+Le trou qu'il laissa derrière lui est le **Soleil** — non pas une boule de feu comme les astronomes de notre monde le décriraient, mais une **perforation dans le tissu d'Oblivion** à travers laquelle la lumière d'Aetherius inonde Mundus. C'est pourquoi la lumière du soleil dans l'univers Elder Scrolls est intrinsèquement magique.
+
+### Les Magna-Ge et les Étoiles
+
+Les **Magna-Ge** (les "enfants de Magnus") suivirent leur maître dans sa fuite. Chacun d'entre eux perça son propre trou dans le ciel en traversant Oblivion. Ces perforations plus petites sont les **étoiles** — des milliers de points lumineux par lesquels la magie d'Aetherius filtre vers Nirn.
+
+Cette cosmologie explique pourquoi :
+- La magie est plus puissante la nuit (plus d'étoiles visibles)
+- Certaines étoiles ont des propriétés magiques spécifiques
+- Les **Pierres de Signe** confèrent des capacités en fonction de la constellation sous laquelle un individu est né
+
+### Les Constellations
+
+Les étoiles forment des constellations reconnaissables qui ont une influence directe sur le monde :
+- **Le Guerrier**, **Le Mage**, **Le Voleur** — les trois constellations gardiennes
+- Chaque gardien protège trois constellations mineures (Le Seigneur, La Dame, Le Coursier, etc.)
+- **Le Serpent** — la treizième constellation, sans gardien, errante et sinistre
+
+## Les Royaumes d'Aetherius
+
+### Sovngarde
+
+Le plus célèbre des royaumes d'Aetherius est **Sovngarde** — le paradis des guerriers nordiques. Gouverné par **Shor** (l'aspect nordique de Lorkhan), Sovngarde est un lieu de festins éternels et de combats glorieux dans la **Salle de la Valeur**. Seuls les Nordiques morts au combat ou ayant vécu avec honneur y accèdent.
+
+Le **Dragonborn** visite physiquement Sovngarde lors de sa confrontation finale avec **Alduin**, qui dévorait les âmes des morts pour gagner en puissance.
+
+### Le Far Shore
+
+Les **Rougegardes** croient en un au-delà appelé le **Far Shore** (la Rive Lointaine), accessible aux guerriers dignes qui traversent les eaux de la mort. Ce royaume d'Aetherius reflète les croyances yokudanes de récompense martiale.
+
+### Autres Royaumes
+
+Il existe probablement autant de royaumes dans Aetherius qu'il y a de cultures et de croyances sur Nirn. Chaque panthéon mortel possède sa propre vision de l'au-delà, et Aetherius semble s'adapter pour accueillir ces croyances — ou peut-être est-ce la croyance qui crée ces espaces.
+
+## Aetherius et la Magie
+
+### La Source de la Magicka
+
+Toute la **magicka** utilisée par les mages de Nirn provient d'Aetherius. Elle traverse le Soleil et les étoiles sous forme de lumière et imprègne le monde. Les êtres vivants absorbent naturellement cette magicka, et les mages apprennent à la canaliser pour produire des effets surnaturels.
+
+Les **Gemmes de Varla** et les **Pierres de Welkynd**, artefacts ayleidiques, sont des cristaux capables de stocker cette énergie d'Aetherius sous forme concentrée — des batteries magiques d'une technologie aujourd'hui perdue.
+
+### L'Ordre Psijique et la Vieille Voie
+
+L'**Ordre Psijique** étudie des méthodes alternatives pour accéder à l'énergie d'Aetherius. Plutôt que de canaliser la magicka brute comme les mages conventionnels, les Psijiques pratiquent la **Vieille Voie** — une forme de mysticisme qui manipule directement le tissu de la réalité par la méditation et la volonté.
+
+## Accéder à Aetherius
+
+### L'Impossibilité du Voyage Physique
+
+Atteindre physiquement Aetherius est considéré comme quasi impossible pour les mortels vivants. Le plan est situé "au-delà" d'Oblivion, et traverser Oblivion sans être consumé par les forces daedriques est un exploit que seuls Magnus et les Magna-Ge ont accompli — et leur passage détruisit le tissu de la réalité.
+
+### Les Tentatives Mortelles
+
+Malgré cette impossibilité apparente, certains ont tenté le voyage. Les **Ayleides** construisirent des machines visant à percer le ciel. L'**Observatoire Orrery** de la Cité Impériale fut conçu en partie pour étudier les connexions avec Aetherius. Et les récits de mystiques ayant projeté leur conscience vers Aetherius, même brièvement, parsèment l'histoire de Tamriel.
+
+## La Signification Cosmologique
+
+Aetherius représente, dans la métaphysique de l'Aurbis, le potentiel pur — l'énergie créatrice non contrainte par les limitations de Mundus. Si Mundus est le royaume de l'expérience et de la mortalité, Aetherius est celui de la possibilité infinie. C'est cette tension entre limitation et infinité qui donne à l'univers Elder Scrolls sa richesse philosophique unique.

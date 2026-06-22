@@ -1,0 +1,97 @@
+---
+title: "L'Akavir — Le Continent de l'Est"
+slug: "akavir"
+era: "second-era"
+category: "lieux"
+tags: ["akavir", "tsaesci", "kamal", "tang mo", "ka po'tun", "invasion", "lames"]
+timelineYear: 572
+summary: "L'Akavir est le continent mystérieux à l'est de Tamriel — terre des hommes-serpents Tsaesci, des démons de givre Kamal, et source des traditions martiales des Lames."
+sources: ["UESP: Akavir", "Mysterious Akavir", "The Imperial Library: Report on the Disaster at Ionith"]
+---
+
+## Le Continent Inconnu
+
+**Akavir** ("Terre du Dragon" en aldmeris) est le continent situé à l'est de Tamriel, séparé par un vaste océan. C'est un lieu de mystère — aucun Tamriélien n'y a mis le pied et n'en est revenu depuis des siècles. Tout ce que nous en savons vient de textes anciens et des invasions Akaviri.
+
+## Les Peuples d'Akavir
+
+### Les Tsaesci ("Mangeurs de Serpents")
+- Race la plus connue — **hommes-serpents** (degré exact de forme serpentine débattu)
+- Guerriers exceptionnels, créateurs du katana
+- "Mangèrent" (conquirent?) les humains d'Akavir
+- Plusieurs invasions de Tamriel
+- Leur culture martiale influença profondément l'Empire (les **Lames** descendent de guerriers Tsaesci)
+
+### Les Kamal ("Démons de Neige")
+- Créatures démoniaques des terres glaciales du nord d'Akavir
+- Gèlent en hiver, dégèlent en été pour envahir les voisins
+- Envahirent Tamriel en 2E 572 (repoussés par le Pacte de Cœurébène)
+- Brutaux, pas de diplomatie connue
+
+### Les Tang Mo ("Mille Singes")
+- Peuple simien des îles-jungles d'Akavir
+- Décrits comme aimables et courageux
+- Constamment envahis par les Kamal
+- Alliés des Ka Po'Tun contre les Tsaesci
+
+### Les Ka Po'Tun ("Royaume Tigre")
+- Peuple félin qui cherche à devenir dragon
+- Dirigés par **Tosh Raka** — qui aurait **réussi** à se transformer en dragon
+- Ennemis jurés des Tsaesci
+- Pourraient envahir Tamriel un jour (prophétie non confirmée)
+
+## Les Invasions Akaviri
+
+### Première Invasion Akaviri (1E 2703)
+- Les **Tsaesci** envahirent Tamriel en masse
+- Cherchaient le **Dragonborn** (ils vénéraient/chassaient les dragons)
+- Défaits par **Reman Cyrodiil** au col de Pale Pass
+- Les survivants **se soumirent** à Reman, reconnaissant en lui le Dragonborn
+- Devinrent ses gardes personnels — origine des **Lames** (Blades)
+
+### Invasion Kamal (2E 572)
+- Ada'Soom Dir-Kamal mena les démons de neige contre Tamriel
+- Attaqua d'abord Bordeciel (sac de Vendeaume)
+- Puis marcha sur Morrowind
+- Défait à **Stonefalls** par l'alliance de trois races :
+  - Nordiques de Bordeciel
+  - Dunmer de Morrowind
+  - Argoniens du Marais Noir
+- Cette victoire commune **fonda le Pacte de Cœurébène** (Ebonheart Pact)
+
+### Expédition d'Uriel V (3E 288-290)
+- L'Empereur **Uriel Septim V** tenta d'envahir l'Akavir
+- Invasion massive par voie maritime
+- Victoire initiale, capture de la ville de **Septimia**
+- Puis **désastre total** à Ionith — l'armée impériale anéantie
+- Uriel V tué, aucun survivant confirmé
+- Tamriel n'a plus jamais tenté d'envahir l'Akavir
+
+## Influence sur Tamriel
+
+### Les Lames (Blades)
+L'héritage le plus durable des Tsaesci :
+- Gardes personnels de l'Empereur
+- Katanas et armure akaviri
+- Chasseurs de dragons
+- Organisation secrète après la Grande Guerre (4E)
+
+### Architecture
+L'architecture akaviri est visible :
+- **Sky Haven Temple** (Bordeciel) — temple des Lames
+- **Cloud Ruler Temple** (Cyrodiil) — forteresse des Lames
+- Le style "pagode" de certains bâtiments impériaux
+
+### Combat
+Les traditions martiales akaviri influencèrent :
+- Le style d'épée à une main avec lame courbe
+- Les techniques de combat des Lames
+- L'armure lamellaire de la Garde Impériale
+
+## Mystères Non-Résolus
+
+- Les Tsaesci sont-ils vraiment des serpents ou simplement un peuple à la culture serpentine ?
+- Que signifie "manger" les humains — conquête littérale ou assimilation culturelle ?
+- Tosh Raka est-il véritablement un dragon ?
+- Qu'est-il advenu des derniers dragons d'Akavir ?
+- Pourquoi les Tsaesci cherchaient-ils spécifiquement un Dragonborn ?

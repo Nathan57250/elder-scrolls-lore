@@ -1,0 +1,91 @@
+---
+title: "La Guilde des Voleurs"
+slug: "guilde-des-voleurs"
+era: "third-era"
+category: "guildes"
+tags: ["guilde des voleurs", "nocturnal", "rossignols", "gray fox", "crime", "furtivité"]
+timelineYear: 390
+summary: "La Guilde des Voleurs opère dans l'ombre à travers Tamriel — une organisation criminelle régie par un code d'honneur strict, protégée par Nocturnal."
+sources: ["UESP: Thieves Guild", "The Imperial Library: Thieves Guild", "Purloined Shadows"]
+---
+
+## Origines et Philosophie
+
+La Guilde des Voleurs n'est pas une simple bande de criminels — c'est une **institution** avec des règles, une hiérarchie, et une philosophie propre. Leur crédo fondamental :
+
+> "Ne vole jamais à ceux qui ne peuvent se le permettre. Ne tue jamais sur le travail. Ne vole jamais un autre voleur."
+
+La Guilde opère sur un principe d'**ombre** : la meilleure opération est celle dont personne ne connaît l'existence. Contrairement à la Confrérie Noire qui cherche la terreur, la Guilde cultive l'invisibilité.
+
+## Structure
+
+### Hiérarchie
+| Rang | Rôle |
+|------|------|
+| Maître de Guilde | Leadership suprême |
+| Rossignol | Élite secrète (liaison avec Nocturnal) |
+| Maître Voleur | Opérations majeures |
+| Receleur | Réseau de vente |
+| Voleur | Membre confirmé |
+| Recrue | Novice en évaluation |
+
+### Le Code
+- Ne jamais tuer lors d'un contrat (sauf légitime défense absolue)
+- Ne jamais voler un membre de la Guilde
+- Ne jamais trahir la Guilde aux autorités
+- Respecter les contrats acceptés
+- Partager un pourcentage avec la Guilde
+
+## Nocturnal et les Rossignols
+
+### La Dame de la Chance
+**Nocturnal**, Princesse Daedrique de la Nuit et du Mystère, est la patronne secrète de la Guilde. Son influence se manifeste par :
+- La **Chance** — les bons voleurs bénéficient de sa faveur invisible
+- L'**Ombre** — capacité accrue à se dissimuler
+- Les **Clés du Squelette** — artefacts ouvrant n'importe quelle serrure
+
+### Les Rossignols (Nightingales)
+Un triumvirat secret au sein même de la Guilde :
+- Trois agents liés à Nocturnal par un pacte
+- Gardiens du **Crépuscule Perpétuel** (Twilight Sepulcher)
+- Pouvoirs accordés : invisibilité parfaite, manipulation de l'ombre, chance surnaturelle
+- En échange, leurs âmes rejoignent Nocturnal après la mort pour garder l'Evergloam éternellement
+
+## En Cyrodiil (3E)
+
+La Guilde de Cyrodiil était dirigée par le mystérieux **Gray Fox** — un titre passant d'un maître à l'autre grâce au **Masque de Capuche Grise**, un artefact maudit par Nocturnal qui effaçait l'identité du porteur de l'histoire.
+
+Le dernier Gray Fox (le Comte Corvus Umbranox) parvint à briser la malédiction, restaurant son identité tout en libérant le titre.
+
+## En Bordeciel (4E 201)
+
+La branche de Faillaise (Riften), opérant depuis le **Ratway** (les égouts) et la **Taverne de la Jument Perchée** :
+- Dirigée par **Mercer Frey** — qui trahit les Rossignols et la Guilde
+- Restaurée par le Dernier Enfant de Dragon avec **Brynjolf** et **Karliah**
+- Maven Black-Briar comme alliée politique majeure (Jarl de facto de Faillaise)
+- Spécialités : extorsion, cambriolage, falsification, contrebande
+
+### La Trahison de Mercer Frey
+Mercer Frey, ancien Maître de Guilde, avait :
+- Volé la **Clé du Squelette** de Nocturnal
+- Pillé le trésor de la Guilde pendant des années
+- Assassiné l'ancien Maître Gallus Desidenius
+- Fait accuser Karliah du meurtre
+
+Sa chute restaura la connexion entre la Guilde et Nocturnal.
+
+## Opérations Types
+
+- **Cambriolage** — vol d'objets spécifiques commandité par des clients
+- **Pickpocket** — vol à la tire dans les marchés
+- **Falsification** — documents, lettres, preuves
+- **Extorsion** — pression sur les marchands récalcitrants
+- **Contrebande** — marchandises interdites (skooma, Dwemer tech)
+- **Recel** — réseau de vente d'objets volés
+
+## Rivalités
+
+- **Confrérie Noire** : pas de rivalité directe (domaines différents), mais méfiance mutuelle
+- **Gardes de la Cité** : adversaires naturels
+- **Vigiles de Stendarr** : hostilité envers tout ce qui est "impie"
+- **Guildes marchandes** : victimes principales et parfois complices

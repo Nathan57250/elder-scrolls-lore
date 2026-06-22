@@ -1,0 +1,66 @@
+---
+title: "La Fusion des Plans"
+slug: "planemeld"
+era: "second-era"
+category: "evenements"
+tags: ["molag-bal", "coldharbour", "ancres-noires", "vestige", "soulburst", "oblivion"]
+timelineYear: 582
+summary: "La Fusion des Plans fut la tentative de Molag Bal de fusionner son royaume d'Oblivion, Havreglace, avec le plan mortel de Nirn en 2E 582."
+sources: ["TheErta Scrolls Online", "Erta of Coldharbour", "Aura of the Righteous"]
+---
+
+# La Fusion des Plans (Planemeld)
+
+## Origines : l'Embrasement des Ames
+
+En 2E 578, l'empereur Varen Aquilarios commit l'erreur fatale qui declencha la catastrophe. Manipule par **Mannimarco**, le Roi des Vers, Varen tenta d'allumer les Feux du Dragon sans etre un veritable Sangdragon. Le rituel, utilisant l'**Amulette des Rois**, echoua de maniere spectaculaire.
+
+Cet echec, connu sous le nom d'**Embrasement des Ames** (*Soulburst*), dechira les barrieres entre Nirn et Oblivion. Les protections mises en place par Akatosh lors du Pacte avec Alessia furent compromises, ouvrant une breche que **Molag Bal** — le Prince Daedrique de la Domination et de l'Esclavage — exploita immediatement.
+
+## Le Mecanisme de la Fusion
+
+La Fusion des Plans n'etait pas une simple invasion. Il s'agissait d'une tentative de **superposer** physiquement Havreglace (*Coldharbour*) sur Nirn, fusionnant les deux plans en un seul. Pour y parvenir, Molag Bal deploaya un reseau de dispositifs appeles **Ancres Noires** (*Dark Anchors*).
+
+Ces Ancres etaient d'enormes structures mecaniques tombant du ciel, s'ancrant dans le sol de Tamriel et tirant litteralement la surface de Nirn vers Havreglace. Chaque Ancre :
+- Invoquait des hordes de daedra pour proteger le point d'ancrage
+- Corrompait le terrain environnant, le transformant en paysage d'Havreglace
+- Affaiblissait progressivement la barriere entre les plans
+
+A travers tout Tamriel, les Ancres Noires tombaient par dizaines, sement la terreur et la destruction dans chaque region.
+
+## Havreglace : le Royaume de Molag Bal
+
+Le plan vers lequel Nirn etait tire est un lieu de desolation absolue. Havreglace est un monde de ruines eternelles, de cieux perpetuellement nuageux et de froid mordant. Les ames capturees par Molag Bal y sont reduites en esclavage pour l'eternite, leurs corps transformes en **ames degradees** (*Soul Shriven*) — des etres immortels dans leur souffrance, morts a l'infini et ressuscites pour souffrir encore.
+
+C'est dans cet enfer que le **Vestige** se reveilla, depouille de son ame, pour entamer son periple contre les forces du Prince Daedrique.
+
+## Le Vestige : un Heros sans Ame
+
+Le protagoniste de cette ere — le Vestige — est un etre unique : un mortel dont l'ame fut arrachee par Molag Bal lors d'un sacrifice rituel orchestre par Mannimarco. Paradoxalement, cette perte devint sa plus grande force. Sans ame a perdre, le Vestige pouvait :
+
+- Ressusciter indefiniment apres la mort
+- Resister a la domination de Molag Bal
+- Absorber des fragments de pouvoir divin
+
+Guide par **le Prophete** (en realite Varen Aquilarios aveugle et brise par la culpabilite) et aide par **Lyris Titanborn**, **Sai Sahan** et **Abnur Tharn**, le Vestige entreprit de rassembler l'Amulette des Rois et de mettre fin a la Fusion.
+
+## La Bataille Finale a Havreglace
+
+La conclusion de la Fusion des Plans prit la forme d'un assaut direct sur le coeur meme d'Havreglace. Le Vestige, porte par le sacrifice de l'un de ses compagnons pour reactiver l'Amulette des Rois, affronta Molag Bal dans son propre royaume.
+
+Grace au pouvoir d'Akatosh canalise par l'Amulette, le Vestige obtint temporairement une puissance divine suffisante pour combattre le Prince Daedrique. Molag Bal fut vaincu — non pas detruit, car un Prince Daedrique ne peut mourir — mais repousse, force d'abandonner sa Fusion.
+
+## Consequences pour Tamriel
+
+La Fusion des Plans, bien que finalement avortee, laissa des cicatrices profondes :
+
+- Des milliers de victimes a travers tout le continent
+- Des regions entieres marquees par la corruption daedrrique
+- La confiance dans les institutions imperiales definitivement ebranlee
+- Un rappel brutal que les barrieres entre les plans sont fragiles
+
+L'evenement contribua egalement a la perpetuation du chaos de l'**Interregne**, cette longue periode sans empereur legitime qui ne prit fin qu'avec l'ascension de Tiber Septim plusieurs siecles plus tard.
+
+## Heritage dans la Memoire Collective
+
+Curieusement, la Fusion des Plans est relativement peu mentionnee dans les chroniques des eres ulterieures. Certains erudits attribuent cet oubli partiel a la nature meme de l'evenement : un traumatisme si vaste que la memoire collective preferaa l'enfouir plutot que l'affronter.

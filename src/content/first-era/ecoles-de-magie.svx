@@ -1,0 +1,100 @@
+---
+title: "Les Écoles de Magie"
+slug: "ecoles-de-magie"
+era: "first-era"
+category: "magie"
+tags: ["magie", "destruction", "restauration", "conjuration", "altération", "illusion", "enchantement", "mystique"]
+timelineYear: 230
+summary: "Les six écoles de magie de Tamriel, leur fonctionnement, leurs principes fondamentaux et leur évolution à travers les ères."
+sources: ["UESP: Magic", "The Imperial Library: Magic", "Erta Roscius, On the Schools of Magic"]
+---
+
+## La Magie sur Nirn
+
+Toute la magie de Tamriel provient d'**Aetherius** — le plan immortel qui se déverse dans Mundus à travers les étoiles et le soleil (Magnus). Quand Magnus, l'architecte de Mundus, s'enfuit de la création, il déchira le tissu de la réalité, créant le soleil. Les Magna-Ge qui le suivirent percèrent les étoiles.
+
+Chaque mage puise dans ce flux de **magicka** pour alimenter ses sorts. La quantité de magicka disponible varie selon la race, l'entraînement, et les conditions mondaines.
+
+## Les Six Écoles
+
+### Destruction
+
+L'art d'infliger des dommages par les éléments. Les sorts de Destruction manipulent :
+- **Le feu** — dégâts directs et brûlures continues
+- **Le givre** — drains de stamina et ralentissement
+- **La foudre** — drains de magicka et frappe instantanée
+
+La Destruction est l'école la plus étudiée par les mages de guerre et la plus crainte par les profanes.
+
+### Restauration
+
+L'école de la guérison et de la protection. Elle englobe :
+- Guérison des blessures et maladies
+- Sorts de protection (wards) contre la magie hostile
+- Magie anti-mort-vivante (Turn Undead)
+- Restauration de stamina et de conditions physiques
+
+Ironiquement, la frontière entre Restauration et Nécromancie est plus floue qu'il n'y paraît — les deux manipulent les forces vitales.
+
+### Conjuration
+
+L'art d'invoquer des créatures et des armes depuis Oblivion, ou de lier des âmes :
+- **Invocation** — appel de Daedra ou d'esprits
+- **Réanimation** — ramener des cadavres comme serviteurs (nécromancie)
+- **Piège à âmes** — capture d'âmes dans des gemmes pour l'enchantement
+- **Armes liées** — matérialisation d'armes daedriques temporaires
+
+La Conjuration est controversée car elle implique des pactes avec des entités d'Oblivion.
+
+### Altération
+
+La manipulation directe de la réalité physique :
+- **Armure magique** (Oakflesh, Stoneflesh, etc.)
+- **Paralysie** et transmutation
+- **Respiration aquatique** et lévitation (avant son interdiction en 3E 421)
+- **Détection** de vie, de morts et de clés
+- **Télékinésie** — manipulation d'objets à distance
+
+L'Altération est considérée comme l'école la plus "pure" car elle ne manipule ni esprits ni éléments destructeurs.
+
+### Illusion
+
+L'art de manipuler l'esprit et la perception :
+- **Invisibilité** et camouflage
+- **Calme** — apaiser les hostilités
+- **Frénésie** — provoquer la rage
+- **Courage/Peur** — manipulation émotionnelle
+- **Muffle** — silence des mouvements
+
+Les maîtres illusionnistes sont redoutés car leurs victimes ne savent jamais qu'elles sont manipulées.
+
+### Enchantement
+
+L'art d'infuser des objets avec des effets magiques permanents :
+- Requiert des **gemmes d'âmes** remplies
+- Plus l'âme est puissante, plus l'enchantement est fort
+- Les enchantements se dégradent avec l'usage (rechargement nécessaire)
+- L'Enchantement était autrefois une école académique à part entière
+
+## Magicka et Ses Sources
+
+| Source | Description |
+|--------|-------------|
+| Aetherius | Flux primordial via soleil et étoiles |
+| Pierres Dressées | Pierres de Mundus amplifiant certains aspects |
+| Cœur de Lorkhan | Source de pouvoir divin (utilisé par le Tribunal) |
+| Sigillum Sanguis | Tours daedriques canalisant l'énergie d'Oblivion |
+| Hist | Arbres mystiques alimentant les Argoniens |
+
+## Traditions Magiques Alternatives
+
+Au-delà des écoles académiques, d'autres traditions existent :
+- **Tonal Architecture** (Dwemer) — manipulation de la musique de la réalité
+- **Thu'um** (Nordiques) — magie vocale liée au langage draconique
+- **Shadow Magic** (Mystique) — manipulation de l'ombre, presque perdue
+- **Sword-Singing** (Rougegardes) — art martial transcendant
+- **Anciennes Voies** (Psijiques) — magie pré-académique, intuitive
+
+## La Lévitation : Un Sort Perdu
+
+En 3E 421, l'Empire interdit la lévitation par le **Levitation Act**, officiellement pour des raisons de sécurité. Ce sort, autrefois courant, devint inaccessible pour les mages ordinaires. Les Telvanni de Morrowind contournèrent cette loi dans leurs tours, mais la connaissance se perdit largement au cours de la Quatrième Ère.

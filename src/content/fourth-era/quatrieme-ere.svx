@@ -1,0 +1,110 @@
+---
+title: "La Quatrième Ère"
+slug: "quatrieme-ere"
+era: "fourth-era"
+category: "empires"
+tags: ["empire-mede", "thalmor", "grande-guerre", "concordat-or-blanc", "guerre-civile", "alduin", "dovahkiin"]
+date: "4E 1 — 4E 201"
+summary: "La chute de la dynastie Septim, l'ascension du Thalmor, la Grande Guerre, et le retour d'Alduin le Dévoreur de Mondes."
+timelineYear: 1
+sources: ["UESP: Fourth Era", "The Great War (book)", "Events of Skyrim"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Vue d'ensemble — L'Ère de l'Effondrement
+
+La Quatrième Ère est celle où **tout ce qui protégeait Tamriel s'effondre** :
+- Les Dragonfires — **éteints** (Amulette détruite)
+- La dynastie Septim — **éteinte**
+- Le Tribunal — **mort** (pouvoir perdu en 3E 427)
+- L'Empire — **amputé** et humilié
+- Les Towers — **tombent une à une**
+
+Chaque événement de cette ère est une conséquence directe de la Crise d'Oblivion (3E 433). L'ancien monde est mort — le nouveau n'a pas encore trouvé son équilibre.
+
+## L'Après-Crise (4E 1 — 4E 171)
+
+La mort de Martin Septim laissa l'Empire sans héritier légitime. Après deux siècles de transitions chaotiques, la dynastie **Mede** prit le pouvoir — mais l'Empire n'était plus que l'ombre de sa grandeur passée.
+
+Événements majeurs de cette période :
+- **4E 5** : L'éruption du **Mont Écarlate** dévasta Vvardenfell et une grande partie de Morrowind
+- **4E 6** : L'invasion argonienne de Morrowind, profitant de la dévastation
+- **4E 22** : Le **Thalmor** (suprémacistes Altmer) prend le pouvoir dans l'Archipel de l'Estival par un coup d'état
+- **4E 29** : Le Thalmor reforme le **Second Domaine Aldmeri** avec Val-Boisé et Elsweyr
+- **4E 115** : L'Empire perd la province de Lenclume (indépendance des Rougegardes)
+
+## La Grande Guerre (4E 171 — 4E 175)
+
+Le Thalmor lança un ultimatum à l'Empire Mede : interdire le culte de **Talos**, céder de larges territoires, et dissoudre les Lames. L'empereur **Titus Mede II** refusa.
+
+La guerre qui s'ensuivit fut dévastatrice :
+- Le Domaine envahit Cyrodiil depuis le sud (Elsweyr et Val-Boisé)
+- La **Cité Impériale** fut prise et mise à sac
+- L'Empire contre-attaqua lors de la **Bataille de l'Anneau Rouge**, reprenant la capitale dans un bain de sang
+
+Bien que militairement dans une impasse, l'Empire était épuisé. Titus Mede II signa le **Concordat de l'Or Blanc** (4E 175) — un traité humiliant qui :
+- Interdit le culte de Talos dans tout l'Empire
+- Dissout les Lames
+- Cède une partie de Lenclume au Domaine
+- Autorise les Justiciars du Thalmor à opérer sur le sol impérial
+
+## La Guerre Civile de Bordeciel (4E 201)
+
+En **4E 201**, **Ulfric Sombrage**, Jarl de Vendhelm, assassina le Haut-Roi de Bordeciel Torygg en duel (utilisant le Thu'um) et déclencha une guerre civile :
+- Les **Sombrages** voulaient l'indépendance de Bordeciel et la liberté de culte de Talos
+- Les **Impériaux** maintenaient que seule l'unité de l'Empire pouvait résister au Thalmor
+
+## Le Retour d'Alduin
+
+Simultanément à la guerre civile, **Alduin** — le Premier-Né d'Akatosh, le Dévoreur de Mondes — réapparut après avoir été projeté dans le futur par un Cri des anciens héros nordiques à la fin de l'Ère Méréthique.
+
+Alduin commença à **ressusciter les dragons** à travers Bordeciel, annonçant la fin des temps selon les prophéties nordiques.
+
+Le **Dovahkiin** (Enfant de Dragon), un mortel doté de l'âme d'un dragon, s'éveilla lors de l'attaque d'Alduin sur Helgen. Guidé par les **Greybeards** de Haut Hrothgar et les fragments d'un Parchemin des Anciens, le Dovahkiin :
+
+1. Maîtrisa le **Thu'um** (la Voix)
+2. Apprit le Cri de Chute de Dragon (Dragonrend) des héros antiques via un Parchemin des Anciens
+3. Se rendit à **Sovngarde** — le paradis nordique — où Alduin dévorait les âmes des morts
+4. Vainquit Alduin avec l'aide des héros anciens (Hakon, Gormlaith, Felldir)
+
+La prophétie du Dovahkiin fut accomplie, mais Alduin fut-il véritablement détruit ? Les Greybeards eux-mêmes en doutent...
+
+## La Quatrième Ère — Carte Causale Complète
+
+<CausalChain items={[
+  { text: "CRISE D'OBLIVION (3E 433) — Point zéro", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Fin des Septim + Amulette détruite", indent: 1 },
+  { text: "Empire sans légitimité sacrée → Dynastie Mede (faible)", indent: 2 },
+  { text: "Tribunal déjà tombé (3E 427) + Ingenium instable", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "ANNÉE ROUGE (4E 5)", link: "/chronologie/fourth-era/annee-rouge", indent: 2 },
+  { text: "Morrowind détruite → Invasion argonienne", indent: 3 },
+  { text: "Diaspora Dunmer → Tensions à Vendeaume", link: "/chronologie/fourth-era/vendeaume", indent: 3 },
+  { text: "Chaos post-Crise → Vide de pouvoir global", indent: 1 },
+  { text: "THALMOR prend le pouvoir (4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 2 },
+  { text: "Absorbe Val-Boisé (4E 29)", indent: 3 },
+  { text: "Coopte Elsweyr via Nuits du Vide (4E 115)", link: "/chronologie/fourth-era/nuits-du-vide", indent: 3 },
+  { text: "Empire trop faible pour résister", indent: 1 },
+  { text: "GRANDE GUERRE (4E 171-175)", link: "/chronologie/fourth-era/grande-guerre", indent: 2 },
+  { text: "Sac de la Cité Impériale (4E 174)", indent: 3 },
+  { text: "CONCORDAT DE L'OR BLANC (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc", indent: 3 },
+  { text: "Interdiction de Talos", indent: 4 },
+  { text: "Incident de Markarth (4E 176) → Ulfric radicalisé", link: "/chronologie/fourth-era/incident-markarth", indent: 4 },
+  { text: "Barrières métaphysiques affaiblies", indent: 1 },
+  { text: "RETOUR D'ALDUIN (4E 201)", link: "/chronologie/fourth-era/alduin", indent: 2 },
+  { text: "Résurrection des Dragons", indent: 3 },
+  { text: "Le Dovahkiin s'éveille", link: "/chronologie/fourth-era/enfant-de-dragon", indent: 3 },
+  { text: "Miraak tente son retour (Solstheim)", link: "/chronologie/fourth-era/miraak", indent: 3 },
+  { text: "CONVERGENCE 4E 201 : Guerre Civile + Alduin + Vampires + Miraak", link: "/chronologie/fourth-era/guerre-civile-bordeciel" }
+]} />
+
+## Questions Non Résolues
+
+La Quatrième Ère est **inachevée** — TES VI n'est pas encore sorti. Les questions ouvertes :
+- Qui gagne la Guerre Civile ? (Pas de canon officiel)
+- Le Thalmor lance-t-il une seconde Grande Guerre ?
+- Que fait le Dovahkiin après Alduin ?
+- Les Towers continuent-elles de tomber ?
+- Mundus est-il condamné ?
