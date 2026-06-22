@@ -35,7 +35,14 @@ export default defineConfig({
 				precompress: true
 			}),
 			prerender: {
-				entries: ['*']
+				entries: ['*'],
+				handleHttpError: ({ path, message }) => {
+					if (path.startsWith('/images/')) {
+						console.warn(`Missing image: ${path}`);
+						return;
+					}
+					throw new Error(message);
+				}
 			}
 		})
 	]

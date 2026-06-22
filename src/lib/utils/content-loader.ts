@@ -20,11 +20,18 @@ function parseEntries(): LoadedEntry[] {
 			}
 			return true;
 		})
-		.map(([path, module]) => ({
-			metadata: module.metadata,
-			component: module.default,
-			path
-		}));
+		.map(([path, module]) => {
+			const filename = path.split('/').pop()?.replace('.svx', '') ?? '';
+			const metadata = {
+				...module.metadata,
+				slug: module.metadata.slug || filename
+			};
+			return {
+				metadata,
+				component: module.default,
+				path
+			};
+		});
 }
 
 const entries = parseEntries();

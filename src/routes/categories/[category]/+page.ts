@@ -6,6 +6,10 @@ import type { CategorySlug } from '$lib/types/lore';
 
 export const prerender = true;
 
+export function entries() {
+	return categories.map((c) => ({ category: c.slug }));
+}
+
 export const load: PageLoad = ({ params }) => {
 	const category = categories.find((c) => c.slug === params.category);
 	if (!category) {

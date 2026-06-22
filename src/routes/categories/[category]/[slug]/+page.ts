@@ -1,8 +1,12 @@
 import type { PageLoad } from './$types';
-import { getEntryBySlug } from '$lib/utils/content-loader';
+import { getEntryBySlug, getAllEntries } from '$lib/utils/content-loader';
 import { error } from '@sveltejs/kit';
 
 export const prerender = true;
+
+export function entries() {
+	return getAllEntries().map((e) => ({ category: e.category, slug: e.slug }));
+}
 
 export const load: PageLoad = ({ params }) => {
 	const result = getEntryBySlug(params.slug);

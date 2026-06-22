@@ -1,9 +1,13 @@
 import type { PageLoad } from './$types';
-import { getEntryByEraAndSlug } from '$lib/utils/content-loader';
+import { getEntryByEraAndSlug, getAllEntries } from '$lib/utils/content-loader';
 import { error } from '@sveltejs/kit';
 import type { EraSlug } from '$lib/types/lore';
 
 export const prerender = true;
+
+export function entries() {
+	return getAllEntries().map((e) => ({ era: e.era, entry: e.slug }));
+}
 
 export const load: PageLoad = ({ params }) => {
 	const result = getEntryByEraAndSlug(params.era as EraSlug, params.entry);
