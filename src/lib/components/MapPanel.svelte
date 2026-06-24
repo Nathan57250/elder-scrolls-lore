@@ -1,9 +1,14 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import { getMapState } from '$lib/stores/app-state.svelte';
-	import type { MapLocation } from '$lib/types/lore';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
+	import type { Locale } from '$lib/i18n';
+	import { page } from '$app/state';
+	import { defaultLocale } from '$lib/i18n';
 
 	const mapState = getMapState();
+	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
 
 	let mapContainer: HTMLDivElement;
 	let map: any;
@@ -46,7 +51,7 @@
 			}
 			map.flyTo(latLng, 2, { duration: 0.5 });
 			if (marker) {
-				marker.bindPopup(`<strong>${loc.name}</strong><br>${loc.province}`).openPopup();
+				marker.bindPopup(`<strong>${loc.names[locale]}</strong><br>${loc.province}`).openPopup();
 			}
 		}
 	});
@@ -59,19 +64,19 @@
 			<div>
 				{#if mapState.location}
 					<h3 class="text-base font-semibold text-text">
-						{mapState.location.name}
+						{mapState.location.names[locale]}
 					</h3>
 					<p class="text-sm text-text-muted">
 						{mapState.location.province}
 					</p>
 				{:else}
-					<h3 class="text-base font-semibold text-text">Carte de Tamriel</h3>
+					<h3 class="text-base font-semibold text-text">{t(locale, 'map.title')}</h3>
 				{/if}
 			</div>
 			<button
 				onclick={() => mapState.close()}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
-				aria-label="Fermer la carte"
+				aria-label={t(locale, 'map.close')}
 			>
 				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -90,10 +95,10 @@
 				</p>
 				{#if mapState.location.articleSlug}
 					<a
-						href="/chronologie/{mapState.location.articleSlug}"
+						href={localePath(locale, 'timeline', mapState.location.articleSlug)}
 						class="inline-flex items-center gap-1.5 rounded-md bg-accent-muted px-3 py-1.5 text-sm font-medium text-accent hover:bg-accent-muted/80"
 					>
-						Lire l'article complet →
+						{t(locale, 'map.read')}
 					</a>
 				{/if}
 			</div>

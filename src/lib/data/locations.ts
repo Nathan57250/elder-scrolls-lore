@@ -1,179 +1,160 @@
 import type { MapLocation } from '$lib/types/lore';
+import type { Locale } from '$lib/i18n';
 
 export const locations: MapLocation[] = [
 	{
 		slug: 'cite-imperiale',
-		name: 'Cité Impériale',
+		names: { fr: 'Cité Impériale', en: 'Imperial City', es: 'Ciudad Imperial' },
 		province: 'Cyrodiil',
 		coords: { x: 512, y: 480 },
-		summary:
-			"Capitale de l'Empire de Tamriel, située sur l'Île de la Cité au centre du lac Rumare. Siège de la Tour d'Or Blanc.",
+		summary: "Capitale de l'Empire de Tamriel, située sur l'Île de la Cité au centre du lac Rumare.",
 		articleSlug: 'cite-imperiale'
 	},
 	{
 		slug: 'vivec-city',
-		name: 'Vivec',
+		names: { fr: 'Vivec', en: 'Vivec City', es: 'Ciudad Vivec' },
 		province: 'Morrowind',
 		coords: { x: 720, y: 320 },
-		summary:
-			'Cité sainte du Tribunal construite sur les eaux de la Baie Intérieure, composée de cantons flottants massifs.',
+		summary: 'Cité sainte du Tribunal construite sur les eaux de la Baie Intérieure.',
 		articleSlug: 'vivec-city'
 	},
 	{
 		slug: 'blancherive',
-		name: 'Blancherive',
+		names: { fr: 'Blancherive', en: 'Whiterun', es: 'Carrera Blanca' },
 		province: 'Bordeciel',
 		coords: { x: 430, y: 220 },
-		summary:
-			"Ville centrale de Bordeciel, dominée par Fort-Dragon. C'est ici que le Dovahkiin apprend sa nature.",
+		summary: "Ville centrale de Bordeciel, dominée par Fort-Dragon.",
 		articleSlug: 'blancherive'
 	},
 	{
 		slug: 'solitude',
-		name: 'Solitude',
+		names: { fr: 'Solitude', en: 'Solitude', es: 'Soledad' },
 		province: 'Bordeciel',
 		coords: { x: 370, y: 170 },
-		summary:
-			"Capitale de Bordeciel et siège du Haut-Roi, bâtie sur un arc naturel de pierre au-dessus de la mer.",
+		summary: "Capitale de Bordeciel et siège du Haut-Roi.",
 		articleSlug: 'solitude'
 	},
 	{
 		slug: 'vendhelm',
-		name: 'Vendhelm',
+		names: { fr: 'Vendhelm', en: 'Windhelm', es: 'Ventohelm' },
 		province: 'Bordeciel',
 		coords: { x: 520, y: 190 },
-		summary:
-			'Capitale des Sombrages et plus ancienne ville de Bordeciel, fondée par Ysgramor lui-même.',
+		summary: 'Capitale des Sombrages et plus ancienne ville de Bordeciel.',
 		articleSlug: 'vendhelm'
 	},
 	{
 		slug: 'morrowind-vvardenfell',
-		name: 'Vvardenfell',
+		names: { fr: 'Vvardenfell', en: 'Vvardenfell', es: 'Vvardenfell' },
 		province: 'Morrowind',
 		coords: { x: 740, y: 300 },
-		summary:
-			"Île volcanique dominée par le Mont Écarlate, abritant les ruines du Cœur de Lorkhan et l'ancienne cité Dwemer d'Arkngthand.",
+		summary: "Île volcanique dominée par le Mont Écarlate.",
 		articleSlug: 'vvardenfell'
 	},
 	{
 		slug: 'alinor',
-		name: 'Alinor',
+		names: { fr: 'Alinor', en: 'Alinor', es: 'Alinor' },
 		province: 'Archipel de lEstival',
 		coords: { x: 180, y: 580 },
-		summary:
-			"Capitale de l'Archipel de l'Estival (Îles Summerset) et quartier général du Thalmor et du Domaine Aldmeri.",
+		summary: "Capitale de l'Archipel de l'Estival et quartier général du Thalmor.",
 		articleSlug: 'alinor'
 	},
 	{
 		slug: 'daguefilante',
-		name: 'Daguefilante',
+		names: { fr: 'Daguefilante', en: 'Daggerfall', es: 'Daggerfall' },
 		province: 'Hauteroche',
 		coords: { x: 320, y: 280 },
-		summary:
-			"Puissante cité-État de Hauteroche, une des plus importantes du nord-ouest de Tamriel.",
+		summary: "Puissante cité-État de Hauteroche.",
 		articleSlug: 'daguefilante'
 	},
 	{
 		slug: 'elsweyr-torval',
-		name: 'Torval',
+		names: { fr: 'Torval', en: 'Torval', es: 'Torval' },
 		province: 'Elsweyr',
 		coords: { x: 440, y: 620 },
-		summary:
-			'Ancienne capitale religieuse des Khajiits, abritant la Crinière — le chef spirituel de leur peuple.',
+		summary: 'Ancienne capitale religieuse des Khajiits.',
 		articleSlug: 'torval'
 	},
 	{
 		slug: 'marais-noir-lilmoth',
-		name: 'Lilmoth',
+		names: { fr: 'Lilmoth', en: 'Lilmoth', es: 'Lilmoth' },
 		province: 'Marais Noir',
 		coords: { x: 660, y: 560 },
-		summary:
-			'Port du Marais Noir, où les Argoniens vivent en harmonie avec les Hist dans les marécages.',
+		summary: 'Port du Marais Noir, où les Argoniens vivent en harmonie avec les Hist.',
 		articleSlug: 'lilmoth'
 	},
 	{
 		slug: 'orsinium',
-		name: 'Orsinium',
+		names: { fr: 'Orsinium', en: 'Orsinium', es: 'Orsinium' },
 		province: 'Hauteroche',
 		coords: { x: 350, y: 320 },
-		summary:
-			"Cité orque reconstruite à maintes reprises, symbole de la persévérance du peuple orsimer.",
+		summary: "Cité orque reconstruite à maintes reprises.",
 		articleSlug: 'orsinium'
 	},
 	{
 		slug: 'mont-ecarlate',
-		name: 'Mont Écarlate',
+		names: { fr: 'Mont Écarlate', en: 'Red Mountain', es: 'Montaña Roja' },
 		province: 'Morrowind',
 		coords: { x: 735, y: 285 },
-		summary:
-			'Volcan massif au centre de Vvardenfell, contenant la Citadelle de Dagoth Ur et le Cœur de Lorkhan.',
+		summary: 'Volcan massif au centre de Vvardenfell.',
 		articleSlug: 'mont-ecarlate'
 	},
 	{
 		slug: 'tour-or-blanc',
-		name: "Tour d'Or Blanc",
+		names: { fr: "Tour d'Or Blanc", en: 'White-Gold Tower', es: 'Torre de Oro Blanco' },
 		province: 'Cyrodiil',
 		coords: { x: 514, y: 478 },
-		summary:
-			"Tour Ada-Mantia de la Cité Impériale, construite par les Ayléides. Pierre angulaire métaphysique de Tamriel.",
+		summary: "Tour Ada-Mantia de la Cité Impériale.",
 		articleSlug: 'tour-or-blanc'
 	},
 	{
 		slug: 'labyrinthian',
-		name: 'Labyrinthian',
+		names: { fr: 'Labyrinthian', en: 'Labyrinthian', es: 'Labyrinthian' },
 		province: 'Bordeciel',
 		coords: { x: 410, y: 200 },
-		summary:
-			'Ancienne cité nordique de Bromjunaar, autrefois capitale du culte des Dragons.',
+		summary: 'Ancienne cité nordique de Bromjunaar.',
 		articleSlug: 'labyrinthian'
 	},
 	{
 		slug: 'havreglace',
-		name: 'Havreglace',
+		names: { fr: 'Havreglace', en: 'Winterhold', es: 'Hibernalia' },
 		province: 'Bordeciel',
 		coords: { x: 460, y: 160 },
-		summary:
-			"Ville nordique et siège du Collège de Fortdhiver, la plus importante institution d'étude de la magie en Bordeciel."
+		summary: "Ville nordique et siège du Collège de Fortdhiver."
 	},
 	{
 		slug: 'skingrad',
-		name: 'Skingrad',
+		names: { fr: 'Skingrad', en: 'Skingrad', es: 'Skingrad' },
 		province: 'Cyrodiil',
 		coords: { x: 460, y: 500 },
-		summary:
-			'Comté de Cyrodiil réputé pour ses vignobles et son comte-vampire, Janus Hassildor.'
+		summary: 'Comté de Cyrodiil réputé pour ses vignobles.'
 	},
 	{
 		slug: 'kvatch',
-		name: 'Kvatch',
+		names: { fr: 'Kvatch', en: 'Kvatch', es: 'Kvatch' },
 		province: 'Cyrodiil',
 		coords: { x: 430, y: 510 },
-		summary:
-			"Première ville détruite lors de la Crise d'Oblivion par la Porte de Mehrunes Dagon."
+		summary: "Première ville détruite lors de la Crise d'Oblivion."
 	},
 	{
 		slug: 'balmora',
-		name: 'Balmora',
+		names: { fr: 'Balmora', en: 'Balmora', es: 'Balmora' },
 		province: 'Morrowind',
 		coords: { x: 710, y: 310 },
-		summary:
-			"Ville dunmer de style impérial sur Vvardenfell, siège de la Guilde des Guerriers et des Mages locales."
+		summary: "Ville dunmer de style impérial sur Vvardenfell."
 	},
 	{
 		slug: 'blackreach',
-		name: 'Griffenoire',
+		names: { fr: 'Griffenoire', en: 'Blackreach', es: 'Alcanegro' },
 		province: 'Bordeciel',
 		coords: { x: 450, y: 210 },
-		summary:
-			"Immense caverne souterraine Dwemer s'étendant sous une grande partie de Bordeciel, illuminée par des champignons géants."
+		summary: "Immense caverne souterraine Dwemer sous Bordeciel."
 	},
 	{
 		slug: 'sovngarde',
-		name: 'Sovngarde',
+		names: { fr: 'Sovngarde', en: 'Sovngarde', es: 'Sovngarde' },
 		province: 'Aetherius',
 		coords: { x: 450, y: 100 },
-		summary:
-			"Le hall des héros nordiques morts au combat, dominé par le Hall de Shor. Lieu du combat final contre Alduin."
+		summary: "Le hall des héros nordiques morts au combat."
 	}
 ];
 
@@ -183,4 +164,8 @@ export function getLocation(slug: string): MapLocation | undefined {
 
 export function getLocationsByProvince(province: string): MapLocation[] {
 	return locations.filter((l) => l.province === province);
+}
+
+export function getLocationName(location: MapLocation, locale: Locale): string {
+	return location.names[locale];
 }

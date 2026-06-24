@@ -1,12 +1,14 @@
 import { getAllEntries } from './content-loader';
+import { localePath } from '$lib/i18n/routes';
 import type { LoreEntryFrontmatter } from '$lib/types/lore';
+import type { Locale } from '$lib/i18n';
 
 export interface EntityMatch {
 	metadata: LoreEntryFrontmatter;
 	href: string;
 }
 
-const lookupMap = new Map<string, EntityMatch>();
+const lookupMaps = new Map<Locale, Map<string, EntityMatch>>();
 
 function normalize(s: string): string {
 	return s.toLowerCase().trim();
@@ -15,7 +17,6 @@ function normalize(s: string): string {
 function extractShortNames(title: string): string[] {
 	const names: string[] = [title];
 
-	// Split on common title separators
 	const separators = [' — ', ' : ', ' – ', ', '];
 	for (const sep of separators) {
 		if (title.includes(sep)) {
@@ -23,27 +24,23 @@ function extractShortNames(title: string): string[] {
 		}
 	}
 
-	// Extract content in parentheses: "L'Enfant de Dragon (Dovahkiin)" → "Dovahkiin"
 	const parenMatch = title.match(/\(([^)]+)\)/);
 	if (parenMatch) {
 		names.push(parenMatch[1]);
 	}
 
-	// "X et les/la/le Y" → extract "X"
 	const etMatch = title.match(/^(.+?)\s+et\s+(les?|la|l'|des|du)\s/i);
 	if (etMatch) {
 		names.push(etMatch[1]);
 	}
 
-	// "Sainte X" / "Saint X" → also index "X"
 	for (const name of [...names]) {
 		if (/^sainte?\s/i.test(name)) {
 			names.push(name.replace(/^sainte?\s/i, ''));
 		}
 	}
 
-	// Strip leading articles: "Le Thalmor" → "Thalmor", "L'Aurbis" → "Aurbis"
-	const articles = ['le ', 'la ', "l'", 'les ', 'un ', 'une '];
+	const articles = ['le ', 'la ', "l'", 'les ', 'un ', 'une ', 'the ', 'el ', 'la ', 'los ', 'las '];
 	for (const name of [...names]) {
 		const lower = name.toLowerCase();
 		for (const art of articles) {
@@ -56,28 +53,32 @@ function extractShortNames(title: string): string[] {
 	return names;
 }
 
-function buildLookup() {
-	if (lookupMap.size > 0) return;
-	for (const entry of getAllEntries()) {
-		const href = `/chronologie/${entry.era}/${entry.slug}`;
+function buildLookup(locale: Locale) {
+	if (lookupMaps.has(locale)) return;
+	const map = new Map<string, EntityMatch>();
+
+	for (const entry of getAllEntries(locale)) {
+		const href = localePath(locale, 'timeline', entry.era, entry.slug);
 		const match: EntityMatch = { metadata: entry, href };
 
 		for (const name of extractShortNames(entry.title)) {
 			const key = normalize(name);
 			if (key.length >= 3) {
-				lookupMap.set(key, match);
+				map.set(key, match);
 			}
 		}
 
 		if (entry.aliases) {
 			for (const alias of entry.aliases) {
-				lookupMap.set(normalize(alias), match);
+				map.set(normalize(alias), match);
 			}
 		}
 	}
+
+	lookupMaps.set(locale, map);
 }
 
-export function findEntity(text: string): EntityMatch | undefined {
-	buildLookup();
-	return lookupMap.get(normalize(text));
+export function findEntity(locale: Locale, text: string): EntityMatch | undefined {
+	buildLookup(locale);
+	return lookupMaps.get(locale)?.get(normalize(text));
 }

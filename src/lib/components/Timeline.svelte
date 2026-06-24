@@ -1,30 +1,20 @@
 <script lang="ts">
-	import type { TimelineEvent, EraSlug } from '$lib/types/lore';
-	import { eras } from '$lib/data/eras';
+	import type { EraSlug } from '$lib/types/lore';
+	import { eras, getEraName } from '$lib/data/eras';
 	import { getTimelineEntries } from '$lib/utils/content-loader';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
+	import type { Locale } from '$lib/i18n';
 
-	const entries = getTimelineEntries();
+	let { locale }: { locale: Locale } = $props();
+
+	const entries = $derived(getTimelineEntries(locale));
 
 	let selectedEra = $state<EraSlug | null>(null);
 
 	const filteredEntries = $derived(
 		selectedEra ? entries.filter((e) => e.era === selectedEra) : entries
 	);
-
-	const groupedByEra = $derived(() => {
-		const groups: Record<EraSlug, typeof entries> = {
-			'dawn-era': [],
-			'merethic-era': [],
-			'first-era': [],
-			'second-era': [],
-			'third-era': [],
-			'fourth-era': []
-		};
-		for (const entry of filteredEntries) {
-			groups[entry.era].push(entry);
-		}
-		return groups;
-	});
 </script>
 
 <div class="timeline-container py-8">
@@ -34,7 +24,7 @@
 			onclick={() => (selectedEra = null)}
 			class="rounded-full px-4 py-1.5 text-sm font-medium transition-colors {!selectedEra ? 'bg-accent-muted text-accent' : 'bg-surface text-text-secondary hover:bg-surface-hover hover:text-text'}"
 		>
-			Toutes
+			{t(locale, 'timeline.all')}
 		</button>
 		{#each eras as era}
 			<button
@@ -42,7 +32,7 @@
 				class="rounded-full px-4 py-1.5 text-sm font-medium transition-colors {selectedEra === era.slug ? 'text-text' : 'bg-surface text-text-secondary hover:bg-surface-hover hover:text-text'}"
 				style={selectedEra === era.slug ? `background-color: ${era.color}20; color: ${era.color}` : ''}
 			>
-				{era.nameFr}
+				{getEraName(era, locale)}
 			</button>
 		{/each}
 	</div>
@@ -61,7 +51,7 @@
 						class="inline-block rounded-full px-3 py-1 text-xs font-medium"
 						style="background-color: {era.color}15; color: {era.color}"
 					>
-						{era.nameFr}
+						{getEraName(era, locale)}
 					</div>
 				</div>
 
@@ -76,7 +66,7 @@
 
 						<!-- Card -->
 						<a
-							href="/chronologie/{entry.era}/{entry.slug}"
+							href={localePath(locale, 'timeline', entry.era, entry.slug)}
 							class="block w-full rounded-lg border border-border bg-surface p-4 transition-all hover:border-border-subtle hover:bg-surface-hover md:w-[calc(50%-2rem)] {i % 2 === 0 ? 'md:ml-auto' : 'md:mr-auto'}"
 						>
 							{#if entry.date}
@@ -98,8 +88,8 @@
 
 		{#if filteredEntries.length === 0}
 			<div class="py-16 text-center text-text-muted">
-				<p class="text-lg font-medium">Aucun événement trouvé</p>
-				<p class="mt-2 text-sm">Sélectionnez une autre ère ou consultez toutes les ères.</p>
+				<p class="text-lg font-medium">{t(locale, 'timeline.empty')}</p>
+				<p class="mt-2 text-sm">{t(locale, 'timeline.empty.hint')}</p>
 			</div>
 		{/if}
 	</div>

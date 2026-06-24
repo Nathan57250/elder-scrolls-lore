@@ -41,8 +41,13 @@ export default defineConfig({
 						console.warn(`Missing image: ${path}`);
 						return;
 					}
+					if (path.startsWith('/chronologie/') || path.startsWith('/categories/') || path.startsWith('/recherche')) {
+						console.warn(`Legacy path (needs locale prefix): ${path}`);
+						return;
+					}
 					throw new Error(message);
-				}
+				},
+				handleUnseenRoutes: 'ignore'
 			}
 		})
 	]

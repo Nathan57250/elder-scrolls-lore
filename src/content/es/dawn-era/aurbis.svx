@@ -1,0 +1,33 @@
+---
+title: "El Aurbis — Estructura de la Realidad"
+slug: aurbis
+era: dawn-era
+category: cosmologie
+tags: [Aurbis, Anu, Padomay, Aetherius, Oblivion, Mundus]
+date: "Antes del Tiempo"
+timelineYear: -9999
+summary: "El Aurbis es la totalidad de la existencia en el universo de Elder Scrolls, abarcando todos los reinos desde Aetherius hasta el Vacío."
+---
+
+## ¿Qué es el Aurbis?
+
+El **Aurbis** es el nombre dado a toda la estructura cosmológica de la existencia. Abarca todo — desde el reino de **Aetherius** (el plano de la magia y la vida después de la muerte) hasta los planos de **Oblivion** (reinos de los Príncipes Daédricos) y **Mundus** (el plano mortal donde existe Tamriel).
+
+## Origen
+
+El Aurbis surgió de la interacción entre dos fuerzas primordiales:
+
+- **Anu** — la fuerza de la estasis, el orden y la luz
+- **Padomay** (también llamado Sithis) — la fuerza del cambio, el caos y la oscuridad
+
+Su interacción creó **Nir**, y de la existencia de Nir surgieron los et'Ada — los "espíritus originales" que eventualmente se convertirían en los Aedra y Daedra.
+
+## Estructura
+
+El Aurbis se representa a menudo como una serie de círculos concéntricos:
+
+1. **El Vacío** — la nada exterior (Sithis)
+2. **Aetherius** — el reino de la magicka pura, hogar de los Magna Ge
+3. **Oblivion** — el reino intermedio, dividido en innumerables planos gobernados por Príncipes Daédricos
+4. **Mundus** — el plano mortal en el centro, anclado por las Torres
+5. **Nirn** — el planeta dentro de Mundus donde existe toda la vida mortal

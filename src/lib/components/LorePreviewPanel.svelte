@@ -2,11 +2,18 @@
 	import { getPreviewState } from '$lib/stores/app-state.svelte';
 	import { getEntryBySlug } from '$lib/utils/content-loader';
 	import { getEra } from '$lib/data/eras';
-	import { getCategory } from '$lib/data/categories';
+	import { getCategory, getCategoryName } from '$lib/data/categories';
+	import { getEraName } from '$lib/data/eras';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
+	import type { Locale } from '$lib/i18n';
+	import { page } from '$app/state';
+	import { defaultLocale } from '$lib/i18n';
 
 	const preview = getPreviewState();
+	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
 
-	let entry = $derived(preview.slug ? getEntryBySlug(preview.slug) : null);
+	let entry = $derived(preview.slug ? getEntryBySlug(locale, preview.slug) : null);
 	let metadata = $derived(entry?.metadata ?? null);
 	let eraData = $derived(metadata ? getEra(metadata.era) : null);
 	let categoryData = $derived(metadata ? getCategory(metadata.category) : null);
@@ -17,7 +24,7 @@
 	<button
 		class="fixed inset-0 z-40 bg-black/50 backdrop-blur-sm sm:bg-black/30"
 		onclick={() => preview.close()}
-		aria-label="Fermer l'aperçu"
+		aria-label={t(locale, 'preview.close')}
 	></button>
 
 	<!-- Panel -->
@@ -32,12 +39,12 @@
 							style="background-color: {eraData.color}15; color: {eraData.color}"
 						>
 							<span class="h-1.5 w-1.5 rounded-full" style="background-color: {eraData.color}"></span>
-							{eraData.nameFr}
+							{getEraName(eraData, locale)}
 						</span>
 					{/if}
 					{#if categoryData}
 						<span class="inline-flex items-center gap-1 rounded-full bg-bg-elevated px-2 py-0.5 text-xs font-medium text-text-secondary">
-							{categoryData.icon} {categoryData.name}
+							{categoryData.icon} {getCategoryName(categoryData, locale)}
 						</span>
 					{/if}
 				</div>
@@ -48,7 +55,7 @@
 			<button
 				onclick={() => preview.close()}
 				class="ml-3 shrink-0 rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
-				aria-label="Fermer"
+				aria-label={t(locale, 'preview.close')}
 			>
 				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
@@ -82,11 +89,11 @@
 		<!-- Footer -->
 		<div class="border-t border-border px-5 py-4">
 			<a
-				href="/chronologie/{metadata.era}/{metadata.slug}"
+				href={localePath(locale, 'timeline', metadata.era, metadata.slug)}
 				onclick={() => preview.close()}
 				class="inline-flex items-center gap-1.5 rounded-md bg-accent-muted px-4 py-2 text-sm font-medium text-accent transition-colors hover:bg-accent-muted/80"
 			>
-				Lire l'article complet &rarr;
+				{t(locale, 'preview.read')}
 			</a>
 		</div>
 	</div>

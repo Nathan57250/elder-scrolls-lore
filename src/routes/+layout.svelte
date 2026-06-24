@@ -6,10 +6,15 @@
 	import MapPanel from '$lib/components/MapPanel.svelte';
 	import LorePreviewPanel from '$lib/components/LorePreviewPanel.svelte';
 	import { getSidebarState, getThemeState } from '$lib/stores/app-state.svelte';
+	import { page } from '$app/state';
+	import { defaultLocale } from '$lib/i18n';
+	import type { Locale } from '$lib/i18n';
 
 	let { children } = $props();
 	const sidebar = getSidebarState();
 	const themeState = getThemeState();
+
+	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
 
 	onMount(() => {
 		themeState.init();
@@ -17,17 +22,17 @@
 </script>
 
 <svelte:head>
-	<title>Grand Livre du Lore — Elder Scrolls</title>
-	<meta name="description" content="Encyclopédie complète et interactive du lore de l'univers The Elder Scrolls." />
+	<title>{locale === 'fr' ? 'Grand Livre du Lore' : locale === 'es' ? 'Gran Libro del Lore' : 'Great Book of Lore'} — Elder Scrolls</title>
+	<meta name="description" content="Complete and interactive encyclopedia of The Elder Scrolls lore." />
 </svelte:head>
 
 <div class="flex min-h-screen flex-col bg-bg text-text">
-	<Header />
+	<Header {locale} />
 
 	<div class="flex flex-1">
 		<!-- Sidebar desktop -->
 		<aside class="hidden w-64 shrink-0 overflow-y-auto border-r border-border bg-bg p-4 lg:block">
-			<CategoryNav />
+			<CategoryNav {locale} />
 		</aside>
 
 		<!-- Sidebar mobile (overlay) -->
@@ -36,10 +41,10 @@
 				<button
 					class="absolute inset-0 bg-black/60 backdrop-blur-sm"
 					onclick={() => sidebar.close()}
-					aria-label="Fermer le menu"
+					aria-label="Close menu"
 				></button>
 				<aside class="absolute left-0 top-0 h-full w-72 overflow-y-auto bg-bg p-4 shadow-2xl">
-					<CategoryNav />
+					<CategoryNav {locale} />
 				</aside>
 			</div>
 		{/if}

@@ -1,14 +1,20 @@
 <script lang="ts">
 	import { getAllEntries } from '$lib/utils/content-loader';
-	import { eras } from '$lib/data/eras';
-	import { categories } from '$lib/data/categories';
+	import { eras, getEraName } from '$lib/data/eras';
+	import { categories, getCategoryName } from '$lib/data/categories';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
 	import type { LoreEntryFrontmatter, EraSlug, CategorySlug } from '$lib/types/lore';
+	import type { PageData } from './$types';
+
+	let { data }: { data: PageData } = $props();
+	const locale = $derived(data.locale);
 
 	let query = $state('');
 	let selectedEra = $state<EraSlug | ''>('');
 	let selectedCategory = $state<CategorySlug | ''>('');
 
-	const allEntries = getAllEntries();
+	const allEntries = $derived(getAllEntries(locale));
 
 	const results = $derived.by(() => {
 		let filtered = allEntries;
@@ -34,12 +40,12 @@
 </script>
 
 <svelte:head>
-	<title>Recherche — Grand Livre du Lore</title>
+	<title>{t(locale, 'search.title')} — {t(locale, 'site.title')}</title>
 </svelte:head>
 
 <div class="mx-auto max-w-3xl px-4 py-8">
 	<h1 class="mb-6 text-2xl font-bold tracking-tight text-text">
-		Recherche
+		{t(locale, 'search.title')}
 	</h1>
 
 	<!-- Search input -->
@@ -47,7 +53,7 @@
 		<input
 			type="search"
 			bind:value={query}
-			placeholder="Rechercher dans le lore..."
+			placeholder={t(locale, 'search.placeholder')}
 			class="w-full rounded-lg border border-border bg-surface px-4 py-3 text-text placeholder-text-muted focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent/30"
 		/>
 	</div>
@@ -58,9 +64,9 @@
 			bind:value={selectedEra}
 			class="rounded-md border border-border bg-surface px-3 py-2 text-sm text-text-secondary"
 		>
-			<option value="">Toutes les ères</option>
+			<option value="">{t(locale, 'search.all_eras')}</option>
 			{#each eras as era}
-				<option value={era.slug}>{era.nameFr}</option>
+				<option value={era.slug}>{getEraName(era, locale)}</option>
 			{/each}
 		</select>
 
@@ -68,23 +74,23 @@
 			bind:value={selectedCategory}
 			class="rounded-md border border-border bg-surface px-3 py-2 text-sm text-text-secondary"
 		>
-			<option value="">Toutes les catégories</option>
+			<option value="">{t(locale, 'search.all_categories')}</option>
 			{#each categories as cat}
-				<option value={cat.slug}>{cat.icon} {cat.name}</option>
+				<option value={cat.slug}>{cat.icon} {getCategoryName(cat, locale)}</option>
 			{/each}
 		</select>
 	</div>
 
 	<!-- Results -->
 	<div class="mb-4 text-sm text-text-muted">
-		{results.length} résultat{results.length !== 1 ? 's' : ''}
+		{results.length} {t(locale, 'search.results', { count: results.length })}
 	</div>
 
 	<ul class="flex flex-col gap-2">
 		{#each results as entry}
 			<li>
 				<a
-					href="/chronologie/{entry.era}/{entry.slug}"
+					href={localePath(locale, 'timeline', entry.era, entry.slug)}
 					class="block rounded-lg border border-border bg-surface p-4 transition-all hover:border-border-subtle hover:bg-surface-hover"
 				>
 					<h3 class="text-sm font-semibold text-text">
@@ -109,8 +115,8 @@
 
 	{#if results.length === 0}
 		<div class="py-12 text-center text-text-muted">
-			<p class="text-lg font-medium">Aucun résultat</p>
-			<p class="mt-2 text-sm">Essayez un autre terme de recherche ou modifiez les filtres.</p>
+			<p class="text-lg font-medium">{t(locale, 'search.empty')}</p>
+			<p class="mt-2 text-sm">{t(locale, 'search.empty.hint')}</p>
 		</div>
 	{/if}
 </div>

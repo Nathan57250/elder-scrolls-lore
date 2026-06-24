@@ -1,12 +1,16 @@
 <script lang="ts">
 	import type { PageData } from './$types';
+	import { getCategoryName, getCategoryDescription } from '$lib/data/categories';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
 
 	let { data }: { data: PageData } = $props();
+	const locale = $derived(data.locale);
 </script>
 
 <svelte:head>
-	<title>{data.category.name} — Grand Livre du Lore</title>
-	<meta name="description" content={data.category.description} />
+	<title>{getCategoryName(data.category, locale)} — {t(locale, 'site.title')}</title>
+	<meta name="description" content={getCategoryDescription(data.category, locale)} />
 </svelte:head>
 
 <div class="px-4 py-8">
@@ -14,11 +18,11 @@
 		<div class="flex items-center gap-3">
 			<span class="text-2xl">{data.category.icon}</span>
 			<h1 class="text-2xl font-bold tracking-tight text-text">
-				{data.category.name}
+				{getCategoryName(data.category, locale)}
 			</h1>
 		</div>
 		<p class="mt-3 text-text-secondary">
-			{data.category.description}
+			{getCategoryDescription(data.category, locale)}
 		</p>
 	</header>
 
@@ -28,7 +32,7 @@
 				{#each data.entries as entry}
 					<li>
 						<a
-							href="/chronologie/{entry.era}/{entry.slug}"
+							href={localePath(locale, 'timeline', entry.era, entry.slug)}
 							class="block rounded-lg border border-border bg-surface p-4 transition-all hover:border-border-subtle hover:bg-surface-hover"
 						>
 							<h3 class="text-sm font-semibold text-text">
@@ -52,8 +56,8 @@
 			</ul>
 		{:else}
 			<div class="py-12 text-center text-text-muted">
-				<p class="text-lg font-medium">Aucun article dans cette catégorie</p>
-				<p class="mt-2 text-sm">Le contenu sera ajouté prochainement.</p>
+				<p class="text-lg font-medium">{t(locale, 'category.empty')}</p>
+				<p class="mt-2 text-sm">{t(locale, 'category.empty.hint')}</p>
 			</div>
 		{/if}
 	</div>

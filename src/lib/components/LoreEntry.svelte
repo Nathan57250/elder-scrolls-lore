@@ -1,16 +1,22 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 	import type { LoreEntryFrontmatter } from '$lib/types/lore';
-	import { getEra } from '$lib/data/eras';
-	import { getCategory } from '$lib/data/categories';
+	import { getEra, getEraName } from '$lib/data/eras';
+	import { getCategory, getCategoryName } from '$lib/data/categories';
 	import { getBookModeState, getPreviewState } from '$lib/stores/app-state.svelte';
 	import { findEntity } from '$lib/utils/entity-lookup';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
+	import type { Locale } from '$lib/i18n';
+	import { page } from '$app/state';
+	import { defaultLocale } from '$lib/i18n';
 	import RelatedArticles from './RelatedArticles.svelte';
 	import TableOfContents from './TableOfContents.svelte';
 	import type { Snippet } from 'svelte';
 
 	let { title, slug, era, category, tags, date, summary, sources, relatedArticles, children }: LoreEntryFrontmatter & { children: Snippet } = $props();
 
+	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
 	const bookMode = getBookModeState();
 	const preview = getPreviewState();
 	const eraData = $derived(getEra(era));
@@ -23,7 +29,7 @@
 		for (const el of strongs) {
 			const text = el.textContent?.trim();
 			if (!text) continue;
-			const entity = findEntity(text);
+			const entity = findEntity(locale, text);
 			if (entity && entity.metadata.slug !== slug) {
 				el.classList.add('entity-link');
 				el.dataset.slug = entity.metadata.slug;
@@ -49,22 +55,22 @@
 		<div class="mb-3 flex flex-wrap items-center gap-2">
 			{#if eraData}
 				<a
-					href="/chronologie/{era}"
+					href={localePath(locale, 'timeline', era)}
 					class="inline-flex items-center gap-1.5 rounded-full px-2.5 py-0.5 text-xs font-medium no-underline"
 					style="background-color: {eraData.color}15; color: {eraData.color}"
 					data-pagefind-filter="era"
 				>
 					<span class="h-1.5 w-1.5 rounded-full" style="background-color: {eraData.color}"></span>
-					{eraData.nameFr}
+					{getEraName(eraData, locale)}
 				</a>
 			{/if}
 			{#if categoryData}
 				<a
-					href="/categories/{category}"
+					href={localePath(locale, 'categories', category)}
 					class="inline-flex items-center gap-1 rounded-full bg-bg-elevated px-2.5 py-0.5 text-xs font-medium text-text-secondary no-underline"
 					data-pagefind-filter="category"
 				>
-					{categoryData.icon} {categoryData.name}
+					{categoryData.icon} {getCategoryName(categoryData, locale)}
 				</a>
 			{/if}
 			{#if date}
@@ -100,7 +106,7 @@
 	{#if sources?.length}
 		<footer class="mt-12 border-t border-border pt-6">
 			<h3 class="text-xs font-medium uppercase tracking-wider text-text-muted">
-				Sources
+				{t(locale, 'article.sources')}
 			</h3>
 			<ul class="mt-2 list-none p-0">
 				{#each sources as source}
