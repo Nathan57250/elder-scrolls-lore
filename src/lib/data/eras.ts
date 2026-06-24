@@ -1,65 +1,102 @@
 import type { Era, EraSlug } from '$lib/types/lore';
+import type { Locale } from '$lib/i18n';
 
 export const eras: Era[] = [
 	{
 		slug: 'dawn-era',
-		name: 'Dawn Era',
-		nameFr: "L'Ère de l'Aube",
+		names: {
+			fr: "L'Ère de l'Aube",
+			en: 'The Dawn Era',
+			es: 'La Era del Amanecer'
+		},
 		startYear: null,
 		endYear: null,
 		color: '#fbbf24',
-		description:
-			"La création de l'Aurbis, l'émergence d'Anu et Padomay, la naissance des Et'Ada, la Convention et la création de Mundus."
+		descriptions: {
+			fr: "La création de l'Aurbis, l'émergence d'Anu et Padomay, la naissance des Et'Ada, la Convention et la création de Mundus.",
+			en: "The creation of the Aurbis, the emergence of Anu and Padomay, the birth of the Et'Ada, the Convention, and the creation of Mundus.",
+			es: "La creación del Aurbis, la emergencia de Anu y Padomay, el nacimiento de los Et'Ada, la Convención y la creación de Mundus."
+		}
 	},
 	{
 		slug: 'merethic-era',
-		name: 'Merethic Era',
-		nameFr: "L'Ère Méréthique",
+		names: {
+			fr: "L'Ère Méréthique",
+			en: 'The Merethic Era',
+			es: 'La Era Merética'
+		},
 		startYear: -2500,
 		endYear: 0,
 		color: '#34d399',
-		description:
-			"L'arrivée des Aldmer à Tamriel, la civilisation Dwemer, la guerre des Dragons, et les exploits d'Ysgramor."
+		descriptions: {
+			fr: "L'arrivée des Aldmer à Tamriel, la civilisation Dwemer, la guerre des Dragons, et les exploits d'Ysgramor.",
+			en: 'The arrival of the Aldmer in Tamriel, the Dwemer civilization, the Dragon War, and the exploits of Ysgramor.',
+			es: 'La llegada de los Aldmer a Tamriel, la civilización Dwemer, la guerra de los Dragones y las hazañas de Ysgramor.'
+		}
 	},
 	{
 		slug: 'first-era',
-		name: 'First Era',
-		nameFr: 'Première Ère',
+		names: {
+			fr: 'Première Ère',
+			en: 'First Era',
+			es: 'Primera Era'
+		},
 		startYear: 1,
 		endYear: 2920,
 		color: '#fb923c',
-		description:
-			"La fondation de l'Empire Alessien, les guerres entre Dwemer et Chimer, la disparition des Dwemer, et l'ascension du Tribunal."
+		descriptions: {
+			fr: "La fondation de l'Empire Alessien, les guerres entre Dwemer et Chimer, la disparition des Dwemer, et l'ascension du Tribunal.",
+			en: 'The founding of the Alessian Empire, the wars between Dwemer and Chimer, the disappearance of the Dwemer, and the rise of the Tribunal.',
+			es: 'La fundación del Imperio Alessiano, las guerras entre Dwemer y Chimer, la desaparición de los Dwemer y el ascenso del Tribunal.'
+		}
 	},
 	{
 		slug: 'second-era',
-		name: 'Second Era',
-		nameFr: 'Deuxième Ère',
+		names: {
+			fr: 'Deuxième Ère',
+			en: 'Second Era',
+			es: 'Segunda Era'
+		},
 		startYear: 1,
 		endYear: 896,
 		color: '#a78bfa',
-		description:
-			"L'Interrègne, les trois alliances (Daguefilante, Cœurébène, Domaine Aldmeri), et l'ascension de Tiber Septim."
+		descriptions: {
+			fr: "L'Interrègne, les trois alliances (Daguefilante, Cœurébène, Domaine Aldmeri), et l'ascension de Tiber Septim.",
+			en: 'The Interregnum, the three alliances (Daggerfall, Ebonheart, Aldmeri Dominion), and the rise of Tiber Septim.',
+			es: 'El Interregno, las tres alianzas (Daggerfall, Ebonheart, Dominio Aldmeri) y el ascenso de Tiber Septim.'
+		}
 	},
 	{
 		slug: 'third-era',
-		name: 'Third Era',
-		nameFr: 'Troisième Ère',
+		names: {
+			fr: 'Troisième Ère',
+			en: 'Third Era',
+			es: 'Tercera Era'
+		},
 		startYear: 1,
 		endYear: 433,
 		color: '#f87171',
-		description:
-			"La dynastie Septim, le Simulacre Impérial, le Warp in the West, et la Crise d'Oblivion."
+		descriptions: {
+			fr: "La dynastie Septim, le Simulacre Impérial, le Warp in the West, et la Crise d'Oblivion.",
+			en: 'The Septim dynasty, the Imperial Simulacrum, the Warp in the West, and the Oblivion Crisis.',
+			es: 'La dinastía Septim, el Simulacro Imperial, la Distorsión del Oeste y la Crisis de Oblivion.'
+		}
 	},
 	{
 		slug: 'fourth-era',
-		name: 'Fourth Era',
-		nameFr: 'Quatrième Ère',
+		names: {
+			fr: 'Quatrième Ère',
+			en: 'Fourth Era',
+			es: 'Cuarta Era'
+		},
 		startYear: 1,
 		endYear: 201,
 		color: '#38bdf8',
-		description:
-			"Le Concordat de l'Or Blanc, la Grande Guerre, la Guerre civile de Bordeciel, et le retour d'Alduin."
+		descriptions: {
+			fr: "Le Concordat de l'Or Blanc, la Grande Guerre, la Guerre civile de Bordeciel, et le retour d'Alduin.",
+			en: "The White-Gold Concordat, the Great War, the Skyrim Civil War, and Alduin's return.",
+			es: 'El Concordato del Oro Blanco, la Gran Guerra, la Guerra Civil de Skyrim y el regreso de Alduin.'
+		}
 	}
 ];
 
@@ -69,4 +106,12 @@ export function getEra(slug: EraSlug): Era | undefined {
 
 export function getEraIndex(slug: EraSlug): number {
 	return eras.findIndex((e) => e.slug === slug);
+}
+
+export function getEraName(era: Era, locale: Locale): string {
+	return era.names[locale];
+}
+
+export function getEraDescription(era: Era, locale: Locale): string {
+	return era.descriptions[locale];
 }

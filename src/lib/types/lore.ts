@@ -1,13 +1,14 @@
+import type { Locale } from '$lib/i18n';
+
 export type EraSlug = 'dawn-era' | 'merethic-era' | 'first-era' | 'second-era' | 'third-era' | 'fourth-era';
 
 export interface Era {
 	slug: EraSlug;
-	name: string;
-	nameFr: string;
+	names: Record<Locale, string>;
 	startYear: number | null;
 	endYear: number | null;
 	color: string;
-	description: string;
+	descriptions: Record<Locale, string>;
 }
 
 export interface LoreEntryFrontmatter {
@@ -46,9 +47,9 @@ export type CategorySlug =
 
 export interface Category {
 	slug: CategorySlug;
-	name: string;
+	names: Record<Locale, string>;
 	icon: string;
-	description: string;
+	descriptions: Record<Locale, string>;
 	color: string;
 }
 
@@ -63,7 +64,7 @@ export interface TimelineEvent {
 
 export interface MapLocation {
 	slug: string;
-	name: string;
+	names: Record<Locale, string>;
 	province: string;
 	coords: { x: number; y: number };
 	summary: string;

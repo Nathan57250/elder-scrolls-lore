@@ -1,4 +1,5 @@
 import type { LoreEntryFrontmatter, EraSlug, CategorySlug } from '$lib/types/lore';
+import type { Locale } from '$lib/i18n';
 
 const modules = import.meta.glob('/src/content/**/*.svx', { eager: true }) as Record<
 	string,
@@ -9,6 +10,7 @@ interface LoadedEntry {
 	metadata: LoreEntryFrontmatter;
 	component: unknown;
 	path: string;
+	locale: Locale;
 }
 
 function parseEntries(): LoadedEntry[] {
@@ -21,7 +23,9 @@ function parseEntries(): LoadedEntry[] {
 			return true;
 		})
 		.map(([path, module]) => {
-			const filename = path.split('/').pop()?.replace('.svx', '') ?? '';
+			const parts = path.split('/');
+			const locale = parts[3] as Locale;
+			const filename = parts.pop()?.replace('.svx', '') ?? '';
 			const metadata = {
 				...module.metadata,
 				slug: module.metadata.slug || filename
@@ -29,48 +33,54 @@ function parseEntries(): LoadedEntry[] {
 			return {
 				metadata,
 				component: module.default,
-				path
+				path,
+				locale
 			};
 		});
 }
 
 const entries = parseEntries();
 
-export function getAllEntries(): LoreEntryFrontmatter[] {
-	return entries.map((e) => e.metadata);
+function byLocale(locale: Locale) {
+	return entries.filter((e) => e.locale === locale);
 }
 
-export function getEntriesByEra(era: EraSlug): LoreEntryFrontmatter[] {
-	return entries.filter((e) => e.metadata.era === era).map((e) => e.metadata);
+export function getAllEntries(locale: Locale): LoreEntryFrontmatter[] {
+	return byLocale(locale).map((e) => e.metadata);
 }
 
-export function getEntriesByCategory(category: CategorySlug): LoreEntryFrontmatter[] {
-	return entries.filter((e) => e.metadata.category === category).map((e) => e.metadata);
+export function getEntriesByEra(locale: Locale, era: EraSlug): LoreEntryFrontmatter[] {
+	return byLocale(locale).filter((e) => e.metadata.era === era).map((e) => e.metadata);
 }
 
-export function getEntryBySlug(slug: string): { metadata: LoreEntryFrontmatter; component: unknown } | null {
-	const entry = entries.find((e) => e.metadata.slug === slug);
+export function getEntriesByCategory(locale: Locale, category: CategorySlug): LoreEntryFrontmatter[] {
+	return byLocale(locale).filter((e) => e.metadata.category === category).map((e) => e.metadata);
+}
+
+export function getEntryBySlug(locale: Locale, slug: string): { metadata: LoreEntryFrontmatter; component: unknown } | null {
+	const entry = byLocale(locale).find((e) => e.metadata.slug === slug);
 	if (!entry) return null;
 	return { metadata: entry.metadata, component: entry.component };
 }
 
 export function getEntryByEraAndSlug(
+	locale: Locale,
 	era: EraSlug,
 	slug: string
 ): { metadata: LoreEntryFrontmatter; component: unknown } | null {
-	const entry = entries.find((e) => e.metadata.era === era && e.metadata.slug === slug);
+	const entry = byLocale(locale).find((e) => e.metadata.era === era && e.metadata.slug === slug);
 	if (!entry) return null;
 	return { metadata: entry.metadata, component: entry.component };
 }
 
-export function getEntriesByTag(tag: string): LoreEntryFrontmatter[] {
-	return entries
+export function getEntriesByTag(locale: Locale, tag: string): LoreEntryFrontmatter[] {
+	return byLocale(locale)
 		.filter((e) => e.metadata.tags?.includes(tag))
 		.map((e) => e.metadata);
 }
 
-export function getTimelineEntries(): LoreEntryFrontmatter[] {
-	return entries
+export function getTimelineEntries(locale: Locale): LoreEntryFrontmatter[] {
+	return byLocale(locale)
 		.filter((e) => e.metadata.timelineYear !== undefined)
 		.map((e) => e.metadata)
 		.sort((a, b) => {
