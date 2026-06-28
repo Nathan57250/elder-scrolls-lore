@@ -36,13 +36,17 @@ export default defineConfig({
 			}),
 			prerender: {
 				entries: ['*'],
-				handleHttpError: ({ path, message }) => {
+				handleHttpError: ({ path, referrer, message }) => {
 					if (path.startsWith('/images/')) {
 						console.warn(`Missing image: ${path}`);
 						return;
 					}
 					if (path.startsWith('/chronologie/') || path.startsWith('/categories/') || path.startsWith('/recherche')) {
 						console.warn(`Legacy path (needs locale prefix): ${path}`);
+						return;
+					}
+					if (path.match(/^\/(en|es)\//)) {
+						console.warn(`Missing locale content: ${path}`);
 						return;
 					}
 					throw new Error(message);

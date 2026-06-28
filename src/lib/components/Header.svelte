@@ -1,5 +1,11 @@
 <script lang="ts">
 	import { getSidebarState, getThemeState } from '$lib/stores/app-state.svelte';
+	import { t } from '$lib/i18n';
+	import { localePath } from '$lib/i18n/routes';
+	import type { Locale } from '$lib/i18n';
+	import LocaleSwitcher from '$lib/components/LocaleSwitcher.svelte';
+
+	let { locale }: { locale: Locale } = $props();
 
 	const sidebar = getSidebarState();
 	const themeState = getThemeState();
@@ -11,34 +17,35 @@
 			<button
 				onclick={() => sidebar.toggle()}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text lg:hidden"
-				aria-label="Menu"
+				aria-label={t(locale, 'nav.menu')}
 			>
 				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
 				</svg>
 			</button>
-			<a href="/" class="text-lg font-semibold tracking-tight text-text">
-				Grand Livre du Lore
+			<a href="/{locale}" class="text-lg font-semibold tracking-tight text-text">
+				{t(locale, 'site.title')}
 			</a>
 		</div>
 
 		<nav class="hidden items-center gap-1 md:flex">
-			<a href="/chronologie/dawn-era" class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
-				Chronologie
+			<a href={localePath(locale, 'timeline', 'dawn-era')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.timeline')}
 			</a>
-			<a href="/categories/cosmologie" class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
-				Catégories
+			<a href={localePath(locale, 'categories', 'cosmologie')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.categories')}
 			</a>
-			<a href="/recherche" class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
-				Recherche
+			<a href={localePath(locale, 'search')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.search')}
 			</a>
 		</nav>
 
 		<div class="flex items-center gap-1">
+			<LocaleSwitcher {locale} />
 			<button
 				onclick={() => themeState.toggle()}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
-				aria-label="Changer le thème"
+				aria-label={t(locale, 'nav.theme')}
 			>
 				{#if themeState.isDark}
 					<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -51,9 +58,9 @@
 				{/if}
 			</button>
 			<a
-				href="/recherche"
+				href={localePath(locale, 'search')}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
-				aria-label="Rechercher"
+				aria-label={t(locale, 'nav.search')}
 			>
 				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />

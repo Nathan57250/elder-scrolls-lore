@@ -15,12 +15,17 @@
 		}
 		return '/' + segments.join('/');
 	}
+
+	function handleClick(target: Locale) {
+		localStorage.setItem('preferred-locale', target);
+	}
 </script>
 
 <div class="flex items-center gap-0.5">
 	{#each locales as l}
 		<a
 			href={switchUrl(l)}
+			onclick={() => handleClick(l)}
 			class="rounded px-1.5 py-0.5 text-xs font-medium transition-colors {l === locale ? 'bg-accent-muted text-accent' : 'text-text-muted hover:text-text'}"
 			aria-label="Switch to {labels[l]}"
 		>
