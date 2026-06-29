@@ -1,0 +1,56 @@
+---
+title: "Y'ffre, el Narrador"
+slug: "y-ffre"
+era: "dawn-era"
+category: "aedra"
+tags: ["y-ffre", "bosmer", "pacto-verde", "bosque-de-valento", "naturaleza", "aedra"]
+timelineYear: -99500
+summary: "Y'ffre, dios del bosque y del relato, fijó las formas del mundo natural y estableció el Pacto Verde que rige la vida de los Bosmer."
+sources: ["Varieties of Faith", "The Ooze: A Fable", "Aurbic Enigma"]
+---
+
+## El Primer Narrador
+
+**Y'ffre**, conocido también como Jephre en el panteón imperial, es uno de los **Aedra** más importantes y al mismo tiempo menos comprendidos por los eruditos imperiales. Donde **Akatosh** dio al mundo el tiempo y **Magnus** la magia, Y'ffre le dio la forma y la estabilidad. Antes de su sacrificio, el mundo no tenía reglas fijas: los seres cambiaban de forma a voluntad, la tierra fluía como el agua, y nada conservaba su naturaleza de un instante a otro.
+
+Fue Y'ffre quien, primero entre los et'Ada, se transformó voluntariamente en las leyes de la naturaleza. Su cuerpo se convirtió en las reglas que gobiernan el crecimiento de las plantas, el ciclo de las estaciones y la fijeza de las formas biológicas. Al narrarse a sí mismo, al convertirse en el primer relato, creó el marco narrativo en el que se desarrolla toda existencia en **Nirn**. Por eso los **Bosmer** lo llaman el Narrador o el Contador de Historias.
+
+## El Caos del Ooze
+
+Antes de la intervención de Y'ffre, los primeros habitantes de lo que se convertiría en el **Bosque de Valento** existían en un estado de flujo perpetuo llamado el **Ooze**. Esta sopa primordial de potencialidad veía a los seres transformarse constantemente, incapaces de mantener una forma estable. Un elfo podía convertirse en árbol, luego en río, luego en ciervo, sin control ni voluntad propia. Era una existencia de terror absoluto y confusión total.
+
+Los relatos bosmer describen este período como una pesadilla colectiva. Sin forma fija, no había identidad. Sin identidad, no había comunidad. Los proto-Bosmer eran prisioneros de un flujo constante que les negaba toda permanencia y todo sentido. La locura acechaba cada conciencia, anegada en un torrente de transformaciones involuntarias.
+
+Fue de este horror primordial de donde Y'ffre los salvó. Al sacrificarse para convertirse en las leyes de la naturaleza, ancló las formas y dio a cada ser una identidad estable. Los árboles permanecieron árboles. Los elfos permanecieron elfos. El mundo adquirió por fin una coherencia narrativa, una continuidad que permitía la existencia de una conciencia estable y una memoria persistente.
+
+## El Pacto Verde
+
+A cambio de este don de la estabilidad, Y'ffre impuso a los **Bosmer** un juramento sagrado: el **Pacto Verde**. Este pacto prohíbe a los elfos del bosque consumir o destruir cualquier materia vegetal. No pueden talar árboles, cultivar plantas comestibles ni usar madera para construir o hacer fuego. A cambio, el bosque de Valento los protege y les proporciona todo lo que necesitan.
+
+Las implicaciones de este pacto son considerables. Los Bosmer son obligatoriamente carnívoros, alimentándose exclusivamente de carne y productos de origen animal. Sus construcciones están hechas de hueso, cuero, conchas y otros materiales no vegetales. Sus ciudades más célebres no se construyen sino que crecen: son árboles gigantes moldeados por la propia voluntad de Y'ffre para albergar a sus hijos.
+
+El Pacto incluye también el **Banquete de Carne**, una tradición que exige a los Bosmer consumir los cuerpos de sus enemigos caídos en combate. Esta práctica caníbal horroriza a las otras culturas, pero para los Bosmer es un deber sagrado hacia Y'ffre. No honrar el Banquete de Carne sería una ofensa tan grave como talar un árbol vivo.
+
+## El Bosque de Valento, jardín de Y'ffre
+
+El **Bosque de Valento** es mucho más que una simple provincia forestal: es el jardín vivo de Y'ffre, un ecosistema enteramente moldeado por la voluntad divina. Cada árbol, cada planta, cada curso de agua lleva la impronta del Narrador. El bosque es consciente, reactivo, y protege activamente a sus habitantes bosmer frente a los invasores.
+
+Los **Graht-Robles** son la expresión más espectacular del poder de Y'ffre. Estos árboles titánicos, algunos de los cuales alcanzan cientos de metros de altura, se desplazan lentamente por el bosque, portando en sus ramas ciudades enteras. **Falinesti**, la antigua capital marchante de los Bosmer, era el mayor de estos árboles-ciudad, una maravilla viviente que recorría el Bosque de Valento según las estaciones.
+
+La desaparición de Falinesti al inicio de la **Cuarta Era** fue percibida por muchos como una señal del declive de la influencia de Y'ffre. Algunos Bosmer creen que el árbol-ciudad se hundió en las raíces del mundo para protegerse de una amenaza venidera. Otros piensan que la creciente ruptura del Pacto Verde por las nuevas generaciones ha debilitado el vínculo entre Y'ffre y el Bosque de Valento.
+
+## El Cántico y la Cacería Salvaje
+
+El poder de Y'ffre se manifiesta también en dos fenómenos místicos mayores. El **Cántico** es la capacidad de ciertos Bosmer bendecidos de comunicarse directamente con el bosque, de cantar a los árboles y comprender la voluntad de Y'ffre tal como se expresa en el crecimiento de las plantas y el susurro del viento entre las hojas. Los Cantores son los sacerdotes y profetas de Y'ffre, capaces de moldear la vegetación sin destruirla.
+
+La **Cacería Salvaje**, en cambio, representa el aspecto más aterrador del poder de Y'ffre. Cuando los Bosmer son llevados a la desesperación, pueden invocar un ritual antiguo que los devuelve al estado del Ooze original. Abandonan sus formas fijas y se convierten en monstruos cambiantes, una jauría de pesadilla que destruye todo a su paso. Cada Cacería Salvaje es irreversible: los participantes nunca recuperan su forma original.
+
+Esta dualidad entre el orden del Pacto Verde y el caos de la Cacería Salvaje refleja la propia naturaleza de Y'ffre. El Narrador no eliminó el Ooze; simplemente lo contuvo bajo la superficie de la realidad. Y cuando ese confinamiento se rompe deliberadamente, el antiguo horror resurge con una violencia proporcional al tiempo que pasó bajo restricción.
+
+## El Legado Vivo
+
+La influencia de Y'ffre se extiende mucho más allá del Bosque de Valento. Cada ecosistema de **Nirn** funciona según las reglas que él estableció. El crecimiento de las plantas, la migración de los animales, el ciclo de las estaciones: todo esto es obra del Narrador, su relato que sigue desenvolviéndose aunque él mismo se haya fundido en las leyes naturales.
+
+Las **Wyrd**, brujas de la naturaleza que se encuentran por todo el oeste de Tamriel, veneran a Y'ffre bajo diversos nombres y buscan mantener el equilibrio de su relato. Los **Druidas** de Roca Alta, descendientes de antiguos Bretones que rechazaron la civilización, siguen también sus enseñanzas, aunque su interpretación difiere considerablemente de la de los Bosmer.
+
+Para los Bosmer fieles, Y'ffre no es un dios distante y silencioso. Está presente en cada hoja que crece, cada río que fluye, cada ciclo de vida y muerte en el bosque. Su relato continúa, y cada ser vivo es un personaje dentro de él. La propia muerte no es más que un cambio de capítulo en la historia sin fin del Narrador.

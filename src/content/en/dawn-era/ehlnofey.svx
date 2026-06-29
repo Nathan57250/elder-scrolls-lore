@@ -1,0 +1,50 @@
+---
+title: "The Ehlnofey, Ancestors of Mortals"
+slug: "ehlnofey"
+era: "dawn-era"
+category: "races"
+tags: ["ehlnofey", "creation", "war", "ancestors", "mortals"]
+timelineYear: -99700
+summary: "The story of the Ehlnofey, primordial spirits who became the ancestors of all mortal races on Nirn."
+sources: ["The Annotated Anuad", "Before the Ages of Man", "Shezzar and the Divines"]
+---
+
+## The Primordial Spirits
+
+The **Ehlnofey** were among the first spirits to inhabit **Nirn** after its creation during the **Convention**. These beings, neither entirely divine nor entirely mortal, represented an intermediate stage in the degradation of the original et'Ada. Unlike the **Daedra** who refused to participate in the creation, the Ehlnofey chose to remain on Mundus, sacrificing part of their divine essence to give form to the world.
+
+Their exact nature remains a subject of debate among scholars. Some describe them as fragments of the original **Aedra**, pieces of divinity scattered during the act of creation. Others consider them minor spirits that orbited the great creative forces. What is certain is that they possessed power far exceeding that of the mortals who would follow them.
+
+The Ehlnofey inhabited a world still malleable, where the laws of physics were not yet fully fixed. The geography of **Nirn** in that age was radically different from what we know today: a single supercontinent surrounded by primordial waters, under a sky where **Aetherius** shone through the holes left by **Magnus** upon his flight.
+
+## The Division of the Ehlnofey
+
+Over time, the Ehlnofey split into two distinct groups, separated by geological catastrophes that fragmented their original continent. The **Wandering Ehlnofey** were dispersed across the world, forced to travel and adapt to hostile environments. Their nomadic existence hardened them and transformed them profoundly.
+
+The **Settled Ehlnofey**, by contrast, retained their original territory, a relatively preserved fragment of the ancient world. They maintained more of their spiritual heritage and their connection to divine forces. Their civilization, though diminished compared to the age of creation, remained more sophisticated and closer to the original state.
+
+This separation was not merely a geographical division. It gave rise to fundamental cultural, spiritual, and even physical differences. The Wanderers became more robust, more adaptable, while the Settled retained a superior grace and longevity. These differences would become the source of a devastating conflict.
+
+## The War of the Ehlnofey
+
+When the two groups finally met again, mutual recognition quickly gave way to incomprehension and conflict. The **War of the Ehlnofey** was a cataclysm of unimaginable scale, a conflict that literally reshaped the face of **Nirn**. The forces deployed by these semi-divine beings surpassed anything mortals could ever replicate.
+
+Continents were broken apart and reformed. Oceans arose where plains had once stretched. Mountain ranges rose in moments under the power of the fighting. The single world of the origins was shattered into the continents we know today: **Tamriel**, **Akavir**, **Atmora**, **Yokuda**, and the other distant lands.
+
+The war had no true victor. Both sides were decimated, and the survivors, exhausted and diminished, were mere shadows of their ancestors. This progressive diminishment marked the definitive transition to the mortal condition. Each generation was born a little weaker, a little more ephemeral, until the Ehlnofey ceased to exist as such.
+
+## The Racial Legacy
+
+From the Settled Ehlnofey descended the ancestors of the **Mer**, the Elvish races of Tamriel. The **Aldmer**, first among the Elves, most faithfully preserved the heritage of their ancestors. From them descended the **Altmer**, the **Bosmer**, the **Dunmer**, the **Orsimer**, and all the other Elvish races. Their longevity, their natural affinity for magic, and their hierarchical social structure testify to this lineage.
+
+From the Wandering Ehlnofey descended the ancestors of **Men**. The **Nedic peoples**, the **Atmorans**, the **Yokudans**, and the **Redguards** all carry within them the heritage of these hardened nomads. Their robustness, adaptability, and determination to conquer new territories reflect the wandering nature of their progenitors.
+
+The **Argonians** and the **Khajiit** represent special cases. The former were transformed by the **Hist**, entities perhaps older than the Ehlnofey themselves. The latter were shaped by **Azura** from the Bosmer, according to some traditions, though the Khajiit themselves reject this interpretation.
+
+## Metaphysical Implications
+
+The transition of the Ehlnofey into mortal races raises fundamental questions about the nature of existence on **Nirn**. If mortals are truly descendants of semi-divine beings, then every living creature carries within it an infinitesimal fragment of divinity. This idea lies at the heart of many religious and philosophical traditions throughout **Tamriel**.
+
+The **Psijics** teach that mortality is merely a veil, and that the original divine nature can be recovered through meditation and discipline. The **Thalmor** push this logic to its extreme, seeking to undo the creation itself in order to restore the original divine state of the Mer. Nordic traditions, by contrast, celebrate the mortal condition as a gift, a liberation from the chains of eternity.
+
+The memory of the Ehlnofey survives in the myths of every culture in Tamriel, under different names and varied interpretations. But all agree on one point: we are the children of beings greater than ourselves, and our world was forged in the blood of a war whose scars are still visible in the very geography of **Nirn**.

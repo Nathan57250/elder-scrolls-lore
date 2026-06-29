@@ -1,0 +1,62 @@
+---
+title: "Arkay"
+slug: "arkay"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divines", "death", "life", "cycle", "necromancy", "religion"]
+timelineYear: -99940
+summary: "Arkay, god of the cycle of life and death, guardian of the boundary between the living and the dead."
+sources: ["Varieties of Faith in the Empire", "Arkay the God", "The Book of the Divines", "The Arkay Doctrine"]
+---
+
+## The Guardian of the Cycle
+
+**Arkay** is the Divine of the cycles of life and death, the guardian of the sacred boundary that separates the living from the dead. Among the **Divines**, he occupies a solemn but essential position: without him, souls would never find rest and the dead would never make way for the living. He is the god of funerals, births, and everything that marks the transitions of mortal existence.
+
+The myths of the **Dawn Era** present two contradictory versions of Arkay's origin. The first describes him as an original et'Ada who willingly limited his power to create the cycle of mortality within **Mundus**. The second, more controversial account claims Arkay was a mortal — a dying merchant who was elevated to godhood by **Mara** for his exceptional devotion.
+
+## The Law of Arkay
+
+The most fundamental principle of Arkay's cult is known as the Law of Arkay or the Blessing of Arkay. This divine law establishes a sacred barrier between life and death: the dead must remain dead, and the living must live fully until their hour arrives naturally.
+
+This law is the basis of Arkay's cult's absolute opposition to **necromancy**. Animating a corpse, binding a soul, or transforming a living being into undead are direct violations of the Law of Arkay — crimes against the natural order of the universe. Arkay's priests devote much of their time to combating necromancers and purifying places tainted by undeath.
+
+The Blessing of Arkay is a ritual performed on the bodies of the deceased to prevent their later animation. This ritual seals the body against necromancy, making its reanimation by magical means impossible. In the civilized societies of Tamriel, this ritual forms an integral part of funerary rites.
+
+## Priests and Temples
+
+Arkay's priests serve as spiritual guides for the dying, funerary officiants, and hunters of the undead. Their training covers the theology of the life cycle, the funerary rites of multiple cultures, and the techniques for destroying the undead.
+
+Temples of Arkay are invariably situated near cemeteries and crypts. They serve as places of mourning for the bereaved, chapels of repose for the deceased, and guard posts against necromantic incursions. The architecture of these temples is sober and solemn, adorned with symbols of the eternal cycle.
+
+The Hall of the Dead, present in every city of Skyrim, is a miniature temple of Arkay. Its keepers watch over the remains of deceased citizens and ensure that the appropriate rites are carried out to guarantee the souls' rest.
+
+## Arkay and Necromancy
+
+The opposition between Arkay and necromancy is one of Tamriel's oldest and most fundamental conflicts. Necromancers violate the Law of Arkay every time they practice their art, making them the cult's natural enemies.
+
+The **Mages Guild** was long divided on the question of necromancy, with some Archmages tolerating it as a legitimate branch of magical research. Arkay's priests have always fought this position, arguing that necromancy is intrinsically evil regardless of the practitioner's intent.
+
+**Molag Bal**, the Daedric Prince who created the first vampires, is Arkay's supreme enemy. Vampirism is a permanent violation of the Law of Arkay, an obscene in-between state where a being is neither living nor dead. Arkay's priests and the **Vigils of Stendarr** frequently collaborate in hunting vampires.
+
+## Arkay Across Different Cultures
+
+For **Imperials**, Arkay is the god of funerary rites and guardian of cemeteries. His cult is deeply embedded in Imperial mortuary traditions, from the funeral vigil to burial to prayers for the deceased.
+
+Among the **Nords**, death is perceived differently. Valorous warriors hope to join **Sovngarde**, the paradise of the brave, rather than following Arkay's normal cycle. Nevertheless, the Nords respect Arkay under the name Orkey, acknowledging his role in the natural cycle even as they aspire to transcend it through heroic death.
+
+The **Redguards** have their own tradition of death-keepers, the Keepers of Tu'whacca, who fulfill a role similar to that of Arkay's priests. Tu'whacca is the Yokudan aspect of Arkay, guide of souls to their final rest in the Far Shores.
+
+The **Dunmer** have a complex relationship with death and ancestors. Their practice of communing with ancestral spirits, though technically a form of necromancy, is considered distinct because it rests on the consent of the spirits.
+
+## The Eternal Cycle
+
+Arkay's philosophy teaches that death is not an end but a transition. The souls of the deceased join **Aetherius** or are recycled into the flow of creation, fueling new lives. This cycle is considered sacred and necessary: without death, there would be no room for new births.
+
+This vision gives Arkay's cult a serenity not found in religions that see death as an enemy. For Arkay's priests, accompanying a dying person is an act as holy as blessing a newborn. Both moments are sacred passages in the eternal cycle.
+
+## Relics and Blessings
+
+Arkay's blessing grants resistance to necromantic magic and protection against disease. Faithful who wear the Amulet of Arkay are considered protected against attempts at reanimation after their death.
+
+Among the relics associated with Arkay, the Necromancer's Staff is paradoxically one of the most famous. This artifact, capable of commanding the undead, is kept by Arkay's priests not for use but to prevent it from falling into the wrong hands.

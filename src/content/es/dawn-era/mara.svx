@@ -1,0 +1,60 @@
+---
+title: "Mara"
+slug: "mara"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divinos", "amor", "compasión", "panteón", "religión"]
+timelineYear: -99970
+summary: "Mara, diosa del amor y la compasión, venerada en todos los panteones de Tamriel."
+sources: ["Varieties of Faith in the Empire", "The Ten Commands of the Nine Divines", "The Monomyth"]
+---
+
+## La Madre de los Mortales
+
+**Mara** es una de las diosas más universalmente veneradas de Tamriel. Conocida como la Madre de los Mortales, la Diosa del Amor y patrona de la compasión, ocupa un lugar central en el panteón de los **Divinos**. Su influencia trasciende las fronteras culturales y raciales, convirtiéndola en una de las raras deidades reconocidas bajo formas similares por casi todas las razas de **Nirn**.
+
+En la cosmología de la **Era del Alba**, Mara es uno de los et'Ada originales que respondieron al llamado de **Lorkhan** para crear el plano mortal. A diferencia de algunos Aedra que sacrificaron su poder a regañadientes, Mara es frecuentemente descrita como alguien que entregó voluntariamente una parte de su esencia divina por amor a la creación que estaba por venir.
+
+## Papel en los Distintos Panteones
+
+En el panteón imperial de los Ocho (luego Nueve) Divinos, Mara es la diosa del amor, la fertilidad y el matrimonio. Los templos de Mara celebran las uniones y ofrecen consejo a las parejas. Sus sacerdotisas son reconocidas en todo el Imperio como las oficiales legítimas de las ceremonias nupciales.
+
+Entre los **Nórdicos**, es conocida como Mara la Lágrima de Mano, diosa de la fertilidad y la familia. La tradición nórdica la presenta a veces como esposa de **Kyne** en ciertas versiones del mito, o como una sierva de los dioses que se apiadó de los mortales. Su lugar en el panteón nórdico es antiguo y está profundamente arraigado en la cultura de **Cielos del Norte**.
+
+Para los **Altmer**, Mara es reconocida pero ocupa una posición ligeramente diferente. Está asociada al amor en todas sus formas, incluido el amor filial y la devoción. Los Altos Elfos la consideran uno de los Aedra que contribuyeron a la creación, lo que tiñe su veneración con una ambivalencia característica de la teología altmer.
+
+Los **Bosmer** la veneran bajo un aspecto materno y protector, mientras que los **Cabeza Roja** la integran en su propia cosmología bajo formas adaptadas a su tradición yokudana.
+
+## Los Templos y el Culto de Mara
+
+Los templos de Mara están entre los más extendidos de Tamriel. Reconocibles por su atmósfera cálida y acogedora, sirven como refugios para los desesperados, los abandonados y los corazones rotos. Los sacerdotes y sacerdotisas de Mara se forman en el arte de la sanación emocional tanto como en la física.
+
+El Templo de Mara en Riften, en Cielos del Norte, es uno de los más célebres. Es aquí donde muchos aventureros vienen a celebrar su matrimonio siguiendo la tradición que porta el Amuleto de Mara. Este amuleto es un símbolo reconocido en toda la provincia: llevarlo significa que uno busca un compañero de vida.
+
+Las bendiciones de Mara son buscadas por los sanadores, pues su favor otorga mayor resistencia a la magia y una capacidad de curación mejorada. Sus fieles creen firmemente que el amor es la fuerza más poderosa del universo, capaz de trascender incluso la muerte.
+
+## Mara y la Restauración
+
+La magia de Restauración está íntimamente ligada al culto de Mara. Los hechizos de curación más poderosos suelen asociarse con su bendición, y muchos maestros de la Restauración son también devotos de la diosa. La escuela de Restauración en los distintos gremios y academias mágicas enseña que la compasión es un requisito previo para dominar estas artes.
+
+Los **Vigilantes de Stendarr**, aunque principalmente devotos de **Stendarr**, reconocen en Mara una aliada natural en su lucha contra las fuerzas del mal. La compasión de Mara y la justicia de Stendarr se consideran complementarias en la protección de los inocentes.
+
+## Artefactos y Reliquias
+
+El Amuleto de Mara es sin duda el símbolo más conocido asociado a la diosa. Un simple colgante en apariencia, representa el compromiso y la apertura del corazón. Pero más allá de este objeto común, existen reliquias más poderosas atribuidas a Mara.
+
+El Bastón de Mara, un artefacto raro, es capaz de transformar la hostilidad en benevolencia. Los relatos hablan también de santuarios bendecidos por la propia Mara, donde los enfermos y heridos pueden encontrar una curación milagrosa.
+
+## Doctrinas y Enseñanzas
+
+Las enseñanzas de Mara giran en torno al amor incondicional, la compasión universal y el perdón. Sus fieles son animados a ver lo mejor en cada ser, a ofrecer ayuda y consuelo sin juzgar, y a cultivar vínculos de afecto sincero con el prójimo.
+
+La doctrina de Mara enseña que el amor no es una debilidad sino la más grande de las fortalezas. Frente a las tinieblas de **Sithis** y las tentaciones de los **Príncipes Daedrikos**, el amor de Mara ofrece un escudo tan sólido como cualquier armadura. Sus sacerdotes consideran que incluso las almas más corrompidas pueden redimirse con un amor sincero y persistente.
+
+Las festividades consagradas a Mara son ocasiones para celebrar el amor en todas sus formas: romántico, familiar, amistoso y universal. Estas celebraciones se marcan con festines comunitarios, intercambios de regalos y renovaciones de votos.
+
+## Mara en los Eventos Históricos
+
+Durante la **Crisis de Oblivion**, los templos de Mara sirvieron de refugios para las poblaciones civiles que huían de las invasiones daédricas. Las sacerdotisas curaron a innumerables heridos y ofrecieron consuelo a los afligidos. La fe en Mara fue un pilar de la resistencia moral de los pueblos de Tamriel ante el horror de las puertas de Oblivion.
+
+Durante la guerra civil en Cielos del Norte, los templos de Mara permanecieron neutrales, ofreciendo refugio y curación a ambos bandos. Esta neutralidad es característica de la filosofía de Mara: el amor y la compasión no conocen bandos políticos.

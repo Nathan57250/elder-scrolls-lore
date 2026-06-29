@@ -1,0 +1,62 @@
+---
+title: "Kynareth"
+slug: "kynareth"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divinos", "cielos", "viento", "naturaleza", "kyne", "nórdicos"]
+timelineYear: -99935
+summary: "Kynareth, también llamada Kyne, diosa de los cielos y el viento, la primera en aceptar el plan de Lorkhan."
+sources: ["Varieties of Faith in the Empire", "The Book of the Divines", "Kyne and the Nords", "The Monomyth"]
+---
+
+## La Diosa de los Cielos
+
+**Kynareth**, conocida como Kyne entre los **Nórdicos**, es la Divina de los cielos, el viento y la naturaleza. Es la diosa del soplo de vida, señora de los elementos atmosféricos y patrona de viajeros y marineros. En la jerarquía de los **Divinos**, ocupa un lugar de honor como la primera de los et'Ada en aceptar el plan de **Lorkhan** para crear el plano mortal.
+
+Este papel pionero en la creación de **Mundus** le confiere a Kynareth un estatus especial. Según el Monomito, fue su acuerdo lo que permitió a los demás espíritus divinos unirse al proyecto. Sin su voluntad y su valor, Mundus quizás nunca habría existido. Ella dio al mundo sus cielos, su atmósfera y sus vientos, creando el espacio mismo en el que la vida podría desarrollarse.
+
+## Kyne, la Viuda de Shor
+
+En la tradición nórdica, Kyne es una figura mucho más poderosa y trágica que la apacible Kynareth del panteón imperial. Es la Viuda de Shor (el aspecto nórdico de Lorkhan), una guerrera diosa del viento y la tormenta cuyas lágrimas forman la lluvia que cae sobre Cielos del Norte.
+
+Kyne es la madre de los nórdicos en su mitología. Según la leyenda, fue ella quien insufló el soplo de vida a los primeros hombres en la Garganta del Mundo. Los **Thu'um**, los Gritos de poder que dominan los Nacidos del Dragón, son un don de Kyne a los mortales, transmitido a través de **Paarthurnax** y los Barbas Grises.
+
+La tradición de Kyne es inseparable de la cultura guerrera nórdica. Los guerreros oran a Kyne antes de la batalla para que guíe sus flechas y el viento les sea favorable. Los cazadores honran a Kyne antes de cada muerte, reconociendo que la vida del animal es un don de la diosa de la naturaleza.
+
+## El Thu'um y el Don de la Voz
+
+El vínculo entre Kynareth/Kyne y el **Thu'um** es fundamental para la cultura de Cielos del Norte. Los Gritos de poder son esencialmente manipulaciones del soplo divino de Kyne, la misma fuerza que dio vida a los primeros mortales. Usar el Thu'um es literalmente hablar con el aliento de la diosa.
+
+Los **Barbas Grises** del Alto Hrothgar son los devotos más célebres de Kynareth. Su monasterio, encaramado en la cima de la Garganta del Mundo, es el lugar más cercano al cielo de todo Tamriel, un santuario azotado por los vientos eternos que los monjes consideran la propia voz de Kyne.
+
+La Guerra de los Dragones de la Primera Era fue posible gracias al don del Thu'um. Kyne, por compasión hacia los mortales oprimidos por el **Culto del Dragón**, permitió a Paarthurnax enseñar el Thu'um a los humanos, dándoles el arma necesaria para liberarse de la tiranía dracónica.
+
+## Kynareth y la Naturaleza
+
+Más allá de los vientos y los cielos, Kynareth es la diosa de la naturaleza salvaje. Los bosques, las llanuras, las montañas y los ríos están todos bajo su protección. Los animales salvajes son sus hijos, y los cazadores que matan sin respetar el equilibrio natural atraen su cólera.
+
+El Bosquecillo de Kynareth en Blancorríos es uno de los lugares más sagrados de Cielos del Norte. El Gildergreen, que crece en ese bosquecillo, es un descendiente del Árbol Anciano y un símbolo vivo de la bendición de Kynareth sobre la tierra de Cielos del Norte.
+
+Los **Bosmer** del Bosque de Valento reconocen en Kynareth un aspecto de Y'ffre, el dios del bosque y la naturaleza, aunque los teólogos imperiales discuten esta equivalencia. El Pacto Verde de los Bosmer, que les prohíbe dañar la vegetación, es sin embargo compatible con las enseñanzas de Kynareth sobre el respeto a la naturaleza.
+
+## Los Templos y los Santuarios
+
+El Templo de Kynareth en Blancorríos es el centro más importante de su culto en Cielos del Norte. La gran sacerdotisa Danica Primavera-Pura oficia allí, curando a los enfermos y cuidando el Gildergreen. Los sanadores que veneran a Kynareth se especializan en remedios naturales y cuidados con hierbas.
+
+Los santuarios de Kynareth se encuentran a menudo al aire libre, en las cimas de las colinas o en los claros del bosque. A diferencia de los templos cerrados de otros Divinos, los de Kynareth están abiertos a los elementos, permitiendo que el viento circule libremente como una presencia divina constante.
+
+La bendición de Kynareth otorga mayor resistencia y protección frente a los efectos de las inclemencias del tiempo. Los viajeros y exploradores la buscan antes de aventurarse en las regiones salvajes de Tamriel.
+
+## Kynareth y los Otros Divinos
+
+La relación de Kynareth con los demás Divinos es la de una hermana mayor benevolente. Su valentía inicial al aceptar el plan de Lorkhan le granjea el respeto de todos los demás et'Ada que la siguieron. El propio **Akatosh** es frecuentemente descrito como alguien que esperó el asentimiento de Kynareth antes de comprometerse plenamente con la creación.
+
+Con **Mara**, Kynareth comparte un aspecto materno y protector, aunque donde Mara protege a través del amor y la compasión, Kynareth protege a través de la fuerza de la naturaleza y el poder de los elementos. Juntas, representan las dos caras de la feminidad divina en el panteón.
+
+Su vínculo con Lorkhan/Shor es el más conmovedor. Como Kyne, es la eterna viuda de un dios muerto, condenada a llorar a un esposo cuyo corazón fue arrancado y transformado en montaña. Esta pena divina es considerada por los nórdicos la fuente de la melancolía de los días de lluvia.
+
+## Legado e Influencia
+
+La influencia de Kynareth en Tamriel se manifiesta en cada ráfaga de viento, cada tormenta y cada estación que gira. Los agricultores, los marineros y los viajeros dependen de su benevolencia a diario. Sin sus cielos protectores, la vida en Nirn sería imposible, expuesta a los rigores del vacío de **Oblivion**.
+
+En la Cuarta Era, el culto de Kynareth sigue siendo uno de los más activos en Cielos del Norte, sustentado por el redescubrimiento del Thu'um y el regreso de los dragones. La diosa que dio a los mortales el poder de la Voz es más relevante que nunca en una era en la que los dragones vuelven a amenazar el mundo.

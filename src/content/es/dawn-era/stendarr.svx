@@ -1,0 +1,58 @@
+---
+title: "Stendarr"
+slug: "stendarr"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divinos", "misericordia", "justicia", "vigilantes", "religión"]
+timelineYear: -99960
+summary: "Stendarr, dios de la misericordia y la justicia, patrón de los Vigilantes que cazan abominaciones."
+sources: ["Varieties of Faith in the Empire", "The Book of the Divines", "The Vigilants of Stendarr"]
+---
+
+## El Dios de la Misericordia
+
+**Stendarr** es el Divino de la misericordia, la justicia y la caridad. Entre los **Divinos**, representa el equilibrio entre la compasión y la firmeza, ofreciendo su protección a los justos mientras castiga a los impíos. Su papel en el panteón imperial es el de guardián de los débiles y defensor de los oprimidos frente a las fuerzas del mal.
+
+Durante la **Era del Alba**, Stendarr fue uno de los et'Ada originales que participaron en la creación de **Mundus**. Su contribución al plano mortal está asociada al establecimiento de los principios fundamentales de justicia y piedad que rigen las interacciones entre los seres conscientes. Sin su influencia, dicen los teólogos, el mundo sería un lugar de crueldad sin límites.
+
+## La Teología de Stendarr
+
+La doctrina de Stendarr descansa sobre dos pilares aparentemente contradictorios: la misericordia hacia los inocentes y la intolerancia absoluta ante el mal. Esta dualidad está en el corazón de su culto. Stendarr enseña que la verdadera justicia no es ciega sino iluminada por la compasión, y que la verdadera misericordia no puede tolerar que el mal prospere.
+
+En el panteón imperial, Stendarr es invocado con frecuencia por jueces, carceleros y verdugos que buscan ejercer sus funciones con equidad. Los soldados oran a Stendarr antes de la batalla para que les conceda la fuerza de proteger a los inocentes y la sabiduría de distinguir al enemigo del civil.
+
+Entre los **Nórdicos**, Stendarr es conocido como Stuhn, el dios de los rescates y la clemencia hacia los prisioneros de guerra. Esta versión nórdica pone el énfasis en el honor en la victoria y la dignidad concedida a los vencidos, un valor profundamente arraigado en la cultura guerrera del norte.
+
+Los **Bretones** de Roca Alta tienen un culto especialmente ferviente a Stendarr, integrando sus enseñanzas en su complejo sistema jurídico y su tradición caballeresca.
+
+## Los Vigilantes de Stendarr
+
+La orden más célebre dedicada a Stendarr es la de los Vigilantes de Stendarr, un grupo de cazadores militantes consagrados a la erradicación de las abominaciones de Tamriel. Fundados tras la **Crisis de Oblivion** de la Tercera Era, los Vigilantes juraron rastrear y destruir toda presencia daédrica, no-muerta o licantrópica en el plano mortal.
+
+Los Vigilantes patrullan los caminos y las regiones salvajes de Tamriel, buscando señales de actividad daédrica o necromántica. Su cuartel general en Cielos del Norte, el Salón de los Vigilantes, servía de base de operaciones para sus expediciones por la provincia. Desafortunadamente, este bastión fue destruido por los vampiros del clan Volkihar durante su resurgimiento en la Cuarta Era.
+
+Los métodos de los Vigilantes son criticados con frecuencia por su brutalidad. Su celo en purgar a los adoradores de los Daedra y las criaturas sobrenaturales los lleva a veces a excesos que algunos consideran contrarios al espíritu mismo de misericordia predicado por Stendarr. Esta tensión entre justicia y compasión está en el núcleo de los debates internos de la orden.
+
+## Bendiciones y Magia
+
+La bendición de Stendarr otorga resistencia a los efectos mágicos y protección frente a las fuerzas daédricas. Los sanadores que invocan a Stendarr se especializan en hechizos de protección y destierro, creando barreras contra las influencias maléficas.
+
+La magia asociada a Stendarr es principalmente defensiva. Los hechizos de Protección y los círculos de destierro son las especialidades de sus sacerdotes. El Aura de Stendarr, un hechizo emblemático de los Vigilantes, permite detectar y dañar a los no-muertos en un radio alrededor del lanzador.
+
+Las reliquias de Stendarr incluyen el Martillo de la Justicia, capaz de desterrar a los Daedra de un solo golpe, y el Escudo del Misericordioso, que absorbe los ataques mágicos dirigidos a su portador.
+
+## Stendarr y los Príncipes Daedrikos
+
+La relación entre Stendarr y los **Príncipes Daedrikos** es una oposición fundamental. Entre todos los Divinos, Stendarr es aquel cuyo culto se opone más activamente a las fuerzas de **Oblivion**. Donde otros Divinos ignoran o toleran la existencia de los Daedra, Stendarr los considera abominaciones que deben ser purgadas.
+
+Esta oposición es especialmente marcada contra **Molag Bal**, el Príncipe de la dominación y la violación, cuyas creaciones (vampiros y otros no-muertos) son los principales objetivos de los Vigilantes. El odio entre los fieles de Stendarr y los servidores de Molag Bal es ancestral e irreconciliable.
+
+**Mehrunes Dagon**, el Príncipe de la destrucción, es igualmente un enemigo jurado de Stendarr. La Crisis de Oblivion que motivó la creación de los Vigilantes fue obra de Dagon, y las cicatrices dejadas por esa invasión aún alimentan la rabia sagrada de los fieles de Stendarr.
+
+## Legado e Influencia
+
+La influencia de Stendarr en la civilización de Tamriel es considerable. Los códigos de justicia de muchas naciones se inspiran en sus enseñanzas, intentando equilibrar castigo y rehabilitación. Los hospicios y refugios para los pobres llevan a menudo su nombre, recordando que la misericordia hacia los desposeídos es un deber sagrado.
+
+En la Cuarta Era, el culto de Stendarr experimenta un renacimiento, impulsado por las crecientes amenazas de vampiros, adoradores de los Daedra y nigromantes. Los Vigilantes reclutan activamente entre aventureros y soldados desmovilizados, ofreciendo sentido y misión a quienes buscan proteger a los inocentes.
+
+La dualidad de Stendarr, entre dulzura y severidad, sigue inspirando debates teológicos. ¿Es posible ser misericordioso siendo al mismo tiempo implacable? Los fieles de Stendarr responden que sí: la misericordia se dirige a las víctimas, la implacabilidad a los verdugos.

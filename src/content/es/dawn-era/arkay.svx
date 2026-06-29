@@ -1,0 +1,62 @@
+---
+title: "Arkay"
+slug: "arkay"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divinos", "muerte", "vida", "ciclo", "nigromancia", "religión"]
+timelineYear: -99940
+summary: "Arkay, dios del ciclo de la vida y la muerte, guardián de la frontera entre los vivos y los muertos."
+sources: ["Varieties of Faith in the Empire", "Arkay the God", "The Book of the Divines", "The Arkay Doctrine"]
+---
+
+## El Guardián del Ciclo
+
+**Arkay** es el Divino de los ciclos de la vida y la muerte, el guardián de la sagrada frontera que separa a los vivos de los muertos. Entre los **Divinos**, ocupa una posición solemne pero esencial: sin él, las almas nunca encontrarían descanso y los muertos nunca dejarían paso a los vivos. Es el dios de los funerales, los nacimientos y todo lo que marca las transiciones de la existencia mortal.
+
+Los mitos de la **Era del Alba** presentan dos versiones contradictorias del origen de Arkay. La primera lo describe como un et'Ada original que limitó voluntariamente su poder para crear el ciclo de la mortalidad en **Mundus**. La segunda, más controvertida, afirma que Arkay fue un mortal, un comerciante moribundo que fue elevado a la divinidad por **Mara** por su devoción excepcional.
+
+## La Ley de Arkay
+
+El principio más fundamental del culto de Arkay se conoce como la Ley de Arkay o Bendición de Arkay. Esta ley divina establece una barrera sagrada entre la vida y la muerte: los muertos deben permanecer muertos, y los vivos deben vivir plenamente hasta que llegue su hora de forma natural.
+
+Esta ley es la base de la oposición absoluta del culto de Arkay a la **nigromancia**. Animar un cadáver, atar un alma o transformar a un ser vivo en no-muerto son violaciones directas de la Ley de Arkay: crímenes contra el orden natural del universo. Los sacerdotes de Arkay dedican gran parte de su tiempo a combatir a los nigromantes y a purificar los lugares contaminados por la no-muerte.
+
+La Bendición de Arkay es un ritual practicado sobre los cuerpos de los difuntos para impedir su posterior animación. Este ritual sella el cuerpo contra la nigromancia, haciendo imposible su reanimación por medios mágicos. En las sociedades civilizadas de Tamriel, este ritual forma parte integral de los ritos funerarios.
+
+## Los Sacerdotes y los Templos
+
+Los sacerdotes de Arkay son a la vez guías espirituales para los moribundos, oficiantes funerarios y cazadores de no-muertos. Su formación abarca la teología del ciclo vital, los ritos funerarios de múltiples culturas y las técnicas para destruir a los no-muertos.
+
+Los templos de Arkay están invariablemente situados cerca de cementerios y criptas. Sirven como lugares de recogimiento para los afligidos, capillas ardientes para los difuntos y puestos de guardia frente a las incursiones necrománticas. La arquitectura de estos templos es sobria y solemne, con símbolos del ciclo eterno.
+
+El Salón de los Muertos, presente en cada ciudad de Cielos del Norte, es un templo de Arkay en miniatura. Sus guardianes velan por los restos de los ciudadanos fallecidos y se aseguran de que se realicen los ritos apropiados para garantizar el descanso de las almas.
+
+## Arkay y la Nigromancia
+
+La oposición entre Arkay y la nigromancia es uno de los conflictos más antiguos y fundamentales de Tamriel. Los nigromantes violan la Ley de Arkay cada vez que practican su arte, convirtiéndolos en los enemigos naturales del culto.
+
+El **Gremio de Magos** estuvo durante mucho tiempo dividido sobre la cuestión de la nigromancia, con algunos Archimagos tolerándola como una rama legítima de la investigación mágica. Los sacerdotes de Arkay siempre han combatido esta posición, argumentando que la nigromancia es intrínsecamente maléfica con independencia de la intención del practicante.
+
+**Molag Bal**, el Príncipe Daédrico que creó los primeros vampiros, es el enemigo supremo de Arkay. El vampirismo es una violación permanente de la Ley de Arkay, un estado intermedio obsceno en el que un ser no está ni vivo ni muerto. Los sacerdotes de Arkay y los **Vigilantes de Stendarr** colaboran con frecuencia en la caza de vampiros.
+
+## Arkay en las Distintas Culturas
+
+Para los **Imperiales**, Arkay es el dios de los ritos funerarios y el guardián de los cementerios. Su culto está profundamente arraigado en las tradiciones mortuorias imperiales, desde la vigilia fúnebre hasta el entierro, pasando por las oraciones por los difuntos.
+
+Entre los **Nórdicos**, la muerte se percibe de forma diferente. Los guerreros valerosos esperan unirse a **Sovngarde**, el paraíso de los valientes, en lugar de seguir el ciclo normal de Arkay. No obstante, los nórdicos respetan a Arkay bajo el nombre de Orkey, reconociendo su papel en el ciclo natural aunque aspiren a trascenderlo mediante la muerte heroica.
+
+Los **Cabeza Roja** tienen su propia tradición de guardianes de los muertos, los Guardianes de Tu'whacca, que cumplen un papel similar al de los sacerdotes de Arkay. Tu'whacca es el aspecto yokudano de Arkay, guía de las almas hacia su descanso final en las Costas Lejanas.
+
+Los **Dunmer** tienen una relación compleja con la muerte y los antepasados. Su práctica de comunicación con los espíritus ancestrales, aunque técnicamente una forma de nigromancia, se considera distinta porque descansa en el consentimiento de los espíritus.
+
+## El Ciclo Eterno
+
+La filosofía de Arkay enseña que la muerte no es un fin sino una transición. Las almas de los difuntos se unen a **Aetherius** o son recicladas en el flujo de la creación, alimentando nuevas vidas. Este ciclo se considera sagrado y necesario: sin la muerte, no habría lugar para nuevos nacimientos.
+
+Esta visión dota al culto de Arkay de una serenidad que no se encuentra en las religiones que ven la muerte como un enemigo. Para los sacerdotes de Arkay, acompañar a un moribundo es un acto tan sagrado como bendecir a un recién nacido. Ambos momentos son tránsitos sagrados en el ciclo eterno.
+
+## Reliquias y Bendiciones
+
+La bendición de Arkay otorga resistencia a la magia necromántica y protección contra las enfermedades. Los fieles que llevan el amuleto de Arkay son considerados protegidos contra los intentos de reanimación después de su muerte.
+
+Entre las reliquias asociadas a Arkay, el Bastón del Nigromante es paradójicamente una de las más célebres. Este artefacto, capaz de dominar a los no-muertos, es guardado por los sacerdotes de Arkay no para usarlo sino para evitar que caiga en malas manos.

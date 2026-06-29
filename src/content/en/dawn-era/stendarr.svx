@@ -1,0 +1,58 @@
+---
+title: "Stendarr"
+slug: "stendarr"
+era: "dawn-era"
+category: "aedra"
+tags: ["aedra", "divines", "mercy", "justice", "vigils", "religion"]
+timelineYear: -99960
+summary: "Stendarr, god of mercy and justice, patron of the Vigilants who hunt abominations."
+sources: ["Varieties of Faith in the Empire", "The Book of the Divines", "The Vigilants of Stendarr"]
+---
+
+## The God of Mercy
+
+**Stendarr** is the Divine of mercy, justice, and charity. Among the **Divines**, he represents the balance between compassion and firmness, offering his protection to the righteous while punishing the wicked. His role in the Imperial pantheon is that of guardian of the weak and defender of the oppressed against the forces of evil.
+
+During the **Dawn Era**, Stendarr was one of the original et'Ada who participated in the creation of **Mundus**. His contribution to the mortal plane is associated with the establishment of the fundamental principles of justice and pity that govern interactions between conscious beings. Without his influence, theologians say, the world would be a place of limitless cruelty.
+
+## The Theology of Stendarr
+
+Stendarr's doctrine rests on two seemingly contradictory pillars: mercy toward the innocent and absolute intolerance of evil. This duality is at the heart of his cult. Stendarr teaches that true justice is not blind but enlightened by compassion, and that true mercy cannot allow evil to flourish.
+
+In the Imperial pantheon, Stendarr is often invoked by judges, prison wardens, and executioners who seek to carry out their duties with fairness. Soldiers pray to Stendarr before battle to grant them the strength to protect the innocent and the wisdom to distinguish enemy from civilian.
+
+Among the **Nords**, Stendarr is known as Stuhn, the god of ransoms and clemency toward prisoners of war. This Nordic version emphasizes honor in victory and dignity granted to the defeated, a value deeply ingrained in the warrior culture of the north.
+
+The **Bretons** of High Rock hold a particularly fervent cult of Stendarr, integrating his teachings into their complex legal system and chivalric tradition.
+
+## The Vigils of Stendarr
+
+The most celebrated order dedicated to Stendarr is the Vigils of Stendarr, a group of militant hunters sworn to eradicate abominations from Tamriel. Founded after the **Oblivion Crisis** of the Third Era, the Vigilants vowed to track down and destroy any Daedric, undead, or lycanthropic presence on the mortal plane.
+
+The Vigilants patrol the roads and wilderness of Tamriel, seeking signs of Daedric or necromantic activity. Their headquarters in Skyrim, the Hall of the Vigilant, served as a base of operations for their expeditions throughout the province. Unfortunately, this stronghold was destroyed by the vampires of Clan Volkihar during their resurgence in the Fourth Era.
+
+The Vigilants' methods are often criticized for their brutality. Their zeal in purging Daedra worshippers and supernatural creatures sometimes leads them to excesses that some consider contrary to the very spirit of mercy preached by Stendarr. This tension between justice and compassion lies at the heart of the order's internal debates.
+
+## Blessings and Magic
+
+Stendarr's blessing grants resistance to magical effects and protection against Daedric forces. Healers who invoke Stendarr specialize in protection spells and banishment, creating barriers against malevolent influences.
+
+The magic associated with Stendarr is primarily defensive. Protection spells and banishment circles are the specialties of his priests. Stendarr's Aura, an emblematic spell of the Vigilants, allows the detection and injury of the undead within a radius around the caster.
+
+Stendarr's relics include the Hammer of Justice, capable of banishing Daedra in a single blow, and the Shield of the Merciful, which absorbs magical attacks directed at its bearer.
+
+## Stendarr and the Daedric Princes
+
+The relationship between Stendarr and the **Daedric Princes** is a fundamental opposition. Among all the Divines, Stendarr is the one whose cult most actively opposes the forces of **Oblivion**. Where other Divines ignore or tolerate the existence of Daedra, Stendarr considers them abominations to be purged.
+
+This opposition is particularly pronounced against **Molag Bal**, the Prince of domination and violation, whose creations (vampires and other undead) are the primary targets of the Vigilants. The hatred between Stendarr's faithful and the servants of Molag Bal is ancient and irreconcilable.
+
+**Mehrunes Dagon**, the Prince of destruction, is likewise a sworn enemy of Stendarr. The Oblivion Crisis that motivated the creation of the Vigilants was Dagon's work, and the scars left by that invasion still fuel the holy rage of Stendarr's faithful.
+
+## Legacy and Influence
+
+Stendarr's influence on Tamrielic civilization is considerable. The justice codes of many nations draw on his teachings, attempting to balance punishment with rehabilitation. Hospices and shelters for the poor often bear his name, a reminder that mercy toward the destitute is a sacred duty.
+
+In the Fourth Era, the cult of Stendarr experiences a renewal, driven by the growing threats of vampires, Daedra worshippers, and necromancers. The Vigilants actively recruit among adventurers and demobilized soldiers, offering purpose and mission to those who seek to protect the innocent.
+
+Stendarr's duality, between gentleness and severity, continues to inspire theological debate. Is it possible to be merciful while remaining implacable? Stendarr's faithful answer yes: mercy is for the victims, implacability for the perpetrators.

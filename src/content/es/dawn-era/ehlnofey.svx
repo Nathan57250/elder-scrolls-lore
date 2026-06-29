@@ -1,0 +1,50 @@
+---
+title: "Los Ehlnofey, antepasados de los mortales"
+slug: "ehlnofey"
+era: "dawn-era"
+category: "races"
+tags: ["ehlnofey", "creación", "guerra", "antepasados", "mortales"]
+timelineYear: -99700
+summary: "La historia de los Ehlnofey, espíritus primordiales que se convirtieron en los antepasados de todas las razas mortales de Nirn."
+sources: ["The Annotated Anuad", "Before the Ages of Man", "Shezzar and the Divines"]
+---
+
+## Los Espíritus Originales
+
+Los **Ehlnofey** fueron entre los primeros espíritus en habitar **Nirn** tras su creación durante la **Convención**. Estos seres, ni del todo divinos ni del todo mortales, representaban una etapa intermedia en la degradación de los et'Ada originales. A diferencia de los **Daedra**, que se negaron a participar en la creación, los Ehlnofey eligieron permanecer en Mundus, sacrificando parte de su esencia divina para dar forma al mundo.
+
+Su naturaleza exacta sigue siendo objeto de debate entre los eruditos. Algunos los describen como fragmentos de los **Aedra** originales, pedazos de divinidad esparcidos durante el acto de la creación. Otros los consideran espíritus menores que orbitaban alrededor de las grandes fuerzas creadoras. Lo que es cierto es que poseían un poder muy superior al de los mortales que los sucederían.
+
+Los Ehlnofey habitaban un mundo todavía maleable, donde las leyes de la física no estaban del todo fijadas. La geografía de **Nirn** en esa época era radicalmente diferente a la que conocemos hoy: un único supercontinente rodeado de aguas primordiales, bajo un cielo donde **Aetherius** brillaba a través de los agujeros dejados por **Magnus** en su huida.
+
+## La División de los Ehlnofey
+
+Con el tiempo, los Ehlnofey se dividieron en dos grupos distintos, separados por catástrofes geológicas que fragmentaron su continente original. Los **Ehlnofey Errantes** quedaron dispersos por el mundo, obligados a viajar y adaptarse a entornos hostiles. Su existencia nómada los endureció y los transformó profundamente.
+
+Los **Ehlnofey Asentados**, por su parte, conservaron su territorio original, un fragmento relativamente preservado del antiguo mundo. Mantuvieron más de su herencia espiritual y su conexión con las fuerzas divinas. Su civilización, aunque mermada respecto a la era de la creación, siguió siendo más sofisticada y más cercana al estado original.
+
+Esta separación no fue solo una división geográfica. Generó diferencias culturales, espirituales e incluso físicas fundamentales. Los Errantes se volvieron más robustos, más adaptables, mientras que los Asentados conservaron una gracia y longevidad superiores. Estas diferencias serían el origen de un conflicto devastador.
+
+## La Guerra de los Ehlnofey
+
+Cuando los dos grupos se volvieron a encontrar, el reconocimiento mutuo cedió rápidamente paso a la incomprensión y el conflicto. La **Guerra de los Ehlnofey** fue un cataclismo de dimensiones inimaginables, un conflicto que remodeló literalmente la faz de **Nirn**. Las fuerzas desplegadas por estos seres semidivinos superaban todo lo que los mortales jamás podrían reproducir.
+
+Los continentes fueron rotos y reformados. Los océanos surgieron donde antes se extendían llanuras. Cadenas montañosas se elevaron en instantes bajo el poder de los combates. El mundo único de los orígenes quedó fracturado en los continentes que conocemos hoy: **Tamriel**, **Akavir**, **Atmora**, **Yokuda** y las demás tierras lejanas.
+
+La guerra no tuvo un verdadero vencedor. Ambos bandos quedaron diezmados, y los supervivientes, exhaustos y disminuidos, no eran más que la sombra de sus antepasados. Esta disminución progresiva marcó la transición definitiva hacia la condición mortal. Cada generación nacía un poco más débil, un poco más efímera, hasta que los Ehlnofey dejaron de existir como tales.
+
+## La Herencia Racial
+
+De los Ehlnofey Asentados nacieron los antepasados de los **Mer**, las razas élficas de Tamriel. Los **Aldmer**, primeros entre los elfos, conservaron con mayor fidelidad la herencia de sus antepasados. De ellos descendieron los **Altmer**, los **Bosmer**, los **Dunmer**, los **Orsimer** y todas las demás razas élficas. Su longevidad, su afinidad natural con la magia y su estructura social jerárquica dan testimonio de esta filiación.
+
+De los Ehlnofey Errantes nacieron los antepasados de los **Hombres**. Los **Néde**, los **Atmoranos**, los **Yokudanos** y los **Cabeza Roja** llevan todos en ellos la herencia de estos nómadas endurecidos. Su robustez, su adaptabilidad y su determinación para conquistar nuevos territorios reflejan la naturaleza errante de sus progenitores.
+
+Los **Argonios** y los **Khajiit** representan casos particulares. Los primeros fueron transformados por los **Hist**, entidades quizás anteriores a los propios Ehlnofey. Los segundos fueron moldeados por **Azura** a partir de los Bosmer, según algunas tradiciones, aunque los propios Khajiit rechazan esta interpretación.
+
+## Implicaciones Metafísicas
+
+La transición de los Ehlnofey hacia las razas mortales plantea preguntas fundamentales sobre la naturaleza de la existencia en **Nirn**. Si los mortales son verdaderamente descendientes de seres semidivinos, entonces cada ser vivo lleva en sí un fragmento infinitesimal de divinidad. Esta idea está en el corazón de muchas tradiciones religiosas y filosóficas de **Tamriel**.
+
+Los **Psíjicos** enseñan que la mortalidad no es más que un velo, y que la naturaleza divina original puede recuperarse mediante la meditación y la disciplina. Los **Thalmor** llevan esta lógica a su extremo, buscando deshacer la creación misma para restaurar el estado divino original de los Mer. Las tradiciones nórdicas, por el contrario, celebran la condición mortal como un don, una liberación de las cadenas de la eternidad.
+
+La memoria de los Ehlnofey sobrevive en los mitos de todas las culturas de Tamriel, bajo nombres distintos e interpretaciones variadas. Pero todos coinciden en un punto: somos hijos de seres más grandes que nosotros, y nuestro mundo fue forjado en la sangre de una guerra cuyas cicatrices aún son visibles en la propia geografía de **Nirn**.
