@@ -1,0 +1,66 @@
+---
+title: "The Night of Tears at Saarthal"
+slug: "night-of-tears"
+era: "merethic-era"
+category: "evenements"
+tags: ["saarthal", "night-of-tears", "eye-of-magnus", "nords", "snow-elves", "ysgramor"]
+timelineYear: -400
+summary: "The devastating attack of the Snow Elves on the Nordic settlement of Saarthal and the discovery of the Eye of Magnus."
+sources: ["The Night of Tears", "Songs of Return", "Among the Falmer", "Journal of the Saarthal Expedition"]
+---
+
+## The Context: Saarthal, First City of Men
+
+**Saarthal** was the first major settlement established by the **Atmorans** on the continent of **Tamriel**, founded by **Ysgramor** and his companions during their initial migration from **Atmora**. Located in what would become **Skyrim**, in the frozen tundra north of present-day **Winterhold**, Saarthal represented the first permanent foothold of Men on the continent.
+
+The colony grew quickly. The Atmorans, accustomed to the rigors of Atmora's climate, found in Skyrim a land cold but rich in resources. They cleared, built, and expanded, establishing initially peaceful — or at least non-belligerent — relations with the **Falmer**, the Snow Elves who had inhabited the region for millennia.
+
+But this apparently peaceful coexistence concealed deep tensions. The Snow Elves watched with unease as the human population grew rapidly, and above all, they coveted something the Atmorans had discovered in the depths beneath Saarthal.
+
+## The Eye of Magnus
+
+Beneath Saarthal's foundations, Atmoran builders discovered an artifact of unimaginable power: the **Eye of Magnus**. This mysterious object, a massive sphere pulsing with magical energy, is associated with **Magnus**, the divine architect who designed the plan of **Mundus** before fleeing to **Aetherius** at the moment of Creation.
+
+The exact nature of the Eye remains debated by scholars. Some believe it is a fragment of Magnus's power left behind when he fled. Others suggest it is a tool used during the creation of the world, accidentally abandoned. Still others argue it was placed intentionally as a trap or a test.
+
+What is certain is that the Eye contains a practically unlimited quantity of magical power, capable of altering reality itself. The Atmorans, a warrior people little versed in the magical arts, likely did not fully comprehend what they had found. The Snow Elves, on the other hand, immediately grasped its significance.
+
+## The Night of the Attack
+
+The attack came without true warning. On a glacial night, the combined forces of the **Falmer** struck Saarthal with total, coordinated violence. The assault was not aimed at ordinary conquest or pillage — it aimed at the complete annihilation of the human presence.
+
+The Snow Elves attacked from all sides, using their magic and numerical superiority to overwhelm Atmoran defenses. The colony, though fortified, was not prepared for an offensive of such scale. The fighting was brief and devastating.
+
+Nearly the entire population of Saarthal was massacred that night. Men, women, children — the Falmer made no distinction. The brutality of the attack exceeded the framework of a simple territorial conflict; it was an attempt at extermination motivated by fear of what humans might become and by desire for the Eye of Magnus.
+
+## Ysgramor's Escape
+
+Among the very few survivors of the Night of Tears was **Ysgramor** himself, accompanied by his two sons, **Yngol** and **Ylgar**. The Nordic tradition recounts that Ysgramor fought with desperate ferocity to carve his way out of the burning city.
+
+The flight to the coasts and the crossing of the Sea of Ghosts back to Atmora was an ordeal. Ysgramor, an indomitable warrior, was broken by grief. The **Songs of Return** describe his tears, so abundant that his sons feared he would drown in his own sorrow.
+
+It was this grief that gave the event its name: the **Night of Tears**. Ysgramor's tears for his slaughtered people became the symbol of this founding tragedy, and the source of the vengeful fury that would follow.
+
+## The Vengeance and the Five Hundred Companions
+
+Back in Atmora, Ysgramor transformed his pain into rage and his rage into mission. He gathered the **Five Hundred Companions**, an elite army composed of Atmora's finest warriors, and undertook to return to Tamriel not as a peaceful settler but as an avenging conqueror.
+
+The Return of the Five Hundred Companions marked the beginning of the **War of the Companions** against the Snow Elves. This military campaign was brutal in a way that answered the brutality of the Night of Tears. Ysgramor and his warriors were not seeking coexistence — they sought total domination.
+
+The Falmer were repelled, beaten, hunted down. Their surface civilization was progressively destroyed, forcing them to take refuge underground with the **Dwemer**, where they would suffer a fate perhaps worse than death: enslavement, blinding, and the degeneration that would transform them into the pitiful creatures known today as the modern Falmer.
+
+## The Deeper Motivations of the Falmer
+
+The question of the Snow Elves' motivations remains debated. The most commonly accepted explanation is that they attacked to seize the **Eye of Magnus**, an artifact whose value they understood far better than the Atmorans.
+
+Some historians also advance a prophetic dimension: the Falmer may have perceived, through their magic or their seers, the threat that humans would eventually pose to all of Tamriel's elven races. The attack would then have been a desperate attempt to prevent a future in which Men would dominate the continent.
+
+Other theories suggest the Falmer were acting under the influence of an outside force — perhaps a Daedric Prince or an entity connected to the Eye itself. The full truth is probably lost forever, buried with Falmer civilization.
+
+## The Legacy of the Night of Tears
+
+The Night of Tears is far more than a historical event for the **Nords**: it is a founding myth that shapes their collective identity. It justifies their ancestral distrust of elves, their warrior culture, and their conception of Skyrim as a land won through blood and tears.
+
+The **Eye of Magnus** remained buried beneath Saarthal's ruins for millennia, until its rediscovery by the **College of Winterhold** during the Fourth Era. Its exhumation triggered a major crisis involving the **Thalmor** and a sorcerer named **Ancano**, proving that even after thousands of years, the power of this artifact remained a source of coveting and danger.
+
+The Night of Tears teaches a lesson that Tamriel seems condemned to repeat: the fear of the other and the covetousness of power lead to atrocities that beget endless cycles of vengeance.

@@ -1,0 +1,70 @@
+---
+title: "The Prophet Veloth and the Chimer Exodus"
+slug: "veloth"
+era: "merethic-era"
+category: "personnages"
+tags: ["veloth", "chimer", "exodus", "boethiah", "azura", "morrowind", "prophet"]
+timelineYear: -1800
+summary: "The life and legacy of the prophet Veloth, who guided the Aldmer dissidents toward the promised land of Resdayn."
+sources: ["The Pilgrim's Path", "The Vagabond's Bible", "The Anticipations", "Progress of Truth"]
+---
+
+## The Calling of a Prophet
+
+**Veloth** — sometimes called Saint Veloth in the Dunmer tradition — is the founding figure of Chimer civilization and, by extension, of all **Dunmer** culture. Born among the **Aldmer** of the **Summerset Isles** at a remote period of the Merethic Era, he was the first to openly break with the established religious traditions of his people.
+
+The exact circumstances of his birth and youth are shrouded in legend. What the texts consistently report is that he was an Aldmer of modest station, perhaps a scholar or a minor priest, who felt a deep unease at the spiritual rigidity of the Isles' society.
+
+Aldmeri society of this era was dominated by a priestly elite venerating the **Aedra** — in particular **Auriel**, **Trinimac**, and **Magnus** — and considering any theological deviation a punishable heresy. It was in this oppressive context that Veloth received his first visions.
+
+## The Visions of Boethiah
+
+According to tradition, it was **Boethiah**, the Daedric Prince of conspiracy, rebellion, and the overthrow of established powers, who first contacted Veloth. The visions were progressive and transformative.
+
+Boethiah revealed to Veloth what he presented as the founding lies of Aldmeri society: the Aedra were not benevolent protectors but jailers who kept the Mer in ignorance and submission. The perfection promised by a return to the original divine state was merely a lure to prevent the elves from reaching their true potential.
+
+**Azura**, Princess of dawn and dusk, complemented these revelations by showing Veloth a possible future: a distant land where his people could live free, following an authentic spiritual path. She showed him the ashes and fires of **Resdayn**, the land that awaited them.
+
+**Mephala**, the Spinner, taught Veloth the practical arts of survival: how to organize a people in secret, how to weave networks of the faithful without alerting the authorities, how to transform dissidence into a movement.
+
+## The Preaching and the Gathering
+
+Armed with these revelations, Veloth began to preach in secret among the dissatisfied Aldmer of the Isles. His message resonated particularly with the disadvantaged classes, those who felt excluded from priestly power, and the independent minds who questioned established dogmas.
+
+His rhetoric was powerful: he was not simply proposing a change of gods, but a complete transformation of the relationship between mortals and the divine. The Daedra, unlike the Aedra, did not demand blind submission but offered pacts, trials, and a path toward personal strength.
+
+The Velothian movement grew rapidly, attracting thousands of faithful. The Aldmeri authorities, alerted by this growing dissidence, began to persecute Veloth's followers. Arrests, exiles, and perhaps executions took place, paradoxically strengthening the resolve of the converts.
+
+## The Confrontation with Trinimac
+
+One of the most dramatic episodes of Veloth's saga involves the confrontation with **Trinimac**, the champion god of the Aldmer. Trinimac, a warrior deity and protector of the established order, attempted to physically oppose the dissidents' exodus.
+
+According to Chimer legend, **Boethiah** intervened directly. The Daedric Prince took possession of Trinimac — some versions say he devoured him — and spoke through him to publicly reveal the weakness of the Aedra. This act had two major consequences: it definitively shattered Trinimac's authority over his followers, and it transformed Trinimac into **Malacath**, the Daedric Prince of the forsaken.
+
+Trinimac's followers, traumatized by the fall of their god, were themselves transformed, becoming the **Orcs** — the Orsimer, the "Spurned Folk." This parallel transformation links the fate of the Orcs to that of the Chimer from the very beginning.
+
+## The Great Exodus
+
+The departure from the **Summerset Isles** was an event of considerable magnitude. Thousands, perhaps tens of thousands of elves left their ancestral homeland under Veloth's leadership, abandoning everything they knew to follow a prophet toward an unknown land.
+
+The exodus was as much a pilgrimage as a migration. Veloth imposed spiritual trials on his people throughout the journey, transforming the crossing into an act of devotion. Each suffering endured, each obstacle overcome was presented as an offering to the three Good Daedra.
+
+The journey crossed hostile lands, deserts, forests, and mountains. Tradition recounts that the Daedra guided the travelers through signs and omens, that **Azura** illuminated the road at dawn and dusk, that **Boethiah** protected them from enemies, and that **Mephala** wove the hidden paths that allowed them to avoid dangers.
+
+## Arrival at Resdayn and the Founding
+
+When the travelers finally reached **Resdayn**, they discovered a volcanic land, swept by the ashes of **Red Mountain**, inhabited by strange creatures and traversed by powerful magical forces. For many, this land seemed a punishment rather than a promise.
+
+But Veloth saw in it the fulfillment of Azura's prophecy. This inhospitable land would forge a strong people, a people who would have to earn their survival every day. The trials of Resdayn were the trials of Boethiah made land: only the worthy would prosper.
+
+Veloth organized the settlement of his people, establishing the first clans that would become the Dunmer **Great Houses**. He instituted the rites, laws, and traditions that would form the bedrock of Chimer society for millennia to come.
+
+## The Legacy of Veloth
+
+The death of Veloth is surrounded by mystery. Some traditions hold that he simply died of old age after having fulfilled his mission. Others suggest he was carried away to the realms of Oblivion by his Daedric patrons. Still others claim he withdrew to meditate and was never seen again.
+
+His legacy is immense and enduring. The society he founded — the **Chimer** — became one of the most powerful and complex civilizations in Tamriel. Their transformation into Dunmer by **Azura**'s curse did not erase the foundations Veloth had laid.
+
+The **Tribunal** — **Vivec**, **Almalexia**, and **Sotha Sil** — presented themselves as Veloth's spiritual heirs, though their rise to power involved the betrayal of the very principles he had taught. The temple that bore their name nevertheless venerated Veloth as a saint, recognizing in him the father of the Dunmer nation.
+
+The **Velothi Mountains** that separate Morrowind from the rest of Tamriel bear his name, a permanent geographical reminder of the man who guided a people toward its destiny.
