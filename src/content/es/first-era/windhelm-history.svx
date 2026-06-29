@@ -1,0 +1,56 @@
+---
+title: "Historia de Manto del Viento"
+slug: "windhelm-history"
+era: "first-era"
+category: "lieux"
+tags: ["manto-del-viento", "windhelm", "ysgramor", "palacio-de-los-reyes", "nórdicos", "cielos-de-cielo", "primera-era"]
+timelineYear: 50
+summary: "La historia de Manto del Viento, la ciudad humana más antigua de Cielos de Cielo, fundada por Ysgramor y sede del Palacio de los Reyes."
+sources: ["Manto del Viento: Una Historia", "Cantos del Retorno", "Los Dominios de Cielos de Cielo", "Ysgramor y los Quinientos"]
+---
+
+## La ciudad más antigua de Cielos de Cielo
+
+**Manto del Viento** (Windhelm) reivindica el título de ciudad humana más antigua de Cielos de Cielo — y potencialmente de todo Tamriel. Fundada por el propio **Ysgramor** tras su conquista del continente, la ciudad se alza a orillas del **Río Blanco** en la castellanía de Marcha Oriental, al noreste de la provincia. Sus murallas masivas, sus avenidas de piedra y su imponente arquitectura son testimonio de cuatro mil años de historia ininterrumpida.
+
+La ciudad fue construida como monumento a la gloria de la naciente civilización nórdica — una afirmación de la dominación humana sobre una tierra antes gobernada por los Elfos de las Nieves. Cada piedra de sus muros fue colocada con la conciencia de estar construyendo no simplemente una ciudad, sino la cuna de una civilización.
+
+## La fundación por Ysgramor
+
+Según los **Cantos del Retorno**, **Ysgramor** fundó Manto del Viento tras completar su campaña de conquista contra los Elfos de las Nieves que habían masacrado la colonia de **Saarthal**. El héroe atlético eligió el emplazamiento por razones tanto estratégicas — control del Río Blanco y acceso al mar — como simbólicas: el lugar marcaba aproximadamente donde sus barcos habían atracado al regresar de Atmora.
+
+Se dice que la construcción del **Palacio de los Reyes** duró toda la vida de Ysgramor y la de sus hijos. La leyenda cuenta que el Thu'um fue utilizado para tallar la piedra y ensamblar los bloques, haciendo del palacio tanto una obra de la Voz como del trabajo humano. El propio Ysgramor murió de vejez allí, y su tumba — situada en una isla frente a la costa — se convirtió en un lugar de peregrinación sagrado.
+
+## El Palacio de los Reyes
+
+El **Palacio de los Reyes** es el edificio más antiguo y más venerado de Manto del Viento. Su gran sala, con su trono de piedra y sus muros adornados con cráneos de dragón y estandartes de guerra, encarna el poder nórdico en estado puro. El palacio sirvió de residencia a los Altos Reyes de Cielos de Cielo durante siglos, antes de que la capital fuera trasladada a **Solitud**.
+
+La arquitectura del palacio es característica del antiguo estilo nórdico: masiva, funcional e imponente. Sus muros de piedra gris son tan gruesos que resisten los embates del viento glacial de Marcha Oriental, y sus torres dominan el paisaje urbano, visibles desde leguas a la redonda. El propio **Trono de Ysgramor** está tallado en un único bloque de piedra — una proeza de ingeniería para la época.
+
+## Las primeras eras
+
+Durante la Primera Era, Manto del Viento sirvió de capital de un Cielos de Cielo unificado bajo sus primeros Altos Reyes. La ciudad prosperó gracias al comercio marítimo — su posición sobre el Río Blanco, navegable hasta el mar, la convertía en un importante puerto fluvial — y a su condición de centro político y cultural.
+
+El **Barrio Gris** no existía aún en esa época; la ciudad era exclusivamente nórdica. Las relaciones con otras razas estaban definidas por la guerra más que por la convivencia. Los Elfos de las Nieves habían sido exterminados o expulsados bajo tierra, y los contactos con otras razas élficas eran limitados y a menudo hostiles.
+
+## La arquitectura de la ciudad
+
+La ciudad se divide en varios barrios distintos cuya disposición refleja milenios de expansión sucesiva. El **Barrio de Piedra** (Stone Quarter), en el centro, constituye el núcleo histórico con sus edificios más antiguos. El **Barrio del Palacio** rodea el Palacio de los Reyes y alberga las residencias nobles. Las murallas exteriores, reforzadas en múltiples ocasiones a lo largo de los siglos, conservan capas de construcción visiblemente diferentes.
+
+El famoso **puente de piedra** que cruza el Río Blanco es una de las obras de ingeniería más antiguas de Tamriel que siguen en uso. Su construcción se atribuye a los primeros sucesores de Ysgramor, y su longevidad da testimonio de la excelencia de la ingeniería nórdica primitiva.
+
+## Centro político y guerrero
+
+Manto del Viento fue durante siglos el lugar donde se decidían los destinos de Cielos de Cielo. El **Kingsmoot** — la asamblea de los Jarls para elegir a un nuevo Alto Rey — se celebró allí en numerosas ocasiones. La tradición dice que sólo un gobernante capaz de sostener Manto del Viento puede aspirar al título de Alto Rey, convirtiendo a la ciudad en una apuesta política tanto como en un símbolo.
+
+La ciudad sirvió también como base de concentración para las grandes expediciones militares nórdicas. Los ejércitos que marchaban hacia el sur contra Cyrodiil, hacia el este contra Morrowind, o hacia los mares contra los invasores akaviri partían frecuentemente de Manto del Viento, cuyas forjas y cuarteles podían equipar a miles de guerreros.
+
+## El comercio y la prosperidad
+
+A pesar de su riguroso clima, Manto del Viento prosperó gracias a su posición comercial estratégica. El puerto fluvial permitía exportar las riquezas del norte de Cielos de Cielo — pieles, metales preciosos, madera de construcción — hacia los mercados del sur. A cambio, las mercancías de Cyrodiil y Morrowind remontaban el Río Blanco para abastecer los mercados de la ciudad.
+
+Las minas de Marcha Oriental proporcionaban hierro, acero y piedras preciosas, convirtiendo a Manto del Viento en un importante centro metalúrgico. Las armas y armaduras forjadas en sus talleres eran renombradas en todo Cielos de Cielo por su solidez, perpetuando la tradición guerrera de la ciudad.
+
+## Un legado a través de las eras
+
+Manto del Viento atravesó cuatro mil años de historia sin perder jamás su relevancia. Desde la Primera Era — cuando era la capital de un joven reino nórdico — hasta la Cuarta Era — cuando **Ulfric Caperuza de Tormenta** la convirtió en bastión de su rebelión contra el Imperio — la ciudad siguió siendo símbolo de la identidad nórdica, la resistencia y la tradición. Sus muros, que han visto pasar cientos de generaciones, continúan desafiando el tiempo y las tormentas del norte.

@@ -1,0 +1,56 @@
+---
+title: "Winterhold"
+slug: "winterhold"
+era: "first-era"
+category: "lieux"
+tags: ["winterhold", "great-collapse", "college", "magic", "skyrim", "the-great-collapse"]
+timelineYear: 400
+summary: "Winterhold, once a great city of Skyrim and capital of magical learning, reduced to a village after the Great Collapse."
+sources: ["The Great Collapse", "On the Great Collapse", "History of the College of Winterhold", "The Holds of Skyrim"]
+---
+
+## The Great City of the North
+
+**Winterhold** was once one of the largest and most prosperous cities in Skyrim. Located on the northeastern coast of the province, overlooking the **Sea of Ghosts**, the city was a major center of maritime trade, scholarship, and political power. Its port welcomed ships from all over Tamriel, and its population rivaled that of **Solitude** and **Windhelm**.
+
+The city owed its prosperity to a combination of factors: a strategic harbor position on the northern trade routes, access to the mineral wealth of the surrounding mountains, and the presence of the **College of Winterhold** — the most prestigious institution of magical learning in Skyrim — which drew scholars and mages from across the continent.
+
+## The College of Winterhold
+
+The **College of Winterhold** was founded at the beginning of the First Era by the legendary Archmage **Shalidor**, a Nordic mage of such power that he is said, according to legend, to have created the Labyrinthian with a single whisper. The College was designed as a sanctuary of magical knowledge, open to all those demonstrating aptitude for the arcane arts, regardless of race or origin.
+
+Perched on a rocky promontory connected to the city by a stone bridge, the College quickly became the most renowned center of magical study in northern Tamriel. Its libraries rivaled those of the **Crystal Tower** of the Summerset Isles, and its faculty counted among the most brilliant minds of each generation.
+
+## Winterhold's Peak
+
+During the First Era, Winterhold reached a remarkable apex. The city even briefly served as the capital of Skyrim, with the High King residing in its coastal palace rather than the traditional **Palace of the Kings** in Windhelm. This period saw the construction of entire districts dedicated to commerce, the arts, and the sciences.
+
+Winterhold's port was one of the most active on the Sea of Ghosts, welcoming merchant ships from **Atmora** (before that continent became uninhabitable), Morrowind, and even more distant lands. The wealth that flowed in enabled the construction of sumptuous buildings whose ruins now rest at the bottom of the ocean.
+
+## The Great Collapse
+
+In 4E 122, a catastrophe of unparalleled magnitude struck Winterhold. Within the space of a few hours, most of the city collapsed into the sea, taking thousands of inhabitants, centuries of architecture, and innumerable cultural treasures into the icy waters. This event, known as the **Great Collapse**, reduced one of Skyrim's greatest cities to a miserable village of a few wind-battered houses.
+
+The exact causes of the Great Collapse remain disputed. The most widely held theory among the population attributes the catastrophe to the College of Winterhold — a magical experiment gone wrong is said to have destabilized the cliffs on which the city rested. The College categorically denies any responsibility, claiming the collapse resulted from natural causes — coastal erosion accelerated by currents from the Sea of Ghosts.
+
+## Theories on the Causes
+
+Several hypotheses compete regarding the true causes of the Great Collapse. Some scholars draw a connection to the **Red Year** of 4E 5 — the eruption of **Red Mountain** in Morrowind that triggered a devastating tsunami in the Sea of Ghosts. This tidal wave may have weakened the rocky foundations of Winterhold, creating the conditions for a delayed collapse occurring a century later.
+
+Others point to the natural seismic activity of Skyrim's northern coast, or to the long-term effects of the **Dwemer**'s disappearance on subterranean geological stability. The hypothesis of a curse or supernatural revenge circulates in taverns, but has never received serious academic support.
+
+## The Relationship Between Town and College
+
+After the Great Collapse, relations between Winterhold's survivors and the College deteriorated considerably. The villagers, convinced that the mages were responsible for the destruction of their city, developed open hostility toward the institution. The fact that the College — built on its own separate promontory — survived intact the catastrophe that destroyed everything else only reinforced their suspicions.
+
+This mistrust reflects a broader Nordic attitude toward magic — an art often regarded as dangerous and unreliable by a people who prize physical strength and warrior traditions. The College, once the city's pride, became an object of resentment and fear.
+
+## Winterhold in the Late First Era
+
+Well before the Great Collapse, Winterhold experienced periods of relative decline during the First Era. Successive wars, shifts in trade routes, and competition from other ports gradually reduced its political influence. However, the constant presence of the College guaranteed it an intellectual prestige that compensated for its economic decline.
+
+The city nonetheless remained an important staging point for expeditions to the arctic regions and explorations of the Sea of Ghosts, maintaining strategic relevance even in periods of lesser prosperity.
+
+## The Legacy of the Great City
+
+The story of Winterhold illustrates the fragility of greatness — how a powerful metropolis can be reduced to a hamlet by the whims of nature or magic. The ruins that dot the shoreline below the cliffs, visible in calm seas, remind the rare visitors of the vanished splendor of a city that was, for millennia, a beacon of civilization on the frozen coasts of northern Tamriel.

@@ -1,0 +1,56 @@
+---
+title: "Invernalia"
+slug: "winterhold"
+era: "first-era"
+category: "lieux"
+tags: ["invernalia", "winterhold", "gran-colapso", "colegio", "magia", "cielos-de-cielo", "el-gran-colapso"]
+timelineYear: 400
+summary: "Invernalia, antaño gran ciudad de Cielos de Cielo y capital del saber mágico, reducida a una aldea tras el Gran Colapso."
+sources: ["El Gran Colapso", "Sobre el Gran Colapso", "Historia del Colegio de Invernalia", "Los Dominios de Cielos de Cielo"]
+---
+
+## La gran ciudad del norte
+
+**Invernalia** (Winterhold) fue antaño una de las ciudades más grandes y prósperas de Cielos de Cielo. Situada en la costa noreste de la provincia, dominando el **Mar de los Fantasmas**, la ciudad era un importante centro de comercio marítimo, erudición y poder político. Su puerto acogía barcos de todo Tamriel, y su población rivalizaba con la de **Solitud** y **Manto del Viento**.
+
+La ciudad debía su prosperidad a una combinación de factores: una posición portuaria estratégica en las rutas comerciales septentrionales, acceso a la riqueza minera de las montañas circundantes, y la presencia del **Colegio de Invernalia** — la institución de enseñanza mágica más prestigiosa de Cielos de Cielo — que atraía a eruditos y magos de todo el continente.
+
+## El Colegio de Invernalia
+
+El **Colegio de Invernalia** fue fundado a principios de la Primera Era por el legendario archimago **Shalidor**, un mago nórdico de tal poder que, según la leyenda, habría creado el Laberinto de Bromjunaar con un solo susurro. El Colegio fue concebido como un santuario del saber mágico, abierto a todos los que demostraran aptitud para las artes arcanas, sin distinción de raza u origen.
+
+Encaramado en un promontorio rocoso conectado a la ciudad por un puente de piedra, el Colegio se convirtió rápidamente en el centro de estudios mágicos más renombrado del norte de Tamriel. Sus bibliotecas rivalizaban con las de la **Torre de Cristal** de las Islas Summerset, y su claustro contaba con algunas de las mentes más brillantes de cada generación.
+
+## El apogeo de Invernalia
+
+Durante la Primera Era, Invernalia alcanzó un notable apogeo. La ciudad sirvió incluso brevemente de capital de Cielos de Cielo, con el Alto Rey residiendo en su palacio costero en lugar del tradicional **Palacio de los Reyes** de Manto del Viento. Este período vio la construcción de barrios enteros dedicados al comercio, las artes y las ciencias.
+
+El puerto de Invernalia era uno de los más activos del Mar de los Fantasmas, acogiendo barcos mercantes procedentes de **Atmora** (antes de que ese continente se volviera inhabitable), Morrowind e incluso tierras más lejanas. La riqueza que afluía permitió la construcción de suntuosos edificios cuyos restos descansan hoy en el fondo del océano.
+
+## El Gran Colapso
+
+En 4E 122, una catástrofe de magnitud inigualable golpeó a Invernalia. En el espacio de pocas horas, la mayor parte de la ciudad se hundió en el mar, arrastrando a miles de habitantes, siglos de arquitectura e innumerables tesoros culturales a las gélidas aguas. Este evento, conocido como el **Gran Colapso**, redujo una de las mayores ciudades de Cielos de Cielo a una miserable aldea de unas pocas casas azotadas por el viento.
+
+Las causas exactas del Gran Colapso siguen siendo disputadas. La teoría más extendida entre la población atribuye la catástrofe al Colegio de Invernalia — un experimento mágico fallido habría desestabilizado los acantilados sobre los que reposaba la ciudad. El Colegio niega categóricamente cualquier responsabilidad, afirmando que el colapso resultó de causas naturales — erosión costera acelerada por las corrientes del Mar de los Fantasmas.
+
+## Las teorías sobre las causas
+
+Varias hipótesis compiten en cuanto a las verdaderas causas del Gran Colapso. Algunos eruditos establecen un vínculo con el **Año Rojo** de 4E 5 — la erupción de la **Montaña Roja** en Morrowind que provocó un devastador tsunami en el Mar de los Fantasmas. Este maremoto habría fragilizado los cimientos rocosos de Invernalia, creando las condiciones para un colapso retardado ocurrido un siglo después.
+
+Otros señalan la actividad sísmica natural de la costa norte de Cielos de Cielo, o los efectos a largo plazo de la desaparición de los **Dwemer** sobre la estabilidad geológica subterránea. La hipótesis de una maldición o venganza sobrenatural circula en las tabernas, pero nunca ha recibido respaldo académico serio.
+
+## La relación entre la ciudad y el Colegio
+
+Tras el Gran Colapso, las relaciones entre los supervivientes de Invernalia y el Colegio se deterioraron considerablemente. Los aldeanos, convencidos de que los magos eran responsables de la destrucción de su ciudad, desarrollaron una hostilidad abierta hacia la institución. El hecho de que el Colegio — construido sobre su propio promontorio — hubiera sobrevivido intacto a la catástrofe que destruyó todo lo demás no hizo sino reforzar las sospechas.
+
+Esta desconfianza refleja una actitud más amplia de los Nórdicos hacia la magia — un arte a menudo considerado peligroso e imprevisible por un pueblo que privilegia la fuerza física y las tradiciones guerreras. El Colegio, antaño orgullo de la ciudad, se convirtió en objeto de resentimiento y temor.
+
+## Invernalia al final de la Primera Era
+
+Mucho antes del Gran Colapso, Invernalia experimentó períodos de declive relativo durante la Primera Era. Las guerras sucesivas, los cambios en las rutas comerciales y la competencia de otros puertos redujeron progresivamente su influencia política. Sin embargo, la presencia constante del Colegio le garantizaba un prestigio intelectual que compensaba su declive económico.
+
+La ciudad siguió siendo no obstante un punto de paso importante para las expediciones a las regiones árticas y las exploraciones del Mar de los Fantasmas, manteniendo una relevancia estratégica incluso en los períodos de menor prosperidad.
+
+## El legado de la gran ciudad
+
+La historia de Invernalia ilustra la fragilidad de la grandeza — cómo una poderosa metrópoli puede quedar reducida a una aldea por los caprichos de la naturaleza o la magia. Las ruinas que salpican el litoral al pie de los acantilados, visibles en mar calmado, recuerdan a los escasos visitantes el esplendor desaparecido de una ciudad que fue, durante milenios, un faro de civilización en las costas heladas del norte de Tamriel.

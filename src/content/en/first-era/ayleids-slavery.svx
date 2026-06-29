@@ -1,0 +1,58 @@
+---
+title: "Human Slavery Under the Ayleids"
+slug: "ayleids-slavery"
+era: "first-era"
+category: "evenements"
+tags: ["ayleids", "slavery", "alessia", "cyrodiil", "revolt", "nedics"]
+timelineYear: -200
+summary: "The Ayleids enslaved the humans of Cyrodiil for centuries, practicing ritual tortures until Alessia's revolt."
+sources: ["The Adabal-a", "Song of Pelinal", "Shezarr and the Divines", "Daedra Worship: The Ayleids"]
+---
+
+## The Reign of the Sorcerer-Kings
+
+The **Ayleids**, or Wild Elves, established one of the most advanced and most cruel civilizations of the **First Era** at the heart of **Cyrodiil**. Their cities of white stone, illuminated by Varla crystals and Welkynd stones, bore witness to extraordinary architectural and magical mastery. But this splendor rested on the broken bones of thousands of human slaves — the **Nedics** — who formed the base of the Ayleid social pyramid.
+
+The Ayleid sorcerer-kings did not regard humans as sentient beings worthy of respect. To them, the Nedics were livestock, a resource to be exploited for the construction of their monuments, the extraction of their resources, and the satisfaction of their most depraved pleasures. Every Ayleid city possessed slave pens where humans were bred, selected, and distributed according to the needs of their masters.
+
+Nedic slavery was not merely economic. It had a profound religious and cultural dimension. Many sorcerer-kings had abandoned the worship of the **Aedra** in favor of the **Daedric Princes**, and human slaves served as raw material for their obscene rituals. Sacrifices to the Daedra were daily occurrences, and Ayleid priests competed in the inventiveness of their offerings' cruelty.
+
+## The Ritual Tortures
+
+The documents that have survived from this era describe practices of barbarity difficult to conceive. The **Adabal-a**, the foundational text of the Alessian faith, enumerates certain tortures inflicted on Nedic slaves with chilling precision. These practices were not the acts of a few deviant individuals but constituted socially accepted and religiously sanctioned institutions.
+
+The **flesh gardens** were among the most notorious of these institutions. Slaves were mutilated and kept alive by magic, their bodies twisted into artistic shapes for the aesthetic pleasure of their masters. Some sorcerer-kings organized competitions to determine who could create the most inventive arrangement from living human bodies. The suffering of the victims was not a side effect but the very objective of the exercise.
+
+**Gut lanterns** illuminated the avenues of certain Ayleid cities. **Bone sculptures** adorned palaces. **Skin tapestries** decorated reception halls. Every decorative element in noble homes was a constant reminder of the total dominion exercised over the human populations. Horror was normalized to a degree that defied imagination.
+
+Rituals dedicated to **Molag Bal**, prince of domination, were particularly atrocious. The god of cruelty was venerated by many Ayleid clans, and his priests demanded ever more elaborate offerings. Slaves chosen for these ceremonies endured prolonged torments lasting days or even weeks, kept alive artificially so that their agony could last as long as possible.
+
+## The Silent Resistance
+
+Despite the Ayleids' overwhelming magical and military superiority, human resistance never ceased entirely. Sporadic revolts broke out regularly, quickly crushed and punished with exemplary brutality. But each failed uprising transmitted a legacy of defiance to the next generation. The slaves developed secret codes, clandestine communication networks, and an oral tradition of resistance.
+
+**Alessia's prophecies** circulated secretly among the enslaved populations, promising that one day a liberator would rise from among them. These texts, passed from mouth to mouth in the darkness of the slave barracks, kept alive the hope of a better future. Ayleids who discovered these resistance networks punished them with redoubled ferocity, but could never eradicate them completely.
+
+Some slaves managed to flee to the Nordic lands to the north or to the still-free regions in the east. These fugitives brought back tales of horror that fueled the hatred of free human peoples toward the Ayleids. The Nordic tribes in particular kept memory of these atrocities and awaited the opportunity to strike at their elven neighbors.
+
+## The Revolt of Alessia
+
+**Alessia**, a Nedic slave of exceptional intelligence and charisma, managed to accomplish what centuries of abortive revolts had not: unify the human slaves into a force capable of overthrowing their oppressors. Her revolt, launched around 1E 242, was not a spontaneous uprising but the result of decades of clandestine preparation and carefully constructed alliances.
+
+Alessia had the wisdom to seek allies beyond her own people. She obtained the support of the Nords of the north, led by warriors thirsting for vengeance against the elves. More remarkably, she forged alliances with certain dissident Ayleid lords who opposed the Daedric practices of their peers. This unlikely coalition gave the rebels the critical mass necessary to challenge the established order.
+
+Alessia's divine champion was **Pelinal Whitestrake**, a warrior of terrifying power whose exact origins remain debated. Some regard him as an avatar of **Lorkhan**, others as a time traveler or a Shezarrine. Whatever his nature, Pelinal fought with devastating fury, cutting down sorcerer-kings one after another in a campaign of destruction that shook the very foundations of Ayleid civilization.
+
+## The Fall of the White Cities
+
+The war of liberation was long and bloody. The Ayleids, despite their individual magical superiority, were weakened by internal divisions. The Daedra-worshippers and the Aedra-faithful were already fighting among themselves, and Alessia's revolt exploited these fractures with remarkable strategic skill.
+
+One by one, the great white cities fell. Freed slaves joined the Alessian army, swelling its ranks with each victory. The Ayleids' magical treasures were pillaged or destroyed, their libraries burned, their temples desecrated. The rage accumulated across centuries of oppression was unleashed without restraint, and the former masters suffered in turn the violence they had inflicted for so long.
+
+Alessia's final victory gave birth to the first **Cyrodilic Empire** and the religion of the **Eight Divines**. The former slave became the first human empress, uniting the Nordic and Nedic religious traditions into a coherent pantheon that legitimized her power. Her ascent, from the lowest condition to the highest dignity, became the founding myth of Imperial civilization.
+
+## The Aftermath
+
+The destruction of Ayleid civilization was neither total nor immediate. Some Ayleid clans, notably those who had supported Alessia, survived for centuries in isolated enclaves. Others fled to **Valenwood** where they were absorbed by the Bosmeri populations. But as a distinct culture and political power, the Ayleids ceased to exist.
+
+The legacy of Ayleid slavery left a deep mark on the human psyche in Cyrodiil. The distrust of elves, the valorization of individual freedom, and the condemnation of Daedric worship that characterize Imperial culture all have their roots in this traumatic period. The Ayleid ruins that still dot Cyrodiil in the **Third Era** and beyond are silent reminders of this era of terror — monuments to the cruelty and to the resistance that triumphed over it.
