@@ -1,0 +1,79 @@
+---
+title: "Los Falmer — La Caída de los Elfos de las Nieves"
+slug: "falmers"
+era: "merethic-era"
+category: "races"
+tags: ["falmer", "elfos-de-la-nieve", "dwemer", "esclavitud", "degeneracion", "blackreach"]
+timelineYear: -500
+summary: "Los Falmer fueron en su día los Elfos de las Nieves — una brillante civilización élfica de Skyrim, reducida a la esclavitud por los Dwemer y degenerada en criaturas ciegas y hostiles."
+sources: ["UESP: Falmer", "The Imperial Library: Fall of the Snow Elves", "Knight-Paladin Gelebor"]
+---
+
+## Los Elfos de las Nieves
+
+Antes de su caída, los **Elfos de las Nieves** eran una próspera civilización que ocupaba Skyrim:
+- Una cultura refinada y arquitectónicamente avanzada
+- Dominio de la magia del hielo y la luz
+- Una sociedad religiosa que veneraba a Auri-El (el aspecto élfico de Akatosh)
+- Rivales de los primeros colonos atmoranos (proto-nórdicos)
+
+## La Caída
+
+### La Noche de las Lágrimas
+El suceso desencadenante fue la **Noche de las Lágrimas** — el ataque de los Elfos de las Nieves contra el asentamiento humano de Saarthal. Las motivaciones exactas son debatidas:
+- Versión nórdica: un ataque genocida sin provocación
+- Probable versión élfice: los humanos habían descubierto algo poderoso bajo Saarthal (¿el Ojo de Magnus?)
+
+### La Venganza de Ysgramor
+El regreso de Ysgramor con los **Quinientos Compañeros** desató una guerra de exterminio contra los Elfos de las Nieves. Desbordados por las oleadas de colonos atmoranos, los Elfos fueron empujados hacia las montañas y luego forzados a huir.
+
+### El Pacto con los Dwemer
+Desesperados, los supervivientes de los Elfos de las Nieves se refugiaron con los **Dwemer**, que ocupaban vastas ciudades subterráneas. Los Dwemer aceptaron — con una condición terrible:
+
+> Los Elfos de las Nieves debían consumir un **hongo tóxico** que los dejaría ciegos.
+
+Este hongo alteró irreversiblemente su biología, volviéndolos dependientes de los Dwemer para sobrevivir.
+
+## La Esclavitud
+
+Durante siglos, los antiguos Elfos de las Nieves fueron:
+- **Cegados** — por los hongos obligatorios
+- **Esclavizados** — mano de obra en las ciudades Dwemer
+- **Degenerados** — pérdida progresiva de inteligencia, cultura y lenguaje
+- **Transformados** — selección antinatural hacia formas insectoides
+
+Cuando los Dwemer desaparecieron en el año 1E 700, los Falmer quedaron libres — pero ya no eran elfos. Se habían convertido en otra cosa.
+
+## Los Falmer Modernos
+
+Las criaturas conocidas como "Falmer" en el año 4E 201 son:
+- **Ciegas** — con sentidos compensatorios (oído y olfato extremos)
+- **Hostiles** — atacan a cualquier intruso en su territorio
+- **Organizadas** — sociedad tribal rudimentaria con chamanes
+- **Insectoides** — armadura y armas de quitina de chaurus
+- **Subterráneas** — habitan ruinas Dwemer y cavernas profundas
+
+### Simbiosis con los Chaurus
+Los Falmer crían **chaurus** — insectos gigantes venenosos:
+- Usados como bestias de guerra
+- Su quitina sirve de armadura y armas
+- Los huevos y el veneno se usan rituálmente
+- Los cazadores chaurus (alados) actúan como exploradores
+
+## La Excepción: Gelebor
+
+El **Caballero-Paladín Gelebor** es el último Elfo de las Nieves no degenerado conocido. Descubierto en el **Valle Olvidado** — un santuario oculto de Auri-El:
+- Ha sobrevivido milenios en aislamiento
+- Guarda el Templo de Auri-El
+- Atestigua lo que los Elfos de las Nieves fueron en su día
+- Alberga la esperanza de que algún día los Falmer puedan "sanar"
+
+## Implicaciones
+
+La tragedia de los Falmer plantea profundas preguntas sobre el lore:
+- ¿Son los Dwemer culpables de un crimen contra toda una raza?
+- ¿Podrían los Falmer ser restaurados en teoría?
+- Algunas pistas en las ruinas muestran Falmer recuperando una inteligencia rudimentaria — ¿es reversible la degeneración?
+- ¿Era el hongo cegador una herramienta deliberada de control o una "protección" malentendida?
+
+El Valle Olvidado demuestra que al menos un refugio preservó la forma original — lo que implica que podrían existir otros, ocultos en las profundidades de Tamriel.

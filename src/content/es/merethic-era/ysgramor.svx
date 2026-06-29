@@ -1,0 +1,97 @@
+---
+title: "Ysgramor y los Quinientos Compañeros"
+slug: "ysgramor"
+era: "merethic-era"
+category: "personnages"
+tags: ["ysgramor", "quinientos-companeros", "noche-de-lagrimas", "saarthal", "windhelm", "atmora", "falmer", "skyrim", "nordicos"]
+timelineYear: -800
+summary: "La epopeya de Ysgramor, el primer héroe humano de Tamriel, que lideró a los Quinientos Compañeros en la reconquista de Skyrim tras la Noche de las Lágrimas."
+sources: ["UESP: Ysgramor", "Songs of the Return", "Night of Tears", "The Imperial Library: Five Hundred Companions"]
+---
+
+## Ysgramor — El Primer Héroe de la Humanidad
+
+**Ysgramor** es reconocido unánimemente como el mayor héroe de la historia nórdica. Guerrero, explorador y erudito, fue el primer humano en transcribir la lengua nórdica usando runas élficas — un acto que le valió tanta admiración como sus hazañas marciales. Su nombre resuena a través de los siglos como símbolo de la tenacidad y la furia de los Hombres del Norte.
+
+Oriundo del helado continente de **Atmora**, situado al norte de Tamriel, Ysgramor pertenecía a una antigua civilización humana cuya cultura se sustentaba en el honor marcial y la tradición oral. Cuando las guerras civiles asolaron Atmora, Ysgramor condujo a un grupo de colonos hacia las prometedoras costas de Tamriel.
+
+## La Fundación de Saarthal
+
+### La Primera Ciudad Humana
+
+Ysgramor y sus seguidores desembarcaron en la costa septentrional de Skyrim y fundaron **Saarthal** — el primer asentamiento humano permanente del continente. La ciudad prosperó rápidamente, atrayendo a nuevos colonos de Atmora y desarrollando relaciones inicialmente pacíficas con los **Falmer** (Elfos de las Nieves) que habitaban la región.
+
+### Un Secreto Enterrado
+
+Los eruditos modernos sugieren que Saarthal albergaba un artefacto de poder inconmensurable: el **Ojo de Magnus**, una reliquia vinculada al dios de la magia. Algunos historiadores sostienen que el descubrimiento de este artefacto precipitó la catástrofe, pues los Falmer querían apoderarse de ese poder.
+
+## La Noche de las Lágrimas
+
+El suceso más traumático de la historia nórdica primitiva recibe el nombre de la **Noche de las Lágrimas**. Sin previo aviso, los Falmer lanzaron un ataque coordinado y devastador contra Saarthal.
+
+### La Masacre
+
+- Casi toda la población de Saarthal fue exterminada
+- Hombres, mujeres y niños fueron masacrados sin distinción
+- La ciudad quedó reducida a cenizas y ruinas
+- Solo Ysgramor y sus dos hijos, **Yngol** e **Ylgar**, lograron escapar
+
+### La Huida a Atmora
+
+Los tres supervivientes cruzaron el Mar de los Fantasmas en una embarcación improvisada, afrontando tormentas aterradoras. La travesía costó la vida a **Yngol**, el mayor, cuyo barco fue engullido por las gélidas aguas. Ysgramor llegó a Atmora con el corazón destrozado pero consumido por una rabia inextinguible.
+
+## El Regreso de los Quinientos Compañeros
+
+### El Juramento de Venganza
+
+De vuelta en Atmora, Ysgramor reunió a los más grandes guerreros del continente. Su relato de la masacre encendió los corazones, y **quinientos héroes** juraron seguirle para vengar Saarthal. Cada uno de ellos está nombrado en los *Cantos del Retorno*, la epopeya nórdica que narra sus gestas.
+
+### Compañeros Destacados
+
+| Compañero | Rol | Hazaña |
+|-----------|-----|--------|
+| Ysgramor | Comandante supremo | Portador de Wuuthrad, fundador de Windhelm |
+| Ylgar | Hijo de Ysgramor | Capitán de la flota de regreso |
+| Jeek del Río | Capitán | Fundador de Jorrvaskr en Blanconieves |
+| Menro y Chelrid | Guerreros gemelos | Primeros en pisar la orilla |
+| Terrfyg | Erudito-guerrero | Cronista de los Compañeros |
+
+### La Guerra del Retorno
+
+La campaña militar de los Quinientos Compañeros fue de una brutalidad sin precedentes. Metódicamente, arrasaron Skyrim de norte a sur:
+
+1. **Desembarco** en Hsaarik Head, el extremo norte de Skyrim
+2. **Reconquista de Saarthal** y purificación ritual de las ruinas
+3. **Dispersión** en grupos de combate por todo el territorio
+4. **Exterminio sistemático** de las poblaciones Falmer
+5. **Establecimiento** de nuevos asentamientos sobre las ruinas élficas
+
+## La Fundación de Windhelm
+
+Tras asegurar la región, Ysgramor fundó la ciudad de **Windhelm** — la ciudad humana más antigua que aún existe. Construida con las manos de los Compañeros supervivientes, fue levantada en piedra gris y aún se alza con orgullo a orillas del Río Blanco.
+
+Windhelm se convirtió en:
+- La **sede del poder** de Ysgramor y sus descendientes
+- La **capital** del primer reino nórdico unificado
+- Un **monumento** a la memoria de los caídos en Saarthal
+- El corazón de la **cultura nórdica** durante milenios
+
+## El Legado de Ysgramor
+
+### Wuuthrad — El Hacha Legendaria
+
+El arma de Ysgramor, **Wuuthrad** ("Tormenta de Lágrimas"), es un hacha de guerra de dos manos forjada a partir de las lágrimas que el héroe derramó por sus hijos y su pueblo. La leyenda afirma que el acero absorbió su pena y su furia, volviéndola especialmente mortífera contra los elfos.
+
+### Los Compañeros de Jorrvaskr
+
+La orden guerrera de los **Compañeros**, con sede en Jorrvaskr en la ciudad de Blanconieves, perpetúa directamente la tradición de los Quinientos originales. Su sala de banquetes fue construida con el casco invertido del barco de Jeek del Río.
+
+### La Tumba de Ysgramor
+
+Ysgramor fue sepultado en un túmulo monumental sobre una isla frente a la costa norte de Skyrim. Esta tumba, custodiada por los espíritus de sus Compañeros, permanece como lugar sagrado para todos los nórdicos — una peregrinación que todo guerrero digno aspira a realizar.
+
+## Controversias Históricas
+
+Aunque los nórdicos veneran a Ysgramor como un libertador, ciertos eruditos — notablemente los élficos — ven en su campaña un **genocidio** antes que una justa venganza. La destrucción casi total de los Falmer, que luego fueron esclavizados por los Dwemer y degeneraron en criaturas ciegas y salvajes, plantea preguntas morales que la historia nórdica prefiere ignorar.
+
+Sin embargo, el impacto de Ysgramor en la historia de Tamriel es innegable: sin él, la humanidad quizás nunca se habría asentado en el continente, y toda la historia que siguió — los Imperios, las guerras, los héroes — sencillamente no habría existido.

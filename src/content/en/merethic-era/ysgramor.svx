@@ -1,0 +1,97 @@
+---
+title: "Ysgramor and the Five Hundred Companions"
+slug: "ysgramor"
+era: "merethic-era"
+category: "personnages"
+tags: ["ysgramor", "five-hundred-companions", "night-of-tears", "saarthal", "windhelm", "atmora", "falmer", "skyrim", "nords"]
+timelineYear: -800
+summary: "The epic of Ysgramor, the first human hero of Tamriel, who led the Five Hundred Companions in the reconquest of Skyrim after the Night of Tears."
+sources: ["UESP: Ysgramor", "Songs of the Return", "Night of Tears", "The Imperial Library: Five Hundred Companions"]
+---
+
+## Ysgramor — The First Hero of Mankind
+
+**Ysgramor** is unanimously regarded as the greatest hero in Nordic history. Warrior, explorer, and scholar, he was the first human to transcribe the Nordic language using Elven runes — an act that earned him as much admiration as his martial exploits. His name echoes through the ages as a symbol of the tenacity and fury of the Men of the North.
+
+Originally from the frozen continent of **Atmora**, situated north of Tamriel, Ysgramor belonged to an ancient human civilization whose culture was rooted in martial honor and oral tradition. When civil wars ravaged Atmora, Ysgramor led a group of settlers toward the promising shores of Tamriel.
+
+## The Founding of Saarthal
+
+### The First Human City
+
+Ysgramor and his followers landed on the northern coast of Skyrim and founded **Saarthal** — the first permanent human settlement on the continent. The city thrived quickly, attracting new settlers from Atmora and developing initially peaceful relations with the **Falmer** (Snow Elves) who inhabited the region.
+
+### A Buried Secret
+
+Modern scholars suggest that Saarthal harbored an artifact of immeasurable power: the **Eye of Magnus**, a relic linked to the god of magic himself. Some historians believe that the discovery of this artifact precipitated the coming catastrophe, as the Falmer sought to seize its power.
+
+## The Night of Tears
+
+The most traumatic event in early Nordic history bears the name of the **Night of Tears**. Without warning, the Falmer launched a coordinated and devastating attack against Saarthal.
+
+### The Massacre
+
+- Nearly the entire population of Saarthal was exterminated
+- Men, women, and children were slaughtered without distinction
+- The city was reduced to ash and rubble
+- Only Ysgramor and his two sons, **Yngol** and **Ylgar**, managed to escape
+
+### The Flight to Atmora
+
+The three survivors crossed the Sea of Ghosts in a makeshift vessel, braving terrifying storms. The crossing claimed the life of **Yngol**, the eldest, whose ship was swallowed by the icy waters. Ysgramor reached Atmora with a broken heart but consumed by an inextinguishable rage.
+
+## The Return of the Five Hundred Companions
+
+### The Oath of Vengeance
+
+Back in Atmora, Ysgramor rallied the continent's greatest warriors to his cause. His account of the massacre inflamed their hearts, and **five hundred heroes** swore to follow him and avenge Saarthal. Each of them is named in the *Songs of the Return*, the Nordic epic that recounts their deeds.
+
+### Notable Companions
+
+| Companion | Role | Exploit |
+|-----------|------|---------|
+| Ysgramor | Supreme commander | Bearer of Wuuthrad, founder of Windhelm |
+| Ylgar | Son of Ysgramor | Captain of the return fleet |
+| Jeek of the River | Captain | Founder of Jorrvaskr in Whiterun |
+| Menro and Chelrid | Twin warriors | First to set foot on the shore |
+| Terrfyg | Scholar-warrior | Chronicler of the Companions |
+
+### The War of Return
+
+The military campaign of the Five Hundred Companions was of unprecedented brutality. Methodically, they swept Skyrim from north to south:
+
+1. **Landing** at Hsaarik Head, the northernmost tip of Skyrim
+2. **Reconquest of Saarthal** and ritual purification of the ruins
+3. **Dispersal** into fighting groups across the entire territory
+4. **Systematic extermination** of the Falmer populations
+5. **Establishment** of new settlements upon the Elven ruins
+
+## The Founding of Windhelm
+
+After securing the region, Ysgramor founded the city of **Windhelm** — the oldest human city still standing to this day. Built by the hands of the surviving Companions, it was raised from grey stone and still stands proudly on the banks of the White River.
+
+Windhelm became:
+- The **seat of power** of Ysgramor and his descendants
+- The **capital** of the first unified Nordic kingdom
+- A **monument** to the memory of the fallen at Saarthal
+- The heart of **Nordic culture** for millennia
+
+## The Legacy of Ysgramor
+
+### Wuuthrad — The Legendary Axe
+
+Ysgramor's weapon, **Wuuthrad** ("Storm of Tears"), is a two-handed war axe forged from the tears he shed for his sons and his people. Legend holds that the steel absorbed his grief and rage, making it particularly deadly against elves.
+
+### The Companions of Jorrvaskr
+
+The warrior order of the **Companions**, based in Jorrvaskr in the city of Whiterun, directly perpetuates the tradition of the original Five Hundred. Their mead hall was constructed from the overturned hull of Jeek of the River's ship.
+
+### The Tomb of Ysgramor
+
+Ysgramor was interred in a monumental burial mound on an island off the northern coast of Skyrim. This tomb, guarded by the spirits of his Companions, remains a sacred site for all Nords — a pilgrimage that every warrior worthy of the name aspires to undertake.
+
+## Historical Controversies
+
+While Nords venerate Ysgramor as a liberator, certain scholars — notably Elven ones — view his campaign as **genocide** rather than righteous vengeance. The near-total destruction of the Falmer, who were subsequently enslaved by the Dwemer and degenerated into blind, savage creatures, raises moral questions that Nordic history prefers to ignore.
+
+Nevertheless, the impact of Ysgramor on the history of Tamriel is undeniable: without him, humanity might never have gained a foothold on the continent, and all the history that followed — the Empires, the wars, the heroes — would simply never have existed.

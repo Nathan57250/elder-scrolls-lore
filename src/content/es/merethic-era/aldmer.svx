@@ -1,0 +1,100 @@
+---
+title: "Los Aldmer y el Éxodo desde Aldmeris"
+slug: "aldmer"
+era: "merethic-era"
+category: "races"
+tags: ["aldmer", "aldmeris", "altmer", "bosmer", "dunmer", "dwemer", "orsimer", "falmer", "chimer", "elfos", "summerset", "tamriel"]
+timelineYear: -2500
+summary: "La historia de los Aldmer, los elfos originales, desde su mítica patria de Aldmeris hasta su dispersión por Tamriel y su divergencia en múltiples razas élficas."
+sources: ["UESP: Aldmer", "Before the Ages of Man", "The Monomyth", "Pocket Guide to the Empire: Third Edition"]
+---
+
+## Aldmeris — La Patria Perdida
+
+### Un Continente de Leyenda
+
+**Aldmeris** — llamada a veces "la Vieja Ehlnofey" — es la mítica patria de los primeros elfos. Su propia existencia es objeto de encendidos debates entre los eruditos de Tamriel. Algunos la describen como un continente situado al suroeste de Tamriel, engullido por los mares o simplemente inaccesible. Otros afirman que Aldmeris no es más que una **metáfora colectiva**, un recuerdo racial de una época en que los elfos aún estaban unidos y próximos a sus ancestros divinos.
+
+### La Naturaleza de los Aldmer
+
+Los **Aldmer** ("Primeros Elfos" o "Elfos Antiguos") no eran una raza en el sentido biológico moderno, sino el estado original de todos los pueblos élficos. Se consideraban **descendientes directos de los Aedra** — los espíritus divinos que sacrificaron su inmortalidad para crear Mundus.
+
+Características atribuidas a los Aldmer:
+- Una longevidad extraordinaria, superior a varios miles de años
+- Una conexión innata con la magia y las fuerzas del Aetherius
+- Una sociedad teocrática centrada en el culto ancestral
+- Una cultura refinada que fusionaba arte, filosofía y metafísica
+
+## El Éxodo hacia Tamriel
+
+### Las Causas de la Partida
+
+Las razones del éxodo desde Aldmeris siguen siendo oscuras. Las tradiciones orales mencionan:
+- Un **cataclismo natural** que volvió Aldmeris inhabitable
+- **Cismas religiosos irreconciliables** dentro de la sociedad Aldmer
+- Una **llamada mística** hacia las nuevas tierras creadas durante la Convención
+- La simple **presión demográfica** de una civilización milenaria
+
+### La Llegada a las Islas Summerset
+
+El primer destino de los Aldmer fueron las **Islas Summerset**, un archipiélago en el extremo suroeste de Tamriel. Allí establecieron una civilización que aspiraba a reflejar perfectamente su gloria pasada — torres de cristal que se alzaban hacia el cielo, jardines encantados y una sociedad rígidamente jerarquizada.
+
+La **Torre Semejante-a-la-Ley**, una de las míticas Torres de Tamriel, fue erigida durante este período como eco de la Torre Adamantina.
+
+## La Gran Divergencia
+
+A lo largo de los milenios, los Aldmer que se asentaron en diferentes regiones de Tamriel evolucionaron — cultural, espiritual y físicamente — en razas distintas. Este proceso, llamado la **Gran Divergencia**, es uno de los fenómenos más importantes de la Era Merética.
+
+### Los Altmer — Los Altos Elfos
+
+Quienes permanecieron en las Islas Summerset se consideran los herederos más puros de los Aldmer. Los **Altmer** ("Elfos Superiores") mantienen estrictos programas eugénicos y una sociedad aristocrática obsesionada con la pureza de sangre. Su cultura es la continuación más directa de la civilización Aldmer original.
+
+### Los Bosmer — Los Elfos del Bosque
+
+Los Aldmer que migraron a **Valenwood** suscribieron el **Pacto Verde** con Y'ffre, el dios del bosque. A cambio de la protección de la naturaleza, juraron no dañar ninguna planta. Los **Bosmer** adoptaron un modo de vida salvaje y carnívoro, practicando incluso el canibalismo ritual. Su transformación física — más pequeños, más ágiles — refleja su adaptación a las copas del bosque.
+
+### Los Chimer y Posteriormente Dunmer — Los Elfos Oscuros
+
+El profeta **Veloth** lideró un importante cisma religioso al rechazar el culto de los Aedra en favor de los **Príncipes Daedra** — Boethiah, Azura y Mephala. Sus seguidores, los **Chimer** ("Elfos Cambiados"), migraron hacia el este, a las tierras volcánicas de Morrowind.
+
+Tras la traición del Tribunal y la maldición de Azura al final de la Primera Era, los Chimer fueron transformados: su piel dorada se volvió cenicienta y sus ojos viraron al rojo. Se convirtieron en los **Dunmer** ("Elfos Oscuros").
+
+### Los Dwemer — Los Elfos de las Profundidades
+
+Los **Dwemer** ("Elfos de las Profundidades" o "Enanos" por error de traducción) representan la divergencia más radical. Rechazando toda forma de religión, abrazaron la **razón pura**, la ciencia y la ingeniería. Excavaron ciudades colosales bajo las montañas de Morrowind, Skyrim y Hammerfell.
+
+Su civilización se distinguía por:
+- La **Arquitectura Tonal** — manipulación de la realidad a través de las matemáticas y el sonido
+- Los **Animunculi** — autómatas de metal y vapor
+- El rechazo categórico tanto de los Daedra como de los Aedra
+- Una desaparición misteriosa y total en el año 1E 700
+
+### Los Orsimer — Los Elfos Parias
+
+Cuando el Príncipe Daedra **Boethiah** devoró y transformó al dios Trinimac, sus fieles Aldmer también fueron cambiados. Se convirtieron en los **Orsimer** ("Elfos Parias"), conocidos como **Orcos** — seres de piel verde, colmillos prominentes y fuerza prodigiosa. Su dios, Trinimac, se convirtió en el Príncipe Daedra **Malacath**.
+
+### Los Falmer — Los Elfos de las Nieves
+
+Los **Falmer** ("Elfos de las Nieves") colonizaron las extensiones heladas de Skyrim. En su día una civilización refinada y poderosa, fueron diezmados por Ysgramor y sus Compañeros, y luego esclavizados por los Dwemer, quienes los cegaron con hongos tóxicos. Los Falmer modernos son criaturas degeneradas que merodean por las profundidades subterráneas.
+
+### Los Ayléidos — Los Elfos Salvajes
+
+Los **Ayléidos** ("Elfos Salvajes") se establecieron en el corazón de Tamriel, en lo que se convertiría en Cyrodiil. Construyeron un imperio fundado en la magia y la esclavización de las poblaciones humanas, antes de ser derrocados por la rebelión de Alessia en el año 1E 243.
+
+## Tabla Comparativa de las Razas Élficas
+
+| Raza | Región | Divinidades | Rasgo Distintivo |
+|------|--------|-------------|-----------------|
+| Altmer | Summerset | Aedra (panteón Aldmer) | Pureza de sangre, magia arcana |
+| Bosmer | Valenwood | Y'ffre, Pacto Verde | Carnívoros estrictos, arqueros |
+| Dunmer | Morrowind | Daedra (Tribunal) | Piel cenicienta, ojos rojos |
+| Dwemer | Subterráneos | Ninguna (ateos) | Tecnología, desaparecidos |
+| Orsimer | Orsinium | Malacath | Fuerza física, herreros |
+| Falmer | Skyrim (antaño) | Desconocido | Degenerados, ciegos |
+| Ayléids | Cyrodiil (antaño) | Varios Daedra | Magia salvaje, extintos |
+
+## El Legado Aldmer
+
+La cuestión del legado Aldmer sigue siendo un asunto candente en la política de Tamriel. Los **Thalmor** — el gobierno supremacista Altmer de la Cuarta Era — fundan su ideología en la superioridad racial de los elfos como descendientes de los Aedra, y en el derecho divino a dominar a las razas "inferiores" de los hombres.
+
+Esta pretensión ilustra cómo el mito de Aldmeris continúa moldeando la historia: no solo como recuerdo de un paraíso perdido, sino como justificación de ambiciones imperiales y conflictos que han ensangrentado Tamriel durante milenios.

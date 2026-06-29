@@ -1,0 +1,95 @@
+---
+title: "Lycanthropy — The Gift of Hircine"
+slug: "lycanthropie"
+era: "merethic-era"
+category: "magie"
+tags: ["lycanthropy", "werewolf", "hircine", "companions", "beast", "silver-blood"]
+timelineYear: -1000
+summary: "Lycanthropy is the ability to transform into a werewolf, a gift (or curse) of the Daedric Prince Hircine — carried by the Companions of Whiterun and many hunters."
+sources: ["UESP: Lycanthropy", "The Imperial Library: On Lycanthropy", "Physicalities of Werewolves"]
+---
+
+## Origins
+
+Lycanthropy is a "gift" from **Hircine**, the Daedric Prince of the Hunt. Unlike vampirism (which is a curse of domination), lycanthropy is presented as a **blessing** by its creator — the ultimate form of the predator.
+
+The first werewolves appeared during the Merethic Era, when Hircine granted his favor to mortal hunters who honored him.
+
+## Transmission
+
+### Through Blood
+The most common method is the **blood ritual**:
+- An existing werewolf shares their blood with a candidate
+- The initial transformation is violent and disorienting
+- Among the Companions, this is an honor reserved for the Inner Circle
+
+### Through Bite
+Rarer in the games, but theoretically possible:
+- A bite from a transformed werewolf
+- Transmission is not guaranteed
+- Considered a curse when non-consensual
+
+### Through Hircine Directly
+During certain Daedric quests, Hircine can grant lycanthropy directly.
+
+## The Transformation
+
+### Werewolf Form
+- Massive size (2-3x human)
+- Claws capable of tearing through armor
+- Superhuman speed and strength
+- Accelerated regeneration
+- Amplified senses (smell, hearing)
+- Resistance to most weapons (except silver)
+
+### Control
+- **Novices**: involuntary transformation under the full moon or emotional stress
+- **Experienced**: voluntary transformation, partial control
+- **Masters**: full control, transformation at will
+
+### Limitations
+- Cannot wear armor or use weapons/magic in beast form
+- Limited duration before returning to human form
+- Exhaustion after transformation
+
+## The Companions of Whiterun
+
+The most famous group of lycanthropes is the **Circle** — the inner circle of the Companions of Jorrvaskr:
+
+| Member | Role | Attitude toward the beast |
+|--------|------|--------------------------|
+| Kodlak Whitemane | Harbinger | Sought the cure |
+| Aela the Huntress | Circle member | Embraces the gift |
+| Farkas | Circle member | Accepts |
+| Vilkas | Circle member | Ambivalent |
+| Skjor | Circle member | Embraced the gift |
+
+The Circle received the wolf's blood through the **Glenmoril Witches** — hagravens in the service of Hircine. This tradition dates back to the Second Era.
+
+## Hircine's Hunting Grounds
+
+Werewolves who die do not go to Sovngarde or any other conventional afterlife. Their soul is claimed by Hircine for his **Hunting Grounds** — a plane of Oblivion of infinite forests where spirits hunt for eternity.
+
+This is precisely what **Kodlak Whitemane** sought to avoid — he wished for his soul to reach Sovngarde rather than be bound to a Daedric Prince.
+
+## The Cure
+
+Lycanthropy can be cured:
+- **Glenmoril Witch heads** — burned at Ysgramor's Tomb fire, they free the wolf spirit
+- **Ring of Hircine** — does not cure but controls the transformations
+- **Divine intervention** — theoretically possible through the blessing of another Prince
+
+## Other Forms of Lycanthropy
+
+The term "lycanthropy" covers several variants:
+- **Werewolf** — the most common
+- **Werebear** — found in Solstheim and Nordic lands
+- **Wereboar** — rare, reported in High Rock
+- **Werecrocodile** — Black Marsh
+- **Werevulture** — Valenwood (unconfirmed)
+
+## Lycanthropy vs Vampirism
+
+The two conditions are **mutually exclusive** — the blood of one repels the other. A werewolf cannot become a vampire and vice versa (except in exceptional circumstances involving the direct intervention of Daedric Princes).
+
+This exclusivity extends to the afterlife: the soul belongs either to Hircine or to Molag Bal — never to both.

@@ -1,0 +1,89 @@
+---
+title: "Los Ayléidos — Elfos Salvajes de Cyrodiil"
+slug: "ayleides"
+era: "merethic-era"
+category: "races"
+tags: ["ayleidos", "elfos-salvajes", "cyrodiil", "esclavitud", "nedicos", "alessia", "torre-oro-blanco"]
+timelineYear: -1000
+summary: "Los Ayléidos (Elfos Salvajes) dominaron Cyrodiil durante milenios — constructores de la Torre Oro Blanco, esclavizadores de los nedicos y maestros de una magia estelar única."
+sources: ["UESP: Ayleids", "The Imperial Library: Ayleid Civilization", "The Last King of the Ayleids"]
+---
+
+## Civilización
+
+Los **Ayléidos** (Elfos Salvajes, Altos Elfos de las Tierras del Corazón) fueron la primera gran civilización en establecerse en Cyrodiil. Descendientes de los Aldmer que colonizaron el centro de Tamriel, desarrollaron una cultura sofisticada pero brutal:
+
+- **Arquitectura** monumental de piedra blanca y cristal
+- Dominio de la **magia estelar** (Ayleidoon — extrayendo poder de las estrellas y los meteoritos)
+- Sociedad urbana organizada en ciudades-estado independientes
+- Culto a los Daedra (algunas ciudades) y a las estrellas (otras)
+
+## La Torre Oro Blanco
+
+La **Torre Oro Blanco** (White-Gold Tower) — el edificio más icónico de Tamriel — es una construcción **ayléida**. Erigida en la Era Merética como centro de poder:
+- Construida sobre un nexo mágico natural
+- Sirve de **Torre** metafísica que ancla la realidad de Mundus
+- Contiene la **Piedra** de la Torre (más tarde el Amuleto de los Reyes)
+- Capturada por los humanos durante la Revuelta Alessiana (1E 243)
+
+## La Esclavización de los Nedicos
+
+Los Ayléidos esclavizaron a los **nedicos** (proto-humanos) de Cyrodiil durante siglos. Esta esclavitud era especialmente cruel:
+- Tortura institucionalizada como entretenimiento
+- Experimentación mágica en los esclavos
+- "Jardines de carne" — instalaciones de tortura artística
+- Sacrificios humanos a los Príncipes Daédricos
+
+Ciertas fuentes describen:
+- Esclavos transformados en mobiliario viviente
+- "Iluminaciones" — inmolaciones humanas para alumbrar festejos
+- Arenas donde los esclavos luchaban contra criaturas invocadas
+
+## La Revuelta Alessiana (1E 243)
+
+La brutalidad ayléida provocó finalmente una insurrección:
+- **Alessia** organizó secretamente a los esclavos
+- **Pelinal Whitestrake** (Shezarrine) dirigió la guerra
+- **Morihaus** (semidiós taurino) combatió junto a los humanos
+- Los Ayléidos adoradores de los Aedra (una minoría) se unieron a los rebeldes
+
+### La Caída de las Ciudades
+Pelinal destruyó las ciudades ayléidas una a una en un frenesí genocida:
+- Su último combate fue contra el rey Umaril el Desplumado
+- Pelinal fue desmembrado pero Umaril fue derrotado
+- Umaril no fue eliminado definitivamente hasta la Tercera Era (DLC Knights of the Nine)
+
+## Después de la Caída
+
+Los supervivientes Ayléidos se dispersaron:
+- Algunos hallaron refugio entre los **Bosmer** de Valenwood
+- Otros se escondieron en ruinas subterráneas
+- La mayoría fue exterminada o absorbida por las poblaciones élficas vecinas
+- En pocas centurias, la raza se extinguió por completo
+
+## Legado
+
+Los Ayléidos dejaron un legado inmenso:
+- **Arquitectura** — ruinas omnipresentes en todo Cyrodiil (mazmorras de Oblivion)
+- **Piedras Varla y Welkynd** — cristales mágicos reutilizables
+- **Torre Oro Blanco** — que se convirtió en el corazón del Imperio humano
+- **Metalurgia** — la aleación "Ayléida" sigue siendo codiciada
+- **Magia estelar** — ciertos conjuros derivan de ella
+
+## Ruinas Destacadas
+
+| Ruina | Localización | Particularidad |
+|-------|-------------|---------------|
+| Torre Oro Blanco | Ciudad Imperial | Devenida palacio imperial |
+| Lindai | Norte de Cyrodiil | Con trampas, intacta |
+| Nenalata | Este de Cyrodiil | Última ciudad habitada |
+| Miscarcand | Oeste de Cyrodiil | Tesoro de la Gran Piedra Welkynd |
+| Garlas Malatar | Costa Dorada | Templo de Meridia |
+
+## La Moraleja del Relato
+
+La historia de los Ayléidos sirve de advertencia en el lore:
+- El poder absoluto corrompe — incluso a una civilización "avanzada"
+- La esclavitud engendra siempre la revuelta
+- La crueldad sistémica es autodestructiva
+- Pero también: el genocidio como represalia plantea sus propias preguntas morales (Pelinal en su frenesí mató a Khajiit inocentes confundiéndolos con elfos)

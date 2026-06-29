@@ -1,0 +1,135 @@
+---
+title: "The War of the Companions"
+description: "The Return of Ysgramor and his Five Hundred Companions: the Nordic conquest of Skyrim and the war against the Falmer"
+slug: "guerre-des-compagnons"
+category: "evenements"
+era: "merethic-era"
+timelineYear: -500
+tags: ["ysgramor", "companions", "falmer", "skyrim", "return", "atmorans", "nords", "night of tears", "saarthal"]
+---
+
+## Introduction
+
+The War of the Companions, also known as "The Return," is one of the foundational events of human history in Tamriel. It refers to the military campaign led by Ysgramor and his Five Hundred Companions against the Falmer (Snow Elves) of Skyrim, in retaliation for the massacre at Saarthal known as the Night of Tears. This event marked the beginning of human dominance over Skyrim and, by extension, laid the foundations for all future Nordic and Imperial civilizations.
+
+## Background: The Initial Colonization
+
+### The First Atmorans in Tamriel
+
+Long before the Return, settlers from Atmora — the frozen continent north of Tamriel — had already established communities in Skyrim. These early migrants, led among others by Ysgramor himself, sought a more hospitable land than their homeland, which was increasingly gripped by an eternal winter.
+
+The most significant of these early Atmoran settlements was Saarthal, located in the northern tundra of Skyrim, not far from present-day Winterhold. Saarthal was a prosperous city that coexisted — in a relative but tense peace — with the Falmer, the indigenous elven people of Skyrim.
+
+### The Falmer Before the Return
+
+The Falmer of this era were an advanced and sophisticated people, very different from the degenerate, blind creatures found in Skyrim's depths today. They possessed a refined civilization, powerful magic, and had held absolute control over the lands of Skyrim for millennia.
+
+The exact reasons for the growing hostility between Falmer and Atmorans remain debated. Nordic traditions present the Falmer as unprovoked aggressors, but other sources suggest more complex territorial conflicts.
+
+## The Night of Tears
+
+### The Massacre at Saarthal
+
+The Night of Tears is the name given to the Falmer's surprise attack on Saarthal. On a moonless night, elven armies surrounded the city and massacred nearly all of its inhabitants. Men, women, and children were killed without distinction. The city was sacked and set ablaze.
+
+Only Ysgramor and his two sons, Yngol and Ylgar, managed to escape the carnage. They took to the sea aboard a ship and sailed for Atmora, carrying with them the account of the massacre and a vow of vengeance.
+
+### The Falmer's Motivations
+
+The exact motivations of the Falmer remain a subject of controversy:
+
+- **The Nordic account**: The Falmer attacked out of pure elven malice and jealousy toward human prosperity
+- **The Eye of Magnus theory**: Some scholars suggest the Falmer sought to seize a powerful artifact hidden beneath Saarthal — the Eye of Magnus, a relic of inconceivable power linked to the god of magic
+- **The territorial theory**: Others propose that the Falmer acted out of fear of Atmoran demographic expansion, seeing the colony as a long-term existential threat
+
+## The Oath and the Preparation
+
+### The Return to Atmora
+
+Back in Atmora, Ysgramor rallied his countrymen through the force of his charisma and his rage. He forged — or had forged — the axe Wuuthrad, a legendary weapon imbued with his hatred of Elves. He gathered around him five hundred warriors, each having sworn to avenge Saarthal and purge Skyrim of the elven presence.
+
+### The Five Hundred Companions
+
+The Five Hundred Companions were not simply five hundred ordinary warriors. Each was a recognized champion of Atmora, a hero in their own right. Among the most famous were:
+
+- **Jeek of the River**: Captain of the vessel Jorrvaskr, which would become the seat of the Companions in Whiterun
+- **Menro and Chunal**: The twin sorcerers who commanded the elements
+- **Terrfyg**: The first to become Harbinger after Ysgramor
+- The Five Hundred in general were organized into ship crews, each vessel constituting an autonomous tactical unit
+
+### The Fleet
+
+The fleet that carried the Companions across the Sea of Ghosts was composed of many ships, each bearing a name and a history. The most famous is the Jorrvaskr, which would later become the central building of the Companions' quarter in Whiterun.
+
+## The Crossing and the Loss of Yngol
+
+### The Sea of Ghosts
+
+The crossing of the Sea of Ghosts between Atmora and Skyrim was itself an ordeal. The waters were roiled by supernatural storms, and thick mists enveloped the fleet. Some traditions attribute these storms to Falmer magic attempting to prevent the Return.
+
+### The Death of Yngol
+
+During the crossing, the ship of Yngol, Ysgramor's eldest son, was separated from the fleet by a particularly violent storm. When the other ships reached the shores of Skyrim and found Yngol's vessel, the entire crew was dead — killed, according to legend, by sea spirits or by dark magic.
+
+The discovery of his son's body was a terrible blow to Ysgramor, but rather than breaking him, this loss only strengthened his resolve. He buried Yngol in a cairn on the coast — Yngol's Barrow — and swore that his death would be avenged a thousandfold.
+
+## The Military Campaign
+
+### The Landing
+
+The Companions landed on the northern coast of Skyrim, not far from the ruins of Saarthal. Their first act was to visit the ruins of the destroyed city and pay homage to the dead. This funerary pilgrimage galvanized the warriors and sharpened their thirst for vengeance.
+
+### The Battle of Saarthal
+
+The first major battle took place on the outskirts of Saarthal itself, where a Falmer garrison had been established. The Companions, driven by their rage and superiority in close combat, crushed the elven defenders. This initial victory set the tone for the campaign to come.
+
+### Ysgramor's Strategy
+
+Ysgramor was not content with a single victory. He divided his forces into several groups, each tasked with clearing a different region of Skyrim:
+
+- One group pushed north to secure the coast
+- Another moved south toward the central plains
+- A third headed east toward the mountains
+- Ysgramor himself led the bulk of the forces against the main Falmer concentrations
+
+### The Falmer Resistance
+
+The Falmer did not surrender without a fight. Their magic was powerful and their warriors were no weaklings. But faced with the coordinated fury of the Five Hundred Companions, they were gradually driven back. Battle by battle, fortress by fortress, the Falmer lost ground.
+
+Some battles were particularly bloody. The Falmer used ice and light magic, the natural traps of the mountainous terrain, and carefully prepared ambushes. But the Companions, superior in brute strength and determination, always prevailed in the end.
+
+## The Aftermath
+
+### The Flight of the Falmer
+
+Faced with imminent defeat, the surviving Falmer made a desperate decision: they sought refuge underground, turning to the Dwemer — the Deep Elves — for shelter. The Dwemer agreed to take them in, but at a terrible price: the Falmer were forced to consume a toxic fungus that blinded them and gradually reduced them to a state of servitude. Over successive generations, they degenerated into the savage, bestial creatures known today.
+
+### The Founding of Whiterun
+
+After their victory, the crews of the various ships dispersed to found settlements across Skyrim. The crew of the Jorrvaskr, led by Jeek of the River, settled near the Skyforge (Skyforge), an ancient monument of unknown origin. They overturned their ship to make it a building — the Jorrvaskr — which became the seat of what would become the Companions guild.
+
+### The Legacy of the Companions
+
+The Five Hundred Companions were not merely conquerors — they were the founders of Nordic civilization in Skyrim. Every hold, every city, every clan can trace its origins back to one of the crews of the Return. The Companions of Whiterun, Skyrim's most prestigious warrior guild in the Fourth Era, claim a direct lineage stretching back to Ysgramor's original warriors.
+
+### The Death of Ysgramor
+
+Ysgramor himself did not live forever. After unifying Skyrim under the human banner and establishing the first Nordic dynasty, he died — of old age or in battle, depending on the account. He was interred in a monumental tomb on an island off Skyrim's northern coast, with his axe Wuuthrad and an honor guard of his most loyal Companions.
+
+## Mythic Dimensions
+
+### Ysgramor and the Oral Tradition
+
+Ysgramor holds a place in Nordic culture comparable to that of Romulus for Rome or Arthur for Britain. He is the founding father par excellence, the hero whose exploits define the identity of the Nordic people. Some scholars question the historicity of certain details — is five hundred companions an exact number or a symbolic one? Is Ysgramor a single man or a composite of several warlords? — but the central event of the Return is considered historical.
+
+### The Invention of Runic Writing
+
+Ysgramor is traditionally credited with the invention of Nordic runic writing. Before him, the Atmorans had no writing system. Ysgramor, shattered by the massacre at Saarthal and determined that the event would never be forgotten, created the first runes to set down the account of the Night of Tears. This invention makes him not only a warrior but a civilizer.
+
+### Moral Questions
+
+The War of the Companions raises complex moral questions rarely addressed in Nordic accounts. The near-total extermination of the Falmer — an entire people reduced to bestiality or annihilation — is it justified vengeance or genocide? Nordic traditions celebrate the Return without reservation, but other cultural perspectives (notably Dunmeri and Altmeri) see it as an example of human brutality and mortals' capacity to justify the unspeakable in the name of revenge.
+
+## Conclusion
+
+The War of the Companions is the founding event of Skyrim and, by extension, of all human civilization in northern Tamriel. It established the precedent of human dominance over elven lands, a pattern that would repeat across the eras with the Alessian Revolt, the conquests of Tiber Septim, and the conflicts of the Fourth Era. For Nords, it is a story of justice and glory. For Elves, it is the memory of an irreparable loss. The truth, as always in Tamriel, lies somewhere between these two extremes.

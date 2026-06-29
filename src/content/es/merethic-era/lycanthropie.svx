@@ -1,0 +1,95 @@
+---
+title: "La Licantropía — El Don de Hircine"
+slug: "lycanthropie"
+era: "merethic-era"
+category: "magie"
+tags: ["licantropia", "hombre-lobo", "hircine", "companeros", "bestia", "sangre-plateada"]
+timelineYear: -1000
+summary: "La licantropía es la capacidad de transformarse en hombre-lobo, un don (o maldición) del Príncipe Daédrico Hircine — que portan los Compañeros de Blanconieves y muchos cazadores."
+sources: ["UESP: Lycanthropy", "The Imperial Library: On Lycanthropy", "Physicalities of Werewolves"]
+---
+
+## Orígenes
+
+La licantropía es un "regalo" de **Hircine**, el Príncipe Daédrico de la Caza. A diferencia del vampirismo (que es una maldición de dominación), la licantropía es presentada como una **bendición** por su creador — la forma última del depredador.
+
+Los primeros hombres-lobo aparecieron durante la Era Merética, cuando Hircine otorgó su favor a cazadores mortales que lo honraban.
+
+## Transmisión
+
+### Por la Sangre
+El método más habitual es el **ritual de sangre**:
+- Un hombre-lobo existente comparte su sangre con un candidato
+- La transformación inicial es violenta y desorientadora
+- Entre los Compañeros, es un honor reservado al Círculo Interno
+
+### Por Mordedura
+Más raro en los juegos, pero teóricamente posible:
+- Mordedura de un hombre-lobo transformado
+- La transmisión no es sistemática
+- Considerada una maldición cuando no es consentida
+
+### Por Hircine Directamente
+En ciertas misiones daédricas, Hircine puede conceder la licantropía directamente.
+
+## La Transformación
+
+### Forma de Hombre-Lobo
+- Tamaño colosal (2-3 veces el humano)
+- Garras capaces de desgarrar la armadura
+- Velocidad y fuerza sobrehumanas
+- Regeneración acelerada
+- Sentidos amplificados (olfato, oído)
+- Resistencia a la mayoría de las armas (excepto la plata)
+
+### Control
+- **Novicios**: transformación involuntaria bajo la luna llena o el estrés emocional
+- **Experimentados**: transformación voluntaria, control parcial
+- **Maestros**: control total, transformación a voluntad
+
+### Limitaciones
+- Imposible llevar armadura o usar armas/magia en forma bestial
+- Duración limitada antes de volver a la forma humana
+- Agotamiento tras la transformación
+
+## Los Compañeros de Blanconieves
+
+El grupo más célebre de licántropos es el **Círculo** — el círculo interno de los Compañeros de Jorrvaskr:
+
+| Miembro | Rol | Actitud hacia la bestia |
+|---------|-----|------------------------|
+| Kodlak Melena Blanca | Heraldo | Buscaba la cura |
+| Aela la Cazadora | Miembro del Círculo | Abraza el don |
+| Farkas | Miembro del Círculo | Lo acepta |
+| Vilkas | Miembro del Círculo | Ambivalente |
+| Skjor | Miembro del Círculo | Abrazaba el don |
+
+El Círculo recibió la sangre del lobo a través de las **Brujas de Glenmoril** — hagravens al servicio de Hircine. Esta tradición se remonta a la Segunda Era.
+
+## Los Terrenos de Caza de Hircine
+
+Los hombres-lobo que mueren no van a Sovngarde ni a ningún otro más allá convencional. Su alma es reclamada por Hircine para sus **Terrenos de Caza** — un plano de Oblivion de bosques infinitos donde los espíritus cazan por la eternidad.
+
+Es precisamente lo que **Kodlak Melena Blanca** buscaba evitar — deseaba que su alma alcanzara Sovngarde en lugar de quedar ligada a un Príncipe Daédrico.
+
+## La Cura
+
+La licantropía puede curarse:
+- **Cabezas de Brujas de Glenmoril** — quemadas en la hoguera de la Tumba de Ysgramor, liberan el espíritu del lobo
+- **Anillo de Hircine** — no cura, pero controla las transformaciones
+- **Intervención divina** — teóricamente posible mediante la bendición de otro Príncipe
+
+## Otras Formas de Licantropía
+
+El término "licantropía" abarca varias variantes:
+- **Hombre-lobo** (Werewolf) — la más común
+- **Hombre-oso** (Werebear) — presente en Solstheim y las tierras nórdicas
+- **Hombre-jabalí** (Wereboar) — raro, documentado en High Rock
+- **Hombre-cocodrilo** (Werecrocodile) — Black Marsh
+- **Hombre-buitre** (Werevulture) — Valenwood (no confirmado)
+
+## Licantropía vs Vampirismo
+
+Ambas condiciones son **mutuamente excluyentes** — la sangre de una repele a la otra. Un hombre-lobo no puede convertirse en vampiro y viceversa (salvo en circunstancias excepcionales que impliquen la intervención directa de los Príncipes Daédricos).
+
+Esta exclusividad se extiende al más allá: el alma pertenece a Hircine o a Molag Bal — nunca a los dos.

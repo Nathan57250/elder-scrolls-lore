@@ -1,0 +1,42 @@
+---
+title: "The Merethic Era"
+slug: "ere-merethique"
+era: "merethic-era"
+category: "races"
+tags: ["aldmer", "dwemer", "chimer", "ysgramor", "dragons", "falmer", "atmora"]
+date: "ME"
+summary: "The age of Elvish migrations to Tamriel, Dwemer civilization, the Dragon Cult, and the arrival of the first Men."
+timelineYear: -1000
+sources: ["UESP: Merethic Era", "Before the Ages of Man", "The Imperial Library"]
+---
+
+## The Arrival of the Aldmer
+
+After the Convention and the stabilization of Mundus, the first mortal peoples began to diversify. The **Aldmer** (the "First Elves") left their mythical homeland of **Aldmeris** (whose very existence is debated by scholars) to settle on the **Summerset Isles**.
+
+From there, the Aldmer spread across all of Tamriel, giving rise to the various Elvish races:
+- The **Ayleids** (Wild Elves) colonized Cyrodiil
+- The **Dwemer** (Deep Elves) established themselves in the mountains of Morrowind, Skyrim, and Hammerfell
+- The **Chimer** (Changed Elves), led by the prophet Veloth, migrated to Morrowind
+- The **Bosmer** (Wood Elves) settled in Valenwood
+- The **Falmer** (Snow Elves) occupied Skyrim
+
+## The Dragon Cult
+
+In Skyrim and northern Tamriel, the **Dragons** ruled as god-kings over the primitive human populations. The **Dragon Cult** was an oppressive theocracy led by dragon priests who served as intermediaries between mortals and their winged masters.
+
+The city of **Bromjunaar** (later known as Labyrinthian) served as the religious capital of this cult.
+
+## Dwemer Civilization
+
+The **Dwemer** developed the most technologically advanced civilization in all of Tamriel's history. Rejecting the worship of Daedra and Aedra, they turned instead to science, engineering, and **Tonal Architecture** — the manipulation of the fundamental laws of reality through sound and mathematics.
+
+Their underground cities (Arkngthand, Bamz-Amschend, Mzulft) were marvels of engineering, filled with steam-driven and metal automatons.
+
+## Ysgramor and the Night of Tears
+
+**Ysgramor**, a warrior hero from **Atmora** (the continent north of Tamriel), led a group of human settlers to Skyrim. They founded the colony of **Saarthal**.
+
+The Falmer, fearing the growth of this human settlement, attacked Saarthal in an event known as the **Night of Tears**, massacring nearly all its inhabitants. Ysgramor and his sons were among the few survivors.
+
+Ysgramor returned to Atmora and came back with his **Five Hundred Companions** — an army that waged a genocidal war against the Falmer, driving them from the surface of Skyrim. Ysgramor then founded the city of **Windhelm**, the first permanent human city in Tamriel.

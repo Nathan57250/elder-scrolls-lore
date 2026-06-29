@@ -1,0 +1,57 @@
+---
+title: "El Thu'um — La Voz"
+slug: "thuum"
+era: "merethic-era"
+category: "magie"
+tags: ["thuum", "dragons", "greybeards", "dovahkiin", "gritos", "paarthurnax", "jurgen"]
+date: "Era Merética — presente"
+timelineYear: -500
+summary: "El arte ancestral de la Voz — el poder de proyectar la voluntad a través de la lengua draconiana. Utilizado por los Dragones, los Lenguas nórdicos y el Dovahkiin."
+relatedArticles: ["quatrieme-ere", "ere-merethique"]
+sources: ["UESP: Thu'um", "The Way of the Voice", "Children of the Sky"]
+---
+
+## La Naturaleza del Thu'um
+
+El **Thu'um** (pronunciado "THU-uum"), también llamado **la Voz** o **Voz de la Tormenta**, es la capacidad de concentrar la fuerza vital en **Gritos** — palabras de poder en **Dovahzul** (la lengua draconiana) que alteran la realidad.
+
+No se trata de magia en el sentido convencional. El Thu'um es una expresión de **voluntad pura** canalizada a través de la comprensión profunda de un concepto. Cada Grito se compone de tres **Palabras de Poder** que, combinadas, producen un efecto específico.
+
+## Los Dragones y el Lenguaje
+
+Para los **Dragones**, el Thu'um es su propia naturaleza — hablar es actuar, y cada palabra que pronuncian lleva una fracción de poder. El Dovahzul no es un simple lenguaje: es una expresión directa de la realidad.
+
+Los dragones más poderosos podían:
+- **Fuerza Implacable** (Fus Ro Dah) — proyectar una onda de fuerza
+- **Aliento de Fuego** (Yol Toor Shul) — escupir llamas devastadoras
+- **Aliento Gélido** (Fo Krah Diin) — congelar todo a su paso
+- **Rendición del Dragón** (Joor Zah Frul) — forzar a un dragón a comprender la mortalidad (creado por los mortales)
+
+## La Historia de la Voz
+
+### El Culto del Dragón (Era Merética)
+Los primeros humanos de Skyrim vivían bajo la dominación de los dragones. Los **Sacerdotes-Dragón** actuaban como intermediarios y oprimían al pueblo.
+
+### La Rebelión (Finales de la Era Merética)
+La diosa Kynareth (Kyne para los nórdicos) se apiadó de los mortales y envió a **Paarthurnax** — un dragón renegado — para enseñar el Thu'um a los humanos. Los primeros **Lenguas** humanos utilizaron este poder para derrocar el yugo draconiano.
+
+Tres héroes — **Hakon El-Tuerto**, **Gormlaith Hacha Dorada** y **Felldir el Viejo** — usaron el Grito **Dragonrend** y un Pergamino Anciano para expulsar a Alduin del flujo temporal.
+
+### Jurgen Windcaller (1E 416)
+Tras la derrota nórdica en la **Batalla de la Montaña Roja**, el guerrero Jurgen Windcaller meditó durante siete años sobre las razones del fracaso. Llegó a la conclusión de que el Thu'um debía emplearse como herramienta de **veneración**, no de guerra.
+
+Fundó la orden de los **Greybeards** y la doctrina del **Camino de la Voz** — usar el Thu'um solo para la contemplación y el honor de los dioses.
+
+### El Dovahkiin (4E 201)
+El **Dovahkiin** (Sangre de Dragón) es un mortal nacido con el alma de un dragón — capaz de absorber las almas de los dragones derrotados y aprender Gritos al instante, mientras que un Greybeard tarda décadas en dominar una sola Palabra.
+
+## Gritos Destacados
+
+| Grito | Dovahzul | Efecto |
+|-------|----------|--------|
+| Fuerza Implacable | Fus Ro Dah | Onda de choque que lanza todo a su paso |
+| Aliento de Fuego | Yol Toor Shul | Llamas devastadoras |
+| Ralentizar el Tiempo | Tiid Klo Ul | Dilata el flujo del tiempo |
+| Llamada del Dragón | Od Ah Viing | Invoca a un dragón aliado |
+| Rendición del Dragón | Joor Zah Frul | Fuerza a un dragón a aterrizar |
+| Llamada de la Tormenta | Strun Bah Qo | Convoca una tormenta eléctrica |

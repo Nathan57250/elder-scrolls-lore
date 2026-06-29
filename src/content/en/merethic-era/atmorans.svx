@@ -1,0 +1,160 @@
+---
+title: "The Atmorans and the Nedes"
+description: "The ancestors of Tamriel's human races: from the frozen lands of Atmora to the first civilizations of Skyrim and Cyrodiil"
+slug: "atmorans"
+category: "races"
+era: "merethic-era"
+timelineYear: -1000
+tags: ["atmorans", "nedes", "nords", "atmora", "human races", "migration", "ysgramor", "men"]
+---
+
+## Introduction
+
+The Atmorans are the ancestors of the human races of northern Tamriel, in particular the Nords of Skyrim. Coming from the frozen continent of Atmora, located north of Tamriel beyond the Sea of Ghosts, they migrated southward in several successive waves during the Merethic Era. Their history is intimately linked to that of the Nedes — a broader term designating the earliest human peoples of Tamriel, whose precise origins are the subject of intense debate among scholars.
+
+## Atmora: The Ancestral Homeland
+
+### Geography and Climate
+
+Atmora, whose name means "Ancient Wood" in Ehlnofex, is a continent situated north of Tamriel, separated from Skyrim by the Sea of Ghosts. Originally, Atmora was a land of boreal forests and habitable tundra, with a harsh but livable climate. Over millennia, however, the continent was progressively seized by a supernatural cold that froze not only land and water, but time itself.
+
+### The Freezing of Atmora
+
+The freeze of Atmora is not a simple climatic phenomenon. The rare explorers who have reached the continent in later eras report finding not a dead wasteland of ice, but a world frozen in place — warriors frozen mid-combat, animals halted in full stride, waves turned to stone. Time itself stopped in Atmora, as though the continent had been literally excluded from the flow of time.
+
+Some scholars attribute this phenomenon to an excess of Anuic influence — the principle of stasis having overtaken change, locking the continent in a state of eternal permanence.
+
+### Atmoran Society
+
+Before the freeze, Atmoran society was organized into warrior clans:
+
+- **Clan structure**: Each clan was led by a war-chief (jarl) and a wise one (shaman or priest)
+- **Warrior culture**: Combat was central to social life, and death in battle was considered the highest honor
+- **Oral tradition**: The Atmorans had no writing before Ysgramor; all knowledge was transmitted by skalds
+- **Animal totem worship**: The Atmorans venerated animal spirits — the Dragon, the Fox, the Hawk, the Serpent, the Bear, the Night Moth, the Whale, and the Owl
+- **The Voice**: Certain warriors mastered the Thu'um, the power of the Voice, capable of destroying with sound alone
+
+## The Waves of Migration
+
+### The First Migrations
+
+The Atmoran migration to Tamriel was not a single event but a process spanning centuries, even millennia. The earliest waves date to a very remote period of the Merethic Era, long before Ysgramor.
+
+These first migrants established scattered communities along the northern coast of Skyrim, living by fishing, hunting, and limited trade. Some pushed further south, reaching Skyrim's interior valleys and perhaps even the regions that would become Cyrodiil and High Rock.
+
+### Ysgramor's Migration
+
+The most famous migration is that of Ysgramor, who established the city of Saarthal in northern Skyrim. This colony prospered for a time before being destroyed during the Night of Tears. Ysgramor's subsequent Return with his Five Hundred Companions marked the beginning of human dominance over Skyrim.
+
+### The Later Waves
+
+After the Return, additional waves of migrants continued arriving from Atmora as conditions on the ancestral continent deteriorated. The last significant migrations occurred in the early First Era. After that, Atmora became entirely inaccessible, locked in its eternal freeze.
+
+## The Nede Question
+
+### Who Were the Nedes?
+
+The term "Nede" (sometimes "Nedic") is used to designate the earliest humans of Tamriel, in particular those who populated Cyrodiil, High Rock, and Hammerfell before the arrival of imperial cultures. The relationship between the Nedes and the Atmorans is a major subject of scholarly controversy.
+
+### The Single Migration Theory
+
+According to this theory, dominant in the Imperial tradition, all of Tamriel's humans descend from the Atmorans. The Nedes would simply be the descendants of the earliest waves of Atmoran migration — those who arrived long before Ysgramor and dispersed across the continent, developing distinct cultures over millennia of isolation.
+
+### The Multiple Origins Theory
+
+Another, more controversial theory suggests that the Nedes are a distinct people, native to Tamriel itself or to another continent, and that the Atmorans represent only one branch of humanity among others. According to this view:
+
+- The Nedes of Cyrodiil could have origins separate from the Atmorans
+- The men of High Rock may have mingled with Elves (the Bretons resulting from this mixing)
+- The Redguards of Yokuda would have an entirely independent origin
+
+### The Ehlnofey Wandering Hypothesis
+
+The Monomyth speaks of the Wandering Ehlnofey — primordial spirits who, unlike the Old Ehlnofey (ancestors of the Elves), were scattered across the world after the Dawn War. According to this cosmogony, all humans descend from these Wandering Ehlnofey, which would explain their simultaneous presence on multiple continents.
+
+## Physical and Cultural Characteristics
+
+### Atmoran Physique
+
+The Atmorans were a physically imposing people:
+- Great stature (warriors often exceeding two meters in height)
+- Powerful musculature adapted to the cold
+- Fair skin, with hair ranging from blond to dark auburn
+- Generally light eyes (blue, grey, green)
+- Natural resistance to cold, inherited from their ancestral environment
+
+These characteristics persist in their Nordic descendants, though softened by millennia of intermingling with other populations.
+
+### Religion and Spirituality
+
+#### The Atmoran Pantheon
+
+The Atmorans venerated a pantheon of deities often depicted in animal form:
+
+- **Alduin** (the Dragon): The World-Eater, who ends each kalpa (world cycle). The Atmorans venerated and feared him in equal measure
+- **Shor** (the Fox/the Missing): The god of men, who created the world for mortals at the cost of his own life. Equivalent of Lorkhan
+- **Kyne** (the Hawk): Goddess of Sky and Storms, wife of Shor, mother of men
+- **Tsun** (the Bear): Shor's shield-thane, guardian of Shor's Hall (Sovngarde)
+- **Stuhn** (the Whale): God of ransom and mercy
+- **Jhunal** (the Owl): God of knowledge, progressively forgotten by the Nords
+- **Orkey** (the Serpent): God of mortality, an antagonistic figure
+- **Mara** (the Night Moth): Goddess of love and fertility
+
+#### The Dragon Cult
+
+A crucial aspect of Atmoran religion is the Dragon Cult. In ancient times, dragons were not mythical creatures but real beings who ruled over the Atmorans. The Dragon Cult organized society around the veneration of these creatures, with dragon priests serving as intermediaries between mortals and their winged masters.
+
+This cult was only overthrown with the Dragon War, when mortals rebelled with the help of Paarthurnax and the first Thu'um taught to men.
+
+### The Thu'um
+
+The Thu'um, or Voice, is perhaps the most distinctive cultural legacy of the Atmorans. It is the art of projecting one's will through speech, using the draconic language to alter reality. The first Thu'um was taught to mortals by Paarthurnax, on the orders of Kyne, to enable them to fight the dragons.
+
+The Thu'um became a central element of Nordic warrior culture. The greatest warriors were "Tongues" — masters of the Thu'um capable of devastating armies through the sheer power of their voice. It was only after the Battle of Red Mountain (First Era) that Jurgen Windcaller founded the Greybeards and turned the Thu'um toward meditation and peace.
+
+## The Descendants of the Atmorans
+
+### The Nords
+
+The Nords of Skyrim are the most direct descendants of the Atmorans. They have retained many of their ancestors' cultural traits:
+- The warrior culture and honor in battle
+- The cult of the dead and Sovngarde
+- Distrust of magic and Elves
+- The Companionship traditions (the Companions of Whiterun)
+- Respect for the Thu'um and the Greybeards
+
+### The Imperials
+
+The Imperials of Cyrodiil are partly descended from Nedic/Atmoran stock, mixed with elven influences (Aldmeri and Ayleid). Their culture is more cosmopolitan and less martial than that of the Nords, but they share certain common physical traits.
+
+### The Bretons
+
+The Bretons of High Rock result from the intermingling between Nedic populations and the Direnni Elves who dominated the region for centuries. This mixture grants them a natural affinity for magic, rare among peoples of primarily human descent.
+
+## Knowledge and Technology
+
+### Metallurgy
+
+The Atmorans were accomplished metallurgists. Their Nordic steel, forged according to techniques passed down through generations, was renowned for its resistance to cold and its durability. True Atmoran steel — that forged on the ancestral continent — is considered superior to almost everything produced in Tamriel.
+
+### Navigation
+
+Atmoran survival depended on their mastery of navigation. Crossing the Sea of Ghosts — a dangerous ocean, inhabited by sea creatures and swept by supernatural storms — required sturdy ships and experienced sailors. Atmoran longships were marvels of naval engineering, capable of withstanding the worst conditions.
+
+### Architecture
+
+Atmoran architecture, visible in the ruins of Saarthal and in ancient Nordic tombs, favors functionality and durability. Buildings were designed to withstand extreme cold, with thick walls, underground halls, and central hearth heating systems.
+
+## The Legacy
+
+### A Founding Civilization
+
+The Atmorans, despite (or because of) their relative technological and cultural simplicity, are the founders of human civilization in northern Tamriel. Without their migration, the continent would have remained under indefinite elven dominance. Their legacy — courage, resilience, the Thu'um, the warrior tradition — continues to define entire peoples millennia after Atmora's disappearance.
+
+### The Nostalgia for Atmora
+
+For modern Nords, Atmora represents a lost paradise — an inaccessible ancestral home, frozen for eternity in ice and time. This nostalgia manifests in their racial pride, their attachment to tradition, and their resistance to change. Atmora is gone, but its spirit lives in every Nord who wields an axe and faces the winter.
+
+## Conclusion
+
+The Atmorans and the Nedes constitute the roots of Tamrielic humanity. Their history — migration, survival, conquest, and adaptation — is that of the human species itself confronting a world dominated by ancient and powerful forces. From the ice of Atmora to the imperial thrones of Cyrodiil, their journey is that of a people who refused extinction and forged their place in a world that was not meant for them.

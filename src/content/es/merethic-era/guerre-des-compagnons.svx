@@ -1,0 +1,135 @@
+---
+title: "La Guerra de los Compañeros"
+description: "El Retorno de Ysgramor y sus Quinientos Compañeros: la conquista nórdica de Skyrim y la guerra contra los Falmers"
+slug: "guerre-des-compagnons"
+category: "evenements"
+era: "merethic-era"
+timelineYear: -500
+tags: ["ysgramor", "compañeros", "falmers", "skyrim", "retorno", "atmorans", "nórdicos", "noche de lágrimas", "saarthal"]
+---
+
+## Introducción
+
+La Guerra de los Compañeros, conocida también como "El Retorno" (The Return), es uno de los eventos fundacionales de la historia humana en Tamriel. Designa la campaña militar liderada por Ysgramor y sus Quinientos Compañeros contra los Falmers (Elfos de las Nieves) de Skyrim, en represalia por la masacre de Saarthal conocida como la Noche de Lágrimas. Este evento marcó el comienzo de la dominación humana sobre Skyrim y, por extensión, sentó las bases de todas las civilizaciones nórdicas e imperiales futuras.
+
+## Contexto: La Colonización Inicial
+
+### Los Primeros Atmorans en Tamriel
+
+Mucho antes del Retorno, colonos procedentes de Atmora — el continente helado al norte de Tamriel — ya habían establecido comunidades en Skyrim. Estos primeros migrantes, encabezados entre otros por el propio Ysgramor, buscaban una tierra más acogedora que su patria, cada vez más presa de un invierno eterno.
+
+El asentamiento más importante de estos primeros Atmorans era Saarthal, situada en la tundra septentrional de Skyrim, no lejos de la actual Winterhold. Saarthal era una próspera ciudad que coexistía — en una paz relativa pero tensa — con los Falmers, el pueblo élfico indígena de Skyrim.
+
+### Los Falmers antes del Retorno
+
+Los Falmers de aquella época eran un pueblo avanzado y sofisticado, muy diferente de las criaturas degeneradas y ciegas que se encuentran hoy en las profundidades de Skyrim. Poseían una civilización refinada, una magia poderosa y llevaban milenios con control absoluto sobre las tierras de Skyrim.
+
+Las razones exactas de la creciente hostilidad entre Falmers y Atmorans siguen siendo debatidas. Las tradiciones nórdicas presentan a los Falmers como agresores sin provocación, pero otras fuentes sugieren conflictos territoriales más complejos.
+
+## La Noche de Lágrimas
+
+### La Masacre de Saarthal
+
+La Noche de Lágrimas es el nombre dado al ataque sorpresa de los Falmers contra Saarthal. En una noche sin luna, los ejércitos élficos rodearon la ciudad y masacraron a casi todos sus habitantes. Hombres, mujeres y niños fueron asesinados sin distinción. La ciudad fue saqueada e incendiada.
+
+Solo Ysgramor y sus dos hijos, Yngol e Ylgar, lograron escapar de la carnicería. Se hicieron a la mar en un barco y pusieron rumbo a Atmora, llevando consigo el relato de la masacre y el juramento de venganza.
+
+### Las Motivaciones de los Falmers
+
+Las motivaciones exactas de los Falmers siguen siendo objeto de controversia:
+
+- **La versión nórdica**: Los Falmers atacaron por pura malevolencia élfica y por envidia hacia la prosperidad humana
+- **La teoría del Ojo de Magnus**: Algunos eruditos sugieren que los Falmers buscaban apoderarse de un poderoso artefacto oculto bajo Saarthal — el Ojo de Magnus, una reliquia de poder inconcebible vinculada al dios de la magia
+- **La teoría territorial**: Otros proponen que los Falmers actuaron por temor a la expansión demográfica atmoran, viendo en la colonia una amenaza existencial a largo plazo
+
+## El Juramento y la Preparación
+
+### El Regreso a Atmora
+
+De vuelta en Atmora, Ysgramor movilizó a sus compatriotas por la fuerza de su carisma y su furia. Forjó — o hizo forjar — el hacha Wuuthrad, un arma legendaria imbuida de su odio hacia los Elfos. Reunió a su alrededor a quinientos guerreros, cada uno de ellos jurado a vengar Saarthal y purgar Skyrim de la presencia élfica.
+
+### Los Quinientos Compañeros
+
+Los Quinientos Compañeros no eran simplemente quinientos guerreros cualquiera. Cada uno era un campeón reconocido de Atmora, un héroe por derecho propio. Entre los más célebres se encuentran:
+
+- **Jeek del Río**: Capitán del navío Jorrvaskr, que se convertiría en la sede de los Compañeros en Whiterun
+- **Menro y Chunal**: Los hechiceros gemelos que dominaban los elementos
+- **Terrfyg**: El primero en convertirse en Harbinger tras Ysgramor
+- Los Quinientos en general estaban organizados en tripulaciones de barcos, constituyendo cada nave una unidad táctica autónoma
+
+### La Flota
+
+La flota que transportó a los Compañeros a través del Mar de los Fantasmas estaba compuesta por numerosas naves, cada una con su nombre y su historia. La más célebre es el Jorrvaskr, que más tarde se convertiría en el edificio central del barrio de los Compañeros en Whiterun.
+
+## La Travesía y la Pérdida de Yngol
+
+### El Mar de los Fantasmas
+
+La travesía del Mar de los Fantasmas entre Atmora y Skyrim fue en sí misma una prueba. Las aguas eran agitadas por tormentas sobrenaturales y espesas nieblas envolvían la flota. Algunas tradiciones atribuyen estas tormentas a la magia falmer que intentaba impedir el Retorno.
+
+### La Muerte de Yngol
+
+Durante la travesía, el barco de Yngol, hijo mayor de Ysgramor, fue separado de la flota por una tormenta especialmente violenta. Cuando los demás navíos alcanzaron las costas de Skyrim y encontraron la nave de Yngol, toda la tripulación estaba muerta — asesinada, según las leyendas, por espíritus del mar o por magia maligna.
+
+El hallazgo del cuerpo de su hijo fue un golpe terrible para Ysgramor, pero en lugar de abatirle, esta pérdida no hizo sino fortalecer su determinación. Enterró a Yngol en un túmulo en la costa — la Cripta de Yngol — y juró que su muerte sería vengada mil veces.
+
+## La Campaña Militar
+
+### El Desembarco
+
+Los Compañeros desembarcaron en la costa septentrional de Skyrim, no lejos de las ruinas de Saarthal. Su primer acto fue visitar las ruinas de la ciudad destruida y rendir homenaje a los muertos. Este peregrinaje fúnebre galvanizó a los guerreros y avivó su sed de venganza.
+
+### La Batalla de Saarthal
+
+La primera gran batalla tuvo lugar en las afueras de la propia Saarthal, donde se había establecido una guarnición falmer. Los Compañeros, impulsados por su ira y su superioridad en el combate cuerpo a cuerpo, aplastaron a los defensores élficos. Esta victoria inicial marcó el tono de la campaña que vendría.
+
+### La Estrategia de Ysgramor
+
+Ysgramor no se conformó con una sola victoria. Dividió sus fuerzas en varios grupos, cada uno encargado de limpiar una región diferente de Skyrim:
+
+- Un grupo avanzó hacia el norte para asegurar la costa
+- Otro descendió hacia el sur, hacia las llanuras centrales
+- Un tercero se dirigió al este, hacia las montañas
+- El propio Ysgramor lideró el grueso de las fuerzas contra las principales concentraciones de Falmers
+
+### La Resistencia Falmer
+
+Los Falmers no se rindieron sin luchar. Su magia era poderosa y sus guerreros no carecían de valor. Pero ante la furia coordinada de los Quinientos Compañeros, fueron retrocediendo progresivamente. Batalla tras batalla, fortaleza tras fortaleza, los Falmers perdían terreno.
+
+Algunas batallas fueron especialmente cruentas. Los Falmers emplearon magia de hielo y luz, las trampas naturales del terreno montañoso y emboscadas cuidadosamente preparadas. Pero los Compañeros, superiores en fuerza bruta y determinación, siempre acababan imponiéndose.
+
+## Las Consecuencias
+
+### La Huida de los Falmers
+
+Ante la derrota inminente, los Falmers supervivientes tomaron una decisión desesperada: se refugiaron bajo tierra buscando asilo entre los Dwemer — los Elfos de las Profundidades. Los Dwemer accedieron a acogerlos, pero a un precio terrible: los Falmers debieron consumir un hongo tóxico que los dejó ciegos y los redujo progresivamente a un estado de servidumbre. A lo largo de las generaciones degeneraron en las criaturas salvajes y bestiales que se conocen hoy.
+
+### La Fundación de Whiterun
+
+Tras la victoria, las tripulaciones de los distintos navíos se dispersaron para fundar asentamientos por toda Skyrim. La tripulación del Jorrvaskr, liderada por Jeek del Río, se estableció cerca de la Forja Celestial (Skyforge), un antiguo monumento de origen desconocido. Pusieron boca abajo su nave para convertirla en edificio — el Jorrvaskr — que se convirtió en la sede de lo que sería el gremio de los Compañeros.
+
+### El Legado de los Compañeros
+
+Los Quinientos Compañeros no fueron solo conquistadores: fueron los fundadores de la civilización nórdica en Skyrim. Cada fortaleza, cada ciudad, cada clan puede rastrear sus orígenes hasta una de las tripulaciones del Retorno. Los Compañeros de Whiterun, el gremio de guerreros más prestigioso de Skyrim en la Cuarta Era, reivindican un linaje directo que se remonta a los guerreros originales de Ysgramor.
+
+### La Muerte de Ysgramor
+
+El propio Ysgramor no vivió eternamente. Tras unificar Skyrim bajo el estandarte humano y establecer la primera dinastía nórdica, murió — de vejez o en combate, según las versiones. Fue enterrado en una tumba monumental en una isla frente a la costa norte de Skyrim, junto con su hacha Wuuthrad y una guardia de honor de sus más fieles Compañeros.
+
+## Dimensiones Míticas
+
+### Ysgramor y la Tradición Oral
+
+Ysgramor ocupa en la cultura nórdica un lugar comparable al de Rómulo para Roma o al de Arturo para Bretaña. Es el padre fundador por excelencia, el héroe cuyos exploits definen la identidad del pueblo nórdico. Algunos eruditos cuestionan la historicidad de ciertos detalles — ¿es quinientos compañeros un número exacto o simbólico? ¿Es Ysgramor un solo hombre o un compuesto de varios caudillos? — pero el evento central del Retorno se considera histórico.
+
+### La Invención de la Escritura Rúnica
+
+Se atribuye tradicionalmente a Ysgramor la invención de la escritura rúnica nórdica. Antes de él, los Atmorans no tenían escritura. Ysgramor, devastado por la masacre de Saarthal y decidido a que el evento nunca fuera olvidado, creó las primeras runas para consignar el relato de la Noche de Lágrimas. Esta invención lo convierte no solo en un guerrero sino en un civilizador.
+
+### Las Cuestiones Morales
+
+La Guerra de los Compañeros plantea complejas cuestiones morales raramente abordadas en los relatos nórdicos. El exterminio casi total de los Falmers — un pueblo entero reducido a la bestialidad o la nada — ¿es una venganza justificada o un genocidio? Las tradiciones nórdicas celebran el Retorno sin reservas, pero otras perspectivas culturales (en particular dunmer y altmer) ven en él un ejemplo de la brutalidad humana y de la capacidad de los mortales para justificar lo injustificable en nombre de la venganza.
+
+## Conclusión
+
+La Guerra de los Compañeros es el evento fundador de Skyrim y, por extensión, de toda la civilización humana en el norte de Tamriel. Estableció el precedente de la dominación humana sobre tierras élficas, un patrón que se repetiría a lo largo de las eras con la Revuelta Alessiana, las conquistas de Tiber Septim y los conflictos de la Cuarta Era. Para los Nórdicos, es un relato de justicia y gloria. Para los Elfos, es el recuerdo de una pérdida irreparable. La verdad, como siempre en Tamriel, se encuentra en algún lugar entre estos dos extremos.

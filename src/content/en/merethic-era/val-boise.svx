@@ -1,0 +1,60 @@
+---
+title: "Valenwood: The Green Kingdom"
+slug: "val-boise"
+era: "merethic-era"
+category: "lieux"
+tags: ["valenwood", "bosmer", "green-pact", "falinesti", "wild-hunt", "thalmor", "yffre"]
+timelineYear: -1000
+summary: "Valenwood is the forested homeland of the Bosmer, a kingdom where trees walk, where nature demands a tribute of flesh, and where the Green Pact governs every aspect of life."
+sources: ["A Dance in Fire", "The Wild Hunt", "Erta's Report to Anequina", "Pocket Guide to the Empire, 1st Edition"]
+---
+
+![Map of Tamriel](/images/common/tamriel-map.jpg)
+
+## Valenwood: The Living Forest
+
+Valenwood occupies the southwest of Tamriel, a province entirely covered by a dense and impenetrable jungle that bears no resemblance to the ordinary forests of the continent. Here, the trees are sentient. The canopy shifts. The roots whisper. This forest is not a simple ecosystem — it is a living entity, and its inhabitants, the Bosmer, are as much its guardians as its prisoners.
+
+## The Bosmer: The Forest People
+
+The Bosmer, or Wood Elves, are the smallest and most agile of the Elvish peoples. Unlike their Altmer cousins who build crystal towers or the Dunmer who dominate ash wastelands, the Bosmer have chosen to submit to nature rather than subdue it. This foundational choice, made at the dawn of their civilization, defines every aspect of their existence.
+
+Physically, the Bosmer are recognizable by their small stature, feline features, and supernatural agility. They are the finest archers in Tamriel, capable of loosing an arrow through the eye of a gnat in mid-flight. Their night vision and ability to move silently through the undergrowth make them unrivaled hunters and scouts.
+
+## The Green Pact: The Law of Y'ffre
+
+The Green Pact is the sacred foundation of Bosmer civilization. Concluded with Y'ffre, the god of the Forest and Seasons, this pact imposes three absolute prohibitions upon the Bosmer:
+
+**First**, it is forbidden to harm any vegetation. The Bosmer cannot cut down trees, pick fruit, or cultivate plants. Any plant material they use must come from other provinces or be of non-Valenwood origin.
+
+**Second**, the Bosmer must follow a strictly carnivorous diet. The Pact requires that every creature killed be consumed entirely, including enemies fallen in battle. This practice of ritual cannibalism, known as the Feast of Flesh, horrifies other peoples but constitutes a sacred obligation for the Bosmer.
+
+**Third**, the Bosmer must accept the forest as it is, without modifying or constraining it. In exchange, Y'ffre gave form and stability to the natural world, pulling the Bosmer out of the chaos of the Dawn Era.
+
+## Falinesti: The Walking City
+
+Falinesti is the most extraordinary wonder of Valenwood — and perhaps of all Tamriel. This entire city is built in the branches of a colossal tree whose height defies imagination. But most remarkable of all is that Falinesti moves. The tree-city migrates across the province according to the rhythm of the seasons, following a millennial circuit through the jungle.
+
+The Bosmer have fashioned every branch, every knot, and every hollow of this titanic tree into residential quarters, suspended markets, and aerial throne rooms. Vine bridges connect the different levels, and natural elevators — solidified sap and moving roots — allow movement through this vertical metropolis.
+
+Tragically, since the end of the Third Era, Falinesti has ceased to move. The tree took root and has not stirred since — an event the Bosmer consider an ill omen whose significance remains debated.
+
+## The Wild Hunt
+
+The Wild Hunt is the ultimate weapon and supreme curse of the Bosmer. When an existential threat looms over Valenwood, Bosmer shamans can invoke an ancient ritual that transforms the participants into a horde of shapeless and devastating monsters. These creatures hunt and destroy everything in their path with supernatural ferocity.
+
+The price is terrible: the transformation is irreversible. Those who participate in the Wild Hunt never return to their Elvish form. They become beasts forever, losing all consciousness and humanity. This is why the ritual is only invoked as a last resort, when the very survival of the Bosmer people is at stake.
+
+Historically, the Wild Hunt has been triggered fewer than ten times, and each occurrence has left deep scars in the collective Bosmer memory.
+
+## The Dominion of the Thalmor
+
+The relationship between Valenwood and the Aldmeri Dominion is complex and painful. When the Thalmor seized power in Alinor and formed the Second Aldmeri Dominion, Valenwood was forcibly incorporated into this alliance. The Altmer consider the Bosmer as inferior cousins, useful as scouts and archers but incapable of governing themselves.
+
+The Thalmor have imposed numerous restrictions on Bosmer traditions, attempting to "civilize" these Elves whom they regard as primitive. Thalmor agents patrol Bosmer cities, suppressing dissent and imposing the worship of the ancient mer gods at the expense of local traditions.
+
+Yet resistance exists. In the depths of the jungle, far from the eyes of the occupiers, Bosmer clans maintain the old rites and await the day when Valenwood will free itself from the Aldmeri yoke.
+
+## The Wild Nature
+
+Valenwood harbors an extraordinary and deadly fauna: enormous senche-tigers, plant stranglers (which the Bosmer cannot fight without violating the Pact), monstrously large venomous insects, and forest spirits whose intentions are rarely benevolent. The jungle itself seems to conspire against outsiders, closing its paths and leading unwary travelers astray in its endless depths.

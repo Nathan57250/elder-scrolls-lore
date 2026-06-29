@@ -1,0 +1,99 @@
+---
+title: "Dragons — Sons of Akatosh"
+slug: "dragons"
+era: "merethic-era"
+category: "races"
+tags: ["dragons", "dovah", "akatosh", "thuum", "shouts", "alduin", "paarthurnax", "dragonborn"]
+timelineYear: -2500
+summary: "Dragons (Dovah) are the children of Akatosh — immortal beings whose very essence is power, dominion, and the Word, inextricably bound to time and fate."
+sources: ["UESP: Dragons", "Atlas of Dragons", "The Imperial Library: Dragon Language"]
+---
+
+## Nature
+
+**Dragons** (Dovah, Dov in the plural) are not "creatures" in the biological sense. They are **fragments of Akatosh** — shards of the Time-God incarnated in reptilian form. Each dragon is:
+- **Immortal** — does not age, does not die naturally
+- **Unique** — each possesses a name in Dovahzul (the dragon tongue)
+- **Intrinsically dominant** — dominion is their nature, not a choice
+
+## Dovahzul
+
+**Dovahzul** (the dragon tongue) is not a simple means of communication — it is a **language of power**. When a dragon speaks, its voice alters reality:
+- Every word can become a **Thu'um** (Shout)
+- The three words of a complete Shout are aspects of a concept
+- For dragons, speaking AND fighting are the same thing (combat = debate)
+
+### Examples of Shouts
+
+| Shout | Words (Dovahzul) | Effect |
+|-------|-----------------|--------|
+| Unrelenting Force | Fus Ro Dah | Physical shockwave |
+| Frost Breath | Fo Krah Diin | Icy breath |
+| Fire Breath | Yol Toor Shul | Fire breath |
+| Dragonrend | Joor Zah Frul | Forces temporary mortality |
+| Call Dragon | Od Ah Viing | Summons an allied dragon |
+| Slow Time | Tiid Klo Ul | Slows time |
+
+## Draconic Hierarchy
+
+Dragon society is a **meritocracy of power**:
+- The strongest dominates (Thur = tyrant/sovereign)
+- Submission is not a dishonor — it is nature
+- Alduin is the **firstborn** and therefore the most powerful
+- Dragons battle each other through the Voice as much as through claws
+
+### Notable Dragons
+
+| Dragon | Role | Status (4E 201) |
+|--------|------|-----------------|
+| Alduin | Firstborn, World-Eater | Defeated in Sovngarde |
+| Paarthurnax | Alduin's lieutenant, then traitor | Alive, Throat of the World |
+| Odahviing | Loyal dragon, then Dovahkiin's ally | Alive, free |
+| Durnehviir | Trapped in the Soul Cairn | "Alive" (undead) |
+| Mirmulnir | First dragon killed in 4E 201 | Dead (Western Watchtower) |
+| Sahloknir | Resurrected by Alduin at Kynesgrove | Dead |
+| Numinex | Captured by Olaf One-Eye | Dead (1E) |
+| Nafaalilargus | Served Tiber Septim | Dead (2E) |
+
+## The Dragon War (Merethic Era)
+
+### The Tyranny
+Dragons governed the humans of Tamriel as gods. The **Dragon Priests** served as intermediaries, imposing a brutal theocratic regime:
+- Humans were slaves/worshippers
+- Dragon Priests received powers in exchange for their service
+- Resistance was punished by death through the Thu'um
+
+### The Rebellion
+Paarthurnax, persuaded by Kyne, taught the Thu'um to mortals:
+- Humans learned to **Shout** against the dragons
+- The war that followed lasted for generations
+- The Shout **Dragonrend** — which forces the comprehension of mortality — was the decisive weapon
+- Alduin was banished into the future by an Elder Scroll
+- Surviving dragons scattered and entered hibernation
+
+## Death and Soul Absorption
+
+Dragons are quasi-immortal, but:
+- They **can** be killed by physical means
+- BUT a dead dragon can be **resurrected** by another dragon (Alduin did this)
+- The only **permanent** death is **soul absorption** by a Dragonborn
+- The Dragonborn absorbs the knowledge and power of the slain dragon
+- This is why the Dragonborn is the only one who can truly defeat dragons
+
+## The Return (4E 201)
+
+Alduin, banished into the future by the ancient Nords, **reappeared** in 4E 201:
+1. Arrival at the Throat of the World (interruption of an execution at Helgen)
+2. Systematic resurrection of dead dragons throughout Skyrim
+3. Reconstruction of his draconic army
+4. Objective: devour the souls of Sovngarde, then the world
+5. Defeated by the Last Dragonborn
+
+## Draconic Philosophy
+
+For a dragon:
+- **To exist = to dominate** (the word "dragon" in Dovahzul means "dominion")
+- **To speak = to act** (no separation between word and reality)
+- **Strength** determines everything — there is no morality, only power
+- **Time** is their domain — as fragments of Akatosh
+- **Death** is incomprehensible — Dragonrend works because it forces this understanding

@@ -1,0 +1,99 @@
+---
+title: "Los Dragones — Hijos de Akatosh"
+slug: "dragons"
+era: "merethic-era"
+category: "races"
+tags: ["dragones", "dovah", "akatosh", "thuum", "gritos", "alduin", "paarthurnax", "dragonborn"]
+timelineYear: -2500
+summary: "Los Dragones (Dovah) son los hijos de Akatosh — seres inmortales cuya esencia misma es el poder, la dominación y el Verbo, inextricablemente ligados al tiempo y al destino."
+sources: ["UESP: Dragons", "Atlas of Dragons", "The Imperial Library: Dragon Language"]
+---
+
+## Naturaleza
+
+Los **Dragones** (Dovah, Dov en plural) no son "criaturas" en el sentido biológico. Son **fragmentos de Akatosh** — esquirlas del dios del Tiempo encarnadas en forma reptiliana. Cada dragón es:
+- **Inmortal** — no envejece, no muere de forma natural
+- **Único** — cada uno posee un nombre en Dovahzul (la lengua draconiana)
+- **Intrínsecamente dominante** — la dominación es su naturaleza, no una elección
+
+## El Dovahzul
+
+El **Dovahzul** (la lengua de los dragones) no es un simple medio de comunicación — es un **lenguaje de poder**. Cuando un dragón habla, su voz altera la realidad:
+- Cada palabra puede convertirse en un **Thu'um** (Grito)
+- Las tres palabras de un Grito completo son aspectos de un concepto
+- Para los dragones, hablar Y combatir son lo mismo (el combate = el debate)
+
+### Ejemplos de Gritos
+
+| Grito | Palabras (Dovahzul) | Efecto |
+|-------|---------------------|--------|
+| Fuerza Implacable | Fus Ro Dah | Onda de choque física |
+| Aliento Gélido | Fo Krah Diin | Aliento helado |
+| Aliento de Fuego | Yol Toor Shul | Aliento de fuego |
+| Rendición del Dragón | Joor Zah Frul | Impone la mortalidad temporal |
+| Llamada del Dragón | Od Ah Viing | Invoca a un dragón aliado |
+| Ralentizar el Tiempo | Tiid Klo Ul | Ralentiza el tiempo |
+
+## Jerarquía Draconiana
+
+La sociedad draconiana es una **meritocracia del poder**:
+- El más fuerte domina (Thur = tirano/soberano)
+- La sumisión no es deshonor — es la naturaleza
+- Alduin es el **primogénito** y por tanto el más poderoso
+- Los dragones se enfrentan entre sí con la Voz tanto como con las garras
+
+### Dragones Destacados
+
+| Dragón | Rol | Estado (4E 201) |
+|--------|-----|-----------------|
+| Alduin | Primogénito, Devorador de Mundos | Derrotado en Sovngarde |
+| Paarthurnax | Lugarteniente de Alduin, luego traidor | Vivo, Garganta del Mundo |
+| Odahviing | Dragón leal, luego aliado del Dovahkiin | Vivo, libre |
+| Durnehviir | Atrapado en el Cairn del Alma | "Vivo" (no-muerto) |
+| Mirmulnir | Primer dragón muerto en 4E 201 | Muerto (Torre de Vigilancia Oeste) |
+| Sahloknir | Resucitado por Alduin en Kynesgrove | Muerto |
+| Numinex | Capturado por Olaf El-Tuerto | Muerto (1E) |
+| Nafaalilargus | Sirvió a Tiber Septim | Muerto (2E) |
+
+## La Guerra de los Dragones (Era Merética)
+
+### La Tiranía
+Los dragones gobernaban a los humanos de Tamriel como dioses. Los **Sacerdotes-Dragón** actuaban como intermediarios, imponiendo un brutal régimen teocrático:
+- Los humanos eran esclavos/adoradores
+- Los Sacerdotes-Dragón recibían poderes a cambio de su servicio
+- La resistencia se castigaba con la muerte mediante el Thu'um
+
+### La Rebelión
+Paarthurnax, convencido por Kyne, enseñó el Thu'um a los mortales:
+- Los humanos aprendieron a **Gritar** contra los dragones
+- La guerra que siguió duró generaciones
+- El Grito **Dragonrend** — que impone la comprensión de la mortalidad — fue el arma decisiva
+- Alduin fue desterrado al futuro mediante un Pergamino Anciano
+- Los dragones supervivientes se dispersaron y entraron en hibernación
+
+## Muerte y Absorción de Alma
+
+Los dragones son casi inmortales, pero:
+- **Pueden** ser matados por medios físicos
+- PERO un dragón muerto puede ser **resucitado** por otro dragón (Alduin lo hacía)
+- La única muerte **permanente** es la **absorción de alma** por un Dragonborn
+- El Dragonborn absorbe el conocimiento y el poder del dragón derrotado
+- Por eso el Dragonborn es el único capaz de vencer verdaderamente a los dragones
+
+## El Regreso (4E 201)
+
+Alduin, desterrado al futuro por los nórdicos antiguos, **reapareció** en el año 4E 201:
+1. Llegada a la Garganta del Mundo (interrupción de una ejecución en Helgen)
+2. Resurrección sistemática de los dragones muertos por todo Skyrim
+3. Reconstrucción de su ejército draconiano
+4. Objetivo: devorar las almas de Sovngarde y luego el mundo
+5. Derrotado por el Último Sangre de Dragón
+
+## Filosofía Draconiana
+
+Para un dragón:
+- **Existir = dominar** (la palabra "dragón" en Dovahzul significa "dominio")
+- **Hablar = actuar** (no existe separación entre la palabra y la realidad)
+- La **fuerza** lo determina todo — no hay moral, solo poder
+- El **tiempo** es su dominio — como fragmentos de Akatosh
+- La **muerte** es incomprensible — el Dragonrend funciona porque impone esa comprensión

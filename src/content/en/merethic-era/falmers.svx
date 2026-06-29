@@ -1,0 +1,79 @@
+---
+title: "The Falmer — The Fall of the Snow Elves"
+slug: "falmers"
+era: "merethic-era"
+category: "races"
+tags: ["falmer", "snow-elves", "dwemer", "slavery", "degeneration", "blackreach"]
+timelineYear: -500
+summary: "The Falmer were once the Snow Elves — a brilliant Elvish civilization of Skyrim, reduced to slavery by the Dwemer and degenerated into blind, hostile creatures."
+sources: ["UESP: Falmer", "The Imperial Library: Fall of the Snow Elves", "Knight-Paladin Gelebor"]
+---
+
+## The Snow Elves
+
+Before their fall, the **Snow Elves** were a flourishing civilization occupying Skyrim:
+- A refined and architecturally advanced culture
+- Mastery of frost and light magic
+- A religious society venerating Auri-El (the Elvish aspect of Akatosh)
+- Rivals of the early Atmoran settlers (proto-Nords)
+
+## The Fall
+
+### The Night of Tears
+The triggering event was the **Night of Tears** — the Snow Elves' attack on the human settlement of Saarthal. The exact motivations are disputed:
+- Nordic version: an unprovoked genocidal attack
+- Probable Elvish version: the humans had discovered something powerful beneath Saarthal (the Eye of Magnus?)
+
+### Ysgramor's Vengeance
+Ysgramor's return with the **Five Hundred Companions** unleashed a war of extermination against the Snow Elves. Overwhelmed by waves of Atmoran settlers, the Elves were pushed back into the mountains and then forced to flee.
+
+### The Pact with the Dwemer
+Desperate, the surviving Snow Elves sought refuge with the **Dwemer**, who occupied vast underground cities. The Dwemer agreed — on one terrible condition:
+
+> The Snow Elves had to consume a **toxic fungus** that would blind them.
+
+This fungus irreversibly altered their biology, making them dependent on the Dwemer for survival.
+
+## Enslavement
+
+For centuries, the former Snow Elves were:
+- **Blinded** — by the mandatory fungi
+- **Enslaved** — as labor in Dwemer cities
+- **Degenerated** — progressive loss of intelligence, culture, and language
+- **Transformed** — through unnatural selection toward insectoid forms
+
+When the Dwemer disappeared in 1E 700, the Falmer were freed — but they were no longer elves. They had become something else entirely.
+
+## The Modern Falmer
+
+The creatures known as "Falmer" in 4E 201 are:
+- **Blind** — with compensatory senses (extreme hearing, smell)
+- **Hostile** — they attack any intruder in their territory
+- **Organized** — rudimentary tribal society with shamans
+- **Insectoid** — armor and weapons made from chaurus chitin
+- **Underground** — inhabiting Dwemer ruins and deep caves
+
+### Symbiosis with Chaurus
+The Falmer raise **chaurus** — giant venomous insects:
+- Used as war beasts
+- Their chitin serves as armor and weapons
+- Eggs and venom are used ritually
+- Chaurus hunters (winged) serve as scouts
+
+## The Exception: Gelebor
+
+**Knight-Paladin Gelebor** is the last known non-degenerate Snow Elf. Discovered in the **Forgotten Vale** — a hidden sanctuary of Auri-El:
+- Has survived for millennia in isolation
+- Guards the Temple of Auri-El
+- Bears witness to what the Snow Elves once were
+- Hopes that one day the Falmer might be "healed"
+
+## Implications
+
+The tragedy of the Falmer raises deep lore questions:
+- Are the Dwemer guilty of a crime against an entire race?
+- Could the Falmer theoretically be restored?
+- Some clues in the ruins show Falmer regaining a rudimentary intelligence — is the degeneration reversible?
+- Was the blinding fungus a deliberate tool of control, or a misunderstood "protection"?
+
+The Forgotten Vale proves that at least one refuge preserved the original form — implying that others might exist, hidden in the depths of Tamriel.

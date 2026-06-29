@@ -1,0 +1,89 @@
+---
+title: "The Ayleids — Wild Elves of Cyrodiil"
+slug: "ayleides"
+era: "merethic-era"
+category: "races"
+tags: ["ayleids", "wild-elves", "cyrodiil", "slavery", "nedics", "alessia", "white-gold-tower"]
+timelineYear: -1000
+summary: "The Ayleids (Wild Elves) dominated Cyrodiil for millennia — builders of the White-Gold Tower, enslavers of the Nedic peoples, and masters of a unique stellar magic."
+sources: ["UESP: Ayleids", "The Imperial Library: Ayleid Civilization", "The Last King of the Ayleids"]
+---
+
+## Civilization
+
+The **Ayleids** (Wild Elves, Heartland High Elves) were the first great civilization to establish itself in Cyrodiil. Descendants of the Aldmer who colonized the heart of Tamriel, they developed a sophisticated but brutal culture:
+
+- **Monumental architecture** of white stone and crystal
+- Mastery of **stellar magic** (Ayleidoon — drawing power from the stars and meteorites)
+- Urban society organized into independent city-states
+- Worship of Daedra (some cities) and the stars (others)
+
+## The White-Gold Tower
+
+The **White-Gold Tower** — the most iconic building in Tamriel — is an **Ayleid** construction. Erected in the Merethic Era as a seat of power:
+- Built upon a natural magical nexus
+- Serves as a metaphysical **Tower** anchoring the reality of Mundus
+- Contains the **Stone** of the Tower (later the Amulet of Kings)
+- Captured by humans during the Alessian Revolt (1E 243)
+
+## The Enslavement of the Nedic Peoples
+
+The Ayleids enslaved the **Nedic** peoples (proto-humans) of Cyrodiil for centuries. This enslavement was particularly cruel:
+- Institutionalized torture as entertainment
+- Magical experimentation on slaves
+- "Flesh gardens" — installations of artistic torture
+- Human sacrifices to the Daedric Princes
+
+Certain sources describe:
+- Slaves transformed into living furniture
+- "Illuminations" — human immolations to light festivities
+- Arenas where slaves fought summoned creatures
+
+## The Alessian Revolt (1E 243)
+
+The Ayleid brutality finally provoked an uprising:
+- **Alessia** secretly organized the slaves
+- **Pelinal Whitestrake** (Shezarrine) led the war
+- **Morihaus** (a bull demigod) fought alongside the humans
+- Aedra-worshipping Ayleids (a minority) joined the rebels
+
+### The Fall of the Cities
+Pelinal destroyed the Ayleid cities one by one in a genocidal frenzy:
+- His final battle was against King Umaril the Unfeathered
+- Pelinal was dismembered but Umaril was defeated
+- Umaril was not permanently killed until the Third Era (Knights of the Nine DLC)
+
+## After the Fall
+
+The surviving Ayleids scattered:
+- Some found refuge among the **Bosmer** of Valenwood
+- Others hid in underground ruins
+- The majority were exterminated or absorbed by neighboring Elvish populations
+- Within a few centuries, the race died out completely
+
+## Legacy
+
+The Ayleids left an immense legacy:
+- **Architecture** — ruins omnipresent across Cyrodiil (Oblivion dungeons)
+- **Varla and Welkynd Stones** — reusable magical crystals
+- **White-Gold Tower** — which became the heart of the human Empire
+- **Metallurgy** — the "Ayleid" alloy remains sought after
+- **Stellar magic** — certain spells derive from it
+
+## Notable Ruins
+
+| Ruin | Location | Feature |
+|------|----------|---------|
+| White-Gold Tower | Imperial City | Became the imperial palace |
+| Lindai | Northern Cyrodiil | Trapped, intact |
+| Nenalata | Eastern Cyrodiil | Last inhabited city |
+| Miscarcand | Western Cyrodiil | Treasury of the Great Welkynd Stone |
+| Garlas Malatar | Gold Coast | Temple of Meridia |
+
+## The Moral of the Story
+
+The history of the Ayleids serves as a cautionary tale in the lore:
+- Absolute power corrupts — even an "advanced" civilization
+- Slavery always engenders revolt
+- Systemic cruelty is self-destructive
+- But also: genocide in reprisal raises its own moral questions (Pelinal in his frenzy killed innocent Khajiit by mistaking them for elves)
