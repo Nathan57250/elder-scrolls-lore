@@ -1,0 +1,113 @@
+---
+title: "The Eighty Years' War"
+slug: "guerre-quatre-vingts-ans"
+era: "first-era"
+category: "evenements"
+tags: ["war", "reman-empire", "morrowind", "vivec", "armistice-treaty", "great-houses", "first-era"]
+timelineYear: 2840
+summary: "The conflict between the Reman Empire and Morrowind (1E 2840–2920), the longest of the First Era, concluded by the Armistice Treaty that integrated Morrowind into the Empire."
+sources: ["UESP: Four Score War", "The Imperial Library: 2920 The Last Year of the First Era", "TES III: Morrowind — Historical Context"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Eighty Years' War
+
+The **Eighty Years' War** (Four Score War, 1E 2840 — 1E 2920) is the longest conflict of the First Era — an eight-decade confrontation between the **Reman Empire** and **Morrowind** that concluded with the **Armistice Treaty**, integrating the Dunmer province into the Empire while granting it an unprecedented degree of autonomy.
+
+## Context
+
+### The Reman Expansion
+
+The Reman Empire, founded by **Reman Cyrodiil** at the beginning of the third millennium of the First Era, was an expansionist power that had unified most of Tamriel. Morrowind — governed by the **Tribunal** and the **Great Houses** — remained one of the last independent territories.
+
+### The Dunmer Resistance
+
+Morrowind held considerable defensive advantages:
+- The **Tribunal** — three living gods capable of superhuman military feats
+- The **Great Houses** — a warrior aristocracy with professional armies
+- Hostile geography: ashen lands, volcanoes, and Red Mountain
+- A powerful magical tradition (House Telvanni)
+- The religious fanaticism of Temple devotees
+
+## The Course of the War
+
+### Early Campaigns (1E 2840 — 2870)
+
+The first decades saw a series of Imperial invasions repelled by Dunmer forces. The Reman Empire launched offensives from Cyrodiil and **Skyrim**, but the Dunmer — led by the generals of Houses **Redoran** and **Indoril** — defended their territory tenaciously.
+
+### War of Attrition (1E 2870 — 2900)
+
+The conflict transformed into a war of attrition:
+- The Imperial Legions suffered constant losses in hostile territory
+- The Dunmer could not effectively counter-attack beyond their borders
+- Both sides' resources were progressively exhausted
+- Major battles alternated with years of stagnation
+
+### The Role of Vivec
+
+**Vivec** played a crucial role in the defense of Morrowind. As a living god and warrior-poet, he:
+- Personally led decisive battles
+- Inspired near-indestructible morale in Dunmer soldiers
+- Used his divine power to counter the Imperials' numerical advantages
+- Served as a symbol of unity among the often-rival Great Houses
+
+### The Final Year (1E 2920)
+
+The year 2920 — the last of the First Era — saw events accelerate:
+
+<CausalChain items={[
+  { text: "The Reman Empire exhausts its reserves after 80 years of war" },
+  { text: "Emperor Reman III is assassinated by the Morag Tong", indent: 1 },
+  { text: "His heir is also eliminated", indent: 1 },
+  { text: "Akaviri Potentate Versidue-Shaie seizes power", indent: 2 },
+  { text: "Versidue-Shaie negotiates the Armistice Treaty with Vivec", indent: 2 }
+]} />
+
+## The Armistice Treaty
+
+### Terms
+
+The **Armistice Treaty** is a remarkable document — a surrender disguised as voluntary integration:
+
+- Morrowind officially joins the Empire
+- But retains its system of governance by the Great Houses
+- The Tribunal Temple remains the official religion (not the Imperial cult of the Eight Divines)
+- Dunmer laws apply (including slavery, forbidden elsewhere in the Empire)
+- The Emperor appoints a symbolic governor; real power remains with the Houses
+- Imperial Legions are stationed in Morrowind but do not intervene in internal affairs
+
+### Why Peace?
+
+Both sides had reasons to cease hostilities:
+
+**For the Empire:**
+- Eighty years of war had exhausted the treasury and the Legions
+- The Reman dynasty had just ended — priority was internal stabilization
+- A nominally integrated Morrowind was preferable to a hostile Morrowind on the border
+
+**For Vivec:**
+- Even a god could not guarantee victory indefinitely
+- Imperial integration offered protection against other threats (Akavir, Argonians)
+- The terms preserved what mattered most: cultural and religious autonomy
+- Vivec may have seen further ahead — the Nerevarine Prophecy required an intact Morrowind
+
+## Consequences
+
+### For Morrowind
+
+The Treaty created a unique status: Morrowind was simultaneously an imperial province and a near-independent state. This ambiguity:
+- Protected Dunmer culture for centuries
+- Created permanent tensions between Imperial loyalists and nationalists
+- Allowed the Tribunal Temple to survive despite its incompatibility with Imperial religion
+- Maintained slavery (notably of Argonians and Khajiits) for millennia
+
+### For the Empire
+
+The integration of Morrowind nominally completed the unification of Tamriel — but at what cost? The precedent of a province with "special rights" weakened central authority and encouraged other provinces to demand exemptions.
+
+### In the Long Term
+
+The autonomy of Morrowind survived until the **Red Year** (4E 5) — over four thousand years. The Armistice Treaty is proof that a war can end without a clear victor, and that diplomacy sometimes produces arrangements more durable than total conquest.

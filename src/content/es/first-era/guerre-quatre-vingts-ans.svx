@@ -1,0 +1,113 @@
+---
+title: "La Guerra de los Ochenta Años"
+slug: "guerre-quatre-vingts-ans"
+era: "first-era"
+category: "evenements"
+tags: ["guerra", "imperio-reman", "morrowind", "vivec", "tratado-armisticio", "grandes-casas", "primera-era"]
+timelineYear: 2840
+summary: "El conflicto entre el Imperio Reman y Morrowind (1E 2840-2920), el más largo de la Primera Era, concluido por el Tratado de Armisticio que integró Morrowind en el Imperio."
+sources: ["UESP: Four Score War", "The Imperial Library: 2920 The Last Year of the First Era", "TES III: Morrowind — Historical Context"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# La Guerra de los Ochenta Años
+
+La **Guerra de los Ochenta Años** (Four Score War, 1E 2840 — 1E 2920) es el conflicto más largo de la Primera Era — un enfrentamiento de ocho décadas entre el **Imperio Reman** y **Morrowind** que se concluyó con el **Tratado de Armisticio**, integrando la provincia dunmer en el Imperio y concediéndole al mismo tiempo una autonomía sin precedentes.
+
+## Contexto
+
+### La expansión Reman
+
+El Imperio Reman, fundado por **Reman Cyrodiil** a comienzos del tercer milenio de la Primera Era, era una potencia expansionista que había unificado la mayor parte de Tamriel. Morrowind — gobernado por el **Tribunal** y las **Grandes Casas** — seguía siendo uno de los últimos territorios independientes.
+
+### La resistencia dunmer
+
+Morrowind disponía de considerables ventajas defensivas:
+- El **Tribunal** — tres dioses vivientes capaces de hazañas militares sobrehumanas
+- Las **Grandes Casas** — una aristocracia guerrera con ejércitos profesionales
+- Una geografía hostil: tierras cenizosas, volcanes y la Montaña Roja
+- Una poderosa tradición mágica (Casa Telvanni)
+- El fanatismo religioso de los devotos del Templo
+
+## Desarrollo
+
+### Primeras campañas (1E 2840 — 2870)
+
+Las primeras décadas vieron una serie de invasiones imperiales rechazadas por las fuerzas dunmer. El Imperio Reman lanzaba ofensivas desde Cyrodiil y **Bordeciel**, pero los Dunmer — dirigidos por los generales de las Casas **Redoran** e **Indoril** — defendían su territorio con tenacidad.
+
+### Guerra de desgaste (1E 2870 — 2900)
+
+El conflicto se transformó en una guerra de desgaste:
+- Las Legiones imperiales sufrían pérdidas constantes en las tierras hostiles
+- Los Dunmer no podían contraatacar eficazmente más allá de sus fronteras
+- Los recursos de ambos bandos se iban agotando progresivamente
+- Grandes batallas alternaban con años de estancamiento
+
+### El papel de Vivec
+
+**Vivec** desempeñó un papel crucial en la defensa de Morrowind. Como dios viviente y guerrero-poeta:
+- Dirigía personalmente batallas decisivas
+- Inspiraba una moral casi indestructible en los soldados dunmer
+- Empleaba su poder divino para contrarrestar las ventajas numéricas imperiales
+- Actuaba como símbolo de unidad entre las Grandes Casas, a menudo rivales entre sí
+
+### El último año (1E 2920)
+
+El año 2920 — el último de la Primera Era — vio precipitarse los acontecimientos:
+
+<CausalChain items={[
+  { text: "El Imperio Reman agota sus reservas tras 80 años de guerra" },
+  { text: "El Emperador Reman III es asesinado por la Morag Tong", indent: 1 },
+  { text: "Su heredero es también eliminado", indent: 1 },
+  { text: "El Potentado Akaviri Versidue-Shaie toma el poder", indent: 2 },
+  { text: "Versidue-Shaie negocia el Tratado de Armisticio con Vivec", indent: 2 }
+]} />
+
+## El Tratado de Armisticio
+
+### Términos
+
+El **Tratado de Armisticio** es un documento notable — una capitulación disfrazada de integración voluntaria:
+
+- Morrowind se une oficialmente al Imperio
+- Pero conserva su sistema de gobierno por las Grandes Casas
+- El Templo del Tribunal sigue siendo la religión oficial (no el culto imperial de los Ocho Divinos)
+- Las leyes dunmer se aplican (incluida la esclavitud, prohibida en el resto del Imperio)
+- El Emperador nombra un gobernador simbólico; el poder real permanece en manos de las Casas
+- Las Legiones imperiales se estacionan en Morrowind pero no intervienen en los asuntos internos
+
+### ¿Por qué la paz?
+
+Ambos bandos tenían razones para cesar las hostilidades:
+
+**Para el Imperio:**
+- Ochenta años de guerra habían agotado el tesoro y las Legiones
+- La dinastía Reman acababa de extinguirse — la prioridad era la estabilización interna
+- Un Morrowind nominalmente integrado valía más que un Morrowind hostil en la frontera
+
+**Para Vivec:**
+- Ni siquiera un dios podía garantizar la victoria indefinidamente
+- La integración imperial ofrecía protección frente a otras amenazas (Akavir, Argonianos)
+- Los términos preservaban lo esencial: la autonomía cultural y religiosa
+- Vivec quizás veía más lejos — la profecía del Nerevarino requería un Morrowind intacto
+
+## Consecuencias
+
+### Para Morrowind
+
+El Tratado creó un estatus único: Morrowind era simultáneamente una provincia imperial y un estado casi independiente. Esta ambigüedad:
+- Protegió la cultura dunmer durante siglos
+- Creó tensiones permanentes entre leales al Imperio y nacionalistas
+- Permitió al Templo del Tribunal sobrevivir pese a su incompatibilidad con la religión imperial
+- Mantuvo la esclavitud (especialmente de Argonianos y Khajiits) durante milenios
+
+### Para el Imperio
+
+La integración de Morrowind completó nominalmente la unificación de Tamriel — ¿pero a qué precio? El precedente de una provincia con «derechos especiales» debilitó la autoridad central y animó a otras provincias a exigir exenciones similares.
+
+### A largo plazo
+
+La autonomía de Morrowind sobrevivió hasta el **Año Rojo** (4E 5) — más de cuatro mil años. El Tratado de Armisticio es la prueba de que una guerra puede terminar sin un vencedor claro, y que la diplomacia produce a veces acuerdos más duraderos que la conquista total.
