@@ -1,0 +1,98 @@
+---
+title: "Los Príncipes Daédricos"
+slug: "princes-daedriques"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "oblivion", "príncipes", "mehrunes-dagon", "molag-bal", "azura", "sheogorath", "hermaeus-mora"]
+summary: "Los dieciséis Príncipes Daédricos — Et'Ada que se negaron a participar en la creación de Mundus, gobernando sus propios reinos en Oblivion."
+timelineYear: -5000
+sources: ["UESP: Daedric Princes", "The Book of Daedra", "The Imperial Library"]
+---
+
+## Naturaleza de los Príncipes
+
+Los **Príncipes Daédricos** son Et'Ada que, durante la creación de Mundus, eligieron no sacrificar su esencia. A diferencia de los Aedra (que se debilitaron al crear el mundo), los Príncipes conservaron todo su poder y crearon sus propios reinos en **Oblivion**.
+
+No son ni buenos ni malos en sentido absoluto — cada uno encarna una **esfera de influencia** (un concepto, una fuerza, un dominio) que personifican de forma absoluta.
+
+## Los Dieciséis Príncipes
+
+### Mehrunes Dagon
+**Esfera**: Destrucción, Cambio, Revolución, Ambición
+**Reino**: Las Deadlands (tierras de llamas y lava)
+**Notable**: Responsable de la Crisis de Oblivion (3E 433). Ha intentado invadir Mundus en múltiples ocasiones.
+
+### Molag Bal
+**Esfera**: Dominación, Violación, Esclavitud
+**Reino**: Coldharbour — una parodia fría y muerta de Tamriel
+**Notable**: Creador de los vampiros (primer vampiro: Lamae Beolfag). Intentó el Planemeld en 2E 582.
+
+### Azura
+**Esfera**: Crepúsculo, Alba, Vanidad, Profecía
+**Reino**: Moonshadow — un lugar de belleza sobrenatural
+**Notable**: Maldijo a los Chimer convirtiéndolos en Dunmer. Profetizó al Nerevarino. Entre los pocos Príncipes "benevolentes".
+
+### Sheogorath
+**Esfera**: Locura, Creatividad, Caos
+**Reino**: Shivering Isles — dividido en Mania (alegría maníaca) y Demencia (paranoia)
+**Notable**: El más impredecible de los Príncipes. Anteriormente Jyggalag (Príncipe del Orden) antes de ser maldecido.
+
+### Hermaeus Mora
+**Esfera**: Conocimiento, Memoria, Saber Prohibido
+**Reino**: Apocrypha — una biblioteca infinita de tomos y tentáculos
+**Notable**: Poseedor de los Libros Negros. Ayudó al Dovahkiin a vencer a Miraak.
+
+### Nocturnal
+**Esfera**: Noche, Sombras, Suerte, Misterio
+**Reino**: Evergloam — oscuridad eterna
+**Notable**: Patrona de los Ruiseñores (rama secreta del Gremio de Ladrones).
+
+### Hircine
+**Esfera**: La Caza, Deporte, Licantropía
+**Reino**: The Hunting Grounds — bosques de caza infinitos
+**Notable**: Creador de la licantropía. Organiza la Gran Cacería.
+
+### Boethiah
+**Esfera**: Conspiración, Traición, Poder
+**Reino**: Attribution's Share
+**Notable**: Devoró a Trinimac y lo transformó en Malacath.
+
+### Mephala
+**Esfera**: Mentiras, Sexo, Asesinato, Secretos
+**Reino**: The Web
+**Notable**: Creadora de la Morag Tong (gremio de asesinos de Morrowind).
+
+### Malacath
+**Esfera**: Los Marginados, Parias, Juramentos Rotos
+**Reino**: Ashpit
+**Notable**: Anteriormente Trinimac (campeón aédrico), transformado tras ser devorado por Boethiah.
+
+### Meridia
+**Esfera**: Luz, Vida, Odio a los No-Muertos
+**Reino**: The Colored Rooms
+**Notable**: Originalmente un Magna-Ge, no un Daedra. Detesta visceralmente la nigromancia.
+
+### Clavicus Vile
+**Esfera**: Pactos, Deseos, Poder mediante el Engaño
+**Reino**: The Fount
+**Notable**: Siempre acompañado de Barbas, su perro/aspecto.
+
+### Vaermina
+**Esfera**: Sueños, Pesadillas, Terror
+**Reino**: Quagmire — pesadillas cambiantes
+**Notable**: Su artefacto, el Cráneo de la Corrupción, roba los sueños.
+
+### Namira
+**Esfera**: Repugnancia, Canibalismo, Descomposición
+**Reino**: The Scuttling Void
+**Notable**: Patrona de los Caníbales y los seres rechazados.
+
+### Peryite
+**Esfera**: Plaga, Enfermedades, Orden Natural
+**Reino**: The Pits
+**Notable**: Considerado el más débil de los Príncipes. Mantiene el orden de la "gran cadena".
+
+### Sanguine
+**Esfera**: Libertinaje, Placer, Indulgencia
+**Reino**: The Myriad Realms (10 000 reinos de festín)
+**Notable**: El más "amigable" de los Príncipes — prefiere las bromas a la destrucción.

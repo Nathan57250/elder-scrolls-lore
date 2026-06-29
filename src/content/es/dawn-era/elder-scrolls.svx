@@ -1,0 +1,79 @@
+---
+title: "Los Pergaminos de los Ancianos (Elder Scrolls)"
+slug: "elder-scrolls"
+era: "dawn-era"
+category: "artefacts"
+tags: ["elder scrolls", "pergaminos", "profecía", "sacerdote de la polilla", "artefactos", "tiempo"]
+timelineYear: -9999
+summary: "Los Elder Scrolls son artefactos de la propia creación — fragmentos de la realidad anteriores al tiempo, capaces de revelar el pasado, el presente y el futuro."
+sources: ["UESP: Elder Scrolls", "The Imperial Library: Ruminations on the Elder Scrolls", "Effects of the Elder Scrolls"]
+---
+
+## La Naturaleza de los Pergaminos
+
+Los **Elder Scrolls** (Pergaminos de los Ancianos) no son simples documentos mágicos. Son **fragmentos de la creación** — astillas de la realidad tal como existía antes de que el tiempo fuera lineal. No fueron escritos ni creados por ningún ser mortal o divino: simplemente **son**.
+
+Su número es desconocido — fluctúa. Algunos eruditos afirman que existen en número infinito, otros que solo existen en el momento en que se los observa.
+
+## Propiedades
+
+### Omnisciencia Parcial
+
+Un Elder Scroll contiene **toda** la información — pasado, presente, futuro y posibilidades no realizadas. Pero esta información solo es accesible de manera fragmentaria, y nunca sin un costo.
+
+### Ceguera Progresiva
+
+Leer un Elder Scroll sin entrenamiento provoca una **ceguera progresiva**:
+- Primera lectura: visión borrosa temporal
+- Lecturas repetidas: deterioro permanente
+- Uso intensivo: ceguera total e irreversible
+
+Los **Sacerdotes de la Polilla** de la Biblioteca Ancestral bajo la Ciudad Imperial consagran su vida al estudio de los Pergaminos, aceptando la ceguera como el precio del conocimiento.
+
+### Indeterminación
+
+El contenido de un Elder Scroll **cambia** según quién lo lea y cuándo. El mismo Pergamino puede revelar profecías distintas a lectores diferentes. Nunca miente, pero nunca dice toda la verdad.
+
+## Los Sacerdotes de la Polilla
+
+La orden de los Sacerdotes de la Polilla tiene su sede en la **Biblioteca Ancestral** bajo la Ciudad Imperial. Su formación es larga:
+
+1. **Novicio** — meditación y estudio de textos secundarios
+2. **Iniciado** — contacto indirecto con los Pergaminos
+3. **Lector** — primeras lecturas supervisadas
+4. **Maestro** — lecturas independientes (inicio de la pérdida de visión)
+5. **Anciano Ciego** — ceguera total, pero visiones permanentes
+
+Su nombre proviene de un ritual en el que nubes de polillas ancestrales se posan sobre ellos, formando patrones que guían su interpretación.
+
+## Papel en la Historia
+
+### La Profecía del Dovahkiin
+
+Un Elder Scroll fue utilizado por los antiguos Nórdicos para proyectar a Alduin hacia el futuro — la **Herida del Tiempo** en la Garganta del Mundo. Ese mismo Pergamino permitió al Último Dovahkiin aprender Dragonrend.
+
+### El Sacramento de la Torre de Cristal
+
+Los Emperadores Septim usaban un Elder Scroll en el ritual de legitimación imperial, ligando la sangre de dragón al Amuleto de los Reyes.
+
+### La Crisis de Oblivion
+
+Durante la destrucción de la Biblioteca Ancestral en la Crisis de Oblivion, varios Pergaminos fueron dispersados. Algunos cayeron en manos de la Hermandad Oscura, otros fueron recuperados por los Dawnguard.
+
+## Localizaciones Conocidas
+
+| Pergamino | Localización | Era |
+|-----------|-------------|-----|
+| Pergamino de la Sangre | Fuerte Dawnguard / Castillo Volkihar | 4ª |
+| Pergamino del Sol | Cueva de Darkfall | 4ª |
+| Pergamino del Dragón | Garganta del Mundo (Herida del Tiempo) | 4ª |
+| Varios sin nombre | Biblioteca Ancestral, Ciudad Imperial | 3ª-4ª |
+| Pergamino de Alduin | Torre de Mzark, Pozos Negros | 4ª |
+
+## Teorías Metafísicas
+
+Algunos eruditos (en particular Septimus Signus) teorizan que los Elder Scrolls son **artefactos del Godhead** — fragmentos de la conciencia del Durmiente que contienen el "código fuente" de la realidad. Leerlos equivaldría a acceder directamente al Sueño desde el interior del Sueño.
+
+Otros sugieren que son las **memorias de Akatosh** — el dios del Tiempo habría inscrito toda la cronología en estos artefactos en el momento de la Convención.
+
+Sea lo que fuere, los Elder Scrolls siguen siendo uno de los grandes misterios de Tamriel — objetos que desafían la comprensión incluso de los más sabios.

@@ -1,0 +1,98 @@
+---
+title: "The Daedric Princes"
+slug: "princes-daedriques"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "oblivion", "princes", "mehrunes-dagon", "molag-bal", "azura", "sheogorath", "hermaeus-mora"]
+summary: "The sixteen Daedric Princes — Et'Ada who refused to take part in the creation of Mundus, ruling over their own realms of Oblivion."
+timelineYear: -5000
+sources: ["UESP: Daedric Princes", "The Book of Daedra", "The Imperial Library"]
+---
+
+## Nature of the Princes
+
+The **Daedric Princes** are Et'Ada who, at the time of Mundus's creation, chose not to sacrifice their essence. Unlike the Aedra (who weakened themselves by creating the world), the Princes retained their full power and crafted their own realms in **Oblivion**.
+
+They are neither good nor evil in any absolute sense — each embodies a **sphere of influence** (a concept, a force, a domain) that they personify absolutely.
+
+## The Sixteen Princes
+
+### Mehrunes Dagon
+**Sphere**: Destruction, Change, Revolution, Ambition
+**Realm**: The Deadlands (lands of flame and lava)
+**Notable**: Responsible for the Oblivion Crisis (3E 433). Has attempted to invade Mundus multiple times.
+
+### Molag Bal
+**Sphere**: Domination, Violation, Enslavement
+**Realm**: Coldharbour — a cold and dead mockery of Tamriel
+**Notable**: Creator of vampires (first vampire: Lamae Beolfag). Attempted the Planemeld in 2E 582.
+
+### Azura
+**Sphere**: Twilight, Dawn, Vanity, Prophecy
+**Realm**: Moonshadow — a place of unearthly beauty
+**Notable**: Cursed the Chimer into Dunmer. Prophesied the Nerevarine. Among the rare "benevolent" Princes.
+
+### Sheogorath
+**Sphere**: Madness, Creativity, Chaos
+**Realm**: Shivering Isles — divided into Mania (manic joy) and Dementia (paranoia)
+**Notable**: The most unpredictable of the Princes. Formerly Jyggalag (Prince of Order) before being cursed.
+
+### Hermaeus Mora
+**Sphere**: Knowledge, Memory, Forbidden Lore
+**Realm**: Apocrypha — an infinite library of tomes and tentacles
+**Notable**: Possessor of the Black Books. Aided the Dovahkiin in defeating Miraak.
+
+### Nocturnal
+**Sphere**: Night, Shadow, Luck, Mystery
+**Realm**: Evergloam — eternal darkness
+**Notable**: Patron of the Nightingales (secret branch of the Thieves Guild).
+
+### Hircine
+**Sphere**: The Hunt, Sport, Lycanthropy
+**Realm**: The Hunting Grounds — infinite hunting forests
+**Notable**: Creator of lycanthropy. Organizes the Great Hunt.
+
+### Boethiah
+**Sphere**: Conspiracy, Betrayal, Power
+**Realm**: Attribution's Share
+**Notable**: Devoured Trinimac and transformed him into Malacath.
+
+### Mephala
+**Sphere**: Lies, Sex, Murder, Secrets
+**Realm**: The Web
+**Notable**: Creator of the Morag Tong (assassins' guild of Morrowind).
+
+### Malacath
+**Sphere**: The Ostracized, Outcasts, Broken Oaths
+**Realm**: Ashpit
+**Notable**: Formerly Trinimac (Aedric champion), transformed after being devoured by Boethiah.
+
+### Meridia
+**Sphere**: Light, Life, Hatred of the Undead
+**Realm**: The Colored Rooms
+**Notable**: Originally a Magna-Ge, not a Daedra. Viscerally despises necromancy.
+
+### Clavicus Vile
+**Sphere**: Pacts, Wishes, Power through Deception
+**Realm**: The Fount
+**Notable**: Always accompanied by Barbas, his dog/aspect.
+
+### Vaermina
+**Sphere**: Dreams, Nightmares, Terror
+**Realm**: Quagmire — ever-shifting nightmares
+**Notable**: Her artifact, the Skull of Corruption, steals dreams.
+
+### Namira
+**Sphere**: Repulsion, Cannibalism, Decay
+**Realm**: The Scuttling Void
+**Notable**: Patron of Cannibals and rejected beings.
+
+### Peryite
+**Sphere**: Pestilence, Disease, Natural Order
+**Realm**: The Pits
+**Notable**: Considered the weakest of the Princes. Maintains the order of the "great chain."
+
+### Sanguine
+**Sphere**: Debauchery, Pleasure, Indulgence
+**Realm**: The Myriad Realms (10,000 realms of revelry)
+**Notable**: The most "friendly" of the Princes — prefers pranks to destruction.

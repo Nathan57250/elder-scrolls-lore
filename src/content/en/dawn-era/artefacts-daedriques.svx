@@ -1,0 +1,119 @@
+---
+title: "Daedric Artifacts"
+slug: "artefacts-daedriques"
+era: "dawn-era"
+category: "artefacts"
+tags: ["artifacts", "daedra", "daedric princes", "power", "daedric quests"]
+timelineYear: -9999
+summary: "Daedric artifacts are objects of immense power created by Daedric Princes — given to mortals in exchange for services, they pass through the ages from hand to hand."
+sources: ["UESP: Daedric Artifacts", "Tamrielic Lore", "The Imperial Library: Daedric Quests"]
+---
+
+## Nature of the Artifacts
+
+Daedric artifacts are fundamentally different from ordinary enchanted objects:
+- Created by the **direct will** of a Daedric Prince
+- **Indestructible** by conventional means
+- Tend to **return** to their Prince after a time (decades or centuries)
+- Often possess a **consciousness** or will of their own
+- Their power is tied to the sphere of their creating Prince
+
+## Major Artifacts
+
+### Azura — Azura's Star
+- Infinitely reusable soul gem
+- Normally captures only creature souls (not human)
+- Can be corrupted into the **Black Star** to capture human souls
+- One of the most sought-after artifacts by enchanters
+
+### Boethiah — Ebony Mail
+- Heavy ebony armor
+- Envelops the wearer in a cloud of poison
+- Renders the wearer partially invisible when crouching
+- Granted to one who proves their worth through betrayal
+
+### Clavicus Vile — Masque of Clavicus Vile
+- Mask enhancing persuasion and bartering
+- Barbas (his dog) is often separated from the Masque
+- Clavicus Vile is known for his double-edged pacts
+- The most "safe" artifact as it is passive
+
+### Hermaeus Mora — Oghma Infinium
+- Book of ultimate knowledge granting a massive skill increase
+- Disintegrates after being read
+- Contains forbidden knowledge compiled by Xarxes, scribe of Auri-El
+- Obtained by serving Mora's interests
+
+### Hircine — Ring of Hircine
+- Allows control over werewolf transformations
+- Without the ring, transformations are random
+- Alternative: **Savior's Hide** — magical resistance
+
+### Malacath — Volendrung
+- Colossal war hammer of Orcish origin
+- Drains enemies' stamina
+- Symbol of the brute strength of the Orsimer
+- Passes between the hands of Orsinium's champions
+
+### Mehrunes Dagon — Mehrunes' Razor
+- Dagger with a chance of instant kill
+- Small but infinitely dangerous
+- Symbol of Dagon's absolute destruction
+- Broken into fragments, must be reassembled
+
+### Mephala — Ebony Blade
+- Katana that absorbs the life of enemies
+- Grows stronger by killing those who **trust** you
+- The darkest artifact morally — rewards betrayal
+- Whispers to its wielder, encouraging murder
+
+### Meridia — Dawnbreaker
+- Sword that burns the undead with Meridia's light
+- Causes a solar explosion when killing an undead creature
+- One of the few "benevolent" Daedric artifacts
+- Meridia passionately despises the undead
+
+### Molag Bal — Mace of Molag Bal
+- Mace that drains the life force and soul of victims
+- Traps souls in soul gems
+- The most overtly malevolent artifact
+- Obtained by breaking the will of a priest
+
+### Namira — Ring of Namira
+- Allows feeding on human corpses
+- Grants regeneration and stamina when consuming the dead
+- The most socially repugnant artifact
+- Tied to Namira's cannibalistic cult
+
+### Nocturnal — Skeleton Key
+- Unbreakable lockpick that opens any lock
+- Not only physical — it "opens" metaphysical barriers as well
+- Stolen by Mercer Frey from the Thieves Guild
+- Must be returned to the Twilight Sepulcher
+
+### Sanguine — Sanguine Rose
+- Staff that summons an allied Dremora in combat
+- Obtained after a night of debauchery with Sanguine
+- The most "fun" artifact — reflects its Prince's festive nature
+
+### Sheogorath — Wabbajack
+- Staff with completely **random** effects
+- Can transform an enemy into a rabbit, a Dremora, or heal them
+- Perfect embodiment of Sheogorath's madness
+- Impossible to use strategically
+
+### Vaermina — Skull of Corruption
+- Staff that charges with the **dreams** of sleepers
+- Projects nightmares as projectiles
+- Charges by standing near sleeping people
+- Represents Vaermina's power over dreams
+
+## The Artifact Cycle
+
+Daedric artifacts follow a cycle:
+1. A Prince offers the artifact to a worthy mortal
+2. The mortal uses it until their death
+3. The artifact "disappears" and returns to its Prince's plane
+4. Decades or centuries later, it reappears for a new champion
+
+This cycle explains why the same artifacts appear in every Elder Scrolls game — they are eternal and in perpetual circulation.

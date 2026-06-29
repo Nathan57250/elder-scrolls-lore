@@ -1,0 +1,92 @@
+---
+title: "Sovngarde — The Warriors' Paradise"
+slug: "sovngarde"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["sovngarde", "shor", "death", "nords", "afterlife", "aetherius", "tsun"]
+timelineYear: -9999
+summary: "Sovngarde is the afterlife of Nordic warriors — an eternal hall in Aetherius where the valiant feast and fight beneath the gaze of Shor."
+sources: ["UESP: Sovngarde", "Songs of Sovngarde", "The Imperial Library: Nordic Afterlife"]
+---
+
+## Nature
+
+![Sovngarde — the hall of the valiant](/images/dawn-era/sovngarde.jpg)
+
+**Sovngarde** is a domain of **Aetherius** — the immortal plane of magic and the gods. It is the afterlife reserved for honorable Nordic warriors, a concept analogous to the Norse Valhalla.
+
+It is not a simple "paradise": it is a **physical** place (insofar as Aetherius is physical) that the Last Dragonborn visited and returned from.
+
+## Access
+
+### Who may enter?
+- **Warriors who die in battle** with honor
+- Those who have lived a life of **bravery** (not necessarily military)
+- Heroes recognized by Shor/Tsun
+- Regardless of race (though primarily Nordic)
+
+### Who may not enter?
+- Cowards and the dishonorable
+- Those whose soul is claimed by a Daedric Prince (werewolves go to Hircine, vampires to Molag Bal)
+- Daedra worshippers (their soul goes to the Prince)
+- Those who have not earned passage
+
+### The Whale Bone Bridge
+The entrance to Sovngarde is guarded by **Tsun** — the Nordic god of trials. He stands at the **Whale Bone Bridge**, made of massive whale bones, and challenges each arrival to single combat to prove their worth.
+
+## Description
+
+### The Hall of Valor
+An immense feasting hall where heroes of every age drink, eat, and fight eternally:
+- Tables laden with mead and meat
+- Perpetual friendly combat (without permanent death)
+- Songs and accounts of past deeds
+- Eternal light, neither day nor night
+
+### The Exterior
+Beyond the Hall, Sovngarde is described as:
+- Verdant valleys covered in luminous mist
+- An eternal sky of permanent auroras
+- Majestic mountains in the distance
+- A supernatural beauty, "more real than real"
+
+## Notable Residents
+
+| Hero | Era | Deed |
+|-------|-----|---------|
+| Ysgramor | Merethic | Conquest of Skyrim |
+| Jurgen Windcaller | 1st | Founded the Greybeards |
+| Olaf One-Eye | 1st | Captured Numinex |
+| Felldir the Old | Merethic | Banished Alduin with an Elder Scroll |
+| Gormlaith Golden-Hilt | Merethic | Fought the Dragons |
+| Hakon One-Eye | Merethic | Warrior of the Dragon War |
+| Kodlak Whitemane | 4th | Hero of the Companions (if freed from Hircine) |
+| High King Torygg | 4th | Slain by Ulfric |
+
+## The Alduin Incident
+
+In 4E 201, **Alduin** was feeding on the souls of Sovngarde — devouring the dead to increase his power before destroying the world:
+- He created an **impenetrable mist** around Sovngarde to disorient souls
+- The ancient heroes could not fight him alone
+- The Last Dragonborn entered Sovngarde through the portal at Skuldafn
+- Together with Felldir, Gormlaith, and Hakon, he defeated Alduin for good
+- Tsun returned the Dovahkiin to Mundus after the victory
+
+## Shor
+
+**Shor** is the Nordic aspect of Lorkhan — the dead god who created Mundus. He is the "king" of Sovngarde, but:
+- His throne is **always empty** when visited
+- He is "absent" — perhaps because Lorkhan is dead/dispersed
+- Some theorize that he is still present but invisible to mortal eyes
+- Others believe he periodically reincarnates as a Shezarrine
+
+## Cultural Comparisons
+
+Each culture has its own afterlife in Aetherius:
+- **Nords** — Sovngarde (hall of Shor)
+- **Redguards** — Far Shores
+- **Khajiit** — The Sands Behind the Stars
+- **Imperials** — Generic Aetherius (no specific named location)
+- **Dunmer** — Join their ancestors (not Aetherius — ancestral tradition)
+
+Are these separate planes or different regions of Aetherius? Tamriel's theologians are still debating.

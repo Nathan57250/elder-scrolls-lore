@@ -1,0 +1,84 @@
+---
+title: "The Races of Tamriel"
+slug: "races-de-tamriel"
+era: "dawn-era"
+category: "races"
+tags: ["races", "elves", "humans", "beastfolk", "mer", "man", "argonian", "khajiit"]
+timelineYear: -9999
+summary: "An overview of the ten playable races of Tamriel: their origins, cultures, abilities, and place in history."
+sources: ["UESP: Races", "The Imperial Library: Pocket Guide to the Empire"]
+---
+
+## The Peoples of Tamriel
+
+Tamriel is home to a multitude of intelligent races, generally classified into three main groups: the **Men** (descended from the wandering Ehlnofey), the **Mer** (elves, descended from the Aldmer), and the **Beastfolk** (beast races of distinct origins).
+
+## The Human Races
+
+### Imperials (Cyrodiil)
+
+Native to the province of Cyrodiil, Imperials are born diplomats and merchants. They have founded three successive empires and their culture has dominated Tamriel for millennia. Their talent for the *Voice of the Emperor* reflects their nature as empire-builders.
+
+### Nords (Skyrim)
+
+Tall, hardy, and resistant to cold, Nords descend from the Atmorans who emigrated from the frozen continent of Atmora. Fierce warriors and fearless sailors, they venerate Shor (Lorkhan) and possess a natural resistance to frost. Their culture prizes honor in battle and the passage to Sovngarde.
+
+### Redguards (Hammerfell)
+
+Originally from the lost continent of Yokuda, Redguards are Tamriel's finest natural warriors. Their martial art, the *Shehai* (Way of the Sword), is legendary. Fiercely independent, they have often resisted Imperial domination.
+
+### Bretons (High Rock)
+
+Descended from an ancient intermingling of Nedic and Aldmeri bloodlines, Bretons combine a natural affinity for magic with a human constitution. Their feudal society, rich in political intrigue, produces excellent battlemages and enchanters.
+
+## The Elvish Races (Mer)
+
+### Altmer — High Elves (Summerset Archipelago)
+
+Altmer consider themselves the purest descendants of the original Aldmer. Tall, golden-skinned, and proud, they possess the greatest natural affinity for magic of any race. Their society is rigidly hierarchical and they aspire to perfection — even to the return of a divine state.
+
+### Bosmer — Wood Elves (Valenwood)
+
+Small and agile, Bosmer live in harmony with the forests of Valenwood. Bound by the **Green Pact**, they consume no vegetation and are strictly carnivorous. They are Tamriel's finest archers and unrivaled scouts.
+
+### Dunmer — Dark Elves (Morrowind)
+
+Once the Chimer (Changed Folk), the Dunmer were cursed by Azura after the Tribunal used Kagrenac's Tools on the Heart of Lorkhan. Their skin became ashen and their eyes turned red. A proud and resilient people, they have survived slavery, eruptions, and invasions alike.
+
+### Orcs — Orsimer (Orsinium)
+
+The Orsimer are the "Pariah Elves" — transformed when Trinimac was devoured by Boethiah and became Malacath. Peerless warriors and smiths, they are marginalized by other races, yet their city of Orsinium has been destroyed and rebuilt many times, a testament to their tenacity.
+
+## The Beast Races
+
+### Argonians (Black Marsh)
+
+Argonians are reptilians bound to the **Hist** — ancient sentient trees that predate the very creation of Anu and Padomay according to some theories. They are resistant to disease and poison, can breathe underwater, and regenerate their limbs. Their society is deeply communal and mystical.
+
+### Khajiit (Elsweyr)
+
+The Khajiit are a feline people whose morphology varies drastically according to the lunar phases of Jone and Jode (Masser and Secunda) at the time of their birth. Some resemble domestic cats, others giant tigers, others still are nearly humanoid. Agile, cunning, and often subject to prejudice, they venerate Azurah who gave them their form.
+
+## Comparative Table
+
+| Race | Province | Affinity | Distinctive Trait |
+|------|----------|----------|-------------------|
+| Imperial | Cyrodiil | Diplomacy | Voice of the Emperor |
+| Nord | Skyrim | Combat | Frost Resistance |
+| Redguard | Hammerfell | Sword | Adrenaline Rush |
+| Breton | High Rock | Magic | Magic Resistance |
+| Altmer | Alinor | Pure Magic | Magical Fortitude |
+| Bosmer | Valenwood | Archery | Poison/Disease Resistance |
+| Dunmer | Morrowind | Fire | Fire Resistance |
+| Orsimer | Orsinium | Smithing/Combat | Berserker Rage |
+| Argonian | Black Marsh | Alchemy | Underwater Breathing |
+| Khajiit | Elsweyr | Stealth | Night Eye |
+
+## Extinct Races
+
+Several races have vanished over the ages:
+- **Dwemer** — disappeared during the Battle of Red Mountain (1E 700)
+- **Ayleids** — the Wild Elves of Cyrodiil, wiped out by the Alessian Revolt
+- **Falmer** — the Snow Elves, enslaved by the Dwemer and degenerated into blind creatures
+- **Left-Handed Elves** — destroyed by the Redguards on Yokuda
+- **Nedes** — proto-human ancestors absorbed into modern populations

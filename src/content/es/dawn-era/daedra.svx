@@ -1,0 +1,83 @@
+---
+title: "Los Daedra — Naturaleza y Jerarquía"
+slug: "daedra"
+era: "dawn-era"
+category: "religion"
+tags: ["daedra", "oblivion", "príncipes daédricos", "daedra menores", "invocación", "pactos"]
+timelineYear: -9999
+summary: "Los Daedra son los Et'Ada que se negaron a participar en la creación de Mundus — inmortales, poderosos y fundamentalmente ajenos a la moralidad mortal."
+sources: ["UESP: Daedra", "The Imperial Library: On Oblivion", "Varieties of Daedra"]
+---
+
+## Definición
+
+La palabra **Daedra** significa literalmente "no nuestros ancestros" en aldmérico (en contraposición a **Aedra**, "nuestros ancestros"). Son los Et'Ada — los seres originales — que **se negaron** a sacrificar una parte de su poder para crear Mundus.
+
+Este rechazo no los convierte en seres "malvados" por naturaleza. Son simplemente **ajenos** a Mundus y a sus reglas. Algunos son benevolentes, otros destructivos, y la mayoría son simplemente incomprensibles.
+
+## La Jerarquía Daédrica
+
+### Los Príncipes Daédricos
+
+Los 17 Príncipes Daédricos son los más poderosos de los Daedra. Cada uno gobierna un reino de Oblivion y encarna un concepto fundamental:
+
+| Príncipe | Esfera | Reino |
+|--------|--------|---------|
+| Azura | Alba y Crepúsculo | Moonshadow |
+| Boethiah | Conspiración, Traición | Attribution's Share |
+| Clavicus Vile | Pactos, Poder | The Fields of Regret |
+| Hermaeus Mora | Saber Prohibido | Apocrypha |
+| Hircine | La Caza | Hunting Grounds |
+| Malacath | Parias, Juramentos | Ashpit |
+| Mehrunes Dagon | Destrucción, Revolución | Deadlands |
+| Mephala | Mentiras, Sexo, Asesinato | Spiral Skein |
+| Meridia | Energía Vital, Anti-No-Muertos | Colored Rooms |
+| Molag Bal | Dominación, Violación | Coldharbour |
+| Namira | Repugnancia, Decadencia | Scuttling Void |
+| Nocturnal | Noche, Tinieblas, Suerte | Evergloam |
+| Peryite | Plaga, Orden Natural | The Pits |
+| Sanguine | Libertinaje, Hedonismo | Myriad Realms of Revelry |
+| Sheogorath | Locura | Shivering Isles |
+| Vaermina | Pesadillas, Terror | Quagmire |
+| Jyggalag | Orden (Maldecido en Sheogorath) | — |
+
+### Daedra Menores
+
+Por debajo de los Príncipes existen innumerables Daedra "menores":
+- **Dremora** — guerreros inteligentes al servicio de los Príncipes, organizados en clanes
+- **Dremora Valkynaz** — señores de guerra daédricos
+- **Atronacs** — elementales ligados (fuego, escarcha, tormenta)
+- **Aurorans** — caballeros dorados de Meridia
+- **Mazken** (Seductoras Oscuras) — guerreras de Sheogorath
+- **Aureal** (Santos Dorados) — soldados de Sheogorath
+- **Clannfear** — feroces criaturas reptilianas
+- **Scamps** — pequeños y cobardes servidores
+- **Xivilai** — humanoides poderosos y arrogantes
+
+## Inmortalidad Daédrica
+
+Los Daedra no **mueren**. Cuando su forma física es destruida en Mundus, su esencia (su *vestigio*) regresa a las Aguas de Oblivion y se reconstituye lentamente. Esta inmortalidad es fundamental: un Daedra invocado y muerto siempre volverá.
+
+Solo los **Aedra** están disminuidos, pues invirtieron su poder en la creación. Los Daedra permanecen eternamente a plena potencia.
+
+## Los Pactos Daédricos
+
+Los mortales interactúan con los Daedra principalmente mediante:
+
+### Invocación
+Llamar a un Daedra desde Oblivion para ligarlo temporalmente. Peligroso — un vínculo mal formulado puede volverse contra el invocador.
+
+### Pactos
+Los Príncipes Daédricos ofrecen **artefactos** a cambio de servicios. Estos artefactos se encuentran entre los objetos más poderosos de Tamriel (la Máscara de Clavicus Vile, la Maza de Molag Bal, la Estrella de Azura, etc.)
+
+### Culto
+Algunas culturas veneran abiertamente a los Príncipes:
+- Los **Dunmer** reverenciaban a los "Buenos Daedra" (Azura, Boethiah, Mephala)
+- Los **Rieklings** de Solstheim veneran a Hermaeus Mora
+- Los **Habitantes del Reach** practican el culto daédrico de manera sincrética
+
+## El Problema Moral
+
+Los Príncipes Daédricos no son ni buenos ni malos — simplemente **son**. Meridia combate a los no-muertos (¿bien?) pero por odio al estado mortal en sí mismo. Molag Bal domina (¿mal?) pero algunos mortales encuentran fortaleza en sus pruebas. Sheogorath trae la locura y el arte.
+
+El Templo Divino del Imperio prohíbe el culto daédrico, pero esta prohibición es tanto política como teológica.

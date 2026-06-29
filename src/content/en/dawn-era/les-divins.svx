@@ -1,0 +1,86 @@
+---
+title: "The Divines — The Imperial Pantheon"
+slug: "les-divins"
+era: "dawn-era"
+category: "religion"
+tags: ["divines", "aedra", "nine divines", "eight divines", "akatosh", "talos", "religion", "temple"]
+timelineYear: -9999
+summary: "The Eight (or Nine) Divines form the official pantheon of the Cyrodiilic Empire — the Aedra who sacrificed their power to create Mundus."
+sources: ["UESP: Nine Divines", "The Imperial Library: Varieties of Faith", "Pocket Guide to the Empire"]
+---
+
+## The Aedra and Creation
+
+The **Aedra** ("our ancestors" in Aldmeri) are the Et'Ada who participated in the creation of Mundus at Lorkhan's urging. Unlike the Daedra, they **sacrificed** a portion of their divine power to weave the mortal plane. This sacrifice rendered them **mortal** in a sense — diminished, incapable of acting directly in the world.
+
+Their influence passes through blessings, prophecies, and rare avatars.
+
+## The Eight Divines
+
+### Akatosh — The Dragon of Time
+- **Sphere**: Time, Endurance, Eternity
+- **Symbol**: Dragon
+- Chief of the Divines and the first of the Et'Ada to take form. He established linear time during the Convention. His blood flows in the Septim Emperors (the "Dragonblood"). He manifested as an avatar during the Oblivion Crisis to seal the gates of Oblivion.
+
+### Arkay — The Cycle of Life
+- **Sphere**: Birth, Death, Cycle of the Seasons
+- **Symbol**: Circle of life
+- Guardian of the boundary between life and death. His priests protect the bodies of the dead from necromancy. "Arkay's Law" prevents souls from being raised against their will.
+
+### Dibella — Beauty
+- **Sphere**: Beauty, Love, Art
+- **Symbol**: Flower
+- Goddess of arts and affection. Her cult is popular though sometimes controversial for its more sensual aspects. Her temples teach both painting and the "arts of love."
+
+### Julianos — Wisdom
+- **Sphere**: Wisdom, Logic, Literature, Law
+- **Symbol**: Triangle
+- Patron of scholars and mages. Associated with the Mages Guild and Imperial universities.
+
+### Kynareth — Nature
+- **Sphere**: Sky, Wind, Nature
+- **Symbol**: Bird
+- Goddess of the air and patron of sailors. It was she who gave Mundus breath — the space in which to exist. Associated with the Nordic Thu'um (under the name Kyne).
+
+### Mara — Motherly Love
+- **Sphere**: Love, Compassion, Fertility
+- **Symbol**: Joined hands
+- The Mother-Goddess, patron of marriages and households. Her temples offer refuge and healing. Her priestesses celebrate unions across all of Tamriel.
+
+### Stendarr — Mercy
+- **Sphere**: Justice, Mercy, Charity
+- **Symbol**: Chalice
+- God of compassion and protector of the weak. The **Vigils of Stendarr** are a militant order dedicated to the eradication of Daedra, vampires, and werewolves.
+
+### Zenithar — Labor
+- **Sphere**: Commerce, Work, Craftsmanship
+- **Symbol**: Anvil
+- Patron of merchants and artisans. "Zenithar says: work is its own reward." Often associated with Kynareth as her consort.
+
+## The Ninth Divine: Talos
+
+**Talos** (Tiber Septim) was elevated to the rank of Divine after his death in 3E 38, becoming the God of War and Governance. His divine status is the most controversial theological question in Tamriel:
+
+- **For Imperials and Nords**: Talos is a legitimate god, a mortal who achieved apotheosis
+- **For the Thalmor**: Talos is a false god, a mortal man whom humans worship out of arrogance
+
+The **White-Gold Concordat** (4E 175) officially banned the worship of Talos — a clause that directly ignited the Skyrim Civil War.
+
+## Cultural Variations
+
+The same Divine carries different names across cultures:
+
+| Imperial | Nordic | Elvish | Khajiit |
+|----------|----------|---------|---------|
+| Akatosh | Alduin | Auri-El | Alkosh |
+| Kynareth | Kyne | — | Khenarthi |
+| Mara | Mara | — | Mara |
+| Arkay | Orkey | Xarxes | — |
+| Stendarr | Stuhn | Syrabane | S'rendarr |
+| Dibella | — | — | — |
+| Julianos | Jhunal | — | — |
+| Zenithar | Tsun | — | — |
+
+## Blessings
+
+The faithful can receive **blessings** by praying at the shrines of the Divines in their temples. These blessings are short-lived but real — tangible proof of the existence and attention of the Divines toward Mundus, despite their diminished state.

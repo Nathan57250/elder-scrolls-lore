@@ -1,0 +1,123 @@
+---
+title: "Lorkhan, the Missing God"
+slug: "lorkhan"
+era: "dawn-era"
+category: "personnages"
+tags: ["Lorkhan", "Shor", "Shezarr", "Aedra", "Heart of Lorkhan", "Shezarrines", "Mundus", "Trickster"]
+timelineYear: -9999
+summary: "Lorkhan, the trickster god who convinced the Aedra to create Mundus, was punished at the Convention but his influence persists through the Shezarrines and his immortal Heart."
+sources: ["The Monomyth", "Sithis", "Shezarr and the Divines", "Five Songs of King Wulfharth", "Commentaries on the Mysterium Xarxes", "The Song of Pelinal"]
+---
+
+## Lorkhan: The Architect of Mortality
+
+Lorkhan — also known as **Shor**, **Shezarr**, **Lorkhaj**, **Sep**, or the **Missing God** — is without doubt the most controversial and most consequential deity in Tamriel's pantheon. Neither fully Aedra nor truly Daedra, he occupies a unique position in the cosmology: that of creator-trickster whose foundational act gave birth to the mortal plane while condemning its participants to finitude.
+
+### Names and Aspects Across Cultures
+
+| Culture | Name | Perception |
+|---|---|---|
+| Imperial | Shezarr | Absent god, spirit of Humanity |
+| Nordic | Shor | King of the gods, warrior hero |
+| Khajiit | Lorkhaj | The Moon Beast, lunar trickster |
+| Redguard | Sep | The hungry serpent |
+| Aldmer / Altmer | Lorkhan | The Great Enemy |
+| Dunmer (pre-Tribunal) | Lorkhan | The necessary Adversary |
+| Bosmer | Lorkhan | The Clever Fox |
+
+## The Great Deception
+
+### The Idea of Mundus
+
+In the beginning, within the Void of the Aurbis, the Et-Ada — the original spirits born from the conflict between Anu and Padomay — existed without fixed form or defined purpose. Lorkhan, described in some texts as a child of Sithis (the embodiment of primal chaos), conceived a revolutionary vision: to create a plane of existence where spirits could know themselves through limitation and mortality.
+
+According to *The Monomyth*:
+
+> *Lorkhan traveled the realms of Aetherius, whispering his Idea into the ear of every spirit. To some he promised glory, to others wisdom, to all he promised something new.*
+
+### The Persuasion of the Aedra
+
+The exact method by which Lorkhan convinced the other spirits varies across traditions:
+
+- **Nordic tradition**: Shor inspired the gods through his bravery and vision, inviting them to create a place of challenge and honor
+- **Elvish tradition**: Lorkhan used lies and half-truths, concealing the true cost of Creation
+- **Redguard tradition**: Sep, driven mad by Hunger, devoured the spirits to force their participation
+- **Khajiit tradition**: Lorkhaj was corrupted by the Darkness of the Great Void and passed this corruption to the others
+
+### The Cost of Creation
+
+When the Aedra realized the full extent of the sacrifice demanded, it was too late. The creation of Mundus had:
+
+1. Irreversibly drained their divine essence
+2. Bound them to the mortal plane as unwilling guardians
+3. Transformed some of them into natural elements (Y'ffre's earth, for instance)
+4. Made a full return to their former state impossible
+
+## The Death of Lorkhan
+
+### The Judgment of the Convention
+
+Gathered at the summit of the Adamantine Tower, the surviving Aedra judged Lorkhan guilty of cosmic deception. Trinimac, the mightiest champion of the Aedra, was appointed as executioner.
+
+### The Tearing of the Heart
+
+Trinimac plunged his hand into Lorkhan's chest and tore out the Heart — an artifact of immeasurable power, concentrating the very essence of the god of Creation. Lorkhan's body, emptied of its divine core, split to form the two moons of Nirn: **Masser** and **Secunda**.
+
+### The Heart Through History
+
+Auri-El fixed the Heart to an arrow and fired it into the sea, where it sank into the rock and created Red Mountain. The Heart then became a catalyst for many major events:
+
+- The **Dwemer** built the Numidium in an attempt to harness its power
+- The **Tribunal** (Vivec, Almalexia, Sotha Sil) drew from it to attain godhood
+- **Dagoth Ur** used it to fuel his Blight
+- The **Nerevarine** destroyed the enchantments binding it, triggering the eruption of Red Mountain
+
+## The Shezarrines: Avatars of the Dead God
+
+### The Concept
+
+Though dead, Lorkhan's influence persists in the mortal world through partial incarnations known as **Shezarrines** — individuals carrying a fragment of Shor/Shezarr's spirit. These avatars generally appear at critical moments in human history, often to defend the human races against elvish or daemonic threats.
+
+### Known or Suspected Shezarrines
+
+Scholars debate the exact identity of the Shezarrines, but several historical figures are frequently cited:
+
+- **Pelinal Whitestrake** — the half-mad Divine Knight who liberated Cyrodiil from the Ayleids. Texts describe him as an anachronistic being, clad in impossible armor, subject to genocidal rages and weeping for a lover whose name evoked the stars.
+- **Wulfharth** (Ysmir) — the High King of Skyrim who died and was resurrected multiple times, each time to defend the Nords against their enemies. The *Five Songs of King Wulfharth* constitute the most detailed account of a Shezarrine.
+- **Tiber Septim** (Talos) — the unifier of Tamriel, whose ascension to divine status may represent the reintegration of Lorkhan into the divine pantheon.
+- **The Last Dragonborn** — some scholars speculate on this possibility.
+
+### Characteristics of the Shezarrines
+
+Shezarrines generally share certain traits:
+
+- A natural affinity for the Thu'um or vocal magic
+- A fate inextricably tied to conflicts between Men and Mer
+- A remarkable resistance to permanent death
+- Episodes of uncontrollable rage or divine madness
+- A mystical connection to the concept of *Kingship* and sovereignty
+
+## Lorkhan in Metaphysics
+
+### The Missing Space
+
+In the cosmology of the Aurbis, each Daedric Prince possesses a plane of Oblivion. Each Aedra is embodied in a celestial body. Lorkhan, however, is *absent* — his space is Mundus itself. Some mystics hold that Nirn is not simply Lorkhan's creation but his *body*, and that every mortal living on its surface exists literally inside the dead god.
+
+### CHIM and Lorkhan's Tower
+
+The esoteric teachings of Vivec (the *Thirty-Six Lessons*) suggest that Lorkhan had attained the state of **CHIM** — self-awareness within the Dream of Anu — and that the creation of Mundus was a deliberate act of Love. In this interpretation, the "deception" was no deception at all: Lorkhan willingly sacrificed his divine existence to offer spirits the possibility of attaining this enlightenment themselves.
+
+### Sovngarde: The Hall of Shor
+
+The Nords believe that Shor presides over **Sovngarde**, the paradise of warriors who die valiantly. If this belief is true, it implies that Lorkhan is not truly dead but continues to exist in a reduced form in an afterlife reserved for his faithful — an empty throne awaiting the return of the king.
+
+## Legacy and Contemporary Influence
+
+Lorkhan's shadow falls over every era of Tamriel's history:
+
+- The **cult of Talos** perpetuates his memory in a form acceptable to the Empire
+- The **Aldmeri Dominion** seeks to erase Talos from the pantheon, which could weaken the anchors maintaining Mundus
+- Every attempt to use the **Numidium** reactivates the unresolved questions of the Convention
+- Nordic **Tongues** who master the Thu'um stand in the tradition of Shor
+
+Lorkhan remains the central paradox of Tamrielic theology: a god hated by those he created as elves, venerated by those he created as humans, and whose very death may be nothing more than another ruse by the greatest trickster the Aurbis has ever known.

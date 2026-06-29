@@ -1,0 +1,106 @@
+---
+title: "La Convención de la Torre Adamantina"
+slug: "convention"
+era: "dawn-era"
+category: "evenements"
+tags: ["Convención", "Torre Adamantina", "Aedra", "Lorkhan", "Mundus", "Montaña Roja", "Ada-Mantia"]
+timelineYear: -9999
+summary: "El cónclave divino celebrado en la cima de la Torre Adamantina, en el que los Aedra juzgaron a Lorkhan y sellaron las leyes del mundo mortal."
+sources: ["The Monomyth", "Before the Ages of Man", "Myths of Shezarr", "Commentaries on the Mysterium Xarxes", "Variants of the Creation Myth"]
+---
+
+## La Convención: El Juicio de los Dioses
+
+La Convención — a veces llamada *Convocatoria* o *Asamblea Divina* — designa la reunión primordial de los Et-Ada en la cima de la Torre Adamantina (Ada-Mantia), la estructura más antigua conocida de Tamriel, situada en la isla de Balfiera en la bahía de Iliac. Este evento fundacional marcó el fin de la Era del Alba y el establecimiento del tiempo lineal tal como lo conocen los mortales.
+
+### Contexto: La Traición de Lorkhan
+
+Antes de la Convención, el mundo de Mundus existía en un estado de flujo perpetuo. Los Aedra — los espíritus originales que habían accedido a sacrificar parte de su esencia para dar forma al plano mortal — descubrieron la magnitud del engaño orquestado por Lorkhan. El Dios Ausente los había convencido de participar en la Creación, pero el costo resultó ser mucho mayor de lo prometido:
+
+- Su poder divino disminuía de manera irreversible
+- Se estaban ligando al plano mortal que habían engendrado
+- Algunos de ellos se debilitaban hasta el punto de morir o transformarse en elementos del paisaje
+
+Ante esta situación, los Aedra supervivientes convocaron la Convención para determinar el destino del arquitecto engañador.
+
+## El Desarrollo de la Convención
+
+### La Asamblea en la Cima
+
+Las fuentes difieren sobre la identidad exacta de los participantes, pero los relatos concuerdan en la presencia de los principales espíritus divinos:
+
+| Participante | Rol presunto |
+|---|---|
+| Auri-El (Akatosh) | Presidente del tribunal, acusador principal |
+| Magnus | Arquitecto original, testigo de cargo |
+| Trinimac | Brazo armado de la justicia divina |
+| Mara | Voz de la templanza |
+| Stendarr | Garante del orden |
+| Lorkhan | El acusado |
+
+### El Veredicto
+
+El juicio fue unánime: Lorkhan era culpable de engaño cósmico. Los Aedra decretaron que:
+
+1. **Lorkhan sería destruido** — su esencia divina le sería arrancada
+2. **Su Corazón sería preservado** — como recordatorio eterno de su traición
+3. **Las leyes de Mundus serían fijadas** — el tiempo se volvería lineal e irreversible
+4. **Las Torres mantendrían la realidad** — Ada-Mantia serviría de modelo
+
+### La Ejecución del Castigo
+
+Trinimac, campeón de los Aedra y el más poderoso de los guerreros divinos, se adelantó para ejecutar la sentencia. Arrancó el Corazón de Lorkhan de su pecho divino. El cuerpo del Dios Ausente fue desgarrado en dos partes:
+
+- **Masser** (Jone) — la mayor de las lunas de Nirn
+- **Secunda** (Jode) — la luna más pequeña
+
+Estos cuerpos celestes, a los que los Khajiit llaman respectivamente *Jone* y *Jode*, se convertirían en testigos eternos en el cielo nocturno de la caída de Lorkhan.
+
+## Las Consecuencias de la Convención
+
+### La Creación de la Montaña Roja
+
+Auri-El, insatisfecho con simplemente destruir a Lorkhan, ató el Corazón a una flecha y la disparó hacia el cielo. La flecha cruzó todo Tamriel antes de hundirse profundamente en la tierra de Morrowind. El impacto creó la **Montaña Roja** (Vvardenfell), el colosal volcán que domina la provincia de Resdayn.
+
+El Corazón de Lorkhan descansó entonces durante eras en las profundidades de la montaña, convirtiéndose en una fuente de poder inconmensurable que los Dwemer intentarían aprovechar más adelante — con consecuencias desastrosas.
+
+### El Establecimiento del Tiempo Lineal
+
+La Convención estableció lo que los eruditos a veces llaman el *Contrato Divino*:
+
+- El tiempo dejó de ser maleable y se convirtió en una progresión constante
+- Los eventos comenzaron a sucederse en un orden causa-consecuencia
+- La Era del Alba terminó oficialmente
+- Comenzó la Era Merética
+
+### La Partida de Magnus
+
+Magnus, el Arquitecto divino que había diseñado los planos de Mundus para Lorkhan, decidió huir del plano mortal. Su partida desgarró la membrana entre Mundus y Aetherius, creando el **Sol** — una brecha permanente a través de la cual la luz mágica se derrama en el mundo. Otros espíritus menores lo siguieron, creando las estrellas.
+
+### La Torre como Ancla
+
+Ada-Mantia se convirtió en la primera **Piedra de Torre**, un concepto fundamental en la metafísica de Mundus. Las Torres son estructuras míticas que anclan la realidad:
+
+- **Ada-Mantia** — la Torre Cero, arquetipo de todas las demás
+- **Torre Dorada** (Crystal-Like-Law) — construida por los Aldmer
+- **Torre Roja** — la Montaña Roja misma
+- **Torre de Latón** (Numidium) — creación de los Dwemer
+- **Torre Blanco-Oro** — construida por los Ayléidos en Cyrodiil
+
+## Interpretaciones y Controversias Teológicas
+
+### La Visión Élfica
+
+Para los Mer (Elfos), la Convención representa un acto de justicia contra un traidor cósmico. Lorkhan es el Gran Enemigo, aquel que los atrapó en la mortalidad y los separó de su esencia divina. La Convención se celebra como el momento en que el orden fue restaurado.
+
+### La Visión Humana
+
+Las tradiciones nórdica e imperial presentan un relato diferente. Para ellos, Lorkhan (al que llaman **Shor** o **Shezarr**) es un héroe trágico que ofreció a los espíritus la oportunidad de trascender su naturaleza divina a través de la experiencia mortal. La Convención fue entonces un asesinato — el sacrificio injusto de un bienhechor.
+
+### La Perspectiva Khajiit
+
+En la cosmología khajiit, los eventos se perciben a través del prisma de la dualidad lunar. Las dos lunas no son los restos de un cadáver, sino las manifestaciones continuas de un espíritu aún activo que vela por Nirn desde el cielo.
+
+## Legado
+
+La Convención sigue siendo el evento más determinante de la historia metafísica de Tamriel. Cada conflicto teológico mayor, cada guerra entre Hombres y Elfos, cada intento de manipular las Torres tiene sus raíces en las decisiones tomadas aquel día en la cima de Ada-Mantia. El Dominio Aldmeri, el Tribunal de Morrowind, la búsqueda del Numidium — todos son ecos de la Convención, intentos de revisar o perpetuar el veredicto pronunciado en el alba de los tiempos.

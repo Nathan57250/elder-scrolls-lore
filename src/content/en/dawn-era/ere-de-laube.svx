@@ -1,0 +1,49 @@
+---
+title: "The Dawn Era"
+slug: "ere-de-laube"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["aurbis", "anu", "padomay", "convention", "lorkhan", "mundus", "et-ada"]
+summary: "The period before mortal time — the creation of the Aurbis, the birth of the Et'Ada, and the Convention that gave rise to Mundus."
+timelineYear: 0
+sources: ["UESP: Dawn Era", "The Imperial Library: Before the Ages of Man"]
+---
+
+## The Birth of the Aurbis
+
+Before the beginning of time, only the **Void** existed. From this nothingness emerged two primordial forces: **Anu**, the embodiment of stasis and order, and **Padomay** (also known as Sithis), the embodiment of change and chaos. Their interaction created **Nir** — the very possibility of existence itself.
+
+From the interplay between Anu and Padomay arose the **Aurbis** — the totality of existence, encompassing what would become Aetherius, Oblivion, and Mundus.
+
+## The Et'Ada: Original Spirits
+
+The first conscious entities to emerge were the **Et'Ada** ("original spirits" in Aldmeri). These beings of immense power divided into two groups according to their nature:
+
+- The **Aedric** — those who followed the principle of Anu, favoring order and creation
+- The **Daedric** — those who followed the principle of Padomay, favoring change and individuality
+
+Among the most powerful of these spirits were **Akatosh** (the Dragon of Time), **Magnus** (the God of Magic), and **Lorkhan** (the Trickster).
+
+## Lorkhan's Plan
+
+**Lorkhan**, the most ambiguous and controversial spirit, conceived a bold plan: to create a mortal plane, a place where spirits could experience finitude and, through it, transcend their divine nature.
+
+He convinced Magnus to design the architectural blueprint of this world, and persuaded many Et'Ada to contribute their essence to its creation. Thus was born **Mundus** — the Mortal Plane.
+
+## The Convention
+
+However, the creation of Mundus came at a terrible cost. The Et'Ada who contributed to it lost a great portion of their divine power. Furious at this deception, they gathered at the **Adamantine Tower** (Direnni Tower) to judge Lorkhan.
+
+At this assembly known as the **Convention**:
+- **Magnus** and the Magna-Ge fled Mundus by tearing through the fabric of the Aurbis, creating the stars and the sun (passages to Aetherius)
+- The Et'Ada trapped in Mundus became the **Aedra** (the Divines), bound to the world they had created
+- **Lorkhan** was judged and his heart torn out by Trinimac on Auriel's orders
+- The heart was hurled across Tamriel, creating the **Red Mountain** of Morrowind where it fell
+
+## Metaphysical Legacy
+
+The Convention established the foundations of reality as mortals know it:
+- **Time** began to flow linearly (thanks to Akatosh)
+- The **Towers** became the metaphysical pillars maintaining Mundus's stability
+- The cycle of life and death was established for mortal souls
+- The Aurbis was structured into three planes: **Aetherius** (the magical heavens), **Oblivion** (the Daedric realms), and **Mundus** (the mortal plane at the center)

@@ -1,0 +1,79 @@
+---
+title: "The Elder Scrolls"
+slug: "elder-scrolls"
+era: "dawn-era"
+category: "artefacts"
+tags: ["elder scrolls", "scrolls", "prophecy", "moth priest", "artifacts", "time"]
+timelineYear: -9999
+summary: "The Elder Scrolls are artifacts of creation itself — fragments of reality predating time, capable of revealing past, present, and future."
+sources: ["UESP: Elder Scrolls", "The Imperial Library: Ruminations on the Elder Scrolls", "Effects of the Elder Scrolls"]
+---
+
+## The Nature of the Scrolls
+
+The **Elder Scrolls** are not mere magical documents. They are **fragments of creation** — shards of reality as it existed before time became linear. They were neither written nor created by any mortal or divine being: they simply **are**.
+
+Their number is unknown — it fluctuates. Some scholars claim there are an infinite number, others that they only exist in the moment they are observed.
+
+## Properties
+
+### Partial Omniscience
+
+An Elder Scroll contains **all** information — past, present, future, and unrealized possibilities. But this information is accessible only in fragments, and never without cost.
+
+### Progressive Blindness
+
+Reading an Elder Scroll without training causes **progressive blindness**:
+- First reading: temporary blurred vision
+- Repeated readings: permanent deterioration
+- Intensive use: total and irreversible blindness
+
+The **Moth Priests** of the Ancestral Library beneath the Imperial City devote their lives to studying the Scrolls, accepting blindness as the price of knowledge.
+
+### Indeterminacy
+
+The contents of an Elder Scroll **change** depending on who reads it and when. The same Scroll can reveal different prophecies to different readers. It never lies, but it never tells the whole truth.
+
+## The Moth Priests
+
+The Order of the Moth Priests is based in the **Ancestral Library** beneath the Imperial City. Their training is lengthy:
+
+1. **Novice** — meditation and study of secondary texts
+2. **Initiate** — indirect contact with the Scrolls
+3. **Reader** — first supervised readings
+4. **Master** — independent readings (onset of vision loss)
+5. **Elder Blind** — total blindness, but permanent visions
+
+Their name comes from a ritual in which clouds of ancestral moths settle upon them, forming patterns that guide their interpretation.
+
+## Role in History
+
+### The Prophecy of the Dovahkiin
+
+An Elder Scroll was used by the ancient Nords to cast Alduin forward in time — the **Time-Wound** at the Throat of the World. This same Scroll allowed the Last Dragonborn to learn Dragonrend.
+
+### The Sacrament of the Crystal Tower
+
+The Septim Emperors used an Elder Scroll in the ritual of imperial legitimation, binding the dragonblood to the Amulet of Kings.
+
+### The Oblivion Crisis
+
+During the destruction of the Ancestral Library in the Oblivion Crisis, several Scrolls were scattered. Some fell into the hands of the Dark Brotherhood, others were recovered by the Dawnguard.
+
+## Known Locations
+
+| Scroll | Location | Era |
+|-----------|-------------|-----|
+| Scroll of Blood | Fort Dawnguard / Castle Volkihar | 4E |
+| Scroll of the Sun | Darkfall Cave | 4E |
+| Scroll of Dragon | Throat of the World (Time-Wound) | 4E |
+| Several unnamed | Ancestral Library, Imperial City | 3E–4E |
+| Alduin's Scroll | Tower of Mzark, Blackreach | 4E |
+
+## Metaphysical Theories
+
+Some scholars (most notably Septimus Signus) theorize that the Elder Scrolls are **artifacts of the Godhead** — fragments of the Dreamer's consciousness that contain the "source code" of reality. Reading them is tantamount to accessing the Dream directly from within the Dream.
+
+Others suggest they are the **memories of Akatosh** — the god of Time having inscribed the entire chronology into these artifacts at the moment of the Convention.
+
+Whatever the truth, the Elder Scrolls remain one of Tamriel's greatest mysteries — objects that defy comprehension even among the wisest of scholars.

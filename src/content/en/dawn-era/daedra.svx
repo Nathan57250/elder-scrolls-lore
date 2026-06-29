@@ -1,0 +1,83 @@
+---
+title: "The Daedra — Nature and Hierarchy"
+slug: "daedra"
+era: "dawn-era"
+category: "religion"
+tags: ["daedra", "oblivion", "daedric princes", "lesser daedra", "summoning", "pacts"]
+timelineYear: -9999
+summary: "The Daedra are the Et'Ada who refused to take part in the creation of Mundus — immortal, powerful, and fundamentally alien to mortal morality."
+sources: ["UESP: Daedra", "The Imperial Library: On Oblivion", "Varieties of Daedra"]
+---
+
+## Definition
+
+The word **Daedra** literally means "not our ancestors" in Aldmeri (as opposed to **Aedra**, "our ancestors"). They are the Et'Ada — the original beings — who **refused** to sacrifice a portion of their power to create Mundus.
+
+This refusal does not make them "evil" by nature. They are simply **alien** to Mundus and its rules. Some are benevolent, others destructive, and most are simply incomprehensible.
+
+## The Daedric Hierarchy
+
+### The Daedric Princes
+
+The 17 Daedric Princes are the most powerful of the Daedra. Each governs a realm of Oblivion and embodies a fundamental concept:
+
+| Prince | Sphere | Realm |
+|--------|--------|---------|
+| Azura | Dawn and Dusk | Moonshadow |
+| Boethiah | Conspiracy, Betrayal | Attribution's Share |
+| Clavicus Vile | Pacts, Power | The Fields of Regret |
+| Hermaeus Mora | Forbidden Knowledge | Apocrypha |
+| Hircine | The Hunt | Hunting Grounds |
+| Malacath | Outcasts, Oaths | Ashpit |
+| Mehrunes Dagon | Destruction, Revolution | Deadlands |
+| Mephala | Lies, Sex, Murder | Spiral Skein |
+| Meridia | Living Energy, Anti-Undead | Colored Rooms |
+| Molag Bal | Domination, Violation | Coldharbour |
+| Namira | Repulsion, Decay | Scuttling Void |
+| Nocturnal | Night, Darkness, Luck | Evergloam |
+| Peryite | Pestilence, Natural Order | The Pits |
+| Sanguine | Debauchery, Hedonism | Myriad Realms of Revelry |
+| Sheogorath | Madness | Shivering Isles |
+| Vaermina | Nightmares, Terror | Quagmire |
+| Jyggalag | Order (Cursed into Sheogorath) | — |
+
+### Lesser Daedra
+
+Below the Princes exist countless "lesser" Daedra:
+- **Dremora** — intelligent warriors in the service of the Princes, organized into clans
+- **Dremora Valkynaz** — Daedric warlords
+- **Atronachs** — bound elementals (flame, frost, storm)
+- **Aurorans** — Meridia's golden knights
+- **Mazken** (Dark Seducers) — warriors of Sheogorath
+- **Aureal** (Golden Saints) — soldiers of Sheogorath
+- **Clannfear** — fierce reptilian creatures
+- **Scamps** — small, cowardly servants
+- **Xivilai** — powerful and arrogant humanoids
+
+## Daedric Immortality
+
+Daedra do not **die**. When their physical form is destroyed on Mundus, their essence (their *vestige*) returns to the Waters of Oblivion and slowly reconstitutes itself. This immortality is fundamental: a summoned and slain Daedra will always return.
+
+Only the **Aedra** are diminished, having invested their power in creation. The Daedra remain eternally at full strength.
+
+## Daedric Pacts
+
+Mortals interact with the Daedra primarily through:
+
+### Summoning
+Calling a Daedra from Oblivion to bind it temporarily. Dangerous — a poorly worded binding can turn against the summoner.
+
+### Pacts
+Daedric Princes offer **artifacts** in exchange for services. These artifacts are among the most powerful objects in Tamriel (Clavicus Vile's Masque, Molag Bal's Mace, Azura's Star, etc.)
+
+### Worship
+Some cultures openly venerate Princes:
+- The **Dunmer** revered the "Good Daedra" (Azura, Boethiah, Mephala)
+- The **Rieklings** of Solstheim venerate Hermaeus Mora
+- The **Reachmen** practice Daedric worship in a syncretic fashion
+
+## The Moral Problem
+
+Daedric Princes are neither good nor evil — they simply **are**. Meridia fights the undead (good?) yet out of hatred for the mortal state itself. Molag Bal dominates (evil?) yet some mortals find strength in his trials. Sheogorath brings madness and art.
+
+The Divine Temple of the Empire forbids Daedric worship, but this prohibition is as much political as theological.

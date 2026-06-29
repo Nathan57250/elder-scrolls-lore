@@ -1,0 +1,123 @@
+---
+title: "Lorkhan, el Dios Ausente"
+slug: "lorkhan"
+era: "dawn-era"
+category: "personnages"
+tags: ["Lorkhan", "Shor", "Shezarr", "Aedra", "Corazón de Lorkhan", "Shezarrines", "Mundus", "Embaucador"]
+timelineYear: -9999
+summary: "Lorkhan, el dios embaucador que convenció a los Aedra de crear Mundus, fue castigado en la Convención, pero su influencia persiste a través de los Shezarrines y su inmortal Corazón."
+sources: ["The Monomyth", "Sithis", "Shezarr and the Divines", "Five Songs of King Wulfharth", "Commentaries on the Mysterium Xarxes", "The Song of Pelinal"]
+---
+
+## Lorkhan: El Arquitecto de la Mortalidad
+
+Lorkhan — conocido también como **Shor**, **Shezarr**, **Lorkhaj**, **Sep** o el **Dios Ausente** — es sin duda la deidad más controvertida y determinante del panteón de Tamriel. Ni completamente Aedra ni verdaderamente Daedra, ocupa una posición única en la cosmología: la del creador-embaucador cuyo acto fundacional dio origen al plano mortal mientras condenaba a sus participantes a la finitud.
+
+### Nombres y Aspectos según las Culturas
+
+| Cultura | Nombre | Percepción |
+|---|---|---|
+| Imperial | Shezarr | Dios ausente, espíritu de la Humanidad |
+| Nórdica | Shor | Rey de los dioses, héroe guerrero |
+| Khajiit | Lorkhaj | La Luna Malvada, embaucador lunar |
+| Redguard | Sep | La serpiente hambrienta |
+| Aldmer / Altmer | Lorkhan | El Gran Enemigo |
+| Dunmer (pre-Tribunal) | Lorkhan | El Adversario necesario |
+| Bosmer | Lorkhan | El Zorro Astuto |
+
+## El Gran Engaño
+
+### La Idea de Mundus
+
+Al principio, en el Vacío del Aurbis, los Et-Ada — los espíritus originales nacidos del conflicto entre Anu y Padomay — existían sin forma fija ni propósito definido. Lorkhan, descrito en algunos textos como hijo de Sithis (la encarnación del caos primordial), concibió una visión revolucionaria: crear un plano de existencia donde los espíritus pudieran conocerse a sí mismos a través de la limitación y la mortalidad.
+
+Según *El Monomito*:
+
+> *Lorkhan recorrió los reinos de Aetherius, susurrando su Idea al oído de cada espíritu. A algunos les prometió gloria, a otros sabiduría, a todos les prometió algo nuevo.*
+
+### La Persuasión de los Aedra
+
+El método exacto mediante el cual Lorkhan convenció a los demás espíritus varía según las tradiciones:
+
+- **Tradición nórdica**: Shor inspiró a los dioses con su valentía y visión, invitándolos a crear un lugar de desafío y honor
+- **Tradición élfica**: Lorkhan utilizó mentiras y medias verdades, ocultando el verdadero costo de la Creación
+- **Tradición redguard**: Sep, enloquecido por el Hambre, devoró a los espíritus para forzar su participación
+- **Tradición khajiit**: Lorkhaj fue corrompido por las Tinieblas del Gran Vacío y transmitió esa corrupción a los demás
+
+### El Costo de la Creación
+
+Cuando los Aedra comprendieron la magnitud del sacrificio exigido, ya era demasiado tarde. La creación de Mundus había:
+
+1. Drenado irreversiblemente su esencia divina
+2. Los había ligado al plano mortal como guardianes involuntarios
+3. Transformado a algunos de ellos en elementos naturales (la tierra de Y'ffre, por ejemplo)
+4. Hecho imposible un retorno completo a su estado anterior
+
+## La Muerte de Lorkhan
+
+### El Juicio de la Convención
+
+Reunidos en la cima de la Torre Adamantina, los Aedra supervivientes juzgaron a Lorkhan culpable de engaño cósmico. Trinimac, el más poderoso campeón de los Aedra, fue designado verdugo.
+
+### El Arranque del Corazón
+
+Trinimac hundió su mano en el pecho de Lorkhan y arrancó el Corazón — un artefacto de poder inconmensurable, que concentraba la esencia misma de la divinidad de la Creación. El cuerpo de Lorkhan, vaciado de su núcleo divino, se escindió para formar las dos lunas de Nirn: **Masser** y **Secunda**.
+
+### El Corazón a través de la Historia
+
+Auri-El fijó el Corazón a una flecha y la disparó hacia el mar, donde se hundió en la roca para crear la Montaña Roja. El Corazón se convirtió entonces en catalizador de numerosos eventos mayores:
+
+- Los **Dwemer** construyeron el Numidium intentando aprovechar su poder
+- El **Tribunal** (Vivec, Almalexia, Sotha Sil) lo utilizó para alcanzar la divinidad
+- **Dagoth Ur** lo empleó para alimentar su Plaga Divina
+- El **Nerevarino** destruyó los encantamientos que lo ligaban, provocando la erupción de la Montaña Roja
+
+## Los Shezarrines: Avatares del Dios Muerto
+
+### El Concepto
+
+Aunque muerto, la influencia de Lorkhan persiste en el mundo mortal a través de encarnaciones parciales llamadas **Shezarrines** — individuos que portan un fragmento del espíritu de Shor/Shezarr. Estos avatares aparecen generalmente en los momentos críticos de la historia humana, a menudo para defender a las razas humanas contra las amenazas élficas o demoníacas.
+
+### Shezarrines Conocidos o Presuntos
+
+Los eruditos debaten sobre la identidad exacta de los Shezarrines, pero varias figuras históricas son citadas con frecuencia:
+
+- **Pelinal Whitestrake** — el Caballero Divino medio enloquecido que liberó Cyrodiil de los Ayléidos. Los textos lo describen como un ser anacrónico, cubierto de una armadura imposible, sujeto a furias genocidas y que lloraba a un amante cuyo nombre evocaba las estrellas.
+- **Wulfharth** (Ysmir) — el Alto Rey de Horizonte que murió y resucitó en múltiples ocasiones, cada vez para defender a los Nórdicos contra sus enemigos. Los *Cinco Cantos del Rey Wulfharth* constituyen el relato más detallado de un Shezarrine.
+- **Tiber Septim** (Talos) — el unificador de Tamriel, cuya ascensión al estatus divino podría representar la reintegración de Lorkhan en el panteón divino.
+- **El Último Dovahkiin** — algunos eruditos especulan sobre esta posibilidad.
+
+### Características de los Shezarrines
+
+Los Shezarrines generalmente comparten ciertos rasgos:
+
+- Una afinidad natural por el Thu'um o la magia vocal
+- Un destino inextricablemente ligado a los conflictos entre Hombres y Mer
+- Una notable resistencia a la muerte definitiva
+- Episodios de furia incontrolable o locura divina
+- Un vínculo místico con el concepto de *Realeza* y soberanía
+
+## Lorkhan en la Metafísica
+
+### El Espacio Ausente
+
+En la cosmología del Aurbis, cada Príncipe Daédrico posee un plano en Oblivion. Cada Aedra está encarnado en un cuerpo celeste. Lorkhan, en cambio, está *ausente* — su espacio es Mundus en sí mismo. Algunos místicos consideran que Nirn no es simplemente la creación de Lorkhan sino su *cuerpo*, y que cada mortal que vive en su superficie existe literalmente dentro del dios muerto.
+
+### CHIM y la Torre de Lorkhan
+
+Las enseñanzas esotéricas de Vivec (*Las Treinta y Seis Lecciones*) sugieren que Lorkhan había alcanzado el estado de **CHIM** — la autoconciencia dentro del Sueño de Anu — y que la creación de Mundus fue un acto deliberado de Amor. En esta interpretación, el "engaño" no era tal: Lorkhan sacrificó voluntariamente su existencia divina para ofrecer a los espíritus la posibilidad de alcanzar ellos mismos esa iluminación.
+
+### Sovngarde: La Sala de Shor
+
+Los Nórdicos creen que Shor preside **Sovngarde**, el paraíso de los guerreros que mueren valientemente. Si esta creencia es verdadera, implica que Lorkhan no está verdaderamente muerto sino que continúa existiendo bajo una forma reducida en un más allá reservado a sus fieles — un trono vacío que espera el regreso del rey.
+
+## Legado e Influencia Contemporánea
+
+La sombra de Lorkhan se proyecta sobre cada era de la historia de Tamriel:
+
+- El **culto a Talos** perpetúa su memoria bajo una forma aceptable para el Imperio
+- El **Dominio Aldmeri** busca borrar a Talos del panteón, lo que podría debilitar los anclajes que mantienen Mundus
+- Cada intento de utilizar el **Numidium** reactiva las cuestiones irresueltas de la Convención
+- Las **Lenguas** nórdicas que dominan el Thu'um se inscriben en la tradición de Shor
+
+Lorkhan sigue siendo la paradoja central de la teología tamriélica: un dios odiado por quienes creó como elfos, venerado por quienes creó como humanos, y cuya muerte misma podría no ser más que otra artimaña del mayor embaucador que el Aurbis haya conocido jamás.

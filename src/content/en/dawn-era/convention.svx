@@ -1,0 +1,106 @@
+---
+title: "The Convention of the Adamantine Tower"
+slug: "convention"
+era: "dawn-era"
+category: "evenements"
+tags: ["Convention", "Adamantine Tower", "Aedra", "Lorkhan", "Mundus", "Red Mountain", "Ada-Mantia"]
+timelineYear: -9999
+summary: "The divine conclave held at the summit of the Adamantine Tower, at which the Aedra judged Lorkhan and sealed the laws of the mortal world."
+sources: ["The Monomyth", "Before the Ages of Man", "Myths of Shezarr", "Commentaries on the Mysterium Xarxes", "Variants of the Creation Myth"]
+---
+
+## The Convention: The Judgment of the Gods
+
+The Convention — sometimes called the *Convocation* or the *Divine Assembly* — refers to the primordial gathering of the Et-Ada at the summit of the Adamantine Tower (Ada-Mantia), the oldest known structure in Tamriel, situated on the island of Balfiera in the Iliac Bay. This foundational event marked the end of the Dawn Era and the establishment of linear time as mortals know it.
+
+### Background: The Betrayal of Lorkhan
+
+Before the Convention, the world of Mundus existed in a state of perpetual flux. The Aedra — the original spirits who had agreed to sacrifice part of their essence to shape the mortal plane — discovered the full extent of the deception orchestrated by Lorkhan. The Missing God had convinced them to participate in Creation, but the cost proved far greater than promised:
+
+- Their divine power was diminishing irreversibly
+- They were becoming bound to the mortal plane they had engendered
+- Some of them were weakening to the point of death or transformation into elements of the landscape
+
+Faced with this situation, the surviving Aedra convened the Convention to determine the fate of the deceiving architect.
+
+## The Course of the Convention
+
+### The Assembly at the Summit
+
+Sources differ on the exact identity of the participants, but accounts agree on the presence of the major divine spirits:
+
+| Participant | Assumed Role |
+|---|---|
+| Auri-El (Akatosh) | President of the tribunal, chief accuser |
+| Magnus | Original architect, witness for the prosecution |
+| Trinimac | Armed instrument of divine justice |
+| Mara | Voice of temperance |
+| Stendarr | Guarantor of order |
+| Lorkhan | The accused |
+
+### The Verdict
+
+The judgment was unanimous: Lorkhan was guilty of cosmic deception. The Aedra decreed that:
+
+1. **Lorkhan would be destroyed** — his divine essence would be torn from him
+2. **His Heart would be preserved** — as an eternal reminder of his betrayal
+3. **The laws of Mundus would be fixed** — time would become linear and irreversible
+4. **The Towers would maintain reality** — Ada-Mantia would serve as the model
+
+### The Execution of the Punishment
+
+Trinimac, champion of the Aedra and the mightiest of divine warriors, stepped forward to carry out the sentence. He tore the Heart of Lorkhan from his divine chest. The body of the Missing God was rent in two:
+
+- **Masser** (Jone) — the larger of Nirn's moons
+- **Secunda** (Jode) — the smaller moon
+
+These celestial bodies, which the Khajiit call *Jone* and *Jode* respectively, would become eternal witnesses in the night sky to Lorkhan's fall.
+
+## The Consequences of the Convention
+
+### The Creation of Red Mountain
+
+Auri-El, not content simply to destroy Lorkhan, attached the Heart to an arrow and shot it across the sky. The arrow traveled the entire breadth of Tamriel before plunging deep into the earth of Morrowind. The impact created **Red Mountain** (Vvardenfell), the colossal volcano that dominates the province of Resdayn.
+
+The Heart of Lorkhan then rested for ages in the mountain's depths, becoming a source of immeasurable power that the Dwemer would later attempt to harness — with disastrous consequences.
+
+### The Establishment of Linear Time
+
+The Convention established what scholars sometimes call the *Divine Contract*:
+
+- Time ceased to be malleable and became a constant progression
+- Events began to follow one another in a cause-and-effect sequence
+- The Dawn Era officially ended
+- The Merethic Era began
+
+### The Departure of Magnus
+
+Magnus, the divine Architect who had designed the plans of Mundus for Lorkhan, decided to flee the mortal plane. His departure tore the membrane between Mundus and Aetherius, creating the **Sun** — a permanent breach through which magical light pours into the world. Other lesser spirits followed him, creating the stars.
+
+### The Tower as Anchor
+
+Ada-Mantia became the first **Tower Stone**, a fundamental concept in the metaphysics of Mundus. The Towers are mythical structures that anchor reality:
+
+- **Ada-Mantia** — Tower Zero, the archetype of all others
+- **Crystal-Like-Law** (Gold Tower) — built by the Aldmer
+- **Red Tower** — Red Mountain itself
+- **Brass Tower** (Numidium) — creation of the Dwemer
+- **White-Gold Tower** — built by the Ayleids in Cyrodiil
+
+## Interpretations and Theological Controversies
+
+### The Elvish View
+
+For the Mer (Elves), the Convention represents an act of justice against a cosmic traitor. Lorkhan is the Great Enemy, the one who trapped them in mortality and severed them from their divine essence. The Convention is celebrated as the moment when order was restored.
+
+### The Human View
+
+Nordic and Imperial traditions present a different account. For them, Lorkhan (whom they call **Shor** or **Shezarr**) is a tragic hero who offered spirits the chance to transcend their divine nature through mortal experience. The Convention was therefore a murder — the unjust sacrifice of a benefactor.
+
+### The Khajiit Perspective
+
+In Khajiit cosmology, the events are perceived through the lens of lunar duality. The two moons are not the remains of a corpse but the ongoing manifestations of a spirit still active, watching over Nirn from the sky.
+
+## Legacy
+
+The Convention remains the most decisive event in the metaphysical history of Tamriel. Every major theological conflict, every war between Men and Elves, every attempt to manipulate the Towers finds its roots in the decisions made that day at the summit of Ada-Mantia. The Aldmeri Dominion, the Tribunal of Morrowind, the quest for the Numidium — all are echoes of the Convention, attempts to revise or perpetuate the verdict pronounced at the dawn of time.

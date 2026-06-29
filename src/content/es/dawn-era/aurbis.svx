@@ -1,33 +1,68 @@
 ---
 title: "El Aurbis — Estructura de la Realidad"
-slug: aurbis
-era: dawn-era
-category: cosmologie
-tags: [Aurbis, Anu, Padomay, Aetherius, Oblivion, Mundus]
-date: "Antes del Tiempo"
+slug: "aurbis"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["aurbis", "aetherius", "oblivion", "mundus", "nirn", "chim", "amaranto", "godhead"]
 timelineYear: -9999
-summary: "El Aurbis es la totalidad de la existencia en el universo de Elder Scrolls, abarcando todos los reinos desde Aetherius hasta el Vacío."
+summary: "La cosmología del universo de Elder Scrolls: Aetherius, Oblivion, Mundus y las teorías metafísicas (CHIM, Amaranto, Godhead) que sustentan toda la realidad."
+sources: ["UESP: Cosmology", "The Imperial Library: Cosmology", "Loveletter from the Fifth Era"]
 ---
 
-## ¿Qué es el Aurbis?
+![Estructura del Aurbis](/images/dawn-era/aurbis-map.png)
 
-El **Aurbis** es el nombre dado a toda la estructura cosmológica de la existencia. Abarca todo — desde el reino de **Aetherius** (el plano de la magia y la vida después de la muerte) hasta los planos de **Oblivion** (reinos de los Príncipes Daédricos) y **Mundus** (el plano mortal donde existe Tamriel).
+## Visión General
 
-## Origen
+El **Aurbis** es la totalidad de la existencia en el universo de Elder Scrolls. No es simplemente un "universo" en el sentido físico — es un conjunto de planos de existencia entrelazados, cada uno obedeciendo sus propias leyes.
 
-El Aurbis surgió de la interacción entre dos fuerzas primordiales:
+La estructura del Aurbis puede visualizarse como un conjunto de esferas concéntricas:
 
-- **Anu** — la fuerza de la estasis, el orden y la luz
-- **Padomay** (también llamado Sithis) — la fuerza del cambio, el caos y la oscuridad
+## Los Planos de Existencia
 
-Su interacción creó **Nir**, y de la existencia de Nir surgieron los et'Ada — los "espíritus originales" que eventualmente se convertirían en los Aedra y Daedra.
+### Aetherius — El Plano Inmortal
+El plano de la magia pura y la energía creadora. Toda la **magia** de Mundus proviene de Aetherius — se filtra a través de las estrellas y el sol (que son los agujeros dejados por Magnus y los Magna-Ge cuando huyeron de la creación).
 
-## Estructura
+Las almas de los virtuosos difuntos se unen a Aetherius (Sovngarde para los Nórdicos, las Costas Lejanas para los Redguard, etc.).
 
-El Aurbis se representa a menudo como una serie de círculos concéntricos:
+### Oblivion — Los Reinos Daédricos
+Un vasto espacio que contiene los reinos personales de los **Príncipes Daédricos** — planos de realidad moldeados por la voluntad de cada Príncipe:
+- **Coldharbour** (Molag Bal) — un lugar de dominación y frío
+- **Shivering Isles** (Sheogorath) — locura, dividida en Mania y Dementia
+- **Apocrypha** (Hermaeus Mora) — biblioteca infinita de saber prohibido
+- **Deadlands** (Mehrunes Dagon) — llamas eternas y destrucción
 
-1. **El Vacío** — la nada exterior (Sithis)
-2. **Aetherius** — el reino de la magicka pura, hogar de los Magna Ge
-3. **Oblivion** — el reino intermedio, dividido en innumerables planos gobernados por Príncipes Daédricos
-4. **Mundus** — el plano mortal en el centro, anclado por las Torres
-5. **Nirn** — el planeta dentro de Mundus donde existe toda la vida mortal
+### Mundus — El Plano Mortal
+El mundo físico, en cuyo centro se encuentra **Nirn** — el planeta donde viven los mortales. Tamriel es el continente principal de Nirn.
+
+Mundus es único porque es el único plano donde el **tiempo** fluye linealmente (gracias a Akatosh) y donde los seres son mortales.
+
+## Las Teorías Metafísicas
+
+### El Godhead (La Cabeza Divina)
+Según ciertas interpretaciones esotéricas, **toda la realidad es un sueño**. El Aurbis entero existe en la mente de un ser llamado el **Godhead** — un Durmiente cósmico cuyo sueño constituye la existencia.
+
+### CHIM
+El **CHIM** (pronunciado "KIM") es el estado de conciencia en el que un ser se da cuenta de que es un personaje dentro del Sueño del Godhead — **y al mismo tiempo se niega a dejar de existir**. Es afirmar "SOY" ante la revelación de que no eres real.
+
+Quienes alcanzan el CHIM sin disolverse adquieren un poder casi omnipotente dentro del Sueño. Vivec y Tiber Septim son los dos individuos más frecuentemente citados como quienes lograron el CHIM.
+
+### El Amaranto
+Más allá del CHIM existe el **Amaranto** — la capacidad de **soñar el propio sueño**, convirtiéndose en un nuevo Godhead y creando un Aurbis nuevo e independiente. Es la trascendencia última.
+
+### Suma Cero
+El fracaso del CHIM. Cuando un ser se da cuenta de que no es real pero **no logra mantener su identidad**, sufre la **suma cero** — deja de existir, borrado de la realidad como si nunca hubiera sido.
+
+## Las Torres
+
+Las **Torres** son estructuras metafísicas que anclan la realidad de Mundus. Cada una tiene una **Piedra** (un artefacto o concepto que la activa):
+
+| Torre | Piedra | Estado |
+|------|--------|--------|
+| Ada-Mantia (Direnni) | Convención (el evento) | Activa |
+| Torre Blanco-Oro | Amuleto de los Reyes | Desactivada (3E 433) |
+| Torre Roja | Corazón de Lorkhan | Desactivada (3E 427) |
+| Torre de Nieve | Desconocida | Incierto |
+| Torre de Oricalco | Desconocida | Destruida (hundimiento de Yokuda) |
+| Torre de Cristal | Desconocida | Desactivada (4ª E ~?) |
+
+Si todas las Torres son desactivadas, la Convención quedaría "anulada" y Mundus podría disolverse — algo que el Thalmor, según algunas teorías, estaría trabajando activamente para lograr y así restaurar el estado élfico primordial.
