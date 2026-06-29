@@ -1,0 +1,112 @@
+---
+title: "Los Bosmer — Elfos del Bosque"
+slug: "bosmer"
+era: "dawn-era"
+category: "races"
+tags: ["bosmer", "elfos del bosque", "valenwood", "pacto verde", "carne", "y'ffre", "metamorfos"]
+timelineYear: 0
+summary: "Los Bosmer (Elfos del Bosque) de Valenwood viven bajo el Pacto Verde, que les prohíbe dañar la vegetación. Cazadores, arqueros de élite y carnívoros estrictos, practican el canibalismo ritual."
+sources: ["UESP: Bosmer", "A Dance in Fire", "The Green Pact and the Dominion"]
+---
+
+## Presentación
+
+Los **Bosmer** ("Pueblo del Bosque") son los Elfos de la selva, habitantes de **Valenwood** — una densa jungla viva al suroeste de Tamriel. Su característica definitoria es el **Pacto Verde** (Green Pact): un acuerdo con Y'ffre que les prohíbe dañar la vegetación, obligándoles a llevar un estilo de vida exclusivamente carnívoro.
+
+## El Pacto Verde
+
+### Los Términos
+El **Pacto Verde** es un acuerdo sagrado entre los Bosmer e Y'ffre (dios del bosque):
+- **Prohibido** cortar, quemar o herir cualquier planta
+- **Prohibido** comer vegetales (fruta, verdura, grano)
+- Los Bosmer deben comer exclusivamente **carne**
+- A cambio, el bosque los protege y obedece a sus chamanes
+- Valenwood es una jungla **viva** y hostil a los invasores
+
+### Consecuencias Prácticas
+- Dieta 100% carnívora (carne, insectos, leche)
+- Sin agricultura — solo caza y recolección animal
+- Sin construcción en madera — viven en árboles vivos
+- La madera importada es la única fuente de materiales (comercio)
+- La ropa es de cuero, hueso y quitina
+
+### El Canibalismo Ritual
+La cláusula más perturbadora del Pacto:
+- Los enemigos caídos en combate deben ser **consumidos** por completo
+- Nada debe desperdiciarse
+- No es crueldad sino un **deber religioso**
+- El "Mandato de la Carne" estipula que el cuerpo debe comerse en 3 días
+- Los enemigos considerados indignos no son devorados (el insulto supremo)
+
+## Y'ffre
+
+**Y'ffre** (también Jephre) es el dios patrón de los Bosmer:
+- Espíritu del Bosque y de la Narración
+- Dio una forma fija al mundo (antes de él, todo era caos y metamorfosis)
+- El primero en "narrarse" a sí mismo a la existencia — creando las leyes de la naturaleza
+- Los Bosmer eran **metamorfos** antes de que Y'ffre los fijara
+- El Pacto es el precio de esa forma estable
+
+## Valenwood
+
+### La Jungla Viva
+Valenwood es única entre las provincias:
+- El bosque es **consciente** en cierto grado — reacciona a las amenazas
+- Los árboles son inmensos (algunos son ciudades enteras)
+- **Falinesti** — la capital nómada, un árbol gigante móvil (que acabó enraizándose)
+- El dosel forestal es impenetrable para los ejércitos convencionales
+- La maleza bulle de depredadores
+
+### Ciudades
+- **Falinesti** — ciudad-árbol gigantesca (antes móvil)
+- **Elden Root** — ciudad construida dentro de un Graht-oak gigantesco
+- **Woodhearth** — puerto costero
+- **Haven** — puerto comercial
+
+## La Cacería Salvaje
+
+La capacidad más aterradora de los Bosmer:
+- Ante una amenaza existencial, los Bosmer pueden invocar la **Cacería Salvaje** (Wild Hunt)
+- Los participantes **pierden su forma** — vuelven a ser metamorfos
+- Se transforman en monstruos informes y devoran todo a su paso
+- Es IRREVERSIBLE — los participantes nunca recuperan su forma normal
+- Usada solo como último recurso absoluto (unas pocas veces en la historia)
+- Incluso otros Bosmer temen la Cacería Salvaje
+
+## Habilidades
+
+### Arquería
+Los Bosmer son los **mejores arqueros** de Tamriel:
+- Destreza natural excepcional
+- Arcos de cuerno y hueso (sin madera — Pacto Verde)
+- Francotiradores legendarios
+- Empleados como arqueros de élite en todos los ejércitos
+
+### Sigilo
+- Pequeña estatura (los más pequeños de los Mer)
+- Agilidad extraordinaria
+- Conocimiento innato del bosque
+- Capacidad de fundirse con el entorno
+- "Comando Animal" — poder racial para calmar bestias
+
+## Relaciones Políticas
+
+### El Dominio Aldmeri
+- Valenwood fue integrado en el Dominio Aldmeri (dominado por el Thalmor)
+- Los Bosmer son aliados **reacios** de los Altmer
+- El Thalmor ignora y desprecia el Pacto Verde
+- Algunos Bosmer resisten; otros aceptan la "protección"
+
+### El Imperio
+- Bajo el Imperio Septim: provincia imperial
+- Economía basada en la exportación de pieles y la importación de todo lo demás
+- Tras el Concordato: bajo dominio Thalmor
+
+## Rasgos Físicos
+
+- Los **más pequeños** de las razas élficas
+- Piel pardo-verdosa, ojos ámbar
+- Orejas puntiagudas (élficas)
+- Agilidad y velocidad superiores
+- Resistencia a enfermedades y venenos
+- Longevidad élfica (más de 200 años)

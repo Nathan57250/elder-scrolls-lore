@@ -1,0 +1,95 @@
+---
+title: "Sithis, el Vacío Primordial"
+slug: "sithis"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["Sithis", "Padomay", "Vacío", "Hermandad Oscura", "IS-NOT", "Caos", "Creación", "Madre Noche"]
+timelineYear: -99999
+summary: "Sithis, manifestación del Vacío y de la no-existencia, es la fuerza primordial del cambio nacida de Padomay cuya influencia se extiende desde la cosmología abstracta hasta los rituales asesinos de la Hermandad Oscura."
+sources: ["Sithis (in-game book)", "The Monomyth", "Fire and Darkness", "The Night Mother's Truth", "UESP: Sithis"]
+---
+
+## El Concepto de Sithis
+
+**Sithis** no es un dios en el sentido tradicional del término. No posee ni templo, ni clérigos legítimos, ni siquiera una voluntad consciente según la mayoría de los teólogos. Sithis es más bien la **fuerza metafísica del No-Ser** — la encarnación del cambio, el fin y el Vacío que existía antes de que cualquier cosa tomara forma. En la cosmología del **Aurbis**, Sithis representa el principio opuesto a **Anui-El**: donde Anui-El es la estasis, el orden y la permanencia, Sithis es el flujo, el caos y la disolución.
+
+### IS-NOT: La Filosofía de la Nada
+
+El concepto más fundamental asociado a Sithis es el del **IS-NOT** (el NO-ES). Antes de la creación del Aurbis, antes incluso de que el tiempo existiera, había dos fuerzas:
+
+- **IS** (ES) — la voluntad de existir, de ser estático, de perdurar. Este es **Anu**.
+- **IS-NOT** (NO-ES) — la voluntad de no ser, de cambiar, de destruir para recrear. Este es **Padomay**.
+
+Sithis es la manifestación de Padomay dentro del Aurbis, igual que Anui-El es la manifestación de Anu. Estas dos fuerzas no son seres pensantes sino **principios cósmicos absolutos** cuya interacción engendró toda la realidad.
+
+## Sithis y Padomay
+
+### La Distinción Sutil
+
+Los eruditos debaten largamente sobre la diferencia entre Sithis y **Padomay**. La distinción más aceptada es jerárquica:
+
+| Concepto | Naturaleza | Escala |
+|----------|-----------|--------|
+| Padomay | Fuerza primordial pre-creación | Más allá del Aurbis |
+| Sithis | Manifestación de Padomay en el Aurbis | Dentro de la realidad |
+
+Padomay es la idea pura del cambio, que existe fuera de cualquier realidad comprensible. Sithis es esa misma fuerza tal como se manifiesta en el marco de la existencia — el Vacío que rodea e impregna el Aurbis.
+
+### El Papel en la Creación
+
+Paradójicamente, Sithis desempeña un papel esencial en la Creación misma. Sin el cambio que él representa, nada podría nacer de la estasis de Anu. Es el conflicto entre IS e IS-NOT el que engendró los primeros espíritus, los **et-Ada**. El texto *Sithis* afirma:
+
+> *Anu no creó nada. Él está inmóvil. Es Sithis quien creó todas las cosas, pues el cambio es creación, y la estasis es la muerte verdadera.*
+
+Esta perspectiva — radical y contestada — sugiere que el propio **Lorkhan** sería un "hijo" de Sithis, enviado para romper la estasis de Anu creando Mundus.
+
+## La Hermandad Oscura y el Culto de Sithis
+
+### Los Cinco Preceptos
+
+La **Hermandad Oscura** es la organización más visiblemente asociada a Sithis. Para sus miembros, Sithis es efectivamente una entidad consciente — un dios oscuro que exige almas como ofrenda. Los asesinos de la Hermandad creen que cada asesinato es un sacramento, enviando el alma de la víctima al Vacío para alimentar a Sithis.
+
+Los rituales de la Hermandad se basan en:
+
+1. **La Madre Noche** — mujer mortal que sacrificó a sus cinco hijos a Sithis, convirtiéndose tras su muerte en el canal por el que Sithis comunica su voluntad
+2. **El Oyente** — el único miembro capaz de oír la voz de la Madre Noche en su ataúd
+3. **El Sacramento Negro** — ritual de invocación que permite a los clientes contactar a la Hermandad
+4. **Las Tinieblas** — el estado de gracia en el que un asesino cumple con su arte
+5. **El Vacío** — destino final de las víctimas y recompensa última de los fieles
+
+### La Madre Noche: Esposa del Vacío
+
+La **Madre Noche** sigue siendo una figura rodeada de misterio. Según la tradición de la Hermandad, fue una mujer mortal que oyó la voz de Sithis y le ofreció sus propios hijos como sacrificio supremo. En recompensa, Sithis la convirtió en su compañera eterna y en el canal de su voluntad en el mundo de los vivos.
+
+Su cuerpo momificado, conservado en un ataúd que transporta la Hermandad, continúa susurrando los nombres de quienes deben morir al oído del Oyente.
+
+## Interpretaciones Teológicas
+
+### La Perspectiva de los Argonianos
+
+Los **Argonianos** tienen una relación única con Sithis. En su cultura, el Vacío no es un concepto maligno sino un aspecto natural del ciclo de la existencia. Los **Hist** — los árboles conscientes del Ciénaga Negra — estarían según algunas tradiciones directamente vinculados a Sithis. Los asesinos argonianos de la Hermandad consideran su servicio un acto sagrado y natural, desprovisto de la connotación maligna que otras culturas le otorgan.
+
+### La Perspectiva Académica
+
+Los magos de la **Universidad Arcana** y de la **Orden Psíjica** consideran generalmente que la Hermandad Oscura ha antropomorfizado una fuerza cósmica impersonal. Para ellos, Sithis no "quiere" nada ni "exige" nada — es simplemente la entropía natural del universo, el cambio inevitable que disuelve toda estructura.
+
+### La Paradoja de la Personificación
+
+La pregunta central sigue siendo: ¿posee Sithis consciencia? Varios argumentos se enfrentan:
+
+- **A favor**: La Madre Noche se comunica verdaderamente, los contratos de la Hermandad son cumplidos por fuerzas sobrenaturales, ciertos espectros afirman servir a Sithis en el más allá
+- **En contra**: Las fuerzas invocadas podrían ser de origen daédrico (quizás **Mephala**, fundadora histórica de la Morag Tong), Sithis como no-existencia no puede poseer lógicamente ninguna voluntad
+
+## Sithis en la Metafísica del Aurbis
+
+### Más Allá del Bien y del Mal
+
+Sería reduccionista calificar a Sithis de "maligno". El Vacío es tan necesario como la luz. Sin disolución, nada nuevo puede nacer. Las estaciones, la muerte natural, la evolución de las especies, la caída de los imperios — todo cambio participa de Sithis. En este sentido, rechazar a Sithis equivaldría a rechazar la vida misma, pues la vida solo es posible mediante el cambio.
+
+### La Relación con los Príncipes Daedra
+
+Los **Príncipes Daedra** son a menudo considerados hijos de Sithis/Padomay, en contraposición a los Aedra procedentes de Anu/Anui-El. Esta clasificación es, sin embargo, simplista — la realidad cosmológica es más matizada. Los Príncipes existen *dentro* del Aurbis y poseen una identidad definida, lo que los distingue fundamentalmente del Vacío impersonal de Sithis.
+
+### El Vacío Exterior
+
+Más allá del Aurbis — más allá incluso de Oblivion y Aetherius — se extiende el **Vacío** verdadero. No es un lugar sino una ausencia de lugar; no una cosa sino la ausencia de toda cosa. Este es el dominio último de Sithis, el estado natural de la no-existencia al que quizás toda la Creación regresará algún día, cuando el Sueño de Anu llegue a su fin.

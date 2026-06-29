@@ -1,0 +1,94 @@
+---
+title: "Aetherius — The Realm of Magic"
+slug: "aetherius"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["aetherius", "magic", "magnus", "magna-ge", "sun", "stars", "sovngarde", "immortal-plane"]
+timelineYear: -99984
+summary: "Aetherius, the immortal plane from which all magic on Nirn originates, the realm Magnus created by fleeing the creation of the mortal world."
+sources: ["UESP: Aetherius", "The Imperial Library: Cosmology", "The Monomyth", "Magic from the Sky"]
+---
+
+## Introduction
+
+**Aetherius** is the immortal plane located beyond **Oblivion** in the cosmological structure of the **Aurbis**. It is the source of all **magic** on **Nirn**, the realm of pure light and infinite creative energy. Unlike the dark and capricious kingdoms of Oblivion, Aetherius is described as a place of unimaginable splendor — a boundless ocean of magical light.
+
+It is from Aetherius that **Magnus** and the **Magna-Ge** look upon the creation they abandoned, and it is toward Aetherius that the souls of virtuous mortals travel after death.
+
+## The Nature of Aetherius
+
+### A Plane of Pure Magic
+
+Aetherius is not a physical place in the way mortals understand it. It is a plane of existence constituted of raw **magicka** — the fundamental energy that underlies all reality. Mortal descriptions speak of blinding light, an infinite space filled with impossible colors and geometric structures that defy comprehension.
+
+Unlike Mundus, where time and space constrain existence, Aetherius is a place where these concepts hold only relative relevance. Spirits dwelling there exist in a state of eternity — neither alive nor dead in the mortal sense, but simply **being**.
+
+### The Relationship with the Et'Ada
+
+The **et'Ada** (original spirits) who did not participate in the creation of Mundus and did not choose to remain in Oblivion reside in Aetherius. These beings include **Magnus**, the **Magna-Ge**, and countless minor spirits whose names have been forgotten by mortals. They retain their full divine power, unlike the **Aedra** weakened by their investment in Mundus.
+
+## The Stars and the Sun
+
+### The Flight of Magnus
+
+During the creation of **Nirn**, **Magnus** served as architect — it was he who drafted the plans of the mortal world. But when he understood that the construction required the sacrifice of his participants' divine essence, he refused to continue. Magnus fled toward Aetherius, tearing through the fabric of reality as he crossed the layers of Oblivion.
+
+The hole he left behind is the **Sun** — not a ball of fire as astronomers of our world would describe it, but a **perforation in the fabric of Oblivion** through which the light of Aetherius floods Mundus without end. That is why sunlight in the Elder Scrolls universe is intrinsically magical.
+
+### The Magna-Ge and the Stars
+
+The **Magna-Ge** (the "children of Magnus") followed their master in his flight. Each of them pierced their own hole in the sky as they crossed through Oblivion. These smaller perforations are the **stars** — thousands of points of light through which Aetherius's magic filters down to Nirn.
+
+This cosmology explains why:
+- Magic is more powerful at night (more stars visible)
+- Certain stars have specific magical properties
+- **Standing Stones** confer abilities based on the constellation under which an individual was born
+
+### The Constellations
+
+The stars form recognizable constellations that have a direct influence on the world:
+- **The Warrior**, **The Mage**, **The Thief** — the three guardian constellations
+- Each guardian protects three minor constellations (The Lord, The Lady, The Steed, etc.)
+- **The Serpent** — the thirteenth constellation, without a guardian, wandering and sinister
+
+## The Realms of Aetherius
+
+### Sovngarde
+
+The most celebrated realm of Aetherius is **Sovngarde** — the paradise of Nordic warriors. Ruled by **Shor** (the Nordic aspect of Lorkhan), Sovngarde is a place of eternal feasts and glorious combat in the **Hall of Valor**. Only Nords who died in battle or lived with honor are admitted.
+
+The **Dragonborn** physically visits Sovngarde during his final confrontation with **Alduin**, who had been devouring the souls of the dead to gain power.
+
+### The Far Shore
+
+The **Redguards** believe in an afterlife called the **Far Shore**, accessible to worthy warriors who cross the waters of death. This realm of Aetherius reflects the Yokudan beliefs of martial reward.
+
+### Other Realms
+
+There are likely as many realms in Aetherius as there are cultures and beliefs on Nirn. Every mortal pantheon has its own vision of the afterlife, and Aetherius seems to accommodate these beliefs — or perhaps it is belief itself that creates these spaces.
+
+## Aetherius and Magic
+
+### The Source of Magicka
+
+All **magicka** used by Nirn's mages comes from Aetherius. It passes through the Sun and the stars in the form of light and permeates the world. Living beings naturally absorb this magicka, and mages learn to channel it to produce supernatural effects.
+
+**Varla Stones** and **Welkynd Stones**, Ayleid artifacts, are crystals capable of storing this energy from Aetherius in concentrated form — magical batteries of a technology now lost.
+
+### The Psijic Order and the Old Ways
+
+The **Psijic Order** studies alternative methods of accessing the energy of Aetherius. Rather than channeling raw magicka like conventional mages, Psijics practice the **Old Way** — a form of mysticism that directly manipulates the fabric of reality through meditation and will.
+
+## Accessing Aetherius
+
+### The Impossibility of Physical Travel
+
+Physically reaching Aetherius is considered nearly impossible for living mortals. The plane lies "beyond" Oblivion, and crossing Oblivion without being consumed by Daedric forces is a feat only Magnus and the Magna-Ge have accomplished — and their passage destroyed the fabric of reality.
+
+### Mortal Attempts
+
+Despite this apparent impossibility, some have attempted the journey. The **Ayleids** built machines aimed at piercing the sky. The **Orrery** of the Imperial City was designed in part to study connections with Aetherius. And accounts of mystics who projected their consciousness toward Aetherius, even briefly, are scattered throughout Tamriel's history.
+
+## Cosmological Significance
+
+Aetherius represents, in the metaphysics of the Aurbis, pure potential — creative energy unconstrained by the limitations of Mundus. If Mundus is the realm of experience and mortality, Aetherius is that of infinite possibility. It is this tension between limitation and infinity that gives the Elder Scrolls universe its unique philosophical depth.

@@ -1,0 +1,102 @@
+---
+title: "The Planes of Oblivion"
+slug: "oblivion-planes"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["oblivion", "planes", "daedric-princes", "realms", "liminal-barriers", "cosmology", "daedra"]
+aliases: ["Oblivion"]
+timelineYear: -99983
+summary: "The planes of Oblivion, the sea of Daedric realms that separates Mundus from Aetherius, and the mechanics governing these infinite dimensions."
+sources: ["UESP: Oblivion", "The Imperial Library: Planes of Oblivion", "On Oblivion", "The Doors of Oblivion"]
+---
+
+## Introduction
+
+**Oblivion** is not a single place but an infinite collection of planes of existence situated between **Mundus** (the mortal plane) and **Aetherius** (the immortal plane). It is a vast dimensional sea in which the personal realms of the **Daedric Princes** and countless minor pockets of reality float. Oblivion is often perceived as hostile and chaotic, but its true nature is far more complex.
+
+## The Structure of Oblivion
+
+### The Sea of the Void
+
+Oblivion can be conceptualized as a dimensional ocean. Between the established realms of the Daedric Princes stretches a chaotic, formless space — sometimes called the **Waters of Oblivion** or the **Void Between Worlds**. This space obeys no coherent physical laws and is extremely dangerous for any mortal being who would venture into it without protection.
+
+### The Major Realms
+
+Sixteen major Daedric Princes each possess one or more personal realms in Oblivion. These planes are extensions of their master's will and personality — entire dimensions shaped by a divine ego. Each realm reflects the sphere of influence of its Prince and operates according to its own internal laws.
+
+### The Minor Planes
+
+Beyond the sixteen great realms exist hundreds, even thousands, of **minor planes**. Some belong to lesser Daedra (such as **Daedric Lords**), others are abandoned fragments of reality, and some seem to exist without an apparent master. The **Soul Cairn**, for example, belongs to no Prince but is governed by the mysterious **Ideal Masters**.
+
+## The Sixteen Major Realms
+
+### Coldharbour — Molag Bal
+
+The realm of **Molag Bal**, Prince of domination and subjugation. Coldharbour is a grotesque parody of Nirn — a corrupted, frozen version of Tamriel where all is desolation. Towers of black ice rise beneath a sunless sky, and captive souls are tortured for eternity. It is here that **Molag Bal** attempted to drag Nirn into his realm in the event known as the **Planemeld**.
+
+### Apocrypha — Hermaeus Mora
+
+The domain of **Hermaeus Mora**, Prince of forbidden knowledge and memory. Apocrypha is an infinite library — endless corridors filled with books, scrolls, and forgotten knowledge. Oceans of black ink separate islands of paper, and tentacles emerge from every surface. All lost knowledge ends up in Apocrypha, but the price of accessing it is often one's sanity.
+
+### The Deadlands — Mehrunes Dagon
+
+The realm of **Mehrunes Dagon**, Prince of destruction and change. The Deadlands are a plane of lava, flames, and eternal ruin. Red iron citadels loom over seas of fire, and armies of Dremora train perpetually for war. It is from this plane that Dagon launched his invasion during the **Oblivion Crisis** in 3E 433.
+
+### The Shivering Isles — Sheogorath
+
+The domain of **Sheogorath**, Prince of Madness. The Shivering Isles are divided into two halves: **Mania** (joyful and creative madness) and **Dementia** (paranoid and destructive madness). It is a place of impossible colors, giant mushrooms, and inverted logic. Its capital, **New Sheoth**, is as beautiful as it is unsettling.
+
+### The Hunting Grounds — Hircine
+
+The hunting domain of **Hircine**, Prince of the Hunt and of lycanthropes. It is an endless forest where prey are chased eternally. The souls of **werewolves** reside there after death, condemned to hunt and be hunted forever. The landscape shifts constantly to offer new challenges.
+
+### The Ashpit — Malacath
+
+The realm of **Malacath** (formerly Trinimac), patron of Orcs and the outcast. The Ashpit is a plane of ash and dust — desolate yet stoic, reflecting the endurance and resilience of its inhabitants. It is here that the souls of faithful Orcs find their rest.
+
+### Evergloam — Nocturnal
+
+The domain of **Nocturnal**, Princess of the night and of shadows. Evergloam is an eternal twilight — a world of mist, darkness, and whispers. The most skilled thieves find their afterlife there, and the **Nightingales** swear allegiance to her in exchange for stealth powers.
+
+### Attribution's Share — Clavicus Vile
+
+The plane of **Clavicus Vile**, Prince of bargains and wishes. It is a deceptively beautiful place where nothing is what it seems — reflecting the nature of the poisoned deals Vile offers to mortals.
+
+### Quagmire — Vaermina
+
+The realm of **Vaermina**, Princess of nightmares. Quagmire is a plane of constantly shifting dreamlike terror — a living nightmare that reconfigures itself endlessly to maximize the horror of its inhabitants.
+
+### Other Realms
+
+- **Moonshadow** — **Azura**: a place of impossible beauty, eternal half-twilight
+- **The Colored Rooms** — **Meridia**: halls of pure light, hostile to the undead
+- **The Spiral Skein** — **Mephala**: a web of secrets and intrigue
+- **The Pits** — **Peryite**: a plane of pestilence and paradoxical order
+- **Misty Grove** — **Sanguine**: a place of debauchery and endless celebration
+- **The Scuttling Void** — **Namira**: a plane of decay and darkness
+
+## How the Planes Work
+
+### Internal Laws
+
+Each plane of Oblivion operates according to its own laws, dictated by the will of its Prince. Time may flow differently, gravity may be inverted, and the laws of physics have no obligation to be consistent. A Prince is **omnipotent** within their own realm — they are literally its god.
+
+### The Liminal Barriers
+
+The **Liminal Barriers** are the magical protections that prevent the planes of Oblivion from merging with Mundus. During the era of the **Septim** dynasty, the **Dragonfires** and the **Amulet of Kings** maintained these barriers. When they fell, massive Daedric invasions became possible.
+
+### Summoning and Portals
+
+Mortals can interact with Oblivion through:
+- **Summoning** — bringing lesser Daedra through the barriers
+- **Portals** — opening physical passages (such as the Oblivion Gates during the Crisis)
+- **Shrines** — ritual points of contact with specific Princes
+- **Daedric artifacts** — objects linked to a Prince that serve as conduits
+
+### Sigils and Anchors
+
+Keeping a portal open between Oblivion and Nirn requires a colossal amount of energy. **Sigil Stones** anchor Dagon's portals, while Molag Bal's **Dark Anchors** serve a similar purpose during the Planemeld. Without these anchors, portals close rapidly.
+
+## Oblivion in History
+
+The interactions between Nirn and Oblivion have marked the history of Tamriel: the **Planemeld** of the Second Era, the **Oblivion Crisis** of the Third Era, and countless minor invasions. Each time, mortals have had to repel the Daedric forces — an eternal struggle between the mortal plane and the powers that seek to conquer or corrupt it.

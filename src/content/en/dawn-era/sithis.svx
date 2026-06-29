@@ -1,0 +1,95 @@
+---
+title: "Sithis, the Primordial Void"
+slug: "sithis"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["Sithis", "Padomay", "Void", "Dark Brotherhood", "IS-NOT", "Chaos", "Creation", "Night Mother"]
+timelineYear: -99999
+summary: "Sithis, manifestation of the Void and of non-existence, is the primordial force of change born of Padomay whose influence extends from abstract cosmology to the murderous rituals of the Dark Brotherhood."
+sources: ["Sithis (in-game book)", "The Monomyth", "Fire and Darkness", "The Night Mother's Truth", "UESP: Sithis"]
+---
+
+## The Concept of Sithis
+
+**Sithis** is not a god in the traditional sense. He possesses no temple, no legitimate clergy, and — according to most theologians — no conscious will. Sithis is rather the **metaphysical force of Non-Being** — the embodiment of change, ending, and the Void that existed before anything took form. In the cosmology of the **Aurbis**, Sithis represents the opposing principle to **Anui-El**: where Anui-El is stasis, order, and permanence, Sithis is flux, chaos, and dissolution.
+
+### IS-NOT: The Philosophy of Nothingness
+
+The most fundamental concept associated with Sithis is that of **IS-NOT**. Before the creation of the Aurbis, before even time existed, there were two forces:
+
+- **IS** — the will to exist, to be static, to endure. This is **Anu**.
+- **IS-NOT** — the will to not be, to change, to destroy in order to recreate. This is **Padomay**.
+
+Sithis is the manifestation of Padomay within the Aurbis, just as Anui-El is the manifestation of Anu. These two forces are not thinking beings but **absolute cosmic principles** whose interaction gave rise to all of reality.
+
+## Sithis and Padomay
+
+### The Subtle Distinction
+
+Scholars debate at length the difference between Sithis and **Padomay**. The most accepted distinction is hierarchical:
+
+| Concept | Nature | Scale |
+|---------|--------|-------|
+| Padomay | Primordial pre-creation force | Beyond the Aurbis |
+| Sithis | Padomay's manifestation within the Aurbis | Within reality |
+
+Padomay is the pure idea of change, existing outside any comprehensible reality. Sithis is that same force as it manifests within the framework of existence — the Void that surrounds and permeates the Aurbis.
+
+### The Role in Creation
+
+Paradoxically, Sithis plays an essential role in Creation itself. Without the change he embodies, nothing could arise from Anu's stasis. It is the conflict between IS and IS-NOT that gave birth to the first spirits, the **et-Ada**. The text *Sithis* states:
+
+> *Anu created nothing. He is motionless. It is Sithis who created all things, for change is creation, and stasis is true death.*
+
+This perspective — radical and contested — suggests that **Lorkhan** himself may be a "child" of Sithis, sent to shatter Anu's stasis by creating Mundus.
+
+## The Dark Brotherhood and the Cult of Sithis
+
+### The Five Tenets
+
+The **Dark Brotherhood** is the organization most visibly associated with Sithis. For its members, Sithis is indeed a conscious entity — a dark god demanding souls as offerings. The Brotherhood's assassins believe that every murder is a sacrament, sending the victim's soul into the Void to nourish Sithis.
+
+The Brotherhood's rituals revolve around:
+
+1. **The Night Mother** — a mortal woman who sacrificed her five children to Sithis, becoming after her death the channel through which Sithis communicates his will
+2. **The Listener** — the single member capable of hearing the Night Mother's voice from within her coffin
+3. **The Black Sacrament** — the summoning ritual by which clients contact the Brotherhood
+4. **The Tenets** — the state of grace in which an assassin performs their art
+5. **The Void** — the final destination of victims and the ultimate reward of the faithful
+
+### The Night Mother: Bride of the Void
+
+The **Night Mother** remains a figure shrouded in mystery. According to Brotherhood tradition, she was a mortal woman who heard the voice of Sithis and offered her own children to him as the supreme sacrifice. In return, Sithis made her his eternal companion and the channel of his will in the world of the living.
+
+Her mummified body, kept in a coffin carried by the Brotherhood, continues to whisper the names of those who must die into the ear of the Listener.
+
+## Theological Interpretations
+
+### The Argonian Perspective
+
+The **Argonians** have a unique relationship with Sithis. In their culture, the Void is not an evil concept but a natural aspect of the cycle of existence. The **Hist** — the sentient trees of Black Marsh — are according to some traditions directly linked to Sithis. Argonian assassins of the Brotherhood consider their service a sacred and natural act, devoid of the evil connotation other cultures attach to it.
+
+### The Academic Perspective
+
+The mages of the **Arcane University** and the **Psijic Order** generally consider that the Dark Brotherhood has anthropomorphized an impersonal cosmic force. To them, Sithis neither "wants" nor "demands" anything — he is simply the natural entropy of the universe, the inevitable change that dissolves all structure.
+
+### The Paradox of Personification
+
+The central question remains: does Sithis possess consciousness? Several arguments clash:
+
+- **For**: The Night Mother genuinely communicates, the Brotherhood's contracts are honored by supernatural forces, certain shades claim to serve Sithis in the afterlife
+- **Against**: The summoned forces could be of Daedric origin (perhaps **Mephala**, historical founder of the Morag Tong), and Sithis as non-existence cannot logically possess a will
+
+## Sithis in the Metaphysics of the Aurbis
+
+### Beyond Good and Evil
+
+It would be reductive to label Sithis as "evil." The Void is as necessary as the light. Without dissolution, nothing new can be born. The seasons, natural death, the evolution of species, the fall of empires — all change partakes of Sithis. In this sense, to refuse Sithis would be to refuse life itself, for life is only possible through change.
+
+### The Relationship with the Daedric Princes
+
+The **Daedric Princes** are often considered children of Sithis/Padomay, as opposed to the Aedra who descend from Anu/Anui-El. This classification is nonetheless simplistic — the cosmological reality is more nuanced. The Princes exist *within* the Aurbis and possess a defined identity, which fundamentally distinguishes them from the impersonal Void of Sithis.
+
+### The Outer Void
+
+Beyond the Aurbis — beyond even Oblivion and Aetherius — stretches the true **Void**. It is not a place but an absence of place; not a thing but the absence of all things. This is Sithis's ultimate domain, the natural state of non-existence to which all of Creation may one day return when the Dream of Anu ends.

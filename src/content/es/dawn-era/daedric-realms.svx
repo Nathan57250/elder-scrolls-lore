@@ -1,0 +1,124 @@
+---
+title: "Los Reinos Daédricos — Dominios de los Príncipes"
+slug: "daedric-realms"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "príncipes-daédricos", "reinos", "coldharbour", "apocrypha", "deadlands", "shivering-isles", "oblivion"]
+timelineYear: -99900
+summary: "Descripción detallada de cada reino de los Príncipes Daédricos, su geografía, sus habitantes y las experiencias de los mortales que los han visitado."
+sources: ["UESP: Planes of Oblivion", "The Doors of Oblivion", "TES IV: Shivering Isles", "TES Online: Coldharbour", "TES V: Dragonborn - Apocrypha"]
+---
+
+## Introducción
+
+Cada **Príncipe Daédrico** posee un reino personal en los planos de **Oblivion** — una dimensión entera moldeada por su voluntad y que refleja su esfera de influencia. Estos reinos no son meros lugares: son extensiones vivas de la personalidad de su amo, universos donde una sola mente es ley absoluta.
+
+Los mortales que visitan estos reinos — voluntariamente o no — encuentran paisajes imposibles, peligros inimaginables y a veces recompensas a un precio terrible.
+
+## Coldharbour (Puerto Frío)
+
+### El Dominio de Molag Bal
+
+**Coldharbour** es el reino de **Molag Bal**, Príncipe de la dominación, la subyugación y las intrigas. Es quizás el plano más temido de todos — una parodia desolada de **Nirn** misma, como si el mundo mortal hubiera sido vaciado de todo calor y toda esperanza.
+
+### Geografía
+
+El paisaje de Coldharbour es una versión corrompida de Tamriel: se reconocen en él estructuras familiares — ciudades, fortalezas, templos — pero todas están en ruinas, heladas y desprovistas de vida. Un cielo gris y opresivo se cierne sobre llanuras de hielo negro. La luz es escasa, siempre fría, y el silencio solo se rompe con los gemidos de las almas cautivas.
+
+### La Ciudad Imperial de Coldharbour
+
+En el centro del reino se alza una réplica grotesca de la **Ciudad Imperial** — las mismas calles, los mismos edificios, pero vaciados de toda humanidad y llenos de **Daedra** servidores. Este es el trono de Molag Bal, desde el que orquesta sus planes de conquista de Mundus.
+
+### El Planemeld
+
+En el 2E 582, Molag Bal intentó **fusionar** Coldharbour con Nirn en un evento llamado el **Planemeld** — usando **Anclas Oscuras** para arrastrar físicamente el mundo mortal hacia su reino. El **Vestigio** (héroe de ESO) puso fin a esta amenaza enfrentándose a Molag Bal en su propio dominio.
+
+## Apocrypha
+
+### El Dominio de Hermaeus Mora
+
+**Apocrypha** es el reino de **Hermaeus Mora**, Príncipe del destino, el saber prohibido y la memoria. Es una biblioteca sin fin — un cosmos de conocimiento acumulado desde el amanecer de los tiempos.
+
+### La Arquitectura del Saber
+
+Apocrypha se manifiesta como un enredo infinito de:
+- **Bibliotecas** sin muros ni techo, que se extienden hasta el infinito
+- **Océanos de tinta negra** que separan archipiélagos de libros
+- **Tentáculos** que emergen de cada superficie, formando a veces puentes o escaleras
+- **Torres de libros** que se elevan hacia un cielo de pergamino
+
+Los **Buscadores** (Seekers) y los **Acechadores** (Lurkers) — servidores de Hermaeus Mora — patrullan este laberinto, protegiendo los secretos más peligrosos.
+
+### Los Libros Negros
+
+Los **Libros Negros** son artefactos que permiten a los mortales entrar físicamente en Apocrypha. El **Dovahkiin** usó estas obras para enfrentarse a **Miraak**, el primer Hijo de Dragón, que había quedado atrapado en Apocrypha durante milenios después de desafiar a su amo Hermaeus Mora.
+
+## Las Deadlands (Tierras Muertas)
+
+### El Dominio de Mehrunes Dagon
+
+Las **Deadlands** son el reino de **Mehrunes Dagon**, Príncipe de la destrucción, la ambición y el cambio revolucionario. Es un plano de guerra perpetua y cataclismo constante.
+
+### Un Mundo de Fuego
+
+El paisaje de las Deadlands está dominado por:
+- **Mares de lava** que se extienden hasta donde alcanza la vista
+- **Ciudadelas de hierro y obsidiana** que se ciernen sobre las llamas
+- Un **cielo rojo sangre** iluminado por relámpagos constantes
+- **Llanuras de ceniza** por las que marchan los ejércitos de Dremora
+
+Los **Dremora** — la casta guerrera de los Daedra — son los habitantes principales, organizados en una rígida jerarquía militar que sirve los fines destructores de su Príncipe.
+
+### La Crisis de Oblivion
+
+Durante la **Crisis de Oblivion** (3E 433), las Deadlands fueron el punto de partida de la invasión de Tamriel. Cientos de **Puertas de Oblivion** se abrieron en Nirn, desembocando los ejércitos de Dagon. El **Héroe de Kvatch** penetró en las Deadlands múltiples veces para cerrar estos portales destruyendo las **Piedras de Sigilo** que los mantenían abiertos.
+
+## Las Shivering Isles (Islas Temblorosas)
+
+### El Dominio de Sheogorath
+
+Las **Shivering Isles** son el reino de **Sheogorath**, Príncipe de la Locura. Es quizás el plano de Oblivion más fascinante — un lugar donde la lógica es un concepto extraño y la belleza convive con el horror.
+
+### La División Manía/Demencia
+
+Las Islas están divididas en dos regiones distintas:
+- **Manía** (al norte) — la locura creativa, alegre y colorida. Hongos gigantes luminiscentes, flores imposibles, habitantes excéntricos pero raramente peligrosos
+- **Demencia** (al sur) — la locura destructiva, paranoica y oscura. Pantanos venenosos, árboles muertos, habitantes inestables y violentos
+
+### New Sheoth
+
+La capital **New Sheoth** está dividida a su vez: **Bliss** (lado Manía) y **Crucible** (lado Demencia). Sheogorath reina desde su palacio en el centro, arbitrando los conflictos entre sus dos aspectos con una indiferencia divertida.
+
+### El Greymarch
+
+De forma cíclica, Sheogorath se transforma en **Jyggalag** (Príncipe del Orden) en un evento llamado el **Greymarch** — el Orden destruye la Locura, y luego Sheogorath renace. Este ciclo se rompió cuando el **Campeón de Cyrodiil** se convirtió en el nuevo Sheogorath.
+
+## Evergloam (Penumbra Eterna)
+
+### El Dominio de Nocturnal
+
+**Evergloam** es un crepúsculo eterno — un mundo de nieblas, sombras y susurros. La luz nunca es intensa allí, y los contornos de todas las cosas son borrosos. Los **Ruiseñores** (Nightingales) — los campeones de Nocturnal — sirven allí tras su muerte, guardando las fronteras entre las sombras.
+
+El **Sepulcro Crepuscular** en Cielos de Invierno es un punto de contacto entre Nirn y Evergloam, guardado por los espectros de los antiguos Ruiseñores.
+
+## Los Hunting Grounds (Cotos de Caza)
+
+### El Dominio de Hircine
+
+Un bosque primordial y sin fin, eternamente bañado en luz de luna. Los **hombres-lobo** y los cazadores muertos al servicio de **Hircine** persiguen presas eternas allí. El paisaje se transforma constantemente para ofrecer nuevos terrenos de caza. Es un paraíso salvaje para quienes abrazan su naturaleza bestial — y un infierno para quienes quedan atrapados en él como presas.
+
+## Moonshadow (Sombra de Luna)
+
+### El Dominio de Azura
+
+**Moonshadow** es descrito como el más bello de todos los planos de Oblivion. Un eterno crepúsculo teñido de rosa y violeta baña jardines de belleza sobrenatural. Las flores cantan allí, el aire está perfumado y la luz es siempre la del alba o el ocaso. **Azura**, Princesa del amanecer y el crepúsculo, reina allí con una gracia que incluso sus detractores reconocen.
+
+## Los Colored Rooms (Salas de Colores)
+
+### El Dominio de Meridia
+
+Las **Colored Rooms** de **Meridia** son un plano de luz pura y cegadora. A diferencia de la mayoría de los reinos daédricos, es un lugar activamente hostil a los **muertos vivientes** y a la nigromancia. Meridia, aunque técnicamente es un Príncipe Daédrico, es de origen Magna-Ge — lo que explica su afinidad por la luz de Aetherius.
+
+## La Experiencia Mortal
+
+Los mortales que visitan estos reinos refieren universalmente una sensación de **opresión** — la abrumadora consciencia de encontrarse en un lugar gobernado por una inteligencia ajena y todopoderosa. El tiempo fluye de forma diferente, los sentidos son engañados y la voluntad es constantemente puesta a prueba. Sobrevivir a una visita a un plano de Oblivion es toda una hazaña; regresar sin cambios es prácticamente imposible.

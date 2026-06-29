@@ -1,0 +1,78 @@
+---
+title: "Nirn — The Mortal Plane"
+slug: "nirn"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["nirn", "mundus", "creation", "aedra", "ehlnofey", "continents", "tamriel", "mortal-plane"]
+timelineYear: -99985
+summary: "Nirn, the mortal world at the heart of Mundus, its creation by the Aedra, and its unique place in the cosmology of the Aurbis."
+sources: ["UESP: Nirn", "The Imperial Library: The Monomyth", "The Annotated Anuad", "UESP: Mundus"]
+---
+
+## Introduction
+
+**Nirn** is the mortal planet at the center of **Mundus**, the plane of physical existence. It is the world where all events of the Elder Scrolls games unfold — a unique place within the **Aurbis** because it is the only location where the concepts of mortality, linear time, and free will truly coexist.
+
+Nirn is not simply a planet in the astronomical sense. It is a plane of reality unto itself, a place where the divine forces of **Anu** and **Padomay** blend to create something entirely new — a world of limitation that is paradoxically a breeding ground of infinite possibility.
+
+## The Creation of Nirn
+
+### Lorkhan's Project
+
+The creation of Nirn is inseparable from the god **Lorkhan** (also known as Shor, Shezarr, or Sep depending on the culture). It was Lorkhan who conceived the idea of a mortal plane — a space where the original spirits (the et'Ada) could experience finitude and, through it, achieve a form of enlightenment impossible in the eternity of **Aetherius**.
+
+Lorkhan convinced **Magnus**, the cosmic architect, to draft the plans for this world, and persuaded many et'Ada to contribute their power to its creation. The spirits who sacrificed their divine power became the **Aedra** — "ancestors" in the Aldmeri tongue.
+
+### The Sacrifice of the Aedra
+
+Building Nirn exacted a terrible price. The Aedra invested their divine essence into the very structure of the world, becoming part of its fundamental reality. **Akatosh** became Time, **Kynareth** became wind and sky, **Mara** became love and fertility. This sacrifice greatly weakened them compared to the **Daedric Princes**, who refused to take part in the creation.
+
+**Magnus**, horrified by the scale of sacrifice required, abandoned the project before its completion and fled toward Aetherius, tearing through the fabric of Oblivion and creating the **Sun** — the greatest hole in the sky. The **Magna-Ge** followed him, creating the stars.
+
+### The Convention
+
+When the remaining Aedra grasped the full extent of their loss, they gathered at the **Adamantine Tower** (Ada-Mantia) to judge Lorkhan. This is the event known as the **Convention**. Akatosh tore out Lorkhan's heart, and **Trinimac** hurled it across the world, where it landed and formed the **Red Mountain** of Vvardenfell.
+
+## The Structure of Nirn
+
+### The Continents
+
+Nirn has several known landmasses:
+
+- **Tamriel** — the main continent, stage of all Elder Scrolls games, divided into nine provinces (Skyrim, Cyrodiil, Morrowind, High Rock, Hammerfell, Valenwood, Elsweyr, Black Marsh, Summerset Archipelago)
+- **Akavir** — the eastern continent, home to mysterious races (Tsaesci, Ka Po'Tun, Kamal, Tang Mo)
+- **Atmora** — the frozen northern continent, ancestral homeland of the Nords, now uninhabitable
+- **Yokuda** — the former continent of the Redguards, largely submerged
+- **Pyandonea** — the island-continent of the Maormer (Sea Elves)
+- **Aldmeris** — the legendary homeland of the Aldmer, whose very existence is debated
+
+### The Moons
+
+**Masser** and **Secunda**, Nirn's two moons, are considered to be the remains of Lorkhan's body — his divine corpse floating eternally in the sky, a visible reminder of his sacrifice and his punishment. The Khajiit call them **Jone** and **Jode**, attributing to them a fundamental role in determining the forms into which Khajiit are born.
+
+## The Relationship with Other Planes
+
+### Nirn and Oblivion
+
+The planes of **Oblivion** surround Mundus as a sea surrounds an island. **Daedric Princes** cannot directly access Nirn without being summoned or opening dimensional portals. The **Liminal Barriers**, maintained by the Dragonfires and the Amulet of Kings throughout the Septim era, protected Nirn from massive Daedric invasions.
+
+When those barriers fell in 3E 433, **Mehrunes Dagon** was able to directly invade Nirn during the **Oblivion Crisis**.
+
+### Nirn and Aetherius
+
+The magic that permeates Nirn comes from **Aetherius**, filtering through the Sun and the stars. Without these openings, Nirn would be a world devoid of magic. Mages thus literally draw their power from the light of another plane of existence — a fundamental cosmic connection.
+
+### Nirn and the Void (Sithis)
+
+Beneath everything, beyond the Aurbis itself, lies the **Void** — the primordial nothingness associated with **Sithis**. The **Dark Brotherhood** venerates this concept as the ultimate force of change and ending. The Void represents what existed before creation and what will endure after all things have ceased.
+
+## The Uniqueness of Nirn
+
+What makes Nirn truly unique in the cosmology of the Aurbis is its nature as a compromise. It is a place where:
+
+- **Time** flows linearly (thanks to Akatosh's sacrifice)
+- Beings are **mortal** yet possess immortal souls
+- **Magic** exists but is constrained by physical laws
+- **Free will** allows mortals to transcend their condition
+
+This combination makes Nirn a unique arena of spiritual growth — exactly what Lorkhan envisioned, whether his project was an act of compassion or of malice.

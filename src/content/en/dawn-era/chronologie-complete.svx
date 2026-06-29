@@ -1,0 +1,169 @@
+---
+title: "Timeline of Tamriel's Major Events"
+slug: "chronologie-complete"
+era: "dawn-era"
+category: "evenements"
+tags: ["timeline", "history", "events", "eras", "summary", "chronology"]
+timelineYear: 0
+summary: "A complete timeline of the major events in Tamriel's history, from the creation of the Aurbis to the events of Skyrim, tracing the causal links between each period."
+sources: ["UESP: Timeline", "The Imperial Library: History", "All TES Games"]
+---
+
+## The Dawn Era (Non-Linear Time)
+
+Before linear time, everything occurs simultaneously:
+
+- **Anu and Padomay** clash → Birth of the Aurbis
+- **The et-Ada** form (original spirits)
+- **Lorkhan** convinces the Aedra to create Mundus
+- **The Convention** — the Aedra judge Lorkhan, rip out his Heart
+- The Heart is cast into Tamriel → creates Red Mountain
+- **Magnus** flees → creates the Sun (a hole toward Aetherius)
+- The Magna-Ge follow him → create the stars
+- **The Divines** sacrifice themselves to stabilize Mundus
+- **The Daedra** refuse sacrifice → create their Oblivion realms
+- **Akatosh** establishes linear Time → end of the Dawn Era
+
+**What follows from this**: Two camps are defined — the Aedra (sacrificed, weakened) and the Daedra (intact, excluded). Elves venerate the Aedra (their ancestors), men give thanks to Lorkhan (their creator). This theological schism defines ALL future history.
+
+## The Merethic Era (~2,500 years before 1E 1)
+
+### Events and Causality
+
+| Event | Cause | Consequence |
+|-------|-------|-------------|
+| Aldmer colonize Tamriel | Leave the lost Aldmeris | Foundation of all elven cultures |
+| Veloth's Schism | Boethiah inspires rejection of the old gods | Chimer migrate → future Dunmer |
+| Dragon Cult | Dragons rule over men | Oppression → future revolt |
+| Atmorans migrate | Atmora freezes over | Humanity arrives in Tamriel |
+| Night of Tears (Saarthal) | Snow Elves attack human settlers | Ysgramor returns → war of extermination |
+| Five Hundred Companions | Ysgramor's vengeance | Nords dominate Skyrim, Snow Elves pushed back |
+| Dragon War | Humans rebel | Dragon Cult destroyed, dragons banished |
+| Alduin banished by Elder Scroll | Cannot be killed → sent into the future | Will return in 4E 201 |
+
+## First Era (~2,920 years)
+
+### The Chain of Empires
+
+```
+Ayleids enslave humans (Cyrodiil)
+  → Extreme cruelty → Alessia's Rebellion (1E 243)
+  → Aid of Pelinal + Morihaus + Nords
+  → First human Empire founded
+  → Covenant with Akatosh → Amulet of Kings → Dragonfires
+  → Protection of Mundus against the Daedra
+```
+
+### The Dwemer-Chimer Catastrophe
+
+```
+Dwemer discover the Heart of Lorkhan
+  → Kagrenac creates the Tools → Numidium project
+  → Nerevar learns of it → attempts diplomacy → fails
+  → Battle of Red Mountain (1E 700)
+  → Kagrenac strikes the Heart → DWEMER VANISH
+  → Nerevar dies → Tribunal steals divine power
+  → Azura curses the Chimer → Dunmer are born
+  → Dagoth Ur survives beneath the Mountain → a time bomb
+```
+
+### End of the First Era
+
+```
+Akaviri invade (1E 2703)
+  → Reman Cyrodiil defeats them at Pale Pass
+  → Akaviri submit → become the Blades
+  → Reman founds the Second Empire
+  → Reman Empire lasts 200 years → assassinated by the Dark Brotherhood
+```
+
+## Second Era (~896 years)
+
+### The Interregnum and Chaos
+
+```
+Assassination of Reman III (2E 324)
+  → Akaviri Potentates govern
+  → Assassination of Savirien-Chorak (2E 430)
+  → NO EMPEROR → 400 years of total chaos
+  → Guilds form (Mages, Fighters, Thieves)
+  → Dark Brotherhood splits from Morag Tong
+  → Mannimarco attempts to become a god
+  → Molag Bal's Planemeld (2E 582) → repelled by the Vestige
+  → Three Alliances fight for the empty throne
+```
+
+### Tiber Septim Unifies Everything
+
+```
+Interregnum creates desire for order
+  → Hjalti/Tiber Septim emerges (2E 854)
+  → Conquers with Thu'um + armies + Numidium
+  → First empire to control ALL of Tamriel
+  → Achieves apotheosis → becomes Talos (Ninth Divine)
+  → Founds the Septim dynasty → Third Era begins
+```
+
+## Third Era (~433 years)
+
+### The Pax Septima and Its Cracks
+
+| Period | Event | Consequence |
+|--------|-------|-------------|
+| 3E 389-399 | Imperial Simulacrum | Jagar Tharn usurps 10 years → Empire weakened |
+| 3E 405 | War of Betony | High Rock destabilized |
+| 3E 417 | Warp in the West | Dragon Break → 6 simultaneous outcomes |
+| 3E 427 | Nerevarine in Morrowind | Dagoth Ur destroyed → Tribunal loses divine power |
+| 3E 433 | Oblivion Crisis | END OF EVERYTHING → 4th Era |
+
+### The Oblivion Crisis — The Pivot
+
+```
+Mythic Dawn infiltrates the Empire (decades)
+  → Assassinates Uriel VII + heirs (3E 433)
+  → Dragonfires extinguished → Liminal Barrier collapses
+  → Oblivion Gates open everywhere
+  → Kvatch destroyed → Martin Septim discovered
+  → Martin shatters the Amulet → Avatar of Akatosh
+  → Dagon repelled BUT:
+    - Amulet DESTROYED → Dragonfires can never be lit again
+    - Septim Dynasty EXTINCT → no more divine legitimacy
+    - Empire BROKEN → beginning of the end
+```
+
+## Fourth Era (~201+ years)
+
+### The Post-Oblivion Cascade
+
+```
+Oblivion Crisis (3E 433)
+  ├→ Red Year (4E 5): Baar Dau falls → Red Mountain erupts
+  │    ├→ Morrowind devastated → Dunmer Diaspora
+  │    └→ Argonian invasion → Vengeance for slavery
+  ├→ Thalmor seizes power (4E 22): Exploits the chaos
+  │    ├→ Absorbs Valenwood (4E 29)
+  │    └→ Co-opts Elsweyr (4E 115)
+  ├→ Great War (4E 171-175)
+  │    └→ White-Gold Concordat (4E 175)
+  │         ├→ Ban on Talos worship
+  │         ├→ Hammerfell secession
+  │         └→ Radicalization of Ulfric (Markarth Incident, 4E 176)
+  └→ Skyrim in 4E 201
+       ├→ Civil War (Ulfric vs Empire)
+       ├→ Return of Alduin (sent from the Merethic Era)
+       ├→ Return of the Dragons
+       └→ The Dovahkiin emerges
+```
+
+## The Common Thread
+
+If one had to summarize the history of Tamriel in a single causal chain:
+
+1. Lorkhan creates Mundus (traps the spirits)
+2. The trapped spirits become mortal (elves, then humans)
+3. Mortals fight over divine power (the Heart, the Tools, the Towers)
+4. Every attempt to steal divine power has catastrophic consequences
+5. The Oblivion Crisis destroys the last safeguard (Dragonfires)
+6. The world is now vulnerable — and Alduin returns to devour it
+
+**The fundamental question**: Is the world of Tamriel dying? Every Tower that falls (Crystal Tower destroyed by the Daedra, White-Gold weakened, Red Tower extinguished) brings Mundus closer to dissolution. The Thalmor wants to accelerate this process. The Dovahkiin may be the last hope — or perhaps the end is inevitable.

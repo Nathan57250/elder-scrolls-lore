@@ -1,0 +1,98 @@
+---
+title: "Akatosh — El Dios Dragón del Tiempo"
+slug: "akatosh"
+era: "dawn-era"
+category: "aedra"
+tags: ["akatosh", "aedra", "tiempo", "dragones", "dragonfires", "alduin", "auriel"]
+timelineYear: 0
+summary: "Akatosh es el jefe del panteón de los Divinos, Dios del Tiempo y padre de los Dragones. Su bendición protegió Tamriel a través de los Dragonfires y el Amuleto de los Reyes durante milenios."
+sources: ["UESP: Akatosh", "The Amulet of Kings", "Varieties of Faith"]
+---
+
+## Presentación
+
+**Akatosh** es el primero de los Divinos (Aedra), el Dios del Tiempo y el jefe del panteón de los Ocho (o Nueve) Divinos. Es el primer espíritu que se formó en el Vacío, y todos los demás dioses son considerados posteriores a él. Su esfera es el **Tiempo** mismo — sin Akatosh, la causalidad no existiría.
+
+## Naturaleza y Aspectos
+
+Akatosh es percibido de manera diferente según las culturas:
+
+| Cultura | Nombre | Aspecto |
+|---------|--------|---------|
+| Imperial | Akatosh | Dragón dorado benevolente |
+| Nórdica | Alduin* | Dragón Devorador de Mundos |
+| Élfica | Auri-El | Rey de los Aldmer, primer espíritu |
+| Khajiit | Alkosh | Rey-Dragón del tiempo |
+
+*Nota: El vínculo entre Akatosh y Alduin es debatido — ¿son el mismo ser o fragmentos distintos?
+
+## Los Dragonfires
+
+La obra más importante de Akatosh para Tamriel:
+- Cuando Alessia fundó el primer Imperio, Akatosh forjó un pacto con ella
+- Vertió **su propia sangre** en el **Amuleto de los Reyes**
+- Mientras un emperador legítimo (Dovahkiin) portara el Amuleto y encendiera los **Dragonfires**...
+- La **Barrera Liminal** impedía que los Daedra invadieran Mundus
+- Este pacto protegió Tamriel durante más de 3.000 años
+- Se rompió en el 3E 433 cuando el linaje Septim se extinguió
+
+## Los Dragones
+
+Akatosh es el **padre de todos los Dragones** (Dovah):
+- Los dragones son fragmentos de su poder temporal
+- Cada dragón es un aspecto parcial de Akatosh
+- Alduin es considerado su "primogénito"
+- Los Nacidos-Dragón (Dovahkiin) portan una bendición de Akatosh
+- El alma de dragón del Dovahkiin proviene directamente de Akatosh
+
+## El Avatar de Akatosh (3E 433)
+
+Durante la Crisis de Oblivion, Martin Septim:
+1. Destruyó el Amuleto de los Reyes
+2. Se fusionó con el espíritu de Akatosh que contenía
+3. Se transformó en el **Avatar de Akatosh** — un gigantesco dragón dorado
+4. Luchó físicamente contra Mehrunes Dagon en la Ciudad Imperial
+5. Expulsó a Dagon de vuelta a Oblivion
+6. Se petrificó en estatua en el Templo del Único
+
+## El Quiebre del Dragón (Dragon Break)
+
+Como Akatosh es el Tiempo, las perturbaciones de su ser provocan **Quiebres del Dragón**:
+- El tiempo deja de ser lineal
+- Múltiples realidades coexisten simultáneamente
+- Los eventos contradictorios son todos "verdaderos"
+- El más famoso: la Distorsión en el Oeste (3E 417)
+- El Amanecer Intermedio (Orden Alessiana) duró 1.008 años de incoherencia temporal
+
+## Relación con Alduin
+
+La cuestión Akatosh/Alduin es uno de los grandes debates teológicos:
+
+### Teoría 1: La Misma Entidad
+- Alduin es simplemente el aspecto nórdico de Akatosh
+- Su función de "Devorador de Mundos" es necesaria para el ciclo kálpico
+- Los Nórdicos ven al mismo dios de manera diferente
+
+### Teoría 2: Entidades Distintas
+- Alduin es el primogénito de Akatosh, no Akatosh mismo
+- Alduin se rebeló contra su rol (no reinar sino destruir y renovar)
+- Paarthurnax: "No es Akatosh — es el hijo de Akatosh"
+- El hecho de que el Dovahkiin (bendito por Akatosh) pueda matar a Alduin apoya esta teoría
+
+## Templos y Culto
+
+- El **Templo del Único** (Ciudad Imperial) — principal lugar de culto
+- Presente en cada capilla de cada ciudad imperial
+- Los sacerdotes de Akatosh bendicen a viajeros y guerreros
+- El culto es universal y no controvertido (a diferencia del de Talos)
+- Símbolo: el dragón
+- Día sagrado: 27 de Última Semilla
+
+## Importancia Cosmológica
+
+Akatosh puede ser la entidad más importante del Aurbis:
+- Sin el Tiempo, nada existe de forma coherente
+- Es la "columna vertebral" de la realidad
+- Las Torres estabilizan la realidad que él inició
+- Su muerte o ausencia causaría el fin de TODO
+- El Thalmor posiblemente busca deshacerlo (teoría)

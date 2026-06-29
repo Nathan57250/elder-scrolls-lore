@@ -1,0 +1,112 @@
+---
+title: "The Bosmer — Wood Elves"
+slug: "bosmer"
+era: "dawn-era"
+category: "races"
+tags: ["bosmer", "wood elves", "valenwood", "green pact", "meat", "y'ffre", "changelings"]
+timelineYear: 0
+summary: "The Bosmer (Wood Elves) of Valenwood live under the Green Pact, which forbids them from harming vegetation. Elite hunters, master archers, and strict carnivores, they practice ritual cannibalism."
+sources: ["UESP: Bosmer", "A Dance in Fire", "The Green Pact and the Dominion"]
+---
+
+## Overview
+
+The **Bosmer** ("People of the Wood") are the forest Elves, inhabitants of **Valenwood** — a dense, living jungle in the southwest of Tamriel. Their defining characteristic is the **Green Pact**: an agreement with Y'ffre that forbids them from harming vegetation, forcing them into an exclusively carnivorous way of life.
+
+## The Green Pact
+
+### The Terms
+The **Green Pact** is a sacred agreement between the Bosmer and Y'ffre (god of the forest):
+- **Forbidden** to cut, burn, or injure any plant
+- **Forbidden** to eat any plant matter (fruit, vegetable, grain)
+- Bosmer must eat exclusively **meat**
+- In exchange, the forest protects them and obeys their shamans
+- Valenwood is a **living** jungle hostile to invaders
+
+### Practical Consequences
+- 100% carnivorous diet (meat, insects, milk)
+- No agriculture — hunting and animal foraging only
+- No wooden construction — they live in living trees
+- Imported wood is the only source of building materials (trade)
+- Clothing is made of leather, bone, and chitin
+
+### Ritual Cannibalism
+The most troubling clause of the Pact:
+- Enemies slain in battle must be **fully consumed**
+- Nothing must be wasted
+- This is not cruelty but a **religious duty**
+- The "Meat Mandate" stipulates the body must be eaten within 3 days
+- Enemies deemed unworthy are not eaten (the ultimate insult)
+
+## Y'ffre
+
+**Y'ffre** (also Jephre) is the patron deity of the Bosmer:
+- Spirit of the Forest and of Storytelling
+- He gave the world a fixed form (before him, all was chaos and transformation)
+- The first to "narrate" himself into existence — creating the laws of nature
+- The Bosmer were **changelings** before Y'ffre fixed their form
+- The Pact is the price of that stable form
+
+## Valenwood
+
+### The Living Jungle
+Valenwood is unique among the provinces:
+- The forest is **sentient** to a degree — it reacts to threats
+- The trees are immense (some are entire cities)
+- **Falinesti** — the nomadic capital, a giant mobile tree (which eventually took root)
+- The canopy is impenetrable to conventional armies
+- The undergrowth teems with predators
+
+### Cities
+- **Falinesti** — giant tree-city (formerly mobile)
+- **Elden Root** — city built inside a massive Graht-oak tree
+- **Woodhearth** — coastal port
+- **Haven** — trading port
+
+## The Wild Hunt
+
+The most terrifying ability of the Bosmer:
+- When facing an existential threat, the Bosmer can invoke the **Wild Hunt**
+- Participants **lose their form** — reverting to their changeling nature
+- They transform into shapeless monsters and devour everything in their path
+- This is IRREVERSIBLE — participants never return to normal
+- Used only as an absolute last resort (a handful of times in history)
+- Even other Bosmer fear the Wild Hunt
+
+## Skills
+
+### Archery
+The Bosmer are the **best archers** in Tamriel:
+- Exceptional natural dexterity
+- Bows made of horn and bone (no wood — Green Pact)
+- Legendary sharpshooters
+- Prized as elite archers in every army
+
+### Stealth
+- Small stature (the smallest of the Mer)
+- Extraordinary agility
+- Innate knowledge of the forest
+- Ability to blend into their surroundings
+- "Command Animal" — racial power to calm beasts
+
+## Political Relations
+
+### The Aldmeri Dominion
+- Valenwood was absorbed into the Aldmeri Dominion (dominated by the Thalmor)
+- The Bosmer are **reluctant** allies of the Altmer
+- The Thalmor ignores and dismisses the Green Pact
+- Some Bosmer resist; others accept the "protection"
+
+### The Empire
+- Under the Septim Empire: an imperial province
+- Economy based on exporting hides and importing everything else
+- After the Concordat: under Thalmor dominion
+
+## Physical Traits
+
+- The **smallest** of the elven races
+- Brownish-green skin, amber eyes
+- Pointed (elven) ears
+- Superior agility and speed
+- Resistance to disease and poison
+- Elven longevity (200+ years)

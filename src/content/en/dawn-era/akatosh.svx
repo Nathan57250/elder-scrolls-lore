@@ -1,0 +1,98 @@
+---
+title: "Akatosh — The Dragon God of Time"
+slug: "akatosh"
+era: "dawn-era"
+category: "aedra"
+tags: ["akatosh", "aedra", "time", "dragons", "dragonfires", "alduin", "auriel"]
+timelineYear: 0
+summary: "Akatosh is the chief of the pantheon of Divines, God of Time and father of Dragons. His blessing protected Tamriel through the Dragonfires and the Amulet of Kings for millennia."
+sources: ["UESP: Akatosh", "The Amulet of Kings", "Varieties of Faith"]
+---
+
+## Overview
+
+**Akatosh** is the first of the Divines (Aedra), the God of Time, and the chief of the pantheon of the Eight (or Nine) Divines. He is the first spirit to have formed in the Void, and all other gods are considered to have come after him. His sphere is **Time** itself — without Akatosh, causality would not exist.
+
+## Nature and Aspects
+
+Akatosh is perceived differently across cultures:
+
+| Culture | Name | Aspect |
+|---------|------|--------|
+| Imperial | Akatosh | Benevolent golden dragon |
+| Nordic | Alduin* | World-Eater Dragon |
+| Elven | Auri-El | King of the Aldmer, first spirit |
+| Khajiit | Alkosh | Dragon-King of time |
+
+*Note: The link between Akatosh and Alduin is debated — are they the same being or distinct fragments?
+
+## The Dragonfires
+
+Akatosh's most important gift to Tamriel:
+- When Alessia founded the first Empire, Akatosh forged a covenant with her
+- He poured **his own blood** into the **Amulet of Kings**
+- As long as a legitimate emperor (Dragonborn) wore the Amulet and lit the **Dragonfires**...
+- The **Liminal Barrier** prevented the Daedra from invading Mundus
+- This covenant protected Tamriel for over 3,000 years
+- It was broken in 3E 433 when the Septim bloodline was extinguished
+
+## The Dragons
+
+Akatosh is the **father of all Dragons** (Dovah):
+- Dragons are fragments of his temporal power
+- Each dragon is a partial aspect of Akatosh
+- Alduin is considered his "firstborn"
+- Children of Dragon (Dovahkiin) carry a blessing from Akatosh
+- The dragon soul of the Dovahkiin comes directly from Akatosh
+
+## The Avatar of Akatosh (3E 433)
+
+During the Oblivion Crisis, Martin Septim:
+1. Shattered the Amulet of Kings
+2. Merged with the spirit of Akatosh contained within it
+3. Transformed into the **Avatar of Akatosh** — a giant golden dragon
+4. Fought Mehrunes Dagon physically in the Imperial City
+5. Drove Dagon back into Oblivion
+6. Was petrified into a statue at the Temple of the One
+
+## The Dragon Break
+
+Because Akatosh is Time, disturbances in his being cause **Dragon Breaks**:
+- Time ceases to be linear
+- Multiple realities coexist simultaneously
+- Contradictory events are all "true"
+- The most famous: the Warp in the West (3E 417)
+- The Middle Dawn (Alessian Order) lasted 1,008 years of temporal incoherence
+
+## Relationship with Alduin
+
+The Akatosh/Alduin question is one of the great theological debates:
+
+### Theory 1: Same Entity
+- Alduin is simply the Nordic aspect of Akatosh
+- His function as "World-Eater" is necessary to the kalpic cycle
+- The Nords see the same god differently
+
+### Theory 2: Distinct Entities
+- Alduin is the firstborn of Akatosh, not Akatosh himself
+- Alduin rebelled against his role (not to reign but to destroy and renew)
+- Paarthurnax: "He is not Akatosh — he is the son of Akatosh"
+- The fact that the Dovahkiin (blessed by Akatosh) can kill Alduin supports this theory
+
+## Temples and Worship
+
+- The **Temple of the One** (Imperial City) — primary place of worship
+- Present in every chapel of every imperial city
+- Priests of Akatosh bless travelers and warriors
+- The cult is universal and uncontroversial (unlike Talos)
+- Symbol: the dragon
+- Sacred day: 27th of Last Seed
+
+## Cosmological Importance
+
+Akatosh may be the most important entity in the Aurbis:
+- Without Time, nothing exists coherently
+- He is the "backbone" of reality
+- The Towers stabilize the reality he initiated
+- His death or absence would cause the end of EVERYTHING
+- The Thalmor possibly seeks to unmake him (theory)

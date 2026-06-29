@@ -1,0 +1,124 @@
+---
+title: "The Daedric Realms — Domains of the Princes"
+slug: "daedric-realms"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "daedric-princes", "realms", "coldharbour", "apocrypha", "deadlands", "shivering-isles", "oblivion"]
+timelineYear: -99900
+summary: "A detailed description of each Daedric Prince's realm, their geography, their inhabitants, and the experiences of mortals who have visited them."
+sources: ["UESP: Planes of Oblivion", "The Doors of Oblivion", "TES IV: Shivering Isles", "TES Online: Coldharbour", "TES V: Dragonborn - Apocrypha"]
+---
+
+## Introduction
+
+Each **Daedric Prince** possesses a personal realm within the planes of **Oblivion** — an entire dimension shaped by their will and reflecting their sphere of influence. These realms are not mere places: they are living extensions of their master's personality, universes where a single mind is absolute law.
+
+Mortals who visit these realms — willingly or otherwise — find impossible landscapes, unimaginable dangers, and sometimes rewards at a terrible price.
+
+## Coldharbour
+
+### The Domain of Molag Bal
+
+**Coldharbour** is the realm of **Molag Bal**, Prince of domination, subjugation, and scheming. It may be the most dreaded of all planes — a desolate mockery of **Nirn** itself, as if the mortal world had been drained of all warmth and hope.
+
+### Geography
+
+Coldharbour's landscape is a corrupted version of Tamriel: familiar structures can be recognized — cities, fortresses, temples — but all are ruined, frozen, and devoid of life. An oppressive grey sky hangs over plains of black ice. Light is scarce, always cold, and silence is broken only by the moans of captive souls.
+
+### The Imperial City of Coldharbour
+
+At the center of the realm stands a grotesque replica of the **Imperial City** — the same streets, the same buildings, but emptied of all humanity and filled with **Daedra** servants. This is Molag Bal's throne, from which he orchestrates his plans for the conquest of Mundus.
+
+### The Planemeld
+
+In 2E 582, Molag Bal attempted to **merge** Coldharbour with Nirn in an event called the **Planemeld** — using **Dark Anchors** to physically drag the mortal world into his realm. The **Vestige** (hero of ESO) put an end to this threat by confronting Molag Bal in his own domain.
+
+## Apocrypha
+
+### The Domain of Hermaeus Mora
+
+**Apocrypha** is the realm of **Hermaeus Mora**, Prince of fate, forbidden knowledge, and memory. It is an endless library — a cosmos of knowledge accumulated since the dawn of time.
+
+### The Architecture of Knowledge
+
+Apocrypha manifests as an infinite tangle of:
+- **Libraries** without walls or ceilings, extending to infinity
+- **Oceans of black ink** separating archipelagos of books
+- **Tentacles** emerging from every surface, sometimes forming bridges or staircases
+- **Towers of books** rising toward a sky of parchment
+
+**Seekers** and **Lurkers** — servants of Hermaeus Mora — patrol this labyrinth, guarding the most dangerous secrets.
+
+### The Black Books
+
+**Black Books** are artifacts that allow mortals to physically enter Apocrypha. The **Dragonborn** used these volumes to confront **Miraak**, the first Dragonborn, who had been trapped in Apocrypha for millennia after defying his master Hermaeus Mora.
+
+## The Deadlands
+
+### The Domain of Mehrunes Dagon
+
+The **Deadlands** are the realm of **Mehrunes Dagon**, Prince of destruction, ambition, and revolutionary change. It is a plane of perpetual war and constant cataclysm.
+
+### A World of Fire
+
+The Deadlands landscape is dominated by:
+- **Seas of lava** extending as far as the eye can see
+- **Citadels of iron and obsidian** looming over the flames
+- A **blood-red sky** lit by constant lightning
+- **Ashen plains** across which armies of Dremora march
+
+The **Dremora** — the warrior caste of the Daedra — are the main inhabitants, organized into a rigid military hierarchy serving their Prince's destructive ends.
+
+### The Oblivion Crisis
+
+During the **Oblivion Crisis** (3E 433), the Deadlands were the launching point for the invasion of Tamriel. Hundreds of **Oblivion Gates** opened on Nirn, pouring out Dagon's armies. The **Hero of Kvatch** entered the Deadlands multiple times to close these portals by destroying the **Sigil Stones** that held them open.
+
+## The Shivering Isles
+
+### The Domain of Sheogorath
+
+The **Shivering Isles** are the realm of **Sheogorath**, Prince of Madness. This may be the most fascinating plane of Oblivion — a place where logic is an alien concept and beauty stands alongside horror.
+
+### The Mania/Dementia Division
+
+The Isles are divided into two distinct regions:
+- **Mania** (to the north) — creative, joyful, colorful madness. Giant luminescent mushrooms, impossible flowers, eccentric but rarely dangerous inhabitants
+- **Dementia** (to the south) — destructive, paranoid, dark madness. Poisoned swamps, dead trees, unstable and violent inhabitants
+
+### New Sheoth
+
+The capital **New Sheoth** is itself divided: **Bliss** (Mania side) and **Crucible** (Dementia side). Sheogorath reigns from his palace at the center, arbitrating conflicts between his two aspects with amused indifference.
+
+### The Greymarch
+
+Cyclically, Sheogorath transforms into **Jyggalag** (Prince of Order) in an event called the **Greymarch** — Order destroys Madness, then Sheogorath is reborn. This cycle was broken when the **Champion of Cyrodiil** became the new Sheogorath.
+
+## Evergloam
+
+### The Domain of Nocturnal
+
+**Evergloam** is an eternal twilight — a world of mists, shadows, and whispers. Light there is never bright, and the edges of all things are blurred. The **Nightingales** — Nocturnal's champions — serve there after death, guarding the borders between the shadows.
+
+The **Twilight Sepulcher** in Skyrim is a point of contact between Nirn and Evergloam, guarded by the spectres of former Nightingales.
+
+## The Hunting Grounds
+
+### The Domain of Hircine
+
+A primordial, endless forest, bathed eternally in moonlight. **Werewolves** and hunters who died in the service of **Hircine** pursue eternal prey there. The landscape shifts constantly to offer new hunting grounds. It is a wild paradise for those who embrace their bestial nature — and a hell for those trapped within it as game.
+
+## Moonshadow
+
+### The Domain of Azura
+
+**Moonshadow** is described as the most beautiful of all planes of Oblivion. An eternal twilight bathed in shades of rose and violet illuminates gardens of supernatural beauty. Flowers sing there, the air is perfumed, and the light is always that of dawn or dusk. **Azura**, Princess of dusk and dawn, reigns there with a grace that even her detractors acknowledge.
+
+## The Colored Rooms
+
+### The Domain of Meridia
+
+**Meridia**'s **Colored Rooms** are a plane of pure, blinding light. Unlike most Daedric realms, it is a place actively hostile to the **undead** and to necromancy. Meridia, though technically a Daedric Prince, is of Magna-Ge origin — which explains her affinity for the light of Aetherius.
+
+## The Mortal Experience
+
+Mortals who visit these realms universally report a feeling of **oppression** — an overwhelming awareness of being in a place governed by an alien and all-powerful intelligence. Time flows differently, the senses are deceived, and the will is constantly tested. Surviving a visit to a plane of Oblivion is a feat; returning unchanged is practically impossible.
