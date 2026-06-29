@@ -1,0 +1,96 @@
+---
+title: "Molag Bal — Prince of Domination"
+slug: molag-bal
+era: dawn-era
+category: daedra
+tags: [molag-bal, daedric-prince, vampires, coldharbour, domination, slavery]
+timelineYear: 0
+summary: "Molag Bal is the Daedric Prince of Domination and Slavery, creator of vampires, invader of Mundus during the Planemeld, and one of the most malevolent Daedra."
+sources: ["UESP: Molag Bal", "Opusculus Lamae Bal", "Events of ESO"]
+---
+
+## Overview
+
+**Molag Bal** is the Daedric Prince of Domination, Rape, and Slavery. His sphere is the subjugation of all beings — breaking the will, corrupting the soul, reducing others to servitude. He is universally considered one of the most **malevolent** Princes, even by Daedric standards.
+
+His name literally means "King of Fire" in the Daedric tongue, though his domain is more one of ice and death.
+
+## Coldharbour
+
+Molag Bal's realm, **Coldharbour**, is a nightmarish parody of Nirn:
+- A desolate, frozen, sunless landscape
+- Grotesque copies of Tamriel's cities
+- Black towers bristling against a perpetually dark horizon
+- Oceans of frozen blood
+- Captured souls are tormented there for eternity
+
+Coldharbour is structured to maximize suffering:
+- Souls that end up there retain their consciousness
+- They are reduced to slaves called Soul Shriven
+- The "Vestiture" process tears the soul from the body
+
+## Creation of Vampires
+
+Molag Bal is the **creator of vampirism**. According to the *Opusculus Lamae Bal*:
+- He violated the Nedic **Lamae Beolfag** (a healer)
+- From this forced union the first vampire was born
+- Lamae became **Lamae Bal** — mother of all vampires
+- Vampirism is thus an ultimate form of domination
+
+Every vampire bloodline descends from this original act, though the subspecies vary:
+- **Volkihar Clan** (Skyrim) — vampires of the cold
+- **Quarra Clan** (Morrowind) — warrior vampires
+- **Berne, Aundae** (Morrowind) — other bloodlines
+- **Pureblooded Vampires** (such as Serana) were created through direct ritual with Molag Bal
+
+## The Planemeld (2E 582)
+
+Molag Bal's most ambitious act was the **Planemeld** — an attempt to merge Coldharbour with Mundus:
+- Use of **Dark Anchors** — magical chains linking the two planes
+- Progressive corruption of Nirn
+- Armies of Daedra and Soul Shriven sent as a vanguard
+- The plan was foiled by the **Vestige** (hero of ESO) who destroyed the anchors
+
+## The Mace of Molag Bal
+
+His Daedric artifact is the **Mace of Molag Bal**:
+- Drains the victim's life force
+- Captures the soul in a gem
+- In Skyrim, obtained by breaking the will of a priest of Boethiah
+- Perfectly symbolizes his sphere: to subdue and steal
+
+## Relationships and Rivalries
+
+| Relationship | Nature |
+|--------------|--------|
+| Boethiah | Sworn enemy — ideological rivalry |
+| Meridia | Enemy — she loathes the undead he creates |
+| Azura | Opposition — she protects what he seeks to subjugate |
+| Mannimarco | Servant/Ally — the King of Worms serves his plans |
+| Vivec | Direct conflict (lessons 12–14) |
+
+## Influence on Tamriel
+
+### The Cult
+Molag Bal is worshipped by:
+- Certain vampire clans
+- Necromancers and slavers
+- Mannimarco's Worm Cult
+- Individuals seeking power at any cost
+
+### In Morrowind
+He is one of the "Four Corners of the House of Troubles":
+- Considered a "bad Daedra" by the Dunmer
+- His influence is combated by the Temple
+- Nevertheless, certain Telvanni deal with him
+
+## Personality
+
+Molag Bal is characterized by:
+- **Calculated cruelty** — he does not destroy, he dominates
+- **Total contempt** for the will of others
+- **Infinite patience** — his plans span eras
+- **Refined sadism** — suffering as an art form
+- **Pragmatism** — he forges alliances when necessary
+
+He differs from Mehrunes Dagon (blind destruction) in that Molag Bal wants to **possess**, not destroy. A world of ashes has no slaves.

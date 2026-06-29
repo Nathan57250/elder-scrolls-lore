@@ -1,0 +1,101 @@
+---
+title: "Hermaeus Mora — Príncipe del Saber Prohibido"
+slug: hermaeus-mora
+era: dawn-era
+category: daedra
+tags: [hermaeus-mora, príncipe-daédrico, apocrypha, libros-negros, miraak, conocimiento, tentáculos]
+timelineYear: 0
+summary: "Hermaeus Mora es el Príncipe Daédrico del Saber Prohibido y la Memoria, guardián de Apocrypha, una biblioteca infinita que contiene todo el conocimiento perdido u oculto del universo."
+sources: ["UESP: Hermaeus Mora", "Events of TES V: Dragonborn", "The Imperial Library"]
+---
+
+## Presentación
+
+**Hermaeus Mora** (también llamado Herma-Mora, el Jardinero de los Hombres, el Demonio del Saber) es el Príncipe Daédrico del Conocimiento, la Memoria y el Destino. Su esfera abarca todo el saber, en especial el que es **prohibido, olvidado o peligroso**.
+
+Se manifiesta como una **masa de tentáculos y ojos** que flota en el vacío —una apariencia que refleja su naturaleza: omnisciente, tentacular y fundamentalmente inhumana.
+
+## Apocrypha
+
+El reino de Hermaeus Mora es **Apocrypha** —una biblioteca infinita:
+- Torres de libros que se elevan sin fin en un cielo verdoso
+- Océanos de tinta negra
+- Pasillos interminables de pergaminos y grimorios
+- El saber de todos los mundos está archivado allí
+
+### Los Habitantes
+- **Buscadores** (*Seekers*) — criaturas humanoides levitantes, guardianes de los libros
+- **Acechadores** (*Lurkers*) — monstruos tentaculares acuáticos
+- Las **almas de los investigadores** — mortales atrapados para la eternidad en la lectura
+- El propio Mora, omnipresente en cada rincón
+
+### La Trampa
+Quien entra en Apocrypha buscando un saber específico queda **absorbido** por la búsqueda del conocimiento. Los mortales pierden allí la noción del tiempo, leyendo por la eternidad, incapaces de marcharse mientras quede algo por aprender —y siempre queda algo.
+
+## Los Libros Negros
+
+Los **Libros Negros** son artefactos de Hermaeus Mora en Nirn:
+- Portales a Apocrypha disfrazados de libros
+- Quien los lee es transportado al reino de Mora
+- Cada libro contiene un saber específico (y una trampa)
+- En Skyrim/Solstheim, se puede acceder a siete Libros Negros
+- Otorgan poderes, pero a un precio
+
+## Miraak y Hermaeus Mora
+
+La relación entre **Miraak** (el Primer Hijo del Dragón) y Mora es central:
+- Miraak fue el primer humano en leer un Libro Negro (Era Merética)
+- Mora le enseñó Gritos de Dragón desconocidos para los demás
+- Miraak usó ese poder para rebelarse contra el Culto del Dragón
+- Cuando los otros dragones lo atacaron, Mora lo absorbió hacia Apocrypha
+- Miraak permaneció prisionero allí durante milenios, sirviendo como campeón reticente
+- En 4E 201, intentó escapar —Mora usó al Dovahkiin para reemplazarlo
+
+## El Dovahkiin y Mora
+
+En 4E 201, el Último Hijo del Dragón fue abordado por Hermaeus Mora:
+- A través del Libro Negro central a la trama principal de Dragonborn
+- Mora ofreció el Grito **"Bend Will"** (Doblegar la Voluntad) a cambio del saber de los Skaal
+- El chamán Skaal **Storn Crag-Strider** sacrificó su vida para transmitir ese conocimiento
+- El Dovahkiin se convirtió en el nuevo campeón de Mora (voluntaria o involuntariamente)
+
+## El Oghma Infinium
+
+El **Oghma Infinium** es el artefacto daédrico de Mora:
+- Un libro que contiene conocimiento universal
+- Su lectura otorga un aumento masivo de habilidades
+- El libro desaparece tras ser leído (el saber tiene un precio)
+- Lleva el nombre de Oghma, sirviente de Xarxes (el escriba de Auri-El)
+
+## Filosofía y Peligro
+
+Hermaeus Mora representa una paradoja:
+- El conocimiento es **neutro** —ni bueno ni malo—
+- Pero la búsqueda **obsesiva** del saber es destructiva
+- Mora siempre proporciona lo que se busca, pero el precio es siempre la libertad propia
+- No coacciona: **seduce** a través de la curiosidad
+
+### El Precio del Saber
+Cada interacción con Mora sigue el mismo patrón:
+1. El mortal busca un saber específico
+2. Mora lo proporciona con generosidad
+3. El mortal comprende que quiere más
+4. Se vuelve dependiente y luego prisionero
+5. Su alma acaba en Apocrypha para la eternidad
+
+## Relaciones
+
+| Príncipe | Relación |
+|----------|----------|
+| Vaermina | Dominios adyacentes (sueños/conocimiento) — cooperación infrecuente |
+| Molag Bal | Indiferencia mutua |
+| Mephala | Rivalidad (secretos frente a conocimiento) |
+| Nocturnal | Conflicto (ella oculta lo que él quiere revelar) |
+
+## Manifestaciones
+
+Mora aparece de forma distinta según las culturas:
+- **Nórdica**: Herma-Mora, el "Hombre del Bosque" —una trampa para los chamanes—
+- **Imperial**: El Demonio del Saber —figura académica peligrosa—
+- **Skaal**: El "All-Maker corrompido" —fuerza antagónica a su espiritualidad—
+- **Universal**: Masa de tentáculos verdosos con múltiples ojos

@@ -1,0 +1,109 @@
+---
+title: "Mehrunes Dagon — Prince of Destruction"
+slug: mehrunes-dagon
+era: dawn-era
+category: daedra
+tags: [mehrunes-dagon, daedric-prince, destruction, revolution, deadlands, oblivion, mythic-dawn]
+timelineYear: 0
+summary: "Mehrunes Dagon is the Daedric Prince of Destruction, Change, and Revolution. Responsible for multiple invasions of Tamriel, culminating in the Oblivion Crisis of 3E 433."
+sources: ["UESP: Mehrunes Dagon", "Mythic Dawn Commentaries", "Events of TES IV: Oblivion"]
+---
+
+## Overview
+
+**Mehrunes Dagon** is the Daedric Prince of Destruction, Revolution, Energy, and Change. His sphere is not destruction for its own sake but **violent change** — the act of destroying the old to force the new to emerge.
+
+He manifests as a giant with **four arms**, red skin, wielding multiple blades, with horns and a titanic stature. His size can range from that of a mortal to that of a tower.
+
+## The Deadlands
+
+The **Deadlands** are Dagon's realm:
+- A volcanic landscape of lava and black rock
+- Fortresses bristling with cruel towers
+- Oceans of magma
+- A permanent red sky
+- Inhabited by Dremora (hierarchical Daedric warriors)
+
+### Structure
+The Deadlands are divided into fiefdoms governed by Dremora lords:
+- **Kynmarcher** — fortress commanders
+- **Kynreeve** — mid-rank officers
+- **Churls** — basic soldiers
+- The hierarchy is absolute — Dagon rules by brute force
+
+## Invasions of Mundus
+
+Dagon has attempted to invade Mundus **multiple times**:
+
+### First Era
+- Attempted invasion via the city of Ald Sotha
+- Repelled by Sotha Sil and the forces of Morrowind
+
+### Second Era (2E 582)
+- Dagon's cultists active during the chaos of the Planemeld
+- Attempt to exploit the weakening of Mundus
+
+### Third Era — The Oblivion Crisis (3E 433)
+The most devastating invasion:
+1. The **Mythic Dawn** cult prepares the ground for decades
+2. Assassination of the Septims → extinction of the Dragonfires
+3. The **Liminal Barrier** collapses
+4. Hundreds of **Oblivion Gates** open across Tamriel
+5. Armies of Dremora, Clannfear, and Xivilai invade
+6. Kvatch destroyed — the first city to fall
+7. Dagon physically manifests in the Imperial City
+8. **Martin Septim** summons the Avatar of Akatosh who repels Dagon
+
+## Mehrunes' Razor
+
+Dagon's Daedric artifact is **Mehrunes' Razor**:
+- A dagger with a chance to instantly kill any target
+- Symbol of immediate and irrevocable destruction
+- In Skyrim, it is broken into three pieces — it can be reforged through a quest
+- Historically used by assassins and revolutionaries
+
+## Dagon's Philosophy
+
+### Change Through Destruction
+Dagon teaches:
+- The world stagnates under imposed order (the Empire, the Divines)
+- Only **destruction** allows renewal
+- Structures must be broken for the new to be born
+- Revolution is the purest act
+
+### Mankar Camoran's View
+The leader of the Mythic Dawn interpreted Dagon not as a destroyer but as a **liberator**:
+- Mundus is a prison created by Lorkhan
+- The Septim Empire is the jailer of that prison
+- The Dragonfires = the prison bars
+- Dagon wants to "free" mortals from this prison
+- The destruction of the Empire = freedom
+
+## The Dremora
+
+Dagon's principal servants are the **Dremora**:
+- Dark-skinned, horned Daedric humanoids
+- Strictly hierarchical military society
+- They despise mortals ("mortal, weak and worthless")
+- Can be summoned by Conjuration mages
+- Immortal — reformed in the Deadlands after "death"
+- Some develop a reluctant respect for powerful mortals
+
+## Relations
+
+| Prince | Relationship |
+|--------|--------------|
+| Molag Bal | Rivalry (destruction vs. domination) |
+| Sheogorath/Jyggalag | Historical conflict |
+| Akatosh | Metaphysical enemy (order vs. chaos) |
+| Boethiah | Mutual contempt |
+| Nocturnal | Indifference |
+
+## Lasting Consequences
+
+Dagon's invasions have had permanent effects:
+- The **Liminal Barrier** can no longer be restored (Amulet destroyed)
+- The Empire never recovered from 3E 433
+- The Septim dynasty is extinct
+- The trauma led to the founding of the **Vigilants of Stendarr**
+- Paradoxically, Dagon achieved his goal: the old order was destroyed

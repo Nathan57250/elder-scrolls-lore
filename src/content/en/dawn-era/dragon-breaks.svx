@@ -1,0 +1,61 @@
+---
+title: "Dragon Breaks"
+slug: dragon-breaks
+era: dawn-era
+category: cosmologie
+tags: [time, akatosh, dragon-break, marukhati, warp-in-the-west]
+timelineYear: -9999
+summary: "Dragon Breaks are metaphysical phenomena in which linear time fractures, allowing contradictory realities to coexist simultaneously."
+sources: ["Where Were You When the Dragon Broke?", "The Warp in the West", "Before the Ages of Man"]
+---
+
+# Dragon Breaks
+
+## The Nature of Time on Nirn
+
+In the Elder Scrolls universe, time is not an immutable constant. It is maintained by **Akatosh**, the Dragon God of Time, whose very existence forms the backbone of temporal linearity. When that backbone shatters, time itself fractures into contradictory fragments — what scholars call a **Dragon Break**.
+
+During a Dragon Break, causality ceases to function normally. Mutually exclusive events occur simultaneously. Entire kingdoms may live different realities at the same moment, and when time reconstitutes itself, all those realities become simultaneously true within the historical continuum.
+
+## The Middle Dawn
+
+The longest documented Dragon Break lasted **one thousand and eight years**, from 1E 1008 to 1E 2208. It was deliberately caused by the **Marukhati Selective**, a radical faction of the Alessian Order that sought to purify Akatosh of all elvish influence.
+
+The Selective used mystical dance rituals to "split" the Dragon of Time, attempting to separate the meric aspects of Akatosh (tied to Auriel, the Aldmeri god) from his human aspects. The result was catastrophic: time lost all coherence for over a millennium.
+
+During this period, contradictory accounts abound:
+- Some claim the towers of the Imperial City changed shape dozens of times
+- Others report that entire generations were born and died in an instant
+- The Khajiit claim their moon disappeared for two years — or perhaps two centuries
+
+## The Warp in the West
+
+The event of 3E 417, known as the **Warp in the West**, is the most recent and best-documented Dragon Break. In the region of the Iliac Bay, seven factions simultaneously claimed the **Numidium** — the divine golem of the Dwemer — and each used it to assert their dominance.
+
+The logically impossible result was that *all these factions succeeded at the same time*:
+- The Kingdom of Daggerfall absorbed its northern rivals
+- The Kingdom of Sentinel expanded its territory
+- The Kingdom of Wayrest consolidated its power
+- Orsinium gained official recognition
+- The Underking became a god
+- The Empire regained control of the region
+
+When the Break resolved, the former mosaic of forty-four tiny kingdoms found itself consolidated into four great nations — an outcome that simultaneously satisfied all contradictory endings.
+
+## The Break and Divinity
+
+Dragon Breaks are intrinsically linked to the nature of Akatosh. The god himself may not be a single entity but rather an **assemblage of temporal aspects** held together by collective faith. Some theologians argue that Akatosh, Auriel, Alduin, and Alkosh are merely facets of the same being — one whose fragmentation gives rise to the Breaks.
+
+## Metaphysical Consequences
+
+Dragon Breaks raise fundamental questions about the nature of reality in the Aurbis:
+
+1. **Is history objective?** If contradictory events are all true, the very concept of historical fact becomes suspect.
+2. **Are heroes fracture points?** Some theorize that individuals with extraordinary destinies — Dragonborn, Prismatic warriors — are themselves walking micro-breaks.
+3. **Can time be permanently repaired?** Each Break leaves scars in the temporal fabric, and some scholars fear a final Break may destroy linearity forever.
+
+## The White-Gold Tower and Temporal Stability
+
+The **White-Gold Tower** of Cyrodiil plays a crucial role in maintaining temporal stability. As the Tower's Stone, the Amulet of Kings served as an anchor for Akatosh in the mortal world. Its destruction at the end of the Third Era may have weakened time itself, making future Breaks more likely.
+
+The scholars of the Arcane University continue to debate: are Dragon Breaks aberrations or a fundamental feature of a universe where gods are real and time is merely a convention maintained by divine will?

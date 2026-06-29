@@ -1,0 +1,94 @@
+---
+title: "Meridia — Príncipe de la Luz"
+slug: meridia
+era: dawn-era
+category: daedra
+tags: [meridia, príncipe-daédrico, luz, muertos-vivientes, colored-rooms, dawnbreaker]
+timelineYear: 0
+summary: "Meridia es el Príncipe Daédrico de la Luz y la Vida —una entidad única entre los Príncipes que aborrece a los muertos vivientes y fue antaño un espíritu de Aetherius antes de su caída."
+sources: ["UESP: Meridia", "The Exegesis of Merid-Nunda", "Events of TES V: Skyrim"]
+---
+
+## Presentación
+
+**Meridia** (anteriormente **Merid-Nunda**) es el Príncipe Daédrico de la Luz, la Vida y la Energía. Es única entre los Príncipes porque **no es originaria de Oblivion** —fue en su momento un **Magne-Ge** (espíritu de Aetherius) que fue desterrada por confraternizar con los Daedra.
+
+Su odio hacia los muertos vivientes es absoluto y la distingue de manera fundamental de los demás Príncipes.
+
+## Orígenes
+
+### Merid-Nunda
+Antes de ser "Meridia", era **Merid-Nunda** —un espíritu de luz que vivía en Aetherius:
+- Formaba parte de los Magne-Ge (quienes siguieron a Magnus fuera de Mundus)
+- Confraternizó con espíritus daédricos, violando las leyes de Aetherius
+- Fue desterrada por los otros Magne-Ge
+- Se talló un dominio en Oblivion —las **Colored Rooms**—
+- Conservó su naturaleza "luminosa" a pesar de su estatus daédrico
+
+Este origen explica por qué Meridia:
+- Detesta a los muertos vivientes (perversión de la vida, que considera sagrada)
+- Puede manipular la luz como ningún otro Daedra
+- Se siente incómoda entre los otros Príncipes
+- Mantiene una relación ambigua con los Divinos
+
+## Las Colored Rooms
+
+Su reino, las **Colored Rooms** (Cámaras de Colores), es:
+- Un espacio infinito de luz pura y prismática
+- Plataformas de cristal que flotan en la luminosidad
+- Sin sombra, sin oscuridad, sin descanso
+- Habitado por los **Aurorans** —sus sirvientes dorados—
+- Paradójicamente opresivo: la luz constante es una forma de tortura
+
+## Dawnbreaker
+
+**Dawnbreaker** (Rompeamaneceres) es su artefacto daédrico:
+- Una espada de hoja dorada que emite luz sobrenatural
+- Inflige daño de fuego a los muertos vivientes
+- Los muertos vivientes abatidos por ella explotan en luz solar (daño en área)
+- En Skyrim, se obtiene al limpiar el Templo de Kilkreath de nigromantes
+
+## El Odio hacia los Muertos Vivientes
+
+Para Meridia, la nigromancia es el **pecado supremo**:
+- Considera la vida sagrada y la muerte natural
+- Reanimar un cadáver = pervertir el ciclo vida/muerte
+- Los vampiros son abominaciones que deben ser destruidas
+- Las liches representan la arrogancia más absoluta
+- No hace **ninguna distinción** entre nigromancia "benigna" y maligna
+
+### Consecuencias
+Esta postura la enfrenta con:
+- **Molag Bal** (creador de los vampiros)
+- **Mannimarco** (el Rey de los Gusanos, archi-nigromante)
+- El propio **Arkay** —cuyo dominio invade—
+- Cualquier mago de Conjuración que toque la nigromancia
+
+## Conexión con los Ayléidos
+
+Meridia fue venerada con intensidad por los **Ayléidos** (Elfos Salvajes de Cyrodiil):
+- Varias ciudades ayléidas le estaban dedicadas
+- Usaban la luz como arma siguiendo sus enseñanzas
+- Los **Aurorans** (soldados dorados de Meridia) tienen una estética ayléida
+- La caída de los Ayléidos redujo considerablemente su influencia sobre Mundus
+
+## Personalidad
+
+Meridia es:
+- **Autoritaria** — exige obediencia, no devoción
+- **Intransigente** — tolerancia cero hacia los muertos vivientes
+- **Despectiva** — considera a los mortales como herramientas
+- **Directa** — a diferencia de otros Príncipes, no juega a sutilezas
+- **Justa** (según sus propios criterios) — protege genuinamente a los vivos
+
+Su voz en Skyrim es amplificada, resonante, imponente: habla a los mortales como un superior a un subordinado, no como un tentador.
+
+## Paradoja Moral
+
+Meridia ilustra la complejidad moral de los Príncipes:
+- **Protege** a los vivos de los muertos vivientes (objetivamente "bueno")
+- Usa a los mortales como **peones** desechables (objetivamente "malo")
+- Su luz es **opresiva**, no liberadora
+- Es "buena" en sus objetivos, pero "daédrica" en sus métodos
+
+Los Vigilantes de Stendarr la tratan igualmente como un Daedra al que combatir —postura teológicamente coherente, aunque prácticamente discutible.

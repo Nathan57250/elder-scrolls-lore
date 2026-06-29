@@ -1,0 +1,103 @@
+---
+title: "Boéthia — Príncipe de los Complots"
+slug: boethia
+era: dawn-era
+category: daedra
+tags: [boethia, príncipe-daédrico, dunmer, complots, traición, buen-daedra, competición]
+timelineYear: 0
+summary: "Boéthia es el Príncipe Daédrico de los Complots, la Traición y la Conspiración. Patrona de los Dunmer, orquestó el derrocamiento de los Aldmer e inspiró la cultura de competición despiadada de los Elfos Oscuros."
+sources: ["UESP: Boethiah", "Boethiah's Pillow Book", "Changed Ones"]
+---
+
+## Presentación
+
+**Boéthia** es el Príncipe Daédrico de los Complots, el Asesinato Secreto, la Traición y la Sedición. Su esfera es la competición mortal: los conflictos en los que solo sobrevive el más fuerte, el más astuto y el más despiadado.
+
+Boéthia cambia de género según las apariciones —a veces masculino, a veces femenino—, lo que refleja su naturaleza de engaño y transformación.
+
+## Papel entre los Dunmer
+
+Boéthia es el primero de los tres "buenos Daedra" de la teología Dunmer:
+- Les enseñó la **filosofía de la fortaleza a través de la competición**
+- Inspiró el derrocamiento de la sociedad Aldmer (de donde surgieron los Chimer/Dunmer)
+- Es la Anticipación de **Almalexia** en la teología del Tribunal
+
+### La Transformación de los Chimer
+Según la tradición Dunmer, Boéthia:
+1. "Devoró" a Trinimac (dios guerrero de los Altmer)
+2. Tomó su forma para hablar con los Aldmer
+3. Convenció al profeta Veloth de rechazar la cultura Aldmer
+4. Los seguidores de Veloth se convirtieron en los **Chimer** (los Cambiados)
+5. Emigraron a Morrowind bajo la guía de Boéthia
+
+## Trinimac y Malacath
+
+El acto más célebre de Boéthia es la **devoración de Trinimac**:
+- Trinimac era el campeón divino de los Altmer
+- Boéthia lo engañó, lo venció y lo devoró
+- Lo que salió del otro lado se convirtió en **Malacath** (el Paria)
+- Los seguidores de Trinimac se convirtieron en los **Orsimer** (Orcos)
+- Este acto dio origen a dos razas y dos Príncipes
+
+## La Prueba del Pilar
+
+En Skyrim (4E 201), Boéthia exige un sacrificio para prestar atención:
+- Su santuario se encuentra en la cima de una montaña helada
+- El suplicante debe sacrificar a un **seguidor** en el Pilar del Sacrificio
+- Boéthia posee el cadáver para hablar
+- Luego ordena infiltrarse y destruir a su antiguo campeón
+- Recompensa: el **Correo de Ébano** (artefacto daédrico)
+
+## Filosofía
+
+Boéthia enseña:
+- **La fuerza lo es todo**: los débiles merecen ser dominados
+- **La traición es legítima**: ganar con astucia es ganar
+- **La lealtad es una debilidad**: cuando deja de ser útil
+- **La competición constante** forja a los individuos superiores
+- **Matar a un amigo que confía en ti** es el acto de fortaleza supremo
+
+### Aplicación Dunmer
+Esta filosofía impregna la sociedad Dunmer:
+- Las Grandes Casas están en competición permanente
+- El asesinato político es socialmente aceptado (a través de la Morag Tong)
+- El débil que se queja es despreciado
+- La traición estratégica es una forma de arte
+- El honor no es la fidelidad, sino la victoria
+
+## Artefacto: El Correo de Ébano
+
+El **Ebony Mail** (Correo de Ébano) es el artefacto de Boéthia:
+- Armadura pesada integral de ébano encantado
+- Emite una nube de veneno alrededor del portador
+- Hace al portador parcialmente invisible al moverse agachado
+- Amortigua los movimientos
+- Perfecta para el asesino con armadura pesada —una paradoja típica de Boéthia—
+
+## Relaciones
+
+| Entidad | Relación |
+|---------|----------|
+| Molag Bal | Enemigo jurado (dominación frente a competición) |
+| Mephala | Aliada (manipulación, secretos) — "hermana" simbólica |
+| Malacath | Víctima/Creación (ex-Trinimac) |
+| Meridia | Indiferencia |
+| Almalexia | "Anticipada por" (teología del Tribunal) |
+
+## El Torneo de Boéthia
+
+Boéthia organiza **torneos** en su reino:
+- Los mortales más fuertes son invitados (o atrapados) allí
+- Combates a muerte en arena
+- El vencedor recibe un don de Boéthia
+- El perdedor muere, pero es un honor ser juzgado digno de participar
+- Estos eventos están descritos en el *Pillow Book*
+
+## Importancia Cultural
+
+La influencia de Boéthia explica por qué:
+- Los Dunmer son la raza más políticamente **cínica** de Tamriel
+- Existe la Morag Tong (gremio de asesinos legales)
+- Las Grandes Casas se asesinan mutuamente como deporte político
+- El concepto de "victoria por cualquier medio" está culturalmente arraigado
+- Los Dunmer respetan la astucia más que el honor frontal

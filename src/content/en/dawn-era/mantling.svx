@@ -1,0 +1,70 @@
+---
+title: "Mantling — Walking Like Them"
+slug: mantling
+era: dawn-era
+category: cosmologie
+tags: [mantling, apotheosis, talos, sheogorath, metaphysics, CHIM]
+timelineYear: -9999
+summary: "Mantling is the metaphysical process by which a mortal can become a god by perfectly imitating a divine existence until the universe can no longer distinguish between the two."
+sources: ["The 36 Lessons of Vivec", "Erta Arcturana", "Mythic Dawn Commentaries"]
+---
+
+# Mantling — Walking Like Them
+
+## The Core Principle
+
+Among the deepest metaphysical concepts of the Aurbis, **Mantling** — also called "Walking Like Them" — occupies a singular place. It is the process by which a mortal being can achieve divinity not by accumulating raw power, but by becoming **indistinguishable** from an existing god.
+
+The principle rests on a fundamental peculiarity of reality in the Elder Scrolls universe: the Aurbis does not distinguish between beings by their intrinsic essence but by their **narrative role**. If a mortal manages to perfectly replicate the pattern of existence of a god — their deeds, their attributes, their cosmic function — then the Aurbis itself "forgets" the difference between the original and the imitator.
+
+## The Mantle Metaphor
+
+The term "Mantling" derives from the metaphor of the **mantle**: a divine role is like a cosmic garment. When a god vacates their function or a mortal reproduces that role so faithfully that the distinction fades, that mortal "dons the mantle" of the deity.
+
+This is not a simple usurpation. The mortal does not steal the god's powers — they *become* the god in the eyes of the universe. The transformation is ontological, not merely functional.
+
+## Talos: Apotheosis Through Conquest
+
+The most debated example of Mantling is that of **Talos**, the Ninth Divine. The ascension of Tiber Septim to divinity is a subject of intense theological controversy, but the Mantling interpretation offers a coherent explanation.
+
+According to this theory, Tiber Septim (possibly in conjunction with Wulfharth and Zurin Arctus — the three components of the **Enantiomorphic Surge**) replicated the pattern of **Lorkhan**, the fallen creator god:
+
+- Like Lorkhan, he unified peoples under a single vision
+- Like Lorkhan, he used deception and force
+- Like Lorkhan, he created a world (the unified Empire of Tamriel)
+- Like Lorkhan, he was "betrayed" by his allies
+
+By reproducing the myth of Lorkhan in the mortal world, Tiber Septim walked so perfectly in the dead god's footsteps that the Aurbis recognized him as Lorkhan — or more precisely, as the aspect of Lorkhan called Talos.
+
+## The Hero of Kvatch: Becoming Sheogorath
+
+The most direct and best-documented example of Mantling occurred at the end of the Third Era, during the **Shivering Isles** crisis. The Daedric Prince **Jyggalag**, temporarily freed from his curse, destroyed Sheogorath's realm during the **Greymarch**.
+
+The **Hero of Kvatch**, already celebrated for closing the Oblivion gates, was chosen by Sheogorath for a precise role: to take his place. Step by step, the hero:
+
+1. Governed both halves of the realm (Mania and Dementia)
+2. Recreated the **Staff of Sheogorath**, symbol of the Prince's power
+3. Defended the Isles against Jyggalag
+4. Assumed every responsibility and attribute of the Prince of Madness
+
+By the end of the process, the Hero of Kvatch was no longer a mortal playing at godhood — they *were* Sheogorath. The former Sheogorath, freed from his cyclical curse, became Jyggalag once more and departed. The Hero donned the mantle permanently and irreversibly.
+
+## Distinctions from Other Forms of Apotheosis
+
+Mantling is not the only path to divinity in the Aurbis. It is important to distinguish it from other methods:
+
+- **CHIM**: the realization that one is a dream of the Dreamer while maintaining individuality — an enlightenment that confers immense power
+- **The Heart Stone**: the source of raw power used by the Tribunal (Vivec, Almalexia, Sotha Sil) to artificially elevate themselves
+- **The Amaranth**: the ultimate stage, where a being transcends the entire Aurbis to become a new Dreamer
+
+Mantling is unique in that it requires neither an artifact nor a sudden illumination — only **perfection in imitation** until the boundary between model and imitator ceases to exist.
+
+## Philosophical Implications
+
+Mantling raises vertiginous questions about the nature of identity:
+
+- If the universe cannot distinguish the imitator from the original, which one is "real"?
+- Does the mortal who dons the mantle retain their original consciousness?
+- Is a god defined by their essence or by their function?
+
+These questions have no definitive answer, and Tamriel's scholars have debated them for millennia. What is certain is that Mantling proves a fundamental truth of the Aurbis: in this universe, **you are what you do**, and if you do exactly what a god does, then you are a god.

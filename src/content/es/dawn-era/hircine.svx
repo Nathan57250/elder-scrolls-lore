@@ -1,0 +1,101 @@
+---
+title: "Hircine — Príncipe de la Caza"
+slug: hircine
+era: dawn-era
+category: daedra
+tags: [hircine, príncipe-daédrico, licantropía, caza, hunting-grounds, hombres-lobo, compañeros]
+timelineYear: 0
+summary: "Hircine es el Príncipe Daédrico de la Caza, creador de la licantropía y señor de los Hunting Grounds. Su influencia alcanza a los Compañeros de Jorrvaskr y a todos los licántropos de Tamriel."
+sources: ["UESP: Hircine", "On Lycanthropy", "Events of TES III: Bloodmoon"]
+---
+
+## Presentación
+
+**Hircine** es el Príncipe Daédrico de la Caza, el Rastreo y el Deporte. Su esfera no atañe a la crueldad gratuita, sino a la **relación primordial entre depredador y presa**: el frisson de la persecución, el respeto por la bestia y el ciclo de la caza.
+
+Se manifiesta a menudo como un ser colosal con **cabeza de ciervo** (o portando un cráneo de ciervo con astas), un cuerpo musculoso y un aura salvaje.
+
+## Los Hunting Grounds
+
+El reino de Hircine, los **Hunting Grounds** (Terrenos de Caza), es un paraíso para el cazador:
+- Bosques infinitos, densos y salvajes
+- Las presas más peligrosas de todos los planos
+- Los licántropos fieles cazan allí por la eternidad tras la muerte
+- De día, los cazadores rastrean; de noche, se convierten en la presa
+- Es un ciclo eterno y gozoso para quienes abrazan a la bestia
+
+### La Alternativa a Sovngarde
+Para los licántropos nórdicos (como los Compañeros), los Hunting Grounds reemplazan a **Sovngarde**:
+- Los miembros del Círculo de los Compañeros van allí tras la muerte
+- Kodlak Blancemane buscó romper ese vínculo para alcanzar Sovngarde
+- El Dovahkiin puede liberar el alma de Kodlak de los Hunting Grounds
+
+## La Licantropía
+
+Hircine es el **creador de la licantropía**:
+- La bendición/maldición que transforma a los mortales en bestias
+- Los hombres lobo son los más comunes, pero existen otras formas:
+  - **Werebears** (osos-lobo) — Solstheim, Nords
+  - **Werecrocodiles** (cocodrilos-lobo) — Ciénaga Negra
+  - **Wereboars** (jabalíes-lobo) — Alta Roca
+  - **Werelions** (leones-lobo) — Elsweyr
+  - **Werevultures** (buitres-lobo) — Valenwood
+  - **Weresharks** (tiburones-lobo) — (mencionados, no confirmados)
+
+### Transmisión
+La licantropía se transmite mediante:
+- Mordedura de un licántropo transformado (lo más común)
+- Ritual con sangre de licántropo (Compañeros de Jorrvaskr)
+- Bendición directa de Hircine (infrecuente)
+- Maldición de Hircine sobre un individuo (castigo)
+
+## El Anillo de Hircine
+
+Su artefacto daédrico es el **Anillo de Hircine**:
+- Permite al portador transformarse a voluntad (incluso si no es licántropo)
+- Para los licántropos: otorga transformaciones adicionales
+- Maldito en algunas versiones: transformaciones incontroladas
+- Ofrecido al vencedor de la Gran Caza
+
+## La Gran Caza (Bloodmoon)
+
+La **Gran Caza** es el evento principal de Hircine:
+- Ocurre cuando la luna se torna roja sangre
+- Hircine manifiesta un aspecto en Nirn
+- Elige una presa "digna" y a los cazadores
+- La caza se prolonga hasta que la presa o los cazadores mueren
+- En 3E 427 en Solstheim, el Nerevarine estuvo implicado en el Bloodmoon
+
+## Los Compañeros y Hircine
+
+El **Círculo** de los Compañeros de Jorrvaskr porta la sangre de Hircine:
+- Transmitida desde los primeros Compañeros a través de las Brujas de Glenmoril
+- Otorga la transformación en hombre lobo
+- Concede: fuerza, velocidad, regeneración y sentidos agudizados
+- Precio: el alma va a los Hunting Grounds, no a Sovngarde
+- Algunos miembros (Kodlak) lo consideran una maldición
+
+## Filosofía
+
+Hircine es uno de los Príncipes más "honorables":
+- Respeta a la presa digna
+- La caza tiene **reglas**: no es una masacre
+- Tanto depredador como presa son honrados
+- No desprecia a los mortales: los considera presas potenciales
+- Morir en la caza es una **muerte honorable**, no un castigo
+
+### El Código del Cazador
+- Rastrear con habilidad, no con crueldad
+- Respetar a la presa: no desperdiciarla
+- La caza es un deporte, no una exterminación
+- La presa más peligrosa es la más honorable
+- Matar sin desafío es indigno
+
+## Relaciones
+
+| Príncipe | Relación |
+|----------|----------|
+| Meridia | Indiferencia (esferas sin conflicto) |
+| Namira | Contraste (ella consume, él caza) |
+| Molag Bal | Oposición (dominación frente a deporte) |
+| Kynareth/Kyne | Dominios adyacentes (la naturaleza salvaje) |

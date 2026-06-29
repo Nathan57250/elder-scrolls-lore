@@ -1,0 +1,100 @@
+---
+title: "Nocturnal — Príncipe de las Sombras"
+slug: nocturnal
+era: dawn-era
+category: daedra
+tags: [nocturnal, príncipe-daédrico, sombras, suerte, nightingales, evergloam, ladrones]
+timelineYear: 0
+summary: "Nocturnal es el Príncipe Daédrico de la Noche, las Sombras y la Suerte —patrona de los ladrones, señora del Evergloam y uno de los Príncipes Daédricos más antiguos y misteriosos."
+sources: ["UESP: Nocturnal", "Nightingales: Fact or Fiction?", "Events of TES V: Skyrim"]
+---
+
+## Presentación
+
+**Nocturnal** es el Príncipe Daédrico de la Noche, las Sombras, el Misterio y la Suerte. Se la considera a menudo el más **antiguo** de los Príncipes Daédricos —a veces llamada "Ur-Dra" (la primera)—. Su esfera abarca todo lo que está oculto, robado u operando en la oscuridad.
+
+Se manifiesta como una mujer encapuchada envuelta en sombras vivas, cuyo rostro jamás es del todo visible.
+
+## El Evergloam
+
+El reino de Nocturnal es el **Evergloam** —un mundo de crepúsculo eterno:
+- Ni luz plena ni oscuridad completa
+- Un paisaje de bosques brumosos y ruinas góticas
+- Las sombras allí están vivas y son conscientes
+- El tiempo es difuso: los segundos y los siglos se confunden
+- Los Nightingales sirven allí tras la muerte
+
+## Los Nightingales
+
+Los **Nightingales** (Ruiseñores) son los campeones mortales de Nocturnal:
+- Un triunvirato de tres ladrones de élite vinculados por un pacto
+- Protegen la **Llave Esqueleto** (*Skeleton Key*) y el santuario
+- A cambio: suerte sobrenatural, poderes de sombra y habilidades mejoradas
+- El precio: tras la muerte, su alma sirve en el Evergloam
+
+### El Pacto
+El pacto Nightingale es tripartito:
+1. **El Agente** — operaciones de campo
+2. **El Centinela** — vigilancia e inteligencia
+3. **El Maestro** — liderazgo y coordinación
+
+En 4E 201, los tres Nightingales eran:
+- **Gallus Desidenius** (fallecido, traicionado por Mercer Frey)
+- **Karliah** (en el exilio)
+- **Mercer Frey** (traidor, ladrón de la Llave Esqueleto)
+- El Dovahkiin reemplaza a Mercer tras eliminarlo
+
+## La Llave Esqueleto
+
+La **Llave Esqueleto** es el artefacto daédrico de Nocturnal:
+- Apariencia: una ganzúa o llave de hueso
+- Poder **físico**: abre cualquier cerradura
+- Poder **metafórico**: desbloquea el potencial oculto del usuario
+- Suprime las limitaciones mentales y físicas
+- Extremadamente peligrosa, pues también elimina los límites morales
+
+Mercer Frey robó la Llave y la usó para sus propios fines, lo que:
+- Rompió las protecciones del santuario Nightingale
+- Debilitó la influencia de Nocturnal sobre Nirn
+- Permitió a Mercer convertirse en un ladrón "perfecto" sin escrúpulos
+
+## El Gremio de Ladrones
+
+Aunque Nocturnal no dirige oficialmente el Gremio de Ladrones, su influencia es omnipresente:
+- La "Suerte del Gremio" proviene de su bendición
+- Los Nightingales protegen en secreto al Gremio
+- Las supersticiones de los ladrones ("nunca robes a un hermano") están vinculadas a sus principios
+- Cuando se robó la Llave, la suerte del Gremio se derrumbó (eventos de Skyrim)
+
+## Filosofía
+
+Nocturnal es única entre los Príncipes:
+- **No** exige veneración activa
+- **No** busca dominar ni destruir
+- Representa el **equilibrio** entre luz y sombra
+- Su esfera es la **transacción**: un servicio a cambio de un servicio
+
+### Principios
+- La sombra no es el mal: es la ausencia de luz observada
+- El robo no es inmoral: es redistribución
+- El secreto no es engaño: es discreción
+- La suerte no es azar: es la oportunidad aprovechada
+
+## Relaciones con Otros Príncipes
+
+| Príncipe | Relación |
+|----------|----------|
+| Hermaeus Mora | Rivalidad — ella guarda los secretos, él los quiere |
+| Meridia | Oposición — luz frente a sombra |
+| Clavicus Vile | Cooperación infrecuente (transacciones) |
+| Mephala | Dominios adyacentes (secretos, manipulación) |
+
+## Importancia Cosmológica
+
+Algunas teorías sugieren que Nocturnal es:
+- El **primer** espíritu en haber cobrado consciencia en el Vacío
+- La encarnación del **concepto mismo** de lo desconocido
+- Más antigua que la distinción Aedroth/Daedroth
+- El "fondo" sobre el que fue pintado el resto del Aurbis
+
+Su título "Ur-Dra" implica una primordialidad que incluso los otros Príncipes reconocen.

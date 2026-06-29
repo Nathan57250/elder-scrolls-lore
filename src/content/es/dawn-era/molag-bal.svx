@@ -1,0 +1,96 @@
+---
+title: "Molag Bal — Príncipe de la Dominación"
+slug: molag-bal
+era: dawn-era
+category: daedra
+tags: [molag-bal, príncipe-daédrico, vampiros, coldharbour, dominación, esclavitud]
+timelineYear: 0
+summary: "Molag Bal es el Príncipe Daédrico de la Dominación y la Esclavitud, creador de los vampiros, invasor de Mundus durante el Planemeld y uno de los Daedra más malévolos."
+sources: ["UESP: Molag Bal", "Opusculus Lamae Bal", "Events of ESO"]
+---
+
+## Presentación
+
+**Molag Bal** es el Príncipe Daédrico de la Dominación, la Violación y la Esclavitud. Su esfera es la subyugación de los seres: quebrar la voluntad, corromper el alma, reducir al otro a la servidumbre. Es considerado universalmente uno de los Príncipes más **malignos**, incluso según los estándares daédricos.
+
+Su nombre significa literalmente "Rey del Fuego" en lengua daédrica, aunque su dominio es más bien el del hielo y la muerte.
+
+## Coldharbour
+
+El reino de Molag Bal, **Coldharbour** (Puerto Helado), es una parodia pesadillesca de Nirn:
+- Un paisaje desolado, glacial y sin sol
+- Copias grotescas de las ciudades de Tamriel
+- Torres negras que se alzan sobre un horizonte perpetuamente oscuro
+- Océanos de sangre congelada
+- Las almas capturadas son atormentadas allí por la eternidad
+
+Coldharbour está estructurado para maximizar el sufrimiento:
+- Las almas que allí recalan conservan su consciencia
+- Son reducidas a esclavos llamados Soul Shriven
+- El proceso de "Vestidura" arranca el alma del cuerpo
+
+## Creación de los Vampiros
+
+Molag Bal es el **creador del vampirismo**. Según el *Opusculus Lamae Bal*:
+- Violó a la nédica **Lamae Beolfag** (una sanadora)
+- De esa unión forzada nació el primer vampiro
+- Lamae se convirtió en **Lamae Bal** —madre de todos los vampiros—
+- El vampirismo es, por tanto, una forma de dominación suprema
+
+Cada linaje vampírico desciende de ese acto original, aunque las subespecies varían:
+- **Clan Volkihar** (Skyrim) — vampiros del frío
+- **Clan Quarra** (Morrowind) — vampiros guerreros
+- **Berne, Aundae** (Morrowind) — otros linajes
+- Los **vampiros de sangre pura** (como Serana) fueron creados mediante un ritual directo con Molag Bal
+
+## El Planemeld (2E 582)
+
+El acto más ambicioso de Molag Bal fue el **Planemeld** —un intento de fusionar Coldharbour con Mundus:
+- Uso de **Dark Anchors** (Anclas Oscuras) —cadenas mágicas que unían los dos planos—
+- Corrupción progresiva de Nirn
+- Ejércitos de Daedra y Soul Shriven enviados como vanguardia
+- El plan fue frustrado por el **Vestigio** (héroe de ESO), que destruyó las anclas
+
+## La Maza de Molag Bal
+
+Su artefacto daédrico es la **Maza de Molag Bal**:
+- Drena la fuerza vital de la víctima
+- Captura el alma en una gema
+- En Skyrim, se obtiene quebrando la voluntad de un sacerdote de Boéthia
+- Simboliza a la perfección su esfera: someter y robar
+
+## Relaciones y Rivalidades
+
+| Relación | Naturaleza |
+|----------|------------|
+| Boéthia | Enemigo jurado — rivalidad ideológica |
+| Meridia | Enemiga — aborrece a los muertos vivientes que él crea |
+| Azura | Oposición — ella protege lo que él quiere someter |
+| Mannimarco | Siervo/Aliado — el Rey de los Gusanos sirve sus planes |
+| Vivec | Conflicto directo (lecciones 12-14) |
+
+## Influencia en Tamriel
+
+### El Culto
+Molag Bal es adorado por:
+- Ciertos clanes vampíricos
+- Nigromantes y esclavistas
+- El Culto del Gusano de Mannimarco
+- Individuos que buscan poder a cualquier precio
+
+### En Morrowind
+Es uno de los "Cuatro Rincones de la Casa de los Problemas":
+- Considerado un "mal Daedra" por los Dunmer
+- Su influencia es combatida por el Templo
+- No obstante, ciertos Telvanni tratan con él
+
+## Personalidad
+
+Molag Bal se caracteriza por:
+- **Crueldad calculada** — no destruye, domina
+- **Desprecio total** por la voluntad ajena
+- **Paciencia infinita** — sus planes abarcan eras enteras
+- **Sadismo refinado** — el sufrimiento como arte
+- **Pragmatismo** — forja alianzas cuando es necesario
+
+Se diferencia de Mehrunes Dagon (destrucción ciega) en que Molag Bal quiere **poseer**, no destruir. Un mundo en cenizas no tiene esclavos.

@@ -1,0 +1,101 @@
+---
+title: "Hircine — Prince of the Hunt"
+slug: hircine
+era: dawn-era
+category: daedra
+tags: [hircine, daedric-prince, lycanthropy, hunt, hunting-grounds, werewolves, companions]
+timelineYear: 0
+summary: "Hircine is the Daedric Prince of the Hunt, creator of lycanthropy, and master of the Hunting Grounds. His influence reaches the Companions of Whiterun and all lycanthropes across Tamriel."
+sources: ["UESP: Hircine", "On Lycanthropy", "Events of TES III: Bloodmoon"]
+---
+
+## Overview
+
+**Hircine** is the Daedric Prince of the Hunt, the Chase, and Sport. His sphere is not wanton cruelty but the **primordial relationship between predator and prey** — the thrill of the pursuit, respect for the beast, and the cycle of the hunt.
+
+He often manifests as a massive being with a **stag's head** (or wearing a horned stag skull), a muscular body, and a wild aura.
+
+## The Hunting Grounds
+
+Hircine's realm, the **Hunting Grounds**, is a hunter's paradise:
+- Infinite, dense, and wild forests
+- The most dangerous quarry of any plane
+- Faithful lycanthropes hunt there for eternity after death
+- By day, hunters stalk — by night, they become the hunted
+- It is an eternal and joyful cycle for those who embrace the beast
+
+### The Alternative to Sovngarde
+For Nordic lycanthropes (such as the Companions), the Hunting Grounds replace **Sovngarde**:
+- Circle members of the Companions go there after death
+- Kodlak Whitemane sought to break his bond and reach Sovngarde
+- The Dovahkiin can free Kodlak's soul from the Hunting Grounds
+
+## Lycanthropy
+
+Hircine is the **creator of lycanthropy**:
+- The blessing/curse that transforms mortals into beasts
+- Werewolves are the most common, but other forms exist:
+  - **Werebears** — Solstheim, Nords
+  - **Werecrocodiles** — Black Marsh
+  - **Wereboars** — High Rock
+  - **Werelions** — Elsweyr
+  - **Werevultures** — Valenwood
+  - **Weresharks** — (mentioned, unconfirmed)
+
+### Transmission
+Lycanthropy is transmitted by:
+- Bite from a transformed lycanthrope (most common)
+- Ritual with lycanthrope blood (Companions of Whiterun)
+- Direct blessing from Hircine (rare)
+- Hircine's curse upon an individual (punishment)
+
+## The Ring of Hircine
+
+His Daedric artifact is the **Ring of Hircine**:
+- Allows the wearer to transform at will (even non-lycanthropes)
+- For lycanthropes: grants additional transformations
+- Cursed in some versions: uncontrollable transformations
+- Offered to the winner of the Great Hunt
+
+## The Great Hunt (Bloodmoon)
+
+The **Great Hunt** is Hircine's signature event:
+- Occurs when the moon turns blood red
+- Hircine manifests an aspect on Nirn
+- He chooses "worthy" quarry and hunters
+- The hunt continues until either the quarry or the hunters die
+- In 3E 427 on Solstheim, the Nerevarine was involved in the Bloodmoon
+
+## The Companions and Hircine
+
+The **Circle** of the Companions of Whiterun carries Hircine's blood:
+- Passed down from the earliest Companions through the Glenmoril Witches
+- Grants werewolf transformation
+- Grants: strength, speed, regeneration, heightened senses
+- Cost: the soul goes to the Hunting Grounds, not Sovngarde
+- Some members (Kodlak) view this as a curse
+
+## Philosophy
+
+Hircine is one of the most "honorable" Princes:
+- He respects worthy prey
+- The hunt has **rules** — it is not slaughter
+- Both predator and prey are honored
+- He does not despise mortals — he regards them as potential quarry
+- Death in the hunt is an **honorable death**, not a punishment
+
+### The Hunter's Code
+- Track with skill, not cruelty
+- Respect the prey — do not waste
+- The hunt is sport, not extermination
+- The most dangerous quarry is the most honorable
+- Killing without challenge is unworthy
+
+## Relations
+
+| Prince | Relationship |
+|--------|--------------|
+| Meridia | Indifference (non-conflicting spheres) |
+| Namira | Contrast (she consumes, he hunts) |
+| Molag Bal | Opposition (domination vs. sport) |
+| Kynareth/Kyne | Adjacent domains (the wild) |

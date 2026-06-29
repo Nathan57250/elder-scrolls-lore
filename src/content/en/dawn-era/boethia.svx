@@ -1,0 +1,103 @@
+---
+title: "Boethiah — Prince of Plots"
+slug: boethia
+era: dawn-era
+category: daedra
+tags: [boethia, daedric-prince, dunmer, plots, treachery, good-daedra, competition]
+timelineYear: 0
+summary: "Boethiah is the Daedric Prince of Plots, Treachery, and Conspiracy. Patron of the Dunmer, they orchestrated the downfall of the Aldmer and inspired the culture of ruthless competition among the Dark Elves."
+sources: ["UESP: Boethiah", "Boethiah's Pillow Book", "Changed Ones"]
+---
+
+## Overview
+
+**Boethiah** is the Daedric Prince of Plots, Secret Murder, Treachery, and Sedition. Their sphere is mortal competition — conflicts where only the strongest, cleverest, and most ruthless survive.
+
+Boethiah changes gender across appearances — sometimes male, sometimes female — reflecting their nature of deception and transformation.
+
+## Role Among the Dunmer
+
+Boethiah is the foremost of the three "good Daedra" in Dunmer theology:
+- They taught the **philosophy of strength through competition**
+- They inspired the overthrow of Aldmeri society (hence the Chimer/Dunmer)
+- They are the Anticipation of **Almalexia** in Tribunal theology
+
+### The Transformation of the Chimer
+According to Dunmer tradition, Boethiah:
+1. "Consumed" Trinimac (war god of the Altmer)
+2. Took his form to speak to the Aldmer
+3. Convinced the prophet Veloth to reject Aldmeri culture
+4. The followers of Veloth became the **Chimer** (the Changed Ones)
+5. They migrated to Morrowind under Boethiah's guidance
+
+## Trinimac and Malacath
+
+Boethiah's most celebrated act is the **consumption of Trinimac**:
+- Trinimac was the divine champion of the Altmer
+- Boethiah deceived him, defeated him, and devoured him
+- What emerged from the other side became **Malacath** (the Pariah)
+- Trinimac's followers became the **Orsimer** (Orcs)
+- This act gave rise to two races and two Princes
+
+## The Pillar Trial
+
+In Skyrim (4E 201), Boethiah demands a sacrifice for their attention:
+- Their shrine sits atop a frozen mountain
+- The supplicant must sacrifice a **follower** on the Pillar of Sacrifice
+- Boethiah possesses the corpse to speak
+- They then order the infiltration and destruction of their former champion
+- Reward: the **Ebony Mail** (Daedric artifact)
+
+## Philosophy
+
+Boethiah teaches:
+- **Strength is everything** — the weak deserve to be dominated
+- **Treachery is legitimate** — winning by cunning is winning
+- **Loyalty is a weakness** — once it ceases to be useful
+- **Constant competition** forges superior individuals
+- **Killing a trusting friend** is the ultimate act of strength
+
+### Dunmer Application
+This philosophy permeates Dunmer society:
+- The Great Houses are in permanent competition
+- Political assassination is socially accepted (via the Morag Tong)
+- The weak who complain are despised
+- Strategic betrayal is an art form
+- Honor is not fidelity but victory
+
+## Artifact: The Ebony Mail
+
+The **Ebony Mail** is Boethiah's artifact:
+- Full heavy armor of enchanted ebony
+- Emits a poison cloud around the wearer
+- Makes the wearer partially invisible while crouching
+- Muffles movement
+- Perfect for the armored assassin — a paradox typical of Boethiah
+
+## Relations
+
+| Entity | Relationship |
+|--------|--------------|
+| Molag Bal | Sworn enemy (domination vs. competition) |
+| Mephala | Ally (manipulation, secrets) — symbolic "sister" |
+| Malacath | Victim/Creation (ex-Trinimac) |
+| Meridia | Indifference |
+| Almalexia | "Anticipated by" (Tribunal theology) |
+
+## The Tournament of Boethiah
+
+Boethiah organizes **tournaments** in their realm:
+- The strongest mortals are invited (or trapped) there
+- Fights to the death in an arena
+- The victor receives a gift from Boethiah
+- The loser dies — but it is an honor to be judged worthy of participation
+- These events are described in the *Pillow Book*
+
+## Cultural Importance
+
+Boethiah's influence explains why:
+- The Dunmer are the most politically **cynical** race in Tamriel
+- The Morag Tong (guild of legal assassins) exists
+- The Great Houses assassinate one another as political sport
+- The concept of "victory by any means" is culturally ingrained
+- The Dunmer respect cunning more than frontal honor

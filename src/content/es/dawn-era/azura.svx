@@ -1,0 +1,88 @@
+---
+title: "Azura — Príncipe Daédrico del Amanecer y el Crepúsculo"
+slug: azura
+era: dawn-era
+category: daedra
+tags: [azura, príncipe-daédrico, dunmer, tribunal, estrella-de-azura, moonshadow]
+timelineYear: 0
+summary: "Azura es el Príncipe Daédrico del Amanecer y el Crepúsculo, protectora de los Dunmer y artífice de la caída del Tribunal. Uno de los pocos Príncipes considerados benevolentes."
+sources: ["UESP: Azura", "The Anticipations", "Azura and the Box"]
+---
+
+## Presentación
+
+**Azura** (también conocida como Azurah entre los Khajiit) es el Príncipe Daédrico del Crepúsculo y el Amanecer —el período liminal entre el día y la noche. Gobierna las transiciones, las profecías, la vanidad y el egoísmo. Su reino de Oblivion es **Moonshadow**, descrito como un lugar de belleza imposible.
+
+Entre los Príncipes, Azura es uno de los tres "buenos Daedra" reconocidos por la teología Dunmer (junto con Boéthia y Mephala), por oposición a los "malos Daedra" (Molag Bal, Sheogorath, Malacath, Mehrunes Dagon).
+
+## La Maldición de los Chimer
+
+El acto más trascendente de Azura fue la **transformación de los Chimer en Dunmer**. Cuando el Tribunal (Vivec, Almalexia, Sotha Sil) utilizó las Herramientas de Kagrenac sobre el Corazón de Lorkhan para convertirse en dioses —violando el juramento hecho a Nerevar—, Azura maldijo a todo el pueblo Chimer:
+
+- Su piel dorada se tornó **gris ceniza**
+- Sus ojos se volvieron **rojo fuego**
+- Fueron rebautizados **Dunmer** (Elfos Oscuros)
+
+Esta maldición no fue un castigo ciego, sino un **recordatorio permanente** de la traición del Tribunal hacia Nerevar y los Daedra.
+
+## La Profecía del Nerevarine
+
+Azura profetizó que Nerevar se **reencarnaría** para destruir al Tribunal y el Corazón de Lorkhan. Esta profecía —el Nerevarine— se cumplió en el año 3E 427, cuando un prisionero desconocido completó las Siete Pruebas y puso fin al poder del Tribunal.
+
+Azura guió activamente al Nerevarine:
+- Visiones y sueños proféticos
+- Comunicación a través de su estrella
+- Instrucciones transmitidas por los fieles Ashlanders
+- Revelación del verdadero destino frente a Dagoth Ur
+
+## La Estrella de Azura
+
+La **Estrella de Azura** es su artefacto daédrico —una gema de alma reutilizable:
+- Captura almas como una gema ordinaria
+- No se rompe tras su uso (puede vaciarse y reutilizarse)
+- Aparece en casi todos los juegos de la serie
+- En Skyrim, una versión corrompida (la Estrella Negra) puede capturar almas humanas
+- Su santuario se encuentra en la cima de una montaña al sur de Invernalia
+
+## Moonshadow
+
+El reino de Azura, **Moonshadow**, es descrito como:
+- Un jardín de flores de colores imposibles
+- Ciudades de plata bajo un cielo perpetuamente crepuscular
+- Una belleza tan intensa que los mortales que allí residen se vuelven ciegos a la belleza terrena
+- Habitado por las Winged Twilights (los sirvientes alados de Azura)
+
+## Relaciones con los Mortales
+
+### Los Dunmer
+Azura es simultáneamente la **protectora** y la **castigadora** de los Dunmer:
+- Los Ashlanders la veneran como el principal "buen Daedra"
+- El Templo del Tribunal la consideraba una "Anticipación" (precursora simbólica de un miembro del Tribunal)
+- Tras la caída del Tribunal, su culto renace entre los Dunmer
+
+### Los Khajiit
+Bajo el nombre de **Azurah**, es la creadora de los Khajiit:
+- Tomó a algunos de los hijos de Fadomai (Nirni)
+- Los moldeó bajo la luz de las lunas
+- Les dio sus formas variadas (los furespecs)
+
+## Personalidad
+
+Azura es paradójica:
+- **Benevolente** hacia sus fieles, pero **implacable** con los traidores
+- **Protectora**, aunque exige una devoción absoluta
+- **Profética**, pero manipuladora en el cumplimiento de sus visiones
+- **Bella** y afectuosa, pero profundamente **vanidosa** y rencorosa
+
+Jamás perdona un agravio —la maldición de los Dunmer duró milenios para castigar a tres individuos.
+
+## Esfera de Influencia
+
+| Aspecto | Descripción |
+|---------|-------------|
+| Dominio | Amanecer, crepúsculo, transiciones |
+| Día sagrado | 21 de la Primera Semilla |
+| Sirvientes | Winged Twilights |
+| Artefacto | La Estrella de Azura |
+| Reino | Moonshadow |
+| Enemigos | Molag Bal, Nocturnal |

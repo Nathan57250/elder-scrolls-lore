@@ -1,0 +1,101 @@
+---
+title: "Hermaeus Mora — Prince of Forbidden Knowledge"
+slug: hermaeus-mora
+era: dawn-era
+category: daedra
+tags: [hermaeus-mora, daedric-prince, apocrypha, black-books, miraak, knowledge, tentacles]
+timelineYear: 0
+summary: "Hermaeus Mora is the Daedric Prince of Forbidden Knowledge and Memory, keeper of Apocrypha — an infinite library containing all the lost or hidden knowledge of the universe."
+sources: ["UESP: Hermaeus Mora", "Events of TES V: Dragonborn", "The Imperial Library"]
+---
+
+## Overview
+
+**Hermaeus Mora** (also called Herma-Mora, the Gardener of Men, the Demon of Knowledge) is the Daedric Prince of Knowledge, Memory, and Fate. His sphere encompasses all knowledge — particularly that which is **forbidden, forgotten, or dangerous**.
+
+He manifests as a **mass of tentacles and eyes** floating in the void — an appearance that reflects his nature: omniscient, sprawling, and fundamentally inhuman.
+
+## Apocrypha
+
+Hermaeus Mora's realm is **Apocrypha** — an infinite library:
+- Towers of books rising endlessly into a sickly green sky
+- Oceans of black ink
+- Endless corridors of scrolls and grimoires
+- The knowledge of all worlds is archived there
+
+### The Inhabitants
+- **Seekers** — levitating humanoid creatures, guardians of the books
+- **Lurkers** — tentacled aquatic monsters
+- The **souls of seekers** — mortals trapped for eternity in reading
+- Mora himself, omnipresent in every corner
+
+### The Trap
+Anyone who enters Apocrypha seeking specific knowledge finds themselves **absorbed** by the pursuit of learning. Mortals lose all sense of time there, reading for eternity, unable to leave as long as something remains to be learned — and something always remains.
+
+## The Black Books
+
+**Black Books** are Hermaeus Mora's artifacts on Nirn:
+- Portals to Apocrypha disguised as books
+- Anyone who reads them is transported to Mora's realm
+- Each book contains specific knowledge (and a trap)
+- In Skyrim/Solstheim, seven Black Books are accessible
+- They grant powers but at a price
+
+## Miraak and Hermaeus Mora
+
+The relationship between **Miraak** (the First Dragonborn) and Mora is central:
+- Miraak was the first human to read a Black Book (Merethic Era)
+- Mora taught him Dragon Shouts unknown to others
+- Miraak used this power to rebel against the Dragon Cult
+- When other dragons attacked him, Mora drew him into Apocrypha
+- Miraak remained imprisoned there for millennia, serving as a reluctant champion
+- In 4E 201, he attempted to escape — Mora used the Dovahkiin to replace him
+
+## The Dovahkiin and Mora
+
+In 4E 201, the Last Dragonborn was approached by Hermaeus Mora:
+- Via the Black Book central to the Dragonborn questline
+- Mora offered the **Bend Will** Shout in exchange for the Skaal's knowledge
+- The Skaal shaman **Storn Crag-Strider** sacrificed his life to transmit that knowledge
+- The Dovahkiin became Mora's new champion (willingly or not)
+
+## The Oghma Infinium
+
+The **Oghma Infinium** is Mora's Daedric artifact:
+- A book containing universal knowledge
+- Reading it grants a massive increase in skills
+- The book disappears after reading (knowledge has a price)
+- Named after Oghma, servant of Xarxes (the scribe of Auri-El)
+
+## Philosophy and Danger
+
+Hermaeus Mora represents a paradox:
+- Knowledge is **neutral** — neither good nor evil
+- But the **obsessive** pursuit of knowledge is destructive
+- Mora always provides what one seeks — but the price is always one's freedom
+- He does not coerce — he **seduces** through curiosity
+
+### The Price of Knowledge
+Every interaction with Mora follows a pattern:
+1. The mortal seeks specific knowledge
+2. Mora provides it graciously
+3. The mortal realizes they want more
+4. They become dependent, then imprisoned
+5. Their soul ends up in Apocrypha for eternity
+
+## Relations
+
+| Prince | Relationship |
+|--------|--------------|
+| Vaermina | Adjacent domains (dreams/knowledge) — rare cooperation |
+| Molag Bal | Mutual indifference |
+| Mephala | Rivalry (secrets vs. knowledge) |
+| Nocturnal | Conflict (she hides what he seeks to reveal) |
+
+## Manifestations
+
+Mora appears differently across cultures:
+- **Nordic**: Herma-Mora, the "Woodland Man" — a trap for shamans
+- **Imperial**: The Demon of Knowledge — a dangerous academic figure
+- **Skaal**: The "corrupted All-Maker" — an antagonistic force to their spirituality
+- **Universal**: A mass of greenish tentacles with multiple eyes

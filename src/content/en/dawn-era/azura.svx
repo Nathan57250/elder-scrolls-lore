@@ -1,0 +1,88 @@
+---
+title: "Azura — Daedric Prince of Dawn and Dusk"
+slug: azura
+era: dawn-era
+category: daedra
+tags: [azura, daedric-prince, dunmer, tribunal, azuras-star, moonshadow]
+timelineYear: 0
+summary: "Azura is the Daedric Prince of Dawn and Dusk, protector of the Dunmer, and architect of the Tribunal's downfall. One of the few Princes widely considered benevolent."
+sources: ["UESP: Azura", "The Anticipations", "Azura and the Box"]
+---
+
+## Overview
+
+**Azura** (also known as Azurah among the Khajiit) is the Daedric Prince of Twilight and Dawn — the liminal period between day and night. She governs transitions, prophecy, vanity, and selfishness. Her Oblivion realm is **Moonshadow**, described as a place of impossible beauty.
+
+Among the Princes, Azura is one of the three "good Daedra" recognized by Dunmer theology (alongside Boethiah and Mephala), as opposed to the "bad Daedra" (Molag Bal, Sheogorath, Malacath, Mehrunes Dagon).
+
+## The Curse of the Chimer
+
+Azura's most consequential act was the **transformation of the Chimer into the Dunmer**. When the Tribunal (Vivec, Almalexia, Sotha Sil) used the Tools of Kagrenac on the Heart of Lorkhan to become gods — violating their oath to Nerevar — Azura cursed the entire Chimer people:
+
+- Their golden skin turned **ash grey**
+- Their eyes became **fiery red**
+- They were renamed **Dunmer** (Dark Elves)
+
+This curse was not a blind punishment but a **permanent reminder** of the Tribunal's betrayal of Nerevar and the Daedra.
+
+## The Nerevarine Prophecy
+
+Azura prophesied that Nerevar would **reincarnate** to destroy the Tribunal and the Heart of Lorkhan. This prophecy — the Nerevarine — was fulfilled in 3E 427 when an unknown prisoner completed the Seven Trials and ended the Tribunal's power.
+
+Azura actively guided the Nerevarine:
+- Prophetic visions and dreams
+- Communication through her star
+- Instructions through faithful Ashlanders
+- Revelation of true destiny against Dagoth Ur
+
+## Azura's Star
+
+**Azura's Star** is her Daedric artifact — a reusable soul gem:
+- Captures souls like an ordinary soul gem
+- Does not break after use (can be emptied and reused)
+- Appears in nearly every game in the series
+- In Skyrim, a corrupted version (the Black Star) can capture human souls
+- Her shrine is located atop a mountain in southern Winterhold
+
+## Moonshadow
+
+Azura's realm, **Moonshadow**, is described as:
+- A garden of flowers in impossible colors
+- Silver cities beneath an eternally twilight sky
+- A beauty so intense that mortals who dwell there become blind to earthly beauty
+- Inhabited by Winged Twilights (Azura's winged servants)
+
+## Relations with Mortals
+
+### The Dunmer
+Azura is simultaneously the **protector** and the **punisher** of the Dunmer:
+- The Ashlanders venerate her as the foremost "good Daedra"
+- The Tribunal Temple considered her an "Anticipation" (symbolic precursor to a Tribunal member)
+- After the fall of the Tribunal, her cult is reborn among the Dunmer
+
+### The Khajiit
+Under the name **Azurah**, she is the creator of the Khajiit:
+- She took some of the children of Fadomai (Nirni)
+- Shaped them under the light of the moons
+- Gave them their varied forms (the furestocks)
+
+## Personality
+
+Azura is paradoxical:
+- **Benevolent** toward her faithful but **merciless** toward traitors
+- **Protective** yet demanding absolute devotion
+- **Prophetic** but manipulative in the fulfillment of her visions
+- **Beautiful** and loving yet deeply **vain** and vindictive
+
+She never forgives an affront — the curse of the Dunmer lasted millennia to punish three individuals.
+
+## Sphere of Influence
+
+| Aspect | Description |
+|--------|-------------|
+| Domain | Dawn, dusk, transitions |
+| Holy Day | 21st of First Seed |
+| Servants | Winged Twilights |
+| Artifact | Azura's Star |
+| Realm | Moonshadow |
+| Enemies | Molag Bal, Nocturnal |

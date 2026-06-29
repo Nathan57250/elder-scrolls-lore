@@ -1,0 +1,100 @@
+---
+title: "Nocturnal — Prince of Shadows"
+slug: nocturnal
+era: dawn-era
+category: daedra
+tags: [nocturnal, daedric-prince, shadows, luck, nightingales, evergloam, thieves]
+timelineYear: 0
+summary: "Nocturnal is the Daedric Prince of Night, Shadows, and Luck — patron of thieves, mistress of the Evergloam, and one of the oldest and most mysterious Daedric Princes."
+sources: ["UESP: Nocturnal", "Nightingales: Fact or Fiction?", "Events of TES V: Skyrim"]
+---
+
+## Overview
+
+**Nocturnal** is the Daedric Prince of Night, Shadows, Mystery, and Luck. She is often considered the most **ancient** of the Daedric Princes — sometimes called "Ur-Dra" (the first). Her sphere encompasses everything that is hidden, stolen, or operating in darkness.
+
+She manifests as a hooded woman wrapped in living shadows, her face never fully visible.
+
+## The Evergloam
+
+Nocturnal's realm is the **Evergloam** — a world of eternal twilight:
+- Neither full light nor complete darkness
+- A landscape of misty forests and gothic ruins
+- The shadows there are alive and conscious
+- Time is blurred — seconds and centuries blur together
+- The Nightingales serve there after death
+
+## The Nightingales
+
+The **Nightingales** are Nocturnal's mortal champions:
+- A triumvirate of three elite thieves bound by a pact
+- They protect the **Skeleton Key** and the sanctuary
+- In exchange: supernatural luck, shadow powers, and enhanced skills
+- The price: after death, their soul serves in the Evergloam
+
+### The Pact
+The Nightingale pact is tripartite:
+1. **The Agent** — field operations
+2. **The Sentinel** — surveillance and intelligence
+3. **The Master** — leadership and coordination
+
+In 4E 201, the three Nightingales were:
+- **Gallus Desidenius** (deceased, betrayed by Mercer Frey)
+- **Karliah** (in exile)
+- **Mercer Frey** (traitor, thief of the Skeleton Key)
+- The Dovahkiin replaces Mercer after eliminating him
+
+## The Skeleton Key
+
+The **Skeleton Key** is Nocturnal's Daedric artifact:
+- Appearance: a bone-like pick/key
+- **Physical** power: opens any lock
+- **Metaphorical** power: unlocks the user's hidden potential
+- Suppresses mental and physical limitations
+- Extremely dangerous as it also eliminates moral limits
+
+Mercer Frey stole the Key and used it for his own ends, which:
+- Broke the Nightingale sanctuary's protections
+- Weakened Nocturnal's influence on Nirn
+- Allowed Mercer to become a "perfect" thief without scruples
+
+## The Thieves Guild
+
+While Nocturnal does not officially lead the Thieves Guild, her influence is pervasive:
+- The "Guild Luck" comes from her blessing
+- The Nightingales secretly protect the Guild
+- Thieves' superstitions ("never steal from a fellow thief") are tied to her principles
+- When the Key was stolen, the Guild's luck collapsed (Skyrim events)
+
+## Philosophy
+
+Nocturnal is unique among the Princes:
+- She does **not** demand active veneration
+- She does **not** seek to dominate or destroy
+- She represents the **balance** between light and shadow
+- Her sphere is **transaction**: a service for a service
+
+### Principles
+- Shadow is not evil — it is the absence of observed light
+- Theft is not immoral — it is redistribution
+- Secrecy is not deception — it is discretion
+- Luck is not random — it is opportunity seized
+
+## Relations with Other Princes
+
+| Prince | Relationship |
+|--------|--------------|
+| Hermaeus Mora | Rivalry — she keeps secrets, he wants them |
+| Meridia | Opposition — light vs. shadow |
+| Clavicus Vile | Rare cooperation (transactions) |
+| Mephala | Adjacent domains (secrets, manipulation) |
+
+## Cosmological Significance
+
+Some theories suggest that Nocturnal is:
+- The **first** spirit to have gained consciousness in the Void
+- The incarnation of the **very concept** of the unknown
+- Older than the Aedroth/Daedroth distinction
+- The "background" upon which the rest of the Aurbis was painted
+
+Her title "Ur-Dra" implies a primordialness that even the other Princes acknowledge.

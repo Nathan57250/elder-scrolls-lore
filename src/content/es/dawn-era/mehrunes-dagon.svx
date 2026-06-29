@@ -1,0 +1,109 @@
+---
+title: "Mehrunes Dagon — Príncipe de la Destrucción"
+slug: mehrunes-dagon
+era: dawn-era
+category: daedra
+tags: [mehrunes-dagon, príncipe-daédrico, destrucción, revolución, deadlands, oblivion, mythic-dawn]
+timelineYear: 0
+summary: "Mehrunes Dagon es el Príncipe Daédrico de la Destrucción, el Cambio y la Revolución. Responsable de múltiples invasiones de Tamriel, culminando con la Crisis de Oblivion en 3E 433."
+sources: ["UESP: Mehrunes Dagon", "Mythic Dawn Commentaries", "Events of TES IV: Oblivion"]
+---
+
+## Presentación
+
+**Mehrunes Dagon** es el Príncipe Daédrico de la Destrucción, la Revolución, la Energía y el Cambio. Su esfera no es la destrucción por sí misma, sino el **cambio violento**: el acto de destruir lo viejo para forzar la emergencia de lo nuevo.
+
+Se manifiesta como un gigante de **cuatro brazos**, piel roja, que porta múltiples hojas, con cuernos y una estatura titánica. Su tamaño puede variar desde el de un mortal hasta el de una torre.
+
+## Los Deadlands
+
+Los **Deadlands** (Tierras Muertas) son el reino de Dagon:
+- Un paisaje volcánico de lava y roca negra
+- Fortalezas erizadas de torres crueles
+- Océanos de magma
+- Un cielo permanentemente rojo
+- Habitado por Dremora (guerreros daédricos jerarquizados)
+
+### Estructura
+Los Deadlands están divididos en feudos gobernados por señores Dremora:
+- **Kynmarcher** — comandantes de fortaleza
+- **Kynreeve** — oficiales de rango medio
+- **Churls** — soldados de base
+- La jerarquía es absoluta: Dagon gobierna por la fuerza bruta
+
+## Las Invasiones de Mundus
+
+Dagon ha intentado invadir Mundus en **múltiples ocasiones**:
+
+### Primera Era
+- Intento de invasión a través de la ciudad de Ald Sotha
+- Rechazado por Sotha Sil y las fuerzas de Morrowind
+
+### Segunda Era (2E 582)
+- Cultistas de Dagon activos durante el caos del Planemeld
+- Intento de aprovechar el debilitamiento de Mundus
+
+### Tercera Era — La Crisis de Oblivion (3E 433)
+La invasión más devastadora:
+1. El culto **Mythic Dawn** prepara el terreno durante décadas
+2. Asesinato de los Septim → extinción de los Dragonfires
+3. La **Barrera Liminal** se derrumba
+4. Cientos de **Puertas de Oblivion** se abren por todo Tamriel
+5. Ejércitos de Dremora, Clannfear y Xivilai invaden
+6. Kvatch es destruida —primera ciudad en caer—
+7. Dagon se manifiesta físicamente en la Ciudad Imperial
+8. **Martin Septim** invoca el Avatar de Akatosh, que repele a Dagon
+
+## La Navaja de Mehrunes
+
+El artefacto daédrico de Dagon es la **Navaja de Mehrunes** (*Mehrunes' Razor*):
+- Una daga con posibilidad de matar instantáneamente a cualquier objetivo
+- Símbolo de la destrucción inmediata e irrevocable
+- En Skyrim, está rota en tres piezas y puede reforjarse mediante una misión
+- Históricamente utilizada por asesinos y revolucionarios
+
+## Filosofía de Dagon
+
+### El Cambio a Través de la Destrucción
+Dagon enseña:
+- El mundo se estanca bajo el orden impuesto (el Imperio, los Divinos)
+- Solo la **destrucción** permite la renovación
+- Las estructuras deben romperse para que lo nuevo nazca
+- La revolución es el acto más puro
+
+### La Visión de Mankar Camoran
+El líder del Mythic Dawn interpretaba a Dagon no como un destructor, sino como un **libertador**:
+- Mundus es una prisión creada por Lorkhan
+- El Imperio Septim es el carcelero de esa prisión
+- Los Dragonfires = los barrotes
+- Dagon quiere "liberar" a los mortales de esa prisión
+- La destrucción del Imperio = la libertad
+
+## Los Dremora
+
+Los sirvientes principales de Dagon son los **Dremora**:
+- Humanoides daédricos de piel oscura y cuernos
+- Sociedad militar estrictamente jerarquizada
+- Desprecian a los mortales ("mortal, weak and worthless")
+- Pueden ser invocados por magos de Conjuración
+- Inmortales: se reconstituyen en los Deadlands tras su "muerte"
+- Algunos desarrollan un respeto reticente hacia los mortales poderosos
+
+## Relaciones
+
+| Príncipe | Relación |
+|----------|----------|
+| Molag Bal | Rivalidad (destrucción frente a dominación) |
+| Sheogorath/Jyggalag | Conflicto histórico |
+| Akatosh | Enemigo metafísico (orden frente a caos) |
+| Boéthia | Desprecio mutuo |
+| Nocturnal | Indiferencia |
+
+## Consecuencias Duraderas
+
+Las invasiones de Dagon tuvieron efectos permanentes:
+- La **Barrera Liminal** ya no puede restaurarse (Amuleto destruido)
+- El Imperio nunca se recuperó del año 3E 433
+- La dinastía Septim está extinguida
+- El trauma condujo a la fundación de los **Vigilantes de Stendarr**
+- Paradójicamente, Dagon logró su objetivo: el orden antiguo fue destruido

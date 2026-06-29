@@ -1,0 +1,94 @@
+---
+title: "Meridia — Prince of Light"
+slug: meridia
+era: dawn-era
+category: daedra
+tags: [meridia, daedric-prince, light, undead, colored-rooms, dawnbreaker]
+timelineYear: 0
+summary: "Meridia is the Daedric Prince of Light and Life — a unique entity among the Princes who despises undead and was once a spirit of Aetherius before her fall."
+sources: ["UESP: Meridia", "The Exegesis of Merid-Nunda", "Events of TES V: Skyrim"]
+---
+
+## Overview
+
+**Meridia** (formerly **Merid-Nunda**) is the Daedric Prince of Light, Life, and Energy. She is unique among the Princes because she is **not originally from Oblivion** — she was once a **Magne-Ge** (spirit of Aetherius) who was banished for consorting with Daedra.
+
+Her hatred of the undead is absolute and fundamentally distinguishes her from the other Princes.
+
+## Origins
+
+### Merid-Nunda
+Before becoming "Meridia," she was **Merid-Nunda** — a spirit of light who lived in Aetherius:
+- She was one of the Magne-Ge (those who followed Magnus out of Mundus)
+- She consorted with Daedric spirits, violating the laws of Aetherius
+- She was banished by the other Magne-Ge
+- She carved out a domain in Oblivion — the **Colored Rooms**
+- She retained her "luminous" nature despite her Daedric status
+
+This origin explains why Meridia:
+- Despises the undead (a perversion of life, which she considers sacred)
+- Can manipulate light like no other Daedra
+- Is uncomfortable among the other Princes
+- Has an ambiguous relationship with the Divines
+
+## The Colored Rooms
+
+Her realm, the **Colored Rooms**, is:
+- An infinite space of pure, prismatic light
+- Crystalline platforms floating in luminosity
+- Without shadow, without darkness, without rest
+- Inhabited by the **Aurorans** — her golden servants
+- Paradoxically oppressive — constant light is a form of torture
+
+## Dawnbreaker
+
+**Dawnbreaker** is her Daedric artifact:
+- A golden-bladed sword emitting supernatural light
+- Deals fire damage to undead
+- Undead slain by it explode in sunlight (area damage)
+- In Skyrim, obtained by cleansing the Temple of Kilkreath of necromancers
+
+## The Hatred of the Undead
+
+For Meridia, necromancy is the **supreme sin**:
+- She considers life sacred and death natural
+- Reanimating a corpse = perverting the life/death cycle
+- Vampires are abominations to be destroyed
+- Liches represent the ultimate arrogance
+- She makes **no distinction** between "benign" and malign necromancy
+
+### Consequences
+This stance places her in conflict with:
+- **Molag Bal** (creator of vampires)
+- **Mannimarco** (the King of Worms, arch-necromancer)
+- **Arkay** himself — whose domain she encroaches upon
+- Any Conjuration mage who dabbles in necromancy
+
+## Ayleid Connection
+
+Meridia was intensely venerated by the **Ayleids** (Wild Elves of Cyrodiil):
+- Several Ayleid cities were dedicated to her
+- They weaponized light through her teachings
+- The **Aurorans** (Meridia's golden soldiers) have an Ayleid aesthetic
+- The fall of the Ayleids greatly reduced her influence on Mundus
+
+## Personality
+
+Meridia is:
+- **Authoritarian** — she demands obedience, not devotion
+- **Uncompromising** — zero tolerance toward the undead
+- **Contemptuous** — she regards mortals as tools
+- **Direct** — unlike other Princes, she does not play subtle games
+- **Just** (by her own standards) — she genuinely protects the living
+
+Her voice in Skyrim is amplified, resonant, imposing — she speaks to mortals as a superior to a subordinate, not as a tempter.
+
+## Moral Paradox
+
+Meridia illustrates the moral complexity of the Princes:
+- She **protects** the living from the undead (objectively "good")
+- She uses mortals as disposable **pawns** (objectively "bad")
+- Her light is **oppressive**, not liberating
+- She is "good" in her goals but "Daedric" in her methods
+
+The Vigilants of Stendarr still treat her as a Daedra to be fought — a theologically consistent position, if practically debatable.

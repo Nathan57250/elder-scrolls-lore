@@ -1,0 +1,114 @@
+---
+title: "The Argonians — People of the Hist"
+slug: argoniens
+era: dawn-era
+category: races
+tags: [argonians, hist, black-marsh, saxhleel, reptilian, an-xileel]
+timelineYear: 0
+summary: "The Argonians (Saxhleel) are a reptilian people of Black Marsh, symbiotically linked to the Hist trees who created them and have guided their civilization since the dawn of time."
+sources: ["UESP: Argonians", "The Infernal City", "Murky Waters"]
+---
+
+## Overview
+
+The **Argonians** (their true name is **Saxhleel**, "people of the root") are a humanoid reptilian race native to **Black Marsh** (also called Argonia). They are fundamentally different from the other races of Tamriel because they do not descend from the Ehlnofey — they were **created by the Hist**.
+
+## The Hist
+
+The **Hist** are sentient, collectively intelligent trees:
+- They have existed since before the creation of Mundus
+- They form a network of collective consciousness
+- They communicate through sap (hallucinogenic to non-Argonians)
+- They created the Argonians to be their "hands" in the physical world
+- Each Argonian licks the Hist's sap at birth — this determines their form
+
+### The Argonian-Hist Bond
+- Argonians are **physiologically linked** to the Hist
+- Separated from them too long, they become lethargic and disoriented
+- The Hist influence the collective decisions of the Argonians
+- At death, the Argonian soul returns to the Hist (not to Aetherius)
+- The Hist can "recall" Argonians en masse in times of danger
+
+## Physiology
+
+Argonians are biologically unique:
+- Reptilian body with scales, tail, and claws
+- Native ability to breathe underwater
+- Natural resistance to disease and poison
+- Accelerated regeneration
+- **Histskin** — rapid healing ability (racial power)
+- Capacity to change sex under Hist influence (deep lore)
+- Their physical form depends on the sap they lick at birth
+
+### Varied Forms
+Not all Argonians look alike:
+- Some have horns, others feathers or crests
+- Size varies considerably
+- The **Naga** are giant, feral Argonians
+- Forms are determined by the Hist according to the community's needs
+
+## History
+
+### Merethic Era
+- The Hist existed before the Ehlnofey
+- Creation of the first Argonians
+- Resistance to elvish incursions
+
+### First Era
+- Mass enslavement by the Dunmer (House Dres and Telvanni)
+- Argonians were Morrowind's labor force for centuries
+- Sporadic revolts crushed
+
+### Second and Third Era
+- Partial integration into the Empire
+- Black Marsh remains largely unexplored and hostile to outsiders
+- Slavery continues in border areas with Morrowind
+
+### Fourth Era — The Revenge
+After the Red Year (4E 5):
+- The Hist **recalled** Argonians en masse
+- The **An-Xileel** (Argonian political faction) seized power
+- They **invaded southern Morrowind** while it was weakened
+- They sacked Dunmer cities — revenge for centuries of slavery
+- They repelled the Daedra during the Oblivion Crisis (the only province to do so)
+
+## The An-Xileel
+
+The **An-Xileel** political movement:
+- Nationalist and isolationist
+- Governs Black Marsh after the Oblivion Crisis
+- Rejects the Empire and all foreign interference
+- Advocates a return to Hist traditions
+- Hostile toward the Dunmer and foreigners in general
+
+## Culture
+
+### Society
+- No concept of private property as other races understand it
+- Communities are organized around the Hist
+- Names are fluid — an Argonian may change their name with each life stage
+- Names in Jel (their language) are translated into Tamrielic: "Walks-in-Shadows," "Sleeps-on-Clouds"
+
+### Spirituality
+- The Hist is the center of their spirituality
+- No worship of the Divines or Daedra (traditionally)
+- Death = return to the Hist, not passage to an afterlife
+- Shamans (Treeminders) interpret the will of the Hist
+
+## The Oblivion Crisis and the Argonians
+
+A remarkable fact: during the Oblivion Crisis (3E 433), the Argonians:
+- Were recalled by the Hist
+- **Invaded the Oblivion Gates** instead of being invaded
+- The Dremora closed their own gates in the face of the Argonian assault
+- It is the only province that actively repelled the invasion
+
+## Relations with Other Races
+
+| Race | Relationship |
+|------|--------------|
+| Dunmer | Ancestral hatred (slavery) |
+| Khajiit | Mutual sympathy (similarly oppressed) |
+| Imperials | Distrust (colonizers) |
+| Nords | Mutual indifference |
+| Others | Deep cultural incomprehension |

@@ -1,0 +1,61 @@
+---
+title: "Las Rupturas del Dragón"
+slug: dragon-breaks
+era: dawn-era
+category: cosmologie
+tags: [tiempo, akatosh, dragon-break, marukhati, warp-in-the-west]
+timelineYear: -9999
+summary: "Las Rupturas del Dragón son fenómenos metafísicos en los que el tiempo lineal se fractura, permitiendo que realidades contradictorias coexistan de forma simultánea."
+sources: ["Where Were You When the Dragon Broke?", "The Warp in the West", "Before the Ages of Man"]
+---
+
+# Las Rupturas del Dragón
+
+## La Naturaleza del Tiempo en Nirn
+
+En el universo de los Pergaminos de los Ancianos, el tiempo no es una constante inmutable. Es mantenido por **Akatosh**, el Dios Dragón del Tiempo, cuya propia existencia forma la columna vertebral de la linealidad temporal. Cuando esa columna se quiebra, el tiempo mismo se fractura en fragmentos contradictorios: lo que los eruditos llaman una **Ruptura del Dragón** (*Dragon Break*).
+
+Durante una Ruptura, la causalidad deja de funcionar con normalidad. Eventos mutuamente excluyentes ocurren de forma simultánea. Reinos enteros pueden vivir realidades distintas en el mismo instante y, cuando el tiempo se reconstituye, todas esas realidades se vuelven simultáneamente verdaderas en el continuo histórico.
+
+## El Amanecer Intermedio (Middle Dawn)
+
+La Ruptura del Dragón más larga documentada duró **mil ocho años**, desde 1E 1008 hasta 1E 2208. Fue provocada deliberadamente por los **Marukhati Selectivos**, una facción radical de la Orden Alessiana que buscaba purificar a Akatosh de toda influencia élfica.
+
+Los Selectivos utilizaron rituales de danza mística para "escindir" al Dragón del Tiempo, intentando separar los aspectos méricos de Akatosh (vinculados a Auriel, el dios aldmer) de sus aspectos humanos. El resultado fue catastrófico: el tiempo perdió toda coherencia durante más de un milenio.
+
+Durante este período abundan los testimonios contradictorios:
+- Algunos afirman que las torres de la Ciudad Imperial cambiaron de forma decenas de veces
+- Otros relatan que generaciones enteras nacieron y murieron en un instante
+- Los Khajiit sostienen que su luna desapareció durante dos años, o quizás dos siglos
+
+## La Deformación del Oeste (Warp in the West)
+
+El evento del año 3E 417, conocido como la **Deformación del Oeste**, es la Ruptura del Dragón más reciente y mejor documentada. En la región de la Bahía Ilíaca, siete facciones reclamaron simultáneamente el **Numidium** —el gólem divino de los Dwemer— y cada una lo usó para imponer su dominio.
+
+El resultado, lógicamente imposible, fue que *todas esas facciones triunfaron al mismo tiempo*:
+- El Reino de Daggerfall absorbió a sus rivales del norte
+- El Reino de Sentinel expandió su territorio
+- El Reino de Wayrest consolidó su poder
+- Orsinium obtuvo su reconocimiento oficial
+- El Rey de los Gusanos se convirtió en dios
+- El Imperio recuperó el control de la región
+
+Cuando la Ruptura se resolvió, el antiguo mosaico de cuarenta y cuatro pequeños reinos quedó consolidado en cuatro grandes naciones, un resultado que satisfacía simultáneamente todos los desenlaces contradictorios.
+
+## La Ruptura y la Divinidad
+
+Las Rupturas del Dragón están intrínsecamente ligadas a la naturaleza de Akatosh. El propio dios quizá no sea una entidad única, sino un **conjunto de aspectos temporales** mantenidos unidos por la fe colectiva. Algunos teólogos sostienen que Akatosh, Auriel, Alduin y Alkosh no son más que facetas del mismo ser, cuya fragmentación engendra las Rupturas.
+
+## Consecuencias Metafísicas
+
+Las Rupturas del Dragón plantean preguntas fundamentales sobre la naturaleza de la realidad en el Aurbis:
+
+1. **¿Es la historia objetiva?** Si los eventos contradictorios son todos verdaderos, el propio concepto de hecho histórico se vuelve sospechoso.
+2. **¿Son los héroes puntos de fractura?** Algunos teorizan que los individuos con destinos extraordinarios —los Sangre de Dragón, los Prismáticos— son ellos mismos micro-rupturas ambulantes.
+3. **¿Puede el tiempo repararse definitivamente?** Cada Ruptura deja cicatrices en el tejido temporal, y algunos eruditos temen que una Ruptura final destruya la linealidad para siempre.
+
+## La Torre de Oro Blanco y la Estabilidad Temporal
+
+La **Torre de Oro Blanco** de Cyrodiil desempeña un papel crucial en el mantenimiento de la estabilidad temporal. Como Piedra de la Torre, el Amuleto de los Reyes servía de ancla para Akatosh en el mundo mortal. Su destrucción al final de la Tercera Era pudo haber debilitado el tiempo mismo, haciendo más probables futuras Rupturas.
+
+Los eruditos de la Universidad Arcana continúan debatiendo: ¿son las Rupturas del Dragón aberraciones o una característica fundamental de un universo donde los dioses son reales y el tiempo no es más que una convención mantenida por la voluntad divina?

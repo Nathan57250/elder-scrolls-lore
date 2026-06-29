@@ -1,0 +1,114 @@
+---
+title: "Los Argonianos — Pueblo del Hist"
+slug: argoniens
+era: dawn-era
+category: races
+tags: [argonianos, hist, ciénaga-negra, saxhleel, reptilianos, an-xileel]
+timelineYear: 0
+summary: "Los Argonianos (Saxhleel) son un pueblo reptiliano de la Ciénaga Negra, vinculados simbiótico con los árboles Hist que los crearon y guían su civilización desde el alba de los tiempos."
+sources: ["UESP: Argonians", "The Infernal City", "Murky Waters"]
+---
+
+## Presentación
+
+Los **Argonianos** (su verdadero nombre es **Saxhleel**, "pueblo de la raíz") son una raza reptiliana humanoide originaria de la **Ciénaga Negra** (*Black Marsh*, también llamada Argonia). Son fundamentalmente distintos de las demás razas de Tamriel porque no descienden de los Ehlnofey: fueron **creados por los Hist**.
+
+## Los Hist
+
+Los **Hist** son árboles sintientes e inteligentes de manera colectiva:
+- Existen desde antes de la creación de Mundus
+- Forman una red de consciencia colectiva
+- Se comunican a través de su savia (alucinógena para los no argonianos)
+- Crearon a los Argonianos para ser sus "manos" en el mundo físico
+- Cada Argoniano lame la savia del Hist al nacer —eso determina su forma—
+
+### El Vínculo Argoniano-Hist
+- Los Argonianos están **fisiológicamente vinculados** a los Hist
+- Separados de ellos demasiado tiempo, se vuelven letárgicos y desorientados
+- Los Hist influyen en las decisiones colectivas de los Argonianos
+- Al morir, el alma argoniana regresa al Hist (no a Aetherius)
+- El Hist puede "llamar de vuelta" a los Argonianos en masa en caso de peligro
+
+## Fisiología
+
+Los Argonianos son únicos desde el punto de vista biológico:
+- Cuerpo reptiliano con escamas, cola y garras
+- Respiración acuática nativa
+- Resistencia natural a enfermedades y venenos
+- Regeneración acelerada
+- **Histskin** — capacidad de curación rápida (poder racial)
+- Capacidad de cambiar de sexo bajo la influencia del Hist (lore profundo)
+- Su forma física depende de la savia que lamen al nacer
+
+### Formas Variadas
+No todos los Argonianos tienen el mismo aspecto:
+- Algunos tienen cuernos; otros, plumas o crestas
+- El tamaño varía considerablemente
+- Los **Naga** son Argonianos gigantescos y salvajes
+- Las formas las determina el Hist según las necesidades de la comunidad
+
+## Historia
+
+### Era Merética
+- Los Hist existían antes que los Ehlnofey
+- Creación de los primeros Argonianos
+- Resistencia a las incursiones élficas
+
+### Primera Era
+- Esclavización masiva por los Dunmer (Casa Dres y Telvanni)
+- Los Argonianos fueron la mano de obra de Morrowind durante siglos
+- Revueltas esporádicas aplastadas
+
+### Segunda y Tercera Era
+- Integración parcial en el Imperio
+- La Ciénaga Negra permanece en gran medida inexplorada y hostil a los extranjeros
+- La esclavitud continúa en las zonas fronterizas con Morrowind
+
+### Cuarta Era — La Venganza
+Tras el Año Rojo (4E 5):
+- Los Hist **llamaron de vuelta** a los Argonianos en masa
+- El **An-Xileel** (facción política argoniana) tomó el poder
+- Invadieron el **sur de Morrowind** mientras este estaba debilitado
+- Saquearon ciudades Dunmer —venganza por siglos de esclavitud—
+- Rechazaron a los Daedra durante la Crisis de Oblivion (la única provincia que lo hizo)
+
+## El An-Xileel
+
+El movimiento político **An-Xileel**:
+- Nacionalista e isolacionista
+- Gobierna la Ciénaga Negra tras la Crisis de Oblivion
+- Rechaza al Imperio y toda injerencia extranjera
+- Aboga por el retorno a las tradiciones del Hist
+- Hostil hacia los Dunmer y los forasteros en general
+
+## Cultura
+
+### Sociedad
+- No existe el concepto de propiedad privada tal como lo entienden las otras razas
+- Las comunidades se organizan en torno a los Hist
+- Los nombres son fluidos: un Argoniano puede cambiar de nombre según las etapas de su vida
+- Los nombres en Jel (su lengua) se traducen al tamrielico: "Atraviesa-los-Pantanos", "Duerme-en-las-Nubes"
+
+### Espiritualidad
+- El Hist es el centro de su espiritualidad
+- Ni culto a los Divinos ni a los Daedra (de forma tradicional)
+- La muerte = regreso al Hist, no un paso hacia el más allá
+- Los chamanes (Treeminders) interpretan la voluntad del Hist
+
+## La Crisis de Oblivion y los Argonianos
+
+Un hecho notable: durante la Crisis de Oblivion (3E 433), los Argonianos:
+- Fueron llamados de vuelta por los Hist
+- **Invadieron las Puertas de Oblivion** en lugar de ser invadidos
+- Los Dremora cerraron sus propias puertas ante el asalto argoniano
+- Es la única provincia que rechazó la invasión de forma activa
+
+## Relaciones con las Otras Razas
+
+| Raza | Relación |
+|------|----------|
+| Dunmer | Odio ancestral (esclavitud) |
+| Khajiit | Simpatía mutua (oprimidos de forma similar) |
+| Imperiales | Desconfianza (colonizadores) |
+| Nórdicos | Indiferencia mutua |
+| Otras | Incomprensión cultural profunda |
