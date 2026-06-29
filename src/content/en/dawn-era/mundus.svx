@@ -1,0 +1,68 @@
+---
+title: "Mundus"
+slug: "mundus"
+era: "dawn-era"
+category: "cosmologie"
+tags: ["cosmology", "mundus", "mortal-plane", "creation", "planets", "aedra"]
+timelineYear: -99982
+summary: "Mundus, the mortal plane created by the Aedra, its cosmic structure, and the eight divine planets."
+sources: ["The Monomyth", "Cosmology", "On the Structure of Mundus", "Imperial Astronomy"]
+---
+
+## The Mortal Plane
+
+**Mundus** is the mortal plane, the realm of physical existence created by the Aedra at the urging of **Lorkhan**. Located at the center of the **Aurbis**, between **Aetherius** and **Oblivion**, Mundus is unique among the planes of existence: it is the only place where mortality, change, and free will truly coexist. For the inhabitants of **Nirn**, Mundus is simply reality itself.
+
+The creation of Mundus is the central event of Tamrielic cosmology. What was conceived as a grand project by Lorkhan and architected by **Magnus** became a trap for the et'Ada who participated, imprisoning them in their own creation and diminishing them forever. This perceived betrayal is the source of the cosmic conflict between the descendants of the Aedra and those who view creation as an act of love.
+
+## The Cosmic Structure
+
+The structure of Mundus is both physical and metaphysical. At its center lies Nirn, the mortal world proper, surrounded by eight planets that are in fact the bodies of the Divines — the Aedra who gave the most of themselves to creation. These planets are the physical remnants of their divine sacrifice.
+
+The eight divine planets are:
+- **Akatosh** (time)
+- **Julianos** (wisdom)
+- **Arkay** (the life cycle)
+- **Zenithar** (work)
+- **Mara** (love)
+- **Stendarr** (mercy)
+- **Kynareth** (the heavens)
+- **Dibella** (beauty)
+
+Each of these planets appears differently depending on the observer and the moment of observation. Tamrielic astronomers describe spheres of impossible sizes, visible as tiny points of light in the night sky yet revealed to be immense upon approach. This paradox is characteristic of the half-physical, half-divine nature of Mundus.
+
+## The Moons of Nirn
+
+**Masser** and **Secunda**, Nirn's two moons, hold a special place in Mundus cosmology. According to Imperial tradition, they are the divided body of Lorkhan — the god whose heart was torn out by the other Aedra as punishment for his deception. The two moons are therefore the remains of a dead god floating eternally above the world he created.
+
+For the **Khajiit**, the moons are Jone and Jode, the lunar spirits whose phases determine the physical form of each Khajiit at birth. This belief gives the moons paramount importance in Khajiit culture, elevating them to the rank of full-fledged deities.
+
+The event known as the Void Nights, when both moons vanished from the sky for several years at the start of the Fourth Era, triggered an existential crisis among the Khajiit. The **Thalmor** claimed responsibility for the moons' return, thereby securing the loyalty of the Khajiit nation.
+
+## Nirn at the Center
+
+**Nirn** itself is a unique planet — the only one in Mundus to harbor mortal life as we know it. Its main continent, Tamriel, is surrounded by other landmasses: Akavir to the east, Atmora to the north, Yokuda to the west (largely submerged), and Aldmeris to the south (whose very existence is debated).
+
+The geography of Nirn is shaped by the divine forces that created it. Mountains are the bones of the earth, rivers its blood, forests its hair. Every element of the landscape bears the mark of the Aedra's sacrifice, and the most sacred places are those where this divine essence is most concentrated.
+
+## The Sun and the Stars
+
+The sun of Mundus, known as the Eye of Magnus, is not a star in the astronomical sense. It is the hole left in the fabric of Mundus when Magnus fled **Aetherius** by piercing the barrier between planes. Sunlight is in fact the light of Aetherius — the realm of pure magic — seeping through this tear.
+
+Likewise, the stars are not distant suns but the holes pierced by the Magna-Ge, the spirits who followed Magnus in his flight. Each star is an opening to Aetherius, and it is through these openings that magic flows into Mundus, fueling the spells of mages and the enchantments of artifacts.
+
+This understanding radically transforms the vision of astronomy: the night sky is not a void scattered with lights but a barrier riddled with perforations through which the magical energy of the higher plane seeps.
+
+## The Convention and Its Consequences
+
+The **Convention** — the moment when the Aedra punished Lorkhan for his deception by tearing out his heart — is the founding event of Mundus's current order. This moment established the rules governing the mortal plane: time flows linearly, death is permanent for mortals, and the Aedra are too weakened to intervene directly in the affairs of the world.
+
+The Adamantine Tower, where the Convention took place, became the first Tower of Mundus, a pillar stabilizing reality itself. Other Towers were later created or discovered across Tamriel, each anchoring an aspect of reality. **CHIM** theorists consider these Towers the columns that prevent Mundus from dissolving into nothingness.
+
+## The Fragility of Mundus
+
+Mundus is not a stable plane by nature. Unlike the realms of Oblivion, created and maintained by the will of a single Daedric Prince, Mundus depends on a complex balance between multiple forces. **Dragonbreaks**, Oblivion Crises, and other catastrophic events periodically threaten this balance.
+
+The **Daedric Princes** view Mundus as a territory to conquer or corrupt. **Mehrunes Dagon** attempted multiple times to merge Mundus with his own realm, while **Molag Bal** tried to drag Nirn toward Coldharbour during the Soulburst. These invasions are made possible by the inherent fragility of the mortal plane.
+
+The prophecy that the deactivation of all of Mundus's Towers would lead to the dissolution of the mortal plane hangs like a sword of Damocles over all of creation. Some scholars fear that the events of the Fourth Era — particularly the fall of the White-Gold Tower during the Great War — are drawing Mundus closer to this breaking point.

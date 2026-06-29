@@ -1,0 +1,62 @@
+---
+title: "Los Khajiit"
+slug: "khajiit"
+era: "dawn-era"
+category: "races"
+tags: ["razas", "khajiit", "lunas", "elsweyr", "azúcar-lunar", "morfología"]
+timelineYear: -99800
+summary: "Los Khajiit, raza felina cuya forma está determinada por las lunas, su cultura y el azúcar lunar."
+sources: ["Palabras de la Madre del Clan Ahnissi", "La Verdadera Naturaleza de los Orcos", "Mezcla Khajiit", "Las Lunas de Elsweyr"]
+---
+
+## Los Hijos de las Lunas
+
+Los **Khajiit** son una de las razas más singulares de Tamriel. Pueblo felino originario de Elsweyr, se distinguen de todas las demás razas por un rasgo extraordinario: su forma física al nacer está determinada por las fases de las dos lunas, Masser y Secunda. Esta morfología lunar produce al menos dieciséis formas distintas, que van desde el gato doméstico apenas consciente hasta el tigre gigante de combate, pasando por la forma humanoide que más comúnmente se encuentra fuera de Elsweyr.
+
+Los mitos fundadores khajiit relatan que su raza fue creada por Azurah (su nombre para **Azura**) a partir de los primeros Bosmer, remodelados según su voluntad para convertirse en guardianes de los secretos lunares. Este origen los une íntimamente a las lunas y a los misterios cósmicos de **Mundus**.
+
+## Las Formas Lunares
+
+El sistema de furstocks — las diferentes formas khajiit — es extraordinariamente complejo. Las fases combinadas de Masser y Secunda en el momento del nacimiento determinan en cuál de las aproximadamente dieciséis formas nacerá un Khajiit. Las principales formas conocidas son:
+
+Los **Cathay** son la forma que encuentran con mayor frecuencia las otras razas. Humanoides bípedos de estatura media, cubiertos de pelaje y dotados de cola, son los embajadores involuntarios de su raza ante el resto de Tamriel. Los **Cathay-raht** son su versión más grande y poderosa.
+
+Los **Suthay-raht** se parecen a los Cathay pero son más pequeños y ágiles, con rasgos más pronunciadamente felinos. Son excelentes ladrones y exploradores, lo que por desgracia ha contribuido al estereotipo del Khajiit ratero.
+
+Los **Senche** y **Senche-raht** son cuadrúpedos masivos parecidos a tigres gigantes. A pesar de su apariencia bestial, poseen una inteligencia comparable a la de las formas humanoides y son capaces de hablar. Con frecuencia sirven de monturas a otros Khajiit.
+
+Los **Alfiq** se parecen a gatos domésticos ordinarios pero son plenamente conscientes y capaces de practicar magia. Su pequeño tamaño y su apariencia inofensiva los convierten en excelentes espías. Su propia existencia es a veces puesta en duda por otras razas.
+
+## El Azúcar Lunar
+
+El **azúcar lunar** (skooma en su forma no refinada, azúcar lunar en bruto en su estado más puro) es una sustancia central en la cultura khajiit. A diferencia de la percepción de otras razas que lo consideran una simple droga, el azúcar lunar es para los Khajiit una sustancia sagrada — literalmente, los cristales de luz lunar caídos sobre Nirn.
+
+El azúcar lunar está integrado en la cocina, la medicina y los rituales religiosos khajiit. Se consume en diversas formas en casi todas las comidas y ceremonias. Solo en su forma refinada como skooma se convierte en la droga destructiva temida en el resto de Tamriel.
+
+El comercio del skooma ha ocasionado sin embargo enormes problemas a los Khajiit. Los cárteles de droga, la adicción que asola a las poblaciones pobres de Elsweyr y la imagen negativa proyectada sobre toda la raza son consecuencias de la explotación de esta sustancia sagrada con fines profanos.
+
+## La Cultura y la Sociedad
+
+La sociedad khajiit se organiza en torno a los clanes y las madres del clan — mujeres sabias que dirigen las comunidades. Las madres del clan son las guardianas de las tradiciones e intérpretes de los signos lunares. Su autoridad rara vez es cuestionada dentro de los clanes tradicionales.
+
+La religión khajiit es única en Tamriel. Su panteón incluye versiones khajiit de los Divinos y los Príncipes Daédricos, pero reinterpretados a través de su cosmología lunar. **Azura** (Azurah) es la madre de la raza, quien les dio forma. Alkosh es su versión de **Akatosh**, el dragón del tiempo. Lorkhaj es su **Lorkhan**, cuya traición creó la tercera luna secreta, la Luna Oscura.
+
+Los Khajiit son famosos por su agilidad, su sigilo y su talento para el comercio. Las caravanas khajiit recorren Tamriel vendiendo mercancías exóticas e información. En Bordeciel durante la Cuarta Era, estas caravanas tienen prohibida la entrada en las ciudades y se ven obligadas a acampar fuera de las murallas por la desconfianza de los nórdicos.
+
+## Elsweyr, la Tierra Natal
+
+Elsweyr es una provincia de paisajes variados, desde los áridos desiertos del norte hasta las exuberantes selvas del sur. Estuvo dividida durante mucho tiempo entre dos reinos, Anequina y Pellitine, antes de su unificación bajo la Confederación de Elsweyr. Esa confederación fue posteriormente disuelta por el **Thalmor** a comienzos de la Cuarta Era, creando dos reinos vasallos del Dominio Aldmeri.
+
+La ciudad de Torval, en el sur, es el centro espiritual de los Khajiit, donde reside la Melena, el líder espiritual de la nación. La Melena es un Khajiit nacido durante un rarísimo alineamiento lunar, y solo existe uno a la vez. Su pelaje es trenzado por miles de fieles, simbolizando los vínculos que unen a todos los Khajiit.
+
+## El Vacío Lunar y el Thalmor
+
+El acontecimiento más traumático de la historia khajiit reciente fue el Vacío Lunar de 4E 98 a 4E 100, cuando ambas lunas desaparecieron completamente del cielo. Para un pueblo cuya propia identidad depende de las lunas, esta desaparición fue una catástrofe existencial. Ningún niño podía nacer con una forma definida, y los rituales sagrados se volvieron imposibles.
+
+El **Thalmor** reivindicó haber restaurado las lunas mediante un ritual altmer. Sea cierta o no esa afirmación, los Khajiit les quedaron eternamente agradecidos. Esta gratitud permitió al Dominio Aldmeri anexionar diplomáticamente Elsweyr, transformando la provincia en estados cliente. Este magistral golpe político ilustra la vulnerabilidad de los Khajiit a través de su dependencia de las lunas.
+
+## Estereotipos y Realidades
+
+Los Khajiit sufren prejuicios persistentes en el resto de Tamriel. Su asociación con el robo y el tráfico de drogas los hace indeseables en muchas comunidades. Sin embargo, la cultura khajiit es rica, compleja y profundamente espiritual. Sus guerreros-monjes, los adeptos del Rawlith Khaj, dominan artes marciales de una sofisticación incomparable. Sus magos, especialmente los Alfiq, están entre los más poderosos de Tamriel.
+
+La verdad es que la sociedad khajiit es tan diversa como cualquier otra. Desde comerciantes honestos hasta brillantes eruditos, desde guerreros honorables hasta sacerdotes devotos, los Khajiit desafían los estereotipos simplistas para quien se toma la molestia de conocerlos de verdad.

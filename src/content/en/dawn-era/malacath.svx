@@ -1,0 +1,64 @@
+---
+title: "Malacath"
+slug: "malacath"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "daedric-prince", "orcs", "trinimac", "outcasts", "code"]
+timelineYear: -99840
+summary: "Malacath, formerly Trinimac, Daedric Prince of the outcasts and Orcs, keeper of the Code of Malacath."
+sources: ["The True Noble's Code", "The Curse of the Orc", "The Code of Malacath", "The True Origins of Orcs"]
+---
+
+## The Prince of the Outcasts
+
+**Malacath** is the Daedric Prince of the outcasts, the enslaved, and those who have sworn vengeance. Patron of the **Orcs**, he is unique among the Daedric Princes because he was not always a Daedra. Malacath is the corrupted and transformed form of **Trinimac**, once the mightiest champion of the Aedra — a divine warrior venerated by the Aldmer at the dawn of time.
+
+This duality makes Malacath a profoundly tragic and complex figure. He is both the fierce protector of those society rejects and a living reminder that even the most noble can fall. His relationship with his followers is brutal but sincere: he promises not paradise but the strength to survive in a hostile world.
+
+## The Fall of Trinimac
+
+The story of Trinimac's transformation into Malacath is one of the most striking myths in Tamrielic cosmology. Trinimac was the champion of **Auriel** (the elven aspect of Akatosh), the most powerful of divine spirits after the principal Aedra. He led the Aldmeri armies against the forces of change and deception.
+
+When the prophet Veloth began preaching the word of **Boethia** and guiding the Chimer (the future **Dunmer**) toward their exodus from the Crystal Tower, Trinimac opposed him. According to legend, **Boethia** challenged Trinimac and — through trickery or force — devoured him. Within Boethia, Trinimac was corrupted and spiritually digested, and when Boethia expelled him, he had become Malacath: a twisted and diminished thing.
+
+The followers of Trinimac who witnessed this humiliation were transformed alongside their god, becoming the first Orcs, the Orsimer. Their skin turned green, their features coarsened, and they were driven out by the other elves who now regarded them as aberrations. This primal trauma marks Orc culture even millennia later.
+
+## The Code of Malacath
+
+The Code of Malacath is the set of laws and traditions governing Orc society. It is a brutal but internally consistent system, founded on strength, honor, and vengeance. The Code establishes the following rules:
+
+Do not steal. Do not cheat. Do not lie. If you are wronged, demand blood as payment. The strong rule the weak. The chief proves his worth in combat. The old and feeble who can no longer contribute must seek an honorable death.
+
+This code may seem barbaric to other cultures, but it has an impeccable internal logic. In a world that rejects Orcs, only strength guarantees survival. The Code of Malacath transforms this necessity into virtue, making brutality a sacrament and resilience a prayer.
+
+## Malacath and the Orcs
+
+The relationship between Malacath and the Orcs is that of a hard father with his children. He does not console them but pushes them to be stronger. He does not protect them but gives them the tools to protect themselves. This approach produces a hardened people capable of surviving under the most hostile conditions.
+
+The Orc strongholds of Skyrim and High Rock are organized according to the Code of Malacath. The chief (Ashkan) rules by force and can be challenged at any time by a rival. Blacksmiths are the most respected members after the chief, for Orc weapons and armor are renowned as the sturdiest in Tamriel.
+
+Orc shamans communicate directly with Malacath, receiving his instructions and conveying his will. Unlike the priests of other deities, they are not gentle intercessors but bearers of their Prince's brutal word.
+
+## Ashpit, the Realm of Malacath
+
+Malacath's plane of Oblivion is the Ashpit, a desolate world of ash and dust. It is an austere and merciless place, perfectly reflecting the philosophy of its master. Only the strongest and most honorable Orcs find their final rest there, proving their worth for eternity through endless trials.
+
+The Ashpit is not a paradise in the traditional sense. It is a place of eternal combat and ordeal, where the souls of worthy Orcs can finally fight without constraints in a world that no longer rejects them. For a people accustomed to exclusion, a realm that truly belongs to them — however harsh — is in itself a reward.
+
+## The Volendrung
+
+The **Volendrung** is Malacath's legendary warhammer and one of the most powerful Daedric artifacts in Tamriel. This colossal hammer absorbs the stamina of its victims and transfers it to its wielder. Its name references the **Dwemer** and their city of Volenfell, suggesting a complex history between the Orcs and the Deep Elves.
+
+The Volendrung changes hands across the ages, always appearing where Malacath judges a champion to be in need. It is at once a weapon and a symbol: whoever wields it is recognized as Malacath's champion, a warrior who has proven their worth beyond all doubt.
+
+## The Question of Identity
+
+A persistent theological debate surrounds Malacath: is he truly a transformed Trinimac, or an entirely new entity who took the place of the former god? Malacath himself seems to reject the connection, sometimes declaring that Trinimac is dead and that he is something else entirely. The Orcs care little for this academic question, accepting Malacath as he is.
+
+Some Orsimer have attempted to restore the cult of Trinimac, believing their original god can be found beneath Malacath's corruption. These movements are considered heretical by traditionalists and create tensions within the Orc community, particularly in the city of **Orsinium**.
+
+## Legacy and Influence
+
+Malacath's influence extends beyond the Orcs. Any outcast, any rejected soul, any being who has known the injustice of exclusion can find an echo in his cult. Freed slaves, political exiles, and criminals seeking redemption through strength are all potential followers.
+
+In a world that prizes civility and diplomacy, Malacath is a reminder of an uncomfortable truth: sometimes, the only answer to injustice is brute force. This philosophy makes him a controversial but undeniably powerful Prince in the Daedric pantheon.

@@ -1,0 +1,84 @@
+---
+title: "The Eye of Magnus"
+slug: "oeil-de-magnus"
+era: "dawn-era"
+category: "artefacts"
+tags: ["eye-of-magnus", "magnus", "saarthal", "college-of-winterhold", "ancano", "psijics", "night-of-tears"]
+timelineYear: -9999
+summary: "The Eye of Magnus — an artifact of immense power linked to the god of magic, discovered beneath Saarthal and likely the cause of the Night of Tears."
+sources: ["UESP: Eye of Magnus", "The Imperial Library: Magnus", "TES V: Skyrim — College of Winterhold"]
+---
+
+# The Eye of Magnus
+
+The **Eye of Magnus** is an artifact of incomparable power, linked to the god **Magnus** — the architect of **Mundus** who fled to **Aetherius** before the completion of Creation. Its exact nature is debated: a fragment of abandoned Creation? A tool used to design Mundus? A relic left behind by Magnus during his flight? Whatever its nature, the Eye contains enough energy to alter reality on a catastrophic scale.
+
+## Nature
+
+### Appearance
+
+The Eye presents itself as a vast, swirling sphere of crystal and energy, covered in shifting glyphs in an unknown language — possibly the original tongue of Creation itself. It pulses with a golden-green light that seems alive.
+
+### Connection to Magnus
+
+**Magnus** was the divine architect who designed the plans of Mundus for **Lorkhan**. When he realized that Creation would drain the divinity of the participating Et'Ada, he fled — piercing a hole in reality that became the **Sun** (the largest breach leading to Aetherius). The Magna-Ge, his followers, pierced smaller holes — the stars.
+
+The Eye would be a vestige of that primordial moment:
+- Perhaps the "blueprints of Mundus" themselves, left behind at the worksite
+- Perhaps a creation tool that Magnus could not take with him in his flight
+- Perhaps a fragment of the divine power that Magnus abandoned
+
+### Power
+
+The Eye channels a theoretically infinite amount of **magicka** — a direct connection to Aetherius, source of all magic. Whoever knows how to use it would command power sufficient to:
+- Alter the fundamental laws of reality
+- Rewrite the nature of a being or a place
+- Potentially rival the Divines themselves
+
+## History
+
+### Burial Beneath Saarthal
+
+The Eye was discovered beneath **Saarthal** — the first human settlement in Skyrim, founded by the Atmorans at the start of the Merethic Era. Whether it was deliberately hidden there or had rested there since Creation is unknown.
+
+### The Night of Tears
+
+The **Night of Tears** — the surprise attack by the **Snow Elves** against Saarthal that killed nearly all of its inhabitants — may have been motivated by the discovery of the Eye. The official Nordic account presents the attack as a gratuitous genocide, but evidence suggests the Snow Elves sought to seize the Eye or to prevent the humans from using it.
+
+If this theory is correct, the Eye of Magnus is indirectly responsible for **Ysgramor's Return** and the war of extermination against the Snow Elves — a conflict that reshaped Skyrim forever.
+
+### Forgotten
+
+After the Night of Tears, knowledge of the Eye was lost. The ruins of Saarthal were buried and forgotten for millennia. The Eye slept beneath the earth, inert but no less powerful.
+
+### Rediscovery (4E 201)
+
+In **4E 201**, archaeological excavations conducted by the **College of Winterhold** under the direction of **Tolfdir** unearthed the ruins of Saarthal — and the Eye. The artifact was brought to the College for study.
+
+## The Ancano Crisis
+
+### The Thalmor Agent
+
+**Ancano**, a **Thalmor Justiciar** officially present at the College as an "advisor," immediately recognized the Eye's power. He seized it and attempted to use it for an unknown objective — possibly linked to the **Aldmeri Dominion**'s metaphysical ambitions concerning the Towers and the dissolution of Mundus.
+
+### Consequences
+
+Ancano's activation of the Eye caused:
+- Massive magical anomalies throughout the Winterhold region
+- The appearance of hostile magical creatures
+- Local instability of reality
+- The death of Archmage **Savos Aren**
+
+### The Psijic Intervention
+
+The **Psijic Order** — the oldest mage organization in Tamriel, generally isolationist — intervened directly. They had foreseen the crisis and secretly guided a College mage toward the **Staff of Magnus** (Staff of Magnus), the only artifact capable of controlling the Eye.
+
+After Ancano's defeat, the Psijics took possession of the Eye:
+
+> *This artifact is too dangerous to remain here. Too dangerous to remain anywhere, in truth. We shall take custody of it.*
+
+The Eye vanished with them to their island of **Artaeum** — withdrawn from the mortal plane and inaccessible to the ambitions of nations.
+
+## Cosmological Significance
+
+The Eye of Magnus is one of the rare artifacts capable of modifying the very structure of the **Aurbis**. Its existence proves that the Creation of Mundus left "tools" behind — relics of the creative process powerful enough to undo what was made. In a world where Towers anchor reality, and where factions seek to deactivate them, the Eye represents a threat (or a promise) of terrifying magnitude.

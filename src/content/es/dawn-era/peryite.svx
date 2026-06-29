@@ -1,0 +1,60 @@
+---
+title: "Peryite"
+slug: "peryite"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "príncipe-daédrico", "pestilencia", "orden", "enfermedad", "dragones"]
+timelineYear: -99810
+summary: "Peryite, Príncipe Daédrico de las pestilencias y el orden natural, el más débil y despreciado de los Príncipes."
+sources: ["El Libro de los Príncipes Daédricos", "Los Dieciséis Acuerdos de la Locura", "Sobre la Naturaleza de los Daedra"]
+---
+
+## El Príncipe de las Pestilencias
+
+**Peryite** es el Príncipe Daédrico de las pestilencias, las epidemias y el orden natural inferior. A menudo considerado el más débil de los **Príncipes Daédricos**, gobierna sobre las enfermedades y las plagas que afligen a los mortales, pero también — paradójicamente — sobre los conceptos de orden y deber dentro de la jerarquía daédrica.
+
+La apariencia de Peryite es la de un dragón, lo que lo convierte en el único Príncipe Daédrico que adopta esta forma como aspecto principal. Este parecido con **Akatosh** no es casual: algunos teólogos ven en él un reflejo distorsionado del Dragón del Tiempo, una parodia daédrica del orden divino encarnado por el líder de los Divinos.
+
+## La Dualidad de Peryite
+
+La naturaleza de Peryite es profundamente paradójica. Por un lado, es el señor de las pestilencias — esas plagas que siegan poblaciones y propagan el sufrimiento. Por otro, es el guardián del orden natural, quien se asegura de que incluso los Daedra respeten cierta jerarquía y de que el caos no reine de forma absoluta en los planos de Oblivion.
+
+Esta dualidad se explica por una comprensión más profunda de la enfermedad. Para Peryite, las epidemias no son actos de crueldad gratuita sino mecanismos de equilibrio. La enfermedad controla las poblaciones, elimina a los débiles y obliga a la adaptación. Es una forma de orden natural — brutal, ciertamente, pero necesaria en el ecosistema cósmico.
+
+Los fieles de Peryite consideran la enfermedad una prueba sagrada. Sobrevivir a una epidemia es prueba de fortaleza y favor divino. Los inmunes son los elegidos, mientras que quienes sucumben simplemente eran demasiado débiles para merecer seguir existiendo. Esta filosofía darwiniana está en el corazón del culto de Peryite.
+
+## El Puits (Los Pozos)
+
+El plano de Oblivion de Peryite se conoce como los Pozos, un reino cuya naturaleza exacta es debatida entre los eruditos. Algunas descripciones lo presentan como una versión corrompida de **Mundus** — un mundo paralelo asolado por epidemias sin fin. Otras lo describen como una red de fosas infectadas donde las almas de los fieles son sometidas a pruebas de enfermedad eterna.
+
+Lo que distingue los Pozos de otros planos daédricos es su meticulosa organización. A pesar de la pestilencia que impera en ellos, todo sigue un orden estricto. Las enfermedades se propagan según patrones predecibles, los Daedra menores obedecen a una jerarquía clara, y hasta el sufrimiento sigue reglas precisas. Es el orden dentro del horror — la burocracia de la pestilencia.
+
+## El Rompeconjuros
+
+El artefacto daédrico de Peryite es el Rompeconjuros (Spellbreaker), un escudo dwemer encantado que crea una barrera capaz de bloquear los hechizos. Paradójicamente, este artefacto es más defensivo que ofensivo, protegiendo a su portador contra la magia en lugar de propagar enfermedades. Esta incongruencia ha llevado a algunos eruditos a dudar de la atribución del Rompeconjuros a Peryite.
+
+La explicación más común es que el Rompeconjuros representa el aspecto ordenado de Peryite: la protección contra el caos mágico es una forma de orden impuesto. El escudo repele las influencias externas, manteniendo la integridad de su portador frente a las fuerzas perturbadoras — exactamente como Peryite mantiene el orden entre los Daedra inferiores.
+
+## El Culto de Peryite
+
+Los adoradores de Peryite son escasos y a menudo despreciados, incluso por otros cultistas daédricos. Llamar la atención de un Príncipe considerado débil no es una marca de prestigio. Sin embargo, los fieles de Peryite son sinceros en su devoción, viendo en las enfermedades bendiciones más que maldiciones.
+
+Los rituales de Peryite implican con frecuencia la exposición voluntaria a enfermedades. Los fieles beben aguas contaminadas, manipulan cadáveres infectados y rezan en lugares insalubres. Los que sobreviven a estas pruebas son considerados bendecidos, fortalecidos por la experiencia y dignos del favor del Príncipe.
+
+En Bordeciel, un grupo de fieles de Peryite se había establecido en un santuario aislado. Golpeados por una enfermedad enviada por su propio patrón, se debatían entre la gratitud por esa bendición y el sufrimiento que causaba. Esta ambivalencia es típica de las relaciones entre Peryite y sus adoradores.
+
+## Peryite y la Jerarquía Daédrica
+
+La posición de Peryite entre los Príncipes Daédricos es única debido a su debilidad relativa. Los demás Príncipes lo desprecian frecuentemente, considerándolo un inferior — lo cual es irónico para el guardián del orden jerárquico. Esta situación convierte a Peryite en el Príncipe más accesible para los invocadores mortales, pues está más dispuesto a responder a las llamadas, quizá por falta de fieles.
+
+A pesar de su debilidad percibida, Peryite cumple un papel esencial en el ecosistema de Oblivion. Sin él, los Daedra inferiores caerían en el caos total, las jerarquías se desmoronarían y los planos de Oblivion se volverían aún más inestables. Su papel de guardián del orden es ingrato pero necesario.
+
+## Las Epidemias de Peryite
+
+A lo largo de la historia de Tamriel, varias epidemias importantes han sido atribuidas a la influencia de Peryite. La Gripe Knahaten que asoló las regiones costeras de Tamriel durante la Segunda Era — aunque su atribución a Peryite es debatida — presenta las características de una enfermedad de origen daédrico.
+
+Los Afligidos, mortales transformados por las enfermedades de Peryite en criaturas agresivas cubiertas de pústulas, son las manifestaciones más visibles de su poder sobre Nirn. Estos desafortunados vagan por las tierras salvajes, propagando la enfermedad y atacando a los viajeros — servidores involuntarios de un Príncipe al que nunca eligieron servir.
+
+## Significado Cósmico
+
+A pesar de su estatus de Príncipe menor, Peryite encarna una importante verdad cósmica: el orden existe incluso en la degradación. La enfermedad no es el caos: sigue reglas, se propaga según patrones y cumple una función ecológica. Esta perspectiva, por perturbadora que sea, recuerda que el cosmos de Tamriel funciona según principios que trascienden la moralidad mortal.

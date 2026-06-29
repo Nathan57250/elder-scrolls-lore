@@ -1,0 +1,62 @@
+---
+title: "The Khajiit"
+slug: "khajiit"
+era: "dawn-era"
+category: "races"
+tags: ["races", "khajiit", "moons", "elsweyr", "moon-sugar", "morphology"]
+timelineYear: -99800
+summary: "The Khajiit, a feline race whose form is determined by the moons, their culture, and moon sugar."
+sources: ["Words of Clan Mother Ahnissi", "The True Nature of Orcs", "Khajiit Mix", "The Moons of Elsweyr"]
+---
+
+## Children of the Moons
+
+The **Khajiit** are one of the most singular races of Tamriel. A feline people native to Elsweyr, they stand apart from all other races by one extraordinary trait: their physical form at birth is determined by the phases of the two moons, Masser and Secunda. This lunar morphology produces at least sixteen distinct forms, ranging from a barely-conscious domestic cat to a giant war-tiger, with the most commonly encountered humanoid form falling somewhere in between.
+
+The founding myths of the Khajiit tell that their race was created by Azurah (their name for **Azura**) from the first Bosmer, reshaped according to her will to become guardians of the lunar secrets. This origin ties them intimately to the moons and the cosmic mysteries of **Mundus**.
+
+## The Lunar Forms
+
+The system of furstocks — the different Khajiit forms — is extraordinarily complex. The combined phases of Masser and Secunda at the moment of birth determine which of the approximately sixteen forms a Khajiit will be born into. The most notable known forms are:
+
+The **Cathay** are the form most commonly encountered by other races. Bipedal humanoids of medium height, covered in fur and possessed of a tail, they are the unwitting ambassadors of their race to the rest of Tamriel. The **Cathay-raht** are their larger, more powerful counterpart.
+
+The **Suthay-raht** resemble the Cathay but are smaller and more agile, with more pronounced feline features. They are excellent thieves and scouts — a fact that has unfortunately contributed to the stereotype of the light-fingered Khajiit.
+
+The **Senche** and **Senche-raht** are massive quadrupeds resembling giant tigers. Despite their bestial appearance, they possess intelligence comparable to the humanoid forms and are capable of speech. They often serve as mounts for other Khajiit.
+
+The **Alfiq** resemble ordinary domestic cats but are fully sentient and capable of magic. Their small size and harmless appearance make them excellent spies. Their very existence is sometimes doubted by other races.
+
+## Moon Sugar
+
+**Moon sugar** (skooma in its unrefined form, raw moon sugar in its purest state) is a substance central to Khajiit culture. Unlike the perception held by other races who regard it as a mere drug, moon sugar is for the Khajiit a sacred substance — literally the crystals of moonlight fallen to Nirn.
+
+Moon sugar is woven into Khajiit cooking, medicine, and religious ritual. It is consumed in various forms at nearly every meal and ceremony. It is only in its refined form as skooma that the substance becomes the destructive drug dreaded throughout the rest of Tamriel.
+
+The skooma trade has nonetheless caused immense problems for the Khajiit. Drug cartels, the addiction ravaging the poor populations of Elsweyr, and the negative image cast over the entire race are all consequences of the exploitation of this sacred substance for profane ends.
+
+## Culture and Society
+
+Khajiit society is organized around clans and clan mothers — wise women who lead their communities. The clan mothers are guardians of tradition and interpreters of lunar signs. Their authority is rarely challenged within traditional clans.
+
+Khajiit religion is unlike any other in Tamriel. Their pantheon includes Khajiit versions of the Divines and Daedric Princes, but reinterpreted through their lunar cosmology. **Azura** (Azurah) is the mother of the race, the one who gave them form. Alkosh is their version of **Akatosh**, the dragon of time. Lorkhaj is their **Lorkhan**, whose betrayal created the secret third moon, the Dark Moon.
+
+The Khajiit are renowned for their agility, stealth, and talent for commerce. Khajiit caravans crisscross Tamriel, trading exotic wares and information. In Skyrim during the Fourth Era, these caravans are denied entry into cities, forced to camp outside the walls by the distrust of the Nords.
+
+## Elsweyr, the Homeland
+
+Elsweyr is a province of varied landscapes, from the arid deserts of the north to the lush jungles of the south. It was long divided between two kingdoms, Anequina and Pellitine, before their unification under the Elsweyr Confederacy. That confederacy was later dissolved by the **Thalmor** at the start of the Fourth Era, creating two vassal kingdoms under the Aldmeri Dominion.
+
+The city of Torval in the south is the spiritual center of the Khajiit, home to the Mane, the spiritual leader of the nation. The Mane is a Khajiit born during an exceedingly rare lunar alignment, and there is only ever one at a time. Their fur is braided by thousands of the faithful, symbolizing the bonds that unite all Khajiit.
+
+## The Void Nights and the Thalmor
+
+The most traumatic event in recent Khajiit history was the Void Nights from 4E 98 to 4E 100, when both moons vanished completely from the sky. For a people whose very identity depends on the moons, this disappearance was an existential catastrophe. No child could be born with a defined form, and sacred rituals became impossible.
+
+The **Thalmor** claimed to have restored the moons through an Altmer ritual. Whether that claim was true or not, the Khajiit were eternally grateful to them for it. This gratitude allowed the Aldmeri Dominion to diplomatically annex Elsweyr, transforming the province into client states. This masterstroke of politics illustrates the vulnerability of the Khajiit through their dependence on the moons.
+
+## Stereotypes and Realities
+
+The Khajiit suffer from persistent prejudice throughout the rest of Tamriel. Their association with theft and drug trafficking makes them unwelcome in many communities. Yet Khajiit culture is rich, complex, and deeply spiritual. Their warrior-monks, the adepts of the Rawlith Khaj, master martial arts of unmatched sophistication. Their mages, especially the Alfiq, are among the most powerful in Tamriel.
+
+The truth is that Khajiit society is as diverse as any other. From honest merchants to brilliant scholars, from honorable warriors to devoted priests, the Khajiit defy reductive stereotypes for anyone who takes the time to truly know them.

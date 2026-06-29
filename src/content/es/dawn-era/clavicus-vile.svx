@@ -1,0 +1,56 @@
+---
+title: "Clavicus Vile"
+slug: "clavicus-vile"
+era: "dawn-era"
+category: "daedra"
+tags: ["daedra", "príncipe-daédrico", "pactos", "deseos", "barbas", "engaño"]
+timelineYear: -99850
+summary: "Clavicus Vile, Príncipe Daédrico de los pactos y los deseos pervertidos, acompañado de su perro Barbas."
+sources: ["El Libro de los Príncipes Daédricos", "Los Dieciséis Acuerdos de la Locura", "Sobre la Naturaleza de los Daedra"]
+---
+
+## El Príncipe de los Pactos
+
+**Clavicus Vile** es el Príncipe Daédrico de los pactos, los deseos y el poder. Su dominio es el de los acuerdos y las transacciones, pero siempre con una perversión maliciosa: los deseos que concede se vuelven invariablemente en contra de quienes los formulan. Encarna el viejo dicho de que hay que tener cuidado con lo que se desea, pues podría cumplirse.
+
+Entre los **Príncipes Daédricos**, Clavicus Vile es considerado frecuentemente uno de los menos abiertamente destructivos. No busca la dominación como **Molag Bal**, ni la destrucción como **Mehrunes Dagon**. Su crueldad es más sutil: da a los mortales exactamente lo que piden, sabiendo que sus deseos mal formulados los llevarán a la ruina. El placer de Clavicus Vile reside en la irónica tragedia de los deseos cumplidos al pie de la letra pero contrarios a su espíritu.
+
+## Barbas, el Compañero Eterno
+
+El aspecto más singular de Clavicus Vile es su compañero permanente, **Barbas**. Barbas es un Daedra menor que generalmente toma la forma de un perro, aunque puede manifestarse bajo otras apariencias. En realidad es una parte del propio Clavicus Vile — un fragmento de su poder y, sobre todo, de su conciencia moral.
+
+La relación entre Clavicus Vile y Barbas es compleja y a menudo conflictiva. Barbas tiende a templar los excesos de su amo, aconsejando prudencia e intentando a veces incluso proteger a los mortales de las peores consecuencias de sus pactos. Clavicus Vile encuentra esta moralización irritante y busca regularmente deshacerse de Barbas.
+
+Separado de Barbas, Clavicus Vile es a la vez más poderoso y más caprichoso. Sin la conciencia que Barbas representa, el Príncipe se vuelve impredecible y potencialmente más peligroso. Esta dinámica crea situaciones en las que los mortales deben elegir entre reunir al Príncipe con su conciencia o dejarlo disminuido pero también más inestable.
+
+## La Máscara de Clavicus Vile
+
+El artefacto más célebre de Clavicus Vile es la Máscara de Clavicus Vile, un yelmo encantado que otorga a su portador un encanto sobrenatural. Esta máscara amplifica las capacidades de persuasión y negociación, permitiendo a su portador cerrar acuerdos extraordinariamente favorables. La ironía es que la propia máscara suele ser el objeto de un pacto con el Príncipe.
+
+El otro artefacto notable es el Hacha de la Tristeza, un arma maldita entregada a un mortal en uno de los pactos típicamente viciados del Príncipe. Esta hacha posee el poder de desterrar Daedra pero corrompe progresivamente a quien la porta, ilustrando a la perfección la naturaleza de los regalos de Clavicus Vile.
+
+## Los Pactos y sus Consecuencias
+
+Las historias de mortales que han concluido pactos con Clavicus Vile pueblan el folclore de Tamriel. Se repite un patrón recurrente: un mortal desesperado invoca al Príncipe, formula un deseo y recibe exactamente lo que pidió, para descubrir que el resultado es catastrófico.
+
+Un bárbaro que deseó el fin de una guerra recibió un arma tan poderosa que destruyó a su propio pueblo. Un rey que deseó la juventud eterna fue transformado en niño para la eternidad, incapaz de gobernar. Un mago que deseó el conocimiento absoluto se volvió omnisciente pero demente, incapaz de soportar el peso de saberlo todo.
+
+Estas historias sirven de advertencia, pero los mortales desesperados siguen invocando a Clavicus Vile, convencidos de que serán lo bastante listos para formular el deseo perfecto. Nadie lo ha logrado jamás.
+
+## El Reino de Clavicus Vile
+
+El plano de Oblivion de Clavicus Vile se conoce como los Campos del Arrepentimiento. Este reino es un paisaje engañosamente bucólico — verde y apacible en apariencia, pero impregnado de una atmósfera de arrepentimiento y desilusión. Las almas que residen allí son las de los mortales que cerraron pactos con el Príncipe, condenadas a revivir eternamente las consecuencias de sus deseos.
+
+El palacio de Clavicus Vile en el centro de su reino se asemeja a la mansión de un próspero mercader, repleta de tesoros y artefactos — cada uno representando un pacto consumado y una vida arruinada. El Príncipe reside allí con Barbas, negociando eternamente nuevos acuerdos con los mortales lo bastante imprudentes para invocarlo.
+
+## Clavicus Vile y los Demás Príncipes
+
+Entre los Príncipes Daédricos, Clavicus Vile mantiene relaciones complejas. Con frecuencia compite con **Hermaeus Mora** por las almas de los mortales ávidos de poder, ofreciendo cada uno su propia versión de la tentación. Con **Mephala** comparte el gusto por la manipulación y la intriga, aunque sus métodos difieren.
+
+Su oposición natural es con **Zenithar** y el concepto del comercio honesto. Donde Zenithar predica el intercambio justo y el beneficio merecido, Clavicus Vile representa la transacción amañada, el contrato trampa y el enriquecimiento a expensas de los demás.
+
+## Culto e Invocación
+
+El culto de Clavicus Vile atrae principalmente a los ambiciosos, los desesperados y los codiciosos. Sus adoradores son con frecuencia mercaderes sin escrúpulos, políticos ávidos de poder e individuos dispuestos a todo para obtener lo que desean. Los rituales de invocación son relativamente sencillos, lo que hace al Príncipe peligrosamente accesible.
+
+Los sacerdotes de Clavicus Vile, si es que existen, son más intermediarios que devotos tradicionales. Facilitan los pactos entre el Príncipe y los mortales, llevándose a menudo una comisión. Esta estructura se parece más a una red comercial que a un culto religioso tradicional, lo que es perfectamente coherente con la naturaleza mercantil de Clavicus Vile.

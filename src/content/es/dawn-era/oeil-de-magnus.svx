@@ -1,0 +1,84 @@
+---
+title: "El Ojo de Magnus"
+slug: "oeil-de-magnus"
+era: "dawn-era"
+category: "artefacts"
+tags: ["ojo-de-magnus", "magnus", "saarthal", "colegio-de-invernalia", "ancano", "psíjicos", "noche-de-las-lágrimas"]
+timelineYear: -9999
+summary: "El Ojo de Magnus — artefacto de un poder inmenso ligado al dios de la magia, descubierto bajo Saarthal y probable causa de la Noche de las Lágrimas."
+sources: ["UESP: Eye of Magnus", "The Imperial Library: Magnus", "TES V: Skyrim — Colegio de Invernalia"]
+---
+
+# El Ojo de Magnus
+
+El **Ojo de Magnus** es un artefacto de un poder sin parangón, vinculado al dios **Magnus** — el arquitecto del **Mundus** que huyó hacia **Aetherius** antes de que la Creación se completara. Su naturaleza exacta es debatida: ¿un fragmento de la Creación abandonada? ¿Una herramienta usada para diseñar el Mundus? ¿Una reliquia dejada por Magnus durante su huida? Sea cual sea su naturaleza, el Ojo contiene energía suficiente para alterar la realidad a una escala catastrófica.
+
+## Naturaleza
+
+### Apariencia
+
+El Ojo se presenta como una inmensa esfera giratoria de cristal y energía, cubierta de glifos móviles en un idioma desconocido — posiblemente la lengua original de la Creación. Pulsa con una luz dorada-verdosa que parece viva.
+
+### Conexión con Magnus
+
+**Magnus** fue el arquitecto divino que diseñó los planos del Mundus para **Lorkhan**. Cuando comprendió que la Creación drenarían la divinidad de los Et'Ada participantes, huyó — perforando un agujero en la realidad que se convirtió en el **Sol** (la mayor brecha hacia Aetherius). Los Magna-Ge, sus seguidores, abrieron agujeros más pequeños — las estrellas.
+
+El Ojo sería un vestigio de ese momento primordial:
+- Quizás los «planos del Mundus» en sí mismos, abandonados en el lugar de construcción
+- Quizás una herramienta de creación que Magnus no pudo llevarse en su huida
+- Quizás un fragmento del poder divino que Magnus abandonó
+
+### Poder
+
+El Ojo canaliza una cantidad teóricamente infinita de **magicka** — una conexión directa con Aetherius, fuente de toda magia. Quien sepa utilizarlo dispondría de un poder suficiente para:
+- Alterar las leyes fundamentales de la realidad
+- Reescribir la naturaleza de un ser o de un lugar
+- Rivalizar potencialmente con los propios Divinos
+
+## Historia
+
+### Enterramiento bajo Saarthal
+
+El Ojo fue descubierto bajo **Saarthal** — el primer asentamiento humano de Bordeciel, fundado por los Atmoraneses al comienzo de la Era Merética. Se ignora si fue ocultado allí deliberadamente o si se encontraba desde la Creación.
+
+### La Noche de las Lágrimas
+
+La **Noche de las Lágrimas** — el ataque sorpresa de los **Elfos de las Nieves** contra Saarthal que mató a casi todos sus habitantes — podría haber sido motivado por el descubrimiento del Ojo. La versión oficial nórdica presenta el ataque como un genocidio gratuito, pero las pruebas sugieren que los Elfos de las Nieves buscaban apoderarse del Ojo o impedir que los humanos lo utilizaran.
+
+Si esta teoría es correcta, el Ojo de Magnus es indirectamente responsable del **Regreso** de Ysgramor y de la guerra de exterminio contra los Elfos de las Nieves — un conflicto que remodeló Bordeciel para siempre.
+
+### El Olvido
+
+Tras la Noche de las Lágrimas, el conocimiento del Ojo se perdió. Las ruinas de Saarthal fueron enterradas y olvidadas durante milenios. El Ojo durmió bajo tierra, inerte pero no menos poderoso.
+
+### Redescubrimiento (4E 201)
+
+En **4E 201**, unas excavaciones arqueológicas llevadas a cabo por el **Colegio de Invernalia** bajo la dirección de **Tolfdir** sacaron a la luz las ruinas de Saarthal — y el Ojo. El artefacto fue llevado al Colegio para su estudio.
+
+## La Crisis de Ancano
+
+### El Agente del Thalmor
+
+**Ancano**, un **Justiciario del Thalmor** presente oficialmente en el Colegio como «consejero», reconoció de inmediato el poder del Ojo. Se apoderó de él e intentó utilizarlo con un objetivo desconocido — posiblemente relacionado con las ambiciones metafísicas del **Dominio Aldmeri** respecto a las Torres y la disolución del Mundus.
+
+### Consecuencias
+
+La activación del Ojo por parte de Ancano provocó:
+- Enormes anomalías mágicas en toda la región de Invernalia
+- La aparición de criaturas mágicas hostiles
+- Una inestabilidad de la realidad local
+- La muerte del Archimago **Savos Aren**
+
+### La Intervención de los Psíjicos
+
+La **Orden Psíjica** — la organización de magos más antigua de Tamriel, habitualmente aislacionista — intervino directamente. Habían previsto la crisis y guiaron en secreto a un mago del Colegio hacia el **Báculo de Magnus**, el único artefacto capaz de controlar el Ojo.
+
+Tras la derrota de Ancano, los Psíjicos tomaron posesión del Ojo:
+
+> *Este artefacto es demasiado peligroso para permanecer aquí. Demasiado peligroso para permanecer en ningún lugar, en verdad. Nosotros nos haremos cargo de su custodia.*
+
+El Ojo desapareció con ellos en su isla de **Artaeum** — retirada del plano mortal e inaccesible a las ambiciones de las naciones.
+
+## Significado Cosmológico
+
+El Ojo de Magnus es uno de los escasos artefactos capaces de modificar la propia estructura del **Aurbis**. Su existencia demuestra que la Creación del Mundus dejó tras de sí «herramientas» — reliquias del proceso creativo suficientemente poderosas para deshacer lo que fue hecho. En un mundo donde las Torres anclan la realidad, y donde facciones buscan desactivarlas, el Ojo representa una amenaza (o una promesa) de una magnitud aterradora.
