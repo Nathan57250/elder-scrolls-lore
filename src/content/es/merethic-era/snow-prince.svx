@@ -1,0 +1,50 @@
+---
+title: "El Príncipe de las Nieves"
+slug: "snow-prince"
+era: "merethic-era"
+category: "personnages"
+tags: ["principe-de-las-nieves", "falmer", "elfos-de-las-nieves", "batalla-de-moesring", "cielo-de-invierno"]
+timelineYear: -600
+summary: "El Príncipe de las Nieves fue el último gran héroe de los Falmer, caído en la Batalla del Pozo de Moesring, marcando el fin de la civilización élfica en Cielo de Invierno."
+sources: ["Fall of the Snow Prince", "Song of the Return", "Before the Ages of Man"]
+---
+
+## El Último Campeón de los Falmer
+
+El **Príncipe de las Nieves** sigue siendo una de las figuras más trágicas y heroicas de la Era Merética. Último gran caudillo de los **Falmer** — los elfos de las nieves que habitaban **Cielo de Invierno** antes de la llegada de los Atmoranos —, encarnó la resistencia desesperada de un pueblo ante su extinción. Su verdadero nombre se ha perdido en la bruma del tiempo, pues incluso las crónicas nórdicas que relatan su muerte solo lo mencionan por su título.
+
+Los Falmer antes de su caída no eran las criaturas degeneradas y ciegas que se encuentran en las profundidades de la tierra en la **Cuarta Era**. Eran un pueblo orgulloso y civilizado, dotado de una cultura refinada y un dominio sin igual de la magia helada. Sus ciudades de cristal y hielo salpicaban las cimas de Cielo de Invierno, y su arte — del que subsisten apenas algunos fragmentos — revela una sensibilidad estética de notable delicadeza.
+
+El Príncipe de las Nieves era el más grande de estos elfos, tanto en estatura como en capacidad marcial. Las sagas nórdicas, poco inclinadas a elogiar a sus enemigos, lo describen con un respeto mezclado de temor. Su lanza encantada podía helar la sangre en las venas de un guerrero, y su armadura, forjada en un metal desconocido para los Hombres, brillaba como la nieve bajo el sol.
+
+## La Guerra Contra los Atmoranos
+
+La llegada de los **Atmoranos** a Cielo de Invierno, liderados por **Ysgramor** y sus **Quinientos Compañeros**, desató una guerra de exterminio contra los Falmer. Este conflicto, que los Nórdicos llaman el **Retorno**, no fue la primera confrontación entre ambos pueblos. Los Falmer ya habían atacado la colonia de **Saarthal** durante la **Noche de las Lágrimas**, masacrando a casi todos los colonos humanos.
+
+Ysgramor regresó de Atmora con un ejército vengador, y la guerra que siguió fue implacable. Los Atmoranos, impulsados por una ira vengativa y armados con su poder vocal — el **Thu'um** —, repelieron a los Falmer batalla tras batalla. Las ciudades de cristal cayeron una tras otra, y el pueblo de las nieves se vio obligado a retroceder cada vez más hacia el norte.
+
+El Príncipe de las Nieves intentó reunir a los dispersos clanes Falmer para una última resistencia organizada. Su reputación de guerrero invencible atrajo a los supervivientes de docenas de batallas perdidas. Por primera vez desde el inicio del conflicto, los Falmer formaron un ejército unificado bajo un mando único, dispuesto a enfrentarse a los Compañeros en un combate decisivo.
+
+## La Batalla del Pozo de Moesring
+
+La **Batalla del Pozo de Moesring**, que tuvo lugar en la isla de **Solstheim**, fue el último gran enfrentamiento entre los Falmer y los Atmoranos. El Príncipe de las Nieves desplegó allí una ferocidad y una habilidad marcial que asombraron incluso a los guerreros más curtidos de los Compañeros. Su lanza segaba las filas nórdicas con una precisión mortal, y la magia helada que manejaba convertía escuadrones enteros en estatuas de escarcha.
+
+Las crónicas nórdicas relatan que el Príncipe de las Nieves mató personalmente a decenas de Compañeros ese día, entre ellos varios capitanes renombrados. Su sola presencia en el campo de batalla galvanizaba a los Falmer y sembraba la duda entre las filas enemigas. Por un momento, pareció que los elfos de las nieves podrían realmente repeler al invasor.
+
+Pero la batalla cambió cuando una joven nórdica llamada **Finna** — apenas de doce años según las sagas — arrojó el hacha de su madre fallecida hacia el Príncipe de las Nieves. El arma lo golpeó de lleno en el rostro, atravesando su yelmo encantado. El gran campeón de los Falmer cayó, y con él se derrumbó la moral de todo su ejército.
+
+## La Derrota de los Falmer
+
+La muerte del Príncipe de las Nieves provocó un derrumbe psicológico inmediato entre las filas Falmer. Su última esperanza se había extinguido ante sus ojos. La retirada se convirtió en desbandada, y luego en masacre. Los Compañeros persiguieron a los supervivientes sin piedad, determinados a eliminar la amenaza élfica de una vez por todas.
+
+Los que escaparon de la carnicería no tuvieron más remedio que esconderse. Algunos grupos intentaron huir hacia otras tierras, pero los Atmoranos ya controlaban las rutas marítimas. Otros se adentraron en cuevas y pasadizos subterráneos, buscando refugio en las tinieblas de la tierra. Allí encontraron a los **Dwemer**, quienes les ofrecieron asilo a un precio terrible.
+
+Los **Dwemer** accedieron a proteger a los Falmer supervivientes, pero a cambio los esclavizaron. Los obligaron a consumir hongos tóxicos que los fueron dejando ciegos progresivamente y los alimentaron con sustancias que, generación tras generación, los degeneraron en criaturas bestiales. La orgullosa raza del Príncipe de las Nieves quedó reducida a animales serviles — un destino quizás peor que la extinción.
+
+## La Tumba y el Legado
+
+El cuerpo del Príncipe de las Nieves recibió un trato inusualmente respetuoso por parte de los victoriosos Nórdicos. Reconociendo el valor de su adversario, le concedieron una sepultura digna, enterrándolo con sus armas y armadura en un túmulo en **Solstheim**. Este gesto honra la tradición nórdica según la cual un enemigo valiente merece respeto incluso en la muerte.
+
+Su lanza — la **Lanza del Príncipe de las Nieves** — fue conservada como reliquia, un trofeo pero también un homenaje al poder de quien la empuñaba. El arma conserva todavía hoy sus encantamientos de escarcha, testimonio del arte mágico de los Falmer en su apogeo. Quienes la recuperaron en la Cuarta Era pudieron medir el poder que los elfos de las nieves habían poseído en otro tiempo.
+
+La historia del Príncipe de las Nieves es la de todo un pueblo condensado en un solo ser. Su grandeza fue la de los Falmer en su cénit; su caída fue la de toda su civilización. Y en algún lugar de las profundidades de la tierra, sus descendientes degenerados se arrastran en la oscuridad, incapaces de recordar que fueron una vez un pueblo de luz, guiado por un príncipe cuya valentía impresionaba incluso a sus enemigos mortales.

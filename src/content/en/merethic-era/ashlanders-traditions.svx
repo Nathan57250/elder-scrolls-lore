@@ -1,0 +1,89 @@
+---
+title: "Ashlander Traditions and the Dunmer Ancestor Cult"
+slug: "ashlanders-traditions"
+era: "merethic-era"
+category: "religion"
+tags: ["ashlanders", "ancestor-cult", "azura", "boethiah", "mephala", "wise-women", "tribes"]
+timelineYear: -1000
+summary: "The four Ashlander tribes of Vvardenfell, their oral traditions, the ancestor cult and the Good Daedra, and the preservation of the ancient Chimer religion."
+sources: ["UESP: Ashlanders", "The Imperial Library: Ashland Hymns", "TES III: Morrowind — Ashland Tribes"]
+---
+
+# Ashlander Traditions and the Dunmer Ancestor Cult
+
+The **Ashlanders** are the nomadic tribes of **Morrowind** who preserved the ancient religion of the **Chimeri** for more than three millennia, resisting the doctrine imposed by the **Tribunal Temple**. Living in the ashen wastelands of **Vvardenfell**, they kept intact the ancestor cult and the veneration of the **Three Good Daedra** — the original faith of the people of **Veloth**.
+
+## The Four Tribes of Vvardenfell
+
+### Urshilaku
+
+The most respected tribe, guardians of the **Nerevarine Prophecy**. Their camp lies in the ashen lands of northwestern Vvardenfell. Wise Woman **Nibani Maesa** was the one who recognized the true Nerevarine in 3E 427. The Urshilaku regard themselves as the direct heirs of Nerevar's lineage.
+
+### Ahemmusa
+
+The most peaceful tribe, dwelling along the northeastern coast near the ruins of a Telvanni tower. Weakened by proximity to the creatures of the Blight, they are the closest to extinction. Their tradition centers on communion with the spirits of the sea and the wind.
+
+### Erabenimsun
+
+The most warlike tribe, camped in the volcanic mountains of central Vvardenfell. They prize martial strength and the hunting of dangerous creatures. Their recognition of the Nerevarine required the defeat in combat of their gulakhan (champion).
+
+### Zainab
+
+The most trade-oriented tribe, bartering with the Great Houses while maintaining their cultural independence. Their camp sits in the eastern ash plains. Pragmatic by nature, their ashkhan demanded a "worthy gift" rather than a martial trial.
+
+## The Ancestral Religion
+
+### The Three Good Daedra
+
+Before the Tribunal, the Chimeri venerated three Daedric Princes as protectors:
+
+- **Azura**: mother of the Chimeri, keeper of dusk and dawn, herald of change. She cursed the Chimeri into Dunmer after the Tribunal's betrayal — a punishment the Ashlanders accept as just.
+- **Boethiah**: prince of plots and the overthrow of false powers. It was Boethiah who convinced Veloth to leave Aldmeris and the decadent Aldmer.
+- **Mephala**: weaver of secrets, patron of sex and murder. According to Ashlander tradition, Mephala taught the Chimeri the art of the Morag Tong — ritualized assassination.
+
+### The Ancestor Cult
+
+The heart of Ashlander spirituality is the **veneration of ancestors**:
+
+- Each tribe maintains an **ancestral tomb** where the bones of the ancestors rest.
+- The spirits of the dead protect the living and counsel the Wise Women in dreams.
+- Necromancy is the worst blasphemy — it profanes and chains free spirits.
+- Funerary objects must never be moved, on pain of angering the spirit.
+
+> *We do not pray to the dead. We listen to them. They walk in the dream world and see what we cannot see.*
+
+### The Good Daedra vs. the Tribunal
+
+For the Ashlanders, the rise of the Tribunal was a triple crime:
+1. **Betrayal**: the Three violated their oath made to Nerevar.
+2. **Theft**: they stole divinity from the Heart of Lorkhan rather than earning it.
+3. **Usurpation**: they replaced the true protectors (Azura, Boethiah, Mephala) with themselves.
+
+## The Wise Women
+
+### Role
+
+The **Wise Women** are the spiritual guardians of the tribes:
+- Interpreters of dreams and omens.
+- Healers through plants and ancestral magic.
+- Custodians of oral tradition — history, prophecies, songs.
+- Spiritual advisors to the ashkhan (tribal chief).
+- Mediators between the living and the spirits of the ancestors.
+
+### Transmission of Knowledge
+
+Ashlander knowledge is passed down exclusively by oral tradition. The Wise Women memorize genealogies stretching back to the Merethic Era, prophecies word for word, and complex rituals — all without any written record. This oral tradition is what allowed the memory of the Tribunal's betrayal to survive despite millennia of persecution by the Ordinators.
+
+## Persecution and Survival
+
+The **Tribunal Temple** persecuted the Ashlanders throughout its existence:
+- Destruction of camps that were too visible.
+- Murder of Wise Women who preached the Nerevarine Prophecy.
+- Attempts at forced conversion.
+- Economic and social marginalization.
+
+The Ashlanders survived thanks to their nomadism, their intimate knowledge of the inhospitable ashen wastes, and their determination to maintain the ancestral faith.
+
+## Vindication
+
+The fulfillment of the Nerevarine Prophecy in 3E 427 and the subsequent fall of the Tribunal proved the Ashlanders right after three thousand years of resistance. The **New Temple** finally recognized the legitimacy of their tradition, restoring the cult of the Good Daedra as the official religion of Morrowind.

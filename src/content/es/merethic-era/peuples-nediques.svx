@@ -1,0 +1,88 @@
+---
+title: "Los Pueblos Nédicos"
+slug: "peuples-nediques"
+era: "merethic-era"
+category: "races"
+tags: ["nedes", "humanos", "proto-imperiales", "kothringi", "keptu", "atmora", "alessia", "aylieds"]
+timelineYear: -2000
+summary: "Los Nedes — poblaciones humanas proto-imperiales de Tamriel antes de la era de Alessia, ancestros de los Imperiales y los Bretones, esclavizados por los Aylieds."
+sources: ["UESP: Nedes", "The Imperial Library: Frontier, Conquest", "ESO: Nedic Peoples"]
+---
+
+# Los Pueblos Nédicos
+
+Los **Nedes** (o pueblos nédicos) son las poblaciones humanas que habitaban **Tamriel** antes de la revuelta de **Alessia** y la fundación del primer Imperio humano. Contrariamente a la idea preconcebida de un pueblo monolítico, los Nedes formaban un mosaico de culturas distintas, unidas principalmente por su condición común: la esclavitud bajo los **Aylieds** (Elfos Salvajes) de Cyrodiil.
+
+## Orígenes Disputados
+
+### La Tesis Atmorana
+
+La teoría tradicional, sostenida por los estudiosos imperiales, afirma que todos los humanos de Tamriel descienden de migrantes llegados desde **Atmora** — el continente helado del norte. Según esta visión, los Nedes serían simplemente Atmoranos llegados antes que **Ysgramor**, que habrían migrado hacia el sur hasta las llanuras de Cyrodiil.
+
+### La Tesis Autóctona
+
+Descubrimientos más recientes (especialmente por parte de arqueólogos de la Segunda Era) sugieren una alternativa radical: algunos Nedes podrían ser **autóctonos** de Tamriel — presentes desde tiempos inmemoriales, sin ningún vínculo con Atmora. Esta tesis explicaría las considerables diferencias físicas y culturales entre Nedes y Atmoranos.
+
+### La Verdad Probable
+
+La verdad es probablemente una mezcla de ambas: algunos grupos nédicos descienden de antiguas oleadas migratorias atmoranas, mientras que otras poblaciones humanas se desarrollaron de forma independiente en Tamriel. Milenios de mestizaje convirtieron la distinción académica en algo irrelevante.
+
+## La Diversidad de los Pueblos Nédicos
+
+### Los Nedes de Cyrodiil
+
+El grupo numéricamente más importante, esclavizado por los Aylieds en la región de la **Torre de Oro Blanco**. Se convirtieron en los ancestros directos de los **Imperiales** tras la revuelta alessiana. Su cultura bajo la esclavitud está escasamente documentada — los Aylieds destruyeron sistemáticamente sus tradiciones.
+
+### Los Kothringi
+
+Pueblo nédico del **Pantano Negro** (Black Marsh), los **Kothringi** eran conocidos por su piel plateada y reflectante y su adaptación a los pantanos. Coexistían con los **Argonianos** y el **Hist** en una relación compleja. Los Kothringi fueron diezmados por la plaga knahatiana en el año 2E 560 — una de las escasas extinciones completas de un pueblo humano en Tamriel.
+
+### Los Keptu
+
+Pueblo misterioso mencionado en las inscripciones más antiguas, los **Keptu** parecen haber sido un grupo nédico del norte de Cyrodiil. No se sabe casi nada de ellos — fueron asimilados o exterminados tan tempranamente que no dejaron más que rastros arqueológicos.
+
+### Los Perena
+
+Un grupo nédico de **Martelfell** anterior a la llegada de los **Rougegardes** desde **Yokuda**. Fueron absorbidos o desplazados por los Ra Gada durante su conquista de la provincia.
+
+### Los Proto-Bretones
+
+En la región de **Alto Risco**, los Nedes se mezclaron extensamente con los **Direnni** (un clan Altmer) durante siglos. Este mestizaje humano-élfico dio origen a los **Bretones** — el único pueblo humano con una herencia élfica significativa, lo que explica su afinidad natural por la magia.
+
+## La Esclavitud Ayleid
+
+### Condiciones
+
+Los Aylieds redujeron a los Nedes de Cyrodiil a la esclavitud durante milenios:
+- Trabajo forzado en la construcción de ciudades y templos aylieds.
+- Sacrificios humanos en rituales daédricos (los Aylieds adoraban a **Meridia**, **Molag Bal** y otros Daédra).
+- Experimentaciones mágicas con los esclavos.
+- Cría selectiva para producir especímenes «útiles».
+- Destrucción sistemática de la cultura y la religión nédicas.
+
+### El Horror Específico
+
+Las fuentes dan cuenta de prácticas especialmente crueles:
+
+> *Jardines de carne, donde los esclavos eran cultivados como plantas. Esculturas de huesos vivos. Lámparas alimentadas por grasa humana que ardían eternamente en los pasillos de mármol blanco.*
+
+Esta crueldad sistémica explica la violencia de la revuelta alessiana y el odio duradero de los humanos hacia los elfos en la tradición imperial.
+
+## La Revuelta de Alessia
+
+### La Liberación
+
+En el año **1E 243**, una esclava nédica llamada **Alessia** (la «Reina de los Esclavos») unificó a los pueblos nédicos en una rebelión coordinada. Con la ayuda de:
+- **Pelinal Whitestrake**: un guerrero divino de una violencia aterradora.
+- **Morihaus**: un semidiós toro, hijo de Kyne.
+- Los Nórdicos del linaje de Ysgramor, que enviaron refuerzos.
+
+Los Nedes vencieron a los Aylieds y fundaron el primer Imperio humano, centrado en la **Torre de Oro Blanco**.
+
+### Transformación en Imperiales
+
+Tras la liberación, los Nedes de Cyrodiil se convirtieron progresivamente en los **Imperiales** — un pueblo definido menos por la etnia que por la civilización. La cultura imperial absorbió elementos aylieds (arquitectura, magia), nórdicos (religión de los Divinos) y nédicos originales para formar algo completamente nuevo.
+
+## Legado
+
+Los Nedes nos recuerdan que las «razas» de Tamriel no son categorías fijas sino el resultado de procesos históricos. Los Imperiales, los Bretones y, en menor medida, todos los pueblos humanos de Tamriel llevan en sí el legado nédico — el de un pueblo que sobrevivió a milenios de opresión para fundar la civilización dominante del continente.

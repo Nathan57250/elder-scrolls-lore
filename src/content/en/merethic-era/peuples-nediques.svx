@@ -1,0 +1,88 @@
+---
+title: "The Nedic Peoples"
+slug: "peuples-nediques"
+era: "merethic-era"
+category: "races"
+tags: ["nedes", "humans", "proto-imperials", "kothringi", "keptu", "atmora", "alessia", "ayleids"]
+timelineYear: -2000
+summary: "The Nedes — proto-Imperial human populations of Tamriel before the era of Alessia, ancestors of the Imperials and Bretons, enslaved by the Ayleids."
+sources: ["UESP: Nedes", "The Imperial Library: Frontier, Conquest", "ESO: Nedic Peoples"]
+---
+
+# The Nedic Peoples
+
+The **Nedes** (or Nedic peoples) are the human populations who inhabited **Tamriel** before the revolt of **Alessia** and the founding of the first human Empire. Contrary to the common assumption of a monolithic people, the Nedes formed a mosaic of distinct cultures, united mainly by their shared condition: enslavement by the **Ayleids** (Wild Elves) of Cyrodiil.
+
+## Disputed Origins
+
+### The Atmoran Thesis
+
+The traditional theory, supported by Imperial scholars, holds that all of Tamriel's humans are descended from migrants who came from **Atmora** — the frozen continent to the north. According to this view, the Nedes were simply Atmorans who arrived before **Ysgramor**, having migrated south into the plains of Cyrodiil.
+
+### The Indigenous Thesis
+
+More recent discoveries (notably by archaeologists of the Second Era) suggest a radical alternative: some Nedes may have been **indigenous** to Tamriel — present since time immemorial, with no connection to Atmora. This thesis would account for the considerable physical and cultural differences between Nedes and Atmorans.
+
+### The Likely Truth
+
+The truth is probably a mixture of both: some Nedic groups descend from ancient Atmoran migratory waves, while other human populations developed independently on Tamriel. Millennia of intermingling rendered the academic distinction moot.
+
+## The Diversity of the Nedic Peoples
+
+### The Nedes of Cyrodiil
+
+The numerically largest group, enslaved by the Ayleids in the region of the **White-Gold Tower**. They became the direct ancestors of the **Imperials** after the Alessian revolt. Their culture under slavery is poorly documented — the Ayleids systematically destroyed their traditions.
+
+### The Kothringi
+
+A Nedic people of **Black Marsh**, the **Kothringi** were known for their reflective silver skin and their adaptation to the swamps. They coexisted with the **Argonians** and the **Hist** in a complex relationship. The Kothringi were decimated by the Knahaten Flu in 2E 560 — one of the rare complete extinctions of a human people in Tamriel.
+
+### The Keptu
+
+A mysterious people mentioned in the oldest inscriptions, the **Keptu** appear to have been a Nedic group from northern Cyrodiil. Almost nothing is known of them — they were either assimilated or exterminated so early that they left only archaeological traces.
+
+### The Perena
+
+A Nedic group from **Hammerfell** predating the arrival of the **Redguards** from **Yokuda**. They were absorbed or displaced by the Ra Gada during their conquest of the province.
+
+### The Proto-Bretons
+
+In the region of **High Rock**, the Nedes intermingled extensively with the **Direnni** (an Altmer clan) over centuries. This human-elven mixing gave rise to the **Bretons** — the only human people with a significant elven heritage, which explains their natural affinity for magic.
+
+## Ayleid Slavery
+
+### Conditions
+
+The Ayleids reduced the Nedes of Cyrodiil to slavery for millennia:
+- Forced labor in the construction of Ayleid cities and temples.
+- Human sacrifices in Daedric rituals (the Ayleids worshipped **Meridia**, **Molag Bal**, and other Daedra).
+- Magical experimentation on slaves.
+- Selective breeding to produce "useful" specimens.
+- Systematic destruction of Nedic culture and religion.
+
+### The Specific Horror
+
+Sources record particularly cruel practices:
+
+> *Gardens of flesh, where slaves were cultivated like plants. Sculptures of living bone. Lamps fed by human fat burning eternally in the white marble corridors.*
+
+This systematic cruelty explains the violence of the Alessian revolt and the lasting hatred of humans for elves in the Imperial tradition.
+
+## The Revolt of Alessia
+
+### The Liberation
+
+In **1E 243**, a Nedic slave named **Alessia** (the "Slave Queen") unified the Nedic peoples in a coordinated rebellion. With the help of:
+- **Pelinal Whitestrake**: a divine warrior of terrifying violence.
+- **Morihaus**: a demi-god bull, son of Kyne.
+- The Nords of Ysgramor's line, who sent reinforcements.
+
+The Nedes defeated the Ayleids and founded the first human Empire, centered on the **White-Gold Tower**.
+
+### Transformation into Imperials
+
+After the liberation, the Nedes of Cyrodiil gradually became the **Imperials** — a people defined less by ethnicity than by civilization. Imperial culture absorbed elements from the Ayleids (architecture, magic), from the Nords (religion of the Divines), and from the original Nedic traditions to form something entirely new.
+
+## Legacy
+
+The Nedes remind us that the "races" of Tamriel are not fixed categories but the products of historical processes. The Imperials, the Bretons, and to a lesser degree all human peoples of Tamriel carry within them the Nedic heritage — that of a people who survived millennia of oppression to found the continent's dominant civilization.

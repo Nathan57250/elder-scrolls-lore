@@ -1,0 +1,56 @@
+---
+title: "Atmora"
+slug: "atmora"
+era: "merethic-era"
+category: "geographie"
+tags: ["atmora", "nords", "atmorans", "ysgramor", "frozen-continent", "migration", "merethic"]
+timelineYear: -2000
+summary: "Atmora, the frozen continent north of Tamriel, the original homeland of humanity before the great migrations to Skyrim."
+sources: ["Songs of the Return", "Before the Ages of Man", "Pocket Guide to the Empire: Atmora", "Frontier, Conquest, and Accommodation"]
+---
+
+## The Northern Continent
+
+**Atmora** is a continent situated north of Tamriel, separated from Skyrim by the **Sea of Ghosts**. Once a fertile and populated land, it became over millennia a frozen, uninhabitable wasteland, locked in an eternal winter that made any form of civilized life impossible. Atmora is the original homeland of humanity — or at least of the Nordic ancestors of Tamriel's human peoples.
+
+The name "Atmora" is thought to mean "Ancient Wood" or "Ancient Forest" in a long-forgotten language — an ironic name for a continent now stripped of all vegetation, prisoner of perpetual glaciation. The last expeditions to Atmora in the early First Era found only frozen ruins and corpses locked in the ice.
+
+## The Atmoran Civilization
+
+Before its glaciation, Atmora was home to a complex human civilization. The **Atmorans** lived in clan-based societies organized around warlords and oral traditions. They were accomplished sailors, formidable warriors, and skilled craftsmen whose metalwork reached a remarkable level for the era.
+
+Atmoran culture was deeply tied to nature and animal spirits. The worship of totemic animals — the hawk, the serpent, the butterfly, the dragon, the bear, and the wolf — structured both their religion and their social organization. These totems appear in later Nordic culture in the form of the gods of the Nordic pantheon: **Kyne** (hawk), **Orkey** (serpent), **Dibella** (butterfly), and others.
+
+## The Causes of Glaciation
+
+The exact reasons for Atmora's glaciation remain debated by scholars. Some theories propose a natural climate shift — a gradual cooling over millennia that transformed the continent into a desert of ice. Other, more esoteric hypotheses suggest a supernatural cause: a curse, a collapse of dimensional stability, or a consequence of the Convention that created Mundus.
+
+A particularly troubling theory proposes that Atmora did not simply freeze but became suspended in time — that the continent is literally trapped in an eternal instant, neither living nor dead, but suspended. The rare explorers who returned from it described scenes frozen like paintings: combatants immobilized mid-battle, birds arrested in flight, the sea itself solidified into permanent waves.
+
+## Migrations Toward Tamriel
+
+The migrations from Atmora to Tamriel unfolded over centuries, even millennia. The earliest waves, long before the Merethic Era, brought the ancestors of the **Nedes** — the proto-humans who settled throughout Tamriel. These early migrations are poorly documented and are subject to considerable academic speculation.
+
+The most celebrated migration is that of **Ysgramor** and his **Five Hundred Companions**, who crossed the Sea of Ghosts to conquer Skyrim after the massacre at **Saarthal** by the Snow Elves. This expedition, documented in the **Songs of the Return**, is considered the founding moment of Nordic civilization on Tamriel.
+
+## Ysgramor and the Return
+
+Legend holds that **Ysgramor** was among the first Atmorans to settle in Tamriel, founding the colony of **Saarthal** in Skyrim. When the **Falmer** (Snow Elves) massacred the colony in an event known as the **Night of Tears** — motivated, according to some sources, by the discovery of the **Eye of Magnus** beneath the city — Ysgramor fled to Atmora with his sons.
+
+He returned at the head of an army of five hundred warriors, the **Companions**, and launched a campaign of extermination against the Snow Elves that fundamentally transformed the demographics of Skyrim. The Falmer were driven from the surface, forced to seek refuge underground with the **Dwemer** — a choice that led to their degeneration.
+
+## The Last Contacts
+
+During the early centuries of the First Era, ships continued to cross the Sea of Ghosts from Atmora, bringing refugees fleeing the growing cold. These last waves of migration were composed of increasingly desperate clans, driven out by a climate that had become truly uninhabitable.
+
+The last known expeditions to Atmora took place around 1E 68, when the ship of Captain **Yngol** — Ysgramor's son — was lost in a storm while attempting the crossing. After that date, the journey became so perilous that it effectively ceased. Atmora was abandoned to its icy fate, and the memory of the ancestral continent gradually faded into legend.
+
+## The Cultural Legacy
+
+Atmora's influence on the Nordic culture of Skyrim is immense and enduring. Warrior traditions, funerary rites (notably the burial mounds), massive stone architecture, ancestor worship, and the importance placed on honor and physical strength — all of these elements find their roots in Atmoran civilization.
+
+The draconic language itself — **Dovahzul** — may have its origins in Atmora, where dragons reigned even before their dominion over Skyrim. The **Dragon Cult**, which enslaved the first Nords upon their arrival on Tamriel, possibly reproduced a power structure already established on the continent of origin.
+
+## The Persistent Mystery
+
+Atmora remains one of the great mysteries of Nirn. An entire continent, frozen and silent, whose current state no one knows with certainty. Do the remains of civilization still lie beneath the ice? Do souls frozen in time await an impossible liberation? Or has the continent simply ceased to exist, swallowed by the same void that slowly consumes the edges of Creation? These questions may never be answered.

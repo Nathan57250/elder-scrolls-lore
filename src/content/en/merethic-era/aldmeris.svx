@@ -1,0 +1,58 @@
+---
+title: "Aldmeris"
+slug: "aldmeris"
+era: "merethic-era"
+category: "geographie"
+tags: ["aldmeris", "aldmer", "elves", "lost-continent", "origins", "mythology", "altmer"]
+timelineYear: -2500
+summary: "Aldmeris, the lost continent from which all Elves are said to originate, whose very existence is debated between myth and historical reality."
+sources: ["Before the Ages of Man", "Pocket Guide to the Empire: The Wild Regions", "The Monomyth", "Father of the Niben"]
+---
+
+## The Continent of Origins
+
+**Aldmeris** — sometimes rendered as "Old Ehlnofey" in certain traditions — is the mythical continent from which, according to elven traditions, all mer (elven) peoples originated. Located somewhere to the south or southwest of Tamriel — if indeed it ever existed physically — Aldmeris represents for the Elves what **Atmora** represents for the Nords: a lost ancestral homeland, the source of all civilization.
+
+Unlike Atmora, whose existence is confirmed by physical evidence (expeditions, artifacts, frozen ruins), Aldmeris has never been found. No expedition has returned with tangible proof of its existence, and attempts to navigate toward its supposed coordinates have led only to empty oceans or unexplained disappearances.
+
+## The Academic Debate
+
+The question of Aldmeris's reality has divided Tamrielic scholars for millennia. Three main positions contend in this debate.
+
+The **literalists** — primarily Altmer scholars — maintain that Aldmeris existed as a genuine physical continent, that the **Aldmer** lived there in a perfect society, and that they left it following an exodus motivated by some catastrophe or decline. In their view, Aldmeris may still exist somewhere, unreachable but real.
+
+The **mythists** interpret Aldmeris as a metaphor — a racial memory of the Elves' original divine state before the Creation of Mundus. In this reading, "leaving Aldmeris" symbolizes the fall of the divine spirits (**et'Ada**) into mortality at the time of the Convention. Aldmeris would thus be not a geographic place but a lost state of being.
+
+The **synthesists** propose an intermediate position: Aldmeris may have existed, but not in the terms that elven traditions describe it. A real continent was transformed by millennia of mythologization into a fantasized paradise that never matched historical reality.
+
+## The Aldmer Traditions
+
+According to Altmer tradition — the most ardent defenders of Aldmeris's reality — the **Aldmer** (the "First Elves") lived on this continent in a perfectly ordered society, organized according to divine principles inherited directly from the **Aedra**. Every Aldmer knew his place, every family traced its lineage back to the creator-gods, and magic was an integral part of daily existence.
+
+The exodus from Aldmeris is said to have unfolded in several waves. The first to leave were the ancestors of the **Altmer**, who settled on the **Summerset Isles**. Other groups established themselves elsewhere on Tamriel, gradually becoming the **Bosmer** (Valenwood), the **Dunmer** (Morrowind), the **Orsimer** (Orcs), and the **Dwemer** (the underground ones) — each group adapting to its new environment and diverging from the common stock.
+
+## Descriptions of the Continent
+
+The few texts that claim to describe Aldmeris depict it as an earthly paradise: islands with crystal shores bathed in warm seas, forests where the trees sang, cities of solidified light that made later mortal constructions look crude by comparison. Magic flowed as naturally as water, and death itself was unknown — the Aldmer being still close enough to their divine nature to escape mortality.
+
+These descriptions, obviously idealized, correspond to what Imperial psychologists call a "nostalgic projection" — the tendency to embellish a lost past until it becomes unrecognizable. The Aldmeris of the texts suspiciously resembles what the Altmer would wish their present society to be.
+
+## The Aetherius Fragment Hypothesis
+
+A heterodox theory proposes that Aldmeris was never a physical continent on Nirn but rather a **fragment of Aetherius** — a piece of the divine plane that had temporarily anchored itself to the mortal world before detaching and returning to the realm of the gods. This hypothesis would simultaneously explain why Aldmeris cannot be found (it is no longer on Nirn) and why traditions describe it as a place of divine perfection (it never truly belonged to the mortal world).
+
+This theory is vigorously rejected by Altmer authorities, since it implies that Aldmeris is irrevocably lost — a fact that Altmer culture refuses to accept. The myth of the return to Aldmeris feeds too deeply into elven identity to be abandoned.
+
+## The Connection with the Convention
+
+Within the cosmological framework of Creation, the **Convention** — the moment when the et'Ada were trapped in Mundus and forced to become mortal — marks the end of the original divine state. If Aldmeris symbolizes that pre-mortal state, then the "departure" from Aldmeris is not a geographic migration but the metaphysical Fall itself — the loss of divinity.
+
+This interpretation gives a tragic dimension to the Altmer quest for racial perfection: they are not seeking to return to a place but to recover a state of being — the divinity lost at the moment of Creation. The **Thalmor** pushes this logic to its extreme by seeking to undo Creation itself in order to restore the original state.
+
+## The Lost Expeditions
+
+Over the ages, many expeditions were launched to find Aldmeris. None succeeded. The Altmer ships that sailed south found only endless oceans, impossible storms, or simply never returned. Some scholars note that the directions indicated by different sources are contradictory — Aldmeris is placed sometimes to the south, sometimes to the west, sometimes "beyond the visible" — as if the continent refused to be located.
+
+## Cultural Significance
+
+Whether real or mythical, Aldmeris holds a central place in the elven psyche. It represents lost perfection, the golden age, the paradise before the Fall. For the **Altmer**, it justifies their claim to superiority — they are the closest descendants of Aldmeris's inhabitants. For the **Bosmer**, it explains their pact with nature — a return to a primitive but pure way of life. For the **Dunmer**, its rejection is part of their rebellious identity — they chose a new path rather than mourning the old one.

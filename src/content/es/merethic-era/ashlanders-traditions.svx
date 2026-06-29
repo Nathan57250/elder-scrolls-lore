@@ -1,0 +1,89 @@
+---
+title: "Las Tradiciones Cendrales y el Culto a los Ancestros Dunmer"
+slug: "ashlanders-traditions"
+era: "merethic-era"
+category: "religion"
+tags: ["cendrales", "culto-ancestros", "azura", "boethiah", "mephala", "mujeres-sabias", "tribus"]
+timelineYear: -1000
+summary: "Las cuatro tribus Cendrales de Vvardenfell, sus tradiciones orales, el culto a los ancestros y los Buenos Daédra, y la preservación de la antigua religión chimer."
+sources: ["UESP: Ashlanders", "The Imperial Library: Ashland Hymns", "TES III: Morrowind — Ashland Tribes"]
+---
+
+# Las Tradiciones Cendrales y el Culto a los Ancestros Dunmer
+
+Los **Cendrales** (Ashlanders) son las tribus nómadas de **Morrowind** que preservaron la antigua religión de los **Chimers** durante más de tres milenios, resistiendo la doctrina impuesta por el **Templo del Tribunal**. Viviendo en las desolaciones cenicientas de **Vvardenfell**, mantuvieron intacto el culto a los ancestros y la veneración de los **Tres Buenos Daédra** — la fe original del pueblo de **Veloth**.
+
+## Las Cuatro Tribus de Vvardenfell
+
+### Urshilaku
+
+La tribu más respetada, guardiana de la **Profecía del Nerevarino**. Su campamento se encuentra en las tierras cenicientas del noroeste de Vvardenfell. La Mujer Sabia **Nibani Maesa** fue quien reconoció al verdadero Nerevarino en el año 3E 427. Los Urshilaku se consideran herederos directos del linaje de Nerevar.
+
+### Ahemmusa
+
+La tribu más pacífica, que habita las costas del noreste cerca de las ruinas de la torre Telvanni. Debilitados por la proximidad de las criaturas del Tizón, son los que más cerca están de la extinción. Su tradición se centra en la comunión con los espíritus del mar y el viento.
+
+### Erabenimsun
+
+La tribu más guerrera, acampada en las montañas volcánicas del centro de Vvardenfell. Valoran la fortaleza marcial y la caza de criaturas peligrosas. Su reconocimiento del Nerevarino exigió la derrota en combate de su gulakhan (campeón).
+
+### Zainab
+
+La tribu más comerciante, que intercambia con las Grandes Casas manteniendo su independencia cultural. Su campamento se sitúa en las llanuras de ceniza orientales. Pragmáticos por naturaleza, su ashkhan exigió un «regalo digno» en vez de una prueba marcial.
+
+## La Religión Ancestral
+
+### Los Tres Buenos Daédra
+
+Antes del Tribunal, los Chimers veneraban a tres Príncipes Daédricos como protectores:
+
+- **Azura**: madre de los Chimers, guardiana del crepúsculo y el alba, heraldo del cambio. Maldijo a los Chimers convirtiéndolos en Dunmer tras la traición del Tribunal — un castigo que los Cendrales aceptan como justo.
+- **Boethiah**: príncipe de las conspiraciones y el derrocamiento de los falsos poderes. Fue Boethiah quien convenció a Veloth de abandonar Aldmeris y los decadentes Aldmer.
+- **Mephala**: tejedora de secretos, patrona del sexo y el asesinato. Según la tradición cendral, Mephala enseñó a los Chimers el arte de la Morag Tong — el asesinato ritualizado.
+
+### El Culto a los Ancestros
+
+El corazón de la espiritualidad cendral es la **veneración de los ancestros**:
+
+- Cada tribu mantiene una **tumba ancestral** donde reposan los huesos de sus antepasados.
+- Los espíritus de los muertos protegen a los vivos y aconsejan a las Mujeres Sabias en sueños.
+- La nigromancia es el peor de los blasfemos — profana y encadena los espíritus libres.
+- Los objetos funerarios nunca deben ser movidos, so pena de irritar al espíritu.
+
+> *No rezamos a los muertos. Los escuchamos. Caminan en el mundo de los sueños y ven lo que nosotros no podemos ver.*
+
+### Los Buenos Daédra frente al Tribunal
+
+Para los Cendrales, el ascenso del Tribunal fue un triple crimen:
+1. **Traición**: los Tres violaron su juramento hecho a Nerevar.
+2. **Robo**: tomaron la divinidad del Corazón de Lorkhan en lugar de merecerla.
+3. **Usurpación**: reemplazaron a los verdaderos protectores (Azura, Boethiah, Mephala) por ellos mismos.
+
+## Las Mujeres Sabias
+
+### Papel
+
+Las **Mujeres Sabias** son las guardianas espirituales de las tribus:
+- Intérpretes de los sueños y los presagios.
+- Sanadoras mediante plantas y magia ancestral.
+- Depositarias de la tradición oral — historia, profecías, cantos.
+- Consejeras espirituales del ashkhan (jefe de tribu).
+- Mediadoras entre los vivos y los espíritus de los ancestros.
+
+### Transmisión del Saber
+
+El conocimiento cendral se transmite exclusivamente por vía oral. Las Mujeres Sabias memorizan genealogías que se remontan a la Era Merética, profecías palabra por palabra y rituales complejos — todo ello sin ningún soporte escrito. Esta tradición oral fue lo que permitió preservar la memoria de la traición del Tribunal a pesar de milenios de persecución por parte de los Ordinadores.
+
+## Persecución y Supervivencia
+
+El **Templo del Tribunal** persiguió a los Cendrales durante toda su existencia:
+- Destrucción de los campamentos demasiado visibles.
+- Asesinato de las Mujeres Sabias que predicaban la Profecía del Nerevarino.
+- Intentos de conversión forzada.
+- Marginación económica y social.
+
+Los Cendrales sobrevivieron gracias a su nomadismo, su conocimiento íntimo de las inhóspitas tierras cenicientas y su determinación de mantener la fe ancestral.
+
+## Vindicación
+
+El cumplimiento de la Profecía del Nerevarino en el año 3E 427 y la posterior caída del Tribunal dieron la razón a los Cendrales tras tres mil años de resistencia. El **Nuevo Templo** reconoció finalmente la legitimidad de su tradición, restaurando el culto a los Buenos Daédra como religión oficial de Morrowind.

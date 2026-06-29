@@ -1,0 +1,58 @@
+---
+title: "Aldmeris"
+slug: "aldmeris"
+era: "merethic-era"
+category: "geographie"
+tags: ["aldmeris", "aldmer", "elfos", "continente-perdido", "origenes", "mitologia", "altmer"]
+timelineYear: -2500
+summary: "Aldmeris, el continente perdido del que se dice proceden todos los Elfos, cuya propia existencia está debatida entre el mito y la realidad histórica."
+sources: ["Before the Ages of Man", "Pocket Guide to the Empire: The Wild Regions", "The Monomyth", "Father of the Niben"]
+---
+
+## El Continente de los Orígenes
+
+**Aldmeris** — escrito en ocasiones como «Old Ehlnofey» en ciertas tradiciones — es el continente mítico del que, según las tradiciones élficas, procederían todos los pueblos mer (élficos). Situado en algún lugar al sur o suroeste de Tamriel — si es que alguna vez existió físicamente —, Aldmeris representa para los Elfos lo que **Atmora** representa para los Nórdicos: una patria ancestral perdida, fuente de toda civilización.
+
+A diferencia de Atmora, cuya existencia está confirmada por evidencias físicas (expediciones, artefactos, ruinas heladas), Aldmeris nunca ha sido hallado. Ninguna expedición ha regresado con pruebas tangibles de su existencia, y los intentos de navegar hacia sus supuestas coordenadas no han llevado más que a océanos vacíos o a desapariciones inexplicables.
+
+## El Debate Académico
+
+La cuestión de la realidad de Aldmeris divide a los estudiosos de Tamriel desde hace milenios. En este debate se enfrentan tres posiciones principales.
+
+Los **literalistas** — principalmente estudiosos altmer — sostienen que Aldmeris existió como continente físico, que los **Aldmer** vivían en él en una sociedad perfecta, y que lo abandonaron en un éxodo motivado por alguna catástrofe o declive. Según esta visión, Aldmeris podría seguir existiendo en algún lugar, inaccesible pero real.
+
+Los **mitistas** interpretan Aldmeris como una metáfora — un recuerdo racial del estado divino original de los Elfos antes de la Creación de Mundus. En esta lectura, «abandonar Aldmeris» simboliza la caída de los espíritus divinos (**et'Ada**) en la mortalidad durante la Convención. Aldmeris no sería un lugar geográfico sino un estado de ser perdido.
+
+Los **sintetistas** proponen una posición intermedia: Aldmeris pudo existir, pero no en los términos en que las tradiciones élficas lo describen. Un continente real fue transformado por milenios de mitologización en un paraíso fantaseado que nunca correspondió a la realidad histórica.
+
+## Las Tradiciones Aldmer
+
+Según la tradición altmer — los defensores más ardientes de la realidad de Aldmeris — los **Aldmer** (los «Primeros Elfos») vivían en este continente en una sociedad perfectamente ordenada, organizada según principios divinos heredados directamente de los **Aedra**. Cada Aldmer conocía su lugar, cada familia trazaba su linaje hasta los dioses creadores, y la magia formaba parte integrante de la existencia cotidiana.
+
+Se dice que el éxodo desde Aldmeris se desarrolló en varias oleadas. Los primeros en partir habrían sido los ancestros de los **Altmer**, que se asentaron en las **Islas Summerset**. Otros grupos se establecieron en distintos lugares de Tamriel, convirtiéndose progresivamente en los **Bosmer** (Bosque de Valenwood), los **Dunmer** (Morrowind), los **Orsimer** (Orcos) y los **Dwemer** (subterráneos) — adaptándose cada grupo a su nuevo entorno y divergiendo de la cepa común.
+
+## Descripciones del Continente
+
+Los escasos textos que pretenden describir Aldmeris lo presentan como un paraíso terrenal: islas de orillas de cristal bañadas por mares cálidos, bosques donde los árboles cantaban, ciudades de luz solidificada que hacían parecer toscas las construcciones mortales posteriores. La magia fluía con tanta naturalidad como el agua, y la muerte misma era desconocida — los Aldmer estaban aún lo bastante cerca de su naturaleza divina para escapar a la mortalidad.
+
+Estas descripciones, evidentemente idealizadas, corresponden a lo que los psicólogos imperiales llaman una «proyección nostálgica» — la tendencia a embellecer un pasado perdido hasta hacerlo irreconocible. El Aldmeris de los textos se parece sospechosamente a lo que los Altmer desearían que fuera su sociedad actual.
+
+## La Hipótesis del Fragmento de Aetherius
+
+Una teoría heterodoxa propone que Aldmeris nunca fue un continente físico en Nirn, sino un **fragmento de Aetherius** — un pedazo del plano divino que se había anclado temporalmente al mundo mortal antes de desprenderse y regresar al reino de los dioses. Esta hipótesis explicaría a la vez por qué Aldmeris no puede encontrarse (ya no está en Nirn) y por qué las tradiciones lo describen como un lugar de perfección divina (nunca perteneció verdaderamente al mundo mortal).
+
+Esta teoría es vigorosamente rechazada por las autoridades altmer, pues implica que Aldmeris está irremediablemente perdido — un hecho que la cultura altmer se niega a aceptar. El mito del regreso a Aldmeris alimenta demasiado profundamente la identidad élfica como para ser abandonado.
+
+## La Conexión con la Convención
+
+En el marco cosmológico de la Creación, la **Convención** — el momento en que los et'Ada quedaron atrapados en Mundus y fueron obligados a volverse mortales — marca el fin del estado divino original. Si Aldmeris simboliza ese estado premortal, entonces la «partida» de Aldmeris no es una migración geográfica sino la propia Caída metafísica — la pérdida de la divinidad.
+
+Esta interpretación da una dimensión trágica a la búsqueda altmer de la perfección racial: no buscan regresar a un lugar sino recuperar un estado de ser — la divinidad perdida en el momento de la Creación. El **Thalmor** lleva esta lógica a su extremo buscando deshacer la propia Creación para restaurar el estado original.
+
+## Las Expediciones Perdidas
+
+A lo largo de las eras, se lanzaron numerosas expediciones para encontrar Aldmeris. Ninguna lo logró. Los barcos altmer que surcaron los mares hacia el sur no encontraron más que océanos sin fin, tormentas imposibles, o sencillamente nunca regresaron. Algunos estudiosos señalan que las direcciones indicadas por las distintas fuentes son contradictorias — Aldmeris aparece situado a veces al sur, a veces al oeste, a veces «más allá de lo visible» — como si el continente se resistiera a ser localizado.
+
+## Significado Cultural
+
+Sea real o mítico, Aldmeris ocupa un lugar central en la psique élfica. Representa la perfección perdida, la edad de oro, el paraíso antes de la Caída. Para los **Altmer**, justifica su reivindicación de superioridad — son los descendientes más directos de los habitantes de Aldmeris. Para los **Bosmer**, explica su pacto con la naturaleza — un retorno a un modo de vida primitivo pero puro. Para los **Dunmer**, su rechazo forma parte de su identidad rebelde — eligieron un nuevo camino en lugar de añorar el antiguo.
