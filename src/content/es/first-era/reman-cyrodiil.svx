@@ -1,0 +1,86 @@
+---
+title: "Reman Cyrodiil"
+slug: "reman-cyrodiil"
+era: "first-era"
+category: "personnages"
+tags: ["reman", "imperio", "dragonborn", "cyrodiil", "akaviri", "sangre-de-dragón", "segundo-imperio"]
+date: "1E 2703 — 1E 2762"
+timelineYear: 2703
+summary: "Fundador del Segundo Imperio de Cyrodiil, Hijo del Dragón nacido en la colina de Sancre Tor. Reman unificó Tamriel frente a las invasiones Akaviri y estableció una dinastía que gobernó durante siglos."
+mapCoords: { x: 520, y: 380 }
+province: "Cyrodiil"
+aliases: ["Reman el Cyrodiil", "el Hijo del Mundus-Becerro", "el Hijo del Dragón"]
+relatedArticles: ["guerres-akaviri", "cite-imperiale", "amulette-des-rois"]
+sources: ["UESP: Reman I", "Remanada", "The Imperial Library"]
+---
+
+![Reman Cyrodiil, la Sangre de Dragón](/images/first-era/reman-cyrodiil.jpg)
+
+## El Nacimiento Milagroso
+
+El nacimiento de **Reman Cyrodiil** está envuelto en mito y sacralidad. Según la *Remanada*, texto fundacional de su culto, Reman nació de la unión mística entre la propia tierra de Cyrodiil y la sangre divina de los Aedra. Su madre, una joven cuyo nombre se perdió en la historia, habría concebido al niño en la cima de **Sancre Tor**, la montaña sagrada.
+
+El niño fue encontrado en la cima de la colina, bañado en la luz del Amuleto de los Reyes que brillaba sobre su pecho. Los pastores que lo descubrieron relataron que la propia tierra susurraba su nombre: *Reman*, que significa "Luz del Hombre" en el antiguo Cyrodílico.
+
+## El Contexto: Una Provincia Dividida
+
+En el año **1E 2703**, Cyrodiil estaba fragmentada. La Orden Alessiana, que en su día había unificado la provincia bajo una estricta teocracia, se había derrumbado tras la Guerra de la Rectitud un siglo antes. Las ciudades-estado colovianas competían por el poder, y los reinos vecinos no tenían razón alguna para temer a una provincia tan debilitada.
+
+Fue en ese vacío de poder cuando los **Akaviri** eligieron golpear. Sus ejércitos, compuestos principalmente por guerreros Tsaesci, desembarcaron en las costas septentrionales de Tamriel y marcharon hacia el sur con una eficacia aterradora.
+
+## La Batalla del Paso de Pale
+
+Ante la invasión Akaviri, los señores dispersos de Cyrodiil no lograban unirse. Fue entonces cuando Reman — todavía adolescente según algunas fuentes — levantó un ejército desde las tierras alrededor de Sancre Tor. Su voz, según se dice, portaba el **Thu'um** — el grito de los Dragones — y su presencia unía a todos los que le escuchaban.
+
+En el **Paso de Pale**, Reman se enfrentó al ejército Akaviri. Pero el desenlace no fue el que nadie hubiera predicho. Los Tsaesci, reconociendo en él la **Sangre de Dragón** que habían buscado durante tanto tiempo, dejaron sus armas y se **arrodillaron** ante él. Su invasión nunca había sido una simple conquista — era una búsqueda para encontrar al Nacido del Dragón.
+
+## La Unificación de Tamriel
+
+Fortalecido por esta espectacular victoria y por la inesperada lealtad de los guerreros Akaviri, Reman se propuso unificar Tamriel bajo su estandarte. Los Akaviri se convirtieron en sus más fieles servidores, formando la base de lo que se convertiría en la **Guardia del Dragón** — la élite militar imperial.
+
+Provincia a provincia, Reman extendió su control:
+
+- **Val-Boisé** fue integrada por tratado diplomático
+- **Elsweyr** reconoció la soberanía imperial
+- **Alta Roca** y **Cielos del Norte** negociaron su entrada en el Imperio
+- Solo **Morrowind** resistió, dando lugar a conflictos prolongados
+
+## La Dinastía Reman
+
+Reman estableció la **Dinastía Reman**, también llamada el **Segundo Imperio**, que perduró desde 1E 2703 hasta el final de la Primera Era. Sus descendientes — Reman II y Reman III — continuaron su obra de expansión y consolidación.
+
+Bajo los Reman, el Imperio experimentó:
+
+- La creación de las **Hojas** a partir de la Guardia del Dragón Akaviri
+- El establecimiento del **Consejo de Ancianos** como órgano de gobierno
+- El desarrollo de la red viaria imperial
+- La codificación del derecho imperial
+- Los primeros intentos de invasión de Akavir (bajo Reman II)
+
+## El Amuleto de los Reyes
+
+Uno de los elementos más significativos del reinado de Reman fue el redescubrimiento y la legitimación del **Amuleto de los Reyes**. Esta joya, forjada por el propio Auriel según la leyenda, había aparecido con Reman en su nacimiento. Sirvió como prueba de su linaje divino y se convirtió en el símbolo último de la legitimidad imperial.
+
+Solo un verdadero Nacido del Dragón podía encender los Fuegos del Dragón en el Templo del Único, activando así las **Hogueras del Dragón** que protegían Tamriel de los planos de Oblivion.
+
+## Legado y Muerte
+
+Reman I murió en **1E 2762**, tras casi sesenta años de reinado. Su muerte no puso fin a su obra: la Dinastía Reman perduró hasta el asesinato de **Reman III** en 1E 2920, poniendo fin a la propia Primera Era.
+
+Su legado es inmenso:
+
+- Demostró que el linaje del Nacido del Dragón no se limitaba a los Nórdicos
+- Integró la cultura Akaviri en la civilización imperial
+- Creó un modelo de imperio multirracial que inspiró a Tiber Septim
+- Estableció a Cyrodiil como el centro indiscutible de Tamriel
+
+## El Culto de Reman
+
+Tras su muerte, se desarrolló un culto en torno a Reman, venerándolo como una figura casi divina. La *Remanada*, texto hagiográfico, lo presenta como la propia encarnación de Tamriel, nacido de la tierra y el cielo para unificar a los pueblos mortales.
+
+Este culto persistió mucho tiempo tras la caída de su dinastía, y la imagen del Nacido del Dragón como emperador legítimo se convirtió en un pilar de la filosofía política imperial — un legado que **Tiber Septim** aprovecharía plenamente al amanecer de la Tercera Era.
+
+## En los Textos
+
+> "Y la tierra se abrió, y de su vientre nació el niño ceñido de luz, y las estrellas cantaron REMAN, y las montañas temblaron de alegría."
+> — *Remanada*, Fragmento III

@@ -1,0 +1,65 @@
+---
+title: "Los Hist"
+slug: "hists-arbres-sentients"
+era: "first-era"
+category: "races"
+tags: ["hist", "argonianos", "ciénaga-negra", "oblivion", "árboles-sintientes"]
+timelineYear: 1
+summary: "Los Hist son árboles sintientes inmemoriales de la Ciénaga Negra cuya conciencia colectiva precede a la creación de Mundus y da forma a la propia existencia de los Argonianos."
+sources: ["The Annotated Anuad", "Children of the Root", "Mere-Glim's Account", "Murkmire Lorebooks"]
+---
+
+# Los Hist
+
+## Seres Anteriores a la Creación
+
+Los **Hist** se cuentan entre las entidades más antiguas y misteriosas de toda existencia conocida. Estos gigantescos árboles sintientes que pueblan la Ciénaga Negra (Black Marsh) no son simples vegetales dotados de consciencia — constituyen una forma de vida radicalmente diferente de todo lo que Tamriel alberga, una inteligencia colectiva cuyos orígenes preceden a la propia formación de Mundus.
+
+Según el **Anuad Anotado**, los Hist ya existían en un mundo anterior a la creación actual — un mundo destruido durante el conflicto entre Anu y Padomay. Cuando los fragmentos de ese mundo anterior fueron reensamblados para formar Nirn, los Hist sobrevivieron, convirtiéndolos en testigos y vestigios de una realidad antediluviana que ni los Aedra ni los Daedra pueden comprender plenamente.
+
+## Naturaleza y Conciencia
+
+La conciencia de los Hist desafía toda categorización convencional. Cada árbol individual posee su propia forma de pensamiento, pero todos los Hist están interconectados por una red de raíces subterráneas que se extiende bajo la totalidad de la Ciénaga Negra. Esta red forma una **conciencia colectiva** — no una única mente colmena, sino una comunidad de pensamientos distintos que se comunican y colaboran a lo largo de los siglos.
+
+Los Hist perciben el tiempo de manera fundamentalmente diferente a los seres mortales. Para ellos, pasado, presente y futuro no constituyen una secuencia lineal sino un conjunto simultáneo. Esta percepción temporal no lineal explica su aparente omnisciencia y su capacidad de anticipar eventos siglos antes de que ocurran.
+
+Su "lenguaje" — si ese término es aplicable — se manifiesta mediante secreciones de savia de composiciones químicas infinitamente variadas, vibraciones radicales y emanaciones psíquicas que solo los Argonianos pueden percibir e interpretar plenamente.
+
+## El Vínculo con los Argonianos
+
+La relación entre los Hist y los **Argonianos** (o Saxhleel en su propia lengua) constituye uno de los vínculos más profundos entre dos formas de vida en todo Tamriel. Los Argonianos no son simplemente un pueblo que venera a los Hist — son literalmente **creados** por ellos.
+
+Al nacer, cada Argoniano es llevado ante un Hist para lamer su savia. Este ritual, lejos de ser puramente simbólico, determina el sexo, la forma física y ciertos rasgos de personalidad del recién nacido. Un Argoniano que nunca ha probado la savia del Hist permanece en un estado de desarrollo incompleto — consciente e inteligente, pero desconectado de la identidad colectiva de su pueblo.
+
+Más profundamente aún, las almas argonianas están vinculadas al ciclo de los Hist. Cuando un Argoniano muere, su alma regresa a los Hist en lugar de viajar a Aetherius o al Cairn de las Almas. Los Hist preservan estas almas y las reintroducen en nuevos cuerpos argonianos, creando un ciclo de reencarnación propio de su pueblo. Esto explica por qué las gemas de alma negras funcionan de manera diferente — y a veces no funcionan en absoluto — en los Argonianos profundamente vinculados a su Hist.
+
+## El Papel en la Crisis de Oblivion
+
+El episodio más espectacular de la historia reciente de los Hist ocurrió durante la **Crisis de Oblivion** en 3E 433. Cuando las puertas de Oblivion se abrieron por todo Tamriel, la Ciénaga Negra fue atacada como las demás provincias. Pero la respuesta fue sin precedentes.
+
+Los Hist, percibiendo la amenaza a través de su extendida conciencia temporal, habían **anticipado** la invasión. Semanas antes de que se abrieran las primeras puertas, comenzaron a segregar una savia modificada — una convocatoria química que llamó a los Argonianos dispersados por todo el Imperio de vuelta a su tierra natal. Los que respondieron al Llamado experimentaron una transformación: la savia de los Hist los hizo más fuertes, más feroces, más resistentes.
+
+Cuando las puertas se abrieron finalmente en la Ciénaga Negra, los ejércitos argonianos no esperaron a que los Daedra salieran. **Invadieron Oblivion**. Los Argonianos penetraron en las Deadlands con tal violencia y determinación que los Dremora se vieron obligados a **cerrar sus propias puertas** para detener el asalto. La Ciénaga Negra es la única provincia de Tamriel que rechazó la invasión de Oblivion por la fuerza bruta.
+
+## La Invasión de Morrowind
+
+Galvanizados por su victoria contra las fuerzas de Mehrunes Dagon y transformados por la savia de guerra de los Hist, los Argonianos no se detuvieron en la defensa de su territorio. En 4E 6, bajo el impulso de la organización político-militar **An-Xileel** — profundamente devota a los Hist —, los ejércitos argonianos invadieron el sur de Morrowind.
+
+Esta invasión, conocida como la **Guerra de Accesión**, tenía como objetivo a los Dunmer ya devastados por la erupción del Monte Carmesí. Las motivaciones eran múltiples:
+
+- La venganza histórica por milenios de esclavitud argoniana a manos de las Grandes Casas dunmer
+- El deseo de los Hist de extender su influencia más allá de las fronteras tradicionales de la Ciénaga Negra
+- La expansión territorial hacia tierras fértiles para plantar nuevos Hist
+
+El papel exacto de los Hist en esta decisión sigue siendo debatido. El An-Xileel afirmó actuar según la voluntad de los árboles, pero algunos eruditos creen que los Hist — fundamentalmente no agresivos — fueron instrumentalizados por una facción política argoniana radicalizada.
+
+## Misterios Persistentes
+
+Muchas preguntas fundamentales sobre los Hist permanecen sin respuesta:
+
+- **¿Cuál es su verdadera naturaleza?** ¿Son fragmentos de un Ehlnofey olvidado? ¿Los restos de un mundo anterior? ¿Una forma de vida totalmente independiente de la cosmología convencional?
+- **¿Qué quieren?** Su conciencia es tan ajena a las mentes mortales que sus motivaciones — si existen — permanecen incomprensibles.
+- **¿Son todos benevolentes?** Ciertos relatos mencionan Hist "corrompidos" o "renegados" cuya savia produce efectos horrífico en los Argonianos.
+- **¿Cuál es su vínculo con Sithis?** La teología argoniana sitúa a Sithis en la cima de su panteón, y los Hist parecen servir de intermediarios entre esta fuerza primordial y el mundo mortal.
+
+Los Hist permanecen, en definitiva, uno de los grandes misterios de Nirn — observadores silenciosos cuya sabiduría milenaria sigue siendo inaccesible para cualquiera que no comparta la savia que fluye por las venas de la Ciénaga Negra.

@@ -1,0 +1,86 @@
+---
+title: "Reman Cyrodiil"
+slug: "reman-cyrodiil"
+era: "first-era"
+category: "personnages"
+tags: ["reman", "empire", "dragonborn", "cyrodiil", "akaviri", "dragonblood", "second-empire"]
+date: "1E 2703 — 1E 2762"
+timelineYear: 2703
+summary: "Founder of the Second Empire of Cyrodiil, Dragon-Child born on the hill of Sancre Tor. Reman unified Tamriel against the Akaviri invasions and established a dynasty that ruled for centuries."
+mapCoords: { x: 520, y: 380 }
+province: "Cyrodiil"
+aliases: ["Reman the Cyrodiil", "the Son of the Mundus-Calf", "the Dragon-Child"]
+relatedArticles: ["guerres-akaviri", "cite-imperiale", "amulette-des-rois"]
+sources: ["UESP: Reman I", "Remanada", "The Imperial Library"]
+---
+
+![Reman Cyrodiil, the Dragonblood](/images/first-era/reman-cyrodiil.jpg)
+
+## The Miraculous Birth
+
+The birth of **Reman Cyrodiil** is wrapped in myth and sacred legend. According to the *Remanada*, the founding text of his cult, Reman was born of the mystical union between the very land of Cyrodiil and the divine blood of the Aedra. His mother, a young woman whose name is lost to history, is said to have conceived the child at the summit of **Sancre Tor**, the sacred mountain.
+
+The child was found atop the hill, bathed in the light of the Amulet of Kings which gleamed upon his chest. The shepherds who discovered him reported that the very earth murmured his name: *Reman*, meaning "Light of Man" in ancient Cyrodiilic.
+
+## The Context: A Divided Province
+
+In the year **1E 2703**, Cyrodiil was fragmented. The Alessian Order, which had once unified the province under strict theocracy, had collapsed after the War of Righteousness a century earlier. Colovian city-states were vying for power, and neighboring kingdoms had no reason to fear such a weakened province.
+
+It was into this power vacuum that the **Akaviri** chose to strike. Their armies, composed primarily of Tsaesci warriors, landed on Tamriel's northern coasts and marched southward with terrifying efficiency.
+
+## The Battle of Pale Pass
+
+In the face of the Akaviri invasion, Cyrodiil's scattered lords could not unite. It was then that Reman — still an adolescent according to some sources — raised an army from the lands around Sancre Tor. His voice, it is said, carried the **Thu'um** — the Dragon Shout — and his presence rallied all who heard him.
+
+At **Pale Pass**, Reman met the Akaviri army. But the outcome was not what anyone would have predicted. The Tsaesci, recognizing in him the **Dragonblood** they had sought for so long, laid down their weapons and **knelt** before him. Their invasion had never been a simple conquest — it was a quest to find the Dragonborn.
+
+## The Unification of Tamriel
+
+Buoyed by this spectacular victory and the unexpected allegiance of the Akaviri warriors, Reman set about unifying Tamriel under his banner. The Akaviri became his most faithful servants, forming the core of what would become the **Dragonguard** — the Imperial military elite.
+
+Province by province, Reman extended his control:
+
+- **Valenwood** was integrated through diplomatic treaty
+- **Elsweyr** acknowledged Imperial suzerainty
+- **High Rock** and **Skyrim** negotiated their entry into the Empire
+- Only **Morrowind** resisted, leading to prolonged conflicts
+
+## The Reman Dynasty
+
+Reman established the **Reman Dynasty**, also called the **Second Empire**, which endured from 1E 2703 until the end of the First Era. His descendants — Reman II and Reman III — continued his work of expansion and consolidation.
+
+Under the Remans, the Empire witnessed:
+
+- The creation of the **Blades** from the Akaviri Dragonguard
+- The establishment of the **Elder Council** as a governing body
+- The development of the Imperial road network
+- The codification of Imperial law
+- The first attempts to invade Akavir (under Reman II)
+
+## The Amulet of Kings
+
+One of the most significant elements of Reman's reign was the rediscovery and legitimation of the **Amulet of Kings**. This jewel, forged by Auriel himself according to legend, had appeared with Reman at his birth. It served as proof of his divine lineage and became the ultimate symbol of Imperial legitimacy.
+
+Only a true Dragonborn could light the Dragonfires in the Temple of the One, activating the **Dragonfires** that protected Tamriel from the planes of Oblivion.
+
+## Legacy and Death
+
+Reman I died in **1E 2762**, after nearly sixty years of reign. His death did not end his work: the Reman Dynasty endured until the assassination of **Reman III** in 1E 2920, bringing the First Era itself to a close.
+
+His legacy is immense:
+
+- He proved that the Dragonborn lineage was not limited to Nords
+- He integrated Akaviri culture into Imperial civilization
+- He created a model of multi-racial empire that inspired Tiber Septim
+- He established Cyrodiil as the undisputed center of Tamriel
+
+## The Cult of Reman
+
+After his death, a cult developed around Reman, venerating him as a quasi-divine figure. The *Remanada*, a hagiographic text, presents him as the very incarnation of Tamriel, born of earth and sky to unify the mortal peoples.
+
+This cult persisted long after the fall of his dynasty, and the image of the Dragonborn as legitimate emperor became a pillar of Imperial political philosophy — a legacy that **Tiber Septim** would exploit to the full at the dawn of the Third Era.
+
+## In the Texts
+
+> "And the earth opened, and from its womb was born the child girt in light, and the stars sang REMAN, and the mountains trembled with joy."
+> — *Remanada*, Fragment III

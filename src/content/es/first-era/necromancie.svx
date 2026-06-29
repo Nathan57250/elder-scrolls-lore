@@ -1,0 +1,65 @@
+---
+title: "La Nigromancia en Tamriel"
+slug: "necromancie-tamriel"
+era: "first-era"
+category: "magie"
+tags: ["nigromancia", "gemas-de-alma", "culto-del-gusano", "conjuración", "magia-oscura"]
+timelineYear: 1000
+summary: "Historia completa de la nigromancia en Tamriel, desde sus controvertidos orígenes hasta los debates jurídicos que han dado forma a su práctica a lo largo de las eras."
+sources: ["The Arcturian Heresy", "Mannimarco, King of Worms", "Guild Memos on Soul Trapping", "N'Gasta! Kvata! Kvakis!"]
+---
+
+# La Nigromancia en Tamriel
+
+## Definición y Orígenes
+
+La nigromancia constituye una de las disciplinas mágicas más antiguas y controvertidas de Tamriel. Definida en sentido estricto como el arte de manipular las fuerzas de la muerte y la no-vida, abarca un vasto abanico de prácticas — desde la simple comunicación con los difuntos hasta la creación de ejércitos de no-muertos. Sus orígenes se pierden en las brumas de la Era Merética, cuando los primeros magos élficos exploraron los límites entre Aetherius, Mundus y Oblivion.
+
+Las tradiciones nigrománticas más antiguas provienen verosímilmente de las prácticas funerarias de los Ayleids, que empleaban técnicas de preservación de almas mucho antes de la fundación de cualquier institución mágica formal. Algunos eruditos también atribuyen una influencia significativa a los Psíjicos de Artaeum, aunque la Orden siempre ha negado cualquier vínculo con estas artes oscuras.
+
+## Las Gemas de Alma: Negras y Blancas
+
+En el corazón de la práctica nigromántica se encuentran las **gemas de alma** — cristales naturales o artificiales capaces de contener la esencia vital de una criatura. La distinción fundamental se establece entre dos categorías:
+
+Las **gemas blancas** (Petty, Lesser, Common, Greater, Grand) solo pueden capturar las almas de criaturas no pensantes — animales, daedra menores y no-muertos. Su uso es generalmente tolerado, incluso fomentado, por las instituciones mágicas oficiales para el encantamiento de objetos.
+
+Las **gemas negras** (Black Soul Gems), en cambio, son capaces de atrapar las almas de seres dotados de razón — Hombres, Mer y Khajiit. Su creación requiere un ritual preciso efectuado durante un evento llamado el Revenant, cuando la luna necromántica de Mannimarco pasa ante Arkay. La mera posesión de estas gemas constituye un crimen capital en la mayoría de las provincias de Tamriel.
+
+## El Culto del Gusano
+
+Ningún debate sobre la nigromancia estaría completo sin mencionar la **Orden del Gusano Negro**, fundada por el tristemente célebre Mannimarco, el Rey de los Gusanos. Antiguo estudiante de la Isla de Artaeum junto a Vanus Galerion, Mannimarco eligió un camino radicalmente opuesto al de su condiscípulo.
+
+Mientras Galerion fundaba el Gremio de Magos para democratizar el acceso al saber arcano, Mannimarco reunió a su alrededor a los nigromantes más ambiciosos y despiadados de Tamriel. El Culto del Gusano se convirtió rápidamente en una organización tentacular, operando en la sombra por todo el continente. Sus miembros practicaban:
+
+- La reanimación masiva de cadáveres para formar ejércitos
+- El atrapamiento sistemático de almas mortales
+- La búsqueda de la lichedad como forma de inmortalidad
+- La invocación de no-muertos poderosos desde los planos de Oblivion
+
+El conflicto entre el Gremio de Magos y el Culto del Gusano culminó en varios enfrentamientos sangrientos durante la Primera Era, estableciendo una rivalidad que perduraría durante milenios.
+
+## Debates sobre la Legalidad
+
+El estatus jurídico de la nigromancia varía considerablemente según las provincias y las épocas:
+
+**En Cyrodiil**, el Gremio de Magos mantuvo durante mucho tiempo una prohibición oficial, aunque algunos Archimagos adoptaron posiciones más matizadas. Bajo Hannibal Traven, la práctica fue estrictamente prohibida, lo que llevó a la expulsión de varios miembros destacados.
+
+**En Morrowind**, el Templo del Tribunal consideraba la nigromancia como un ultraje a los ancestros, castigable con la muerte. Paradójicamente, el culto a los ancestros dunmer implica una forma de comunicación con los muertos que roza la nigromancia en su definición más amplia.
+
+**En Alta Roca**, ciertos reinos toleran discretamente la práctica con fines de investigación, mientras que otros la reprimen con ferocidad.
+
+**En la Ciénaga Negra**, los Argonianos consideran toda manipulación de los muertos como una abominación absoluta, debido a su profundo vínculo con el ciclo natural de la vida orquestado por los Hist.
+
+## Relación con la Escuela de Conjuración
+
+La clasificación académica de la nigromancia sigue siendo un tema de vivo debate entre los teóricos de la magia. Formalmente, la mayoría de los hechizos nigrománticos corresponden a la **Escuela de Conjuración**, junto a la invocación de daedra y la teletransportación. Esta clasificación se explica por el mecanismo fundamental común: la llamada y vinculación de una entidad — ya sea daédrica o espectral — al plano mortal.
+
+Sin embargo, muchos practicantes argumentan que la nigromancia debería constituir una escuela propia, dados los profundos principios teóricos que la diferencian de la conjuración clásica. Allí donde el conjurador negocia con entidades conscientes y voluntarias, el nigrómante impone su voluntad sobre almas cautivas o materia inerte.
+
+Algunos hechizos nigrománticos también toman prestado de la Escuela de Restauración — suprema ironía, ya que tanto la Restauración como la Nigromancia manipulan las fuerzas vitales, pero en direcciones diametralmente opuestas. El hechizo de Drenar Vida, por ejemplo, se sitúa exactamente en la frontera entre estas dos disciplinas.
+
+## Legado e Influencia Contemporánea
+
+A pesar de siglos de persecución, la nigromancia nunca ha sido erradicada. Persiste en criptas olvidadas, bibliotecas secretas y laboratorios subterráneos de Tamriel. Su influencia se hace sentir en campos tan variados como la medicina mágica, la jurisprudencia sobre los derechos de los no-muertos y la filosofía metafísica concerniente a la naturaleza del alma.
+
+La pregunta fundamental permanece: ¿es la nigromancia intrínsecamente maléfica, o no es más que una herramienta cuya moralidad depende del uso que se haga de ella? Los guardianes dunmer de ancestros, los sacerdotes de Arkay y los nigromantes del Gusano darían cada uno una respuesta radicalmente diferente a esta eterna interrogación.

@@ -1,0 +1,126 @@
+---
+title: "The Akaviri Wars"
+slug: "guerres-akaviri"
+era: "first-era"
+category: "evenements"
+tags: ["akavir", "tsaesci", "invasion", "reman", "dragonborn", "pale-pass", "cyrodiil"]
+date: "1E 2703"
+timelineYear: 2703
+summary: "The Akaviri invasions of the First Era were massive military incursions from the continent of Akavir. The most famous culminated with the submission of the Tsaesci before Reman Cyrodiil."
+mapCoords: { x: 550, y: 200 }
+province: "Cyrodiil"
+aliases: ["Akaviri Invasions", "Tsaesci Invasion", "First Akaviri Invasion"]
+relatedArticles: ["reman-cyrodiil", "cite-imperiale", "premiere-ere"]
+sources: ["UESP: Akaviri Invasion", "Report: Disaster at Ionith", "The Imperial Library"]
+---
+
+![The Akaviri armies on the march](/images/first-era/guerres-akaviri.jpg)
+
+## The Continent of Akavir
+
+**Akavir** — "Land of the Dragon" in the Tsaesci tongue — is a vast and mysterious continent located to the east of Tamriel, beyond the Padomaic Ocean. Its peoples, though little known to Tamrielic scholars, comprise several distinct races:
+
+- The **Tsaesci** — vampire-serpents or serpentine humans (descriptions vary)
+- The **Ka Po'Tun** — tiger-people, led by the legendary Tosh Raka
+- The **Kamal** — frost demons from the north of Akavir
+- The **Tang Mo** — monkey-people of the southern islands
+
+Of all these races, it was the **Tsaesci** who left the deepest mark on Tamrielic history through their repeated invasions.
+
+## Context of the Invasions
+
+The Tsaesci maintain an ancestral and obsessive relationship with **Dragons**. According to their own myths, they "devoured" the dragons of their continent — an expression that may signify the destruction, absorption, or subjugation of these creatures. This draconic obsession drove them to seek the **Dragonborn** beyond the seas.
+
+Scholars still debate the exact motivations for these invasions:
+
+- Some maintain it was a spiritual quest to find the Dragonblood
+- Others see it as classical imperialism disguised as mysticism
+- Still others suggest they were fleeing a catastrophe on their own continent
+
+## The Great Invasion of 1E 2703
+
+### The Arrival
+
+In **1E 2703**, a colossal Tsaesci fleet appeared on the northern coasts of Tamriel. The armies landed in **Skyrim**, traversing the Nordic lands with a speed that caught the Jarls by surprise. The Nords, though fierce warriors, were driven back by the martial discipline and unknown fighting techniques of the invaders.
+
+### The March South
+
+The Tsaesci had no interest in conquering Skyrim. Their objective lay further south — they were searching for something, or someone. Their army crossed the Jerall Mountains and entered Cyrodiil through the northern passes.
+
+The cities and forts of Cyrodiil fell one by one. The local lords, divided and weakened by decades of internal strife, could not organize a coordinated resistance.
+
+### The Disorganized Resistance
+
+Several resistance attempts were mounted:
+
+- The **Jarl of Bruma** tried to hold the pass but was crushed
+- The mages of the **Arcane University Guild** organized a magical defense that slowed the advance
+- Peasant militias harassed the Tsaesci supply lines
+
+But nothing seemed able to halt the Akaviri tide.
+
+## The Battle of Pale Pass
+
+### The Rise of Reman
+
+It was in this desperate context that **Reman Cyrodiil** emerged. Born under miraculous circumstances at the summit of Sancre Tor, he possessed the **Dragonblood** and the ability to rally men by his voice alone.
+
+Reman assembled an unprecedented coalition — soldiers from Colovia and Nibenay, Nordic mercenaries, even Wood Elves from Valenwood. For the first time in decades, Cyrodiil was united under a single commander.
+
+### The Confrontation
+
+The two armies met at **Pale Pass**, a narrow mountain defile between Skyrim and Cyrodiil. The position offered a considerable defensive advantage, and Reman exploited it fully.
+
+But the battle did not unfold as expected. When the Tsaesci saw Reman — when they *sensed* the draconic blood in his veins — their behavior changed radically.
+
+### The Submission
+
+The Tsaesci warriors **laid down their weapons** and knelt. Their general stepped forward and offered his sword to Reman, acknowledging him as the Dragonborn they had crossed the ocean to find. This was not a defeat — it was the fulfillment of their quest.
+
+This scene — thousands of formidable warriors bowing before a young man — remains one of the most extraordinary moments in Tamrielic history.
+
+## The Consequences
+
+### Akaviri Integration
+
+The Tsaesci did not return home. They integrated into Cyrodilic society, bringing with them:
+
+- Advanced martial techniques (at the origin of modern Imperial swordsmanship)
+- The art of the **katana**, adopted by the Blades
+- Sophisticated administrative and bureaucratic methods
+- The tradition of the **Dragonguard**, protectors of the Dragonborn
+- The architecture of pagodas and curved roofs visible in certain regions of Cyrodiil
+
+### The Blades
+
+The most enduring transformation was the creation of the **Blades** — the secret order dedicated to the protection of the Dragonborn Emperor. Originally called the Dragonguard, this Akaviri organization became the pillar of Imperial security, blending espionage, combat, and Dragon-hunting.
+
+### Geopolitical Impact
+
+Reman's victory and the absorption of the Akaviri army fundamentally changed the balance of power in Tamriel:
+
+- Cyrodiil went from a fragmented province to the dominant power
+- The Second Empire was founded upon this military base
+- Neighboring nations, intimidated by this combined force, acknowledged Imperial suzerainty
+
+## Later Akaviri Invasions
+
+### Reman II's Expedition
+
+Under **Reman II**, the Empire attempted to turn the tables by launching an invasion of Akavir. This campaign was a logistical disaster and ended in a humiliating withdrawal, proving that even the Empire could not project its power so far.
+
+### The Kamal Invasion (2E 572)
+
+Much later, during the Second Era, the **Kamal** — Akavir's frost demons — launched their own invasion. They attacked first Skyrim and then Morrowind, and were finally defeated at the Battle of Vivec by an alliance of Dunmer, Nords, and Argonians — an event that gave birth to the **Ebonheart Pact**.
+
+## Lasting Legacy
+
+The Akaviri invasions left an indelible mark on Tamrielic civilization:
+
+- The very word "Emperor" derives from the Tsaesci *Potentate*
+- Imperial architecture bears the trace of Eastern influence
+- The martial arts of Tamriel were revolutionized
+- The very notion of the Dragonborn as legitimate sovereign was cemented
+
+> "They did not come to conquer. They came to serve. And in serving, they transformed a people."
+> — *Annals of the Second Empire*, Volume I

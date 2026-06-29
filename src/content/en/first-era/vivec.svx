@@ -1,0 +1,50 @@
+---
+title: "Vivec"
+slug: "vivec"
+era: "first-era"
+category: "personnages"
+tags: ["tribunal", "morrowind", "chimer", "dunmer", "muatra", "36-lessons", "nerevar"]
+date: "1E 700 — 3E 427"
+timelineYear: 700
+summary: "Poet-god of the Tribunal, warrior-philosopher half-Chimer half-Dunmer, author of the 36 Lessons. One of the most powerful and enigmatic beings in Tamriel."
+mapCoords: { x: 720, y: 320 }
+province: "Morrowind"
+aliases: ["Vehk", "VIVEC", "the Warrior-Poet"]
+relatedArticles: ["premiere-ere", "vvardenfell"]
+sources: ["UESP: Vivec (god)", "The 36 Lessons of Vivec", "The Imperial Library"]
+---
+
+![Vivec, the Warrior-Poet](/images/first-era/vivec.jpg)
+
+## The Mortal Vehk
+
+Before he was a god, **Vivec** was **Vehk** — a child born into the poverty of the Chimer people, among the ashes of Morrowind. His mortal history is obscure, entangled with myths he himself constructed in his writings.
+
+What is known: he became one of the closest advisors to General **Nerevar** Indoril, alongside Almalexia and Sotha Sil. He was already recognized as an exceptional fighter and orator.
+
+## The Ascent to Divinity
+
+After the Battle of Red Mountain and the death of Nerevar, Vivec and his two Tribunal companions used the **Tools of Kagrenac** (Keening, Sunder, Wraithguard) on the **Heart of Lorkhan** to elevate themselves to the rank of divinity.
+
+This act — a betrayal of their oath to Nerevar — granted them near-unlimited power but marked them with **Azura's** curse: the Chimer people became the grey-skinned Dunmer.
+
+## The Warrior-Poet
+
+As a living god, Vivec embodied a walking paradox:
+- **Half-man, half-woman** — his appearance is divided vertically, one side golden (Chimer) and the other ashen (Dunmer)
+- **Warrior and poet** — capable of annihilating armies and composing the densest metaphysical texts in Tamriel
+- **Liar and saint** — his teachings contain both profound truths and deliberate falsehoods
+
+## The 36 Lessons of Vivec
+
+His major work, the **36 Lessons of Vivec** (also called the Sermons), is a text that is at once religious, philosophical, and occult. Encoded within it are:
+- The concept of **CHIM** — the awakening of consciousness within the Dream of the Dreamer (the Godhead), without dissolving
+- The notion of the **Enantiomorph** — the recurring pattern of King/Rebel/Observer that structures history
+- Hidden instructions for attaining transcendence
+- The implicit confession of Nerevar's murder
+
+## The Fall
+
+When the Nerevarine destroyed the Heart of Lorkhan in **3E 427**, Vivec lost his source of divinity. Weakened, he vanished mysteriously — abducted by Daedra according to some, having achieved CHIM and chosen to depart according to others.
+
+Without Vivec to maintain the **Ministry of Truth** (a meteor he had halted in mid-flight above his city through sheer willpower), the rock crashed down upon **Vivec City** in 4E 5, triggering the eruption of Red Mountain and the devastation of Vvardenfell.

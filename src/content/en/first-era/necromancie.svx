@@ -1,0 +1,65 @@
+---
+title: "Necromancy in Tamriel"
+slug: "necromancie-tamriel"
+era: "first-era"
+category: "magie"
+tags: ["necromancy", "soul-gems", "worm-cult", "conjuration", "dark-magic"]
+timelineYear: 1000
+summary: "A complete history of necromancy in Tamriel, from its controversial origins to the legal debates that have shaped its practice across the eras."
+sources: ["The Arcturian Heresy", "Mannimarco, King of Worms", "Guild Memos on Soul Trapping", "N'Gasta! Kvata! Kvakis!"]
+---
+
+# Necromancy in Tamriel
+
+## Definition and Origins
+
+Necromancy constitutes one of the oldest and most controversial magical disciplines in Tamriel. Strictly defined as the art of manipulating the forces of death and undeath, it encompasses a vast range of practices — from simple communication with the deceased all the way to the creation of armies of undead. Its origins are lost in the mists of the Merethic Era, when the first elven mages explored the boundaries between Aetherius, Mundus, and Oblivion.
+
+The oldest necromantic traditions most likely arose from Ayleid funerary practices, which employed techniques for preserving souls long before the founding of any formal magical institution. Some scholars also attribute significant influence to the Psijics of Artaeum, though the Order has always denied any connection to these dark arts.
+
+## Soul Gems: Black and White
+
+At the heart of necromantic practice lie **soul gems** — natural or artificial crystals capable of containing a creature's vital essence. The fundamental distinction is drawn between two categories:
+
+**White soul gems** (Petty, Lesser, Common, Greater, Grand) can only capture the souls of non-sentient creatures — animals, minor Daedra, and undead. Their use is generally tolerated, even encouraged, by official magical institutions for the enchanting of objects.
+
+**Black soul gems**, by contrast, are capable of trapping the souls of sentient beings — Men, Mer, and Khajiit. Their creation requires a precise ritual performed during an event called the Revenant, when Mannimarco's necromantic moon passes before Arkay. The mere possession of these gems constitutes a capital crime in most provinces of Tamriel.
+
+## The Worm Cult
+
+No discussion of necromancy can be complete without mentioning the **Order of the Black Worm**, founded by the notorious Mannimarco, the King of Worms. Once a student of the Isle of Artaeum alongside Vanus Galerion, Mannimarco chose a path radically opposed to that of his fellow pupil.
+
+While Galerion founded the Mages Guild to democratize access to arcane knowledge, Mannimarco gathered around him the most ambitious and ruthless necromancers in Tamriel. The Worm Cult rapidly became a far-reaching organization, operating in the shadows across the entire continent. Its members practiced:
+
+- The mass reanimation of corpses to assemble armies
+- The systematic trapping of mortal souls
+- The pursuit of lichdom as a form of immortality
+- The summoning of powerful undead from the planes of Oblivion
+
+The conflict between the Mages Guild and the Worm Cult culminated in several bloody confrontations during the First Era, establishing a rivalry that would endure for millennia.
+
+## Debates on Legality
+
+The legal status of necromancy varies considerably by province and era:
+
+**In Cyrodiil**, the Mages Guild long maintained an official prohibition, though some Archmages adopted more nuanced positions. Under Hannibal Traven, the practice was strictly banned, leading to the expulsion of several prominent members.
+
+**In Morrowind**, the Tribunal Temple considered necromancy an affront to ancestors, punishable by death. Paradoxically, the Dunmer ancestor cult involves a form of communication with the dead that verges on necromancy in its broadest definition.
+
+**In High Rock**, certain kingdoms discreetly tolerate the practice for research purposes, while others suppress it ferociously.
+
+**In Black Marsh**, the Argonians regard any manipulation of the dead as an absolute abomination, owing to their deep connection with the natural cycle of life orchestrated by the Hist.
+
+## Relationship with the School of Conjuration
+
+The academic classification of necromancy remains a subject of heated debate among magical theorists. Formally, most necromantic spells fall under the **School of Conjuration**, alongside the summoning of Daedra and teleportation. This classification is explained by the common underlying mechanism: the calling and binding of an entity — whether Daedric or spectral — to the mortal plane.
+
+However, many practitioners argue that necromancy should constitute a school in its own right, given how profoundly its theoretical principles differ from classical conjuration. Where the conjurer negotiates with conscious and willing entities, the necromancer imposes their will upon captive souls or inert matter.
+
+Some necromantic spells also draw from the School of Restoration — a supreme irony, as both Restoration and Necromancy manipulate vital forces, but in diametrically opposed directions. The Drain Life spell, for example, sits precisely on the boundary between these two disciplines.
+
+## Legacy and Contemporary Influence
+
+Despite centuries of persecution, necromancy has never been eradicated. It persists in forgotten crypts, secret libraries, and underground laboratories throughout Tamriel. Its influence is felt in fields as varied as magical medicine, jurisprudence concerning the rights of the undead, and metaphysical philosophy regarding the nature of the soul.
+
+The fundamental question remains: is necromancy intrinsically evil, or is it merely a tool whose morality depends on its use? Dunmer ancestor-guardians, priests of Arkay, and Worm necromancers would each give a radically different answer to this eternal question.

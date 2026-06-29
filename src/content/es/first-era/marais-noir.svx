@@ -1,0 +1,60 @@
+---
+title: "La Ciénaga Negra: Argonia"
+slug: "marais-noir"
+era: "first-era"
+category: "lieux"
+tags: ["ciénaga-negra", "argonianos", "hist", "an-xileel", "enfermedades", "argonia", "saxhleel"]
+timelineYear: 1000
+summary: "La Ciénaga Negra es una provincia pantanosa y mortal donde los Argonianos viven en simbiosis con los árboles Hist, protegidos por un entorno tan hostil que ningún ejército extranjero ha conquistado jamás su interior."
+sources: ["The Argonian Account", "Pocket Guide to the Empire, 3rd Edition", "Murky Time: A Treatise on Argonian Historics", "The Infernal City"]
+---
+
+![Mapa de Tamriel](/images/common/tamriel-map.jpg)
+
+## La Ciénaga Negra: La Provincia Impenetrable
+
+La Ciénaga Negra — también llamada Argonia o Black Marsh — es la provincia más inhóspita de Tamriel para toda criatura no nativa. Situada al sureste del continente, esta vasta extensión de marismas, junglas pútridas y aguas estancadas es una pesadilla viviente para los extranjeros: enfermedades letales, depredadores invisibles, terrenos movedizos y una flora venenosa se combinan para crear un entorno que parece rechazar activamente cualquier presencia no argoniana.
+
+## Los Argonianos: El Pueblo de las Raíces
+
+Los Argonianos, o Saxhleel en su propia lengua, son los habitantes reptilianos de la Ciénaga Negra. A diferencia de las otras razas de Tamriel, los Argonianos no descienden de los Ehlnofey ni de ningún ancestro común a otros pueblos. Su origen está vinculado a los Hist — los árboles sintientes que preceden a toda civilización conocida en Nirn.
+
+Físicamente, los Argonianos son seres reptilianos bípedos dotados de escamas, colas y la notable capacidad de respirar bajo el agua indefinidamente. Su biología es radicalmente diferente a la de otras razas: son de sangre fría, poseen resistencia natural a los venenos y enfermedades, y pueden regenerar miembros perdidos — aunque lentamente.
+
+Un aspecto fascinante de la biología argoniana es su fluidez. Los Argonianos pueden cambiar de sexo a lo largo de su vida lamiendo la savia del Hist durante ceremonias específicas. El género no es fijo para ellos sino un estado transitorio — una noción que otras razas suelen tener dificultades para comprender.
+
+## Los Árboles Hist
+
+Los Hist son mucho más que simples árboles. Estos organismos colosales constituyen una inteligencia colectiva que existía en Nirn antes incluso de la llegada de los Aedra y los Daedra. Pueden ser los seres más antiguos de toda la creación — supervivientes de un kalpa anterior, un ciclo de creación previo al nuestro.
+
+Cada Hist está conectado a los demás por una red de raíces subterráneas que se extiende bajo la totalidad de la Ciénaga Negra. Esta red forma una consciencia compartida — no una única mente colmena, sino una comunidad de pensamientos distintos que se comunican y colaboran a lo largo de los siglos. Los Hist se comunican entre sí instantáneamente, comparten recuerdos durante millones de años y observan el mundo a través de un prisma temporal incomprensible para los mortales.
+
+La savia del Hist es sagrada para los Argonianos. Desde el nacimiento, los jóvenes Argonianos beben esta savia, que determina su forma física, sus capacidades e incluso su personalidad. Sin la savia del Hist, un Argoniano permanece como un simple lagarto sin consciencia. Es el Hist quien hace de los Argonianos un pueblo pensante.
+
+## El An-Xileel: Los Libertadores
+
+El An-Xileel es la organización política que gobierna la Ciénaga Negra desde el final de la Tercera Era. Este movimiento nacionalista argoniano tomó el poder tras la Crisis de Oblivion, durante la cual los Argonianos lograron una hazaña sin precedentes: invadieron Oblivion.
+
+Cuando las puertas de Oblivion se abrieron en la Ciénaga Negra, los Hist percibieron la amenaza y llamaron de regreso a todos los Argonianos a los pantanos. Galvanizados por la savia del Hist, los guerreros argonianos se precipitaron por los portales y atacaron a las fuerzas daédicas con tal ferocidad que Mehrunes Dagon se vio obligado a cerrar sus propias puertas para proteger sus reinos. La Ciénaga Negra es la única provincia donde los invasores daédricos fueron ellos mismos invadidos.
+
+Envalentonado por esta victoria, el An-Xileel declaró la independencia de la Ciénaga Negra del Imperio y llegó incluso a lanzar una invasión del sur de Morrowind, ya devastado por la erupción del Monte Carmesí. Esta venganza por siglos de esclavitud dunmer fue brutal y sistemática.
+
+## Enfermedades y Peligros
+
+La Ciénaga Negra es un osario bacteriológico. Las enfermedades endémicas de la provincia — la Fiebre Knahaten, la Podredumbre de Helstrom, la Fiebre Negra — han matado a más invasores que todos los ejércitos argonianos combinados. La Plaga Knahaten por sí sola exterminó poblaciones enteras en las provincias vecinas durante la Segunda Era.
+
+Los Argonianos son naturalmente inmunes a la mayoría de estas plagas, lo que constituye una formidable defensa pasiva. Las expediciones imperiales al interior de la Ciénaga Negra han acabado invariablemente en desastres sanitarios, con soldados sucumbiendo a las fiebres antes incluso de encontrarse con el enemigo.
+
+Más allá de las enfermedades, el Pantano alberga una fauna aterradora: wamasus (dragones de los pantanos), hackwings (reptiles voladores), voriplasmos (masas gelatinosas corrosivas) e innumerables especies de serpientes, insectos y parásitos cuya única función aparente parece ser matar a los intrusos.
+
+## El Interior Impenetrable
+
+Si bien las zonas costeras de la Ciénaga Negra han sido parcialmente colonizadas por el Imperio — ciudades como Lilmoth, Soulrest y Gideon llevan la marca imperial —, el interior profundo de la provincia nunca ha sido cartografiado ni conquistado por ninguna potencia extranjera.
+
+El interior es un mundo aparte: un laberinto acuático donde la tierra firme casi no existe, donde los árboles Hist alcanzan proporciones cataclísmicas y donde las ciudades argonianas están construidas sobre plataformas de raíces entrelazadas que flotan sobre aguas negras e insondables. Helstrom, la supuesta capital, no ha sido visitada por ningún no-Argoniano y su existencia misma permanece sin confirmar.
+
+## Cultura y Espiritualidad
+
+La cultura argoniana es profundamente ajena a las concepciones de otras razas. El tiempo no es lineal para los Saxhleel — pasado, presente y futuro coexisten en la savia del Hist. La muerte no es un final sino un regreso al Hist, una reabsorción en la consciencia colectiva. Los nombres argonianos cambian a lo largo de la vida, reflejando las transformaciones del individuo.
+
+Esta perspectiva única hace de los Argonianos un pueblo difícil de comprender para los extranjeros, pero de una resiliencia extraordinaria ante la adversidad.

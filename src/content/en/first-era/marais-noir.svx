@@ -1,0 +1,60 @@
+---
+title: "Black Marsh: Argonia"
+slug: "marais-noir"
+era: "first-era"
+category: "lieux"
+tags: ["black-marsh", "argonians", "hist", "an-xileel", "diseases", "argonia", "saxhleel"]
+timelineYear: 1000
+summary: "Black Marsh is a swampy and deadly province where Argonians live in symbiosis with the Hist trees, protected by an environment so hostile that no foreign army has ever conquered its interior."
+sources: ["The Argonian Account", "Pocket Guide to the Empire, 3rd Edition", "Murky Time: A Treatise on Argonian Historics", "The Infernal City"]
+---
+
+![Map of Tamriel](/images/common/tamriel-map.jpg)
+
+## Black Marsh: The Impenetrable Province
+
+Black Marsh — also called Argonia — is the most inhospitable province in Tamriel for any non-native creature. Located in the southeast of the continent, this vast expanse of swamps, putrid jungles, and stagnant waters is a living nightmare for outsiders: lethal diseases, invisible predators, shifting terrain, and venomous flora combine to create an environment that seems to actively reject any non-Argonian presence.
+
+## The Argonians: The Root-People
+
+The Argonians, or Saxhleel in their own tongue, are the reptilian inhabitants of Black Marsh. Unlike the other races of Tamriel, Argonians do not descend from the Ehlnofey nor from any ancestor common to other peoples. Their origin is bound to the Hist — the sentient trees that predate all known civilization on Nirn.
+
+Physically, Argonians are bipedal reptilian beings endowed with scales, tails, and the remarkable ability to breathe underwater indefinitely. Their biology is radically different from that of other races: they are cold-blooded, possess a natural resistance to poisons and diseases, and can regenerate lost limbs — though slowly.
+
+A fascinating aspect of Argonian biology is its fluidity. Argonians can change sex over the course of their lives by licking the sap of the Hist during specific ceremonies. Gender is not fixed for them but a transient state — a concept other races generally struggle to comprehend.
+
+## The Hist Trees
+
+The Hist are far more than simple trees. These colossal organisms constitute a collective intelligence that existed on Nirn before even the arrival of the Aedra and Daedra. They may be the oldest beings in all of creation — survivors of a previous kalpa, a cycle of creation prior to our own.
+
+Each Hist is connected to the others by an underground root network extending beneath the entirety of Black Marsh. This network forms a shared consciousness — not a single hive mind, but a community of distinct thoughts that communicate and collaborate across the ages. The Hist communicate with one another instantaneously, share memories spanning millions of years, and observe the world through a temporal lens incomprehensible to mortals.
+
+Hist sap is sacred to the Argonians. From birth, young Argonians drink this sap, which determines their physical form, their abilities, and even their personality. Without Hist sap, an Argonian remains a simple lizard devoid of consciousness. It is the Hist that makes Argonians a thinking people.
+
+## The An-Xileel: The Liberators
+
+The An-Xileel is the political organization that has governed Black Marsh since the end of the Third Era. This Argonian nationalist movement came to power after the Oblivion Crisis, during which the Argonians accomplished an unprecedented feat: they invaded Oblivion.
+
+When the Oblivion Gates opened in Black Marsh, the Hist perceived the threat and recalled all Argonians to the swamps. Galvanized by Hist sap, Argonian warriors rushed through the portals and attacked the Daedric forces with such ferocity that Mehrunes Dagon was forced to close his own gates to protect his realms. Black Marsh is the only province where the Daedric invaders were themselves invaded.
+
+Emboldened by this victory, the An-Xileel declared Black Marsh's independence from the Empire and even launched an invasion of southern Morrowind, already devastated by the eruption of Red Mountain. This vengeance against centuries of Dunmer slavery was brutal and systematic.
+
+## Diseases and Dangers
+
+Black Marsh is a bacteriological charnel house. The province's endemic diseases — Knahaten Flu, Helstrom Rot, Blackmarsh Fever — have killed more invaders than all the Argonian armies combined. The Knahaten Plague alone wiped out entire populations in neighboring provinces during the Second Era.
+
+Argonians are naturally immune to most of these afflictions, which constitutes a formidable passive defense. Imperial expeditions into the Black Marsh interior have invariably ended in sanitary disasters, with soldiers succumbing to fevers before ever encountering the enemy.
+
+Beyond disease, the Marsh harbors terrifying fauna: wamasu (swamp dragons), hackwings (flying reptiles), voriplasms (corrosive gelatinous masses), and innumerable species of snakes, insects, and parasites whose sole apparent purpose is to kill intruders.
+
+## The Impenetrable Interior
+
+While the coastal areas of Black Marsh have been partially colonized by the Empire — cities like Lilmoth, Soulrest, and Gideon bear the Imperial mark — the deep interior of the province has never been mapped or conquered by any foreign power.
+
+The interior is a world unto itself: a watery labyrinth where solid ground barely exists, where the Hist trees reach cataclysmic proportions, and where Argonian cities are built on platforms of interlaced roots floating on black, unfathomable waters. Helstrom, the supposed capital, has been visited by no non-Argonian and its very existence remains unconfirmed.
+
+## Culture and Spirituality
+
+Argonian culture is profoundly alien to the conceptions of other races. Time is not linear for the Saxhleel — past, present, and future coexist in the sap of the Hist. Death is not an end but a return to the Hist, a reabsorption into the collective consciousness. Argonian names change throughout life, reflecting the transformations of the individual.
+
+This unique perspective makes Argonians a people difficult for outsiders to understand, but of extraordinary resilience in the face of adversity.

@@ -1,0 +1,65 @@
+---
+title: "The Hist"
+slug: "hists-arbres-sentients"
+era: "first-era"
+category: "races"
+tags: ["hist", "argonians", "black-marsh", "oblivion", "sentient-trees"]
+timelineYear: 1
+summary: "The Hist are immemorial sentient trees of Black Marsh whose collective consciousness predates the creation of Mundus and shapes the very existence of the Argonians."
+sources: ["The Annotated Anuad", "Children of the Root", "Mere-Glim's Account", "Murkmire Lorebooks"]
+---
+
+# The Hist
+
+## Beings Anterior to Creation
+
+The **Hist** number among the oldest and most mysterious entities in all known existence. These gigantic sentient trees that populate Black Marsh are not mere plants endowed with consciousness — they constitute a form of life radically different from anything else Tamriel harbors, a collective intelligence whose origins predate the very formation of Mundus.
+
+According to the **Annotated Anuad**, the Hist already existed in a world prior to the current creation — a world destroyed during the conflict between Anu and Padomay. When the fragments of that previous world were reassembled to form Nirn, the Hist survived, making them witnesses and remnants of an antediluvian reality that even the Aedra and Daedra cannot fully comprehend.
+
+## Nature and Consciousness
+
+The consciousness of the Hist defies all conventional categorization. Each individual tree possesses its own form of thought, but all Hist are interconnected by an underground root network extending beneath the entirety of Black Marsh. This network forms a **collective consciousness** — not a single unified hive mind, but a community of distinct thoughts that communicate and collaborate across the ages.
+
+The Hist perceive time in a fundamentally different way from mortal beings. For them, past, present, and future do not constitute a linear sequence but a simultaneous whole. This non-linear temporal perception explains their apparent omniscience and their capacity to anticipate events centuries before they occur.
+
+Their "language" — if that term is even applicable — manifests through sap secretions of infinitely varied chemical compositions, root vibrations, and psychic emanations that only Argonians can fully perceive and interpret.
+
+## The Bond with the Argonians
+
+The relationship between the Hist and the **Argonians** (or Saxhleel in their own tongue) constitutes one of the deepest bonds between two forms of life anywhere in Tamriel. Argonians are not simply a people who venerate the Hist — they are literally **created** by them.
+
+At birth, each Argonian is brought before a Hist to lick its sap. This ritual, far from being purely symbolic, determines the newborn's sex, physical form, and certain personality traits. An Argonian who has never tasted Hist sap remains in a state of incomplete development — conscious and intelligent, but disconnected from the collective identity of their people.
+
+More profoundly still, Argonian souls are bound to the cycle of the Hist. When an Argonian dies, their soul returns to the Hist rather than traveling to Aetherius or the Soul Cairn. The Hist preserve these souls and reintroduce them into new Argonian bodies, creating a cycle of reincarnation unique to their people. This explains why black soul gems function differently — and sometimes not at all — on Argonians deeply bonded to their Hist.
+
+## Role in the Oblivion Crisis
+
+The most spectacular episode in the Hist's recent history occurred during the **Oblivion Crisis** in 3E 433. When the Gates of Oblivion opened across all of Tamriel, Black Marsh was attacked like the other provinces. But the response was without precedent.
+
+The Hist, perceiving the threat through their extended temporal consciousness, had **anticipated** the invasion. Weeks before the first gates opened, they began secreting a modified sap — a chemical summons that called Argonians dispersed across the Empire back to their homeland. Those who answered the Call underwent a transformation: the Hist's sap made them stronger, fiercer, more resilient.
+
+When the gates finally opened in Black Marsh, the Argonian armies did not wait for the Daedra to emerge. They **invaded Oblivion**. The Argonians entered the Deadlands with such violence and determination that the Dremora were forced to **close their own gates** to halt the assault. Black Marsh is the only province in Tamriel to have repelled the Oblivion invasion by sheer force.
+
+## The Invasion of Morrowind
+
+Galvanized by their victory against the forces of Mehrunes Dagon and transformed by the Hist's war-sap, the Argonians did not stop at defending their own territory. In 4E 6, under the impulse of the politico-military organization **An-Xileel** — deeply devoted to the Hist — the Argonian armies invaded southern Morrowind.
+
+This invasion, known as the **Accession War**, targeted the Dunmer already devastated by the eruption of Red Mountain. The motivations were multiple:
+
+- Historical vengeance for millennia of Argonian enslavement by the Dunmer Great Houses
+- The Hist's desire to extend their influence beyond the traditional borders of Black Marsh
+- Territorial expansion toward fertile lands for planting new Hist
+
+The exact role of the Hist in this decision remains debated. The An-Xileel claimed to be acting according to the will of the trees, but some scholars believe the Hist — fundamentally non-aggressive — were instrumentalized by a radicalized Argonian political faction.
+
+## Persistent Mysteries
+
+Many fundamental questions about the Hist remain unanswered:
+
+- **What is their true nature?** Are they fragments of a forgotten Ehlnofey? The remnants of a previous world? A form of life entirely independent of conventional cosmology?
+- **What do they want?** Their consciousness is so alien to mortal minds that their motivations — if they exist — remain incomprehensible.
+- **Are they all benevolent?** Certain accounts mention "corrupted" or "renegade" Hist whose sap produces horrific effects on Argonians.
+- **What is their connection to Sithis?** Argonian theology places Sithis at the apex of their pantheon, and the Hist appear to serve as intermediaries between this primordial force and the mortal world.
+
+The Hist remain, ultimately, one of Nirn's greatest mysteries — silent observers whose millennial wisdom remains inaccessible to anyone who does not share the sap that flows through the veins of Black Marsh.
