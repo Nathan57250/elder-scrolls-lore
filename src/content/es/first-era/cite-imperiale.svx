@@ -1,0 +1,45 @@
+---
+title: "La Ciudad Imperial"
+slug: "cite-imperiale"
+era: "first-era"
+category: "geographie"
+tags: ["cyrodiil", "ciudad-imperial", "torre-blanco-oro", "imperio", "ayleid"]
+date: "1E 243 — presente"
+timelineYear: 243
+summary: "Capital de todos los Imperios de Tamriel, construida alrededor de la Torre Blanco-Oro ayléida en la Isla de la Ciudad, en el centro del lago Rumare."
+mapCoords: { x: 512, y: 480 }
+province: "Cyrodiil"
+relatedArticles: ["premiere-ere", "crise-oblivion"]
+sources: ["UESP: Imperial City", "A Short History of Cyrodiil"]
+---
+
+## Historia
+
+La **Ciudad Imperial** es la ciudad más grande e importante de Tamriel, y ha servido como capital de cada imperio que ha unificado el continente.
+
+### Orígenes Ayléidos
+La Torre Blanco-Oro fue construida por los **Ayléidos** (Elfos Salvajes) durante la Era Merética. Es una de las Torres metafísicas que anclan la realidad de Mundus — su Piedra es el Amuleto de los Reyes.
+
+### La Conquista Alessiana (1E 243)
+**Alessia** y su revuelta de esclavos tomaron la Ciudad Imperial a los Ayléidos, convirtiéndola en la capital del primer imperio humano. La Torre Blanco-Oro pasó a ser el Palacio Imperial.
+
+### Capital Universal
+Cada imperio sucesivo — Alessiano, Reman, Septim, Mede — ha gobernado desde la Ciudad Imperial.
+
+## Estructura
+
+La ciudad está construida sobre una **isla circular** en el centro del lago Rumare, unida al continente por puentes. Está organizada en distritos:
+
+- **El Distrito del Templo** — en torno a la Torre Blanco-Oro y el Templo del Único
+- **El Distrito del Mercado** — el principal centro comercial
+- **El Distrito de los Jardines Élficos** — barrio residencial de la población élfica
+- **El Distrito de la Plaza Talos** — barrio residencial (nombrado en honor al Noveno Divino)
+- **El Distrito de la Arena** — donde se encuentra la famosa Arena Imperial
+- **La Isla de la Prisión** — el penitenciario imperial
+- **Las Alcantarillas** — una inmensa red subterránea, punto de partida de muchas aventuras
+
+## Importancia Metafísica
+
+La Torre Blanco-Oro no es solo un edificio — es un **pilar de la realidad**. Mientras ella y su Piedra (el Amuleto de los Reyes) permanezcan activas, la estructura de Mundus se ve reforzada en toda la región de Cyrodiil.
+
+La destrucción del Amuleto de los Reyes por parte de Martin Septim en 3E 433 desactivó esta Torre — un evento de implicaciones cósmicas que aún no se comprenden del todo.

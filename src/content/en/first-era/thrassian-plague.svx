@@ -1,0 +1,58 @@
+---
+title: "The Thrassian Plague"
+slug: "thrassian-plague"
+era: "first-era"
+category: "evenements"
+tags: ["plague", "sload", "thras", "all-flags-navy", "pandemic", "bendu-olo"]
+timelineYear: 2260
+summary: "The Thrassian Plague, unleashed by the Sload of Thras, decimated half of Tamriel's population and prompted the formation of the All Flags Navy."
+sources: ["Pocket Guide to the Empire 3rd Edition", "The Infernal City", "2920: The Last Year of the First Era"]
+---
+
+## The Sload's Biological Attack
+
+In 1E 2260, an unprecedented sanitary catastrophe struck the continent of **Tamriel**: the **Thrassian Plague**. This devastating epidemic, which by some estimates killed more than half the continent's population, was not a natural phenomenon but a biological weapon deliberately designed and deployed by the **Sload** — the repugnant amphibian necromancers of the **Thras** archipelago.
+
+The Sload are among the most despised races on **Nirn**, and for good reason. These massive creatures, resembling enormous slugs or obese toads, are entirely devoid of empathy or morality. To them, other races are merely resources to exploit — corpses in waiting, to be turned into undead servants. Their mastery of necromancy is unmatched, and the Thrassian Plague may have been their most ambitious and terrifying work.
+
+The disease spread with terrifying speed, transmitted through air, water, and contact. The first symptoms appeared within hours: intense fever, internal hemorrhaging, tissue necrosis. Death followed in three to five days in most cases, and recoveries were exceedingly rare. Conventional restoration magic proved largely powerless against the illness, suggesting a necromantic component in its design.
+
+## The Devastation of Tamriel
+
+The effects of the plague were apocalyptic. Entire cities were decimated within weeks. Trade routes, vectors of propagation, became highways of death. The most densely populated and best-connected regions were hit the hardest, while isolated communities stood a better chance of survival.
+
+The **Cyrodilic Empire**, at the heart of the continental trade network, was among the most affected. The great cities of Cyrodiil lost between half and two-thirds of their populations. The **Imperial City** itself was not spared, and the functioning of imperial administration was paralyzed for months. The peripheral provinces, left to fend for themselves, descended into chaos.
+
+Corpses accumulated faster than the living could bury them. Mass graves were dug outside city gates. Entire quarters were walled off, their inhabitants abandoned to their fate. Fear of contagion destroyed social bonds: the sick were driven away by their own families, physicians fled, and even priests hesitated to administer last rites.
+
+## The Sload's Motivations
+
+The exact reasons that drove the Sload to unleash this catastrophe remain debated. The most widely accepted theory is that they sought to weaken continental civilizations in order to facilitate corpse-collecting raids. For necromancers of their caliber, every death represented a potential undead servant, and the plague supplied them with millions of fresh bodies.
+
+Other scholars suggest the Sload sought to destabilize established powers in order to expand their commercial and political influence. The Sload were known for their trading and piracy activities in the Abecean Sea, and a weakened continent would be less capable of resisting their maritime predations.
+
+It is also possible that the plague was simply a large-scale experiment — a test of the Sload's necromantic capabilities carried out with total indifference to the consequences. For beings devoid of empathy and obsessed with the knowledge of death, millions of victims were merely an interesting statistical sample.
+
+## The All Flags Navy
+
+Tamriel's response, once the worst of the pandemic had passed, was one of remarkable unity. For the first and perhaps only time in history, all the nations of the continent united in a common military effort: the destruction of Thras and the extermination of its inhabitants. The **All Flags Navy** was the largest armada ever assembled on the seas of Nirn.
+
+King **Bendu Olo** of **Anvil**, in High Rock, took command of this unprecedented coalition. Warships from every province, every race, and every political allegiance converged on a single objective: Thras. Cyrodiilics, Nords, Redguards, Bretons, Bosmer, and even a few elder elven contingents set aside their differences to participate in this punitive expedition.
+
+The armada that set sail for Thras was of staggering size, numbering several hundred warships and transports. Supplying such a force was a monumental logistical challenge, but the continent's collective rage toward the Sload provided unwavering motivation. Every sailor, every soldier had lost loved ones to the plague.
+
+## The Destruction of Thras
+
+The assault on **Thras** was one of total violence. The All Flags Navy sought not conquest but annihilation. The Sload archipelago was bombarded, invaded, and systematically destroyed. The amphibians' coral cities were razed, their necromantic laboratories demolished, their populations hunted down and slaughtered without mercy or quarter.
+
+The Sload, despite their necromantic power, were unprepared for an assault of such scale. Their defenses, designed to repel isolated raids, were overwhelmed by the combined mass of the armada. The undead they raised against the invaders were destroyed faster than they could create new ones.
+
+Legend holds that the Thras archipelago was sunk beneath the waves by the combined power of the fleet's mages. Whether this submersion was real or metaphorical, the result was the same: Thras was considered destroyed, and the Sload threat eliminated for many generations. The victory was celebrated across the continent as a triumph of unity over monstrosity.
+
+## Long-term Consequences
+
+The Thrassian Plague and the campaign that followed had lasting consequences for the history of Tamriel. The massive depopulation disrupted demographic and economic balances across the entire continent. Lands were abandoned, knowledge was lost along with those who held it, and recovery took decades in some regions.
+
+Paradoxically, the plague facilitated the rise of the **Reman** dynasty a few decades later. A weakened and fragmented continent was ripe for unification under a strong hand, and Reman Cyrodiil knew how to exploit the power vacuum created by the catastrophe. The Reman Empire, the second human empire in history, was in some ways built upon the ashes left by the Sload's plague.
+
+As for the Sload, they were not entirely eradicated. Thras rose from the waves again over the centuries, and its inhabitants resumed their sinister activities — albeit on a far smaller scale. The memory of the plague and the vengeance that followed kept the Sload in relative check, and they never again attempted an attack of such magnitude against the continent.

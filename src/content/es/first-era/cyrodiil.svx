@@ -1,0 +1,85 @@
+---
+title: "Cyrodiil — El Corazón del Imperio"
+slug: "cyrodiil"
+era: "first-era"
+category: "lieux"
+tags: ["cyrodiil", "imperio", "ciudad-imperial", "colovio", "nibenay", "provincias"]
+timelineYear: 243
+summary: "La provincia de Cyrodiil, centro político de Tamriel: cuna de tres imperios, tierra de contrastes entre los guerreros colovios y los refinados nibéneos."
+sources: ["UESP: Cyrodiil", "Pocket Guide to the Empire, 1st Edition", "The Imperial Library"]
+---
+
+## Geografía
+
+Cyrodiil ocupa el centro de Tamriel, rodeado por todas las demás provincias. A pesar de su reputación como "provincia templada", es una tierra de contrastes:
+
+### Regiones
+- **Heartlands** — llanuras centrales en torno al lago Rumare y la Ciudad Imperial
+- **Colovio** (oeste) — tierras altas boscosas, hogar de guerreros pragmáticos
+- **Nibenay** (este) — fértil valle fluvial, cultura refinada y mercantil
+- **Gold Coast** — próspera costa occidental (Anvil, Kvatch)
+- **Blackwood** — marismas del sureste, frontera con los Pantanos Negros
+- **Montes Jerall** — cadena montañosa septentrional (frontera con Skyrim)
+- **Montes Valus** — montañas orientales (frontera con Morrowind)
+
+### El Lago Rumare
+En el centro exacto de la provincia, el lago Rumare rodea la **Isla de la Ciudad** sobre la cual se alza la Ciudad Imperial y la Torre Blanco-Oro.
+
+## La Ciudad Imperial
+
+La ciudad más grande de Tamriel está construida en torno a la **Torre Blanco-Oro** — una estructura ayléida anterior a toda civilización humana. La ciudad está organizada en distritos circulares:
+
+- **Green Emperor Way** — jardines y cementerio imperial
+- **Distrito del Mercado** — comercio
+- **Plaza Talos** — barrio residencial noble
+- **Distrito del Templo** — Templo de los Divinos
+- **Universidad Arcana** — centro del Gremio de Magos
+- **Arboretum** — jardines botánicos
+- **Waterfront** — empobrecido barrio portuario
+
+### La Prisión Imperial
+Bajo la Ciudad se encuentran las **Alcantarillas Imperiales** y la Prisión — el punto de partida de TES IV: Oblivion, donde el Emperador Uriel Septim VII fue asesinado.
+
+## Historia Política
+
+### Primer Imperio (Alessiano, 1E 243 - 1E 2331)
+Fundado por Santa Alessia tras liberar a los humanos de la esclavitud ayléida. Un imperio teocrático centrado en el culto de los Ocho Divinos y el monoteísmo alessiano.
+
+### Segundo Imperio (Reman, 1E 2703 - 2E 430)
+Fundado por Reman Cyrodiil, quien unificó Tamriel frente a la invasión akaviri. La dinastía fue extinguida por el Morag Tong, seguida del Interregno.
+
+### Tercer Imperio (Septim, 2E 854 - 4E 175)
+Fundado por Tiber Septim, quien conquistó todo Tamriel con la ayuda del Numidium. El período de estabilidad más largo del continente. Terminó con la Crisis de Oblivion, seguida de la dinastía Mede.
+
+## Una Cultura Dual
+
+### Los Colovios (Oeste)
+- Guerreros, legionarios, gente de frontera
+- Pragmáticos y directos
+- Arquitectura sobria en piedra
+- Cercanos a las culturas nórdica y redguarda
+- Ciudades: Chorrol, Skingrad, Anvil, Kvatch
+
+### Los Nibéneos (Este)
+- Mercaderes, nobles, eruditos
+- Refinados y políticamente sutiles
+- Arquitectura ornada y exuberantes jardines
+- Influencias élfica y akaviri en su cultura
+- Ciudades: Bravil, Leyawiin, Cheydinhal
+
+## La Legión Imperial
+
+El ejército del Imperio tiene su base en Cyrodiil — una fuerza profesional organizada a la manera romana:
+- **Legiones** numeradas (10 en tiempo de paz, más en guerra)
+- **Disciplina** — entrenamiento riguroso, código de honor
+- **Diversidad** — todas las razas pueden servir
+- **Guarniciones** en cada provincia del Imperio
+
+## Después de la Crisis de Oblivion
+
+El fin de la dinastía Septim y la destrucción del Amuleto de los Reyes debilitaron profundamente a Cyrodiil:
+- Pérdida del pacto de Akatosh que protegía contra las invasiones daédricas
+- Secesión de múltiples provincias
+- Ascenso al poder del Thalmor
+- Establecimiento de la dinastía Mede (Titus Mede I)
+- Saqueo de la Ciudad Imperial durante la Gran Guerra (4E 174)

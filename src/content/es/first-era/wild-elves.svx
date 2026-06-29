@@ -1,0 +1,78 @@
+---
+title: "Los Ayléides salvajes tras la Revuelta Alessiana"
+slug: "wild-elves"
+era: "first-era"
+category: "races"
+tags: ["ayléides", "elfos-salvajes", "revuelta-alessiana", "cyrodiil", "alessia", "diáspora"]
+timelineYear: 250
+summary: "El destino de los Ayléides supervivientes tras la Revuelta Alessiana: diáspora, asimilación y desaparición progresiva."
+sources: ["Los Elfos Salvajes", "El Último de los Ayléides", "Breve historia del Imperio", "Ayleid Survivals"]
+---
+
+## La caída de un imperio milenario
+
+Los **Ayléides**, o Elfos del Corazón del País, gobernaron **Cyrodiil** durante toda la Era Meréthica y los primeros siglos de la Primera Era. Su imperio, construido sobre la esclavitud de las poblaciones humanas, era una civilización de notable sofisticación: arquitectura cristalina, dominio de las piedras de Welkynd y Varla, y profundo conocimiento de la magia estelar.
+
+La **Revuelta Alessiana**, encabezada por la Reina-Esclava **Alessia** alrededor del año 243 de la Primera Era, acabó brutalmente con esta dominación. Respaldada por las legiones de **Pelinal Whitestrake**, las fuerzas de **Morihaus** y la ayuda de los **Nórdicos** de Cielos de Cielo, Alessia liberó a los esclavos humanos y derrocó el poder ayléide.
+
+Pero la caída del imperio no significó la exterminación inmediata de todos los Ayléides. Si bien los señores más crueles fueron masacrados y sus ciudades arrasadas, numerosos supervivientes huyeron, se ocultaron o intentaron adaptarse a un mundo que de repente les resultaba hostil.
+
+## Los primeros refugiados
+
+En los días y semanas que siguieron a la caída de la **Ciudad Imperial** y la destrucción de las principales fortalezas ayléides, comenzó un éxodo masivo. Los Ayléides huyeron en todas direcciones, buscando refugio lejos de la furia de los esclavos liberados.
+
+Algunos se dirigieron al suroeste, buscando asilo entre los **Bosmer** del **Valle de la Madera** (Valenwood) — un pueblo élfico con el que compartían antiguos lazos culturales. Los Bosmer, fieles al Pacto Verde y a sus propias tradiciones, acogieron a algunos refugiados pero no a todos.
+
+Otros huyeron hacia el noreste, adentrándose en los bosques del **Nibenay** oriental y las estribaciones de las montañas que bordean **Morrowind**. Estos grupos intentaron mantener una existencia independiente en los espacios salvajes que los humanos aún no habían colonizado.
+
+Otros buscaron refugio en las profundidades de sus propias ruinas, escondiéndose en las catacumbas de ciudades que los conquistadores humanos no se atrevían a explorar por completo.
+
+## Los "Elfos Salvajes": supervivencia marginal
+
+El término "Elfos Salvajes" (Wild Elves) fue utilizado por los cronistas humanos para designar a las comunidades ayléides que persistieron en los bosques y tierras salvajes de Cyrodiil. El término es a la vez descriptivo y peyorativo — refleja la mirada de los vencedores sobre un pueblo otrora dominante reducido a una existencia marginal.
+
+Estas comunidades supervivientes eran radicalmente diferentes del imperio que las había precedido. Privados de sus ciudades, sus redes comerciales y su infraestructura mágica, los Ayléides salvajes regresaron a un modo de vida mucho más primitivo.
+
+Vivían en pequeños grupos familiares, cazando y recolectando, evitando cualquier contacto con los asentamientos humanos. Su magia, antaño alimentada por las piedras de Welkynd y las redes de energía de sus ciudades, se redujo a prácticas individuales limitadas.
+
+## La persecución por la Orden Alessiana
+
+La situación de los supervivientes ayléides empeoró considerablemente con el ascenso de la **Orden Alessiana**. Las doctrinas de **Marukh** preconizaban la eliminación de toda influencia élfica en la sociedad humana, y los Ayléides supervivientes se convirtieron en objetivos prioritarios.
+
+Los inquisidores alessianos organizaron campañas sistemáticas para rastrear y eliminar las comunidades de Elfos Salvajes. Los bosques fueron batidos, las cuevas exploradas, y cualquiera sospechoso de albergar elfos era severamente castigado.
+
+Esta persecución aceleró considerablemente el declive de los Ayléides. Los grupos que aún no habían huido de Cyrodiil se vieron obligados a marcharse definitivamente o a ocultarse con una eficacia cada vez mayor, reduciendo aún más su tamaño y visibilidad.
+
+Paradójicamente, incluso los Ayléides que habían ayudado a Alessia durante la revuelta — pues algunos señores ayléides se habían unido a la causa de los esclavos — no fueron perdonados. La Orden no hacía distinciones: todo elfo era un enemigo.
+
+## La asimilación entre los Bosmer
+
+El **Valle de la Madera** se convirtió en el principal refugio de los Ayléides que eligieron la asimilación en lugar del aislamiento. Los **Bosmer** acogieron a los refugiados, y con el paso de las generaciones, los Ayléides se fundieron con la población local.
+
+Este proceso de asimilación no fue inmediato. Durante algunas generaciones, existieron comunidades claramente ayléides en el Valle de la Madera, manteniendo sus tradiciones y su identidad. Pero los matrimonios mixtos, la adopción de las costumbres bosmeri y la presión del tiempo hicieron su obra.
+
+Algunos eruditos sostienen que la influencia ayléide sobre la cultura bosmer es perceptible en ciertas prácticas arquitectónicas y mágicas del Valle de la Madera, aunque los propios Bosmer minimizan esta contribución extranjera a su cultura.
+
+## Los últimos testimonios
+
+Las menciones de Elfos Salvajes en los archivos históricos se vuelven cada vez más escasas con el paso de los siglos. Los últimas observaciones documentadas datan aproximadamente de mediados de la Primera Era, tras lo cual los Ayléides como pueblo identificable dejan de aparecer en las fuentes.
+
+Algunos relatos aislados de viajeros mencionan encuentros con seres extraños en los bosques profundos de Cyrodiil — elfos distintos de los Bosmer o los Altmer, más altos, más pálidos, hablando una lengua olvidada. Pero estos testimonios son escasos, poco fiables e imposibles de verificar.
+
+La **Cámara de los Susurros** compilaría más tarde informes que sugieren que individuos de ascendencia ayléide persistieron mucho más tiempo de lo que la mayoría de los historiadores supone, ocultos en las profundidades de los bosques o confundidos con otros pueblos élficos.
+
+## El legado material
+
+Si los Ayléides como pueblo desaparecieron, sus obras los sobrevivieron. Las ruinas ayléides salpican aún Cyrodiil milenios después — estructuras de piedra blanca invadidas por la vegetación, pozos que conducen a catacumbas pobladas de muertos vivientes, pedestales donde las piedras de Welkynd todavía brillan a veces.
+
+Las **piedras de Welkynd**, cristales azules que almacenan energía mágica, siguen siendo objetos valiosos buscados por magos y aventureros. Las **piedras de Varla**, más raras y capaces de recargar los encantamientos, alcanzan precios astronómicos en el mercado negro.
+
+La arquitectura ayléide, con sus elegantes arcos y sus espacios abiertos hacia el cielo, influyó duraderamente en la estética imperial. La propia **Ciudad Imperial**, aunque reconstruida por los humanos, conserva cimientos y elementos estructurales ayléides.
+
+## La memoria y el olvido
+
+El destino de los Ayléides plantea una inquietante pregunta sobre la fragilidad de las civilizaciones. Un pueblo que gobernó durante milenios, que construyó maravillas y dominó saberes extraordinarios, quedó reducido a unas pocas bandas de fugitivos en el espacio de unas pocas generaciones, antes de desaparecer por completo.
+
+Su historia es también un espejo incómodo para el Imperio que los reemplazó. Los humanos, antaño esclavos de los Ayléides, se convirtieron a su vez en conquistadores que redujeron a servidumbre o exterminaron a otros pueblos. La **Revuelta Alessiana** fue un acto de liberación, pero sus consecuencias incluyeron la destrucción completa de un pueblo y su cultura.
+
+Las ruinas ayléides de Cyrodiil son los monumentos silenciosos de esa lección: ningún poder es eterno, y la crueldad engendra crueldad a través de las generaciones.

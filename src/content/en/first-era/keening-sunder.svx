@@ -1,0 +1,62 @@
+---
+title: "Keening, Sunder, and Wraithguard"
+slug: "keening-sunder"
+era: "first-era"
+category: "artefacts"
+tags: ["keening", "sunder", "wraithguard", "kagrenac", "dwemer", "heart-of-lorkhan", "tools", "morrowind"]
+timelineYear: 700
+summary: "Kagrenac's three tools — Keening, Sunder, and Wraithguard — created to manipulate the Heart of Lorkhan, and which caused the disappearance of the Dwemer."
+sources: ["Kagrenac's Tools", "The Battle of Red Mountain", "Nerevar at Red Mountain", "Morrowind Main Quest"]
+---
+
+## The Tools of the Master Architect
+
+**Keening**, **Sunder**, and **Wraithguard** are the three artifacts created by **Kagrenac**, the Master Architect and Chief Tonal Architect of the **Dwemer**, with the purpose of manipulating the **Heart of Lorkhan** — the divine heart of the dead god **Lorkhan**, buried beneath the **Red Mountain** of Morrowind. Together these three tools represent the pinnacle of Dwemer tonal science and the most dangerous artifacts ever made by mortal hands.
+
+Their creation marked a turning point in the history of Tamriel: their use provoked the instantaneous disappearance of the entire Dwemer race, and their subsequent rediscovery by the **Tribunal** allowed three mortals to become living gods.
+
+## Kagrenac and Tonal Science
+
+**Kagrenac** was the most brilliant scientist of Dwemer civilization — a "Tonal Architect" who mastered the art of manipulating matter and reality through resonance and sound. Dwemer tonal science postulated that every thing possesses a fundamental frequency, and that manipulating this frequency allows the thing itself to be transformed.
+
+Kagrenac discovered that the Heart of Lorkhan, buried beneath Red Mountain since the Convention, could be "tuned" — that its divine frequency could be exploited to confer divinity upon the entire Dwemer people. To accomplish this, he designed three specific tools, each fulfilling a precise function in the process.
+
+## Sunder — The Hammer
+
+**Sunder** is an enchanted smith's hammer designed to strike the Heart of Lorkhan and extract divine substance from it. Each blow of Sunder upon the Heart produces a tonal resonance that releases a parcel of divine energy — like a miner extracting ore from a deposit, but on a metaphysical scale.
+
+The hammer is made from an unknown Dwemer alloy, set with crystals that channel and contain the energy released by the impact. Without the protection of Wraithguard, merely holding Sunder is enough to disintegrate the bearer — the divine energy is so intense that it instantly consumes the flesh and soul of anyone who touches it without adequate protection.
+
+## Keening — The Blade
+
+**Keening** is a crystal dagger whose blade vibrates at a precise frequency designed to "shape" the divine energy extracted by Sunder. If Sunder is the smith's hammer, Keening is the chisel that gives form to the raw metal. The blade cuts and sculpts the divine substance, preparing it for the desired use.
+
+The constant hum of Keening — audible even through its scabbard — attests to its permanent tonal vibration. This vibration is so precisely calibrated that it can interact with the fundamental forces of Creation. Like Sunder, Keening is lethal to anyone who wields it without Wraithguard.
+
+## Wraithguard — The Gauntlet
+
+**Wraithguard** is an enchanted gauntlet that serves as protection for the bearer of the other two tools. Its enchantment creates a barrier between mortal flesh and the divine energies manipulated by Keening and Sunder, preventing the bearer's disintegration. Without Wraithguard, using the other two tools is certain suicide.
+
+Wraithguard is also the most difficult tool to activate — it requires a specific **attunement** process for each bearer, adapting the protective enchantment to the user's unique spiritual signature. This process, in the case of the **Nerevarine**, required the personal intervention of **Vivec** himself.
+
+## The Disappearance of the Dwemer
+
+In 1E 700, during the **Battle of Red Mountain** that pitted the Dwemer against the Chimer-Nord alliance, Kagrenac used his three tools upon the Heart of Lorkhan in an act of desperation. The exact details of what he did — and what he sought to accomplish — are disputed, but the result is indisputable: the entirety of the **Dwemer** people vanished instantly from the surface of Nirn.
+
+All theories about this disappearance converge on one point: Kagrenac's tools were the instrument of this catastrophe. Whether he sought to make the Dwemer divine, to create a new god (**Numidium**), or simply to escape the mortal world, the tools gave him the power to transform the destiny of his entire race — for better or for worse.
+
+## The Tribunal and the Tools
+
+After the disappearance of the Dwemer, the three future members of the **Tribunal** — **Vivec**, **Almalexia**, and **Sotha Sil** — seized Kagrenac's tools. Despite the oath made to King **Nerevar** never to use them, they turned the tools upon the Heart of Lorkhan and used them to confer divinity upon themselves, becoming the living gods of Morrowind.
+
+This act — a betrayal according to most sources — gave birth to the divine Tribunal that ruled over the Dunmer for millennia. But this divinity was dependent on regular visits to the Heart to "recharge" their power, making them gods by borrowing rather than by nature.
+
+## The Nerevarine and the Tools
+
+In 3E 427, the **Nerevarine** — the prophesied reincarnation of Nerevar — in turn used Kagrenac's tools to destroy the Heart of Lorkhan beneath Red Mountain, annihilating **Dagoth Ur** and simultaneously ending both the threat of the Sixth Blight and the divine power of the Tribunal. This act fulfilled the Nerevarine Prophecy and fundamentally changed the fate of Morrowind.
+
+After the destruction of the Heart, the tools lost their purpose — without a Heart to manipulate, their primary function had become moot. Their subsequent fate is uncertain: Keening was recovered at Winterhold centuries later, but Sunder and Wraithguard appear to have vanished.
+
+## Metaphysical Significance
+
+Kagrenac's tools illustrate the supreme ambition of the Dwemer: to manipulate the very foundations of Creation. Where other peoples prayed to the gods, the Dwemer built tools to equal them. This audacity — this hubris — is both their greatest achievement and the probable cause of their end. The tools remain a warning: some powers are not meant for mortal hands, however skilled those of Kagrenac might have been.

@@ -1,0 +1,82 @@
+---
+title: "The War of Righteousness"
+slug: "war-of-righteousness"
+era: "first-era"
+category: "evenements"
+tags: ["war-of-righteousness", "alessian-order", "marukh", "alessian-reform", "first-empire"]
+timelineYear: 482
+summary: "The War of Righteousness that ended the theocratic dominion of the Alessian Order over the Cyrodilic Empire."
+sources: ["The Alessian Reform", "A Brief History of the Empire", "The Alessian Orders"]
+---
+
+## The Alessian Order: An Absolutist Theocracy
+
+To understand the **War of Righteousness**, one must first grasp the extent of the power exercised by the **Alessian Order** over Cyrodiil and its provinces during the early centuries of the First Era. Born from the teachings of the monkey prophet **Marukh**, this religious order transformed faith in **Alessia** into a radical monotheistic dogma that tolerated no dissent.
+
+The Alessian Order proclaimed the existence of a single, invisible God, rejecting traditional polytheism and above all any elvish influence in religion. This doctrine, born of the understandable hatred of former human slaves toward their **Ayleid** masters, gradually became an instrument of total control over Cyrodilic society.
+
+At the height of their power, Alessian priests controlled not only the Empire's spiritual life but also its politics, economy, and justice. Anyone who opposed their doctrines was declared a heretic and treated accordingly.
+
+## The Doctrines of Marukh
+
+**Marukh**, the ideological founder of the Order, was according to legend an Imga (ape-man) prophet who received visions from the Slave-Queen **Alessia** after her death. His teachings formed the basis of Alessian dogma:
+
+The total rejection of any form of elvish worship and of any syncretism between human and Meric traditions. The **Eight Divines** themselves were reinterpreted to eliminate any trace of Aldmeri influence.
+
+The assertion of a single, abstract divine principle, transcending anthropomorphic representations of the gods. This doctrine, called the **Alessian Reform**, was intellectually sophisticated but politically oppressive.
+
+An obsession with human racial and cultural purity, which resulted in systematic persecution of the remaining elvish populations and of any human suspected of pro-elvish sympathies.
+
+## The Extent of Alessian Power
+
+At its peak, the Alessian Order ruled over a territory stretching from **Cyrodiil** to **High Rock** and **Skyrim**, imposing its doctrines through a network of priests, inquisitors, and fanatical soldiers.
+
+Kings and nobles were reduced to puppets, unable to govern without the Order's approval. Civil laws were subordinated to religious law, and ecclesiastical courts took precedence over all secular justice.
+
+Education, culture, and even daily life were governed by Alessian prescriptions. Pagan festivals were abolished, texts deemed heretical were destroyed, and constant surveillance was maintained over the population.
+
+## The Seeds of Rebellion
+
+Despite — or because of — their absolute power, the Alessians attracted growing opposition. Several factors contributed to the accumulation of discontent:
+
+**Cyrodilic nobles** resented the loss of their political autonomy and the clergy's stranglehold over their lands and revenues. The nobility, traditionally warrior-class, could not bear submitting to clerics.
+
+The **Nordic kingdoms** of Skyrim, though nominally allied with the Order, chafed at the growing interference in their ancestral religious traditions. The worship of **Shor** and Nordic animal totems were directly threatened by Alessian monotheism.
+
+**Surviving Meric populations** and communities of mixed human and elf culture endured unbearable oppression that pushed them toward armed resistance.
+
+Finally, within the Order itself, rival factions clashed for power, weakening the institution's internal cohesion.
+
+## The Outbreak of War
+
+The War of Righteousness broke out in 1E 482, when a coalition of secular forces rose simultaneously against the dominion of the Alessian Order. The term "Righteousness" is ironic — it was likely claimed by both sides, each believing themselves morally justified.
+
+The coalition brought together a heterogeneous array of forces: Cyrodilic nobles weary of theocracy, Nordic warlords defending their traditions, elven communities fighting for survival, and dissident factions within the religious structures themselves.
+
+The conflict was not a single battle but an extended civil war, touching all territories under Alessian control. Sieges, pitched battles, and guerrilla campaigns played out simultaneously across several provinces.
+
+## The Course of the Conflict
+
+The early phases of the war were chaotic. The Alessian Order commanded considerable resources, an effective spy network, and the fanatical loyalty of a portion of the population. But the coalition enjoyed the military superiority of the warrior nobility and growing popular support.
+
+The most significant battles were fought in the highlands of Cyrodiil, around the great temples and Alessian strongholds. The warrior-priests of the Order fought with desperate fervor, convinced they were defending divine will against the forces of evil.
+
+Some of the most destructive magic ever deployed across Tamriel was used during this conflict. Fragmentary archives mention rituals capable of devastating entire armies, conjurations that tore the veil between Mundus and **Oblivion**, and acts of destruction that left permanent scars on the landscape.
+
+## The Fall of the Order
+
+The war culminated in the destruction of the Alessian centers of power. The great temples were stormed, archives burned, and the Order's leaders captured or killed. The organizational structure that had held the Empire under theocratic control for centuries collapsed within a few years.
+
+The defeat of the Alessian Order was not merely military but also ideological. The people, freed from inquisitorial terror, massively rejected the doctrines that had been imposed upon them. The return to polytheism and religious tolerance was swift and enthusiastic.
+
+Survivors of the Order were dispersed, some fleeing to remote regions where they attempted to maintain their practices in secret. Others reconverted, adopting less extreme forms of spirituality. As a political institution, the Alessian Order ceased to exist.
+
+## Consequences and Legacy
+
+The War of Righteousness profoundly transformed Cyrodilic and Tamrielic society:
+
+The return to the **cult of the Eight Divines** in its traditional polytheistic form marked the end of the monotheistic experiment. Religion became once again a domain of diversity and personal choice, though the memory of Alessian oppression left Cyrodiil durably suspicious of any religious fanaticism.
+
+The **relative separation of temporal and spiritual power** became an implicit political principle. Later empires — notably the **Reman Empire** and the **Septim Empire** — would maintain a state cult but never permit religious institutions to acquire absolute political power.
+
+The conflict also left a power vacuum that would not be filled until centuries later with the emergence of the **Reman Dynasty** and the Second Empire.

@@ -1,0 +1,159 @@
+---
+title: "Las Grandes Casas Dunmer"
+slug: "grandes-maisons-dunmer"
+era: "first-era"
+category: "empires"
+tags: ["dunmer", "morrowind", "redoran", "telvanni", "hlaalu", "indoril", "dres", "dagoth", "grandes-casas"]
+date: "1E 700 — presente"
+timelineYear: 700
+summary: "Las Grandes Casas de Morrowind son los clanes políticos y familiares que han gobernado la sociedad Dunmer durante milenios. Cada una encarna una filosofía, un modo de vida y un enfoque del poder distintos."
+mapCoords: { x: 730, y: 290 }
+province: "Morrowind"
+aliases: ["Casas de Morrowind", "Clanes Dunmer", "Gran Consejo"]
+relatedArticles: ["nerevar", "tribunal", "vivec", "guerre-alliance", "marais-noir"]
+sources: ["UESP: Great Houses", "A Short History of Morrowind", "Great Houses of Morrowind", "The Imperial Library"]
+---
+
+![Los blasones de las Grandes Casas de Morrowind](/images/first-era/grandes-maisons-dunmer.jpg)
+
+## El Sistema de las Grandes Casas
+
+La sociedad **Dunmer** (y antes de ella, la Chimer) se organiza en torno a clanes familiares amplios conocidos como **Grandes Casas**. Este sistema, muy anterior al propio Tribunal, estructura todos los aspectos de la vida en Morrowind: política, economía, religión, guerra y cultura.
+
+Cada Dunmer pertenece a una Casa por nacimiento o adopción. Las Casas son gobernadas por un **Consejo** presidido por un **Archmaestre** (o equivalente), y se reúnen colectivamente en el **Gran Consejo** de Morrowind, el máximo órgano político de la provincia.
+
+Históricamente, seis Grandes Casas han dominado: **Redoran**, **Telvanni**, **Hlaalu**, **Indoril**, **Dres** y la caída **Dagoth**.
+
+## Casa Redoran
+
+### Filosofía
+La Casa Redoran es la casa del **deber, el honor y la guerra**. Sus miembros valoran el coraje marcial, la piedad religiosa y el servicio desinteresado a la comunidad. Se les considera los más "nobles" de los Dunmer en el sentido clásico del término.
+
+### Territorio
+Los Redoran controlan el **noroeste de Morrowind**, una región árida y hostil cerca de la frontera con Skyrim. Su capital es **Ald'ruhn**, construida bajo el caparazón de un enorme cangrejo emperador, y más tarde **Blacklight** en el continente.
+
+### Características
+- Los mejores guerreros de Morrowind
+- Organización cuasi militar
+- Fuerte devoción al Tribunal y a los ancestros
+- Estricto código de honor comparable al bushido
+- Arquitectura austera y funcional
+
+### Papel Histórico
+Los Redoran han servido tradicionalmente como escudo militar de Morrowind. Durante la Crisis de Oblivion y la erupción de la Montaña Roja (4E 5), fueron ellos quienes organizaron la evacuación y la reconstrucción, convirtiéndose en la Casa dominante de la Cuarta Era.
+
+## Casa Telvanni
+
+### Filosofía
+La Casa Telvanni es la casa de la **magia, el individualismo y el poder personal**. Sus miembros — principalmente magos poderosos — creen que la fuerza (sobre todo mágica) otorga el derecho a gobernar. Desprecian las convenciones sociales y la política ordinaria.
+
+### Territorio
+Los Telvanni dominan la **costa oriental** de Morrowind y las islas circundantes. Sus moradas son las famosas **torres de setas** — enormes estructuras orgánicas cultivadas mediante magia, accesibles únicamente por levitación.
+
+### Características
+- Los magos más poderosos de Tamriel
+- Aislacionismo extremo
+- Práctica abierta de la nigromancia y artes prohibidas en otros lugares
+- Tolerancia de la esclavitud (principalmente de Argonianos y Khajiit)
+- Desdén por el Tribunal y el Imperio
+- Longevidad excepcional de sus maestros (algunos viven durante milenios)
+
+### Papel Histórico
+Los Telvanni siempre han sido los rebeldes de Morrowind — con frecuencia se niegan a participar en el Gran Consejo, ignoran las leyes imperiales y persiguen sus investigaciones sin restricciones éticas. El maestro Telvanni **Divayth Fyr**, con más de 4.000 años de edad, es uno de los seres más antiguos y poderosos de Tamriel.
+
+## Casa Hlaalu
+
+### Filosofía
+La Casa Hlaalu es la casa del **comercio, la diplomacia y la adaptabilidad**. Sus miembros destacan en los negocios, la política y el espionaje. Son pragmáticos ante todo: dispuestos a doblar antes que a romperse.
+
+### Territorio
+Los Hlaalu controlan el **suroeste de Morrowind**, las regiones más fértiles y mejor conectadas con las rutas comerciales hacia Cyrodiil. Su capital es **Narsis**.
+
+### Características
+- Los comerciantes y diplomáticos más hábiles
+- Estrecha colaboración con el Imperio (especialmente durante la Tercera Era)
+- Vínculos profundos con el Gremio de Ladrones y la Camonna Tong
+- Flexibilidad moral y política
+- Considerable riqueza
+
+### Papel Histórico
+Los Hlaalu fueron la Casa dominante durante la **Tercera Era** gracias a su colaboración con el Imperio Septim. Tras el colapso del Imperio y la Crisis de Oblivion, esta colaboración fue vista como una traición, y los Hlaalu fueron **despojados** de su estatus de Gran Casa a principios de la Cuarta Era, reemplazados por la Casa Sadras.
+
+## Casa Indoril
+
+### Filosofía
+La Casa Indoril es la casa de la **religión, la justicia y la tradición**. Profundamente devota, proporciona la mayoría de los sacerdotes y magistrados de Morrowind. Los Indoril son los guardianes de la ortodoxia y la ley ancestral.
+
+### Territorio
+Los Indoril dominan el **centro-este de Morrowind**, incluida la ciudad santa de **Mournhold** (Almalexia), capital religiosa de la provincia.
+
+### Características
+- Guardianes del Templo del Tribunal
+- Proporcionan a los Ordenadores (policía religiosa)
+- Conservadurismo extremo
+- Feroz oposición al Imperio y a cualquier cambio
+- Armadura sagrada de Indoril — cualquier no-Dunmer que la vista es ejecutado al instante
+
+### Papel Histórico
+La Casa Indoril fue en su día la más poderosa — el propio **Nerevar** llevaba ese nombre. Tras el Tratado del Armisticio que sometió Morrowind al Imperio Septim, muchos Indoril prefirieron el suicidio antes que aceptar el dominio imperial. La Casa decayó después en favor de los más conciliadores Hlaalu.
+
+## Casa Dres
+
+### Filosofía
+La Casa Dres es la casa de la **agricultura, la esclavitud y la tradición ancestral**. Situada en el sur de Morrowind, los Dres son los mayores esclavistas y los más fervientes defensores de esa institución.
+
+### Territorio
+Los Dres controlan el **sureste de Morrowind**, una región de marismas y plantaciones que bordea el Pantano Negro argoniano. Su capital es **Tear**.
+
+### Características
+- Los mayores esclavistas de Morrowind
+- Incursiones constantes contra Argonianos y Khajiit
+- Sociedad agraria y conservadora
+- Aislacionismo cultural
+- Resistencia a la abolición imperial de la esclavitud
+
+### Papel Histórico
+Los Dres sufrieron terriblemente durante la **Invasión Argoniana** del 4E 6, cuando los Argonianos — liberados y vengadores — asolaron el sur de Morrowind. La ciudad de Tear fue arrasada y las plantaciones Dres destruidas.
+
+## Casa Dagoth (La Sexta Casa)
+
+### Filosofía
+La Casa Dagoth fue en su día la casa de la **lealtad y el secreto**. Tras su caída, se convirtió en la casa de la **corrupción, los sueños y la locura divina**.
+
+### Historia
+Dirigida por **Voryn Dagoth** (más tarde **Dagoth Ur**), la Sexta Casa fue destruida y proscrita tras la Guerra del Primer Consejo. Voryn Dagoth, encargado de custodiar las Herramientas de Kagrenac, fue corrompido por el Corazón de Lorkhan y se convirtió en una entidad cuasi divina y maléfica.
+
+### La Resurgencia
+Durante la Tercera Era, Dagoth Ur despertó bajo la Montaña Roja y comenzó a propagar la **Plaga del Corprus** y el **Tizón** por toda Vvardenfell. La Sexta Casa "reclutó" adeptos a través de los sueños y la enfermedad, creando un ejército de monstruos deformes.
+
+### Características de la Sexta Casa Resucitada
+- Culto del sueño centrado en Dagoth Ur
+- Transformación física de los adeptos (Ascended Sleepers, Ash Vampires)
+- Conexión con el Corazón de Lorkhan
+- Oposición tanto al Tribunal como al Imperio
+- Destruida definitivamente por el Nerevarine en el 3E 427
+
+## El Gran Consejo
+
+Las Grandes Casas se reúnen en el **Gran Consejo**, el máximo órgano de gobierno de Morrowind. Cada Casa cuenta con representantes, y las decisiones importantes requieren consenso (a menudo difícil de alcanzar).
+
+El Gran Consejo gestiona:
+- La política exterior de Morrowind
+- Las disputas territoriales entre Casas
+- Las cuestiones de guerra y paz
+- Las relaciones con el Imperio (bajo el Tratado del Armisticio)
+- Las leyes aplicables a toda la provincia
+
+## Evolución a Través de las Eras
+
+El poder relativo de las Casas ha fluctuado considerablemente:
+
+| Era | Casas Dominantes | Contexto |
+|-----|------------------|----------|
+| Primera Era | Indoril, Dagoth | Era de Nerevar y el Tribunal |
+| Segunda Era | Indoril, Redoran | Dominio del Templo |
+| Tercera Era | Hlaalu, Redoran | Alianza imperial |
+| Cuarta Era | Redoran, Telvanni | Tras la Montaña Roja |
+
+> "Cinco Casas bajo un mismo techo, y cada una cree ser el pilar que sostiene el techo."
+> — Proverbio Dunmer

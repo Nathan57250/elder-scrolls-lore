@@ -1,0 +1,103 @@
+---
+title: "The Mages Guild at the College of Winterhold"
+slug: "enchantement"
+era: "first-era"
+category: "magie"
+tags: ["enchanting", "soul-gems", "azura", "magic", "artifacts", "soul-trap"]
+timelineYear: 500
+summary: "Enchanting is the art of imbuing objects with magical properties through soul gems. It is a controversial discipline, as it imprisons the souls of creatures to power its enchantments."
+sources: ["UESP: Enchanting", "Souls, Black and White", "The Imperial Library"]
+---
+
+## Fundamental Principles
+
+**Enchanting** is the magical discipline that allows supernatural properties to be imbued into objects (weapons, armor, jewelry, clothing). Unlike alchemy (which uses natural ingredients), enchanting requires a **filled soul gem** as an energy source.
+
+### The Process
+1. **Capture** a soul in a soul gem (via the "Soul Trap" spell)
+2. **Choose** an object to enchant
+3. **Apply** the enchantment at an enchanting table
+4. The soul is **consumed** — destroyed to power the enchantment
+
+## Soul Gems
+
+### Types (by size)
+| Gem | Capacity | Souls Contained |
+|-----|----------|-----------------|
+| Petty | Minimal | Mudcrabs, rabbits |
+| Lesser | Low | Wolves, skeletons |
+| Common | Medium | Sabre cats, trolls |
+| Greater | High | Mammoths, powerful Draugr |
+| Grand | Maximum | Giants, dragons (non-dragon souls) |
+| Black | Any soul | **Humanoid souls** (controversial) |
+
+### Black Soul Gems
+**Black Soul Gems** are the only ones capable of containing **humanoid souls**:
+- Considered necromancy
+- Illegal in most jurisdictions
+- Created during necromantic rituals
+- The corrupted Azura's Star (Black Star) functions as a reusable black soul gem
+- Soul Trap cast on a humanoid without a black gem will fail
+
+## Ethics and Controversy
+
+### The Debate
+- Are animal souls "less important" than humanoid ones?
+- Does enchanting destroy the soul, or does it release it once spent?
+- Is the White/Black hierarchy arbitrary?
+- The Dunmer practice enchanting with black soul gems without taboo
+
+### The Mages Guild's Position
+- White gems: universally accepted
+- Black gems: officially prohibited
+- In practice: many mages use them discreetly
+- The Order of the Worm (Mannimarco) uses them openly
+
+## The Art of Enchanting
+
+### Weapon Enchantments
+- Fire, frost, shock damage
+- Absorb health/magicka/stamina
+- Paralysis
+- Built-in Soul Trap
+- Fear, Terror
+- Banish Daedra
+
+### Armor Enchantments
+- Elemental resistance
+- Skill fortification
+- Magic resistance
+- Muffle (silenced footsteps)
+- Water breathing
+- Regeneration
+
+### Jewelry Enchantments
+- Fortify magicka/health/stamina
+- Poison resistance
+- Improved speechcraft (Persuasion)
+- Merchant prices (Barter)
+
+## Notable Master Enchanters
+
+- **The Telvanni** — Dunmer mages mastering advanced enchanting
+- **The Dwemer** — unique mechanical enchantments (lost)
+- **Neloth** (Tel Mithryn) — considered one of the greatest living enchanters
+- **The Psijics** — subtle and powerful enchantments
+
+## Enchanting Tables
+
+In Skyrim, enchanting tables can be found:
+- In colleges of magic (Winterhold)
+- With certain court mages (Palaces)
+- In Jarls' halls (Dragonsreach)
+- In certain abandoned fortresses
+- Constructible in the Dovahkiin's homes
+
+## Disenchanting
+
+**Disenchanting** destroys an enchanted object in order to:
+- Learn the enchantment it carried
+- Allow that enchantment to be reproduced
+- The object is destroyed in the process
+- The learned enchantment can be applied to other objects
+- Certain unique enchantments cannot be learned

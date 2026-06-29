@@ -1,0 +1,45 @@
+---
+title: "The Imperial City"
+slug: "cite-imperiale"
+era: "first-era"
+category: "geographie"
+tags: ["cyrodiil", "imperial-city", "white-gold-tower", "empire", "ayleid"]
+date: "1E 243 — present"
+timelineYear: 243
+summary: "Capital of every Empire of Tamriel, built around the Ayleid White-Gold Tower on City Isle, at the center of Lake Rumare."
+mapCoords: { x: 512, y: 480 }
+province: "Cyrodiil"
+relatedArticles: ["premiere-ere", "crise-oblivion"]
+sources: ["UESP: Imperial City", "A Short History of Cyrodiil"]
+---
+
+## History
+
+The **Imperial City** is the largest and most important city in Tamriel, serving as the capital of every empire that has unified the continent.
+
+### Ayleid Origins
+The White-Gold Tower was built by the **Ayleids** (Wild Elves) during the Merethic Era. It is one of the metaphysical Towers that anchor the reality of Mundus — its Stone being the Amulet of Kings.
+
+### The Alessian Conquest (1E 243)
+**Alessia** and her slave revolt seized the Imperial City from the Ayleids, making it the capital of the first human empire. The White-Gold Tower became the Imperial Palace.
+
+### Universal Capital
+Every successive empire — Alessian, Reman, Septim, Mede — has governed from the Imperial City.
+
+## Layout
+
+The city is built on a **circular island** in the middle of Lake Rumare, connected to the mainland by bridges. It is organized into districts:
+
+- **The Temple District** — surrounding the White-Gold Tower and the Temple of the One
+- **The Market District** — the main commercial hub
+- **The Elven Gardens District** — residential quarter for the elven population
+- **The Talos Plaza District** — residential district (named after the Ninth Divine)
+- **The Arena District** — home of the famous Imperial Arena
+- **The Prison Isle** — the Imperial penitentiary
+- **The Sewers** — an immense underground network, the starting point of many adventures
+
+## Metaphysical Significance
+
+The White-Gold Tower is more than a building — it is a **pillar of reality**. As long as it and its Stone (the Amulet of Kings) remain active, the structure of Mundus is reinforced throughout Cyrodiil.
+
+The destruction of the Amulet of Kings by Martin Septim in 3E 433 deactivated this Tower — an event with cosmic implications that are still poorly understood.

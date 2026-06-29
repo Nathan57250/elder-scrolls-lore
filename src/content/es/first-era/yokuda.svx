@@ -1,0 +1,150 @@
+---
+title: "Yokuda"
+slug: "yokuda"
+era: "first-era"
+category: "geographie"
+tags: ["yokuda", "redguard", "ra-gada", "continente", "catastrofe", "hammerfell", "cantos-de-espada"]
+date: "Era Merética — 1E 808"
+timelineYear: 800
+summary: "Yokuda, el continente perdido de los Redguard, fue engullido por el mar en una catástrofe cuya causa exacta sigue siendo debatida. Sus supervivientes, los Ra Gada, conquistaron Hammerfell y establecieron allí su civilización."
+mapCoords: { x: 80, y: 350 }
+province: "Yokuda (destruido)"
+aliases: ["El Continente Perdido", "Tierra de los Ancestros", "Yokuda la Sumergida"]
+relatedArticles: ["premiere-ere", "haute-roche"]
+sources: ["UESP: Yokuda", "Varieties of Faith", "Pocket Guide to the Empire: Hammerfell", "The Imperial Library"]
+---
+
+![Las ruinas sumergidas de Yokuda](/images/first-era/yokuda.jpg)
+
+## Un Continente Desaparecido
+
+**Yokuda** era un vasto continente situado al oeste de Tamriel, más allá del océano Elthérico. Hoy casi enteramente sumergido, de Yokuda solo quedan unas pocas islas dispersas y los recuerdos transmitidos por los descendientes de sus habitantes — los **Redguard** de Hammerfell.
+
+La destrucción de Yokuda es una de las mayores catástrofes de la historia conocida, comparable a la separación de Aldmeris o a la Ruptura del Dragón. Un continente entero — con sus civilizaciones, sus imperios, sus millones de habitantes — tragado por las olas.
+
+## Geografía de Yokuda
+
+Antes de su destrucción, Yokuda se describía como un continente compuesto de:
+
+- Un gran territorio central árido y montañoso
+- Vastos desiertos interiores similares a los de Hammerfell
+- Costas fértiles donde se concentraban las poblaciones
+- Numerosas islas satélite
+- Un clima generalmente cálido y seco
+
+Las descripciones anteriores a la catástrofe mencionan grandes ciudades de piedra blanca, jardines colgantes irrigados por sofisticados acueductos y academias de guerra renombradas en todo el mundo conocido.
+
+## La Civilización Yokudana
+
+### Estructura Social
+
+La sociedad yokudana estaba organizada en **imperios guerreros** donde el dominio de la espada determinaba el rango social. Esta civilización marcial desarrolló el arte del combate con espada a un nivel sin igual en ningún otro lugar de Mundus.
+
+Las principales instituciones incluían:
+
+- Las **Órdenes de la Espada** — hermandades marciales semireligiosas
+- La **Monarquía Alta** — el linaje real supuestamente divino
+- El **Consejo de Na-Totambu** — la nobleza guerrera
+- Los **Ansei** — Maestros de la Espada capaces de manifestar armas de luz
+
+### Los Ansei y los Cantos de Espada
+
+Los **Ansei** ("Santos de la Espada") eran guerreros que habían alcanzado tal maestría que podían invocar una **Shehai** — una Espada-Canto (Spirit Sword) formada de pura voluntad. Esta arma inmaterial era conocida por poder cortar cualquier material.
+
+Los más grandes Ansei podían crear Shehai permanentes y transmitirlas a sus discípulos. El arte del Canto de Espada es considerado la más alta expresión de la espiritualidad yokudana — la fusión perfecta del cuerpo, la mente y el alma en un arma viviente.
+
+### Religión
+
+Los yokudanos veneraban un panteón distinto al de los demás pueblos de Tamriel:
+
+- **Ruptga** (Tall Papa) — rey de los dioses, guía de los espíritus
+- **Tu'whacca** — dios de las almas y la muerte
+- **Tava** — diosa de los pájaros y el viento
+- **Zeht** — dios de la agricultura
+- **Morwha** — diosa madre de la fertilidad
+- **HoonDing** — "El que abre el camino", espíritu de la perseverancia
+- **Leki** — diosa santa del Canto de Espada
+- **Sep** — la serpiente embaucadora (equivalente de Lorkhan)
+- **Satakal** — la Serpiente del Mundo, ciclo eterno de creación y destrucción
+
+## La Destrucción de Yokuda
+
+### Las Causas
+
+La destrucción de Yokuda hacia el **1E 792** sigue rodeada de misterio y controversia. Varias teorías coexisten:
+
+**La Teoría de la Espada Atómica:**
+La versión más extendida atribuye la destrucción a un grupo de guerreros renegados — los **Hiradirge** (Ansei malditos) — que utilizaron una técnica prohibida llamada la **Espada Pankratos**. Esta técnica, un poder del Canto de Espada llevado a su extremo destructivo, habría literalmente "cortado" el continente, separándolo de la existencia.
+
+**La Teoría de la Catástrofe Natural:**
+Algunos eruditos proponen que un colosal terremoto o una erupción volcánica masiva provocaron el colapso geológico del continente. Las evidencias sísmicas de las islas restantes parecen apoyar esta hipótesis.
+
+**La Teoría de la Guerra Civil:**
+Otros sugieren que la guerra entre los Na-Totambu y la **Guerra de los Cantores** devastó tanto el continente que los supervivientes se vieron obligados a huir, pues la tierra se había vuelto inhabitable en lugar de literalmente sumergida.
+
+### La Cronología
+
+Sea cual fuere la causa, la catástrofe no fue instantánea. Las señales de advertencia se extendieron durante años:
+
+1. Terremotos crecientes
+2. Submersión progresiva de las costas
+3. Erupciones volcánicas en cadena
+4. Éxodo gradual de las poblaciones costeras
+5. Colapso final del continente principal
+
+## Los Ra Gada: El Éxodo
+
+### Las Oleadas Migratorias
+
+Los supervivientes de Yokuda huyeron hacia el este en varias oleadas conocidas colectivamente como la **Ra Gada** ("Ejército de Guerreros"):
+
+**Primera oleada — Los Na-Totambu (1E ~808):**
+La nobleza guerrera envió exploradores y vanguardias para preparar las nuevas tierras. Estaban liderados por el príncipe **Frandar Hunding**, legendario Ansei.
+
+**Segunda oleada — Los Guerreros (1E ~808-810):**
+La mayoría del ejército yokudano desembarcó en las costas de lo que se convertiría en Hammerfell. Su llegada fue brutal — conquistaron las poblaciones locales (principalmente Elfos y Bretones) con una eficacia aterradora.
+
+**Tercera oleada — Los Civiles:**
+Los últimos supervivientes — artesanos, sacerdotes, mujeres y niños — llegaron cuando la mayor parte de la conquista ya estaba completada.
+
+### La Conquista de Hammerfell
+
+Los Ra Gada no pidieron permiso para asentarse. Los guerreros yokudanos, desesperados y furiosos por la pérdida de su patria, **barrieron** a las poblaciones existentes:
+
+- Los **Elfos Zurdos** (Left-Handed Elves) fueron exterminados — un genocidio completo
+- Los asentamientos **nédicos** y **bretones** fueron conquistados o destruidos
+- En menos de una generación, toda la costa occidental de Tamriel entre Valenwood y High Rock quedó bajo control yokudano
+
+Este territorio conquistado fue nombrado **Hammerfell** — "Donde cayó el martillo".
+
+## Los Vestigios de Yokuda
+
+### Las Islas Supervivientes
+
+Algunas islas del archipiélago yokudano subsisten sobre las aguas:
+
+- Atolones deshabitados que sirven de referencia a los navegantes
+- Algunas islas más grandes donde viven pequeñas comunidades aisladas
+- Ruinas que emergen con la marea baja, testigos silenciosos del continente perdido
+
+### El Legado Cultural
+
+Los Redguard de Hammerfell preservan celosamente el legado yokudano:
+
+- El arte de la espada sigue siendo central en su cultura
+- Las **espadas curvas** yokudanas son su arma característica
+- Las tradiciones funerarias implican a Tu'whacca y los ritos ancestrales
+- La división entre **Coronas** (tradicionalistas yokudanos) y **Antepasados** (asimilacionistas) refleja el debate sobre la preservación cultural
+- La Orden del Martillo y los antiguos Ansei son venerados como santos
+
+## Misterios Sin Resolver
+
+Varias preguntas obsesionan a los eruditos:
+
+- ¿Es realmente posible la técnica destructiva del Canto de Espada, o es una metáfora?
+- ¿Existen aún tierras habitables más allá de los mares?
+- ¿Fueron realmente exterminados los Elfos Zurdos, o algunos supervivientes se esconden en algún lugar?
+- ¿Jugó Satakal — la Serpiente del Mundo — un papel en la destrucción?
+
+> "Somos un pueblo de la Espada. Nuestro continente murió por la Espada. Y por la Espada, conquistamos un nuevo mundo. Tal es nuestro destino — crear y destruir con la hoja."
+> — *Crónicas de Frandar Hunding*

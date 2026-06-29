@@ -1,0 +1,159 @@
+---
+title: "The Great Houses of the Dunmer"
+slug: "grandes-maisons-dunmer"
+era: "first-era"
+category: "empires"
+tags: ["dunmer", "morrowind", "redoran", "telvanni", "hlaalu", "indoril", "dres", "dagoth", "great-houses"]
+date: "1E 700 — present"
+timelineYear: 700
+summary: "The Great Houses of Morrowind are the political and family clans that have governed Dunmer society for millennia. Each embodies a distinct philosophy, way of life, and approach to power."
+mapCoords: { x: 730, y: 290 }
+province: "Morrowind"
+aliases: ["Houses of Morrowind", "Dunmer Clans", "Grand Council"]
+relatedArticles: ["nerevar", "tribunal", "vivec", "guerre-alliance", "marais-noir"]
+sources: ["UESP: Great Houses", "A Short History of Morrowind", "Great Houses of Morrowind", "The Imperial Library"]
+---
+
+![The crests of the Great Houses of Morrowind](/images/first-era/grandes-maisons-dunmer.jpg)
+
+## The Great House System
+
+**Dunmer** society (and before it, Chimer society) is organized around extended family clans known as **Great Houses**. This system, far older than the Tribunal itself, structures every aspect of life in Morrowind: politics, economy, religion, war, and culture.
+
+Every Dunmer belongs to a House by birth or adoption. The Houses are governed by a **Council** led by an **Archmaster** (or equivalent), and they sit collectively in the **Grand Council** of Morrowind — the province's supreme political body.
+
+Historically, six Great Houses have dominated: **Redoran**, **Telvanni**, **Hlaalu**, **Indoril**, **Dres**, and the fallen **Dagoth**.
+
+## House Redoran
+
+### Philosophy
+House Redoran is the house of **duty, honor, and war**. Its members prize martial courage, religious piety, and selfless service to the community. They are considered the most "noble" of the Dunmer in the classical sense of the word.
+
+### Territory
+The Redoran control the **northwest of Morrowind**, an arid and hostile region near the Skyrim border. Their capital is **Ald'ruhn**, built beneath the shell of a giant emperor crab, and later **Blacklight** on the mainland.
+
+### Characteristics
+- The finest warriors in Morrowind
+- Near-military organization
+- Strong devotion to the Tribunal and ancestors
+- Strict code of honor comparable to bushido
+- Austere and functional architecture
+
+### Historical Role
+The Redoran have traditionally served as Morrowind's military shield. During the Oblivion Crisis and the eruption of Red Mountain (4E 5), it was they who organized the evacuation and reconstruction, becoming the dominant House of the Fourth Era.
+
+## House Telvanni
+
+### Philosophy
+House Telvanni is the house of **magic, individualism, and personal power**. Its members — primarily powerful mages — believe that strength (especially magical) confers the right to rule. They hold social conventions and ordinary politics in contempt.
+
+### Territory
+The Telvanni dominate the **eastern coast** of Morrowind and its surrounding islands. Their homes are the famous **mushroom towers** — enormous organic structures grown through magic, accessible only by levitation.
+
+### Characteristics
+- The most powerful mages in Tamriel
+- Extreme isolationism
+- Open practice of necromancy and arts forbidden elsewhere
+- Tolerance of slavery (primarily of Argonians and Khajiit)
+- Disdain for the Tribunal and the Empire
+- Exceptional longevity of their masters (some live for millennia)
+
+### Historical Role
+The Telvanni have always been Morrowind's rebels — frequently refusing to participate in the Grand Council, ignoring Imperial laws, and pursuing their research without ethical constraint. The Telvanni master **Divayth Fyr**, over 4,000 years old, is one of the oldest and most powerful beings in Tamriel.
+
+## House Hlaalu
+
+### Philosophy
+House Hlaalu is the house of **trade, diplomacy, and adaptability**. Its members excel in business, politics, and espionage. They are pragmatists above all — willing to bend rather than break.
+
+### Territory
+The Hlaalu control **southwest Morrowind**, the most fertile regions with the best connections to trade routes toward Cyrodiil. Their capital is **Narsis**.
+
+### Characteristics
+- The most skilled merchants and diplomats
+- Close collaboration with the Empire (especially during the Third Era)
+- Deep ties to the Thieves Guild and the Camonna Tong
+- Moral and political flexibility
+- Considerable wealth
+
+### Historical Role
+The Hlaalu were the dominant House during the **Third Era** thanks to their collaboration with the Septim Empire. After the Empire's collapse and the Oblivion Crisis, this collaboration was viewed as betrayal, and the Hlaalu were **stripped** of their Great House status at the start of the Fourth Era, replaced by House Sadras.
+
+## House Indoril
+
+### Philosophy
+House Indoril is the house of **religion, justice, and tradition**. Deeply devout, it provides the majority of Morrowind's priests and magistrates. The Indoril are the guardians of orthodoxy and ancestral law.
+
+### Territory
+The Indoril dominate **east-central Morrowind**, including the holy city of **Mournhold** (Almalexia), the province's religious capital.
+
+### Characteristics
+- Guardians of the Tribunal Temple
+- Provide the Ordinators (religious police)
+- Extreme conservatism
+- Fierce opposition to the Empire and all change
+- Sacred Indoril armor — any non-Dunmer who wears it is killed on sight
+
+### Historical Role
+House Indoril was once the most powerful — **Nerevar** himself bore that name. After the Armistice Treaty that subjected Morrowind to the Septim Empire, many Indoril chose suicide over accepting Imperial rule. The House then declined in favor of the more accommodating Hlaalu.
+
+## House Dres
+
+### Philosophy
+House Dres is the house of **agriculture, slavery, and ancestral tradition**. Located in southern Morrowind, the Dres are the largest slaveholders and the most fervent defenders of the institution.
+
+### Territory
+The Dres control **southeast Morrowind**, a region of marshes and plantations bordering the Argonian Black Marsh. Their capital is **Tear**.
+
+### Characteristics
+- Morrowind's largest slaveholders
+- Constant raids against Argonians and Khajiit
+- Agrarian and conservative society
+- Cultural isolationism
+- Resistance to the Imperial abolition of slavery
+
+### Historical Role
+The Dres suffered terribly during the **Argonian Invasion** of 4E 6, when the Argonians — freed and vengeful — ravaged southern Morrowind. The city of Tear was razed and the Dres plantations destroyed.
+
+## House Dagoth (The Sixth House)
+
+### Philosophy
+House Dagoth was once the house of **loyalty and secrecy**. After its fall, it became the house of **corruption, dreams, and divine madness**.
+
+### History
+Led by **Voryn Dagoth** (later **Dagoth Ur**), the Sixth House was destroyed and proscribed after the War of the First Council. Voryn Dagoth, entrusted with guarding Kagrenac's Tools, was corrupted by the Heart of Lorkhan and became a near-divine malevolent entity.
+
+### The Resurgence
+During the Third Era, Dagoth Ur awoke beneath Red Mountain and began spreading the **Corprus Plague** and the **Blight** across Vvardenfell. The Sixth House "recruited" followers through dreams and disease, creating an army of twisted monsters.
+
+### Characteristics of the Resurrected Sixth House
+- Dream cult centered on Dagoth Ur
+- Physical transformation of followers (Ascended Sleepers, Ash Vampires)
+- Connection to the Heart of Lorkhan
+- Opposition to both the Tribunal and the Empire
+- Definitively destroyed by the Nerevarine in 3E 427
+
+## The Grand Council
+
+The Great Houses sit together in the **Grand Council**, Morrowind's supreme governing body. Each House holds representatives there, and major decisions require consensus (often difficult to achieve).
+
+The Grand Council manages:
+- Morrowind's foreign policy
+- Territorial disputes between Houses
+- Questions of war and peace
+- Relations with the Empire (under the Armistice Treaty)
+- Laws applicable to the entire province
+
+## Evolution Through the Eras
+
+The relative power of the Houses has fluctuated considerably:
+
+| Era | Dominant Houses | Context |
+|-----|-----------------|---------|
+| First Era | Indoril, Dagoth | Era of Nerevar and the Tribunal |
+| Second Era | Indoril, Redoran | Temple dominance |
+| Third Era | Hlaalu, Redoran | Imperial alliance |
+| Fourth Era | Redoran, Telvanni | Post-Red Mountain |
+
+> "Five Houses under one roof, and each believes itself to be the pillar holding up the ceiling."
+> — Dunmer proverb

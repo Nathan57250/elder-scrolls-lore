@@ -1,0 +1,88 @@
+---
+title: "El Vampirismo en Tamriel"
+slug: "vampirisme"
+era: "first-era"
+category: "magie"
+tags: ["vampiro", "molag-bal", "sangre", "muerto-viviente", "volkihar", "enfermedad", "lamae-bal"]
+timelineYear: 1000
+summary: "El vampirismo es una maldición originada por Molag Bal — una enfermedad sobrenatural que transforma a sus víctimas en depredadores inmortales con múltiples linajes y poderes."
+sources: ["UESP: Vampirism", "Immortal Blood", "The Imperial Library: Vampires of the Iliac Bay"]
+---
+
+## Orígenes
+
+El vampirismo fue creado por **Molag Bal**, el Príncipe Daédrico de la Dominación, cuando violó a la nédica **Lamae Beolfag** — la primera vampira. Este acto de profanación tenía por objeto burlarse de Arkay y de su dominio sobre la muerte. Lamae se convirtió en **Lamae Bal**, madre de todos los vampiros.
+
+Otros linajes surgieron cuando Molag Bal compartió su maldición con otros mortales, creando los **vampiros de sangre pura** — aquellos que recibieron el don directamente del Príncipe.
+
+## Infección y Transformación
+
+### Sanguinare Vampiris
+La enfermedad más común se transmite a través de los ataques de vampiros existentes. Sin tratamiento en las primeras **72 horas**, la transformación es irreversible:
+
+1. **Día 1-2**: Fiebre, sensibilidad a la luz
+2. **Día 3**: Hambre inexplicable, palidez
+3. **Día 3 (noche)**: Muerte y resurrección como vampiro
+
+### Rito de Sangre (Sangre Pura)
+Los vampiros de sangre pura son creados mediante un ritual directo con Molag Bal. Este proceso es instantáneo pero traumático — el mortal muere y renace de inmediato con el pleno poder vampírico.
+
+## Poderes y Debilidades
+
+### Capacidades
+- **Fuerza sobrehumana** — aumenta con la edad
+- **Regeneración** — curación acelerada
+- **Seducción** — encanto sobrenatural
+- **Invisibilidad** (ciertos linajes)
+- **Transformación** (Señor Vampiro — solo sangre pura)
+- **Resistencia al frío y al veneno**
+- **Inmortalidad** — no envejecen
+
+### Vulnerabilidades
+- **Luz solar** — debilitamiento, daño (gravedad variable según el linaje)
+- **Fuego** — vulnerabilidad aumentada
+- **Plata** — heridas más graves
+- **Detección** — los ojos brillan, la piel palidece con la sed
+- **Hambre** — la sed de sangre es constante e irreprimible
+
+## Los Principales Linajes
+
+| Linaje | Región | Particularidad |
+|--------|--------|----------------|
+| Volkihar | Skyrim | Los más poderosos; pueden caminar sobre el hielo |
+| Cyrodiil | Cyrodiil | Maestros de la ilusión; se funden en la sociedad |
+| Quarra | Morrowind | Luchadores brutales, fuerza bruta |
+| Aundae | Morrowind | Magos vampiros, dominio de la magia |
+| Berne | Morrowind | Asesinos, invisibilidad |
+| Ravenwatch | Alto Risco | "Éticos"; se alimentan sin matar |
+
+## El Clan Volkihar
+
+El linaje más notable en Skyrim, liderado por **Lord Harkon** desde el Castillo Volkihar en una isla del Mar de los Fantasmas:
+- Sangre pura creados mediante el ritual de Molag Bal
+- Capacidad de convertirse en **Señor Vampiro** — transformación en criatura alada
+- Harkon buscaba usar los Pergaminos de los Antiguos para extinguir el sol mediante la **Profecía de la Tiranía del Sol**
+- Derrotado por los **Dawnguard** y/o el Último Sangre de Dragón en 4E 201
+
+## La Guardia del Amanecer (Dawnguard)
+
+Orden militante dedicada a la erradicación de los vampiros:
+- Fundada en la Segunda Era, disuelta y refundada en 4E 201 por **Isran**
+- Con base en el **Fuerte Dawnguard** en el Abismo
+- Armamento: ballestas, pernos consagrados al sol, hechizos anti-muertos
+- Aliada con los **Sacerdotes de la Polilla** para interpretar los Pergaminos de los Antiguos
+
+## La Cura
+
+El vampirismo puede curarse:
+- **Antes de la transformación completa**: cualquier poción curativa de enfermedad, bendición de altar
+- **Tras la transformación**: un ritual complejo que implica una **Gema de Alma Negra** llena y la intervención de **Falion** (mago de Morthal) u otros especialistas
+- **Sangre pura**: la cura es casi imposible sin intervención divina directa
+
+## Percepción Social
+
+Los vampiros son universalmente temidos y cazados. Sin embargo:
+- Algunos vampiros viven entre los mortales ocultando su naturaleza (linaje Cyrodiil)
+- El clan Ravenwatch de Alto Risco demuestra que la convivencia es posible
+- Los Vigías de Stendarr y los Dawnguard los cazan activamente
+- En Morrowind, los tres clanes vampiros coexistían con relativa tolerancia mientras permanecían discretos

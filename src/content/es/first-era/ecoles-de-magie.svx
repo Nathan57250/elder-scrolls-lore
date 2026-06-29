@@ -1,0 +1,100 @@
+---
+title: "Las Escuelas de Magia"
+slug: "ecoles-de-magie"
+era: "first-era"
+category: "magie"
+tags: ["magia", "destrucción", "restauración", "conjuración", "alteración", "ilusión", "encantamiento", "mística"]
+timelineYear: 230
+summary: "Las seis escuelas de magia de Tamriel, su funcionamiento, sus principios fundamentales y su evolución a través de las eras."
+sources: ["UESP: Magic", "The Imperial Library: Magic", "Erta Roscius, On the Schools of Magic"]
+---
+
+## La Magia en Nirn
+
+Toda la magia de Tamriel proviene de **Aetherius** — el plano inmortal que fluye hacia Mundus a través de las estrellas y el sol (Magnus). Cuando Magnus, el arquitecto de Mundus, huyó de la creación, rasgó el tejido de la realidad y creó el sol. Los Magna-Ge que lo siguieron perforaron las estrellas.
+
+Cada mago extrae de ese flujo de **magicka** para alimentar sus hechizos. La cantidad de magicka disponible varía según la raza, el entrenamiento y las condiciones del mundo.
+
+## Las Seis Escuelas
+
+### Destrucción
+
+El arte de infligir daño mediante los elementos. Los hechizos de Destrucción manipulan:
+- **Fuego** — daño directo y quemaduras continuas
+- **Escarcha** — pérdida de resistencia y ralentización
+- **Rayo** — pérdida de magicka y golpe instantáneo
+
+La Destrucción es la escuela más estudiada por los magos de batalla y la más temida por los profanos.
+
+### Restauración
+
+La escuela de la curación y la protección. Abarca:
+- Curación de heridas y enfermedades
+- Barreras protectoras contra la magia hostil
+- Magia anti-muertos (Ahuyentar Muertos)
+- Restauración de resistencia y condiciones físicas
+
+Irónicamente, la frontera entre Restauración y Nigromancia es más difusa de lo que parece — ambas manipulan las fuerzas vitales.
+
+### Conjuración
+
+El arte de invocar criaturas y armas desde Oblivion, o de aprisionar almas:
+- **Invocación** — llamar a Daedra o espíritus
+- **Reanimación** — levantar cadáveres como sirvientes (nigromancia)
+- **Trampa de Almas** — capturar almas en gemas para encantamientos
+- **Armas Vinculadas** — materializar armas daédricas temporales
+
+La Conjuración es controvertida porque implica pactos con entidades de Oblivion.
+
+### Alteración
+
+La manipulación directa de la realidad física:
+- **Armadura mágica** (Carne de Roble, Carne de Piedra, etc.)
+- **Parálisis** y transmutación
+- **Respiración acuática** y levitación (antes de su prohibición en 3E 421)
+- **Detección** de vida, muertos y llaves
+- **Telequinesis** — manipulación de objetos a distancia
+
+La Alteración es considerada la escuela más "pura" porque no manipula ni espíritus ni elementos destructivos.
+
+### Ilusión
+
+El arte de manipular la mente y la percepción:
+- **Invisibilidad** y camuflaje
+- **Calma** — apaciguar hostilidades
+- **Frenesí** — provocar la rabia
+- **Valor/Miedo** — manipulación emocional
+- **Silencio** — acallar los movimientos
+
+Los maestros ilusionistas son temidos porque sus víctimas nunca saben que están siendo manipuladas.
+
+### Encantamiento
+
+El arte de infundir objetos con efectos mágicos permanentes:
+- Requiere **gemas de alma** llenas
+- Cuanto más poderosa sea el alma, más fuerte el encantamiento
+- Los encantamientos se degradan con el uso (necesitan recarga)
+- El Encantamiento fue en su día una escuela académica completamente independiente
+
+## La Magicka y Sus Fuentes
+
+| Fuente | Descripción |
+|--------|-------------|
+| Aetherius | Flujo primordial a través del sol y las estrellas |
+| Piedras Erguidas | Piedras de Mundus que amplifican ciertos aspectos |
+| Corazón de Lorkhan | Fuente de poder divino (usado por el Tribunal) |
+| Sigillum Sanguis | Torres daédricas que canalizan la energía de Oblivion |
+| Hist | Árboles místicos que empoderan a los Argonianos |
+
+## Tradiciones Mágicas Alternativas
+
+Más allá de las escuelas académicas, existen otras tradiciones:
+- **Arquitectura Tonal** (Dwemer) — manipulación de la música de la realidad
+- **Thu'um** (Nórdicos) — magia vocal ligada al lenguaje draconiano
+- **Magia de Sombras** (Mística) — manipulación de la sombra, casi perdida
+- **Canto de Espada** (Redguardas) — arte marcial trascendente
+- **Los Antiguos Caminos** (Psíjicos) — magia pre-académica e intuitiva
+
+## La Levitación: Un Hechizo Perdido
+
+En 3E 421, el Imperio prohibió la levitación mediante el **Decreto de Levitación**, oficialmente por razones de seguridad. Este hechizo, antes habitual, se volvió inaccesible para los magos ordinarios. Los Telvanni de Morrowind eludieron esta ley en sus torres, pero el conocimiento se perdió en gran medida durante la Cuarta Era.

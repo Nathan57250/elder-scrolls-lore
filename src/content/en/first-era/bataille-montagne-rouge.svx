@@ -1,0 +1,127 @@
+---
+title: "The Battle of Red Mountain"
+slug: "bataille-montagne-rouge"
+era: "first-era"
+category: "evenements"
+tags: ["red-mountain", "nerevar", "dagoth-ur", "dwemer", "tribunal", "kagrenac", "heart-of-lorkhan", "morrowind", "chimer"]
+timelineYear: 700
+summary: "A cataclysmic clash between Nerevar's Chimer and Dumac's Dwemer at the summit of Red Mountain, which caused the disappearance of the Dwemer and the birth of the Tribunal."
+sources: ["UESP: Battle of Red Mountain", "Nerevar at Red Mountain", "The Battle of Red Mountain (Vivec's version)", "Five Songs of King Wulfharth", "The Imperial Library"]
+---
+
+## One Event, A Thousand Versions
+
+The **Battle of Red Mountain** (around 1E 700) is the most disputed event in Tamriel's history. No account agrees entirely — each source (the Tribunal Temple, the Ashlanders, the vanished Dwemer, the Nords) offers a contradictory version. What follows is an attempt at synthesis, but the reader is warned: the truth may be out of reach.
+
+### What All Accounts Confirm:
+- The Chimer and the Dwemer clashed at the summit of **Red Mountain** (Dagoth-Ur)
+- The **Dwemer people vanished entirely** during or immediately after the battle
+- General **Nerevar** died shortly after
+- **Kagrenac**'s tools and the **Heart of Lorkhan** were at the center of the conflict
+
+## Causes of the Conflict
+
+### The Discovery of the Heart of Lorkhan
+
+Buried deep beneath Red Mountain lay the **Heart of Lorkhan** — the divine organ torn from the creator god at the Convention and planted there as a pillar of the world by the Aedra. The Dwemer, in excavating their underground cities, discovered it.
+
+**Kagrenac**, Grand Tonal Architect of the Dwemer, immediately grasped the relic's potential. He forged three tools to manipulate the Heart:
+
+| Tool | Function |
+|------|----------|
+| **Keening** | Tonal focusing blade |
+| **Sunder** | Energy extraction hammer |
+| **Wraithguard** | Protective gauntlet |
+
+His project: create an artificial god — the **Numidium** — powered by the divine energy of the Heart.
+
+### The Betrayal Revealed
+
+**Nerevar**, Hortator (war champion) of the Chimer and sworn friend of Dwemer king **Dumac**, learned of this project through **Dagoth Ur** (Voryn Dagoth), one of his most trusted vassals. Nerevar first attempted diplomacy. According to some sources, Dumac was himself unaware of Kagrenac's work; according to others, he fully endorsed it.
+
+Negotiations failed. War became inevitable.
+
+## The Course of the Battle
+
+### The Forces Involved
+
+**Chimer Camp:**
+- Nerevar Indoril — Hortator, bearer of the Moon-and-Star
+- Almalexia — Nerevar's wife, warrior queen
+- Vivec — advisor and combatant
+- Sotha Sil — mage and strategist
+- Dagoth Ur — designated guardian of Kagrenac's tools
+- The unified Chimer Great Houses
+
+**Dwemer Camp:**
+- King Dumac Dwarfking — sovereign of Resdayn
+- Kagrenac — tonal architect and supreme scientist
+- The mechanical armies and steam centurions
+- The Dwemer clans of Vvardenfell
+
+### The Assault
+
+The Chimer besieged the inner fortress of Red Mountain. The fighting was apocalyptic — pure magic against tonal technology, armies of flesh against metal automatons. Nerevar faced Dumac in single combat and slew him (or Dumac died otherwise, depending on the account).
+
+### The Critical Moment
+
+At the moment when Dwemer defeat seemed certain, **Kagrenac struck the Heart of Lorkhan with his tools**. What happened next is the greatest mystery of the Era:
+
+**Every single Dwemer vanished instantly.**
+
+Every Dwemer — man, woman, child, soldier, craftsman — wherever they stood on Nirn, ceased to exist at the same moment. All that remained were their empty cities, their now-masterless automatons, and their silent artifacts.
+
+## The Death of Nerevar
+
+After the battle, Nerevar entrusted Kagrenac's tools to **Voryn Dagoth** while he consulted his advisors. What happened next diverges radically depending on the source:
+
+### Temple Version (official)
+Nerevar, mortally wounded in battle, died of his wounds after giving the Tribunal his blessing to use the tools "with wisdom."
+
+### Ashlander Version (dissenting)
+Nerevar was **murdered** by Vivec, Almalexia, and Sotha Sil, who coveted the power of the Heart. They betrayed the oath they had made to Nerevar never to use the tools.
+
+### Dagoth Ur's Version
+Dagoth Ur, through prolonged contact with the tools, was corrupted by the Heart. When the Tribunal returned to claim the artifacts, he refused to surrender them. A fight ensued. Nerevar died in this confrontation, and Dagoth Ur was "destroyed" — only to be reborn centuries later.
+
+## The Consequences
+
+### The Birth of the Tribunal
+Vivec, Almalexia, and Sotha Sil used Kagrenac's tools on the Heart of Lorkhan to **elevate themselves to the rank of living gods**. They founded the **Tribunal** (ALMSIVI) and ruled over Morrowind for millennia.
+
+### Azura's Curse
+The Daedric Princess **Azura**, who had witnessed Nerevar's oath, cursed the oath-breakers and their entire people. The Chimer — with their golden skin and clear eyes — became the **Dunmer** with ashen skin and red eyes.
+
+### The Nerevarine Prophecy
+Azura prophesied that Nerevar would **be reborn** to judge the traitors. This prophecy was fulfilled in 3E 427 with the arrival of the Nerevarine, who destroyed Dagoth Ur and broke the Tribunal's power.
+
+### The Ghostfence
+Dagoth Ur, returned from the dead and powered by the Heart, threatened Morrowind from within Red Mountain. The Tribunal erected the **Ghostfence** — a colossal magical barrier — to contain his corruption (the Blight).
+
+## Historiographical Legacy
+
+The Battle of Red Mountain illustrates a fundamental principle of Tamrielic lore: **history is written by those who have the power to rewrite it**. The Tribunal, having become divine, literally rewrote reality to justify its ascension. The Ashlanders, marginalized, preserved a dissenting oral tradition. And the Dwemer took their version into oblivion.
+
+## Cascade of Consequences (3,700 years)
+
+The Battle of Red Mountain is the **pivotal event** in Tamriel's history. Its consequences unfold across four eras:
+
+### First Era
+- Disappearance of the Dwemer → Abandoned cities → Unresolved mystery
+- Birth of the Tribunal → Millennial Dunmer theocracy
+- Azura's Curse → Chimer become Dunmer
+- Dagoth Ur buried but alive → Dormant threat
+
+### Third Era
+- Return of Dagoth Ur → The Blight, Ghostfence
+- Nerevarine Prophecy → Arrival of the hero (3E 427)
+- Destruction of the Heart of Lorkhan → Fall of the Tribunal
+- Vivec disappears → Baar Dau no longer held aloft → Temporary Ingenium
+
+### Fourth Era
+- Ingenium destroyed → Baar Dau crashes → **Red Year** (4E 5)
+- Morrowind devastated → Argonian Invasion → Dunmer Diaspora
+- Empire weakened (without Morrowind) → Vulnerable to the Thalmor
+- Great War → Concordat → Skyrim Civil War
+
+**A single act — striking the Heart with the Tools — still resonates 3,700 years later.**

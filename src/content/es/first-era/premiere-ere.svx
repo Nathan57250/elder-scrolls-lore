@@ -1,0 +1,46 @@
+---
+title: "La Primera Era"
+slug: "premiere-ere"
+era: "first-era"
+category: "empires"
+tags: ["imperio-alessiano", "dwemer", "chimer", "tribunal", "nerevar", "dagoth-ur"]
+date: "1E 1 — 1E 2920"
+summary: "Casi tres milenios de historia: la revuelta alessiana contra los Ayléidos, la guerra entre los Dwemer y los Chimer, y la desaparición de los Dwemer."
+timelineYear: 1
+sources: ["UESP: First Era", "The Imperial Library: The First Era"]
+---
+
+## La Revuelta Alessiana (1E 242)
+
+Durante siglos, los **Ayléidos** (Elfos Salvajes) gobernaron las poblaciones humanas de Cyrodiil con legendaria crueldad, reduciéndolas a la esclavitud. En **1E 242**, una esclava llamada **Alessia** (la "Reina-Esclava") encabezó una revuelta masiva.
+
+Con la ayuda de:
+- **Morihaus**, un semidiós toro e hijo de Kynareth
+- **Pelinal Whitestrake**, un guerrero divino de aterradora violencia
+- Los ejércitos nórdicos de Skyrim
+
+Alessia derrocó a los Ayléidos y fundó el primer **Imperio Humano de Cyrodiil**, con la Ciudad Imperial como capital. También estableció los **Ocho Divinos** como religión oficial, fusionando los panteones nórdico y élfico en un brillante compromiso político.
+
+## La Batalla de la Montaña Roja (1E 700)
+
+El conflicto más importante de la Primera Era enfrentó a los **Dwemer** contra los **Chimer** (antepasados de los Dunmer) en las montañas y llanuras de Morrowind.
+
+Los Dwemer, al mando del rey **Dumac**, y los Chimer, bajo el general **Nerevar**, fueron aliados al principio contra los invasores nórdicos. Pero su alianza se rompió cuando Nerevar descubrió que el Gran Arquitecto Tonal Dwemer **Kagrenac** había construido herramientas para explotar el **Corazón de Lorkhan**, hallado bajo la Montaña Roja.
+
+En la **Batalla de la Montaña Roja**:
+- Nerevar se enfrentó a Dumac y a Kagrenac
+- Kagrenac usó sus herramientas (Keening, Sunder y Wraithguard) sobre el Corazón
+- **Toda la raza Dwemer desapareció en un instante** — uno de los grandes misterios de Tamriel
+- Nerevar fue herido de muerte
+
+## El Ascenso del Tribunal
+
+Tras la muerte de Nerevar, sus tres consejeros más cercanos — **Vivec**, **Almalexia** y **Sotha Sil** — utilizaron las Herramientas de Kagrenac sobre el Corazón de Lorkhan para alcanzar la divinidad, convirtiéndose en el **Tribunal** (o ALMSIVI).
+
+Rompieron el juramento que le hicieron a Nerevar de no usar jamás las herramientas. Como castigo, el Príncipe Daédrico Azura maldijo a todo el pueblo Chimer: su piel se volvió gris ceniza y sus ojos, rojos. Se convirtieron en los **Dunmer** (Elfos Oscuros).
+
+**Dagoth Ur** (Voryn Dagoth), otro lugarteniente de Nerevar, se negó a entregar las herramientas y fue dado por muerto bajo la Montaña Roja — pero sobrevivió, corrompido por el Corazón, esperando su venganza durante milenios.
+
+## El Final de la Primera Era (1E 2920)
+
+La Primera Era terminó con la muerte del Emperador Reman III y la disolución del **Imperio Reman** (Segundo Imperio), fundado por Reman Cyrodiil en 1E 2703 tras rechazar una invasión akaviri.

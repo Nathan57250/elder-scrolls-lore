@@ -1,0 +1,103 @@
+---
+title: "El Gremio de Magos en el Colegio de Invernalia"
+slug: "enchantement"
+era: "first-era"
+category: "magie"
+tags: ["encantamiento", "piedras-de-alma", "azura", "magia", "artefactos", "trampa-de-almas"]
+timelineYear: 500
+summary: "El encantamiento es el arte de infundir propiedades mágicas en los objetos mediante piedras de alma. Es una disciplina controvertida, pues aprisiona las almas de las criaturas para alimentar los encantamientos."
+sources: ["UESP: Enchanting", "Souls, Black and White", "The Imperial Library"]
+---
+
+## Principios Fundamentales
+
+El **encantamiento** es la disciplina mágica que permite infundir propiedades sobrenaturales en los objetos (armas, armaduras, joyas, ropa). A diferencia de la alquimia (que utiliza ingredientes naturales), el encantamiento requiere una **piedra de alma llena** como fuente de energía.
+
+### El Proceso
+1. **Capturar** un alma en una piedra de alma (mediante el hechizo "Soul Trap")
+2. **Elegir** un objeto para encantar
+3. **Aplicar** el encantamiento en una mesa de encantamiento
+4. El alma es **consumida** — destruida para alimentar el encantamiento
+
+## Las Piedras de Alma
+
+### Tipos (por tamaño)
+| Piedra | Capacidad | Almas que contiene |
+|--------|-----------|-------------------|
+| Petty | Mínima | Mudcrabs, conejos |
+| Lesser | Baja | Lobos, esqueletos |
+| Common | Media | Sabre cats, trolls |
+| Greater | Alta | Mamuts, Draugr poderosos |
+| Grand | Máxima | Gigantes, dragones (almas no-dragón) |
+| Black | Cualquier alma | **Almas humanoides** (controvertido) |
+
+### Piedras de Alma Negras
+Las **Black Soul Gems** son las únicas capaces de contener **almas humanoides**:
+- Consideradas nigromancia
+- Ilegales en la mayoría de las jurisdicciones
+- Fabricadas durante rituales necrománticos
+- La Estrella de Azura corrompida (Estrella Negra) funciona como una piedra de alma negra reutilizable
+- Soul Trap lanzado sobre un humanoide sin una piedra negra fallará
+
+## Ética y Controversia
+
+### El Debate
+- ¿Son las almas animales "menos importantes" que las humanoides?
+- ¿El encantamiento destruye el alma o la libera tras agotarse?
+- ¿Es arbitraria la jerarquía Blanco/Negro?
+- Los Dunmer practican el encantamiento con piedras negras sin tabú
+
+### La Posición del Gremio de Magos
+- Piedras blancas: aceptadas universalmente
+- Piedras negras: oficialmente prohibidas
+- En la práctica: muchos magos las usan discretamente
+- La Orden del Gusano (Mannimarco) las usa abiertamente
+
+## El Arte del Encantamiento
+
+### Encantamientos de Armas
+- Daño de fuego, escarcha, rayo
+- Absorber salud/magicka/stamina
+- Parálisis
+- Soul Trap integrado
+- Miedo, Terror
+- Desterrar Daedra
+
+### Encantamientos de Armaduras
+- Resistencia a los elementos
+- Fortalecer habilidades
+- Resistencia a la magia
+- Muffle (silencio de pasos)
+- Respiración acuática
+- Regeneración
+
+### Encantamientos de Joyas
+- Fortalecer magicka/salud/stamina
+- Resistencia a venenos
+- Mejora de la elocuencia (Persuasión)
+- Precios de objetos (Comercio)
+
+## Maestros Encantadores Notables
+
+- **Los Telvanni** — magos Dunmer que dominan el encantamiento avanzado
+- **Los Dwemer** — encantamientos mecánicos únicos (perdidos)
+- **Neloth** (Tel Mithryn) — considerado uno de los mayores encantadores vivos
+- **Los Psijic** — encantamientos sutiles y poderosos
+
+## Mesas de Encantamiento
+
+En Skyrim, las mesas de encantamiento se encuentran:
+- En los colegios de magia (Invernalia)
+- En casa de ciertos magos de corte (Palacios)
+- En las salas de los Jarls (Dragonsreach)
+- En ciertas fortalezas abandonadas
+- Construibles en las residencias del Dovahkiin
+
+## Desencantamiento
+
+El **desencantamiento** destruye un objeto encantado para:
+- Aprender el encantamiento que llevaba
+- Permitir reproducir ese encantamiento
+- El objeto queda destruido en el proceso
+- El encantamiento aprendido puede aplicarse a otros objetos
+- Ciertos encantamientos únicos no pueden aprenderse

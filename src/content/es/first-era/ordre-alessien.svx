@@ -1,0 +1,74 @@
+---
+title: "La Orden Alessiana"
+slug: "ordre-alessien"
+era: "first-era"
+category: "religion"
+tags: ["alessia", "marukh", "monoteísmo", "selectivos-marukhati", "amanecer-medio", "reforma-religiosa"]
+timelineYear: 361
+summary: "La Orden Alessiana fue un movimiento teocrático radical que impuso un monoteísmo estricto sobre el Imperio Cyrodiliano durante casi dos milenios."
+sources: ["The Exclusionary Mandates", "Shezarr and the Divines", "Before the Ages of Man"]
+---
+
+# La Orden Alessiana
+
+## Los Orígenes: Marukh el Profeta
+
+En el cuarto siglo de la Primera Era, un singular profeta emergió en las tierras de Cyrodiil. **Marukh**, un Imga (una raza simiana de Val-Boisé) según algunas fuentes, afirmó haber recibido visiones de la propia Reina-Esclava Alessia. Estas visiones le revelaron una verdad radical: solo existía **un único Dios verdadero**, y toda la diversidad del panteón no era más que ilusión y corrupción élfica.
+
+Las enseñanzas de Marukh se sustentaban en varios pilares fundamentales:
+- El rechazo total del politeísmo mer (élfico)
+- La afirmación de que Akatosh y los demás Divinos eran simples aspectos de una única deidad
+- La condena de toda práctica cultual de origen élfico
+- La supremacía espiritual y temporal de la humanidad
+
+## El Ascenso al Poder
+
+La Orden Alessiana, fundada sobre estas enseñanzas, ganó influencia rápidamente. En **1E 361**, las doctrinas alessianas se convirtieron en la religión oficial del Imperio Cyrodiliano. Lo que había comenzado como un movimiento espiritual se transformó en un aparato teocrático de formidable eficacia.
+
+La Orden estableció su dominio mediante:
+- El control directo de la burocracia imperial
+- La eliminación sistemática de cultos rivales
+- La persecución de las poblaciones élficas y sus simpatizantes
+- La censura y reescritura de la historia para borrar el legado mer
+
+## La Estructura de la Orden
+
+La organización interna de la Orden era compleja y jerarquizada. En la cima se sentaban los **Arciprestes**, intérpretes supremos de la doctrina. Por debajo, círculos concéntricos de sacerdotes, teólogos y militantes aplicaban la voluntad de la Orden con fervor absoluto.
+
+Entre las facciones internas, las más notables eran:
+- Los **Selectivos Marukhati**: místicos radicales que emprendieron la tarea de alterar la propia naturaleza de la divinidad
+- Los **Inquisidores del Canto**: responsables de la ortodoxia doctrinal
+- Los **Mandatos Excluyentes**: ramas militantes encargadas de eliminar las herejías
+
+## Los Selectivos Marukhati y el Amanecer Medio
+
+La facción más extrema y trascendente de la Orden fue la de los **Selectivos Marukhati**. Estos místicos no se contentaban con rechazar la influencia élfica en la teología — querían extraerla directamente de la propia divinidad.
+
+En 1E 1008, los Selectivos emprendieron un ritual de ambición inaudita: danzar sobre la Torre de Oro Blanco para **escindir los aspectos élficos de Akatosh** de su naturaleza. Su objetivo era separar a Auriel (la versión aldmer del Dios del Tiempo) de Akatosh (la versión humana), purificando así lo divino de toda mácula mer.
+
+El resultado fue el **Amanecer Medio** (*Middle Dawn*): una Ruptura del Dragón de mil ochocientos años durante la cual el tiempo perdió toda linealidad. Si los Selectivos tuvieron éxito o fracasaron sigue siendo objeto de debate — al estar el tiempo roto, la respuesta podría ser ambas cosas simultáneamente.
+
+## El Dominio sobre la Sociedad
+
+Bajo la dominación alessiana, la sociedad cyrodiliana experimentó una profunda transformación:
+
+- **Culturalmente**: toda referencia a las tradiciones élficas fue purgada de la vida pública
+- **Políticamente**: los emperadores se convirtieron en marionetas de la Orden
+- **Intelectualmente**: el libre pensamiento fue severamente reprimido
+- **Demográficamente**: las poblaciones élficas fueron marginadas, perseguidas o expulsadas
+
+El arte de este período se volvió austero y geométrico, despojado de toda influencia mer. La literatura se limitó a los textos doctrinales aprobados. La propia magia fue regulada, calificando como herejía cualquier práctica no conforme.
+
+## La Guerra de la Rectitud y la Disolución
+
+La Orden Alessiana no cayó por reforma sino por conflagración. En **1E 2321**, los conflictos internos entre las distintas facciones de la Orden degeneraron en guerra abierta: la **Guerra de la Rectitud**. Durante diez años, las facciones alessianas se desgarraron entre sí con el mismo fervor que antes habían reservado a los herejes.
+
+En 1E 2331, la Orden se desmoronó definitivamente. Sus templos fueron clausurados, sus textos en gran parte perdidos o destruidos, y su dogma abandonado en favor de un retorno al politeísmo de los Ocho Divinos.
+
+## Legado
+
+A pesar de su disolución, la Orden Alessiana dejó una huella indeleble en la civilización tamriélica:
+- El concepto de una Iglesia Imperial centralizada sobrevivió a la Orden
+- La desconfianza persistente entre humanos y elfos fue amplificada por siglos de propaganda
+- Las estructuras burocráticas que creó formaron el esqueleto de la futura administración imperial
+- La cuestión de la naturaleza de Akatosh — ¿un dios o varios? — sigue siendo debatida hoy en día

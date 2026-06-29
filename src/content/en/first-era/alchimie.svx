@@ -1,0 +1,112 @@
+---
+title: "Alchemy — The Science of Ingredients"
+slug: "alchimie"
+era: "first-era"
+category: "magie"
+tags: ["alchemy", "potions", "poisons", "ingredients", "nirnroot", "skooma", "science"]
+timelineYear: 500
+summary: "Alchemy is the art of combining natural ingredients to create potions with magical effects — a discipline halfway between science and magic, accessible to all."
+sources: ["UESP: Alchemy", "The Imperial Library: Alchemy", "De Rerum Dirennis"]
+---
+
+## Fundamental Principles
+
+**Alchemy** differs from other forms of magic in that it requires **no magicka** from the practitioner. The power resides in the **ingredients** themselves — the alchemist merely reveals and combines their latent properties.
+
+Each ingredient possesses up to **four properties**:
+- Combining two ingredients that share a property creates a potion
+- Beneficial properties become potions
+- Harmful properties become poisons
+- A mixture can have multiple simultaneous effects
+
+## Potion Categories
+
+### Restoration Potions
+| Potion | Effect | Common Ingredients |
+|--------|--------|--------------------|
+| Restore Health | Immediate healing | Wheat, Blue Mountain Flower |
+| Restore Magicka | Magical recharge | Mora Tapinella, Purple Mountain Flower |
+| Restore Stamina | Physical recovery | Histcarp, Torchbug Thorax |
+| Cure Disease | Cures diseases | Thistle, Hawk Feather |
+| Cure Poison | Neutralizes poisons | Thistle, Mudcrab Chitin |
+
+### Fortifying Potions
+- Fortify attack / magic / archery
+- Temporary invisibility
+- Elemental resistance (fire, frost, shock)
+- Water breathing
+- Magic shield
+
+### Poisons
+- Direct damage (health, magicka, stamina)
+- Paralysis
+- Elemental weakness
+- Slow
+- Lingering damage
+
+## Nirnroot
+
+**Nirnroot** is the most mysterious ingredient in Tamriel:
+- A luminescent plant emitting a distinctive sound
+- Never regrows after harvesting (in certain versions of the lore)
+- Powerful and varied alchemical properties
+- The **Crimson Nirnroot** variant grows only in Blackreach (an underground Dwemer city)
+- Subject to obsessive research by certain alchemists (notably Sinderion)
+
+## Skooma
+
+The most notorious illicit substance in Tamriel:
+- A refined derivative of **Moon Sugar**
+- Moon Sugar is produced naturally in Elsweyr
+- Skooma is distilled from moon sugar
+- **Effects**: extreme euphoria, hallucinations, instant addiction
+- **Legality**: banned in all provinces except Elsweyr
+- **Trade**: controlled by criminal cartels (Camonna Tong, Renrijra Krin)
+- **Social impact**: addiction epidemic, anti-Khajiit stereotypes
+
+## Equipment
+
+An alchemist requires:
+- **Alchemy Lab** — standard workbench
+- **Alembic** — amplifies positive effects
+- **Calcinator** — increases potency
+- **Mortar and Pestle** — basic preparation
+- **Retort** — amplifies duration effects
+
+## Alchemical Traditions
+
+### The Cyrodiil School
+- Academic and methodical approach
+- Linked to the Arcane University
+- Systematic classification of ingredients
+- Reference text: *De Rerum Dirennis*
+
+### The Morrowind School
+- Intensive use of local fauna (netch, kwama, ash yam)
+- Integrated into Telvanni culture
+- Potions often more powerful but unstable
+- Oral tradition rather than academic
+
+### The Skyrim School
+- Pragmatic, tied to survival
+- Use of local plants and mushrooms
+- Less sophisticated but more accessible
+- Nordic shamanic traditions
+
+## Alchemy and Economy
+
+Alchemy is one of the **most lucrative trades**:
+- Healing potions enjoy constant demand
+- Poisons interest assassins and hunters
+- Enchanters need fortifying potions
+- Adventurers constitute an inexhaustible market
+- The skooma trade (illegal) generates fortunes
+
+## Limitations
+
+Alchemy cannot:
+- Raise the dead back to life
+- Grant permanent immortality (except in exceptional cases)
+- Match the power of pure magic at high levels
+- Function without ingredients (unlike magic)
+- Create instantaneous effects at a distance (the potion must be ingested or applied)

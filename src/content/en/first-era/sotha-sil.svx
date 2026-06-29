@@ -1,0 +1,143 @@
+---
+title: "Sotha Sil"
+slug: "sotha-sil"
+era: "first-era"
+category: "personnages"
+tags: ["tribunal", "morrowind", "sotha-sil", "mechanical", "clockwork-city", "dwemer", "nerevar", "dunmer"]
+date: "1E ~500 — 3E 427"
+timelineYear: 700
+summary: "Sotha Sil, the Mechanical God of the Tribunal, is the creator of the Clockwork City and the most enigmatic of Morrowind's three living gods. A reclusive and melancholic genius, he sought to perfect the world through reason and artifice."
+mapCoords: { x: 740, y: 310 }
+province: "Morrowind"
+aliases: ["Seht", "The Mechanical God", "The Clockwork Forger", "Father of the Clockwork City", "The Magician"]
+relatedArticles: ["tribunal", "nerevar", "vivec", "almalexia", "dwemer", "guerre-alliance"]
+sources: ["UESP: Sotha Sil", "The Truth in Sequence", "36 Lessons of Vivec", "The Imperial Library"]
+---
+
+![Sotha Sil in his Clockwork City](/images/first-era/sotha-sil.jpg)
+
+## The Mortal Seht
+
+Before becoming a god, **Sotha Sil** — born **Seht** — was a child from the village of **Ald Sotha**, a modest Chimer settlement in southern Morrowind. His mortal life was marked by tragedy: the village was destroyed in a Daedric raid orchestrated by **Mehrunes Dagon**, and young Seht was one of the few survivors.
+
+Taken in and educated, he showed a prodigious intellect from an early age. His ability to understand the mechanisms of the world — whether magic, mathematics, or philosophy — surpassed that of any other mortal. He naturally became one of **Nerevar**'s most valued advisors, bringing an analytical perspective to the Hortator's decisions.
+
+## The Most Quiet of the Three
+
+Among Nerevar's companions who would form the Tribunal, Sotha Sil was the least visible. Where **Vivec** was the charismatic poet and **Almalexia** the healer beloved by the people, Sotha Sil was the silent thinker — the one who reflected while others acted.
+
+This quietness did nothing to diminish his importance. It was often Sotha Sil who crafted the strategies, solved unsolvable problems, and found solutions where others saw only dead ends.
+
+## The Divine Ascension
+
+### The Battle of Red Mountain
+
+Sotha Sil participated in the Battle of Red Mountain alongside Nerevar, Vivec, and Almalexia. After the disappearance of the Dwemer and Nerevar's death, he was — along with the other two — complicit in the use of **Kagrenac's Tools** on the **Heart of Lorkhan**.
+
+### The Transformation
+
+The use of the Tools granted Sotha Sil divine power, but also transformed his deepest nature. Where Vivec embraced his duality and where Almalexia fed on adoration, Sotha Sil seems to have been **burdened** by divinity.
+
+For him, becoming a god was not a victory — it was a problem to be solved. How does a rational mind manage partial omniscience? How does a mortal endure eternity?
+
+## The Clockwork City
+
+### Design
+
+Sotha Sil's greatest work is the **Clockwork City** — an entire world, miniaturized and perfected, contained within a sphere hidden somewhere beneath Morrowind. This city is his masterpiece, his obsession, and his willing prison.
+
+The Clockwork City is a reproduction of Mundus — the mortal world — but **perfected**. Every element is replaced by a more efficient, more ordered, more predictable mechanical equivalent:
+
+- The sky is a dome of luminous gears
+- The trees are articulated brass structures
+- Water is a synthetic fluid with controlled properties
+- Creatures are automatons with programmed behaviors
+- Even light and sound are regulated mechanically
+
+### Philosophy of the Project
+
+The Clockwork City is not merely an engineering exercise — it is a **materialized philosophical thesis**. Sotha Sil believed that the mortal world was imperfect not by nature, but through lack of design. If a sufficiently brilliant mind could reconceive every aspect of reality, suffering and chaos could be eliminated.
+
+This vision brought him dangerously close to Dwemer philosophy — a parallel he recognized and that troubled him.
+
+### The Fabricants
+
+The inhabitants of the Clockwork City are primarily **Fabricants** — semi-organic, semi-mechanical beings created by Sotha Sil. Some are pure automatons; others are biological creatures augmented with mechanical components.
+
+Among the most notable:
+- The **Factotums** — polymorphic servants
+- The **Harvesters** — creatures that collect materials
+- The **Apostles** — mortal disciples who accept mechanical augmentation
+- **Barbas** (possibly) — Sotha Sil is said to have captured Clavicus Vile's familiar
+
+## The Pact with the Daedra
+
+### The Negotiation
+
+One of Sotha Sil's most extraordinary acts was to **negotiate** directly with **Daedric Princes**. After the Disaster of Gilverdale — where Mehrunes Dagon ravaged an entire village — Sotha Sil traveled into the planes of Oblivion and negotiated an agreement with eight Daedric Princes.
+
+This **Pact of Sotha Sil** (Coldharbour Compact) stipulated that the Princes would never again manifest directly on Nirn. The exact details and what was offered in return remain unknown, but the Pact held for millennia — until the Oblivion Crisis of the Third Era.
+
+### Relations with the Princes
+
+Sotha Sil's dealings with the Daedra were complex:
+- He regarded them as natural forces, not as deities
+- He studied them with the same objectivity as any other phenomenon
+- Several Princes respected (or feared) him for his intelligence
+- **Azura** hated him for his role in the betrayal of Nerevar
+- **Mehrunes Dagon** was his personal enemy since the destruction of Ald Sotha
+
+## Personality and Philosophy
+
+### The Rational Mystic
+
+Sotha Sil embodies a paradox: a god who does not believe in divinity. For him, divine power is simply another form of energy — powerful, certainly, but explainable and controllable. This perspective makes him unique among the divine figures of Tamriel.
+
+### The Teachings in Sequence
+
+Sotha Sil's teachings, compiled in *The Truth in Sequence*, lay out his worldview:
+
+- The universe is a mechanism whose workings can be understood
+- Blind faith is inferior to understanding
+- Progress toward perfection is the duty of every thinking being
+- Entropy and chaos are design flaws, not inevitabilities
+- The individual has the power to reinvent themselves — to **re-fabricate** the self
+
+### The Divine Melancholy
+
+Despite (or because of) his immense power, Sotha Sil was deeply **melancholic**. The rare accounts of those who met him describe an infinitely weary being, carrying the weight of knowledge too heavy for a single mind.
+
+He had seen the hidden mechanisms of reality and knew that some problems had no solutions — not even for a god.
+
+## Relations with the Tribunal
+
+### With Vivec
+Sotha Sil and Vivec maintained a **mutual respect** tinged with distance. Vivec understood Sotha Sil's vision without sharing it, and admired his intellect while lamenting his isolation. Vivec called Sotha Sil "the best of us."
+
+### With Almalexia
+The relationship with Almalexia was more **strained**. Sotha Sil viewed Almalexia's pursuit of power and adoration as a weakness, while she perceived his withdrawal from the world as an abandonment of his responsibilities toward the Dunmer people.
+
+This tension would prove fatal.
+
+## The Death
+
+### The Assassination
+
+In **3E 427**, as the Tribunal's power waned with the weakening of their connection to the Heart of Lorkhan, **Almalexia** — having become mad and paranoid — traveled to the Clockwork City and **assassinated Sotha Sil**.
+
+The exact circumstances are troubling: Sotha Sil did not defend himself. Some speculate that he had **foreseen** his own death and accepted it as inevitable — a final gear in a greater mechanism.
+
+### The Legacy
+
+Sotha Sil's death marked the beginning of the end for the Tribunal. His Clockwork City persisted, however, maintained by its autonomous mechanisms, becoming a place of pilgrimage and danger for those who dared enter it.
+
+## In Dunmer Memory
+
+For the Dunmer people, Sotha Sil remains an ambivalent figure:
+- The **Apostles of Sotha Sil** perpetuate his teachings and his cult
+- The Temple venerates him as the Mystery — the god who cannot be understood
+- Scholars consider him the greatest intellect in Morrowind's history
+- Poets mourn him as the god who carried the world's sadness
+
+> "He did not create the Clockwork City to replace the world. He created it to prove that the world could be better — and to grieve the fact that it never will be."
+> — *Meditations of a Factotum*, anonymous manuscript

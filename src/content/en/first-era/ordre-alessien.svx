@@ -1,0 +1,74 @@
+---
+title: "The Alessian Order"
+slug: "ordre-alessien"
+era: "first-era"
+category: "religion"
+tags: ["alessia", "marukh", "monotheism", "marukhati-selective", "middle-dawn", "religious-reform"]
+timelineYear: 361
+summary: "The Alessian Order was a radical theocratic movement that imposed strict monotheism on the Cyrodilic Empire for nearly two millennia."
+sources: ["The Exclusionary Mandates", "Shezarr and the Divines", "Before the Ages of Man"]
+---
+
+# The Alessian Order
+
+## Origins: Marukh the Prophet
+
+In the fourth century of the First Era, a singular prophet emerged in the lands of Cyrodiil. **Marukh**, an Imga (a simian race from Valenwood) according to some sources, claimed to have received visions from the Slave-Queen Alessia herself. These visions revealed to him a radical truth: there existed only **one true God**, and all the diversity of the pantheon was mere illusion and elven corruption.
+
+Marukh's teachings rested on several fundamental pillars:
+- The total rejection of Mer (elven) polytheism
+- The assertion that Akatosh and the other Divines were merely aspects of a single deity
+- The condemnation of all cultic practices of elven origin
+- The spiritual and temporal supremacy of humanity
+
+## The Rise to Power
+
+The Alessian Order, founded upon these teachings, rapidly gained influence. In **1E 361**, Alessian doctrines became the official religion of the Cyrodilic Empire. What had begun as a spiritual movement transformed into a theocratic apparatus of formidable efficiency.
+
+The Order established its dominance through:
+- Direct control of the imperial bureaucracy
+- Systematic elimination of rival cults
+- Persecution of elven populations and their sympathizers
+- Censorship and rewriting of history to erase the Mer heritage
+
+## The Structure of the Order
+
+The Order's internal organization was complex and hierarchical. At the apex sat the **Archpriests**, supreme interpreters of doctrine. Below them, concentric circles of priests, theologians, and militants applied the Order's will with absolute fervor.
+
+Among the internal factions, the most notable were:
+- The **Marukhati Selective**: radical mystics who undertook to alter the very nature of divinity
+- The **Inquisitors of Song**: responsible for doctrinal orthodoxy
+- The **Exclusionary Mandates**: militant branches charged with eliminating heresies
+
+## The Marukhati Selective and the Middle Dawn
+
+The most extreme and consequential faction within the Order was the **Marukhati Selective**. These mystics were not content merely to reject elven influence in theology — they sought to extract it directly from divinity itself.
+
+In 1E 1008, the Selective undertook a ritual of unimaginable ambition: dancing atop the White-Gold Tower to **sever the elven aspects of Akatosh** from his nature. Their goal was to separate Auriel (the Aldmeri version of the God of Time) from Akatosh (the human version), purifying the divine of all Meric taint.
+
+The result was the **Middle Dawn**: a Dragon Break lasting eighteen hundred years during which time lost all linearity. Whether the Selective succeeded or failed remains subject to debate — time being broken, the answer may be both simultaneously.
+
+## The Grip on Society
+
+Under Alessian domination, Cyrodilic society underwent a profound transformation:
+
+- **Culturally**: all references to elven traditions were purged from public life
+- **Politically**: emperors became puppets of the Order
+- **Intellectually**: free thought was severely repressed
+- **Demographically**: elven populations were marginalized, persecuted, or expelled
+
+The art of this period became austere and geometric, stripped of all Meric influence. Literature was limited to approved doctrinal texts. Magic itself was regulated, with any non-conforming practice labeled heresy.
+
+## The War of Righteousness and the Dissolution
+
+The Alessian Order did not fall through reform but through conflagration. In **1E 2321**, internal conflicts between the Order's various factions degenerated into open war: the **War of Righteousness**. For ten years, the Alessian factions tore each other apart with the same fervor they had once reserved for heretics.
+
+In 1E 2331, the Order collapsed entirely. Its temples were decommissioned, its texts largely lost or destroyed, and its dogma abandoned in favor of a return to the polytheism of the Eight Divines.
+
+## Legacy
+
+Despite its dissolution, the Alessian Order left an indelible mark on Tamrielic civilization:
+- The concept of a centralized Imperial Church outlasted the Order itself
+- The persistent mistrust between humans and elves was amplified by centuries of propaganda
+- The bureaucratic structures it created formed the skeleton of future imperial administration
+- The question of Akatosh's nature — one god or many? — remains debated to this day

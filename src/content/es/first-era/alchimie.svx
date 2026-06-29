@@ -1,0 +1,112 @@
+---
+title: "La Alquimia — Ciencia de los Ingredientes"
+slug: "alchimie"
+era: "first-era"
+category: "magie"
+tags: ["alquimia", "pociones", "venenos", "ingredientes", "nirnroot", "skooma", "ciencia"]
+timelineYear: 500
+summary: "La alquimia es el arte de combinar ingredientes naturales para crear pociones con efectos mágicos — una disciplina a medio camino entre la ciencia y la magia, accesible a todos."
+sources: ["UESP: Alchemy", "The Imperial Library: Alchemy", "De Rerum Dirennis"]
+---
+
+## Principios Fundamentales
+
+La **alquimia** se diferencia de otras formas de magia en que no requiere **ninguna magicka** por parte del practicante. El poder reside en los **ingredientes** mismos — el alquimista solo revela y combina sus propiedades latentes.
+
+Cada ingrediente posee hasta **cuatro propiedades**:
+- Combinar dos ingredientes que compartan una propiedad crea una poción
+- Las propiedades beneficiosas se convierten en pociones
+- Las propiedades nocivas se convierten en venenos
+- Una mezcla puede tener múltiples efectos simultáneos
+
+## Categorías de Pociones
+
+### Pociones de Restauración
+| Poción | Efecto | Ingredientes comunes |
+|--------|--------|----------------------|
+| Restaurar Salud | Curación inmediata | Trigo, Flor Azul de Montaña |
+| Restaurar Magicka | Recarga mágica | Mora Tapinella, Flor Morada de Montaña |
+| Restaurar Stamina | Recuperación física | Histcarp, Tórax de Luciérnaga |
+| Curar Enfermedad | Cura enfermedades | Cardo, Pluma de Halcón |
+| Curar Veneno | Neutraliza venenos | Cardo, Quitina de Cangrejo de Barro |
+
+### Pociones de Fortalecimiento
+- Fortalecer ataque / magia / arquería
+- Invisibilidad temporal
+- Resistencia elemental (fuego, escarcha, rayo)
+- Respiración acuática
+- Escudo mágico
+
+### Venenos
+- Daño directo (salud, magicka, stamina)
+- Parálisis
+- Debilidad elemental
+- Ralentizamiento
+- Daño continuo
+
+## La Nirnroot
+
+La **Nirnroot** es el ingrediente más misterioso de Tamriel:
+- Planta luminiscente que emite un sonido característico
+- Nunca vuelve a crecer tras ser recolectada (en ciertas versiones del lore)
+- Propiedades alquímicas poderosas y variadas
+- La variante **Crimson Nirnroot** solo crece en Blackreach (una ciudad Dwemer subterránea)
+- Objeto de investigación obsesiva por ciertos alquimistas (especialmente Sinderion)
+
+## El Skooma
+
+La sustancia ilícita más notoria de Tamriel:
+- Derivado refinado del **Moon Sugar** (azúcar de luna)
+- El Moon Sugar se produce de forma natural en Elsweyr
+- El Skooma se destila a partir del azúcar de luna
+- **Efectos**: euforia extrema, alucinaciones, adicción instantánea
+- **Legalidad**: prohibido en todas las provincias excepto Elsweyr
+- **Comercio**: controlado por cárteles criminales (Camonna Tong, Renrijra Krin)
+- **Impacto social**: epidemia de adicción, estereotipos anti-Khajiit
+
+## Equipo
+
+El alquimista necesita:
+- **Mesa de Alquimia** — mesa de trabajo estándar
+- **Alambique** — amplifica los efectos positivos
+- **Calcinador** — aumenta la potencia
+- **Mortero y Maja** — preparación básica
+- **Retorta** — amplifica los efectos de duración
+
+## Tradiciones Alquímicas
+
+### La Escuela de Cyrodiil
+- Enfoque académico y metódico
+- Vinculada a la Universidad Arcana
+- Clasificación sistemática de ingredientes
+- Texto de referencia: *De Rerum Dirennis*
+
+### La Escuela de Morrowind
+- Uso intensivo de la fauna local (netch, kwama, ash yam)
+- Integrada en la cultura Telvanni
+- Pociones a menudo más potentes pero inestables
+- Tradición oral en lugar de académica
+
+### La Escuela de Cielos del Norte
+- Pragmática, ligada a la supervivencia
+- Uso de plantas y hongos locales
+- Menos sofisticada pero más accesible
+- Tradiciones chamánicas nórdicas
+
+## Alquimia y Economía
+
+La alquimia es uno de los **oficios más lucrativos**:
+- Las pociones de curación tienen demanda constante
+- Los venenos interesan a asesinos y cazadores
+- Los encantadores necesitan pociones de fortalecimiento
+- Los aventureros constituyen un mercado inagotable
+- El comercio de skooma (ilegal) genera fortunas
+
+## Limitaciones
+
+La alquimia no puede:
+- Devolver la vida a los muertos
+- Conceder inmortalidad permanente (salvo casos excepcionales)
+- Igualar el poder de la magia pura en niveles altos
+- Funcionar sin ingredientes (a diferencia de la magia)
+- Crear efectos instantáneos a distancia (hay que ingerir o aplicar la poción)

@@ -1,0 +1,92 @@
+---
+title: "The Tribunal — The Three Living Gods"
+slug: "tribunal"
+era: "first-era"
+category: "religion"
+tags: ["tribunal", "vivec", "almalexia", "sotha-sil", "morrowind", "dunmer", "heart-of-lorkhan", "false-gods"]
+timelineYear: 700
+summary: "The Tribunal (ALMSIVI) refers to the three mortal Chimer who became gods by drawing from the Heart of Lorkhan — Vivec, Almalexia, and Sotha Sil — who governed Morrowind for millennia."
+sources: ["UESP: Tribunal", "The Imperial Library: The Battle of Red Mountain", "36 Lessons of Vivec"]
+---
+
+## Origins
+
+The **Tribunal** (also called ALMSIVI, an acronym of its members) was born in blood and betrayal in the aftermath of the **Battle of Red Mountain** (1E 700):
+
+The three future gods were the closest advisors to King **Nerevar**:
+- **Vivec** — warrior-poet, mystical counselor
+- **Almalexia** — Nerevar's wife, queen-consort
+- **Sotha Sil** — mage-inventor, silent genius
+
+## The Ascension
+
+### The Oath
+After the victory against the Dwemer and their subsequent disappearance, Nerevar made the Tribunal swear to **never** use the **Tools of Kagrenac** (Keening, Sunder, Wraithguard) on the Heart of Lorkhan. Then Nerevar died — the circumstances of his death are disputed.
+
+### The Betrayal
+Despite their oath, the Tribunal used the Tools on the Heart:
+- They channeled its divine power
+- They became **living gods** — immortal, partly omniscient, surpassingly powerful
+- Azura, witness to the betrayal, **cursed** them: the Chimer became the Dunmer (grey skin, red eyes)
+- Azura prophesied that one day **Nerevar would return** for vengeance
+
+## The Three Gods
+
+### Vivec — The Warrior-Poet
+- **Sphere**: Duality, Art, War, Paradox
+- Seat of power: Vivec City (a city built around his palace)
+- Philosophy: "Contradiction is the ultimate truth"
+- Held the rock **Baar Dau** levitating above his city through sheer will
+- Author of the **36 Lessons** — cryptic texts blending truth, lies, and metaphysics
+- Said to have attained **CHIM**
+
+### Almalexia — Mother of the People
+- **Sphere**: Compassion, Healing, Motherhood
+- Seat of power: Mournhold (Morrowind's mainland capital)
+- Role: protector, healer, maternal figure
+- In reality: grew progressively **paranoid and tyrannical** as her powers waned
+- Murdered **Sotha Sil** in her madness and attempted to kill the Nerevarine
+
+### Sotha Sil — The Mechanist
+- **Sphere**: Mystery, Invention, Mechanics, Logic
+- Seat of power: The **Clockwork City** — a perfect miniature world within a sphere
+- Personality: reclusive, silent, obsessed with mechanical perfection
+- Created an entire world of mechanisms and automatons
+- Murdered by Almalexia in 3E 427
+
+## The Tribunal's Reign
+
+For nearly **3,000 years** (1E 700 → 3E 427), the Tribunal:
+- Protected Morrowind against invasions (Akaviri, Reman, Septim)
+- Maintained an advanced and unique civilization
+- Fought back the resurging influence of **Dagoth Ur** (who had also touched the Heart)
+- Negotiated the **Armistice Treaty** with Tiber Septim (Morrowind retained its autonomy)
+- Served as a spiritual bulwark for the Dunmer people
+
+## The Fall
+
+### The Weakening
+Starting in 2E 882, **Dagoth Ur** awoke and seized control of Red Mountain, cutting off the Tribunal's access to the Heart of Lorkhan. Without the ability to "recharge," their powers diminished inexorably.
+
+### 3E 427 — The Nerevarine
+- The Nerevarine fulfilled Azura's prophecy
+- Destroyed the Heart of Lorkhan with the Tools of Kagrenac
+- The Tribunal **permanently** lost its divine powers
+- Vivec vanished mysteriously
+- Almalexia descended into madness and was slain
+- Sotha Sil had already been murdered by Almalexia
+
+### Aftermath
+- Baar Dau fell on Vivec City (→ the Red Year, 4E 5)
+- The Dunmer returned to ancestor worship and the Good Daedra
+- The Tribunal Temple reformed as the **New Temple**, venerating the Anticipations (Daedra)
+- The Tribunal's legacy remains deeply controversial
+
+## Philosophical Legacy
+
+The Tribunal raises the fundamental question of Elder Scrolls lore:
+- Can a mortal **truly** become a god?
+- Were their powers real or a collective illusion?
+- Does their betrayal of Nerevar invalidate millennia of protection?
+- Did Vivec attain CHIM independently of the Heart?
+- Are the 36 Lessons truth or divine propaganda?

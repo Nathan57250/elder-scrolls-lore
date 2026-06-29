@@ -1,0 +1,58 @@
+---
+title: "Aetherium"
+slug: "aetherium"
+era: "first-era"
+category: "artefacts"
+tags: ["aetherium", "dwemer", "aetherial-forge", "skyrim", "arkngthamz", "katria", "rare-material"]
+timelineYear: 700
+summary: "Aetherium, an exceedingly rare crystalline material mined by the Dwemer of Skyrim, and the legendary Aetherial Forge capable of working it."
+sources: ["The Aetherium Wars", "Katria's Journal", "Dawnguard DLC", "Dwemer Inquiries"]
+---
+
+## A Material Between Worlds
+
+**Aetherium** is an extraordinarily rare crystal of characteristic luminous blue, which the **Dwemer** of Skyrim discovered and mined during the First Era. This material possesses unique properties: it is capable of storing and channeling magical energy with an efficiency unmatched by any other known substance. Its name derives from **Aetherius** — the divine plane from which all magic emanates — suggesting that this crystal may be a solidified fragment of the very substance of the gods' realm.
+
+Aetherium is found only in rare underground deposits in Skyrim, at considerable depths. The Dwemer were the only ones to develop the techniques required for its extraction and working — methods that vanished with them and that no one has since managed to reproduce.
+
+## Discovery and Exploitation
+
+The Dwemer of Skyrim discovered Aetherium sometime during the First Era, most likely during the excavation of their ever-deeper underground cities. The exact nature of the discovery is lost to history, but its consequences were immense: four Dwemer cities of Skyrim — **Arkngthamz**, **Raldbthar**, **Mzulft**, and **Bthar-zel** (Deep Folk Crossing) — formed an alliance to jointly exploit the Aetherium deposits.
+
+This alliance was remarkable in the context of Dwemer civilization, whose city-states were habitually jealous of their independence. The value of Aetherium was such that it justified unprecedented cooperation between traditionally isolationist communities.
+
+## The Aetherial Forge
+
+The **Aetherial Forge** was constructed at the heart of the **Ruins of Bthalft** to work raw Aetherium. This unique installation, powered by underground magmatic heat and by Dwemer tonal technology, was the only structure capable of melting and shaping Aetherium crystal. The temperature and conditions required exceed the capabilities of any conventional forge — Aetherium can only be worked under very specific conditions combining extreme heat and tonal resonance.
+
+The Forge allowed for the creation of objects with extraordinary properties: crowns conferring the ability to command Dwemer automatons, shields that rendered their bearers ethereal, and staves channeling raw magical power. Each object made from Aetherium is a unique artifact of incalculable worth.
+
+## The Aetherium Wars
+
+The alliance between the four cities did not last. Possession and control of Aetherium — and especially of the Aetherial Forge — provoked internal conflicts that escalated into open war. The **Aetherium Wars** divided the Dwemer of Skyrim into rival factions, each seeking exclusive control of this miraculous resource.
+
+These internal wars considerably weakened the Dwemer of Skyrim, leaving them vulnerable to outside threats. Some historians speculate that this internal division contributed to their inability to withstand the pressure of Nordic armies and their own metaphysical errors that led to their disappearance.
+
+## The Aetherium Shards
+
+After the collapse of the alliance, the Aetherial Forge was sealed, its access protected by a locking system requiring four **Aetherium Shards** — each held by one of the four allied cities. This system ensured that no faction could use the Forge unilaterally without the cooperation of the other three.
+
+With the disappearance of the Dwemer in 1E 700, these shards were lost in the ruins of their cities, waiting millennia to be rediscovered. Their reunification represents a major archaeological challenge, as each shard is guarded by the automatic defenses of the abandoned Dwemer cities.
+
+## Katria's Search
+
+In 4E 201, the adventurer and scholar **Katria** devoted her life to finding the Aetherial Forge. Her research, compiled in the work "The Aetherium Wars," represents the most comprehensive source of information on the subject. Tragically, Katria died during the exploration of Arkngthamz — but her ghost persisted, guiding another adventurer toward the completion of her unfinished quest.
+
+Katria's story is also one of academic betrayal: her colleague **Taron Dreth** appropriated her research and published her discoveries under his own name, depriving Katria of the recognition she deserved. Her determination to complete her quest even after death speaks to the irresistible pull that Aetherium exerts on those who discover its existence.
+
+## Possible Creations
+
+The Aetherial Forge, once reactivated, allows for the creation of three types of artifact: the **Aetherial Crown**, which lets its wearer benefit from the blessing of two Standing Stones simultaneously; the **Aetherial Shield**, which makes struck enemies ethereal; and the **Aetherial Staff**, capable of summoning Dwemer automatons.
+
+Each of these objects illustrates a different aspect of Aetherium's properties: the manipulation of spiritual energies (crown), interaction with the material phase (shield), and control of Dwemer technology (staff).
+
+## Legacy and Mysteries
+
+Aetherium remains one of Tamriel's most mysterious materials. Its presumed connection to Aetherius raises fundamental questions about the nature of magic and the relationship between the planes of existence. Had the Dwemer found a way to literally "crystallize" divine substance? And if Aetherium is a fragment of Aetherius, what consequences does its extraction have on the divine plane itself?
+
+These questions remain unanswered, for the only ones who understood them — the Dwemer — vanished along with their secrets.

@@ -1,0 +1,61 @@
+---
+title: "The War of the First Council"
+slug: "guerre-premier-conseil"
+era: "first-era"
+category: "evenements"
+tags: ["dwemer", "chimer", "nerevar", "dumac", "red-mountain", "morrowind", "numidium"]
+timelineYear: 668
+summary: "The War of the First Council was the conflict between the Dwemer and the Chimer that culminated at the Battle of Red Mountain and led to the disappearance of the Dwemer race."
+sources: ["Nerevar at Red Mountain", "The Battle of Red Mountain", "The Real Nerevar", "Five Songs of King Wulfharth"]
+---
+
+# The War of the First Council
+
+## Context: Two Peoples, Two Visions
+
+In the seventh century of the First Era, the land known today as **Morrowind** was shared between two great Mer peoples: the **Chimer** (ancestors of the Dunmer) and the **Dwemer** (the Deep Elves). Though both civilizations were of Aldmeri origin, they had developed radically opposing philosophies.
+
+The **Chimer**, led by the prophet Veloth, devoted fervent worship to the Daedric Princes — primarily to their patron Trinity: **Boethiah**, **Azura**, and **Mephala**. Their society was organized into theocratic Great Houses where religious devotion determined social standing.
+
+The **Dwemer**, by contrast, rejected all forms of divine worship. Rationalists and atheists in a world where gods manifestly exist, they regarded the et-Ada (divine beings) as mere natural phenomena to be studied, dissected, and exploited. Their civilization rested on logic, engineering, and pure reason.
+
+## The Fragile Alliance of the First Council
+
+Despite these fundamental differences, the two peoples forged an alliance known as the **First Council** to repel Nordic invaders at the start of the First Era. The Chimer king **Nerevar** and the Dwemer king **Dumac** sealed a personal friendship that cemented this political union.
+
+For centuries, this alliance endured, maintained by the mutual respect between the two sovereigns. But beneath the surface, the religious and philosophical tensions had never disappeared — they were merely waiting for a catalyst.
+
+## The Catalyst: The Heart of Lorkhan
+
+That catalyst came in the form of an extraordinary discovery. Dwemer miners, deep within **Red Mountain**, uncovered the **Heart of Lorkhan** — the still-beating heart of the creator god, driven into the rock by the Aedra at the dawn of time as punishment for his deception.
+
+**Kagrenac**, the Dwemer Chief Tonal Architect and unrivaled genius, immediately grasped the potential of this discovery. He forged three tools — **Keening** (the dagger), **Sunder** (the hammer), and **Wraithguard** (the gauntlet) — designed to harness the Heart's power and create **Numidium**, a divine golem that would elevate the Dwemer to the rank of gods.
+
+## The Betrayal and the War
+
+When Nerevar learned of Kagrenac's ambitions, he confronted his friend Dumac. Accounts diverge on exactly what followed — some say Dumac was ignorant of Kagrenac's plans, others that he fully supported them. Whatever the truth, the rupture was complete.
+
+The First Council shattered. Nerevar, guided by Azura's will and counseled by his generals — **Vivec**, **Almalexia**, and **Sotha Sil** — led the Chimer armies against the Dwemer fortresses. The war was brutal, with the Dwemer deploying their combat automata and the Chimer wielding Daedric magic.
+
+## The Battle of Red Mountain
+
+The denouement came at the **Battle of Red Mountain** (approximately 1E 668–700, the exact dates being disputed). The armies of both sides converged on the volcano where the Heart of Lorkhan lay.
+
+What exactly transpired in the depths of Red Mountain remains one of the greatest mysteries of Tamrielic history. The only certainties are:
+
+1. **Nerevar faced Dumac** and one or both perished in combat
+2. **Kagrenac used his Tools** on the Heart of Lorkhan in a desperate act
+3. **The entirety of the Dwemer race vanished** instantly — every Dwemer on Nirn, wherever they were, ceased to exist in a single moment
+4. **Nerevar died** shortly after the battle, under circumstances the Tribunal always refused to clarify
+
+## The Immediate Consequences
+
+The disappearance of the Dwemer left an immense void. Their cities became ruins haunted by masterless automata. Their technological knowledge was largely lost forever.
+
+But the heaviest consequence concerned the **Tribunal**. Vivec, Almalexia, and Sotha Sil — breaking an oath made to Nerevar and defying Azura's will — used Kagrenac's Tools to draw upon the Heart of Lorkhan and transform themselves into living gods. In response, Azura cursed the entire Chimer people: their skin turned grey and their eyes red — transforming them into the **Dunmer**, the Dark Elves.
+
+## Legacy and Prophecy
+
+The War of the First Council was not a simple military conflict — it fundamentally reshaped Morrowind's civilization for the millennia that followed. The Tribunal ruled as gods, the memory of Nerevar became a prophecy of return (the **Nerevarine**), and Red Mountain itself became a sacred and forbidden place.
+
+The question remains: are the Dwemer truly dead, or do they exist elsewhere, in a state we cannot comprehend?

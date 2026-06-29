@@ -1,0 +1,122 @@
+---
+title: "The Psijic Order"
+slug: "ordre-psijique"
+era: "first-era"
+category: "guildes"
+tags: ["psijics", "artaeum", "magic", "old-ways", "summerset", "mystics", "vanus-galerion", "mages-guild"]
+timelineYear: 1
+summary: "The oldest mystical order in Tamriel, the Psijics have mastered the Old Ways since the Dawn Era and watch over the balance of the world from their shifting island of Artaeum."
+sources: ["UESP: Psijic Order", "Fragment: On Artaeum", "The Old Ways", "The Imperial Library"]
+---
+
+## The Silent Guardians
+
+The **Psijic Order** (sometimes spelled Psiijic) is the oldest known mystical organization in Tamriel, predating every guild, every empire, and perhaps even the concept of an "era" as mortals understand it. Its members — the **Psijics** — are mystics of extraordinary power who have renounced the material world to study the primordial forces of the Aurbis.
+
+From their island of **Artaeum**, which appears and disappears at their will, they observe the events of Tamriel and intervene only when the fundamental balance of the world is threatened.
+
+## Origins and the Old Ways
+
+### The Early Days
+
+The Order was founded in the early First Era (some say before it) by dissidents from the Aldmeri clergy of the **Summerset Isles**. These Elves rejected the growing dogmatism of ancestor worship in favor of a more contemplative and direct approach to the divine.
+
+Its legendary founder is said to be **Iachesis**, who led the Order for more than three thousand years.
+
+### The Old Ways
+
+The Psijic philosophy rests on the **Old Ways** — a system of thought and magical practice radically different from conventional magic:
+
+| Conventional Magic | The Old Ways |
+|-------------------|--------------|
+| Manipulation of magicka via formulas | Direct communion with the forces of the Aurbis |
+| Classification into schools (Destruction, Alteration...) | Holistic approach without categories |
+| Power through will and intellect | Power through understanding and harmony |
+| Accessible through academic study | Accessible only through inner illumination |
+
+The Old Ways are not a form of magic in the strict sense — they are a way of **perceiving and interacting with reality** at a more fundamental level than magicka itself.
+
+### Known Powers
+
+The abilities attributed to the Psijics far exceed what conventional magic allows:
+- **Time manipulation** — locally slowing, accelerating, or stopping the flow of time
+- **Telepathy** — mental communication over vast distances
+- **Prescience** — visions of the future and of possibilities
+- **Translocation** — instantaneous movement of their island or of themselves
+- **Dissolution** — the ability to make Artaeum disappear entirely from the mortal plane
+
+## The Island of Artaeum
+
+### Mystical Geography
+
+**Artaeum** is the third largest island of the Summerset Archipelago — when it is visible. For the defining trait of Artaeum is that it **disappears** for entire centuries at a time, taking all its inhabitants with it, only to reappear without warning.
+
+Known disappearances:
+- **1E 2920 — 2E 230**: approximately 500 years of absence
+- **2E 582 — 2E ???**: temporary return during the Psijic Crystal Crisis
+- **3E ??? — 3E 430**: a period of absence during the Third Era
+
+### Description
+
+Those who have had the privilege of visiting Artaeum describe:
+- Gardens of supernatural beauty where time flows differently
+- The great library of **Ceporah Tower**, containing lost knowledge from the Dawn Era
+- Alchemical laboratories and meditation halls
+- An atmosphere of absolute serenity, as though the island existed slightly "beside" reality
+
+## Notable Members
+
+### Vanus Galerion
+
+The most famous "alumni" of the Psijics is **Vanus Galerion**, born Trechtus. Trained at Artaeum in the second century of the Second Era, he left the Order out of frustration with their elitism. His conviction: magic should be accessible to all, not reserved for a caste of the illuminated.
+
+He founded the **Mages Guild** in 2E 230 — an institution that democratized magical education across all of Tamriel, in direct opposition to Psijic philosophy. The Psijics regarded this initiative with a mixture of disapproval and resignation.
+
+### Other Notable Figures
+
+- **Iachesis** — Founder and guide for millennia
+- **Ritemaster Iachesis** — Leader during multiple crises
+- **Sotha Sil** — Briefly studied at Artaeum before joining Nerevar
+- **Loremaster Celarus** — Head of the Order during the Oblivion Crisis in 2E 582
+- **Quaranir** — Psijic emissary during the Eye of Magnus Crisis (4E 201)
+
+## Historical Interventions
+
+The Psijics intervene rarely, but always at crucial moments:
+
+### Early Documented Interventions
+- Counsel to Summerset's rulers against Sload threats
+- Secret guidance during the formation of the first Elven kingdoms
+- Surveillance of the Dwemer's experiments on the Heart of Lorkhan
+
+### The Eye of Magnus Crisis (4E 201)
+The Psijics contacted the **Dovahkiin** (Dragonborn) upon the discovery of the **Eye of Magnus** beneath Saarthal. Recognizing the danger this artifact represented, they guided the hero from a distance and, once the Thalmor agent Ancano was defeated, **confiscated the Eye** to place it beyond the reach of mortals.
+
+### Relations with the Thalmor
+The Psijic Order maintains **extremely tense** relations with the Thalmor (the Aldmeri supremacist government of the Fourth Era). The Thalmor consider the Psijics traitors to the Elven race for their refusal to participate in their agenda. The Psijics, in turn, view the Thalmor as dangerous fanatics.
+
+## Philosophy and Ethics
+
+### The Principle of Non-Intervention
+
+Psijic doctrine rests on a paradox:
+- They **see** crises developing through their prescience
+- They **could** intervene through their power
+- They **choose** not to in the majority of cases
+
+Their reasoning: intervening too often would create dependency and prevent the peoples of Tamriel from forging their own destiny. They are neither saviors nor rulers — they are **guardians of last resort**.
+
+### Knowledge as Responsibility
+
+For the Psijics, knowledge is not a right but a responsibility. Every secret revealed can destabilize the world. This is why they keep so much knowledge out of common reach — not out of contempt, but out of caution.
+
+## Unresolved Mysteries
+
+Several major questions surround the Order:
+- Where does Artaeum go when it disappears? (Another plane? Outside of time?)
+- What is their exact number? (Estimates: between 50 and a few hundred)
+- Do they know the nature of the Godhead and the Amaranth?
+- Why did they not prevent the Great War or the Oblivion Crisis?
+- What is their true connection to the Old Ways of the Aldmer before Summerset?
+
+The Psijic Order remains, after millennia, one of the most mysterious and most powerful forces in Tamriel — a reminder that the true masters of the world are sometimes those who choose not to act.

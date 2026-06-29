@@ -1,0 +1,61 @@
+---
+title: "La Guerra del Primer Consejo"
+slug: "guerre-premier-conseil"
+era: "first-era"
+category: "evenements"
+tags: ["dwemer", "chimer", "nerevar", "dumac", "montaña-roja", "morrowind", "numidium"]
+timelineYear: 668
+summary: "La Guerra del Primer Consejo fue el conflicto entre los Dwemer y los Chimer que culminó en la Batalla de la Montaña Roja y llevó a la desaparición de la raza Dwemer."
+sources: ["Nerevar at Red Mountain", "The Battle of Red Mountain", "The Real Nerevar", "Five Songs of King Wulfharth"]
+---
+
+# La Guerra del Primer Consejo
+
+## Contexto: Dos Pueblos, Dos Visiones
+
+En el siglo séptimo de la Primera Era, la tierra conocida hoy como **Morrowind** estaba dividida entre dos grandes pueblos mer: los **Chimer** (antepasados de los Dunmer) y los **Dwemer** (los Elfos de las Profundidades). Aunque ambas civilizaciones eran de origen aldmer, habían desarrollado filosofías radicalmente opuestas.
+
+Los **Chimer**, liderados por el profeta Veloth, rendían ferviente culto a los Príncipes Daédricos — principalmente a su Trinidad de patronos: **Boethiah**, **Azura** y **Mephala**. Su sociedad estaba organizada en Grandes Casas teocráticas donde la devoción religiosa determinaba el estatus social.
+
+Los **Dwemer**, en cambio, rechazaban toda forma de culto divino. Racionalistas y ateos en un mundo donde los dioses se manifiestan de forma concreta, consideraban a los et-Ada (seres divinos) como simples fenómenos naturales que estudiar, diseccionar y explotar. Su civilización descansaba en la lógica, la ingeniería y la razón pura.
+
+## La Frágil Alianza del Primer Consejo
+
+A pesar de estas diferencias fundamentales, los dos pueblos forjaron una alianza conocida como el **Primer Consejo** para repeler a los invasores nórdicos a comienzos de la Primera Era. El rey chimer **Nerevar** y el rey Dwemer **Dumac** sellaron una amistad personal que cimentó esta unión política.
+
+Durante siglos, esta alianza perduró, mantenida por el respeto mutuo entre los dos soberanos. Pero bajo la superficie, las tensiones religiosas y filosóficas nunca habían desaparecido — simplemente esperaban un catalizador.
+
+## El Catalizador: el Corazón de Lorkhan
+
+Ese catalizador llegó en forma de un descubrimiento extraordinario. Los mineros Dwemer, en las profundidades de la **Montaña Roja**, descubrieron el **Corazón de Lorkhan** — el corazón aún latiente del dios creador, incrustado en la roca por los Aedra en el alba de los tiempos como castigo por su engaño.
+
+**Kagrenac**, el Arquitecto Tonal Jefe de los Dwemer y genio sin igual, comprendió de inmediato el potencial de este descubrimiento. Forjó tres herramientas — **Keening** (el puñal), **Sunder** (el martillo) y **Wraithguard** (el guantelete) — diseñadas para aprovechar el poder del Corazón y crear **Numidium**, un gólem divino que elevaría a los Dwemer al rango de dioses.
+
+## La Traición y la Guerra
+
+Cuando Nerevar supo de las ambiciones de Kagrenac, confrontó a su amigo Dumac. Los relatos divergen sobre lo que ocurrió exactamente a continuación — algunos dicen que Dumac ignoraba los planes de Kagrenac, otros que los apoyaba plenamente. Sea cual fuere la verdad, la ruptura fue consumada.
+
+El Primer Consejo se hizo añicos. Nerevar, guiado por la voluntad de Azura y aconsejado por sus generales — **Vivec**, **Almalexia** y **Sotha Sil** — lideró los ejércitos chimer contra las fortalezas Dwemer. La guerra fue brutal, con los Dwemer desplegando sus autómatas de combate y los Chimer empleando su magia daédrica.
+
+## La Batalla de la Montaña Roja
+
+El desenlace llegó en la **Batalla de la Montaña Roja** (aproximadamente 1E 668-700, siendo las fechas exactas objeto de disputa). Los ejércitos de ambos bandos convergieron hacia el volcán donde reposaba el Corazón de Lorkhan.
+
+Lo que ocurrió exactamente en las profundidades de la Montaña Roja sigue siendo uno de los grandes misterios de la historia tamriélica. Las únicas certezas son:
+
+1. **Nerevar se enfrentó a Dumac** y uno o ambos perecieron en combate
+2. **Kagrenac usó sus Herramientas** sobre el Corazón de Lorkhan en un acto desesperado
+3. **La totalidad de la raza Dwemer desapareció** instantáneamente — cada Dwemer en Nirn, dondequiera que estuviera, dejó de existir en un solo instante
+4. **Nerevar murió** poco después de la batalla, en circunstancias que el Tribunal siempre se negó a aclarar
+
+## Las Consecuencias Inmediatas
+
+La desaparición de los Dwemer dejó un inmenso vacío. Sus ciudades se convirtieron en ruinas habitadas por autómatas sin amo. Sus conocimientos tecnológicos se perdieron en gran parte para siempre.
+
+Pero la consecuencia más grave concernió al **Tribunal**. Vivec, Almalexia y Sotha Sil — quebrantando un juramento hecho a Nerevar y desafiando la voluntad de Azura — usaron las Herramientas de Kagrenac para extraer poder del Corazón de Lorkhan y transformarse en dioses vivientes. En respuesta, Azura maldijo a todo el pueblo chimer: su piel se volvió gris y sus ojos rojos — transformándolos en los **Dunmer**, los Elfos Oscuros.
+
+## Legado y Profecía
+
+La Guerra del Primer Consejo no fue un simple conflicto militar — remodelò fundamentalmente la civilización de Morrowind durante los milenios siguientes. El Tribunal reinó como dioses, el recuerdo de Nerevar se convirtió en una profecía de retorno (el **Nerevarine**), y la propia Montaña Roja se convirtió en un lugar sagrado y prohibido.
+
+La pregunta permanece: ¿están los Dwemer realmente muertos, o existen en otro lugar, en un estado que no podemos comprender?

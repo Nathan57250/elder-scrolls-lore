@@ -1,0 +1,85 @@
+---
+title: "Cyrodiil — Heart of the Empire"
+slug: "cyrodiil"
+era: "first-era"
+category: "lieux"
+tags: ["cyrodiil", "empire", "imperial-city", "colovian", "nibenay", "provinces"]
+timelineYear: 243
+summary: "The province of Cyrodiil, Tamriel's political center: birthplace of three empires, a land of contrasts between the rugged Colovian warriors and the refined Nibenese."
+sources: ["UESP: Cyrodiil", "Pocket Guide to the Empire, 1st Edition", "The Imperial Library"]
+---
+
+## Geography
+
+Cyrodiil occupies the center of Tamriel, surrounded by all other provinces. Despite its reputation as a "temperate province," it is a land of contrasts:
+
+### Regions
+- **Heartlands** — central plains around Lake Rumare and the Imperial City
+- **Colovia** (west) — forested highlands, home to pragmatic warriors
+- **Nibenay** (east) — fertile river valley, refined and mercantile culture
+- **Gold Coast** — prosperous western coast (Anvil, Kvatch)
+- **Blackwood** — southeastern marshes, bordering Black Marsh
+- **Jerall Mountains** — northern mountain range (border with Skyrim)
+- **Valus Mountains** — eastern mountains (border with Morrowind)
+
+### Lake Rumare
+At the exact center of the province, Lake Rumare surrounds the **City Isle** upon which stand the Imperial City and the White-Gold Tower.
+
+## The Imperial City
+
+The largest city in Tamriel is built around the **White-Gold Tower** — an Ayleid structure predating all human civilization. The city is organized into circular districts:
+
+- **Green Emperor Way** — Imperial gardens and cemetery
+- **Market District** — commerce
+- **Talos Plaza** — noble residential district
+- **Temple District** — Temple of the Divines
+- **Arcane University** — center of the Mages Guild
+- **Arboretum** — botanical gardens
+- **Waterfront** — impoverished harbor district
+
+### The Imperial Prison
+Beneath the City lie the **Imperial Sewers** and the Prison — the starting point of TES IV: Oblivion, where Emperor Uriel Septim VII was assassinated.
+
+## Political History
+
+### First Empire (Alessian, 1E 243 - 1E 2331)
+Founded by Saint Alessia after freeing humans from Ayleid slavery. A theocratic empire centered on the cult of the Eight Divines and Alessian monotheism.
+
+### Second Empire (Reman, 1E 2703 - 2E 430)
+Founded by Reman Cyrodiil who unified Tamriel against the Akaviri invasion. The dynasty was extinguished by the Morag Tong, followed by the Interregnum.
+
+### Third Empire (Septim, 2E 854 - 4E 175)
+Founded by Tiber Septim who conquered all of Tamriel with the aid of the Numidium. The continent's longest period of stability. Ended by the Oblivion Crisis, followed by the Mede dynasty.
+
+## A Dual Culture
+
+### The Colovians (West)
+- Warriors, legionnaires, frontier people
+- Pragmatic and straightforward
+- Austere stone architecture
+- Close to Nordic and Redguard cultures
+- Cities: Chorrol, Skingrad, Anvil, Kvatch
+
+### The Nibenese (East)
+- Merchants, nobles, scholars
+- Refined and politically subtle
+- Ornate architecture and lush gardens
+- Elven and Akaviri influences in their culture
+- Cities: Bravil, Leyawiin, Cheydinhal
+
+## The Imperial Legion
+
+The Empire's army is based in Cyrodiil — a professional force organized along Roman lines:
+- Numbered **Legions** (10 in peacetime, more in war)
+- **Discipline** — rigorous training, code of honor
+- **Diversity** — all races may serve
+- **Garrisons** in every province of the Empire
+
+## After the Oblivion Crisis
+
+The end of the Septim dynasty and the destruction of the Amulet of Kings deeply weakened Cyrodiil:
+- Loss of Akatosh's covenant protecting against Daedric invasions
+- Secession of multiple provinces
+- Rise to power of the Thalmor
+- Establishment of the Mede dynasty (Titus Mede I)
+- Sack of the Imperial City during the Great War (4E 174)

@@ -1,0 +1,58 @@
+---
+title: "El Aetherium"
+slug: "aetherium"
+era: "first-era"
+category: "artefacts"
+tags: ["aetherium", "dwemer", "fragua-etérea", "bordeciel", "arkngthamz", "katria", "material-raro"]
+timelineYear: 700
+summary: "El Aetherium, material cristalino rarísimo explotado por los Dwemer de Bordeciel, y la legendaria Fragua Etérea capaz de trabajarlo."
+sources: ["The Aetherium Wars", "Katria's Journal", "Dawnguard DLC", "Dwemer Inquiries"]
+---
+
+## Un material entre los mundos
+
+El **Aetherium** es un cristal de una rareza extrema, de un azul luminoso característico, que los **Dwemer** de Bordeciel descubrieron y explotaron durante la Primera Era. Este material posee propiedades únicas: es capaz de almacenar y canalizar energía mágica con una eficiencia sin igual en ninguna otra sustancia conocida. Su nombre deriva de **Aetherius** — el plano divino del que emana toda magia —, lo que sugiere que este cristal podría ser un fragmento solidificado de la sustancia misma del reino de los dioses.
+
+El Aetherium solo se encuentra en raros yacimientos subterráneos de Bordeciel, a grandes profundidades. Los Dwemer fueron los únicos en desarrollar las técnicas necesarias para su extracción y trabajo — métodos que desaparecieron con ellos y que nadie ha logrado reproducir desde entonces.
+
+## El descubrimiento y la explotación
+
+Los Dwemer de Bordeciel descubrieron el Aetherium en algún momento durante la Primera Era, probablemente durante la excavación de sus ciudades subterráneas, cada vez más profundas. La naturaleza exacta del descubrimiento se ha perdido, pero sus consecuencias fueron inmensas: cuatro ciudades dwemer de Bordeciel — **Arkngthamz**, **Raldbthar**, **Mzulft** y **Bthar-zel** (Cruce de la Gente Profunda) — formaron una alianza para explotar conjuntamente los yacimientos de Aetherium.
+
+Esta alianza era notable en el contexto de la civilización dwemer, cuyas ciudades-estado eran habitualmente celosas de su independencia. El valor del Aetherium era tal que justificaba una cooperación sin precedentes entre comunidades tradicionalmente aislacionistas.
+
+## La Fragua Etérea
+
+La **Fragua Etérea** (Aetherial Forge) fue construida en el corazón de las **Ruinas de Bthalft** para trabajar el Aetherium en bruto. Esta instalación única, alimentada por el calor magmático subterráneo y por la tecnología tonal dwemer, era la única estructura capaz de fundir y moldear el cristal de Aetherium. La temperatura y las condiciones necesarias superan las capacidades de cualquier fragua convencional — el Aetherium solo puede trabajarse en condiciones muy específicas que combinan calor extremo y resonancia tonal.
+
+La Fragua permitía crear objetos de propiedades extraordinarias: coronas que conferían la capacidad de controlar los autómatas dwemer, escudos que volvían etéreo a su portador y báculos que canalizaban una potencia mágica bruta. Cada objeto de Aetherium es un artefacto único de valor inestimable.
+
+## Las Guerras del Aetherium
+
+La alianza entre las cuatro ciudades no duró. La posesión y el control del Aetherium — y sobre todo de la Fragua Etérea — provocaron conflictos internos que degeneraron en guerra abierta. Las **Guerras del Aetherium** dividieron a los Dwemer de Bordeciel en facciones rivales, cada una buscando el control exclusivo de este recurso milagroso.
+
+Estas guerras intestinas debilitaron considerablemente a los Dwemer de Bordeciel, haciéndolos vulnerables frente a las amenazas externas. Algunos historiadores especulan que esta división interna contribuyó a su incapacidad para resistir la presión de los ejércitos nórdicos y sus propios errores metafísicos que condujeron a su desaparición.
+
+## Los fragmentos de Aetherium
+
+Tras el colapso de la alianza, la Fragua Etérea fue sellada y su acceso protegido mediante un sistema de cierre que requería cuatro **Fragmentos de Aetherium** — cada uno en posesión de una de las cuatro ciudades aliadas. Este sistema garantizaba que ninguna facción pudiera usar la Fragua unilateralmente sin la cooperación de las otras tres.
+
+Con la desaparición de los Dwemer en 1E 700, estos fragmentos quedaron perdidos en las ruinas de sus ciudades, esperando durante milenios a ser redescubiertos. Su reunificación representa un reto arqueológico mayor, ya que cada fragmento está protegido por las defensas automáticas de las ciudades dwemer abandonadas.
+
+## La búsqueda de Katria
+
+En 4E 201, la aventurera y erudita **Katria** consagró su vida a encontrar la Fragua Etérea. Sus investigaciones, compiladas en la obra «Las Guerras del Aetherium», representan la fuente más completa de información sobre el tema. Trágicamente, Katria murió durante la exploración de Arkngthamz — pero su fantasma persistió, guiando a otro aventurero hacia la culminación de su búsqueda inconclusa.
+
+La historia de Katria es también la de una traición académica: su colega **Taron Dreth** se apropió de sus investigaciones y publicó sus descubrimientos bajo su propio nombre, privando a Katria del reconocimiento que merecía. Su determinación de completar su búsqueda incluso después de la muerte testimonia la atracción irresistible que el Aetherium ejerce sobre quienes descubren su existencia.
+
+## Las creaciones posibles
+
+La Fragua Etérea, una vez reactivada, permite la creación de tres tipos de artefactos: la **Corona de Aetherium** (Aetherial Crown), que permite a su portador beneficiarse de la bendición de dos Piedras Levadas simultáneamente; el **Escudo de Aetherium** (Aetherial Shield), que vuelve etéreos a los enemigos golpeados; y el **Báculo de Aetherium** (Aetherial Staff), capaz de invocar autómatas dwemer.
+
+Cada uno de estos objetos ilustra un aspecto diferente de las propiedades del Aetherium: la manipulación de las energías espirituales (corona), la interacción con la fase material (escudo) y el control de la tecnología dwemer (báculo).
+
+## Legado y misterios
+
+El Aetherium sigue siendo uno de los materiales más misteriosos de Tamriel. Su presunta conexión con Aetherius plantea preguntas fundamentales sobre la naturaleza de la magia y la relación entre los planos de existencia. ¿Habían encontrado los Dwemer una forma de literalmente «cristalizar» la sustancia divina? Y si el Aetherium es un fragmento de Aetherius, ¿qué consecuencias tiene su extracción sobre el propio plano divino?
+
+Estas preguntas siguen sin respuesta, pues los únicos que las comprendían — los Dwemer — desaparecieron junto con sus secretos.

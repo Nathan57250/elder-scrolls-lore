@@ -1,0 +1,104 @@
+---
+title: "The Numidium"
+slug: "numidium"
+era: "first-era"
+category: "artefacts"
+tags: ["numidium", "dwemer", "kagrenac", "heart-of-lorkhan", "tiber-septim", "mantella", "golem", "anumidium", "walk-brass", "warp-in-the-west"]
+timelineYear: 700
+summary: "A colossal divine golem built by the Dwemer to achieve godhood, the Numidium is the most devastating weapon ever conceived on Nirn, capable of negating reality itself."
+sources: ["UESP: Numidium", "UESP: Anumidium", "The Arcturian Heresy", "Where Were You When the Dragon Broke", "The Imperial Library"]
+---
+
+## Walk-Brass: The God-Machine
+
+The **Numidium** (also called **Walk-Brass**, **Anumidium**, or the **Brass God**) is a colossal Dwemer automaton designed not as a mere weapon of war but as a **vehicle for the divine ascension** of an entire people. Hundreds — or even thousands — of meters tall, this construction of metal and tonal magic represents the ultimate realization of Dwemer philosophy: the denial of the gods' existence and the creation of divinity through pure reason.
+
+## Design and Dwemer Philosophy
+
+### The Rejection of the Divine
+
+The Dwemer were unique among the peoples of Nirn: they **denied the existence of gods** as other races understood them. To them, the Aedra and Daedra were merely exploitable phenomena, not entities worthy of worship. Their philosophy — **Tonal Architecture** — held that reality was made of manipulable vibrations.
+
+### Kagrenac's Project
+
+**Kagrenac**, the most brilliant of the tonal architects, designed the Numidium as the ultimate proof of this philosophy:
+
+- If gods are only accumulations of belief and energy...
+- And if the Heart of Lorkhan contains pure divine energy...
+- Then one can **construct** a god, and that god will prove that divinity is just a mechanism
+
+The Numidium was to be the **god of the Dwemer** — an artificial deity that would grant them immortality and transcendence, not through faith, but through engineering.
+
+## Architecture and Function
+
+### Physical Structure
+
+The Numidium is a bipedal golem of titanic proportions:
+- **Estimated height**: between 300 and 1,000 meters depending on the source
+- **Materials**: enchanted Dwemer alloys, tonal focusing crystals, ebony framework
+- **Weaponry**: no conventional weapons — its power lies in its very nature
+
+### The Principle of Tonal Negation
+
+The Numidium's true weapon is neither projectile nor blade. It is the **NO** — Tonal Negation. When the Numidium is activated and focused on a target, it does not destroy it: it **negates its existence**. It pronounces, at the metaphysical scale, a "NO" so absolute that reality conforms to the assertion.
+
+In practical terms:
+- Entire armies cease to have ever existed
+- Fortifications are retroactively erased
+- Time itself fractures around its activation (Dragon Break)
+
+### The Power Source: The Heart of Lorkhan
+
+To function, the Numidium requires a divine energy source. Kagrenac designed it to be powered by the **Heart of Lorkhan** — the heart of the creator god, buried beneath Red Mountain. This attempted activation caused the disappearance of the Dwemer in 1E 700.
+
+## The Incomplete Numidium
+
+After the disappearance of the Dwemer, the Numidium lay inert beneath Red Mountain — a hollow colossus, without a divine soul to animate it. For millennia it remained an archaeological mystery, too dangerous to study, too powerful to ignore.
+
+The **Tribunal** knew of its existence but could not activate it: the Heart of Lorkhan now powered their own divinity.
+
+## Reconstruction by Tiber Septim
+
+### The Deal with Vivec
+
+In **2E 896**, **Tiber Septim** (Talos) sought to conquer the Aldmeri Dominion — the last power resisting his Empire. Vivec, ever pragmatic, offered him a deal: the Numidium and Kagrenac's plans in exchange for Morrowind's autonomy (the Armistice Treaty).
+
+### The Mantella
+
+Without the Heart of Lorkhan, Tiber Septim needed an alternative power source. According to the **Arcturian Heresy**, he used the **Mantella** — a gem containing the soul of **Zurin Arctus** (the Imperial Underking, possibly identical to Wulfharth/Ysmir). The extraction of this soul was an act of betrayal:
+
+| Element | Detail |
+|---------|--------|
+| **The Mantella** | Soul gem containing the spirit of a Shezarrine |
+| **Zurin Arctus** | Betrayed Imperial mage, became the Underking |
+| **Wulfharth** | Resurrected Nordic High King, possible alternative source of the soul |
+
+### The Conquest of the Dominion
+
+Tiber Septim activated the rebuilt Numidium — renamed **Anumidium** — against the Aldmeri Dominion. The effect was devastating and immediate: the High Elves capitulated. A single deployment was enough to break the resistance of an entire continent.
+
+## The Warp in the West (3E 417)
+
+### The Dragon Break
+
+Centuries later, the Numidium was reactivated in the Iliac Bay region. The event, known as the **Warp in the West** or the **Dragon Break of the Iliac Bay**, caused a **Dragon Break** — a temporal fracture in which several contradictory realities coexisted simultaneously before merging.
+
+Six mutually exclusive outcomes all occurred at the same time:
+- Daggerfall conquered the region
+- Wayrest conquered the region
+- Sentinel conquered the region
+- Orsinium was restored
+- The Underking recovered the Mantella
+- The Empire took direct control
+
+The Numidium was ultimately deactivated (or destroyed), and the Mantella was released.
+
+## Metaphysical Significance
+
+The Numidium is not a mere giant automaton. It is an **embodied philosophical declaration**:
+
+- It proves that divinity can be **manufactured**, undermining the entire theological framework of Tamriel
+- Its power of Negation threatens the **Godhead's Dream** itself — if it negated enough reality, it could theoretically "awaken" the Amaranth
+- It is the ultimate expression of Dwemer atheism: a god built to prove that gods are just machines
+
+The Numidium remains, even inactive, one of the most dangerous objects in the Aurbis — a metaphysical bomb capable of fracturing time and erasing existence.

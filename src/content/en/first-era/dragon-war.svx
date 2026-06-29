@@ -1,0 +1,74 @@
+---
+title: "The Dragon War"
+slug: "dragon-war"
+era: "first-era"
+category: "evenements"
+tags: ["events", "dragons", "thu'um", "nords", "rebellion", "first-era", "paarthurnax"]
+timelineYear: 1
+summary: "The Dragon War, the mortals' rebellion against the tyranny of the Dragon Cult at the dawn of the First Era."
+sources: ["La Guerre des Dragons", "Atlas de la race des dragons", "Chants de Skyrim", "Paroles du Vent"]
+---
+
+## The Tyranny of the Dragons
+
+The Dragon War was one of the most defining conflicts in the history of Tamriel. At the twilight of the **Merethic Era** and the dawn of the First Era, the **Nords** of ancient Skyrim rose up against the dominion of dragons and their mortal cult, the Dragon Cult. This revolt marked the end of an age of slavery and the beginning of mortals' era as masters of their own destiny.
+
+Before the war, dragons ruled Skyrim as undisputed masters. These immortal creatures — children of **Akatosh** according to Imperial tradition — considered mortals to be inferior beings, fit at best to serve and venerate their winged lords. The Dragon Cult, composed of mortal priests called Dragon Priests, served as intermediary between the dragons and the people.
+
+## The Dragon Cult
+
+The Dragon Priests were the true day-to-day oppressors of the Nordic people. Governing in the name of their winged masters, they wielded absolute power over the human populations. They imposed corvée labor, sacrifices, and total devotion, punishing the slightest dissent with death or worse.
+
+These priests possessed considerable magical powers, granted by the dragons themselves. They mastered necromancy, enchantment, and magics of domination. Upon their deaths, they were entombed in vast funerary complexes — the Nordic burial mounds — along with their servants and treasures, convinced they would reign still in the afterlife.
+
+The Dragon Priest Masks — enchanted artifacts of considerable power — are the most famous relics of this era. Each mask bears the name and power of its original owner: treasures coveted by adventurers and scholars millennia later.
+
+## The Causes of the Rebellion
+
+The rebellion against the Dragon Cult was not a sudden event but the culmination of generations of oppression. The immediate causes are debated by historians, but several factors converged to make the revolt inevitable.
+
+The ever-heavier corvée labor imposed by the Dragon Priests stifled Nordic communities. Human sacrifices, initially accepted as the price of the dragons' protection, became unbearable as they intensified. And the gratuitous cruelty of certain Dragon Priests, acting as tyrants rather than spiritual guides, eroded any remaining legitimacy of the system.
+
+But the true catalyst of the rebellion was the divine intervention of **Kynareth** (Kyne in Nordic tradition). The goddess of the skies, moved by compassion for the oppressed mortals, intervened by sending **Paarthurnax** — a renegade dragon — to teach humans the secret of the **Thu'um**, the Power Shout.
+
+## Paarthurnax and the Gift of the Thu'um
+
+**Paarthurnax** is the most controversial figure of the Dragon War. Lieutenant of **Alduin** — the First-Born of Akatosh and supreme leader of the dragons — Paarthurnax betrayed his own people by teaching the Thu'um to mortals. His motivations remain debated: was it compassion, a desire for power, or some grander plan that drove him to this betrayal?
+
+The Thu'um, the Voice, is the art of projecting one's will through speech, turning words into pure force. Dragons are naturally capable of the Thu'um, but mortals must meditate for years to master a single Shout. Paarthurnax taught the first human warriors the techniques needed to accelerate this learning.
+
+The first masters of the Thu'um — the Tongues — became the champions of the rebellion. Armed with the power of the Voice, they could at last face dragons on equal terms, Shout against Shout, strength against strength.
+
+## The Course of the War
+
+The Dragon War was not a brief conflict. It lasted generations — a century or more by some estimates. The early engagements were costly victories for the mortals; every dragon slain was a heroic feat that cost dozens of lives.
+
+Battles were fought across all of Skyrim, from the plains of the Rift to the peaks of the Throat of the World. The dragons, accustomed to uncontested dominion, were initially shocked by the resistance of their former slaves. But they adapted quickly, becoming even more brutal and merciless adversaries.
+
+The Dragon Priests led the resistance on the ground, using their necromantic powers to raise armies of the dead against the rebels. Battles were nightmares in which the living faced the dead while dragons breathed fire from the skies above.
+
+## The Fall of Alduin
+
+The climax of the Dragon War was the confrontation with **Alduin** himself — the World-Eater, the most powerful of all dragons. No mortal army could hope to defeat Alduin through brute force, even wielding the Thu'um.
+
+Three Nordic heroes — Hakon One-Eye, Gormlaith Golden-Hilt, and Felldir the Old — devised a desperate strategy. Using an **Elder Scroll**, they unleashed the Dragonrend Shout — a Shout uniquely created by mortals to force dragons to comprehend mortality, a concept that terrified them.
+
+This Shout did not kill Alduin but forced him to land. Unable to destroy him, the heroes used the Elder Scroll to cast him out of time, banishing him to a distant future. This temporary solution saved the world but deferred the threat to a future era.
+
+## The Aftermath
+
+Alduin's defeat did not immediately end the war. The remaining dragons, deprived of their leader, continued to fight for decades. But without Alduin's coordination and in the face of mortals growing ever more skilled in the use of the Thu'um, they were progressively defeated, killed, or forced into hiding.
+
+The Dragon Priests met a particularly violent fate. The liberated populations hunted them without mercy, destroying their temples and desecrating their tombs. The few Dragon Priests who survived had themselves interred alive in their burial chambers, entering a magical slumber that would not end until millennia later.
+
+## The Legacy of the War
+
+The Dragon War fundamentally transformed Nordic culture. The Thu'um became the supreme symbol of Nordic power, and the Tongues its most venerated heroes. The warrior tradition of Skyrim, the fierce independence of its people, and their distrust of any imposed authority all find their roots in this original rebellion.
+
+The Greybeards, founded by Jurgen Windcaller after the Dragon War, represent a different approach to the Thu'um: contemplation rather than conquest. Windcaller preached that the Voice should serve meditation and the worship of Kyne, not war. This pacifist philosophy divided the community of Tongues and remains a subject of debate in Skyrim.
+
+## The Return of Alduin
+
+Alduin's banishment into the future was never a permanent solution. Nordic prophecies foretold for millennia that Alduin would return at the end of time to devour the world. In 4E 201, this prophecy came to pass when the World-Eater emerged from the temporal flow, bringing with him the terror of dragons upon a Skyrim that had forgotten how to fight them.
+
+Only the Dragonborn (Dovahkiin) — a mortal born with the soul of a dragon — could ultimately accomplish what the ancient heroes had not: truly destroy Alduin, fulfilling the prophecy and closing the circle opened during the original Dragon War.

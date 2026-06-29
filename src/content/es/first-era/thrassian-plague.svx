@@ -1,0 +1,58 @@
+---
+title: "La Plaga Thrassiana"
+slug: "thrassian-plague"
+era: "first-era"
+category: "evenements"
+tags: ["plaga", "sload", "thras", "armada-todas-las-banderas", "pandemia", "bendu-olo"]
+timelineYear: 2260
+summary: "La Plaga Thrassiana, desatada por los Sload de Thras, diezmó a la mitad de la población de Tamriel y provocó la formación de la Armada de Todas las Banderas."
+sources: ["Pocket Guide to the Empire 3rd Edition", "The Infernal City", "2920: The Last Year of the First Era"]
+---
+
+## El ataque biológico de los Sload
+
+En 1E 2260, una catástrofe sanitaria sin precedentes sacudió el continente de **Tamriel**: la **Plaga Thrassiana**. Esta devastadora epidemia, que según las estimaciones mató a más de la mitad de la población del continente, no fue un fenómeno natural sino un arma biológica deliberadamente diseñada y desplegada por los **Sload** — los repugnantes nigromantes anfibios del archipiélago de **Thras**.
+
+Los Sload se cuentan entre las razas más odiadas de **Nirn**, y con razón. Estas masivas criaturas, parecidas a enormes babosas o a sapos obesos, carecen por completo de empatía o moralidad. Para ellos, las demás razas son meros recursos que explotar — cadáveres en potencia que transformar en servidores no-muertos. Su dominio de la nigromancia no tiene igual, y la Plaga Thrassiana fue quizás su obra más ambiciosa y aterradora.
+
+La enfermedad se propagaba con una rapidez aterradora, transmitiéndose por el aire, el agua y el contacto. Los primeros síntomas aparecían en cuestión de horas: fiebre intensa, hemorragias internas, necrosis de los tejidos. La muerte sobrevenía en tres a cinco días en la mayoría de los casos, y las recuperaciones eran extremadamente raras. La magia de restauración convencional resultaba en gran medida impotente ante la enfermedad, lo que sugería un componente nigromántico en su diseño.
+
+## La devastación de Tamriel
+
+Los efectos de la plaga fueron apocalípticos. Ciudades enteras quedaron diezmadas en pocas semanas. Las rutas comerciales, vectores de propagación, se convirtieron en autopistas de la muerte. Las regiones más densamente pobladas y mejor conectadas fueron las más duramente golpeadas, mientras que las comunidades aisladas tuvieron más posibilidades de sobrevivir.
+
+El **Imperio Cyrodiilico**, en el corazón de la red comercial continental, fue uno de los más afectados. Las grandes ciudades de Cyrodiil perdieron entre la mitad y dos tercios de su población. La propia **Ciudad Imperial** no se libró, y el funcionamiento de la administración imperial quedó paralizado durante meses. Las provincias periféricas, abandonadas a su suerte, se sumieron en el caos.
+
+Los cadáveres se acumulaban más deprisa de lo que los vivos podían enterrarlos. Se cavaron fosas comunes a las puertas de las ciudades. Barrios enteros fueron tapiados, abandonando a sus habitantes a su destino. El miedo al contagio destruyó los lazos sociales: los enfermos eran expulsados por sus propias familias, los médicos huían y hasta los sacerdotes dudaban en administrar los últimos ritos.
+
+## Las motivaciones de los Sload
+
+Las razones exactas que llevaron a los Sload a desencadenar esta catástrofe siguen siendo debatidas. La teoría más ampliamente aceptada es que buscaban debilitar las civilizaciones continentales para facilitar las razias de recolección de cadáveres. Para nigromantes de su calibre, cada muerte representaba un posible servidor no-muerto, y la plaga les proporcionaba millones de cuerpos frescos.
+
+Otros eruditos sugieren que los Sload buscaban desestabilizar a los poderes establecidos para ampliar su influencia comercial y política. Los Sload eran conocidos por sus actividades comerciales y piratas en el mar Abeceano, y un continente debilitado sería menos capaz de resistir sus depredaciones marítimas.
+
+También es posible que la plaga no fuera más que un experimento a gran escala — una prueba de las capacidades nigrománticas de los Sload llevada a cabo con total indiferencia por las consecuencias. Para seres carentes de empatía y obsesionados con el conocimiento de la muerte, millones de víctimas no eran más que una interesante muestra estadística.
+
+## La Armada de Todas las Banderas
+
+La respuesta de Tamriel, una vez superado lo peor de la pandemia, fue de una unidad notable. Por primera y quizás única vez en la historia, todas las naciones del continente se unieron en un esfuerzo militar común: la destrucción de Thras y el exterminio de sus habitantes. La **Armada de Todas las Banderas** fue la mayor armada jamás reunida en los mares de Nirn.
+
+El rey **Bendu Olo** de **Refugio**, en Alta Roca, asumió el mando de esta coalición sin precedentes. Naves de guerra de todas las provincias, de todas las razas y de todas las lealtades políticas convergieron hacia un único objetivo: Thras. Cyrodiilicos, nórdicos, Redarguardias, bretoneses, Bosmer e incluso algunos contingentes élficos más antiguos dejaron de lado sus diferencias para participar en esta expedición punitiva.
+
+La armada que zarpó hacia Thras era de un tamaño asombroso, con varios cientos de naves de guerra y de transporte. Abastecer a una fuerza semejante era un desafío logístico monumental, pero la rabia colectiva del continente hacia los Sload proporcionaba una motivación inquebrantable. Cada marinero, cada soldado había perdido seres queridos a causa de la plaga.
+
+## La destrucción de Thras
+
+El asalto a **Thras** fue de una violencia total. La Armada de Todas las Banderas no buscaba la conquista sino la aniquilación. El archipiélago de los Sload fue bombardeado, invadido y destruido sistemáticamente. Las ciudades de coral de los anfibios fueron arrasadas, sus laboratorios nigrománticos demolidos, sus poblaciones cazadas y masacradas sin misericordia ni cuartel.
+
+Los Sload, a pesar de su poder nigromántico, no estaban preparados para un asalto de tal magnitud. Sus defensas, concebidas para repeler razias aisladas, fueron desbordadas por la masa de la armada combinada. Los no-muertos que levantaban contra los invasores eran destruidos más rápido de lo que podían crear otros nuevos.
+
+La leyenda cuenta que el archipiélago de Thras fue hundido bajo las aguas por el poder combinado de los magos de la flota. Tanto si esa sumersión fue real como metafórica, el resultado fue el mismo: Thras fue considerado destruido, y la amenaza Sload eliminada durante muchas generaciones. La victoria fue celebrada en todo el continente como un triunfo de la unidad sobre la monstruosidad.
+
+## Las consecuencias a largo plazo
+
+La Plaga Thrassiana y la campaña que la siguió tuvieron consecuencias duraderas en la historia de Tamriel. La masiva despoblación trastocó los equilibrios demográficos y económicos de todo el continente. Tierras fueron abandonadas, saberes se perdieron junto con quienes los poseían, y la reconstrucción llevó décadas en algunas regiones.
+
+Paradójicamente, la plaga facilitó el ascenso de la dinastía **Reman** pocas décadas después. Un continente debilitado y fragmentado estaba maduro para ser unificado bajo una mano fuerte, y Reman Cyrodiil supo aprovechar el vacío de poder creado por la catástrofe. El Imperio Reman, segundo imperio humano de la historia, fue construido en cierto modo sobre las cenizas dejadas por la plaga de los Sload.
+
+En cuanto a los Sload, no fueron erradicados por completo. Thras volvió a emerger de las aguas con el paso de los siglos, y sus habitantes reanudaron sus siniestras actividades, aunque a una escala mucho menor. El recuerdo de la plaga y de la venganza que la siguió mantuvo sin embargo a los Sload en una relativa prudencia, y nunca volvieron a intentar un ataque de semejante envergadura contra el continente.

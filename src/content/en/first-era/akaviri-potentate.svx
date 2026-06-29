@@ -1,0 +1,58 @@
+---
+title: "The Akaviri Potentate"
+slug: "akaviri-potentate"
+era: "first-era"
+category: "empires"
+tags: ["akaviri", "potentate", "tsaesci", "cyrodiil", "versidue-shaie", "savirien-chorak", "morag-tong", "second-era"]
+timelineYear: 2920
+summary: "The Akaviri Potentate, the period during which the Tsaesci of Akavir governed the Empire of Cyrodiil following the end of the Reman dynasty."
+sources: ["2920: The Last Year of the First Era", "Brief History of the Empire", "Pocket Guide to the Empire: Cyrodiil", "The Second Akaviri Invasion"]
+---
+
+## The End of the Reman Dynasty
+
+The **Akaviri Potentate** designates the period during which leaders of **Tsaesci** origin — a reptilian (or semi-reptilian) race native to the continent of **Akavir** — governed the Empire of Cyrodiil as supreme regents. This extraordinary period, in which foreigners from a distant continent held the reins of Tamriel's most powerful empire, began with the assassination of the last **Reman** emperor and ended only with the murder of the last Potentate.
+
+The Tsaesci's rise to power was not the result of an invasion but of gradual assimilation. After their military defeat by **Reman Cyrodiil I** at Pale Pass, the Akaviri warriors integrated into the Empire, becoming the Emperor's personal guards — the ancestors of the **Blades**. From servants they became counselors, then regents, then rulers in all but name.
+
+## Versidue-Shaie, the First Potentate
+
+**Versidue-Shaie** was the first Tsaesci to bear the title of Potentate — a term deliberately chosen to indicate that he did not claim the title of Emperor but nonetheless exercised supreme power. His accession to power followed the assassination of Emperor **Reman III** in 1E 2920 — an assassination in which some sources implicate Versidue-Shaie himself, though the evidence remains circumstantial.
+
+Versidue-Shaie's reign marked the transition between the First and Second Eras. His first major act was to declare the end of the First Era and the beginning of the Second — a political gesture symbolically affirming that a new page of history was opening under his leadership. His legitimacy, contested by many factions, rested primarily on effective control of the imperial army and bureaucracy.
+
+## The Potentate's Reforms
+
+Versidue-Shaie undertook considerable reforms of the imperial structure. Confronted with constant rebellions from princes and vassal kings, he made the radical decision to **dissolve all private armies** in the Empire — a decree that stripped the nobility of their capacity for armed resistance but simultaneously created a need for organizations capable of maintaining order.
+
+It was in this context that the **Fighters Guild and Mages Guild** were founded — professional organizations offering legal military and arcane services as replacements for the dissolved private armies. The **Guild Synode** of 2E 321 formalized these institutions, granting them imperial legitimacy and a monopoly over certain activities.
+
+## The Morag Tong and Assassinations
+
+Paradoxically, it was also under the Potentate that the **Morag Tong** — the legal assassins' guild of Morrowind — was officially recognized at the imperial level. The pragmatic Versidue-Shaie understood that political assassination was inevitable and preferred to channel it through a controllable institution rather than leaving it in the shadows.
+
+The irony of this decision became fully apparent when Versidue-Shaie himself was assassinated in 2E 324 — most likely by the **Dark Brotherhood**, a splinter of the Morag Tong that rejected the legal constraints of its parent organization. Some sources attribute the assassination to the Morag Tong itself, however, making the situation even more ironic.
+
+## Savirien-Chorak, the Last Potentate
+
+**Savirien-Chorak**, son of Versidue-Shaie, succeeded him as Potentate. His reign was characterized by a constant struggle to maintain imperial unity in the face of increasingly powerful centrifugal forces. The peripheral provinces — Morrowind, Skyrim, Hammerfell — openly contested the authority of a foreign ruler, and revolts multiplied.
+
+Savirien-Chorak maintained power primarily through diplomacy and bribery rather than force — the imperial armies being ever more difficult to mobilize against simultaneous rebellions. His assassination in 2E 430, along with that of all his heirs on the same night, brutally ended the Akaviri Potentate and plunged Tamriel into the **Interregnum** — a period of chaos and fragmentation that lasted until the rise of **Tiber Septim**.
+
+## The Nature of the Tsaesci
+
+The **Tsaesci** of Akavir remain one of the most mysterious races ever encountered on Tamriel. Contradictory descriptions portray them alternately as scaled humanoids, as giant serpents capable of "devouring" humans (physically or metaphorically), or as beings indistinguishable from humans who simply possess a reptilian culture. The Tsaesci of the Potentate appeared humanoid enough to govern without causing panic — but sufficiently different to be perceived as foreign.
+
+Their culture, blending Akaviri warrior traditions with Cyrodilic imperial administration, created a unique synthesis that lastingly influenced the Empire's institutions. The martial techniques of the Blades, the guild system, and certain bureaucratic traditions all find their roots in this Akaviri heritage.
+
+## The Institutional Legacy
+
+The most lasting impact of the Akaviri Potentate was not political but institutional. The guilds founded under their rule — the **Fighters Guild**, the **Mages Guild** — survived the Potentate's fall and structured the civic life of Tamriel for centuries. The very concept of the "imperial guild" — an organization transcending provincial borders and operating under imperial charter — is a direct legacy of the Tsaesci reforms.
+
+Likewise, the **Blades** — the order of warriors protecting the Emperor — perpetuated Akaviri martial traditions long beyond the end of the Potentate, transmitting a style of combat and a philosophy of service originating from a continent that most inhabitants of Tamriel will never see.
+
+## The Fall and the Interregnum
+
+The assassination of Savirien-Chorak and his entire line in a single night remains one of the most mysterious events in imperial history. The identity of the masterminds has never been established with certainty — the Dark Brotherhood, the Morag Tong, Cyrodilic nobles, Dunmer agents, or a combination of these forces. The simultaneous elimination of all heirs suggests remarkable coordination and a determination to prevent any succession.
+
+Without an heir and without a recognized ruler, the Empire collapsed into the **Interregnum** — four centuries of chaos, local wars, and political fragmentation that did not end until the conquest of **Tiber Septim** and the founding of the Third Empire.

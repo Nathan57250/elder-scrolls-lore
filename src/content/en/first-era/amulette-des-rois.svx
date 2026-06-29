@@ -1,0 +1,85 @@
+---
+title: "The Amulet of Kings"
+slug: "amulette-des-rois"
+era: "first-era"
+category: "artefacts"
+tags: ["amulet-of-kings", "akatosh", "septim", "dragonblood", "white-gold-tower", "barrier"]
+timelineYear: 243
+summary: "The Amulet of Kings is a jewel of divine power forged by Akatosh — a blood covenant binding the line of Emperors to the protection of Mundus against Oblivion."
+sources: ["UESP: Amulet of Kings", "The Imperial Library: Trials of St. Alessia", "The Chim-el Adabal"]
+---
+
+## Origins
+
+The **Amulet of Kings** (Chim-el Adabal in Ayleidoon) is a diamond-shaped ruby set in a golden pendant. According to legend, it was created when **Akatosh** shed a drop of his divine blood and crystallized it into a gem, which he gave to **Saint Alessia** to seal their covenant.
+
+This covenant stipulated: as long as an Emperor of the Dragon Blood lineage wore the Amulet and lit the Dragonfires, the **gates of Oblivion** would remain forever sealed.
+
+## The Covenant of Akatosh
+
+### The Three Pillars
+1. **The Amulet** — worn by the legitimate Emperor
+2. **The Dragon Blood** — the Dragonborn lineage
+3. **The Dragonfires** — burning in the Temple of the Divines
+
+As long as these three elements were united, an invisible barrier protected Mundus from Daedric invasions. This was the **Liminal Barrier** — the impermeable boundary between Nirn and Oblivion.
+
+### Implications
+- Only a being possessing Dragon Blood could wear the Amulet
+- Wearing the Amulet was proof of Imperial legitimacy
+- The Fires had to be relit at the accession of each new Emperor
+- If the chain was broken, the Barrier would fall
+
+## The Amulet Through the Ages
+
+### First Era
+- Created and given to Alessia (~1E 243)
+- Worn by the Alessian Emperors
+- Passed on to the Reman Emperors
+
+### Second Era
+- Lost during the Interregnum (no legitimate Emperor)
+- Found by Tiber Septim, who wore it when founding the 3rd Empire
+- Confirming his status as Dragonborn
+
+### Third Era
+- Worn by every Septim Emperor for 433 years
+- The Dragonfires burned without interruption
+- The Barrier held — no major Daedric invasion
+
+### The Oblivion Crisis (3E 433)
+When the **Mythic Dawn** assassinated Uriel Septim VII and his sons:
+1. The Amulet was stolen by agents of Mehrunes Dagon
+2. The Dragonfires were extinguished
+3. The Liminal Barrier **collapsed**
+4. Oblivion Gates opened across all of Tamriel
+
+### The Destruction
+**Martin Septim**, the last illegitimate heir, voluntarily shattered the Amulet during the siege of the Imperial City:
+- He used the Amulet as a focus to invoke the **Avatar of Akatosh**
+- The ruby shattered, releasing Akatosh's divine essence
+- Martin transformed into a divine dragon and defeated Dagon
+- Then was petrified into a statue — the **Dragon of Stone** in the Temple of the Divines
+
+## Consequences of the Destruction
+
+The destruction of the Amulet means:
+- No more permanent Liminal Barrier
+- No more divine proof of Imperial legitimacy
+- The Mede dynasty rules without confirmed Dragon Blood
+- Theoretically, a new Oblivion Crisis is possible at any time
+- The Empire is fundamentally weakened — spiritually and politically
+
+## The Stone of the White-Gold Tower
+
+The Amulet also served as the **Stone** for the White-Gold Tower — one of the metaphysical Towers anchoring the reality of Mundus. Its destruction **deactivated** the White-Gold Tower, which — according to theories about the Towers — brings Mundus closer to dissolution.
+
+## Metaphysical Significance
+
+The Amulet represented:
+- The direct bond between mortals and the divine
+- The legitimacy of temporal power through the sacred
+- The active protection of the gods over Mundus
+- Akatosh's personal investment in history
+
+Its loss is perhaps the most significant event in the transition between the Third and Fourth Eras — the end of a divine promise thousands of years old.

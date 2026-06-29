@@ -1,0 +1,63 @@
+---
+title: "Alta Roca: Tierra de los Bretones"
+slug: "haute-roche"
+era: "first-era"
+category: "lieux"
+tags: ["alta-roca", "bretones", "daggerfall", "wayrest", "orsinium", "feudalismo", "política"]
+timelineYear: 500
+summary: "Alta Roca es una provincia de Tamriel donde la nobleza bretona se desgarra en intrigas políticas perpetuas en un paisaje de reinos feudales rivales."
+sources: ["A History of Daggerfall", "Wayrest: Jewel of the Bay", "The Bretons: Mongrels or Paragons?", "Pocket Guide to the Empire, 3rd Edition"]
+---
+
+![Mapa de Tamriel](/images/common/tamriel-map.jpg)
+
+## Alta Roca: La Tierra de los Mil Reinos
+
+Alta Roca ocupa la península noroccidental de Tamriel — una tierra de acantilados azotados por el viento, valles verdes y páramos brumosos. Esta provincia es conocida ante todo por su fragmentación política: docenas de reinos, ducados y ciudades-estado han competido por el poder durante milenios en un ballet perpetuo de alianzas, traiciones y matrimonios concertados.
+
+## Los Bretones: Un Pueblo de Sangre Mezclada
+
+Los Bretones son el fruto de una unión singular en la historia de Tamriel. Durante la Era Merética, los Elfos Direnni — un clan de Altmer asentado en Alta Roca — tomaron esclavos y concubinas entre las poblaciones humanas Nede. A lo largo de generaciones, estas uniones produjeron una raza híbrida con apariencia humana pero que conservaba una afinidad natural por la magia heredada de su sangre élfica.
+
+Esta doble naturaleza hace de los Bretones los mejores magos entre las razas humanas. Su resistencia innata a la magia supera a la de cualquier otro pueblo de Tamriel, y su aptitud para manipular las fuerzas arcanas es notable. Sin embargo, esta ascendencia mixta también les ha valido el desprecio de ciertas razas consideradas más "puras."
+
+## Daggerfall: La Ciudad de las Dagas
+
+Daggerfall es la ciudad más antigua y poderosa de Alta Roca. Fundada durante la Primera Era, dio nombre al célebre evento conocido como el Vuelo hacia el Oeste (Warp in the West), durante el cual una distorsión del Dragón del Tiempo permitió que varios resultados contradictorios coexistieran simultáneamente.
+
+La ciudad misma es un laberinto de callejones medievales, torres góticas y criptas subterráneas. Su corte real es legendaria por la complejidad de sus intrigas: un noble de Daggerfall puede ser asesinado por la mañana, vengado al mediodía y su asesino canonizado por la noche, tal es la complejidad de sus juegos de poder.
+
+## Wayrest: La Perla de la Bahía
+
+Wayrest se ha establecido como rival de Daggerfall gracias a su posición estratégica en la Bahía de Iliac. Ciudad mercantil por excelencia, ha convertido su riqueza comercial en influencia política, convirtiéndose en uno de los reinos más prósperos de la provincia.
+
+La rivalidad entre Daggerfall y Wayrest es uno de los ejes principales de la política de Alta Roca. Guerras abiertas han estallado entre las dos potencias en múltiples ocasiones, y sus respectivas redes de espías mantienen una trama de intrigas que se extiende por toda la Bahía de Iliac.
+
+## Orsinium: El Reino Eternamente Asediado
+
+En el corazón de las Montañas de Wrothgar, los Orcos (Orsimer) han fundado y refundado su ciudad de Orsinium múltiples veces a lo largo de la historia. Cada vez, los reinos bretones y redguard vecinos se han aliado para arrasarla, considerando a los Orcos como una amenaza inaceptable en sus fronteras.
+
+El asedio de Orsinium en 1E 980, llevado a cabo conjuntamente por Daggerfall y Sentinel, duró casi treinta años antes de que la ciudad cayera finalmente. Esta tenacidad habla tanto de la resiliencia orca como de la determinación de sus vecinos de impedir el surgimiento de un poder Orsimer unificado.
+
+## La Sociedad Feudal Bretona
+
+La estructura social de Alta Roca es un edificio feudal de complejidad bizantina. En la cima se sientan los reyes y reinas de los distintos reinos. Por debajo se despliega una jerarquía de duques, condes, barones, caballeros y terratenientes libres cuyos deberes y privilegios están regidos por una inextricable red de cartas, juramentos y precedentes legales.
+
+Los gremios desempeñan un papel central en esta sociedad:
+
+- **La Orden de los Caballeros del Dragón**: Protectores de los reyes y guardianes del honor
+- **El Gremio de Magos**: Particularmente poderoso en Alta Roca, forma a los numerosos hechiceros bretones
+- **La Hermandad Oscura**: Floreciente gracias a los innumerables contratos generados por las intrigas nobiliarias
+- **El Gremio de Ladrones**: Operando en la sombra de las cortes reales
+
+## Magia y Encantamiento
+
+Alta Roca es reconocida por sus tradiciones mágicas. Con los Bretones destacando naturalmente en las artes arcanas, la provincia alberga numerosas academias y círculos de magos. La hechicería bretona se distingue por su enfoque pragmático: allí donde los Altmer buscan la perfección teórica y los Dunmer exploran los límites de lo permitido, los magos bretones prefieren la eficiencia y la aplicación práctica.
+
+Los encantadores de Alta Roca están considerados entre los mejores de Tamriel, y sus artefactos son buscados por nobles y aventureros de todo el continente.
+
+## Una Herencia de División
+
+La maldición de Alta Roca es también su fortaleza: su fragmentación impide cualquier dominación extranjera duradera a la vez que prohíbe la unidad interna. Los Bretones son individualmente brillantes — magos consumados, diplomáticos sutiles, guerreros competentes — pero colectivamente incapaces de mantener una alianza más allá de la duración de una amenaza común.
+
+Esta eterna división convierte a Alta Roca en un fascinante teatro político, donde el más pequeño matrimonio puede rediseñar el mapa del poder y cualquier banquete puede convertirse en campo de batalla.

@@ -1,0 +1,58 @@
+---
+title: "El Potentado Akaviri"
+slug: "akaviri-potentate"
+era: "first-era"
+category: "empires"
+tags: ["akaviri", "potentado", "tsaesci", "cyrodiil", "versidue-shaie", "savirien-chorak", "morag-tong", "segunda-era"]
+timelineYear: 2920
+summary: "El Potentado Akaviri, período en que los Tsaesci de Akavir gobernaron el Imperio de Cyrodiil tras el fin de la dinastía Reman."
+sources: ["2920: The Last Year of the First Era", "Brief History of the Empire", "Pocket Guide to the Empire: Cyrodiil", "The Second Akaviri Invasion"]
+---
+
+## El fin de la dinastía Reman
+
+El **Potentado Akaviri** designa el período durante el cual dirigentes de origen **Tsaesci** — una raza reptiliana (o semi-reptiliana) originaria del continente de **Akavir** — gobernaron el Imperio de Cyrodiil como regentes supremos. Este extraordinario período, en que extranjeros llegados de un continente lejano ostentaron las riendas del Imperio más poderoso de Tamriel, comenzó con el asesinato del último emperador **Reman** y no concluyó hasta el asesinato del último Potentado.
+
+El ascenso de los Tsaesci al poder no fue el resultado de una invasión sino de una asimilación gradual. Tras su derrota militar ante **Reman Cyrodiil I** en el Paso Pálido, los guerreros akaviri se integraron en el Imperio, convirtiéndose en los guardias personales del Emperador — los antepasados de las **Hojas** (Blades). De servidores pasaron a ser consejeros, luego regentes, y finalmente gobernantes de facto.
+
+## Versidue-Shaie, el primer Potentado
+
+**Versidue-Shaie** fue el primer Tsaesci en ostentar el título de Potentado — un término deliberadamente elegido para indicar que no aspiraba al título de Emperador pero ejercía no obstante el poder supremo. Su acceso al poder siguió al asesinato del emperador **Reman III** en 1E 2920 — un asesinato en el que algunas fuentes implican al propio Versidue-Shaie, aunque las pruebas siguen siendo circunstanciales.
+
+El reinado de Versidue-Shaie marcó la transición entre la Primera y la Segunda Era. Su primer acto importante fue declarar el fin de la Primera Era y el comienzo de la Segunda — un gesto político que afirmaba simbólicamente que una nueva página de la historia se abría bajo su liderazgo. Su legitimidad, cuestionada por numerosas facciones, descansaba principalmente en el control efectivo del ejército y la burocracia imperiales.
+
+## Las reformas del Potentado
+
+Versidue-Shaie emprendió considerables reformas de la estructura imperial. Ante las constantes rebeliones de príncipes y reyes vasallos, tomó la radical decisión de **disolver todos los ejércitos privados** del Imperio — un decreto que privaba a los nobles de su capacidad de resistencia armada pero creaba simultáneamente la necesidad de organizaciones capaces de mantener el orden.
+
+Fue en ese contexto donde se fundaron los **Gremios de Combatientes y de Magos** — organizaciones profesionales que ofrecían servicios militares y arcanos legales en sustitución de los ejércitos privados disueltos. El **Sínodo de los Gremios** de 2E 321 formalizó estas instituciones, confiriéndoles legitimidad imperial y un monopolio sobre ciertas actividades.
+
+## La Morag Tong y los asesinatos
+
+Paradójicamente, también fue bajo el Potentado cuando la **Morag Tong** — el gremio de asesinos legal de Morrowind — fue reconocida oficialmente a escala imperial. El pragmático Versidue-Shaie comprendió que el asesinato político era inevitable y prefirió canalizarlo a través de una institución controlable antes que dejarlo en la sombra.
+
+La ironía de esta decisión se reveló plenamente cuando el propio Versidue-Shaie fue asesinado en 2E 324 — muy probablemente por la **Hermandad Oscura**, una escisión de la Morag Tong que rechazaba las restricciones legales de su organización madre. Sin embargo, algunas fuentes atribuyen el asesinato a la propia Morag Tong, lo que hace la situación aún más irónica.
+
+## Savirien-Chorak, el último Potentado
+
+**Savirien-Chorak**, hijo de Versidue-Shaie, le sucedió como Potentado. Su reinado se caracterizó por una lucha constante para mantener la unidad imperial frente a unas fuerzas centrífugas cada vez más poderosas. Las provincias periféricas — Morrowind, Bordeciel, Martelfell — cuestionaban abiertamente la autoridad de un gobernante extranjero, y las revueltas se multiplicaban.
+
+Savirien-Chorak mantuvo el poder principalmente mediante la diplomacia y la corrupción más que por la fuerza — los ejércitos imperiales siendo cada vez más difíciles de movilizar contra rebeliones simultáneas. Su asesinato en 2E 430, junto con el de todos sus herederos esa misma noche, puso fin brutalmente al Potentado Akaviri y sumió a Tamriel en el **Interregno** — un período de caos y fragmentación que duró hasta el advenimiento de **Tiber Septim**.
+
+## La naturaleza de los Tsaesci
+
+Los **Tsaesci** de Akavir siguen siendo una de las razas más misteriosas jamás encontradas en Tamriel. Las descripciones contradictorias los presentan ora como humanoides con escamas, ora como serpientes gigantes capaces de «devorar» a los humanos (física o metafóricamente), ora como seres indistinguibles de los humanos que simplemente poseen una cultura reptiliana. Los Tsaesci del Potentado parecían lo suficientemente humanoides como para gobernar sin provocar pánico — pero lo bastante diferentes como para ser percibidos como extranjeros.
+
+Su cultura, que mezclaba las tradiciones guerreras de Akavir con la administración imperial de Cyrodiil, creó una síntesis única que influyó de forma duradera en las instituciones del Imperio. Las técnicas marciales de las Hojas, el sistema de gremios y ciertas tradiciones burocráticas hallan sus raíces en este legado akaviri.
+
+## El legado institucional
+
+El impacto más duradero del Potentado Akaviri no fue político sino institucional. Los gremios fundados bajo su gobierno — el **Gremio de Combatientes**, el **Gremio de Magos** — sobrevivieron a la caída del Potentado y estructuraron la vida civil de Tamriel durante siglos. El propio concepto de «gremio imperial» — una organización que trasciende las fronteras provinciales y opera bajo carta imperial — es un legado directo de las reformas Tsaesci.
+
+Del mismo modo, las **Hojas** — la orden de guerreros que protege al Emperador — perpetuaron las tradiciones marciales akaviri mucho más allá del fin del Potentado, transmitiendo un estilo de combate y una filosofía de servicio originarios de un continente que la mayoría de los habitantes de Tamriel nunca verán.
+
+## La caída y el Interregno
+
+El asesinato de Savirien-Chorak y de toda su línea en una sola noche sigue siendo uno de los eventos más misteriosos de la historia imperial. La identidad de los instigadores nunca ha sido establecida con certeza — la Hermandad Oscura, la Morag Tong, nobles cyrodiilicos, agentes dunmer, o una combinación de estas fuerzas. La eliminación simultánea de todos los herederos sugiere una coordinación notable y una determinación a impedir cualquier sucesión.
+
+Sin heredero y sin gobernante reconocido, el Imperio se hundió en el **Interregno** — cuatro siglos de caos, guerras locales y fragmentación política que no terminaron hasta la conquista de **Tiber Septim** y la fundación del Tercer Imperio.

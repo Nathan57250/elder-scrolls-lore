@@ -1,0 +1,88 @@
+---
+title: "Vampirism in Tamriel"
+slug: "vampirisme"
+era: "first-era"
+category: "magie"
+tags: ["vampire", "molag-bal", "blood", "undead", "volkihar", "disease", "lamae-bal"]
+timelineYear: 1000
+summary: "Vampirism is a curse originating from Molag Bal — a supernatural disease that transforms its victims into immortal predators, with many distinct bloodlines and powers."
+sources: ["UESP: Vampirism", "Immortal Blood", "The Imperial Library: Vampires of the Iliac Bay"]
+---
+
+## Origins
+
+Vampirism was created by **Molag Bal**, the Daedric Prince of Domination, when he violated the Nedic woman **Lamae Beolfag** — the first vampire. This act of desecration was meant to mock Arkay and his dominion over death. Lamae became **Lamae Bal**, mother of all vampires.
+
+Other bloodlines emerged when Molag Bal shared his curse with other mortals, creating **pure-blood vampires** — those who received the gift directly from the Prince.
+
+## Infection and Transformation
+
+### Sanguinare Vampiris
+The most common form of the disease is transmitted through the attacks of existing vampires. Without treatment within **72 hours**, the transformation is irreversible:
+
+1. **Day 1-2**: Fever, sensitivity to light
+2. **Day 3**: Inexplicable hunger, pallor
+3. **Day 3 (night)**: Death and resurrection as a vampire
+
+### Blood Ritual (Pure-Blood)
+Pure-blood vampires are created through a direct ritual with Molag Bal. This process is instantaneous but traumatic — the mortal dies and is immediately reborn with full vampiric power.
+
+## Powers and Weaknesses
+
+### Abilities
+- **Superhuman strength** — increases with age
+- **Regeneration** — accelerated healing
+- **Seduction** — supernatural charm
+- **Invisibility** (certain bloodlines)
+- **Transformation** (Vampire Lord — pure-bloods only)
+- **Resistance to cold and poison**
+- **Immortality** — they do not age
+
+### Vulnerabilities
+- **Sunlight** — weakening, damage (severity varies by bloodline)
+- **Fire** — increased vulnerability
+- **Silver** — more severe wounds
+- **Detection** — eyes glow, skin grows paler with thirst
+- **Hunger** — the thirst for blood is constant and irrepressible
+
+## The Major Bloodlines
+
+| Bloodline | Region | Distinction |
+|-----------|--------|-------------|
+| Volkihar | Skyrim | The most powerful; can walk on ice |
+| Cyrodiil | Cyrodiil | Masters of illusion; blend into society |
+| Quarra | Morrowind | Brutal fighters, raw strength |
+| Aundae | Morrowind | Vampire mages, mastery of magic |
+| Berne | Morrowind | Assassins, invisibility |
+| Ravenwatch | High Rock | "Ethical"; feed without killing |
+
+## Clan Volkihar
+
+The most notable bloodline in Skyrim, led by **Lord Harkon** from Castle Volkihar on an island in the Sea of Ghosts:
+- Pure-bloods created through the ritual of Molag Bal
+- Ability to become a **Vampire Lord** — transformation into a winged creature
+- Harkon sought to use the Elder Scrolls to blot out the sun via the **Tyranny of the Sun prophecy**
+- Defeated by the **Dawnguard** and/or the Last Dragonborn in 4E 201
+
+## The Dawnguard
+
+A militant order dedicated to the eradication of vampires:
+- Founded in the Second Era, disbanded, then refounded in 4E 201 by **Isran**
+- Based at **Fort Dawnguard** in the Rift
+- Armament: crossbows, sunhallowed bolts, anti-undead spells
+- Allied with **Moth Priests** to interpret the Elder Scrolls
+
+## The Cure
+
+Vampirism can be cured:
+- **Before full transformation**: any disease-curing potion, shrine blessing
+- **After transformation**: a complex ritual involving a filled **Black Soul Gem** and the intervention of **Falion** (mage of Morthal) or other specialists
+- **Pure-bloods**: a cure is nearly impossible without direct divine intervention
+
+## Social Perception
+
+Vampires are universally feared and hunted. However:
+- Some vampires live among mortals by concealing their nature (Cyrodiil bloodline)
+- Clan Ravenwatch of High Rock demonstrates that coexistence is possible
+- The Vigils of Stendarr and the Dawnguard actively hunt them
+- In Morrowind, the three vampire clans existed in relative tolerance as long as they remained discreet

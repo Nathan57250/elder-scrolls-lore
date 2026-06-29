@@ -1,0 +1,56 @@
+---
+title: "Falkreath"
+slug: "falkreath"
+era: "first-era"
+category: "lieux"
+tags: ["falkreath", "graveyard", "skyrim", "nords", "history", "wars"]
+timelineYear: 500
+summary: "Falkreath and its hold, renowned for its vast graveyard and its ancient warrior history at the crossroads of Skyrim and Cyrodiil."
+sources: ["A History of Falkreath", "Savior of the Slavers", "Holdings of Jarl Gjalund", "The Holds of Skyrim"]
+---
+
+## The Falkreath Hold
+
+**Falkreath** is one of the oldest Nordic settlements in Skyrim, nestled in a forested valley in the south of the province, at the immediate border with Cyrodiil and Hammerfell. The region is distinguished by its dense pine forests, its relatively temperate climate compared to the rest of Skyrim, and above all by its immense **graveyard** — the largest in all of Tamriel — which extends well beyond the limits of the town itself.
+
+The Falkreath Hold encompasses a vast forested area dotted with lakes, including the famous **Lake Ilinalta**, known for its unusual depth and rumors of supernatural phenomena in its waters. The region is bounded to the south by the Jerall Mountains, which form the natural border with Cyrodiil.
+
+## The Giant Graveyard
+
+Falkreath's **graveyard** is the town's most striking feature. Spreading over a considerable area, it holds the remains of warriors, nobles, and common citizens accumulated over millennia of history. Local tradition holds that "every gravestone tells the story of a forgotten hero" — a poetic framing of the grimmer reality that this accumulation of graves reflects.
+
+The extraordinary size of this graveyard has two causes. First, Falkreath's strategic position at the crossroads of three provinces has made it a passage point for armies since time immemorial, and every conflict left its dead behind. Second, a local Nordic tradition holds that warriors who fall in battle in the region are buried at Falkreath rather than returned to their home towns, making the graveyard a provincial-scale military memorial.
+
+## Ancient History
+
+Falkreath's origins trace back to the earliest Nordic settlements in Skyrim, shortly after the conquest of **Ysgramor** and his **Five Hundred Companions**. Its southern position quickly made it a frontier outpost of Nordic civilization facing the elven and Imperial lands to the south. From the First Era onward, the town served as a muster point for Nordic armies marching south.
+
+During the early centuries of the First Era, Falkreath changed hands several times between Skyrim and Cyrodiil. The region, though culturally Nordic, was occasionally attached to the Empire or to Colovian kingdoms depending on the shifting tides of politics and war. This alternation gave the hold an unusual cosmopolitan character for Skyrim.
+
+## Wars and Battles
+
+Falkreath's proximity to the Imperial border made it a recurring theater of war. Over the course of the First Era, the region witnessed countless armies passing through — Nords marching south to raid the Colovian lands, or Imperial forces pushing north to subdue the Nords. Each passage left its dead, and each death enriched the graveyard.
+
+The **Battle of Falkreath**, which pitted Nordic forces against Colovian armies around 1E 500, is considered one of the bloodiest engagements of the period. Chronicles mention thousands of dead on both sides, many of whom were buried in what would become the heart of the great graveyard. This battle temporarily marked the southern boundary of Nordic influence.
+
+## Lake Ilinalta
+
+**Lake Ilinalta**, situated northeast of Falkreath, holds a special place in local folklore. Its abnormal depth and the underwater currents that dragged many swimmers to the bottom gave rise to legends of aquatic creatures and malevolent spirits. Falkreath's fishermen traditionally avoided certain areas of the lake, claiming that the waters there turned "dark and hungry."
+
+The ruins of **Fort Ilinalta**, partially submerged on the lake's shore, bear witness to a troubled past. According to the archives, the fort was abandoned after its entire garrison vanished under unexplained circumstances — an event that scholars attribute to necromantic experiments that went terribly wrong.
+
+## Economy and Society
+
+Falkreath's economy has traditionally rested on timber, hunting, and cross-border trade. The vast pine forests provide construction wood sought throughout Skyrim, while the proximity of the border encourages commercial exchange with Cyrodiil and Hammerfell.
+
+Local society is deeply shaped by an awareness of mortality. Living amid the largest graveyard in Tamriel gives Falkreath's inhabitants a particular philosophy — a blend of pragmatism about death and reverence for ancestors that permeates every aspect of daily life. The priests of **Arkay**, deity of Life and Death, hold a prominent place here.
+
+## The Cult of Arkay
+
+The presence of Arkay's temple in Falkreath is no accident. The god of the life cycle and of death is naturally the patron of a town whose identity is inseparable from its dead. Falkreath's priests of Arkay are renowned for their expertise in funerary rites and protection against necromancy — an essential skill when one watches over so many remains.
+
+Arkay's blessing prevents the dead of the graveyard from rising as draugr or undead — a service whose importance cannot be overstated in a world where necromancy is a constant threat.
+
+## A Lasting Heritage
+
+Falkreath has passed through the ages without ever losing its fundamental character: that of a place of memory and passage. From the wars of Ysgramor to the conflicts of the Fourth Era, the town continued to receive the dead and bear witness to the sacrifices of successive generations. Its graveyard, ever growing, remains the most eloquent monument to the warlike and mortal nature of Tamriel's history.

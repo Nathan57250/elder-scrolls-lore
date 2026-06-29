@@ -1,0 +1,92 @@
+---
+title: "El Tribunal — Los Tres Dioses Vivientes"
+slug: "tribunal"
+era: "first-era"
+category: "religion"
+tags: ["tribunal", "vivec", "almalexia", "sotha-sil", "morrowind", "dunmer", "corazon-de-lorkhan", "falsos-dioses"]
+timelineYear: 700
+summary: "El Tribunal (ALMSIVI) designa a los tres mortales Chimer que se convirtieron en dioses al beber del poder del Corazón de Lorkhan — Vivec, Almalexia y Sotha Sil — quienes gobernaron Morrowind durante milenios."
+sources: ["UESP: Tribunal", "The Imperial Library: The Battle of Red Mountain", "36 Lessons of Vivec"]
+---
+
+## Orígenes
+
+El **Tribunal** (también llamado ALMSIVI, acrónimo de sus miembros) nació en sangre y traición a raíz de la **Batalla de la Montaña Roja** (1E 700):
+
+Los tres futuros dioses eran los consejeros más cercanos del Rey **Nerevar**:
+- **Vivec** — guerrero-poeta, consejero místico
+- **Almalexia** — esposa de Nerevar, reina consorte
+- **Sotha Sil** — mago-inventor, silencioso genio
+
+## El Ascenso
+
+### El Juramento
+Tras la victoria contra los Dwemer y su posterior desaparición, Nerevar hizo jurar al Tribunal que **jamás** usarían las **Herramientas de Kagrenac** (Keening, Sunder, Wraithguard) sobre el Corazón de Lorkhan. Después Nerevar murió — las circunstancias de su muerte son objeto de disputa.
+
+### La Traición
+A pesar de su juramento, el Tribunal usó las Herramientas sobre el Corazón:
+- Canalizaron su poder divino
+- Se convirtieron en **dioses vivientes** — inmortales, parcialmente omniscientes, de poder sobrehumano
+- Azura, testigo de la traición, los **maldijo**: los Chimer se convirtieron en Dunmer (piel gris, ojos rojos)
+- Azura profetizó que algún día **Nerevar regresaría** para vengarse
+
+## Los Tres Dioses
+
+### Vivec — El Guerrero-Poeta
+- **Esfera**: Dualidad, Arte, Guerra, Paradoja
+- Sede: Ciudad de Vivec (ciudad construida en torno a su palacio)
+- Filosofía: "La contradicción es la verdad última"
+- Mantuvo la roca **Baar Dau** en levitación sobre su ciudad por pura voluntad
+- Autor de las **36 Lecciones** — textos crípticos que mezclan verdad, mentira y metafísica
+- Se dice que alcanzó el **CHIM**
+
+### Almalexia — Madre del Pueblo
+- **Esfera**: Compasión, Curación, Maternidad
+- Sede: Mournhold (capital continental de Morrowind)
+- Función: protectora, sanadora, figura materna
+- En realidad: se volvió progresivamente **paranoica y tiránica** conforme sus poderes menguaban
+- Asesinó a **Sotha Sil** en su demencia e intentó matar al Nerevarine
+
+### Sotha Sil — El Mecanicista
+- **Esfera**: Misterio, Invención, Mecánica, Lógica
+- Sede: La **Ciudad de los Mecanismos** (Clockwork City) — un mundo miniatura perfecto dentro de una esfera
+- Personalidad: recluido, silencioso, obsesionado con la perfección mecánica
+- Creó un mundo entero de mecanismos y autómatas
+- Asesinado por Almalexia en 3E 427
+
+## El Reinado del Tribunal
+
+Durante casi **3.000 años** (1E 700 → 3E 427), el Tribunal:
+- Protegió Morrowind contra las invasiones (akaviri, Reman, Septim)
+- Mantuvo una civilización avanzada y única
+- Combatió los resurgimienos de **Dagoth Ur** (quien también había tocado el Corazón)
+- Negoció el **Tratado de Armisticio** con Tiber Septim (Morrowind conservó su autonomía)
+- Sirvió de baluarte espiritual para el pueblo Dunmer
+
+## La Caída
+
+### El Debilitamiento
+A partir de 2E 882, **Dagoth Ur** despertó y tomó el control de la Montaña Roja, cortando el acceso del Tribunal al Corazón de Lorkhan. Sin poder "recargarse", sus poderes disminuyeron inexorablemente.
+
+### 3E 427 — El Nerevarine
+- El Nerevarine cumplió la profecía de Azura
+- Destruyó el Corazón de Lorkhan con las Herramientas de Kagrenac
+- El Tribunal perdió **definitivamente** sus poderes divinos
+- Vivec desapareció misteriosamente
+- Almalexia se hundió en la locura y fue asesinada
+- Sotha Sil ya había sido asesinado por Almalexia
+
+### Consecuencias
+- Baar Dau cayó sobre la Ciudad de Vivec (→ el Año Rojo, 4E 5)
+- Los Dunmer volvieron al culto de los Ancestros y de los Buenos Daedra
+- El Templo del Tribunal se reformó como el **Nuevo Templo**, venerando a las Anticipaciones (Daedra)
+- El legado del Tribunal sigue siendo profundamente controvertido
+
+## Legado Filosófico
+
+El Tribunal plantea la pregunta fundamental del lore de Elder Scrolls:
+- ¿Puede un mortal **verdaderamente** convertirse en un dios?
+- ¿Eran sus poderes reales o una ilusión colectiva?
+- ¿La traición a Nerevar invalida milenios de protección?
+- ¿Alcanzó Vivec el CHIM independientemente del Corazón?
+- ¿Son las 36 Lecciones verdad o propaganda divina?

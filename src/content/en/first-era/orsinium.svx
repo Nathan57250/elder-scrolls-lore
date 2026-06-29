@@ -1,0 +1,66 @@
+---
+title: "Orsinium"
+slug: "orsinium"
+era: "first-era"
+category: "lieux"
+tags: ["places", "orcs", "city-state", "high-rock", "destructions", "malacath", "politics"]
+timelineYear: 950
+summary: "Orsinium, the Orcish city-state, founded and destroyed multiple times throughout the eras."
+sources: ["L'Histoire d'Orsinium", "Le Vrai Noble Sang", "La Chute d'Orsinium", "Documents impériaux"]
+---
+
+## The City of the Orcs
+
+**Orsinium** — literally the "City of the Pariah Folk" in old Orcish — is the legendary city-state of the **Orcs** (Orsimer). Founded, destroyed, and rebuilt multiple times throughout Tamriel's history, Orsinium represents the eternal dream of the Orcish people: a home, a homeland, a place where they would no longer be pariahs but citizens of a sovereign nation.
+
+The history of Orsinium is one of cyclical tragedy. Every time the Orcs manage to build their city and establish a civilization, their neighbors band together to destroy it. Every time it falls, the Orcs rebuild it elsewhere, carrying within them the memory and hope of their eternal nation. This resilience is the legacy of **Malacath**, their patron, who teaches that strength is born from adversity.
+
+## The First Orsinium
+
+The first Orsinium was founded in the mountains of Wrothgar, in High Rock, during the First Era. The Orcs, scattered and persecuted since their transformation by **Boethiah**, gathered under the leadership of a visionary chief to build their own fortress in the inhospitable mountains that other races had no desire to inhabit.
+
+This first city was more a fortress than a town, built according to the principles of the Code of Malacath: robust, functional, and defensible. The Orcs developed their smithing arts there — already renowned as the finest in Tamriel — and began establishing cautious trade relations with their **Breton** and Redguard neighbors.
+
+For centuries, the first Orsinium survived in relative isolation, too small to threaten its neighbors but strong enough to resist occasional raids. The Orcs were not loved, but they were tolerated as long as they stayed within their mountains.
+
+## The Siege and the Fall (1E 950)
+
+In 1E 950 (or, according to some sources, in the following centuries — the dates are disputed), a coalition formed by the Breton kingdoms of Daggerfall and Sentinel launched a massive assault on Orsinium. This siege, which according to accounts lasted between thirty and one hundred years, ended in the city's total destruction.
+
+The motivations of the coalition were multiple: fear of growing Orcish power, a desire to secure trade routes crossing the Wrothgar mountains, and plain racial prejudice against a people considered barbaric and monstrous.
+
+The fall of the first Orsinium scattered the Orcs across Tamriel once again. Some took refuge in isolated strongholds, returning to tribal life. Others attempted to integrate into neighboring societies with limited success. The trauma of this destruction embedded in Orcish culture a deep distrust of outsiders.
+
+## Successive Rebuildings
+
+The history of Orsinium after its first destruction is a series of rebuilding attempts, each followed by another destruction. Over the eras, Orsinium was rebuilt at various locations in the Wrothgar mountains, each incarnation somewhat larger and more ambitious than the last.
+
+During the Second Era, Orsinium experienced a period of relative prosperity under King Kurog, who attempted to modernize Orcish society and reform the cult of Malacath in favor of a return to the worship of **Trinimac**. This attempt at religious reform provoked a civil war within the Orcish community, illustrating the tensions between traditionalism and adaptation.
+
+Official recognition of Orsinium as an imperial province was granted and revoked several times during the Third Era. Each recognition was a diplomatic triumph for the Orcs; each revocation, one more humiliation.
+
+## Orsinium in the Fourth Era
+
+At the beginning of the Fourth Era, Orsinium existed between High Rock and Hammerfell. This incarnation of the city was the most developed of all, with impressive architecture blending Orcish brutality with Imperial influences. The Orcs had developed a complex society there, with guilds, academies, and a functioning administration.
+
+However, this Orsinium was again destroyed in 4E 174, caught between regional conflicts and the ancestral hatred of its neighbors. Orcish refugees scattered once more, many finding refuge in Skyrim where they established strongholds in the mountainous regions.
+
+## Orcish Society and the City
+
+Orsinium represents far more to the Orcs than a mere city. It is proof that they are capable of civilization — that they can be more than the barbarians the world takes them for. The city is a symbol of hope and pride, the physical manifestation of their right to exist as a nation.
+
+The society of Orsinium is structured according to the Code of Malacath but adapted to the demands of urban life. The chief (Ashkan or king) always governs through strength, but the complexity of a city also requires administrators, diplomats, and artisans. This tension between the brutality of the Code and the necessities of civilization lies at the heart of Orsinium's politics.
+
+The forges of Orsinium are legendary. Orcish steel, reputed to be the strongest in Tamriel, has been produced in these forges for millennia. Trade in Orcish weapons and armor is often the city's primary economic lever, allowing it to forge commercial alliances even with nations that culturally despise them.
+
+## The Eternal Dream
+
+The repeated destruction of Orsinium has never extinguished the Orcish dream of a homeland. Every generation of Orcs carries within it the hope of rebuilding — of proving to the world that their people deserves its place among the civilized nations. This dream is fed by the memory of past glories and by Malacath's promise that strength will ultimately triumph over adversity.
+
+Imperial scholars debate the legitimacy of Orcish claims. Some argue that the Orsimer, as a race transformed by a Daedric force, do not have the same rights as other peoples. Others maintain that millennia of existence and cultural contribution confer upon them an undeniable legitimacy. This debate reflects the deep prejudices that persist against the Orcs in Tamrielic society.
+
+## Legacy and Significance
+
+The history of Orsinium is a mirror of the Orcish condition: eternally destroyed, eternally rebuilt, eternally despised but never defeated. It is one of Tamriel's most poignant stories — that of a people who refuse to give up despite centuries of oppression and destruction.
+
+For historians, Orsinium is also a fascinating case study in how Tamrielic societies treat otherness. The cyclical destruction of the Orcish city reveals the limits of Imperial tolerance and the persistence of racial prejudice, even in a supposedly civilized world.

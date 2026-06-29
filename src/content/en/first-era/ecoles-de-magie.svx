@@ -1,0 +1,100 @@
+---
+title: "The Schools of Magic"
+slug: "ecoles-de-magie"
+era: "first-era"
+category: "magie"
+tags: ["magic", "destruction", "restoration", "conjuration", "alteration", "illusion", "enchanting", "mysticism"]
+timelineYear: 230
+summary: "The six schools of magic in Tamriel, how they work, their core principles, and how they have evolved across the eras."
+sources: ["UESP: Magic", "The Imperial Library: Magic", "Erta Roscius, On the Schools of Magic"]
+---
+
+## Magic on Nirn
+
+All magic in Tamriel originates from **Aetherius** — the immortal plane that flows into Mundus through the stars and the sun (Magnus). When Magnus, the architect of Mundus, fled from creation, he tore the fabric of reality and created the sun. The Magna-Ge who followed him pierced through to form the stars.
+
+Every mage draws upon this flow of **magicka** to power their spells. The amount of magicka available varies depending on race, training, and worldly conditions.
+
+## The Six Schools
+
+### Destruction
+
+The art of inflicting damage through the elements. Destruction spells manipulate:
+- **Fire** — direct damage and lingering burns
+- **Frost** — stamina drain and slowing effects
+- **Shock** — magicka drain and instant strike
+
+Destruction is the most widely studied school among battle-mages and the most feared by common folk.
+
+### Restoration
+
+The school of healing and protection. It encompasses:
+- Healing wounds and diseases
+- Protective wards against hostile magic
+- Anti-undead magic (Turn Undead)
+- Restoring stamina and physical conditions
+
+Ironically, the boundary between Restoration and Necromancy is blurrier than it appears — both manipulate life forces.
+
+### Conjuration
+
+The art of summoning creatures and weapons from Oblivion, or binding souls:
+- **Summoning** — calling Daedra or spirits
+- **Reanimation** — raising corpses as servants (necromancy)
+- **Soul Trap** — capturing souls in gems for use in enchanting
+- **Bound Weapons** — materializing temporary Daedric weapons
+
+Conjuration is controversial because it involves pacts with entities from Oblivion.
+
+### Alteration
+
+The direct manipulation of physical reality:
+- **Magical armor** (Oakflesh, Stoneflesh, etc.)
+- **Paralysis** and transmutation
+- **Water breathing** and levitation (before its ban in 3E 421)
+- **Detection** of life, undead, and keys
+- **Telekinesis** — manipulating objects at a distance
+
+Alteration is considered the most "pure" school because it manipulates neither spirits nor destructive elements.
+
+### Illusion
+
+The art of manipulating mind and perception:
+- **Invisibility** and concealment
+- **Calm** — pacifying hostility
+- **Frenzy** — inciting rage
+- **Courage/Fear** — emotional manipulation
+- **Muffle** — silencing movement
+
+Master illusionists are feared because their victims never know they are being manipulated.
+
+### Enchanting
+
+The art of infusing objects with permanent magical effects:
+- Requires filled **soul gems**
+- The more powerful the soul, the stronger the enchantment
+- Enchantments degrade with use (recharging required)
+- Enchanting was once a fully independent academic school
+
+## Magicka and Its Sources
+
+| Source | Description |
+|--------|-------------|
+| Aetherius | Primordial flow via sun and stars |
+| Standing Stones | Stones of Mundus amplifying certain aspects |
+| Heart of Lorkhan | Source of divine power (used by the Tribunal) |
+| Sigillum Sanguis | Daedric towers channeling energy from Oblivion |
+| Hist | Mystical trees that empower the Argonians |
+
+## Alternative Magical Traditions
+
+Beyond the academic schools, other traditions exist:
+- **Tonal Architecture** (Dwemer) — manipulation of the music of reality
+- **Thu'um** (Nords) — vocal magic tied to the Draconic language
+- **Shadow Magic** (Mysticism) — manipulation of shadow, nearly lost
+- **Sword-Singing** (Redguards) — transcendent martial art
+- **The Old Ways** (Psijics) — pre-academic, intuitive magic
+
+## Levitation: A Lost Spell
+
+In 3E 421, the Empire banned levitation through the **Levitation Act**, officially for security reasons. This spell, once commonplace, became inaccessible to ordinary mages. The Telvanni of Morrowind circumvented this law within their towers, but the knowledge was largely lost over the course of the Fourth Era.

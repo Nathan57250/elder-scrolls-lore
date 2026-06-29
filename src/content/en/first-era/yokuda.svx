@@ -1,0 +1,150 @@
+---
+title: "Yokuda"
+slug: "yokuda"
+era: "first-era"
+category: "geographie"
+tags: ["yokuda", "redguard", "ra-gada", "continent", "cataclysm", "hammerfell", "sword-singing"]
+date: "Merethic Era — 1E 808"
+timelineYear: 800
+summary: "Yokuda, the lost continent of the Redguards, was swallowed by the sea in a cataclysm whose exact cause remains debated. Its survivors, the Ra Gada, conquered Hammerfell and established their civilization there."
+mapCoords: { x: 80, y: 350 }
+province: "Yokuda (destroyed)"
+aliases: ["The Lost Continent", "Land of the Ancestors", "Sunken Yokuda"]
+relatedArticles: ["premiere-ere", "haute-roche"]
+sources: ["UESP: Yokuda", "Varieties of Faith", "Pocket Guide to the Empire: Hammerfell", "The Imperial Library"]
+---
+
+![The sunken ruins of Yokuda](/images/first-era/yokuda.jpg)
+
+## A Lost Continent
+
+**Yokuda** was a vast continent located west of Tamriel, beyond the Eltheric Ocean. Now almost entirely submerged, all that remains of Yokuda are a few scattered islands and the memories passed down by the descendants of its inhabitants — the **Redguards** of Hammerfell.
+
+The destruction of Yokuda is one of the greatest catastrophes in recorded history, comparable to the sundering of Aldmeris or the Dragon Break. An entire continent — with its civilizations, its empires, its millions of inhabitants — swallowed by the waves.
+
+## Geography of Yokuda
+
+Before its destruction, Yokuda was described as a continent made up of:
+
+- A large, arid and mountainous central territory
+- Vast interior deserts similar to those of Hammerfell
+- Fertile coasts where populations were concentrated
+- Numerous satellite islands
+- A generally warm and dry climate
+
+Pre-cataclysm accounts mention great cities of white stone, hanging gardens irrigated by sophisticated aqueducts, and war academies renowned throughout the known world.
+
+## Yokudan Civilization
+
+### Social Structure
+
+Yokudan society was organized into **warrior empires** where mastery of the sword determined social rank. This martial civilization developed the art of sword combat to a degree unmatched anywhere else in Mundus.
+
+The main institutions included:
+
+- The **Sword Orders** — semi-religious martial brotherhoods
+- The **High Monarchy** — the supposedly divine royal lineage
+- The **Council of Na-Totambu** — the warrior nobility
+- The **Ansei** — Sword Saints capable of manifesting weapons of light
+
+### The Ansei and the Sword-Singing
+
+The **Ansei** ("Sword Saints") were warriors who had achieved such mastery that they could invoke a **Shehai** — a Sword-Song (Spirit Sword) formed of pure will. This immaterial weapon was said to be capable of cutting through any material.
+
+The greatest Ansei could create permanent Shehai and pass them on to their disciples. The art of Sword-Singing is considered the highest expression of Yokudan spirituality — the perfect fusion of body, mind, and soul into a living weapon.
+
+### Religion
+
+The Yokudans venerated a pantheon distinct from those of other peoples of Tamriel:
+
+- **Ruptga** (Tall Papa) — king of the gods, guide of spirits
+- **Tu'whacca** — god of souls and death
+- **Tava** — goddess of birds and wind
+- **Zeht** — god of agriculture
+- **Morwha** — mother goddess of fertility
+- **HoonDing** — "The Make Way God," spirit of perseverance
+- **Leki** — holy goddess of Sword-Singing
+- **Sep** — the trickster serpent (equivalent of Lorkhan)
+- **Satakal** — the World Serpent, eternal cycle of creation and destruction
+
+## The Destruction of Yokuda
+
+### The Causes
+
+The destruction of Yokuda around **1E 792** remains shrouded in mystery and controversy. Several theories coexist:
+
+**The Pankratosword Theory:**
+The most widespread version attributes the destruction to a group of renegade warriors — the **Hiradirge** (cursed Ansei) — who used a forbidden technique called the **Pankratosword**. This technique, a Sword-Singing power pushed to its most destructive extreme, is said to have literally "cut" the continent, severing it from existence.
+
+**The Natural Catastrophe Theory:**
+Some scholars propose that a colossal earthquake or massive volcanic eruption caused the geological collapse of the continent. Seismic evidence from the remaining islands appears to support this hypothesis.
+
+**The Civil War Theory:**
+Others suggest that the war between the Na-Totambu and the **War of the Singers** devastated the continent so thoroughly that survivors were forced to flee, the land having become uninhabitable rather than literally submerged.
+
+### The Timeline
+
+Whatever the cause, the cataclysm was not instantaneous. Warning signs unfolded over years:
+
+1. Increasing earthquakes
+2. Progressive submersion of the coasts
+3. Chain volcanic eruptions
+4. Gradual exodus of coastal populations
+5. Final collapse of the main continent
+
+## The Ra Gada: The Exodus
+
+### The Migration Waves
+
+Survivors from Yokuda fled east in several waves collectively known as the **Ra Gada** ("Warrior Wave"):
+
+**First Wave — The Na-Totambu (1E ~808):**
+The warrior nobility sent scouts and vanguards to prepare the new lands. They were led by Prince **Frandar Hunding**, a legendary Ansei.
+
+**Second Wave — The Warriors (1E ~808-810):**
+The bulk of the Yokudan army landed on the coasts of what would become Hammerfell. Their arrival was brutal — they conquered the local populations (primarily Elves and Bretons) with terrifying efficiency.
+
+**Third Wave — The Civilians:**
+The last survivors — craftsmen, priests, women, and children — arrived once the bulk of the conquest was complete.
+
+### The Conquest of Hammerfell
+
+The Ra Gada did not ask permission to settle. The Yokudan warriors, desperate and furious at the loss of their homeland, **swept away** the existing populations:
+
+- The **Left-Handed Elves** were exterminated — a complete genocide
+- **Nedic** and **Breton** settlements were conquered or destroyed
+- In less than a generation, the entire western coast of Tamriel between Valenwood and High Rock was under Yokudan control
+
+This conquered territory was named **Hammerfell** — "Where the Hammer Fell."
+
+## The Remnants of Yokuda
+
+### Surviving Islands
+
+A few islands of the Yokudan archipelago remain above the waves:
+
+- Uninhabited atolls serving as landmarks for sailors
+- Some larger islands where small isolated communities live
+- Ruins emerging at low tide, silent witnesses to the lost continent
+
+### Cultural Legacy
+
+The Redguards of Hammerfell jealously preserve the Yokudan heritage:
+
+- The art of the sword remains central to their culture
+- Yokudan **curved blades** are their signature weapon
+- Funeral traditions involve Tu'whacca and ancestral rites
+- The division between **Crowns** (Yokudan traditionalists) and **Forebears** (assimilationists) reflects the ongoing debate over cultural preservation
+- The Order of the Hammer and the ancient Ansei are venerated as saints
+
+## Unresolved Mysteries
+
+Several questions haunt scholars:
+
+- Is the destructive Sword-Singing technique truly possible, or is it a metaphor?
+- Do habitable lands still exist beyond the seas?
+- Were the Left-Handed Elves truly exterminated, or do survivors hide somewhere?
+- Did Satakal — the World Serpent — play a role in the destruction?
+
+> "We are a people of the Sword. Our continent died by the Sword. And by the Sword, we conquered a new world. Such is our fate — to create and destroy by the blade."
+> — *Chronicles of Frandar Hunding*

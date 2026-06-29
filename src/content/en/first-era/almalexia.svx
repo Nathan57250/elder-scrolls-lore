@@ -1,0 +1,172 @@
+---
+title: "Almalexia"
+slug: "almalexia"
+era: "first-era"
+category: "personnages"
+tags: ["tribunal", "morrowind", "almalexia", "nerevar", "mournhold", "dunmer", "chimer", "ayem"]
+date: "1E ~400 — 3E 427"
+timelineYear: 700
+summary: "Almalexia, Mother of Morrowind and member of the Tribunal, was Nerevar's wife and the most beloved goddess of the Dunmer people. Her pursuit of power and descent into madness marked the tragic end of the Tribunal."
+mapCoords: { x: 730, y: 320 }
+province: "Morrowind"
+aliases: ["Ayem", "Mother Morrowind", "The Lady of Mercy", "Queen of Mournhold", "The Healer"]
+relatedArticles: ["tribunal", "nerevar", "vivec", "sotha-sil", "guerre-alliance", "bataille-montagne-rouge"]
+sources: ["UESP: Almalexia", "2920: The Last Year of the First Era", "36 Lessons of Vivec", "The Imperial Library"]
+---
+
+![Almalexia, Mother of Morrowind](/images/first-era/almalexia.jpg)
+
+## The Mortal Ayem
+
+Before she was a goddess, **Almalexia** — born **Ayem** — was a Chimer noblewoman of exceptional beauty and grace. Ancient texts describe her as a natural healer, gifted with a charisma that drew people to her like moths to light.
+
+Her exact origins are disputed. Some sources place her in a noble family of House Indoril; others describe her as a woman of the common people who rose by her own merit. What is certain is that she became the **wife of Indoril Nerevar** — a marriage that sealed both a political alliance and a genuine love.
+
+## The Hortator's Wife
+
+### Almalexia's Role Beside Nerevar
+
+Almalexia was not simply a royal wife secluded in her palace. She actively participated in the governance of Resdayn alongside Nerevar:
+
+- **Diplomat** — Her grace and eloquence soothed quarrels between Great Houses
+- **Healer** — Her magical restoration powers were renowned throughout the land
+- **Advisor** — Her political judgment complemented Nerevar's military vision
+- **Symbol** — Her presence beside Nerevar embodied the unity of the Chimer people
+
+### Relationship with Nerevar
+
+The texts portray a complex relationship. Almalexia loved Nerevar, but she also loved **power** — not in a vulgar way, but as a means to do good, to protect her people, to impose her vision of a better world. This ambiguity lies at the heart of her character.
+
+Vivec noted in his *Lessons* that Almalexia "loved Nerevar, but loved even more what Nerevar represented."
+
+## War and Betrayal
+
+### The Battle of Red Mountain
+
+Almalexia fought at Red Mountain with a ferocity surprising for a healer. Accounts describe her summoning purifying flames against Dwemer automatons and healing the wounded amid the chaos of battle.
+
+### The Death of Nerevar
+
+What happened after the victory over the Dwemer is the breaking point. According to Azura's version and that of the Ashlanders, Almalexia was **complicit** — perhaps even the instigator — in Nerevar's death. The temptation of divine power offered by Kagrenac's Tools was too great.
+
+According to the Temple's version, Nerevar died of his wounds and the Tribunal honored his memory by caring for his people through divinity.
+
+### The Ascension
+
+With Vivec and Sotha Sil, Almalexia used the Tools on the Heart of Lorkhan and **became a goddess**. The power that flooded into her was immense — healing, protection, knowledge, strength — everything she had always desired in order to serve her people.
+
+But this power came with a price: **Azura's curse** that transformed the Chimer into Dunmer, and the eternal guilt of a broken oath.
+
+## The Goddess: Mother of Morrowind
+
+### The Cult of Almalexia
+
+Of all the Tribunal's members, Almalexia was the most **beloved** by the people. Where Vivec inspired awe and Sotha Sil distant respect, Almalexia inspired **love**. She was called:
+
+- **Mother Morrowind** — protector of all Dunmer
+- **The Lady of Mercy** — healer of the sick and afflicted
+- **Queen of Mournhold** — sovereign of the holy city
+- **Face of Benevolence** — she whose compassion is infinite
+
+### Mournhold: The City of Light
+
+Almalexia established her permanent residence at **Mournhold** (later renamed Almalexia in her honor), making it the religious and cultural capital of Morrowind. Under her governance, the city became:
+
+- A healing center where the sick came from all over Morrowind
+- A home for Dunmer art and culture
+- A defensive stronghold protected by her divine power
+- The seat of the Tribunal Temple
+
+### Acts of Divinity
+
+As a goddess, Almalexia performed many miracles:
+
+- She repelled **Mehrunes Dagon** when the Daedric Prince attacked Mournhold, fighting him in divine duel
+- She healed epidemics that threatened entire populations
+- She forged the weapon **Bonecleave** to defend her people
+- She maintained magical barriers protecting the city from external threats
+- She intervened personally in conflicts threatening Morrowind
+
+### Tribunal Politics
+
+Within the Tribunal, Almalexia represented the **temporal** pillar — direct governance of the people. While Vivec taught and Sotha Sil created, Almalexia **ruled**:
+
+- She commanded the Ordinators (the Temple's militant order)
+- She presided over religious tribunals
+- She negotiated with the Great Houses
+- She managed the province's daily crises
+
+## The Decline
+
+### The Loss of Power
+
+From the late Third Era onward, the Tribunal's power began to **wane**. Dagoth Ur, awakened beneath Red Mountain, had taken control of the Heart of Lorkhan and was progressively cutting the Three off from their source of divinity.
+
+For Almalexia, this loss was **unbearable**. Where Vivec accepted his fate philosophically and Sotha Sil retreated deeper into his City, Almalexia refused to let go. She who had been the goddess of compassion became the goddess of **possessiveness**.
+
+### The Signs of Madness
+
+Almalexia's decline manifested gradually:
+
+- **Growing paranoia** — she saw conspiracies everywhere
+- **Cruelty** — her judgments grew increasingly harsh
+- **Manipulation** — she used her faithful as pawns
+- **Denial** — she refused to admit the loss of her powers
+- **Jealousy** — she saw any other power as a threat
+
+She began to perceive herself as the **only** one worthy of divinity — the other Tribunal members were merely obstacles or rivals.
+
+## The Fall
+
+### The Plot against Sotha Sil
+
+In **3E 427**, as the Nerevarine fulfilled the prophecy and destroyed the Heart of Lorkhan beneath Red Mountain (definitively ending the Tribunal's power), Almalexia plunged completely into madness.
+
+She devised a desperate plan:
+1. Assassinate **Sotha Sil** in his Clockwork City
+2. Use the Clockwork City to create an artificial catastrophe over Mournhold
+3. "Save" the city from this catastrophe to regain the people's adoration
+4. Lure the **Nerevarine** into a trap and eliminate them
+
+### The Assassination of Sotha Sil
+
+Almalexia traveled to the Clockwork City and killed Sotha Sil — her companion of several millennia. The act was brutal and final. She who had once been the Healer became the Murderer.
+
+### The Final Confrontation
+
+The Nerevarine, alerted by events in Mournhold, followed Almalexia into the Clockwork City. There, before Sotha Sil's body, Almalexia revealed her madness:
+
+She proclaimed that she was the only true goddess, that Nerevar had been an obstacle she had once eliminated and would eliminate again. In a fierce battle, the Nerevarine — fulfilling Nerevar's destiny one final time — **ended Almalexia**.
+
+### Azura's Final Words
+
+After Almalexia's death, the Daedra **Azura** appeared to the Nerevarine, commenting on the tragic end:
+
+> "She was the most beloved, and yet the most starved for love. It was this hunger that devoured her."
+
+## Legacy
+
+Almalexia's legacy is profoundly **ambivalent**:
+
+### The Positive Memory
+- Centuries of protection and healing for Morrowind
+- The founding of Mournhold as a cultural center
+- Defense against Mehrunes Dagon
+- The embodiment of divine compassion for millennia
+
+### The Negative Memory
+- The betrayal of Nerevar
+- The assassination of Sotha Sil
+- The manipulation of her own people
+- Proof that even divine goodness can be corrupted
+
+### The Lesson
+
+For the Dunmer of the Fourth Era, returned to the worship of the "Reclamations" (Azura, Boethiah, Mephala) and the ancestors, Almalexia is a warning:
+
+Unchecked power corrupts even the purest souls. Possessive love is more dangerous than hatred. And no mortal — even one who has become a god — can escape their own nature.
+
+## In the Texts
+
+> "The Lady of Mercy extends her hands over Morrowind, and in her palms flows the light that heals and protects. But take heed — for those same hands can close, and what was protection becomes a prison."
+> — *Temple Sermons*, Passage 114
