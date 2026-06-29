@@ -1,0 +1,124 @@
+---
+title: "Los Imperiales — Pueblo del Imperio"
+slug: "imperiaux"
+era: "dawn-era"
+category: "races"
+tags: ["imperiales", "cyrodiil", "imperio", "diplomacia", "comercio", "colovianos", "nibeneses"]
+timelineYear: 0
+summary: "Los Imperiales son el pueblo humano de Cyrodiil, constructores de tres imperios sucesivos. Diplomáticos, comerciantes y administradores natos, unificaron Tamriel tanto con la palabra como con la espada."
+sources: ["UESP: Imperials", "Pocket Guide to the Empire", "The Arcturian Heresy"]
+---
+
+## Presentación
+
+Los **Imperiales** (también llamados Cyrodílicos) son la raza humana nativa de **Cyrodiil** — el corazón geográfico y político de Tamriel. No son ni los guerreros más fuertes ni los mayores magos, pero destacan en lo que construye los imperios: la **diplomacia**, el **comercio**, la **ley** y la **administración**.
+
+Tres imperios sucesivos dan fe de su genio organizativo.
+
+## Subgrupos
+
+Los Imperiales se dividen en dos subculturas:
+
+### Los Colovianos (Oeste)
+- Guerreros y agricultores pragmáticos
+- Cultura austera y marcial
+- Más cercanos a los Nórdicos en temperamento
+- Ciudades: Skingrad, Chorrol, Kvatch
+- Proporcionan la mayoría de los legionarios
+
+### Los Nibeneses (Este)
+- Comerciantes, burócratas y magos
+- Cultura refinada y cosmopolita
+- Comercio fluvial por el Niben
+- Ciudades: Bravil, Leyawiin, Cheydinhal
+- Proporcionan la mayoría de los administradores y diplomáticos
+
+## Los Tres Imperios
+
+### El Imperio Alesiano (1E 243-2200+)
+- Fundado por **Alessia** tras la revuelta contra los Ayléides
+- Primer imperio humano de Tamriel
+- Teocracia (Orden Alesiana)
+- Cayó en el fanatismo religioso
+
+### El Imperio Reman (1E 2703 - 2E 430)
+- Fundado por **Reman Cyrodiil**
+- Integración de los Akaviri (que se convirtieron en las Cuchillas)
+- Conquista de casi todo Tamriel (excepto Morrowind)
+- Cayó con el asesinato de Reman III
+
+### El Imperio Septim (2E 854 - 4E 0)
+- Fundado por **Tiber Septim**
+- El más vasto y duradero
+- Conquista de TODO Tamriel (incluido Morrowind)
+- Cayó con el asesinato de Uriel Septim VII y Martin
+
+### El Imperio Mede (4E 17 - ?)
+- Fundado por **Titus Mede** (usurpador)
+- Imperio debilitado, amputado de provincias
+- Firmante del Concordato del Oro Blanco
+- Estado actual: en declive
+
+## Cultura
+
+### La Ley y el Orden
+- La **Ley Imperial** es el fundamento de la civilización para los Imperiales
+- El sistema jurídico imperial es el más desarrollado de Tamriel
+- Los contratos, tratados y acuerdos son sagrados
+- "La pluma es más poderosa que la espada" — credo imperial
+
+### El Comercio
+- Los Imperiales son comerciantes natos
+- El **Septim** (moneda de oro) es la divisa universal de Tamriel
+- Los gremios comerciales tienen su sede en Cyrodiil
+- "Voz del Emperador" — poder racial de persuasión
+
+### Religión
+El panteón imperial de los **Ocho (o Nueve) Divinos**:
+- Akatosh, Arkay, Dibella, Julianos, Kynareth, Mara, Stendarr, Zenithar
+- Talos (el Noveno, controvertido desde el Concordato)
+- La religión imperial es sincrética — ensamblada a partir de tradiciones élficas y humanas
+
+## La Legión Imperial
+
+El ejército imperial es la fuerza militar más **organizada**:
+- Jerarquía estricta (General → Legado → Centurión → Legionario)
+- Tácticas de grupo, formaciones, disciplina
+- No los mejores combatientes individuales, pero imbatibles como ejército
+- Fuertes y campamentos por todo Tamriel
+- Integra todas las razas (la diversidad como fortaleza)
+
+## Rasgos Raciales
+
+- Apariencia mediterránea/romana
+- Sin resistencia elemental notable
+- **Voz del Emperador** — capacidad de calmar a los hostiles (encanto)
+- Bono comercial (mejores precios)
+- Esperanza de vida humana estándar
+- Versatilidad — buenos en todo, físicamente excepcionales en nada
+
+## Percepción de los Demás
+
+| Raza | Percepción |
+|------|-----------|
+| Nórdicos | "Débiles pero astutos, vendidos a los Elfos" |
+| Rougegardes | "Buenos aliados cuando les conviene" |
+| Altmer | "Efímeros y ambiciosos, útiles como súbditos" |
+| Dunmer | "Colonizadores con bellas palabras" |
+| Khajiit | "Buen comercio, leyes demasiado estrictas" |
+| Orcos | "Al menos nos dan un lugar" |
+
+## Fortalezas y Debilidades
+
+### Fortalezas
+- Organización y administración sin igual
+- Diplomacia y comercio
+- Legión Imperial (ejército organizado)
+- Capacidad para unir pueblos diversos
+- Pragmatismo político
+
+### Debilidades
+- Sin rasgo marcial o mágico excepcional
+- Tendencia a la arrogancia imperialista
+- Dependencia de las estructuras (colapsan sin el Imperio)
+- Corrupción burocrática crónica

@@ -1,0 +1,117 @@
+---
+title: "The Dunmer — Dark Elves"
+slug: "dunmer"
+era: "dawn-era"
+category: "races"
+tags: ["dunmer", "dark-elves", "morrowind", "azura", "great-houses", "chimer", "ashes"]
+timelineYear: 0
+summary: "The Dunmer (Dark Elves) are descendants of the Chimer, cursed by Azura for the Tribunal's betrayal. A proud and resilient people of Morrowind, their culture weaves together ancestors, Daedra, and ruthless politics."
+sources: ["UESP: Dunmer", "The Battle of Red Mountain", "Varieties of Faith: The Dark Elves"]
+---
+
+## Overview
+
+The **Dunmer** ("Dark People") — the Dark Elves — are the inhabitants of **Morrowind**. Once the **Chimer** ("Changed People") with golden skin, they were transformed by Azura's curse: ashen-gray skin and red eyes. This outward transformation conceals a culture of unmatched depth and complexity.
+
+## From Chimer to Dunmer
+
+### The Chimer
+The Chimer were created when the prophet **Veloth** led an exodus of dissident Aldmer:
+- Rejection of the Aldmeri gods (Aedra) in favor of the Daedra
+- Migration to Morrowind under the guidance of Boethiah, Azura, and Mephala
+- Originally golden-skinned, with a culture radically different from the Altmer
+- Foundation of the Great Houses and clan society
+
+### The Curse (1E 700)
+When the Tribunal used the Heart of Lorkhan:
+- Azura cursed ALL the Chimer — not just the three traitors
+- Instantaneous and irreversible physical transformation
+- A permanent symbol of betrayal
+
+## The Great Houses
+
+Dunmer society is organized around **Great Houses**:
+
+| House | Specialty | Character |
+|-------|-----------|-----------|
+| Redoran | War, honor | Disciplined warriors |
+| Telvanni | Magic | Eccentric, individualistic mages |
+| Hlaalu | Commerce, diplomacy | Opportunistic politicians |
+| Indoril | Religion, tradition | Theocratic conservatives |
+| Dres | Agriculture, slavery | Slavers of the south |
+| Dagoth | (destroyed) | Corrupted by the Heart |
+| Sadras | (4E, replaces Hlaalu) | Administrators |
+
+## Religion
+
+### The Three Good Daedra
+- **Boethiah** — Anticipation of Almalexia (schemes)
+- **Azura** — Anticipation of Sotha Sil (transitions)
+- **Mephala** — Anticipation of Vivec (secrets)
+
+### The Four Corners of the House of Troubles
+- **Molag Bal** — domination
+- **Sheogorath** — madness
+- **Malacath** — betrayal
+- **Mehrunes Dagon** — destruction
+
+### The Tribunal (1E 700 – 3E 427)
+- Vivec, Almalexia, Sotha Sil — mortal-gods
+- Venerated as the Tribunal for millennia
+- Fell after the events in Morrowind (3E 427)
+- The New Temple restored worship of the Ancestors and the Good Daedra
+
+### The Ancestor Cult
+The deepest tradition of the Dunmer:
+- Ancestors protect their descendants
+- Ancestor tombs are sacred (desecration = death penalty)
+- Communication with spirits through shamans
+- The bones of ancestors are relics
+
+## Culture and Society
+
+### Slavery
+- Slavery was **legal** in Morrowind until 3E 430+
+- Primarily Argonians and Khajiit
+- Culturally justified (the "beasts" are inferior)
+- Abolished under Imperial pressure (a source of resentment)
+- The primary reason for Argonian-Dunmer hatred
+
+### Honor and Vengeance
+- The Dunmer code of honor is complex and violent
+- The **Morag Tong** (legal assassination) settles conflicts between Houses
+- Duels are codified
+- Blood vengeance can last for generations
+
+### Magic
+- The Dunmer are naturally gifted in magic
+- Fire resistance (50% — linked to the ashes and lava)
+- Conjuration and Destruction are highly valued
+- The Telvanni are the greatest mages of Morrowind
+
+## The Red Year and the Exile (4E 5)
+
+The eruption of **Red Mountain** devastated Morrowind:
+- Vvardenfell rendered uninhabitable
+- Millions dead
+- Dunmer refugees scattered across Tamriel
+- Argonian invasion during the chaos
+- House Redoran became dominant (the only one to have maintained an army)
+- Dunmer in Skyrim (the Gray Quarter of Windhelm) live in poverty
+
+## In Skyrim (4E 201)
+
+Dunmer refugees are a **traumatized** people:
+- Confined to the Gray Quarter of Windhelm
+- Victims of Nordic racism
+- Nostalgic for Morrowind
+- Some prosper (merchants, mages)
+- Resentment toward both the Nords AND the Empire (which failed to protect them)
+
+## Racial Traits
+
+- Ashen-gray skin, red eyes
+- Fire resistance (natural)
+- Affinity for destructive magic
+- Elvish longevity (200–300 years)
+- "Ancestor's Wrath" — ability to set their own skin ablaze (racial power)

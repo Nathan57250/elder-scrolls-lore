@@ -1,0 +1,104 @@
+---
+title: "Los Orcos — Hijos de Malacath"
+slug: "orques"
+era: "dawn-era"
+category: "races"
+tags: ["orcos", "orsimer", "malacath", "orsinium", "herreros", "trinimac", "parias"]
+timelineYear: 0
+summary: "Los Orsimer (Orcos) son descendientes de los seguidores de Trinimac, transformados cuando su dios fue devorado por Boethiah. Un pueblo de guerreros-herreros rechazados y resilientes, constructores perpetuos de Orsinium."
+sources: ["UESP: Orcs", "The True Nature of Orcs", "History of Orsinium"]
+---
+
+## Presentación
+
+Los **Orsimer** ("Pueblo del Paria") — comúnmente llamados **Orcos** — son una raza élfica transformada. Otrora entre los más nobles de los Aldmer (seguidores del dios Trinimac), fueron física y espiritualmente corrompidos cuando Boethiah devoró a Trinimac y lo expulsó convertido en **Malacath**.
+
+## La Transformación
+
+### Antes: Los Seguidores de Trinimac
+- Trinimac era el campeón de los Aedra, el más poderoso de los guerreros divinos
+- Sus seguidores eran Aldmer de élite — guerreros y sacerdotes
+- Se opusieron al cisma de Veloth (que creó a los Chimer)
+- Intentaron bloquear el éxodo de los Chimer
+
+### El Acto de Boethiah
+- Boethiah engañó a Trinimac y lo devoró
+- Usando la forma de Trinimac, convenció a los Chimer de partir
+- Lo que quedó de Trinimac se convirtió en **Malacath** — deforme, amargado, rechazado
+- Sus seguidores fueron simultáneamente transformados en **Orcos** — la piel se volvió verde, crecieron colmillos, los rasgos se endurecieron
+
+## Orsinium
+
+**Orsinium** ("Ciudad de los Orcos") es el sueño eterno y trágico de los Orsimer:
+- Fundada y destruida **al menos cuatro veces** a lo largo de la historia
+- Cada vez reconstruida con determinación inquebrantable
+- Cada vez arrasada por las naciones vecinas (Bretones, Rougegardes)
+
+### Los Distintos Orsinium
+| Versión | Ubicación | Destino |
+|---------|-----------|---------|
+| Primero (1E 1000) | Montañas Wrothgar | Arrasado por alianza Bretón-Rougegarde |
+| Segundo (2E) | Montañas Wrothgar | Destruido durante el Interregnum |
+| Tercero (3E) | Alta Roca | Admitido como provincia imperial, luego saqueado |
+| Cuarto (4E) | Montañas Wrothgar | Estado actual incierto |
+
+## La Sociedad de las Fortalezas
+
+Los Orcos que no viven en Orsinium se organizan en **Fortalezas** (Strongholds):
+- Cada fortaleza está dirigida por un único **Jefe**
+- El Jefe es el único macho autorizado a reproducirse
+- Las **Esposas-Herreras** gestionan la forja (metalurgia)
+- El **Chamán** mantiene el vínculo con Malacath
+- Los machos que no son Jefes son "Berserkers" — guerreros de rango
+
+### El Código de Malacath
+- Nada de robos (resueltos con sangre o exilio)
+- El débil debe obedecer al fuerte
+- El Jefe es reemplazado cuando un hijo lo derrota en combate
+- Los extraños solo son admitidos si demuestran su valor
+- La deshonra es peor que la muerte
+
+## Malacath
+
+**Malacath** (también llamado Mauloch por los Nórdicos) es su patrón:
+- Príncipe Daédrico de los Parias, los Marginados y el Juramento Roto
+- NO es un Príncipe "normal" — es un Aedra corrompido
+- Su reino es el **Ashpit** — un lugar de cenizas eternas
+- Protege a quienes la sociedad rechaza
+- No consuela — endurece
+
+## Forja y Artesanía
+
+Los Orcos son los **mejores herreros** de Tamriel:
+- El acero orco es reconocido como uno de los más resistentes
+- Las armaduras pesadas orcas son legendarias
+- La tradición de la forja es sagrada (las Esposas-Herreras son veneradas)
+- El orichalcum es su metal predilecto
+- En Bordeciel, las armas y armaduras orcas rivalizan con el ébano
+
+## Percepción y Prejuicios
+
+Los Orcos sufren un racismo constante:
+- Durante mucho tiempo considerados "monstruos", no elfos
+- La admisión en el Imperio (3E 399 - Warp in the West) llegó tardíamente
+- Siempre vistos como violentos y primitivos
+- Las ciudades se negaban a concederles la ciudadanía
+- En 4E 201, las fortalezas de Bordeciel son aisladas y desconfiadas
+
+## En Bordeciel (4E 201)
+
+Existen varias fortalezas orcas:
+- **Largashbur** — maldita por un gigante daédrico
+- **Dushnikh Yal** — la más próspera
+- **Narzulbur** — cerca de una mina de ébano
+- **Mor Khazgur** — aislada en las montañas
+- Los Orcos "de ciudad" también viven en los pueblos (guardias, herreros)
+
+## Paradoja Cultural
+
+Los Orcos encarnan una paradoja:
+- **Guerreros feroces** pero también los mayores **artesanos** de Tamriel
+- Sociedad **brutal** pero regida por un código de honor **estricto**
+- Considerados bárbaros pero capaces de construir **civilizaciones**
+- Rechazados por todos pero perpetuamente **resilientes**
+- Su dios es un Paria — y abrazan ese estatus

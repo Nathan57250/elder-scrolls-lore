@@ -1,0 +1,118 @@
+---
+title: "Los Nórdicos — Hijos de la Tormenta"
+slug: "nordiques"
+era: "dawn-era"
+category: "races"
+tags: ["nórdicos", "nords", "bordeciel", "sovngarde", "shor", "ysgramor", "guerreros"]
+timelineYear: 0
+summary: "Los Nórdicos son un pueblo humano guerrero originario de Atmora, asentado en Bordeciel desde la Era Méréthica. Raza de guerreros, narradores y navegantes, su cultura impregna todo el norte de Tamriel."
+sources: ["UESP: Nords", "Songs of the Return", "Varieties of Faith"]
+---
+
+## Presentación
+
+Los **Nórdicos** (Nords) son la raza humana dominante de **Bordeciel** (Skyrim). Descendientes de los **Atmoranos** que cruzaron el Mar de los Fantasmas bajo la guía de **Ysgramor**, son un pueblo de guerreros, navegantes, narradores y bebedores — orgullosos, independientes y desconfiados de la magia.
+
+## Orígenes
+
+### Atmora
+El continente de **Atmora** (al norte de Tamriel) era la tierra natal de los proto-Nórdicos:
+- Civilización guerrera y chamánica
+- Atmora se fue congelando progresivamente — volviéndose inhabitable
+- Migraciones sucesivas hacia Tamriel (la más célebre: la de Ysgramor)
+- En la 4ª Era, Atmora es considerado un continente muerto, congelado para la eternidad
+
+### El Retorno
+El viaje de **Ysgramor y sus 500 Compañeros** es el mito fundacional:
+- Primeros asentamientos en Saarthal
+- La Noche de las Lágrimas (masacre por parte de los Falmer)
+- El vengativo Retorno con 500 guerreros
+- Conquista de toda Bordeciel
+- Fundación de Vendeaume (la ciudad humana más antigua)
+
+## Cultura
+
+### Valores Fundamentales
+- **El honor** en combate — morir en batalla conduce a Sovngarde
+- **La fuerza** física — el débil es despreciado (pero no el sabio)
+- **La libertad** — la independencia es un derecho sagrado
+- **La tradición** — las costumbres ancestrales son sagradas
+- **El clan** — la familia y el jarl están por encima de todo
+
+### El Salón del Hidromiel
+El salón del hidromiel es el centro social nórdico:
+- Lugar de festines, relatos heroicos y política
+- El Jarl gobierna desde su trono en el salón
+- Jorrvaskr (Blancanieve) es el más famoso
+- La tradición de beber juntos sella las alianzas
+
+### Los Bardos
+Los **Bardos** nórdicos son más que músicos:
+- Guardianes de la historia oral
+- El Colegio de Bardos (Solitud) es una institución respetada
+- Las canciones transmiten hazañas y enseñanzas
+- Un guerrero sin canción en su memoria cae en el olvido
+
+## Religión Nórdica
+
+### El Panteón
+| Divino | Nombre Nórdico | Rol |
+|--------|----------------|-----|
+| Akatosh | Alduin* | Dios del Tiempo (pero Alduin es su "hijo") |
+| Kynareth | Kyne | Diosa del Cielo, patrona de los guerreros |
+| Mara | Mara | Diosa del Amor |
+| Dibella | Dibella | Diosa de la Belleza |
+| Talos | Talos/Ysmir | El Noveno Divino (controvertido) |
+| Shor | Shor | El Dios Muerto (Lorkhan) — rey de Sovngarde |
+
+### Shor y Sovngarde
+- **Shor** es Lorkhan en su aspecto nórdico — un guerrero que creó el mundo
+- Fue "asesinado" por los elfos (míticamnete)
+- Aguarda a los guerreros en **Sovngarde** — el paraíso nórdico
+- Solo los que murieron con honor pueden entrar
+- Tsun custodia el puente de hueso de ballena
+
+### Talos
+- **Talos** (Tiber Septim) es el Noveno Divino para los Nórdicos
+- Un hombre que se convirtió en dios — el héroe definitivo
+- La prohibición de su culto (el Concordato) es el mayor insulto
+- La identidad nórdica y el culto a Talos son inseparables
+
+## Organización Política
+
+### Los Jarls
+- Bordeciel está dividida en **9 Fortalezas** (Holds)
+- Cada Fortaleza está gobernada por un **Jarl**
+- El **Alto Rey** es elegido por el **Moot** (asamblea de Jarls)
+- El título puede ser disputado mediante el **Thu'um** (combate ritual)
+
+### El Thu'um
+El **Grito** (Thu'um/Voice) es un arte nórdico ancestral:
+- Uso de la Voz como arma
+- Los Barbas Grises lo enseñan en el Alto Hrothgar
+- Antaño, los ejércitos nórdicos contaban con "Tongues" (maestros del Grito)
+- Desde Jurgen Windcaller, el Thu'um se reserva para la contemplación (excepto los Sangre de Dragón)
+
+## Rasgos Físicos
+
+- Los humanos más **altos** de Tamriel
+- Piel clara, cabello típicamente rubio o rojizo
+- Resistencia natural al **frío** (50% de resistencia al hielo)
+- Constitución robusta
+- Esperanza de vida humana estándar (~80 años)
+
+## Debilidades Culturales
+
+- **Desconfianza hacia la magia** — los magos son marginados
+- **Xenofobia** — especialmente hacia los Elfos y los Khajiit
+- **Rigidez** — las tradiciones pueden impedir la adaptación
+- **Alcoholismo** — culturalmente normalizado
+- **División interna** — las guerras civiles son recurrentes
+
+## En 4E 201
+
+Los Nórdicos están en el corazón de la Guerra Civil:
+- **Tormenta de Capa**: independencia, honor, tradición nórdica
+- **Imperio**: unidad, pragmatismo, protección frente al Thalmor
+- La sociedad está fracturada, las familias divididas
+- El regreso de los Dragones añade caos a la situación

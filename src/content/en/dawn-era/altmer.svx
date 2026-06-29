@@ -1,0 +1,113 @@
+---
+title: "The Altmer — High Elves"
+slug: "altmer"
+era: "dawn-era"
+category: "races"
+tags: ["altmer", "high-elves", "alinor", "thalmor", "summerset-isles", "magic", "superiority"]
+timelineYear: 0
+summary: "The Altmer (High Elves) are the most genetically pure descendants of the original Aldmer, dwelling in the Summerset Archipelago. Masters of magic, they consider other races inferior and seek to restore their divine nature."
+sources: ["UESP: Altmer", "Pocket Guide to the Empire", "Rising Threat"]
+---
+
+## Overview
+
+The **Altmer** ("High Folk") are the Elves most genetically close to the original **Aldmer** — the first Elves born of the Ehlnofey. They inhabit the **Summerset Archipelago** and consider themselves the oldest, most pure, and most divine of all races.
+
+## The Purity of Blood
+
+### The Genealogical Obsession
+The Altmer maintain an obsession with **racial purity**:
+- Genealogies traced back across millennia
+- Interracial marriages are an absolute taboo
+- "Imperfect" children were historically... disposed of (according to some sources)
+- The goal: maintain the link with the et-Ada (original spirits)
+- They believe each generation "dilutes" their original divinity
+
+### The Theological Logic
+For the Altmer, mortality is a **curse**:
+- The et-Ada were immortal and divine
+- The creation of Mundus trapped them in flesh
+- Each birth moves them further from their original state
+- The ultimate goal: reclaim divine immortality
+
+## The Summerset Archipelago
+
+The **Summerset Isles** (Alinor) are their homeland:
+- Two main islands (Summerset and Auridon)
+- Architecture of crystal and coral — impossible towers
+- A rigid society divided into castes
+- Magic permeates everyday life
+- Long closed to outsiders (until 3E 100)
+
+### Major Cities
+- **Alinor** — capital, crystal towers
+- **Cloudrest** — city atop a mountain (Eton Nir)
+- **Shimmerene** — main port
+- **Lillandril** — academic center
+
+## Society
+
+### Hierarchy
+Altmer society is strictly hierarchical:
+- **King/Queen** — monarch
+- **Thalmor** — ruling council (became dominant in the Fourth Era)
+- **Kinlords/Kinladies** — nobility
+- **Sages and Mages** — educated class
+- **Artisans** — middle class
+- **Servants** — bottom rung
+
+### Longevity
+Altmer live for **several centuries**:
+- Natural lifespan of 200–300 years (sometimes more)
+- With magic, some reach 1,000+ years
+- This longevity explains their political patience
+- They view human races as ephemeral children
+
+## Magic
+
+The Altmer are the **greatest mages** in Tamriel:
+- Natural resistance to magical effects
+- Innate affinity for all schools of magic
+- The first schools of magic were Altmer institutions
+- The Psijic Order is of Altmer origin
+- The Mages Guild was founded by an Altmer (Vanus Galerion)
+
+### The Paradoxical Weakness
+- Their strong magical connection makes them **vulnerable** to offensive magic
+- Game mechanic: +25% magic damage received (in certain games)
+- Physically more fragile than martial races
+
+## The Thalmor
+
+In the Fourth Era, the **Thalmor** seized control of Altmer society:
+- Radical Elven supremacist ideology
+- Declared objective: restore the divinity of the Mer
+- Hidden objective: "un-create" Mundus by suppressing the Towers
+- Foundation of the **Aldmeri Dominion** (alliance of Altmer + Bosmer + Khajiit)
+- War against the Empire → White-Gold Concordat
+
+### Not All Altmer
+Important: not all Altmer support the Thalmor:
+- Many Altmer were persecuted as "dissidents"
+- Some fled to the Empire
+- Altmer society itself is divided
+- The Thalmor maintain power through fear as much as ideology
+
+## Relations
+
+| Race | Relationship |
+|------|-------------|
+| Bosmer | Allies (under the Dominion), seen as primitive cousins |
+| Dunmer | Mutual contempt (Veloth schism) |
+| Humans | Considered ephemeral and inferior |
+| Orcs | Not recognized as Mer (Elves) |
+| Khajiit | Opportunistic allies |
+| Bretons | The most "acceptable" of humans (Elven blood) |
+
+## Notable Altmer
+
+- **Vanus Galerion** — founder of the Mages Guild
+- **Mannimarco** — the King of Worms (necromancer)
+- **Elenwen** — Thalmor Ambassador in Skyrim
+- **Ancano** — Thalmor agent at the College of Winterhold
+- **Queen Ayrenn** (2E) — founder of the First Aldmeri Dominion

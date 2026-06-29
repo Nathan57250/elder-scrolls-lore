@@ -1,0 +1,155 @@
+---
+title: "The Towers and Their Stones"
+description: "The metaphysical structures that maintain the stability of Mundus and the Stones that power them"
+slug: "tours-et-pierres"
+category: "cosmologie"
+era: "dawn-era"
+timelineYear: 0
+tags: ["towers", "stones", "adamantine", "red-tower", "crystal-tower", "white-gold-tower", "throat-of-the-world", "mundus", "convention"]
+---
+
+## Introduction
+
+The Towers are structures that are simultaneously physical and metaphysical, anchoring the reality of Mundus — the mortal plane. Each Tower is associated with a Stone, an artifact or concept that grants it its stabilizing power. Together, the Towers form a network that maintains the existence of Nirn as mortals know it. If all the Towers were deactivated or destroyed, Mundus could theoretically cease to exist, returning to the primordial chaos of the Aurbis.
+
+The Towers are not mere buildings. They are axes mundi — points of connection between the mortal plane and the higher realms. Each one reproduces in its own way the Zero Tower, Ada-Mantia, the first structure ever erected in the world.
+
+## Ada-Mantia: The Adamantine Tower
+
+### Origin
+
+Ada-Mantia, also known as the Adamantine Tower or the Direnni Tower, is the first Tower and the model upon which all others are built. It stands on the island of Balfiera, in the Iliac Bay, between High Rock and Hammerfell. It is here that the et'Ada — the original spirits — gathered during the Convention to judge Lorkhan and establish the laws of reality.
+
+### The Convention
+
+The Convention was the founding moment of all Aurbis history. The Aedra, weakened and trapped in the creation of Mundus by Lorkhan's deception, convened at the summit of Ada-Mantia to decide the traitor's fate. During this event:
+
+- The fundamental laws of physics and metaphysics were established
+- Linear time truly began to flow
+- Lorkhan was judged and his heart was torn out
+- The roles of the Divines were fixed
+
+### The Stone of Ada-Mantia
+
+The Stone of the Adamantine Tower is the Convention itself — the event and the agreement reached there. As long as that agreement holds, as long as the laws established during the Convention remain in force, Ada-Mantia remains active. This is why it is considered the most stable and indestructible of Towers: its Stone is not a physical object but a metaphysical concept.
+
+## The Red Tower: The Heart of Lorkhan
+
+### Origin
+
+The Red Tower is the volcano known as Red Mountain at the center of Vvardenfell, in Morrowind. It was "created" when the heart of Lorkhan, torn out by the Aedra, was hurled through the sky and crashed into Tamriel, with the volcano forming around it over the millennia.
+
+### The Heart of Lorkhan
+
+The Stone of the Red Tower is the Heart of Lorkhan itself — the divine organ of the creator/trickster god. This heart contains unimaginable power. The Tribunal (Vivec, Almalexia, and Sotha Sil) used it for millennia to maintain their divinity. Dagoth Ur attempted to harness it to power Akulakhan, the Second Numidium.
+
+### Deactivation
+
+In 3E 427, the Nerevarine fulfilled the prophecy and destroyed the enchantments binding the Heart of Lorkhan to Red Mountain. The Heart was not destroyed but rendered inaccessible, effectively "deactivating" the Red Tower. This event had catastrophic consequences: the eruption of Red Mountain in 4E 5, the devastation of Vvardenfell, and a general weakening of reality in Morrowind.
+
+## The Crystal Tower: Crystal-Like-Law
+
+### Origin
+
+The Crystal Tower, known as Crystal-Like-Law, stood on the Summerset Archipelago, at the heart of Altmer territory. It was built by the first Aldmer in the image of Ada-Mantia, as an attempt to reproduce the divine perfection of the original Tower.
+
+### The Stone
+
+The Stone of the Crystal Tower is a subject of debate among scholars. Some sources suggest it was a person — an elected guardian or an individual born with specific metaphysical properties. Others believe it was a true crystal, imbued with the light of Aetherius.
+
+### Destruction
+
+The Crystal Tower was destroyed during the Oblivion Crisis in 3E 433, when the forces of Mehrunes Dagon invaded the Summerset Archipelago. Its fall represents one of the greatest losses to the stability of Mundus and was a traumatic event for the Altmer people, contributing to the rise of the Aldmeri Dominion.
+
+## The White-Gold Tower
+
+### Origin
+
+The White-Gold Tower stands at the heart of the Imperial City, in the province of Cyrodiil. It was originally built by the Ayleids (Wild Elves) as the center of their empire and a place of Daedric worship. After the Slave Rebellion led by Alessia, it became the symbol of human Imperial power.
+
+### The Stone: The Amulet of Kings
+
+The Stone of the White-Gold Tower is the Chim-el Adabal, better known as the Amulet of Kings. This red jewel, cut from a drop of Lorkhan's blood according to legend, is the supreme symbol of Imperial authority. Only a true Emperor of the Dragonfire lineage can wear it and light the Dragonfires of the Aedra.
+
+### Deactivation
+
+The Amulet of Kings was destroyed at the end of the Oblivion Crisis when Martin Septim used it to transform himself into an avatar of Akatosh and repel Mehrunes Dagon. With the destruction of its Stone, the White-Gold Tower was deactivated, though the physical structure remains. This marked the end of the Third Era and the beginning of a period of mounting instability for Mundus.
+
+## Throat of the World: Snow-Throat
+
+### Origin
+
+Snow-Throat, or the Throat of the World, is the highest mountain in Tamriel, located at the heart of Skyrim. It is a sacred site for the Nords, considered the point where sky meets earth and where the gods speak to mortals.
+
+### The Stone
+
+The Stone of Snow-Throat is described enigmatically in ancient texts: "The Stone is the cave." This cryptic description has given rise to many interpretations. Some believe it refers to a specific underground space beneath the mountain. Others suggest it designates Blackreach, the vast Dwemer cavern beneath Skyrim. A more esoteric interpretation proposes that the "cave" is a concept — a void, an absence that paradoxically supports the Tower.
+
+### Status
+
+The status of Snow-Throat is uncertain. Some scholars believe it is already "deactivated" or was never fully active in the traditional sense. The ambiguity of its Stone may reflect the ambiguity of its status.
+
+## The Green Tower: Green-Sap
+
+### Origin
+
+The Green Tower is Falinesti, the walking tree-city of Valenwood. Unlike the other Towers — which are constructions of stone or rock — Green-Sap is a living organism: a graht-oak of colossal size that once walked through the forests of Valenwood.
+
+### The Stone
+
+The Stone of Green-Sap is a subject of mystery. Some theories suggest it is the Green Pact itself — the sacred agreement between Y'ffre and the Bosmer. Others believe it is a primordial seed or the tree's sap.
+
+### Status
+
+Falinesti ceased moving at some undetermined point in the Fourth Era, which may indicate a form of deactivation of the Green Tower.
+
+## The Brass Tower: Walk-Brass (The Numidium)
+
+### Origin
+
+Walk-Brass is unique among the Towers in that it is not a fixed structure but a colossal automaton — the Numidium, built by the Dwemer. It is the only Tower created entirely by mortals, and its mobile nature makes it a disruptive element in the Tower network.
+
+### The Stone: The Heart of the Dwemer / The Mantella
+
+The original Stone of the Numidium was meant to be the Heart of Lorkhan, but the Dwemer disappeared before they could fully activate it. Later, Tiber Septim used the Mantella — a soul gem containing the essence of Zurin Arctus (or Wulfharth) — as a substitute Stone to activate the Numidium and conquer Tamriel.
+
+### Danger
+
+Walk-Brass is considered the most dangerous Tower because its activation causes Dragon Breaks — fractures in temporal continuity. The Numidium is a walking "NO," a negation of reality that threatens the very existence of Mundus rather than stabilizing it.
+
+## The Orichalc Tower
+
+### Origin
+
+The Orichalc Tower once stood on the Yokuda archipelago, the ancestral homeland of the Redguards. Very little information survives about it, as Yokuda was swallowed by the sea in a cataclysm whose details remain debated.
+
+### The Stone
+
+The Stone of the Orichalc Tower is unknown. Some theories link it to the Shehai — the spirit swords of the Redguard Ansei — or to the very concept of the Sword-Singing technique.
+
+### Destruction
+
+The Orichalc Tower was destroyed with Yokuda. Some Redguard myths suggest that it was precisely the destruction of the Tower that caused the continent to sink, reinforcing the theory that the Towers are essential to terrestrial stability.
+
+## The Tower Network and the Stability of Mundus
+
+### The Principle of Stabilization
+
+Each active Tower contributes to maintaining the barrier between Mundus and Oblivion, and more broadly to preserving the structure of reality as it was defined during the Convention. The Towers function like pillars: the more that are active, the more stable reality is. The progressive deactivation of the Towers over the eras represents a gradual weakening of Mundus.
+
+### Deactivated Towers
+
+By the end of the Fourth Era, several Towers have been confirmed deactivated:
+- The Red Tower (deactivated in 3E 427)
+- The Crystal Tower (destroyed in 3E 433)
+- The White-Gold Tower (deactivated in 3E 433)
+- The Orichalc Tower (destroyed in the Merethic Era)
+- Walk-Brass (uncertain status, potentially deactivated after the events of Daggerfall)
+
+### Eschatological Implications
+
+The progressive deactivation of the Towers is seen by some scholars as a sign of the end times — the Landfall, the fall of Mundus. Others see it as a necessary transformation, an evolution toward a new state of reality. The Aldmeri Dominion, in its quest to "undo" the creation of Mundus and return to the original divine state, may be deliberately seeking to deactivate the remaining Towers.
+
+## Conclusion
+
+The Towers and their Stones constitute the fundamental architecture of Tamrielic reality. They are at once impressive physical monuments and metaphysical anchors without which the mortal plane could not exist. Their history — construction, activation, and progressive deactivation — tells in parallel the very story of Mundus, from its creation during the Convention to its possible decline in the eras to come.

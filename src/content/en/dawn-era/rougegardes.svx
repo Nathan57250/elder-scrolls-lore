@@ -1,0 +1,112 @@
+---
+title: "The Redguards — Warriors of Yokuda"
+slug: "rougegardes"
+era: "dawn-era"
+category: "races"
+tags: ["redguards", "yokuda", "hammerfell", "sword", "alikr", "hoonding"]
+timelineYear: 0
+summary: "The Redguards are the finest swordsmen in Tamriel, descendants of the warriors of Yokuda who destroyed their own continent. Proud and independent, they refused the White-Gold Concordat."
+sources: ["UESP: Redguards", "Pocket Guide to the Empire: Hammerfell", "From the Memory Stone of Makela Leki"]
+---
+
+## Overview
+
+The **Redguards** are a human people from the lost continent of **Yokuda**. They are universally regarded as the **finest individual warriors** in Tamriel — their swordsmanship is unmatched. They inhabit **Hammerfell**, a merciless desert they conquered by force.
+
+## Yokuda — The Lost Continent
+
+### The Old World
+**Yokuda** was a continent west of Tamriel:
+- An advanced, martial, and sophisticated civilization
+- The art of the sword ("Way of the Sword") elevated to philosophy
+- Several rival empires and kingdoms
+- Devastating wars between factions
+
+### The Destruction
+Yokuda was **destroyed** — submerged beneath the sea:
+- The exact cause is debated
+- The dominant theory: a master swordsman used a forbidden technique (the Pankratosword) that severed reality itself
+- The continent collapsed into the ocean
+- The survivors (the Ra Gada — "Warrior Wave") fled to Tamriel
+
+## The Conquest of Hammerfell
+
+The Ra Gada arrived in Tamriel in 1E 808:
+- Brutal landing on the coasts of Hammerfell
+- Extermination or subjugation of existing populations (Nedic peoples, Orcs, Left-Handed Elves)
+- Total conquest within a few decades
+- The "Warrior Wave" took no prisoners
+- Foundation of Sentinel, Taneth, and other cities
+
+## The Art of the Sword
+
+### The Philosophy
+For the Redguards, sword combat is a **sacred art**:
+- "The Way of the Sword" — a complete philosophy of life
+- The sword is an extension of the soul
+- Mastery of the sword = mastery of the self
+- Schools of combat are venerated institutions
+
+### The Ansei (Sword Saints)
+The **Ansei** were the greatest masters of Yokuda:
+- Capable of manifesting a **Spirit Sword** (a blade of pure energy)
+- Venerated as saints after death
+- Their tombs (Halls of the Virtues of War) are sacred
+- The technique of the Pankratosword belongs to an Ansei who destroyed Yokuda
+
+### Distrust of Magic
+- Redguards prefer **martial skill** over magic
+- Magic is seen as a crutch for the weak
+- Necromancy is an absolute abomination
+- Only healing magic is tolerated (pragmatism)
+
+## Culture
+
+### Crowns and Forebears
+Redguard society is divided into two factions:
+- **Crowns** — traditionalists, Yokuda cult, isolationist
+- **Forebears** — modernists, pro-Empire, pragmatic
+- This schism has defined Hammerfell politics for centuries
+
+### The HoonDing
+The **HoonDing** ("Make Way God") is a Redguard deity:
+- An avatar that manifests when the Redguards must "make way"
+- Appears during the greatest crises
+- Some believe Tiber Septim was an aspect of the HoonDing
+- Represents the irresistible force of conquest
+
+### Religion
+| Deity | Role |
+|-------|------|
+| Tall Papa (Ruptga) | Head of the pantheon |
+| Tu'whacca | God of the dead |
+| Tava | Goddess of the wind |
+| HoonDing | War god |
+| Satakal | The World Serpent (cycle of destruction/creation) |
+| Leki | Goddess of the sword |
+
+## The Concordat and Independence
+
+In 4E 175, the Redguards **refused** the White-Gold Concordat:
+- Rather than cede their south to the Thalmor, they left the Empire
+- Fought the Aldmeri Dominion **alone**
+- And **won** — driving back Thalmor forces
+- Proving that resistance to the Thalmor was possible
+- Source of resentment: the Empire did not help them
+
+## Racial Traits
+
+- Dark skin (brown to black)
+- Athletic and robust constitution
+- Natural resistance to poisons
+- "Adrenaline Rush" — temporary superhuman endurance
+- No particular magical affinity (but no weakness either)
+- Standard human lifespan
+
+## In Skyrim (4E 201)
+
+Redguards are present but rare:
+- The **Alik'r Warriors** are hunting a fugitive across the province
+- A few merchants and mercenaries in the cities
+- No organized community (unlike the Dunmer)
+- Respected for their martial skills

@@ -1,0 +1,113 @@
+---
+title: "Los Altmer — Elfos Altos"
+slug: "altmer"
+era: "dawn-era"
+category: "races"
+tags: ["altmer", "elfos-altos", "alinor", "thalmor", "islas-verano", "magia", "superioridad"]
+timelineYear: 0
+summary: "Los Altmer (Elfos Altos) son los descendientes más puros de los Aldmer originales, habitantes del Archipiélago de las Islas de Verano. Maestros de la magia, consideran a las demás razas inferiores y buscan restaurar su naturaleza divina."
+sources: ["UESP: Altmer", "Pocket Guide to the Empire", "Rising Threat"]
+---
+
+## Presentación
+
+Los **Altmer** ("Pueblo Elevado") son los Elfos genéticamente más cercanos a los **Aldmer** originales — los primeros elfos nacidos de los Ehlnofey. Habitan el **Archipiélago de las Islas de Verano** (Summerset Isles) y se consideran la raza más antigua, más pura y más cercana a lo divino.
+
+## La Pureza de Sangre
+
+### La Obsesión Genealógica
+Los Altmer mantienen una obsesión por la **pureza racial**:
+- Genealogías trazadas a lo largo de milenios
+- Los matrimonios interraciales son un tabú absoluto
+- Los niños "imperfectos" eran históricamente... eliminados (según algunas fuentes)
+- El objetivo: mantener el vínculo con los et-Ada (espíritus originales)
+- Creen que cada generación "diluye" su divinidad original
+
+### La Lógica Teológica
+Para los Altmer, la mortalidad es una **maldición**:
+- Los et-Ada eran inmortales y divinos
+- La creación de Mundus los atrapó en la carne
+- Cada nacimiento los aleja más del estado original
+- El objetivo último: recuperar la inmortalidad divina
+
+## El Archipiélago de las Islas de Verano
+
+Las **Islas de Verano** (Alinor) son su patria:
+- Dos islas principales (Summerset y Auridon)
+- Arquitectura de cristal y coral — torres imposibles
+- Sociedad rígida dividida en castas
+- La magia impregna la vida cotidiana
+- Durante mucho tiempo cerradas a los extranjeros (hasta el 3E 100)
+
+### Ciudades Principales
+- **Alinor** — capital, torres de cristal
+- **Cloudrest** — ciudad en la cima de una montaña (Eton Nir)
+- **Shimmerene** — puerto principal
+- **Lillandril** — centro académico
+
+## Sociedad
+
+### Jerarquía
+La sociedad Altmer está estrictamente jerarquizada:
+- **Rey/Reina** — monarca
+- **Thalmor** — consejo dirigente (dominante en la 4ª Era)
+- **Kinlords/Kinladies** — nobleza
+- **Sabios y Magos** — clase educada
+- **Artesanos** — clase media
+- **Sirvientes** — escalón más bajo
+
+### Longevidad
+Los Altmer viven **varios siglos**:
+- Vida natural de 200-300 años (a veces más)
+- Con magia, algunos alcanzan los 1.000+ años
+- Esta longevidad explica su paciencia política
+- Ven a las razas humanas como niños efímeros
+
+## Magia
+
+Los Altmer son los **mayores magos** de Tamriel:
+- Resistencia natural a los efectos mágicos
+- Afinidad innata con todas las escuelas de magia
+- Las primeras escuelas de magia fueron de origen Altmer
+- La Orden Psijic es de origen Altmer
+- El Gremio de Magos fue fundado por un Altmer (Vanus Galerion)
+
+### La Debilidad Paradójica
+- Su fuerte conexión mágica los hace **vulnerables** a la magia ofensiva
+- En términos de juego: +25% de daño mágico recibido (en ciertos juegos)
+- Físicamente más frágiles que las razas guerreras
+
+## El Thalmor
+
+En la 4ª Era, el **Thalmor** tomó el control de la sociedad Altmer:
+- Ideología supremacista élfica radical
+- Objetivo declarado: restaurar la divinidad de los Mer
+- Objetivo oculto: "deshacer" Mundus suprimiendo las Torres
+- Fundación del **Dominio Aldmeri** (alianza Altmer + Bosmer + Khajiit)
+- Guerra contra el Imperio → Concordato del Oro Blanco
+
+### No Todos los Altmer
+Importante: no todos los Altmer apoyan al Thalmor:
+- Muchos Altmer fueron perseguidos como "disidentes"
+- Algunos huyeron hacia el Imperio
+- La propia sociedad Altmer está dividida
+- El Thalmor mantiene el poder tanto por el miedo como por la ideología
+
+## Relaciones
+
+| Raza | Relación |
+|------|----------|
+| Bosmer | Aliados (bajo el Dominio), vistos como primos primitivos |
+| Dunmer | Desprecio mutuo (cisma de Veloth) |
+| Humanos | Considerados efímeros e inferiores |
+| Orcos | No reconocidos como Mer (elfos) |
+| Khajiit | Aliados oportunistas |
+| Bretones | Los más "aceptables" de los humanos (sangre élfica) |
+
+## Altmer Notables
+
+- **Vanus Galerion** — fundador del Gremio de Magos
+- **Mannimarco** — el Rey de los Gusanos (nigromante)
+- **Elenwen** — Embajadora Thalmor en Bordeciel
+- **Ancano** — agente Thalmor en el Colegio de Invernalia
+- **La Reina Ayrenn** (2E) — fundadora del Primer Dominio Aldmeri

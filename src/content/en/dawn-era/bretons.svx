@@ -1,0 +1,111 @@
+---
+title: "The Bretons — Children of Two Bloods"
+slug: "bretons"
+era: "dawn-era"
+category: "races"
+tags: ["bretons", "high-rock", "magic", "chivalry", "direnni", "half-elves", "politics"]
+timelineYear: 0
+summary: "The Bretons are a human race from High Rock carrying Elven blood in their veins, granting them a natural magical affinity. Their chivalric society is fragmented into rival kingdoms."
+sources: ["UESP: Bretons", "Pocket Guide to the Empire: High Rock", "The Bretons: Mongrels or Paragons?"]
+---
+
+## Overview
+
+The **Bretons** are a human race native to **High Rock**. Their defining trait: they carry **Elven blood** inherited from the Direnni, giving them superior magical aptitude compared to other humans while retaining a human appearance and lifespan.
+
+## Origins
+
+### The Direnni Bloodline
+The **Direnni Clan** (Altmer) ruled High Rock for centuries:
+- Unions between Direnni and local humans (Nedic peoples) produced mixed-blood children
+- These children inherited an Elvish magical affinity
+- But retained a predominantly human physiology
+- Over generations, this mixture became the **Breton people**
+- The term "Breton" possibly means "people of the mist" or "bastard" (originally pejorative)
+
+### Genetic Consequences
+- Natural resistance to magic (25% in the games)
+- Innate magical absorption capacity
+- Intelligence and affinity for all schools of magic
+- Standard human appearance (no visible pointed ears)
+- Human lifespan (~80–100 years, slightly longer)
+
+## High Rock
+
+### Geography
+- Province in northwestern Tamriel
+- Rugged coastline, mountains (Wrothgar), forests
+- City-states and fragmented kingdoms
+- Border with Skyrim (east) and Hammerfell (south)
+
+### Fragmented Politics
+High Rock is **notoriously divided**:
+- Dozens of kingdoms, duchies, baronies, city-states
+- Shifting alliances and perpetual wars
+- Every noble proclaims himself king of something
+- Political intrigue is a national art
+- The Warp in the West (3E 417) partially unified the province
+
+## Culture
+
+### Chivalry
+- Feudal and chivalric society
+- Knightly orders are prestigious
+- The code of honor (in theory) governs the nobility
+- Tournaments and jousts are popular
+- Heraldry is a complex science
+
+### Everyday Magic
+- Magic is **socially accepted** (unlike among the Nords)
+- Many Bretons practice magic without Guild membership
+- Enchanting and alchemy are common trades
+- Reachwoman witches (Forsworn) represent a parallel tradition
+
+### The Court
+- Court intrigue is the Breton national sport
+- Diplomacy, scheming, and strategic marriage dominate
+- "A Breton never trusts another Breton" (Tamrielic saying)
+- Political assassination (discreet) is common currency
+
+## Subgroups
+
+### The Reachmen
+- Bretons of the Reach (mountainous borderland between Skyrim and High Rock)
+- Shamanic culture, not chivalric
+- Hagraven worship (bird-witches)
+- The **Forsworn** in Skyrim are Reachmen
+- Considered barbarians by "true" Bretons
+
+### "Civil" Bretons
+- City-dwellers: Daggerfall, Wayrest, Evermore
+- Refined culture, merchants, politicians
+- Closer to Imperial culture
+
+## In Imperial Politics
+
+Bretons are among the most **loyal** subjects of the Empire:
+- The Empire brought a stability their fragmentation could not provide
+- Imperial structure protects small kingdoms from larger ones
+- Skilled administrators and diplomats
+- Less affected by the ban on Talos (not their primary deity)
+
+## Notable Breton Figures
+
+- **Tiber Septim** (possibly, according to some sources — controversial)
+- **Jagar Tharn** — the battlemage who usurped the throne
+- **Queen Barenziah** (in part — complex lineage)
+- **The kings of Daggerfall and Wayrest**
+
+## Strengths and Weaknesses
+
+### Strengths
+- Best mages among humans
+- Natural diplomats and politicians
+- Resistance to magic
+- Culturally adaptable
+
+### Weaknesses
+- Physically the weakest of humans
+- Chronic political division
+- Tendency toward paranoia and distrust
+- A culture of scheming that prevents sincere cooperation

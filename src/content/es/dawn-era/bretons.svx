@@ -1,0 +1,111 @@
+---
+title: "Los Bretones — Hijos de Dos Sangres"
+slug: "bretons"
+era: "dawn-era"
+category: "races"
+tags: ["bretones", "alta-roca", "magia", "caballería", "direnni", "semi-elfos", "política"]
+timelineYear: 0
+summary: "Los Bretones son una raza humana de Alta Roca que lleva sangre élfica en sus venas, lo que les otorga una afinidad mágica natural. Sociedad caballeresca fragmentada en reinos rivales."
+sources: ["UESP: Bretons", "Pocket Guide to the Empire: High Rock", "The Bretons: Mongrels or Paragons?"]
+---
+
+## Presentación
+
+Los **Bretones** son una raza humana originaria de **Alta Roca** (High Rock). Su particularidad: poseen **sangre élfica** heredada de los Direnni, lo que les confiere aptitudes mágicas superiores a las de otros humanos, conservando a la vez una apariencia y una esperanza de vida humanas.
+
+## Orígenes
+
+### El Mestizaje Direnni
+El Clan **Direnni** (Altmer) gobernó Alta Roca durante siglos:
+- Las uniones entre los Direnni y los humanos locales (Nédicos) produjeron descendencia mestiza
+- Estos hijos heredaron una afinidad mágica élfica
+- Pero conservaron una fisiología mayoritariamente humana
+- Con el paso de las generaciones, esta mezcla se convirtió en el **pueblo Bretón**
+- El término "Bretón" posiblemente significa "pueblo de la niebla" o "bastardo" (peyorativo en origen)
+
+### Consecuencias Genéticas
+- Resistencia natural a la magia (25% en los juegos)
+- Capacidad innata de absorción mágica
+- Inteligencia y afinidad con todas las escuelas de magia
+- Apariencia humana estándar (sin orejas puntiagudas visibles)
+- Esperanza de vida humana (~80-100 años, ligeramente superior)
+
+## Alta Roca
+
+### Geografía
+- Provincia del noroeste de Tamriel
+- Costa accidentada, montañas (Wrothgar), bosques
+- Ciudades-estado y reinos fragmentados
+- Frontera con Bordeciel (este) y Martillo (sur)
+
+### Política Fragmentada
+Alta Roca está **notoriamente dividida**:
+- Decenas de reinos, ducados, baronías y ciudades-estado
+- Alianzas cambiantes y guerras perpetuas
+- Cada noble se proclama rey de algo
+- La intriga política es un arte nacional
+- El Warp in the West (3E 417) unificó parcialmente la provincia
+
+## Cultura
+
+### Caballería
+- Sociedad feudal y caballeresca
+- Las órdenes de caballería son prestigiosas
+- El código de honor (en teoría) rige a la nobleza
+- Los torneos y justas son populares
+- La heráldica es una ciencia compleja
+
+### Magia Cotidiana
+- La magia es **socialmente aceptada** (al contrario que entre los Nórdicos)
+- Muchos Bretones practican magia sin pertenecer al Gremio
+- El encantamiento y la alquimia son oficios habituales
+- Las brujas Reachwoman (Renegados) son una tradición paralela
+
+### La Corte
+- Las intrigas de corte son el deporte nacional bretón
+- La diplomacia, la conspiración y el matrimonio estratégico dominan
+- "Un Bretón nunca confía en otro Bretón" (dicho tamriélico)
+- El asesinato político (discreto) es moneda corriente
+
+## Subgrupos
+
+### Los Hombres del Reach
+- Bretones del Reach (región montañosa fronteriza entre Bordeciel y Alta Roca)
+- Cultura chamánica, no caballeresca
+- Veneración de las Hagraven (brujas-aves)
+- Los **Renegados** en Bordeciel son Hombres del Reach
+- Considerados bárbaros por los Bretones "de verdad"
+
+### Bretones "Civiles"
+- Habitantes de las ciudades: Daggerfall, Wayrest, Evermore
+- Cultura refinada, comerciantes, políticos
+- Más cercanos a la cultura imperial
+
+## En la Política Imperial
+
+Los Bretones están entre los súbditos más **leales** del Imperio:
+- El Imperio trajo una estabilidad que su fragmentación no permitía
+- La estructura imperial protege a los reinos pequeños de los más grandes
+- Buenos administradores y diplomáticos
+- Menos afectados por la prohibición de Talos (no es su deidad principal)
+
+## Bretones Notables
+
+- **Tiber Septim** (posiblemente, según algunas fuentes — controvertido)
+- **Jagar Tharn** — el mago guerrero que usurpó el trono
+- **La Reina Barenziah** (en parte — parentesco complejo)
+- **Los reyes de Daggerfall y Wayrest**
+
+## Fortalezas y Debilidades
+
+### Fortalezas
+- Los mejores magos entre los humanos
+- Diplomáticos y políticos naturales
+- Resistencia a la magia
+- Adaptables culturalmente
+
+### Debilidades
+- Físicamente los más débiles de los humanos
+- División política crónica
+- Tendencia a la paranoia y la desconfianza
+- Una cultura de la conspiración que impide la cooperación sincera

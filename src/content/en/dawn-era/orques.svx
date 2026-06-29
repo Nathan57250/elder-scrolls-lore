@@ -1,0 +1,104 @@
+---
+title: "The Orcs — Children of Malacath"
+slug: "orques"
+era: "dawn-era"
+category: "races"
+tags: ["orcs", "orsimer", "malacath", "orsinium", "blacksmiths", "trinimac", "pariahs"]
+timelineYear: 0
+summary: "The Orsimer (Orcs) are descendants of Trinimac's followers, transformed when their god was devoured by Boethiah. A people of warrior-smiths — rejected and resilient — and perpetual builders of Orsinium."
+sources: ["UESP: Orcs", "The True Nature of Orcs", "History of Orsinium"]
+---
+
+## Overview
+
+The **Orsimer** ("People of the Pariah") — commonly known as **Orcs** — are a transformed Elvish race. Once among the noblest of the Aldmer (followers of the god Trinimac), they were physically and spiritually corrupted when Boethiah devoured Trinimac and expelled him as **Malacath**.
+
+## The Transformation
+
+### Before: Trinimac's Followers
+- Trinimac was the Aedra's champion, the mightiest of divine warriors
+- His followers were elite Aldmer — warriors and priests
+- They opposed the Veloth schism (which created the Chimer)
+- They attempted to block the Chimer exodus
+
+### Boethiah's Act
+- Boethiah tricked Trinimac and devoured him
+- Using Trinimac's form, she convinced the Chimer to depart
+- What remained of Trinimac became **Malacath** — misshapen, bitter, cast out
+- His followers were simultaneously transformed into **Orcs** — their skin turned green, tusks grew, their features became heavy
+
+## Orsinium
+
+**Orsinium** ("City of the Orcs") is the eternal and tragic dream of the Orsimer:
+- Founded and destroyed **at least four times** throughout history
+- Each time rebuilt with fierce determination
+- Each time razed by neighboring nations (Bretons, Redguards)
+
+### The Different Orsiniums
+| Version | Location | Fate |
+|---------|----------|------|
+| First (1E 1000) | Wrothgar Mountains | Razed by Breton-Redguard alliance |
+| Second (2E) | Wrothgar Mountains | Destroyed during the Interregnum |
+| Third (3E) | High Rock | Admitted as Imperial province, then sacked |
+| Fourth (4E) | Wrothgar Mountains | Current status uncertain |
+
+## Stronghold Society
+
+Orcs who do not live in Orsinium organize themselves into **Strongholds**:
+- Each stronghold is led by a single **Chief**
+- The Chief is the only male permitted to reproduce
+- **Forge-Wives** manage the forge (metalworking)
+- The **Shaman** maintains the bond with Malacath
+- Non-Chief males are "Berserkers" — ranked warriors
+
+### The Code of Malacath
+- No theft (resolved through blood or exile)
+- The weak must obey the strong
+- The Chief is replaced when a son defeats him in combat
+- Outsiders are only admitted if they prove their worth
+- Shame is worse than death
+
+## Malacath
+
+**Malacath** (also called Mauloch by the Nords) is their patron:
+- Daedric Prince of the Spurned, the Ostracized, and the Broken Oath
+- He is NOT a "normal" Prince — he is a corrupted Aedra
+- His realm is the **Ashpit** — a place of eternal ash
+- He protects those whom society rejects
+- He does not comfort — he hardens
+
+## Smithing and Craftsmanship
+
+Orcs are the **finest smiths** in Tamriel:
+- Orcish steel is recognized as among the strongest
+- Orcish heavy armor is legendary
+- The forge tradition is sacred (Forge-Wives are venerated)
+- Orichalcum is their favored metal
+- In Skyrim, Orcish weapons and armor rival ebony
+
+## Perception and Prejudice
+
+Orcs endure constant racism:
+- Long considered "monsters," not Elves
+- Admission to the Empire (3E 399 - Warp in the West) came late
+- Still viewed as violent and primitive
+- Cities refused to grant them citizenship
+- In 4E 201, Skyrim's strongholds are isolated and distrustful
+
+## In Skyrim (4E 201)
+
+Several Orcish strongholds exist:
+- **Largashbur** — cursed by a Daedric giant
+- **Dushnikh Yal** — the most prosperous
+- **Narzulbur** — near an ebony mine
+- **Mor Khazgur** — isolated in the mountains
+- "City Orcs" also live in towns (guards, smiths)
+
+## Cultural Paradox
+
+Orcs embody a paradox:
+- **Ferocious warriors** yet also Tamriel's greatest **craftsmen**
+- **Brutal** society but governed by a **strict** code of honor
+- Considered barbarians yet capable of building **civilizations**
+- Rejected by all yet perpetually **resilient**
+- Their god is a Pariah — and they embrace that status

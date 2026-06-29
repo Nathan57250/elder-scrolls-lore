@@ -1,0 +1,112 @@
+---
+title: "Los Rougegardes — Guerreros de Yokuda"
+slug: "rougegardes"
+era: "dawn-era"
+category: "races"
+tags: ["rougegardes", "redguard", "yokuda", "martillo", "espada", "alik'r", "hoonding"]
+timelineYear: 0
+summary: "Los Rougegardes son los mejores espadachines de Tamriel, descendientes de los guerreros de Yokuda que destruyeron su propio continente. Orgullosos e independientes, rechazaron el Concordato del Oro Blanco."
+sources: ["UESP: Redguards", "Pocket Guide to the Empire: Hammerfell", "From the Memory Stone of Makela Leki"]
+---
+
+## Presentación
+
+Los **Rougegardes** (Redguards) son un pueblo humano originario del continente perdido de **Yokuda**. Son unánimemente considerados los **mejores guerreros individuales** de Tamriel — su arte de la espada no tiene rival. Habitan **Martillo** (Hammerfell), un desierto implacable que conquistaron por la fuerza.
+
+## Yokuda — El Continente Perdido
+
+### El Mundo Antiguo
+**Yokuda** era un continente al oeste de Tamriel:
+- Civilización avanzada, marcial y sofisticada
+- El arte de la espada ("Way of the Sword") elevado al rango de filosofía
+- Varios imperios y reinos rivales
+- Guerras devastadoras entre facciones
+
+### La Destrucción
+Yokuda fue **destruida** — engullida por las aguas:
+- La causa exacta es debatida
+- Teoría dominante: un maestro espadachín usó una técnica prohibida (la Pankratosword) que cortó la realidad misma
+- El continente se hundió en el océano
+- Los supervivientes (los Ra Gada — "Ola Guerrera") huyeron hacia Tamriel
+
+## La Conquista de Martillo
+
+Los Ra Gada llegaron a Tamriel en 1E 808:
+- Desembarco brutal en las costas de Martillo
+- Exterminio o sometimiento de las poblaciones existentes (Nédicos, Orcos, Elfos Zurdos)
+- Conquista total en pocas décadas
+- La "Ola Guerrera" no hacía prisioneros
+- Fundación de Sentinel, Taneth y otras ciudades
+
+## El Arte de la Espada
+
+### La Filosofía
+Para los Rougegardes, el combate con espada es un **arte sagrado**:
+- "The Way of the Sword" — filosofía de vida completa
+- La espada es una extensión del alma
+- El dominio de la espada = el dominio de uno mismo
+- Las escuelas de combate son instituciones veneradas
+
+### Los Ansei (Santos de la Espada)
+Los **Ansei** eran los mayores maestros de Yokuda:
+- Capaces de manifestar una **Spirit Sword** (espada de energía pura)
+- Venerados como santos tras la muerte
+- Sus tumbas (Salones de las Virtudes de la Guerra) son sagradas
+- La técnica de la Pankratosword pertenece a un Ansei que destruyó Yokuda
+
+### Desconfianza hacia la Magia
+- Los Rougegardes prefieren la **habilidad marcial** a la magia
+- La magia se ve como una muleta para los débiles
+- La nigromancia es una abominación absoluta
+- Solo la magia de curación es tolerada (pragmatismo)
+
+## Cultura
+
+### Coronas y Antepasados
+La sociedad Rougegarde está dividida en dos facciones:
+- **Coronas** (Crowns) — tradicionalistas, culto a Yokuda, aislacionistas
+- **Antepasados** (Forebears) — modernistas, pro-Imperio, pragmáticos
+- Este cisma define la política de Martillo desde hace siglos
+
+### El HoonDing
+El **HoonDing** ("Make Way God") es una deidad Rougegarde:
+- Un avatar que se manifiesta cuando los Rougegardes deben "abrirse paso"
+- Aparece en las mayores crisis
+- Algunos creen que Tiber Septim era un aspecto del HoonDing
+- Representa la fuerza irresistible de la conquista
+
+### Religión
+| Divinidad | Rol |
+|-----------|-----|
+| Tall Papa (Ruptga) | Jefe del panteón |
+| Tu'whacca | Dios de los muertos |
+| Tava | Diosa del viento |
+| HoonDing | Dios guerrero |
+| Satakal | La Serpiente Mundo (ciclo destrucción/creación) |
+| Leki | Diosa de la espada |
+
+## El Concordato y la Independencia
+
+En 4E 175, los Rougegardes **rechazaron** el Concordato del Oro Blanco:
+- En lugar de ceder su sur al Thalmor, abandonaron el Imperio
+- Combatieron al Dominio Aldmeri **solos**
+- Y **ganaron** — rechazando las fuerzas Thalmor
+- Demostrando que la resistencia al Thalmor era posible
+- Fuente de resentimiento: el Imperio no los ayudó
+
+## Rasgos Raciales
+
+- Piel oscura (de marrón a negro)
+- Constitución atlética y robusta
+- Resistencia natural a los venenos
+- "Adrenalina" — resistencia sobrehumana temporal
+- Sin afinidad mágica particular (pero tampoco debilidad)
+- Esperanza de vida humana estándar
+
+## En Bordeciel (4E 201)
+
+Los Rougegardes están presentes pero son escasos:
+- Los **Guerreros Alik'r** persiguen a una fugitiva por la provincia
+- Algunos comerciantes y mercenarios en las ciudades
+- Sin comunidad organizada (al contrario que los Dunmer)
+- Respetados por sus habilidades marciales

@@ -1,0 +1,124 @@
+---
+title: "The Imperials — People of the Empire"
+slug: "imperiaux"
+era: "dawn-era"
+category: "races"
+tags: ["imperials", "cyrodiil", "empire", "diplomacy", "commerce", "colovians", "nibenese"]
+timelineYear: 0
+summary: "The Imperials are the human people of Cyrodiil, builders of three successive empires. Born diplomats, merchants, and administrators, they united Tamriel as much by the word as by the sword."
+sources: ["UESP: Imperials", "Pocket Guide to the Empire", "The Arcturian Heresy"]
+---
+
+## Overview
+
+The **Imperials** (also called Cyrodilics) are the human race native to **Cyrodiil** — the geographic and political heart of Tamriel. They are neither the strongest warriors nor the greatest mages, but they excel in what builds empires: **diplomacy**, **commerce**, **law**, and **administration**.
+
+Three successive empires stand as testament to their organizational genius.
+
+## Subgroups
+
+The Imperials divide into two sub-cultures:
+
+### The Colovians (West)
+- Pragmatic warriors and farmers
+- Austere and martial culture
+- Closer to the Nords in temperament
+- Cities: Skingrad, Chorrol, Kvatch
+- Provide the majority of the legionnaires
+
+### The Nibenese (East)
+- Merchants, bureaucrats, and mages
+- Refined and cosmopolitan culture
+- River trade along the Niben
+- Cities: Bravil, Leyawiin, Cheydinhal
+- Provide the majority of administrators and diplomats
+
+## The Three Empires
+
+### The Alessian Empire (1E 243–2200+)
+- Founded by **Alessia** after the revolt against the Ayleids
+- First human empire in Tamriel
+- Theocracy (Alessian Order)
+- Fell into religious fanaticism
+
+### The Reman Empire (1E 2703 – 2E 430)
+- Founded by **Reman Cyrodiil**
+- Integration of the Akaviri (who became the Blades)
+- Conquest of nearly all of Tamriel (except Morrowind)
+- Fell with the assassination of Reman III
+
+### The Septim Empire (2E 854 – 4E 0)
+- Founded by **Tiber Septim**
+- The most vast and enduring
+- Conquest of ALL of Tamriel (including Morrowind)
+- Fell with the assassination of Uriel Septim VII and Martin
+
+### The Mede Empire (4E 17 – ?)
+- Founded by **Titus Mede** (a usurper)
+- Weakened empire, shorn of provinces
+- Signatory of the White-Gold Concordat
+- Current status: in decline
+
+## Culture
+
+### Law and Order
+- **Imperial Law** is the foundation of civilization for the Imperials
+- The Imperial legal system is the most developed in Tamriel
+- Contracts, treaties, and agreements are sacred
+- "The pen is mightier than the sword" — the Imperial creed
+
+### Commerce
+- Imperials are born merchants
+- The **Septim** (gold coin) is the universal currency of Tamriel
+- Commercial guilds are headquartered in Cyrodiil
+- "Voice of the Emperor" — racial power of persuasion
+
+### Religion
+The Imperial pantheon of **Eight (or Nine) Divines**:
+- Akatosh, Arkay, Dibella, Julianos, Kynareth, Mara, Stendarr, Zenithar
+- Talos (the Ninth, controversial since the Concordat)
+- Imperial religion is syncretic — assembled from Elvish and human traditions
+
+## The Imperial Legion
+
+The Imperial army is the most **organized** military force:
+- Strict hierarchy (General → Legate → Centurion → Legionnaire)
+- Group tactics, formations, discipline
+- Not the best individual fighters but unbeatable as an army
+- Forts and camps across all of Tamriel
+- Integrates all races (diversity as strength)
+
+## Racial Traits
+
+- Mediterranean/Roman appearance
+- No notable elemental resistance
+- **Voice of the Emperor** — ability to calm hostiles (charm)
+- Commercial bonus (better prices)
+- Standard human lifespan
+- Versatility — good at everything, physically exceptional at nothing
+
+## Perception by Others
+
+| Race | Perception |
+|------|-----------|
+| Nords | "Weak but cunning, sold out to the Elves" |
+| Redguards | "Good allies when it suits them" |
+| Altmer | "Ephemeral and ambitious, useful as subjects" |
+| Dunmer | "Colonizers with fine words" |
+| Khajiit | "Good trade, laws too strict" |
+| Orcs | "At least they give us a place" |
+
+## Strengths and Weaknesses
+
+### Strengths
+- Unparalleled organization and administration
+- Diplomacy and commerce
+- Imperial Legion (organized army)
+- Capacity to unite diverse peoples
+- Political pragmatism
+
+### Weaknesses
+- No exceptional martial or magical trait
+- Tendency toward imperialist arrogance
+- Dependence on structures (collapse without the Empire)
+- Chronic bureaucratic corruption

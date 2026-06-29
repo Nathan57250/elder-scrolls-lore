@@ -1,0 +1,118 @@
+---
+title: "The Nords — Sons of the Storm"
+slug: "nordiques"
+era: "dawn-era"
+category: "races"
+tags: ["nords", "skyrim", "sovngarde", "shor", "ysgramor", "warriors"]
+timelineYear: 0
+summary: "The Nords are a warrior human people from Atmora who settled in Skyrim during the Merethic Era. A race of warriors, storytellers, and sailors, their culture permeates all of northern Tamriel."
+sources: ["UESP: Nords", "Songs of the Return", "Varieties of Faith"]
+---
+
+## Overview
+
+The **Nords** are the dominant human race of **Skyrim**. Descendants of the **Atmorans** who crossed the Sea of Ghosts under the leadership of **Ysgramor**, they are a people of warriors, sailors, storytellers, and drinkers — proud, independent, and deeply suspicious of magic.
+
+## Origins
+
+### Atmora
+The continent of **Atmora** (north of Tamriel) was the ancestral homeland of the proto-Nords:
+- A warrior and shamanic civilization
+- Atmora gradually froze — becoming uninhabitable
+- Successive migrations toward Tamriel (the most famous: Ysgramor's)
+- By the Fourth Era, Atmora is considered a dead continent, frozen for eternity
+
+### The Return
+The journey of **Ysgramor and his 500 Companions** is the founding myth:
+- First settlements at Saarthal
+- The Night of Tears (massacre by the Falmer)
+- The vengeful Return with 500 warriors
+- Conquest of all of Skyrim
+- Foundation of Windhelm (the oldest human city)
+
+## Culture
+
+### Core Values
+- **Honor** in combat — dying in battle leads to Sovngarde
+- **Physical strength** — the weak are scorned (but not the wise)
+- **Freedom** — independence is a sacred right
+- **Tradition** — ancestral customs are sacred
+- **Clan** — family and jarl come before all else
+
+### The Mead Hall
+The mead hall is the Nordic social center:
+- A place for feasting, heroic tales, and politics
+- The Jarl rules from his throne within the hall
+- Jorrvaskr (Whiterun) is the most famous
+- The tradition of drinking together seals alliances
+
+### The Bards
+Nordic **Bards** are more than musicians:
+- Keepers of oral history
+- The Bards College (Solitude) is a respected institution
+- Songs pass on great deeds and lessons
+- A warrior with no song to his memory is forgotten
+
+## Nordic Religion
+
+### The Pantheon
+| Divine | Nordic Name | Role |
+|--------|-------------|------|
+| Akatosh | Alduin* | God of Time (but Alduin is his "son") |
+| Kynareth | Kyne | Goddess of the Sky, patron of warriors |
+| Mara | Mara | Goddess of Love |
+| Dibella | Dibella | Goddess of Beauty |
+| Talos | Talos/Ysmir | The Ninth Divine (controversial) |
+| Shor | Shor | The Dead God (Lorkhan) — king of Sovngarde |
+
+### Shor and Sovngarde
+- **Shor** is Lorkhan in his Nordic aspect — a warrior who created the world
+- He was "slain" by the Elves (mythically)
+- He awaits warriors in **Sovngarde** — the Nordic afterlife
+- Only those who died honorably may enter
+- Tsun guards the whale-bone bridge
+
+### Talos
+- **Talos** (Tiber Septim) is the Ninth Divine for the Nords
+- A man who became a god — the ultimate hero
+- The ban on his worship (the Concordat) is the ultimate insult
+- Nordic identity and the cult of Talos are inseparable
+
+## Political Organization
+
+### The Jarls
+- Skyrim is divided into **9 Holds**
+- Each Hold is governed by a **Jarl**
+- The **High King** is elected by the **Moot** (assembly of Jarls)
+- The title can be contested through **Thu'um** (ritual combat)
+
+### The Thu'um
+The **Shout** (Thu'um/Voice) is an ancient Nordic art:
+- Using the Voice as a weapon
+- The Greybeards teach it at High Hrothgar
+- In earlier times, Nordic armies had "Tongues" (masters of the Shout)
+- Since Jurgen Windcaller, the Thu'um has been reserved for contemplation (except for Dragonborn)
+
+## Physical Traits
+
+- The **tallest** humans in Tamriel
+- Light skin, typically blond or red hair
+- Natural resistance to **cold** (50% frost resistance)
+- Robust constitution
+- Standard human lifespan (~80 years)
+
+## Cultural Weaknesses
+
+- **Distrust of magic** — mages are marginalized
+- **Xenophobia** — particularly toward Elves and Khajiit
+- **Rigidity** — traditions can prevent adaptation
+- **Alcoholism** — culturally normalized
+- **Internal division** — civil wars are recurring
+
+## In 4E 201
+
+The Nords are at the heart of the Civil War:
+- **Stormcloaks**: independence, honor, Nordic tradition
+- **Empire**: unity, pragmatism, protection against the Thalmor
+- Society is fractured, families divided
+- The return of the Dragons adds to the chaos
