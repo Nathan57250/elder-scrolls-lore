@@ -1,0 +1,52 @@
+---
+title: "The Events of Solstheim"
+slug: "solstheim-events"
+era: "fourth-era"
+category: "evenements"
+tags: ["solstheim", "miraak", "hermaeus-mora", "dragonborn", "raven-rock", "tel-mithryn", "apocrypha"]
+timelineYear: 201
+summary: "The major events that unfolded on Solstheim in 4E 201, including the return of Miraak and the influence of Hermaeus Mora over the island."
+sources: ["Dragonborn DLC", "The Guardian and the Traitor", "The Winds of Change", "History of Raven Rock"]
+---
+
+## Solstheim in 4E 201
+
+The island of **Solstheim**, situated between Skyrim and **Morrowind**, experienced in 4E 201 a series of events that threatened the very existence of its inhabitants. Once a Nordic territory attached to Skyrim, the island had been ceded to Morrowind after the **Red Year** of 4E 5, when the eruption of **Red Mountain** devastated Vvardenfell and forced thousands of Dunmer to seek refuge on its shores.
+
+When the **Last Dragonborn** set foot on the island, they discovered a population in the grip of a mysterious force. The inhabitants, in a state of trance, were constructing strange stone structures around the Standing Stones without any awareness of doing so. This mass mental manipulation was the work of **Miraak**, the First Dragonborn, who was seeking to escape his prison in **Apocrypha**.
+
+## The Return of Miraak
+
+**Miraak** had been imprisoned in the realm of **Hermaeus Mora** since the Merethic Era, following his rebellion against the Dragon Cult. Over millennia, he had accumulated considerable power while planning his escape. His plan rested on the enslavement of the minds of Solstheim's inhabitants through **Black Books** — Daedric artifacts serving as direct links to Apocrypha.
+
+The Standing Stones of the island — the Earth Stone, the Sun Stone, the Beast Stone, the Water Stone, the Wind Stone, and the Tree Stone — were corrupted by Miraak's influence. The inhabitants were building shrines around them intended to channel their spiritual energy toward the First Dragonborn, providing him with the power needed to break the chains of Apocrypha.
+
+## The Influence of Hermaeus Mora
+
+**Hermaeus Mora**, the Daedric Prince of Forbidden Knowledge, played an ambiguous role in these events. Though Miraak was officially his champion, the Keeper of Forbidden Knowledge did nothing to prevent the Last Dragonborn from entering Apocrypha and challenging his prisoner. Some scholars suggest that Mora deliberately orchestrated the confrontation between the two Dragonborn, seeking to replace a recalcitrant champion with a more malleable one.
+
+The **Black Books** scattered across Solstheim served as keys to Mora's realm. Each of them — *Epistolary Acumen*, *Filament and Filigree*, *The Hidden Twilight*, *The Sallow Regent*, *Untold Legends*, *The Winds of Change*, and *Waking Dreams* — opened a passage to a different section of Apocrypha, offering the reader unique powers in exchange for an ever-deeper bond with the Daedric Prince.
+
+## The Community of Raven Rock
+
+**Raven Rock**, the island's main settlement, was a former **East Empire Company** mining colony converted into a Dunmer refuge. Under the governance of Councilor **Morvayn**, the town struggled for survival amid attacks from ash spawn, bandit threats, and the apparent exhaustion of its ebony mine.
+
+The arrival of the Last Dragonborn resolved several crises: the reopening of the ebony mine secured the town's economic future, while the elimination of the Miraak threat freed the citizens from their mental enslavement. The Dunmer of Raven Rock, though far from their devastated homeland, thus found a new breath of life.
+
+## Tel Mithryn and Telvanni Magic
+
+The mushroom tower of **Tel Mithryn**, established by Master **Neloth** of Great House **Telvanni**, represented an outpost of Dunmer culture and magic on Solstheim. Neloth, one of the last great Telvanni sorcerers, conducted his research on Heart Stones and Dwemer enchantments with a characteristic contempt for anything other than his own quest for knowledge.
+
+His research on **Heart Stones** — fragments of **Lorkhan**'s own heart stone — provided crucial information for understanding the nature of Miraak's power and the mechanisms of the Standing Stones' enchantment.
+
+## The Skaal and Nordic Traditions
+
+The **Skaal village**, in the northern part of the island, was home to a Nordic community that had preserved ancestral shamanic traditions. Their spiritual leader, **Storn Crag-Strider**, held ancient knowledge of the Voice and forgotten Shouts that Mora had coveted for millennia.
+
+The sacrifice of Storn — who voluntarily offered his knowledge to Hermaeus Mora in exchange for the final Word of Power needed to defeat Miraak — illustrates the terrible price that Solstheim's inhabitants paid in this conflict between two Dragonborn and a manipulative Daedric Prince.
+
+## Consequences and Legacy
+
+The defeat of Miraak in Apocrypha ended the direct threat hanging over Solstheim, but the long-term consequences remain uncertain. **Hermaeus Mora** now regards the Last Dragonborn as his new champion — a title the Dragonborn may not have accepted willingly. The Black Books remain on the island, and the passages to Apocrypha remain open to anyone who dares consult them.
+
+The island itself, freed from Miraak's grip, recovered a certain normalcy. The Standing Stones were purified, the inhabitants regained their senses, and daily life resumed its course between the volcanic ash and the icy northern winds. But the knowledge that Mora extracted from the Skaal is lost forever, and with it, an irreplaceable piece of Solstheim's memory.

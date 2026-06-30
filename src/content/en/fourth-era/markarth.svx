@@ -1,0 +1,105 @@
+---
+title: "Markarth"
+slug: "markarth"
+era: "fourth-era"
+category: "lieux"
+tags: ["markarth", "dwemer", "forsworn", "silver-blood", "cidhna", "the-reach"]
+timelineYear: 201
+summary: "Markarth is a unique city in Skyrim, built within the ruins of an ancient Dwemer city, marked by conflict between Nords, the Forsworn, and the corruption of the Silver-Blood family."
+sources: ["The Markarth Incident", "The Bear of Markarth", "Dwemer History and Culture", "The \"Madmen\" of the Reach"]
+---
+
+# Markarth
+
+## The Stone City
+
+**Markarth** is one of the most singular cities in Skyrim and all of Tamriel. Built directly into the cliffs of **The Reach**, within the vestiges of an ancient **Dwemer** city (*Nchuand-Zel*), it is made entirely of stone and metal. No wood, no fabric — only rock carved by a civilization that vanished millennia ago and repurposed by successive occupants.
+
+The city is arranged on several levels along a spectacular waterfall, the **Karth River**, which spills down into the river below. Buildings are hewn directly into the rock face, connected by Dwemer stone stairs, walkways, and ramps. The whole gives an impression of monumental grandeur and permanence.
+
+## Dwemer Heritage
+
+The **Dwemer** (*Dwarves*) built the original city — **Nchuand-Zel** — during the First Era. Their engineering was so advanced that their structures survived intact for millennia after their mysterious disappearance in 1E 700. The Dwemer features still visible include:
+
+- Steam pipes and automated mechanisms still functional
+- Doors and gear locks of remarkable precision
+- Columns and arches decorated with geometric patterns
+- **Animunculi** (*Dwemer automatons*) still active in the depths
+- The vast underground complex beneath the city, partially explored
+
+The underground ruins of Nchuand-Zel are dangerous — populated by Dwemer automatons, degenerated Falmer, and deadly traps. The Markarth authorities forbid access, but explorers and adventurers regularly attempt to penetrate them.
+
+## The Forsworn
+
+The dominant conflict of the Reach is the one between the **Forsworn** and the Nords who control the region. The Forsworn are the descendants of the **Reachmen**, a Breton indigenous people who inhabited the region long before the Nords arrived.
+
+The Forsworn claim the Reach as their ancestral land and wage brutal guerrilla warfare against Nordic occupation:
+- Ambushes on roads and mountain passes
+- Raids against farms and isolated villages
+- Practices of the **Hagraven** — corrupted witch women, half-woman, half-bird
+- Use of primal magic and bloody rituals
+- Fortified camps in inaccessible highlands
+
+The **Markarth Incident** of 4E 174 is a key event: taking advantage of the Great War between the Empire and the Thalmor, the Forsworn seized the city and governed it for two years. It was **Ulfric Stormcloak** and his militia who retook the city in a bloodbath, massacring Forsworn and sympathetic civilians alike without distinction. This event sowed the seeds of irreconcilable hatred that persists in 4E 201.
+
+## The Silver-Blood Family
+
+The true power in Markarth is not the Jarl but the **Silver-Blood** family. This Nordic dynasty controls the region's silver mines — the Reach's primary source of wealth — and wields corrupt influence over every aspect of city life.
+
+**Thongvor Silver-Blood** is the family patriarch, a hard-line Nordic nationalist who supports the Stormcloaks. His brother **Thonar** manages operations in the shadows, manipulating imprisoned Forsworn and controlling criminal activities.
+
+The Silver-Blood family:
+- Owns **Cidhna Mine** and most of the region's mines
+- Controls the silver trade that makes Markarth wealthy
+- Manipulates Jarl **Igmund** through economic pressure
+- Uses prisoners as slave labor in the mines
+- Secretly finances certain criminal activities
+
+Their grip is so total that it is often said "the blood of Markarth flows in silver" — a reference both to the mineral wealth and the corruption that accompanies it.
+
+## Cidhna Mine
+
+**Cidhna Mine** is both a silver mine and the most secure prison in Skyrim. Located in the heart of the mountain beneath the city, it is considered impregnable — no escape has ever been confirmed (officially).
+
+Prisoners — mainly captured Forsworn — are forced to work the silver veins for the profit of the Silver-Blood family. Conditions are inhumane:
+- Endless forced labor in the darkness
+- Minimal food and contaminated water
+- No hope of release for most
+- Violence among prisoners tolerated by the guards
+- Death common from exhaustion or cave-ins
+
+**Madanach**, the "King in Rags," is the historical Forsworn leader imprisoned in Cidhna since the Markarth Incident. Despite his imprisonment, he continues to direct the Forsworn movement from his cell, communicating with the outside through intermediaries — ironically with the complicity of Thonar Silver-Blood, who uses him to control the Forsworn.
+
+## The Temple of Dibella
+
+Perched at the top of the city, the **Temple of Dibella** is a place of worship dedicated to the goddess of beauty and love. Dibella's priestesses maintain a closed community, jealously guarding the secret of their **Sybil** — a young girl gifted with prophetic visions.
+
+The temple stands in sharp contrast to the violence and corruption that permeate the rest of the city. It represents an island of serenity and grace in an ocean of brutality.
+
+## The Sanctuary of Namira
+
+Beneath Markarth's respectable surface hides an even darker secret: a **cannibal cult** dedicated to the Daedric Princess **Namira**, Lady of Decay. This cult meets in the depths beneath the city's **Hall of the Dead**, where its members — apparently respectable citizens — feast on the flesh of the dead.
+
+The Hall of the Dead's priest, **Verulus**, is aware of suspicious activities but powerless to stop them. The cult is protected by secrecy and by the social standing of its members.
+
+## Economy and Resources
+
+Markarth draws its wealth primarily from its mines:
+- **Silver** — primary resource, extracted in large quantities
+- **Iron and steel** — for weapons and tools
+- **Gemstones** — found in deep veins
+- **Dwemer artifacts** — found in the ruins and sold at great prices
+
+Trade in leather, meat, and furs rounds out the economy, as the Reach is an important livestock region despite Forsworn raids. The **Silver-Blood Brewery** also produces mead and ale sold throughout western Skyrim.
+
+## The Markarth Guard
+
+The Markarth guard is notorious for its corruption and brutality. Partly funded by the Silver-Bloods, it serves the family's interests as much as those of the Jarl. Guards are quick to accuse and imprison on scant evidence, feeding the forced labor population of Cidhna Mine.
+
+A local saying summarizes the situation: *"No one escapes Cidhna Mine"* — a threat as much as a statement of fact, reminding anyone who disturbs the established order of the risk of ending up in the bowels of the mountain.
+
+## Cultural Significance
+
+Markarth is a microcosm of the tensions tearing Skyrim apart: the conflict between Nordic occupiers and indigenous peoples, the corruption of elites, the exploitation of workers, and the endemic violence that results. It is a magnificent city built on suffering, a monument to Dwemer ingenuity turned into the stage for human greed.
+
+The question of legitimacy — who has the right to govern the Reach? — remains unanswered. The Nords conquered the region by force, the Forsworn try to reclaim it by violence, and the Silver-Bloods profit from the chaos to enrich themselves. In this triangle of conflicts, it is the ordinary citizens who suffer most.

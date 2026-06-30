@@ -1,0 +1,63 @@
+---
+title: "La Guardia del Amanecer"
+slug: "dawnguard"
+era: "fourth-era"
+category: "guildes"
+tags: ["vampiros", "volkihar", "auriel", "serana", "harkon", "cazadores-de-vampiros"]
+timelineYear: 201
+summary: "La Guardia del Amanecer es una orden de cazadores de vampiros reformada en 4E 201 para contrarrestar la amenaza del clan Volkihar y su profecía de noche eterna."
+sources: ["Dawnguard Manifesto", "Immortal Blood", "The Aetherium Wars"]
+---
+
+# La Guardia del Amanecer
+
+## Orígenes Históricos
+
+La **Guardia del Amanecer** (*Dawnguard*) fue fundada originalmente durante la Segunda Era por los Jarls de Bordeciel como fuerza especializada en la erradicación de vampiros. Su fortaleza, el **Fuerte de la Guardia del Amanecer**, fue construida en un cañón remoto del Grifo para servir de base operacional.
+
+Sin embargo, la orden conoció un final trágico cuando su propio líder fue corrompido por el vampirismo. La vergüenza de este fracaso llevó a la disolución de la organización y al abandono de su fortaleza durante siglos. El Fuerte cayó en el olvido, cubierto por la vegetación y borrado de la memoria.
+
+## La Refundación en 4E 201
+
+Cuando los ataques de vampiros se multiplicaron por toda Bordeciel en 4E 201, un hombre llamado **Isran** tomó la iniciativa de refundar la orden. Antiguo Vigilante de Stendarr, Isran había abandonado los Vigilantes a quienes consideraba demasiado blandos frente a la amenaza de los no-muertos. Restauró el Fuerte de la Guardia del Amanecer y comenzó a reclutar combatientes decididos.
+
+Isran era un hombre duro, paranoico pero competente. Equipó a sus reclutas:
+- Con ballestas, armas particularmente eficaces contra los vampiros
+- Con conjuros de restauración ofensivos
+- Con trampas y fortificaciones especializadas
+- Con un entrenamiento intensivo en combate contra los no-muertos
+
+## La Amenaza del Clan Volkihar
+
+La refundación de la Guardia del Amanecer no fue precipitada. El **Clan Volkihar**, el linaje vampírico más antiguo y poderoso de Bordeciel, despertaba de una larga dormancia. Con base en un castillo ancestral sobre una isla helada frente a la costa norte, los Volkihar no eran vampiros ordinarios.
+
+Su señor, **Harkon**, era un antiguo rey nórdico que había obtenido el vampirismo puro directamente de **Molag Bal** — el Príncipe Daédrico creador del vampirismo — sacrificando a mil inocentes en un ritual de crueldad inimaginable. Harkon poseía la forma de **Señor Vampiro** (*Vampire Lord*), una transformación monstruosa que confería poderes inmensos.
+
+## La Profecía del Sol Ensangrentado
+
+La motivación de Harkon iba más allá de la simple depredación. El señor vampiro había descubierto una profecía antigua inscrita en un **Pergamino Anciano**: la **Profecía del Sol Ensangrentado**. Según esta profecía, un ritual específico permitiría **apagar el sol**, sumiendo al mundo en una noche eterna.
+
+Para los vampiros, eso significaba liberarse de su mayor debilidad. Sin sol, podrían reinar sin trabas, cazando a los mortales como ganado a cualquier hora. La profecía requería tres elementos:
+- Un **Pergamino Anciano** específico
+- El **Arco de Auriel** (*Auriel's Bow*), el arma legendaria del Dios-Dragón élfico
+- La sangre de una **Hija de Coldharbour** — una mortal ofrecida a Molag Bal
+
+## Serana: la Hija de Coldharbour
+
+La figura central de este conflicto fue **Serana**, la propia hija de Harkon. Transformada en vampira mediante el ritual de Molag Bal hace milenios, había sido sellada en un sarcófago con uno de los Pergaminos Ancianos por su madre **Valerica**, precisamente para impedir que Harkon completara la profecía.
+
+Serana emergió de su sueño desorientada en un mundo irreconocible. A pesar de su naturaleza vampírica, eligió oponerse a los planes de su padre, forjando una improbable alianza con el Sangre de Dragón y la Guardia del Amanecer. Su conflicto interior — entre la lealtad filial y el horror ante las ambiciones paternas — define el núcleo emocional de esta crisis.
+
+## El Arco de Auriel
+
+El **Arco de Auriel** es un artefacto de poder inconmensurable, forjado por los propios dioses. Según la mitología élfica, Auriel lo usó para abatir a Lorkhan en la Era del Alba, lanzando el corazón del dios caído a través del cielo. El arco posee un vínculo único con el sol — Magnus, el ojo del Mago que huyó de Aetherius.
+
+Recuperado en las ruinas del **Templo Olvidado** de Auriel tras una travesía por el **Valle Olvidado** (*Forgotten Vale*) — un santuario oculto de los Elfos de las Nieves (*Falmer*) antes de su degeneración —, el Arco se convirtió en la clave de todo el conflicto.
+
+## Resolución y Legado
+
+El conflicto se resolvió en los salones del Castillo Volkihar. Harkon, negándose a renunciar a su profecía, fue finalmente destruido por el Arco de Auriel, el arma misma que buscaba corromper. Su muerte quebró la cohesión del Clan Volkihar, siendo los supervivientes eliminados o dispersados.
+
+La Guardia del Amanecer, cumplido su objetivo principal, prosiguió su labor de vigilancia contra los vampiros en toda Bordeciel. Bajo la inflexible dirección de Isran, la orden recuperó su lugar como baluarte contra las tinieblas — un papel que había fallado en cumplir siglos atrás.
+
+El Arco de Auriel, por su parte, quedó en manos del Sangre de Dragón — un recordatorio de que incluso las armas de los propios dioses caminan a veces entre los mortales.

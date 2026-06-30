@@ -1,0 +1,132 @@
+---
+title: "The Red Year: The Destruction of Morrowind"
+slug: "annee-rouge"
+era: "fourth-era"
+category: "evenements"
+tags: ["red-year", "morrowind", "red-mountain", "dunmer", "argonians", "vvardenfell", "diaspora", "baar-dau"]
+timelineYear: 5
+summary: "In 4E 5, the catastrophic eruption of Red Mountain destroyed Vvardenfell and devastated Morrowind, triggering the Argonian invasion and the diaspora of the Dunmer people."
+sources: ["UESP: Red Year", "The Red Year vol. I & II (Melis Ravel)", "Events of TES III: Morrowind", "Adril Arano's dialogue (TES V: Dragonborn)"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## The Cataclysm
+
+The **Red Year** (4E 5) refers to the greatest natural catastrophe of the Fourth Era: the eruption of **Red Mountain** (Vvardenfell's sacred volcano) at the heart of the island of **Vvardenfell**, in Morrowind. This event transformed a millennial civilization into a people of refugees within the span of hours.
+
+### The Fall of Baar Dau
+
+The disaster had its origins in the **Baar Dau** moon (also known as the Ministry of Truth), a massive meteorite that the living god **Vivec** had suspended by the force of his will above the city of Vivec throughout the Third Era.
+
+After the disappearance of the Tribunal and the end of Vivec's divine power following the events of TES III, the meteorite was held in place only by the **Ingenium** — a magical device powered by souls. When the Ingenium was destroyed (events of TES IV: Oblivion, The Infernal City), Baar Dau resumed its inexorable fall.
+
+### The Impact and Eruption
+
+The impact of Baar Dau:
+- **Completely destroyed** the city of Vivec
+- Triggered the massive eruption of Red Mountain
+- Caused devastating tsunamis along the entire coast of Vvardenfell
+- Hurled ash and lava across the entire island
+
+## The Extent of the Devastation
+
+### Vvardenfell
+
+The island of Vvardenfell was **almost entirely destroyed**. The great cities — Vivec, Balmora, Ald'ruhn, Sadrith Mora — were buried under ash or swallowed whole. The population that could not flee perished in the firestorms and pyroclastic flows.
+
+### The Morrowind Mainland
+
+The mainland was not spared:
+- Ash rain fell for weeks
+- Crops were destroyed for years
+- Economic infrastructure collapsed
+- The Great Houses lost their ancestral lands
+
+| Region | Impact |
+|--------|--------|
+| Vvardenfell | Near-total destruction |
+| Western mainland coast | Tsunamis, severe devastation |
+| Interior regions | Ash rain, famine |
+| Solstheim | Massive volcanic ash, climate transformed |
+
+## The Argonian Invasion
+
+### The Context
+
+The **Argonians** (the reptilian people of Black Marsh) had been enslaved by the Dunmer for millennia, particularly by Great House Dres and Great House Telvanni. The hatred accumulated over generations finally found its outlet.
+
+### The Offensive
+
+A few months after the Red Year, while Morrowind still lay under ash, Argonian armies invaded the southern part of the land:
+- They seized the entire southern region of Morrowind
+- Great House Dres was **virtually annihilated**
+- Great House Telvanni suffered catastrophic losses
+- Only the intervention of **Great House Redoran** managed to stabilize a front line
+
+### The Role of the Hist
+
+Some sources suggest that the **Hist** — the mystical spirit-trees that guide the Argonians — had **foreseen** the catastrophe and prepared its people for the invasion, even recalling Argonians from Oblivion or distant lands to swell the army's ranks.
+
+## The Dunmer Diaspora
+
+### The Refugees
+
+Hundreds of thousands of Dunmer were forced into exile:
+- Many fled to **Skyrim**, settling primarily in **Windhelm** (the Gray Quarter)
+- Others went to **Solstheim**, where House Redoran established a colony around **Raven Rock**
+- Some journeyed to Cyrodiil or other provinces
+
+### The Gray Quarter of Windhelm
+
+In Windhelm, Dunmer refugees were packed into the **Gray Quarter** — a miserable ghetto where they suffered discrimination from the Nords. Despite decades of presence, they remained second-class citizens, subject to daily racism.
+
+### Solstheim and Raven Rock
+
+The Empire ceded the island of **Solstheim** to Morrowind as humanitarian aid. House Redoran established the colony of Raven Rock there, under the authority of a Councilor. Despite the ash that now covers the southern half of the island, the Dunmer rebuilt a community there.
+
+## Long-Term Consequences
+
+The Red Year irrevocably transformed the Dunmer people:
+
+1. **Collapse of the Great Houses** — The traditional political hierarchy was upended, with House Redoran becoming dominant through military strength
+2. **End of the Tribunal Temple** — The last vestiges of the Tribunal cult disappeared, replaced by a return to the worship of the **Ancestors** and the **Good Daedra** (the Reclamations)
+3. **Permanent diaspora** — The Dunmer became a dispersed people, present in every province but at home in none
+4. **Strengthened identity** — Despite (or because of) the tragedy, Dunmer cultural identity was forged stronger in adversity
+5. **Geopolitical weakening** — Morrowind ceased to be a significant political power in Tamrielic affairs
+
+## Legacy
+
+The Red Year remains, in 4E 201, the **founding wound** of the Fourth Era for the Dunmer people. Every refugee in the Gray Quarter, every miner in Raven Rock, carries within them the memory of that day when the sky turned red and the world of their ancestors collapsed in fire.
+
+## Causal Timeline
+
+The Red Year is a central link in the chain of catastrophes of the Fourth Era:
+
+### What Caused the Red Year
+
+<CausalChain items={[
+  { text: "Battle of Red Mountain (1E 700)", link: "/chronologie/first-era/bataille-montagne-rouge" },
+  { text: "The Tribunal uses the Heart of Lorkhan → Vivec suspends Baar Dau", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "Nerevarine Prophecy → Death of Dagoth Ur (3E 427)", link: "/chronologie/third-era/nerevarine", indent: 1 },
+  { text: "Loss of the Tribunal's power → Vivec disappears", indent: 1 },
+  { text: "The Ingenium holds Baar Dau artificially", indent: 1 },
+  { text: "Oblivion Crisis (3E 433) → Chaos → Ingenium destroyed", link: "/chronologie/third-era/crise-oblivion", indent: 1 },
+  { text: "RED YEAR (4E 5)", indent: 1 }
+]} />
+
+### What the Red Year Caused
+
+<CausalChain items={[
+  { text: "RED YEAR (4E 5)" },
+  { text: "Morrowind devastated → Argonian invasion", indent: 1 },
+  { text: "Dunmer diaspora → Gray Quarter of Windhelm → Racial tensions", link: "/chronologie/fourth-era/vendeaume", indent: 1 },
+  { text: "Morrowind out of politics → Empire even weaker", indent: 1 },
+  { text: "Solstheim ceded → Isolated Dunmer colony", link: "/chronologie/fourth-era/solstheim", indent: 1 },
+  { text: "House Redoran dominant → Dunmer politics militarized", link: "/chronologie/first-era/grandes-maisons-dunmer", indent: 1 },
+  { text: "Return to the cult of the Reclamations (Azura, Boethiah, Mephala)", indent: 1 }
+]} />
+
+The Red Year is the ultimate consequence of an act committed 3700 years earlier — the Tribunal stealing power from the Heart of Lorkhan. The price of usurped divinity was ultimately paid by millions of innocents.

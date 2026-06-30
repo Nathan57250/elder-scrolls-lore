@@ -1,0 +1,56 @@
+---
+title: "Labyrinthian"
+slug: "labyrinthian"
+era: "fourth-era"
+category: "lieux"
+tags: ["labyrinthian", "magnus", "staff-of-magnus", "morokei", "bromjunaar", "college-of-winterhold"]
+timelineYear: 201
+summary: "Labyrinthian, an ancient Nordic complex housing the Staff of Magnus, a place of power linked to the Dragon Cult and Arch-Mage Savos Aren."
+sources: ["College of Winterhold Questline", "Lost Legends", "Shalidor's Insights", "Amongst the Draugr"]
+---
+
+## Bromjunaar, the Forgotten City
+
+**Labyrinthian** is a vast complex of ruins located in the mountains southeast of Morthal, in the hold of Hjaalmarch. Once known as **Bromjunaar**, this city was the capital of the **Dragon Cult** during the Merethic Era — the political and religious center from which Dragon Priests administered their domains in the name of their winged masters.
+
+At its height, Bromjunaar housed the greatest concentration of Dragon Priests in all of Skyrim. The **Wooden Sanctuary** at its center served as a meeting place where the most powerful Priests gathered to deliberate on matters of the cult, arbitrate territorial disputes, and coordinate the draconic domination of the Nordic populations.
+
+## Architecture and Structure
+
+The Labyrinthian complex is immense, comprising several distinct zones connected by underground passages and open-air courtyards. The architecture blends ancient Nordic style — great rough-hewn stone blocks, massive arches, monumental stairways — with the characteristic elements of Dragon Cult temples: dragon altars, bas-reliefs narrating the glory of the winged masters, and deadly traps designed to protect sacred treasures.
+
+The main sectors include the **Labyrinthian** proper — a maze of trapped corridors and burial chambers — as well as annexed areas such as the **Ceremonial Passage** and the throne room of **Morokei**. Each section was designed not only as a place of worship but also as a tomb, meant to preserve the Dragon Priests in undeath for eternity.
+
+## The Dragon Priest Morokei
+
+**Morokei**, whose name means "Glorious" in the draconic tongue, was one of the most powerful Dragon Priests. A master of the arcane arts, he was the guardian of the **Staff of Magnus** — an artifact of considerable power linked to the god **Magnus**, the Architect of Mundus who fled to Aetherius before the completion of Creation.
+
+Morokei was trapped in a state of suspension between life and death, maintained by two entomancer specters whose life energy fed his prison. His mask — one of the eight enchanted Dragon Priest masks — grants its wearer prodigious magical regeneration, testament to the deeply arcane nature of this guardian.
+
+## The Staff of Magnus
+
+The **Staff of Magnus** is an artifact of the highest importance, created — according to legend — by **Magnus** himself or in his honor. Its exact powers are debated by scholars, but its ability to absorb and manipulate magical energy is undeniable. The Staff can drain an opponent's magicka, dispel magical barriers of extraordinary power, and channel raw arcane forces.
+
+In 4E 201, the Staff became the object of a vital quest when **Ancano**, a **Thalmor** agent who had infiltrated the **College of Winterhold**, attempted to use the **Eye of Magnus** — a mysterious orb of power discovered beneath **Saarthal** — to acquire limitless power. Only the Staff of Magnus could counter the Eye and neutralize the threat Ancano posed to all of Skyrim.
+
+## Savos Aren and the Tragedy of Labyrinthian
+
+Arch-Mage **Savos Aren** of the College of Winterhold carried a terrible secret tied to Labyrinthian. Decades before the events of 4E 201, when he was still a student, Savos and a group of six fellow students had attempted to explore the complex in search of glory and knowledge. The expedition turned to disaster: one by one, the students perished at the hands of draugr, traps, and the horrors that populated the ruins.
+
+In the end, only Savos survived — but at the cost of a terrible act. To contain Morokei within his burial chamber, he sacrificed the two last survivors of his group, **Hafnar Ice-Fist** and **Elvali Veren**, transforming them into bound spectres whose energy kept the Dragon Priest imprisoned. This secret haunted Savos for the rest of his life and explains why he sent another to retrieve the Staff rather than returning himself.
+
+## The Role in the College Quest
+
+Recovering the Staff of Magnus from the heart of Labyrinthian constitutes the climactic trial of the **College of Winterhold** questline. The exploration demands traversing the entire complex, confronting draugr, frost trolls, spectres, and mechanical traps before facing Morokei himself.
+
+Victory over Morokei frees the souls of Hafnar and Elvali — ending their decades-long spectral torment — and allows one to claim the Staff. Returning to the College with the artifact makes it possible to neutralize Ancano and the Eye of Magnus, saving Winterhold and potentially all of Tamriel from a magical catastrophe.
+
+## The Eye of Magnus and Saarthal
+
+The connection between Labyrinthian, the **Staff of Magnus**, and the **Eye of Magnus** discovered beneath **Saarthal** suggests a network of power sites linked to the architect god. Magnus, who designed the blueprints of Mundus before fleeing to Aetherius by tearing the sky — creating the Sun — left behind artifacts whose power surpasses mortal comprehension.
+
+The **Psijic Order**, a mysterious mage brotherhood from Artaeum, intervened to remove the Eye of Magnus from the mortal world following Ancano's defeat, judging that mortals were not ready to wield such power. This intervention confirms the cosmic importance of these artifacts.
+
+## Legacy
+
+Labyrinthian remains one of Skyrim's most dangerous and most fascinating sites. Its ruins still conceal countless secrets — unexplored halls, collapsed passages, and sealed chambers whose contents remain unknown. For archaeologists and mages, it represents an invaluable source of knowledge; for the unwary, a certain tomb.

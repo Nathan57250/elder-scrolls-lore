@@ -1,0 +1,94 @@
+---
+title: "The Vigilants of Stendarr"
+slug: "vigiles-de-stendarr"
+era: "fourth-era"
+category: "guildes"
+tags: ["vigilants", "stendarr", "daedra", "vampires", "werewolves", "undead", "militant order"]
+timelineYear: 10
+summary: "The Vigilants of Stendarr are a militant order dedicated to the eradication of Daedra, undead, werewolves, and vampires — founded after the Oblivion Crisis to protect mortals."
+sources: ["UESP: Vigilants of Stendarr", "The Imperial Library: Orders of Tamriel"]
+---
+
+## Foundation
+
+The **Vigilants of Stendarr** were founded at the beginning of the Fourth Era, directly in response to the **Oblivion Crisis** (3E 433). After hundreds of Oblivion gates opened across Tamriel, the civilian population came to realize how vulnerable it was to supernatural forces.
+
+The order was born from the determination of Stendarr's priests — the Divine of Mercy — to **actively protect** mortals rather than simply pray on their behalf.
+
+## Mission
+
+> "Stendarr bestows mercy upon mortals. We are the armored hand of that mercy."
+
+The Vigilants hunt and eliminate:
+- **Daedra** — summoned creatures and Daedric cultists
+- **Vampires** — bloodsucking undead
+- **Werewolves** — lycanthropes of all kinds
+- **Undead** — draugr, skeletons, spectres
+- **Witches** — practitioners of Daedric magic
+
+## Organization
+
+### Structure
+- No rigid military hierarchy
+- **Warden** — leader of a regional hall
+- **Vigilant** — active patrolling member
+- **Novice** — in training
+
+### Hall of the Vigilant
+In Skyrim, their base was the **Hall of the Vigilant** — a modest building in the Pale. In 4E 201, it was **destroyed by the vampires of Clan Volkihar**, a tragic demonstration of the order's limitations.
+
+## Methods
+
+### Combat
+- Anti-undead spells (Turn Undead, solar blessings)
+- Silver weapons against werewolves
+- Offensive Restoration magic
+- Stakes, garlic, and consecrations against vampires
+
+### Investigation
+- Regular road patrols
+- Investigations into suspicious disappearances
+- Infiltration of Daedric cults
+- Interrogations (sometimes brutal)
+
+## Philosophy
+
+The Vigilants operate according to a strict code:
+- **No** tolerance for hostile supernatural entities
+- Mercy applies to **mortals** — not abominations
+- No distinction between "good" and "evil" Daedra
+- A "repentant" vampire is still a vampire to be eliminated
+- Daedric artifacts must be destroyed or locked away
+
+### The Moral Limits
+This intransigence raises difficult questions:
+- Does a werewolf who controls the beast deserve death?
+- Is a vampire who does not kill still an enemy?
+- Is the destruction of a Daedric artifact always possible or desirable?
+
+## In Skyrim (4E 201)
+
+The Vigilants are present but **ill-equipped**:
+- Road patrols, often in small groups of 2–3
+- Immediate hostility toward werewolves and vampires
+- Destruction by Clan Volkihar → collaboration with the Dawnguard
+- Members scattered after the destruction of their hall
+
+## Relations
+
+| Faction | Relation |
+|---------|----------|
+| Dawnguard | Natural allies (anti-vampire) |
+| Companions | Potential conflict (Circle's lycanthropy) |
+| College of Winterhold | Distrust (conjuration = Daedric?) |
+| Thalmor | Mutual tolerance (common enemy: Daedra) |
+| Dark Brotherhood | Enemy (Sithis = Daedric force) |
+
+## Weaknesses
+
+The order suffers from several limitations:
+- **Under-equipped** — no solid imperial funding
+- **Fanaticism** — intransigence alienates potential allies
+- **Lack of nuance** — some cases are not black and white
+- **Small numbers** — insufficient against massive threats
+- **Vulnerability** — as proved by the Volkihar attack

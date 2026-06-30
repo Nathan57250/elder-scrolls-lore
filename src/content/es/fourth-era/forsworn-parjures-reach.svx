@@ -1,0 +1,75 @@
+---
+title: "Los Parjures del Ciel d'Automne"
+slug: "forsworn-parjures-reach"
+era: "fourth-era"
+category: "politique"
+tags: ["parjures", "ciel-automne", "corvosangs", "ravesorcières", "markarth", "guerrilla"]
+timelineYear: 176
+summary: "Historia de los Parjures, pueblo nativo del Ciel d'Automne que libra una implacable guerra de guerrillas para reconquistar su tierra ancestral frente a la dominación nórdica."
+sources: ["The Bear of Markarth", "The Legend of Red Eagle", "Madanach's Journal", "The 'Madmen' of the Reach"]
+---
+
+# Los Parjures del Ciel d'Automne
+
+## Un pueblo milenario
+
+Los **Parjures** (Forsworn) — o más precisamente los **Hombres del Ciel d'Automne** (Reachmen) — no son simples bandidos o rebeldes, al contrario de lo que la propaganda imperial y nórdica querría hacernos creer. Constituyen un pueblo distinto, heredero de una cultura milenaria enraizada en los escarpados valles y las brumosas mesetas del **Ciel d'Automne** (The Reach), una región en la frontera entre Bordeciel y Alta Roca.
+
+Su linaje se remonta a la Era Merética, cuando los primeros Nédicos se asentaron en esta región hostil y se adaptaron a su entorno implacable. A lo largo de los milenios desarrollaron una cultura única, mezclando tradiciones nédicas, influencias bretonas y prácticas mágicas propias de su tierra salvaje. Ni verdaderamente nórdicos, ni bretones, ni imperiales, los Hombres del Ciel d'Automne siempre han existido en un entre-dos cultural y político.
+
+## La religión del Viejo Espíritu
+
+La espiritualidad de los Parjures diverge radicalmente de los panteones convencionales de Tamriel. Veneran a los **Dioses Antiguos** (Old Gods) — un conjunto de divinidades y espíritus de la naturaleza que preceden a la llegada de los Ocho Divinos e incluso al culto daédrico organizado. Entre estas entidades:
+
+- **Hircine**, el Príncipe Daédrico de la Caza, ocupa un lugar central en su cosmología como encarnación de la supervivencia y la depredación natural
+- **Namira**, asociada a la descomposición y al ciclo de la muerte, es venerada más que temida
+- Los **Espíritus de la Tierra** — entidades ligadas a los ríos, montañas y bosques del Ciel d'Automne
+- **El Águila Roja** (Red Eagle), héroe legendario convertido en figura casi divina
+
+Esta religión no es un primitivismo ignorante sino un sistema teológico coherente que considera la naturaleza sagrada y rechaza la domesticación de lo divino propuesta por los cultos imperiales.
+
+## Las Ravesorcières (Hagravens)
+
+Las **Ravesorcières** constituyen el elemento más terrorífico y más incomprendido de la cultura parjure. Estos seres — en su día mujeres mortales — han sacrificado voluntariamente su humanidad mediante un ritual de transformación que las fusiona con la naturaleza salvaje y corrompida del Ciel d'Automne.
+
+El proceso de transformación implica:
+- El abandono ritual de todo vínculo humano
+- Una serie de pruebas físicas y mágicas devastadoras
+- La fusión mágica con elementos aviares y vegetales
+- La adquisición de considerables poderes mágicos a cambio de la belleza y la mortalidad ordinaria
+
+Las Ravesorcières sirven como matriarcas espirituales, sanadoras, consejeras y comandantes militares dentro de los clanes parjures. Su autoridad es absoluta en los asuntos rituales, y hasta los jefes de guerra más feroces les muestran deferencia.
+
+## Los Corvosangs (Briarhearts)
+
+Si las Ravesorcières representan el poder femenino sagrado de los Parjures, los **Corvosangs** encarnan la élite guerrera masculina. El ritual de creación de un Corvosang es uno de los más extremos de todo Tamriel:
+
+El corazón del guerrero voluntario es **literalmente arrancado** de su pecho y reemplazado por un **corazón de brezo** — un órgano vegetal encantado, creado y consagrado por una Ravesorcière. Este corazón mágico confiere al guerrero una fuerza y resistencia sobrehumanas, una resistencia al dolor y una profunda conexión con las fuerzas naturales del Ciel d'Automne.
+
+El precio es terrible: el Corvosang pierde parte de su humanidad emocional, convirtiéndose en una máquina de guerra casi imparable. Si el corazón de brezo es arrancado o destruido, el guerrero muere al instante — una vulnerabilidad que sus enemigos han aprendido a explotar.
+
+## El Incidente de Markarth
+
+El evento central de la historia parjure reciente es el **Incidente de Markarth** (4E 174-176). Aprovechando la Gran Guerra entre el Imperio y el Dominio Aldmeri que movilizaba todas las fuerzas imperiales, los Hombres del Ciel d'Automne se levantaron bajo el liderazgo de **Madanach**, el Rey en Harapos.
+
+En 4E 174, tomaron el control de **Markarth**, la gran ciudad de piedra dwemer del Ciel d'Automne, y establecieron un gobierno independiente. Durante dos años, el Ciel d'Automne conoció una forma de autodeterminación — breve pero significativa. Los Parjures gobernaron según sus propias leyes y tradiciones, un reino efímero nacido del caos de la guerra.
+
+En 4E 176, el Jarl Hrolfdir de Markarth solicitó la ayuda de **Ulfric Tormenta** y su milicia nórdica para retomar la ciudad. La reconquista fue sangrienta e implacable. Ulfric exigió a cambio la libertad de culto de Talos — una exigencia que, cuando fue revelada al Thalmor, desencadenó una crisis diplomática conocida como el **Incidente de Markarth**, contribuyendo directamente a las tensiones que llevarían a la guerra civil de Bordeciel.
+
+Madanach fue encarcelado en las minas de Cidhna, convertido en esclavo en las entrañas de la ciudad que brevemente había gobernado.
+
+## La guerra de guerrillas
+
+Desde su derrota en Markarth, los Parjures libran una guerra de guerrillas sin cuartel contra la ocupación nórdica. Su estrategia descansa en:
+
+- **El terreno**: los valles estrechos, los acantilados vertiginosos y las innumerables cuevas del Ciel d'Automne ofrecen una considerable ventaja defensiva
+- **La movilidad**: los campamentos parjures son temporales y fácilmente desplazables
+- **El terror**: los ataques contra viajeros y puestos nórdicos buscan hacer el territorio ingobernable
+- **La magia**: las Ravesorcières proporcionan apoyo mágico que las guarniciones nórdicas no pueden igualar
+- **El fanatismo**: los Corvosangs y los guerreros consagrados no conocen ni el miedo ni la rendición
+
+## Legado y cuestión política
+
+La cuestión parjure sigue siendo uno de los problemas políticos más insolubles de Bordeciel. Para los nórdicos, los Parjures son salvajes, adoradores de daedra y terroristas. Para los Parjures mismos, son un pueblo colonizado que libra una guerra de liberación legítima sobre su propia tierra ancestral.
+
+La verdad, como tantas veces, se sitúa en una zona gris que ni el Imperio, ni los nórdicos, ni los propios Parjures desean reconocer. El Ciel d'Automne sigue siendo una tierra de sangre y niebla, donde la paz parece tan inalcanzable como los picos que la dominan.

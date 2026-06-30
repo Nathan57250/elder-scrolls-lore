@@ -1,0 +1,158 @@
+---
+title: "La Gran Guerra"
+slug: "grande-guerre"
+era: "fourth-era"
+category: "evenements"
+tags: ["gran-guerra", "thalmor", "imperio", "dominio-aldmeri", "concordato-oro-blanco", "talos", "titus-mede-ii", "batalla-anillo-rojo"]
+timelineYear: 171
+summary: "El conflicto mayor de la Cuarta Era (4E 171–175) entre el Dominio Aldmeri y el Imperio, concluido con el Concordato del Oro Blanco que prohibió el culto a Talos."
+sources: ["UESP: Great War", "The Great War (Legate Justianus Quintius)", "Events of TES V: Skyrim", "Rising Threat"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Contexto Geopolítico
+
+La **Gran Guerra** (4E 171 — 4E 175) fue el conflicto más devastador de la Cuarta Era, enfrentando al **Imperio de Cyrodiil** bajo Titus Mede II contra el **Segundo Dominio Aldmeri** dirigido por el Thalmor. Este conflicto redibujó el mapa político de Tamriel y sembró las semillas de la Guerra Civil de Cielos de Hielo.
+
+### El Imperio Debilitado
+
+En los albores del conflicto, el Imperio no era más que una sombra de su esplendor Septim:
+- La dinastía Septim se había extinguido con Martin en 3E 433
+- La dinastía **Mede** gobernaba, pero sin la legitimidad divina de los Septim
+- **Hammerfell** y el Imperio mantenían una relación tensa
+- Morrowind, devastada por el Año Rojo, no podía contribuir militarmente
+- Black Marsh se había retirado de facto del Imperio
+
+### El Dominio Aldmeri en su Apogeo
+
+El Thalmor había pasado siglo y medio:
+- Consolidando su poder sobre el Archipiélago de Summerset
+- Absorbiendo Valenwood mediante un golpe de estado
+- Coopatando Elsweyr tras las Noches del Vacío
+- Construyendo un ejército formidable y disciplinado
+- Infiltrando el Imperio mediante una red de espías
+
+## El Ultimátum (4E 171)
+
+En 4E 171, el Thalmor presentó al Emperador **Titus Mede II** un ultimátum que exigía:
+
+1. La **prohibición total** del culto a Talos en todo el Imperio
+2. La **disolución** de las Hojas
+3. La **cesión** de vastos territorios en Hammerfell al Dominio
+4. El pago de **tributo** anual al Dominio Aldmeri
+
+El Emperador se negó. Ese mismo día, un embajador del Thalmor depositó ante él las cabezas de todos los agentes de las Hojas en territorio Aldmeri. Comenzó la guerra.
+
+## Desarrollo del Conflicto
+
+### Primera Fase: La Ofensiva Aldmeri (4E 171–172)
+
+El Dominio golpeó simultáneamente en dos frentes:
+
+**Frente de Cyrodiil:**
+- Los ejércitos aldmeri invadieron desde el sur, atravesando Valenwood
+- El general del Thalmor **Naarifin** lideró el avance principal
+- Las defensas imperiales del sur fueron desbordadas
+
+**Frente de Hammerfell:**
+- Un segundo ejército atacó Hammerfell por la costa
+- Varias ciudades costeras cayeron rápidamente
+- Los Reguardias opusieron una feroz resistencia
+
+### La Caída de la Ciudad Imperial (4E 174)
+
+El momento más oscuro de la guerra llegó en **4E 174**:
+- El general Naarifin sitió y tomó la **Ciudad Imperial**
+- El Emperador Titus Mede II se vio obligado a **huir** hacia el norte
+- El Templo del Único y el Palacio Imperial fueron profanados
+- La propia **Torre del Oro Blanco** cayó en manos del Thalmor
+- Las atrocidades cometidas durante el Saqueo de la Ciudad Imperial quedaron grabadas en la memoria colectiva
+
+### La Batalla del Anillo Rojo (4E 175)
+
+La contraofensiva decisiva del Imperio fue una obra maestra táctica:
+
+| Fuerza | Comandante | Papel |
+|--------|-----------|-------|
+| Ejército del Norte | Titus Mede II | Ataque frontal desde el norte |
+| Ejército del Oeste | General Decianus (llamado desde Hammerfell) | Envolvimiento por el oeste |
+| Nueva Legión | General Jonna (venida de Cielos de Hielo) | Ataque por el este |
+
+El ejército de Naarifin fue **completamente rodeado** alrededor del lago Rumare. En un día de feroz combate:
+- El ejército aldmeri central fue aniquilado
+- El general Naarifin fue capturado (y según algunas fuentes, colgado en lo alto de la Torre del Oro Blanco durante 33 días)
+- La Ciudad Imperial fue liberada
+
+Sin embargo, la victoria tuvo un **coste terrible** — las legiones imperiales quedaron diezmadas e incapaces de continuar la guerra.
+
+## El Concordato del Oro Blanco
+
+### La Decisión Controvertida
+
+A pesar de la victoria en el Anillo Rojo, el Emperador Titus Mede II eligió **negociar la paz** — una decisión que sigue siendo controvertida. El Imperio ya no tenía fuerzas para continuar luchando, y el Dominio aún disponía de reservas.
+
+### Los Términos del Tratado
+
+El Concordato del Oro Blanco, firmado en **4E 175**, impuso:
+
+1. **La prohibición del culto a Talos** en todo el Imperio — el Noveno Divino fue retirado del panteón oficial
+2. **La disolución de las Hojas** — la antigua orden encargada de proteger al Emperador fue abolida oficialmente
+3. **La cesión de territorios** en el sur de Hammerfell al Dominio Aldmeri
+4. **La autorización** para que los Justiciares del Thalmor operaran en territorio imperial para hacer cumplir la prohibición
+5. **Libre circulación** de los agentes del Thalmor en todo el Imperio
+
+### Las Reacciones
+
+- **Hammerfell** rechazó los términos y se **separó** del Imperio antes que aceptar la cesión territorial, combatiendo sola durante cinco años adicionales hasta alcanzar el statu quo
+- **Cielos de Hielo** aceptó oficialmente pero con una rabia creciente — los nórdicos veían a Talos como su héroe nacional
+- Las **provincias orientales** (Morrowind, Black Marsh) ya estaban fuera de la órbita imperial
+
+## Consecuencias
+
+### La Prohibición de Talos
+
+La prohibición del culto a Talos se convirtió en el principal agravio de los nórdicos contra el Imperio:
+- Los santuarios de Talos fueron destruidos o abandonados
+- Los sacerdotes fueron obligados a la clandestinidad
+- Los Justiciares del Thalmor arrestaron y torturaron a los fieles
+- La furia nórdica alimentó directamente la rebelión de los Capas de Tormenta
+
+### El Debilitamiento del Imperio
+
+La Gran Guerra dejó al Imperio:
+- Militarmente exhausto e incapaz de proyectar fuerza
+- Territorialmente reducido (pérdida de Hammerfell, autonomía de facto de varias provincias)
+- Políticamente humillado ante sus naciones vasallas
+- Infiltrado por agentes del Thalmor hasta en sus instituciones
+
+### Las Semillas de la Guerra Civil
+
+La frase de **Ulfric Capa de Tormenta** resume el sentimiento nórdico: *"El Imperio no es más que un títere de los Elfos."* La Gran Guerra y el Concordato son las causas directas de la Guerra Civil de Cielos de Hielo que estalló en 4E 201.
+
+## Perspectiva Estratégica
+
+Algunos analistas del lore sugieren que el Concordato no fue más que una **tregua**, no una paz verdadera. El Thalmor busca debilitar al Imperio lo suficiente para asestar el golpe final, mientras el Imperio espera ganar el tiempo necesario para reconstituir sus fuerzas. La Guerra Civil de Cielos de Hielo sirve perfectamente a los intereses del Thalmor — dividiendo al Imperio desde dentro.
+
+## Cronología Causal
+
+La Gran Guerra forma parte de una cadena de eventos más amplia:
+
+<CausalChain items={[
+  { text: "Crisis de Oblivion (3E 433) → Fin de los Septim", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "17 años de crisis de sucesión", indent: 1 },
+  { text: "Dinastía Mede (sin legitimidad divina)", indent: 1 },
+  { text: "Debilitamiento estructural del Imperio", indent: 1 },
+  { text: "El Thalmor explota el vacío (toma del poder en Alinor, 4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 1 },
+  { text: "Absorción de Valenwood y Elsweyr (4E 29–115)", link: "/chronologie/fourth-era/nuits-du-vide", indent: 1 },
+  { text: "GRAN GUERRA (4E 171–175)", indent: 1 },
+  { text: "Concordato del Oro Blanco (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc", indent: 1 },
+  { text: "Prohibición de Talos → Radicalización de Ulfric", indent: 2 },
+  { text: "Incidente de Markarth (4E 176)", link: "/chronologie/fourth-era/incident-markarth", indent: 2 },
+  { text: "Asesinato de Torygg (4E 201) → Guerra Civil", link: "/chronologie/fourth-era/guerre-civile-bordeciel", indent: 2 },
+  { text: "Regreso de Alduin (4E 201) → Regreso del Sangre de Dragón", link: "/chronologie/fourth-era/alduin", indent: 1 }
+]} />
+
+El Thalmor juega a largo plazo — cada evento refuerza su posición. El Imperio se fractura desde dentro exactamente como ellos esperaban.

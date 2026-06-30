@@ -1,0 +1,88 @@
+---
+title: "El Colegio de Invernalia"
+slug: "college-fortdhiver"
+era: "fourth-era"
+category: "guildes"
+tags: ["colegio", "invernalia", "magia", "archimago", "savos-aren", "ancano"]
+timelineYear: 201
+summary: "El Colegio de Invernalia es la última institución importante de enseñanza mágica en Bordeciel — un bastión del saber en una provincia hostil a la magia."
+sources: ["UESP: College of Winterhold", "The Imperial Library: History of Winterhold"]
+---
+
+## Presentación
+
+El **Colegio de Invernalia** (College of Winterhold) está enclavado en un promontorio aislado al borde del Mar de los Fantasmas, unido a la ciudad por un puente estrecho y vertiginoso. Es la única institución de enseñanza mágica de Bordeciel — y una de las pocas en subsistir tras la disolución del Gremio de Magos en 4E 1.
+
+## Historia
+
+### Fundación
+El Colegio fue fundado en la Primera Era por **Shalidor** — un archimago legendario capaz, según se dice, de construir ciudades enteras mediante la magia. Deseaba crear un lugar de estudio dedicado a todas las formas de magia, libre de constricciones políticas.
+
+### El Gran Derrumbe (4E 122)
+El evento más traumático en la historia del Colegio:
+- Una catástrofe natural (¿o mágica?) engulló la mayor parte de la ciudad de Invernalia
+- Los acantilados se derrumbaron en el mar, arrastrando barrios enteros
+- El Colegio **sobrevivió** intacto sobre su promontorio
+- Los habitantes acusaron a los magos de ser los responsables
+- Desde entonces, el Colegio está aislado y despreciado por la población local
+
+### 4E 201 — El Incidente del Ojo de Magnus
+- Descubrimiento del **Ojo de Magnus** en las ruinas de Saarthal
+- El Thalmor **Ancano** intentó apoderarse de su poder
+- El Báculo de Magnus fue necesario para neutralizarlo
+- El Archimago **Savos Aren** murió durante la crisis
+- El Último Sangre de Dragón se convirtió potencialmente en el nuevo Archimago
+
+## Organización
+
+### Jerarquía
+| Título | Responsabilidad |
+|--------|----------------|
+| Archimago | Dirección suprema del Colegio |
+| Mago Maestro | Segundo, gestión cotidiana |
+| Mago Experto | Responsable de una escuela de magia |
+| Mago | Miembro diplomado |
+| Aprendiz | Estudiante avanzado |
+| Novicio | Estudiante principiante |
+
+### Los Departamentos (4E 201)
+- **Destrucción** — Maestra Faralda (Altmer)
+- **Conjuración** — Maestro Phinis Gestor (Bretón)
+- **Restauración** — Maestra Colette Marence (Bretona)
+- **Alteración** — Maestro Tolfdir (Nórdico)
+- **Ilusión** — Maestro Drevis Neloren (Dunmer)
+- **Encantamiento** — Maestro Sergius Turrianus (Imperial)
+
+## Arquitectura
+
+El Colegio está organizado en varios edificios:
+- **Hall of the Elements** — sala principal de práctica, donde se expuso el Ojo de Magnus
+- **Hall of Attainment** — dormitorios de los estudiantes
+- **Hall of Countenance** — aposentos de los maestros
+- **Arcanaeum** — la biblioteca, gestionada por el Orco Urag gro-Shub
+- **The Midden** — sótanos oscuros, lugar de experimentos prohibidos
+- **Torre del Archimago** — aposentos privados del dirigente
+
+## El Conflicto con Bordeciel
+
+El Colegio es **odiado** por la mayoría de los nórdicos:
+- Desconfianza cultural hacia la magia (tradición nórdica)
+- Acusación de responsabilidad en el Gran Derrumbe
+- Los Sombrages ven el Colegio como un nido de extranjeros
+- Solo la necesidad de investigación mágica lo mantiene tolerado
+
+A pesar de esta hostilidad, el Colegio acepta estudiantes de **todas las razas** — un cosmopolitismo poco frecuente en Bordeciel.
+
+## Artefactos Notables
+
+- **Ojo de Magnus** — orbe de inmenso poder ligado a Magnus, arquitecto de Mundus
+- **Báculo de Magnus** — necesario para controlar el Ojo
+- **Amuleto de Gauldur** — reconstruido en las profundidades de Saarthal
+- **Amuleto de Savos Aren** — vestigio del Archimago caído
+
+## Relaciones Exteriores
+
+- **Psíjicos** — los escasos contactos con la Orden Psíjica tienen lugar en el Colegio
+- **Thalmor** — Ancano era un "consejero" (espía) impuesto por el Dominio Aldmeri
+- **Imperio** — apoyo distante; el Colegio es técnicamente independiente
+- **Jarl de Invernalia** — Korir detesta el Colegio pero nada puede hacer

@@ -1,0 +1,123 @@
+---
+title: "The Rise of the Thalmor"
+description: "The Thalmor's rise to power in the Summerset Archipelago and the formation of the Second Aldmeri Dominion, from 4E 22 to 4E 171"
+era: "fourth-era"
+category: "politique"
+timelineYear: 22
+tags: ["thalmor", "aldmeri-dominion", "altmer", "great-war", "white-gold-concordat", "talos", "alinor"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Rise of the Thalmor (4E 22–171)
+
+The Thalmor's ascendancy represents one of the most profound geopolitical transformations of the Fourth Era. From a fringe political movement, the Thalmor became the dominant force of the Summerset Archipelago, then the heart of the Second Aldmeri Dominion — a power capable of bringing the Empire to its knees and imposing its terms on the entire world. This rise was not the product of chance, but the methodical exploitation of a global catastrophe.
+
+## Origins and Causes
+
+### The Oblivion Crisis and Its Devastation (3E 433)
+
+The Oblivion Crisis of 3E 433 devastated every nation in Tamriel. Portals to the Daedric planes opened across the entire continent, pouring out armies of Daedra. The Septim Empire, already weakened by decades of instability, lost its ruling dynasty during these events — Martin Septim sacrificed himself to close the barriers between worlds, ending the Septim bloodline and the ancient magic of the Dragonfires.
+
+The Summerset Archipelago, homeland of the Altmer, suffered terribly. The Summerset Isles were ravaged by Daedric invasions, and the traditional defensive forces — the monarchy, the Psijic Order, the mages' guilds — proved unable to effectively protect the population.
+
+### Altmer Supremacist Ideology
+
+The Thalmor existed long before the Oblivion Crisis as a political faction within Altmer society. Its ideology rested on several pillars: the racial superiority of the Altmer as direct descendants of the original Aldmer, rejection of the human Imperial order as an aberration, and — for initiates — a radical theology aimed at "undoing" Creation itself to allow the Mer to return to their original divine state.
+
+This ideology, long marginal in a relatively cosmopolitan Altmer society, found fertile ground in the trauma of the Oblivion Crisis. The sense that existing institutions had failed to protect the Altmer people opened the door to extremists.
+
+### The Claim of Closing the Portals
+
+The Thalmor's masterstroke of propaganda was to claim credit for closing the Oblivion portals in the Summerset Archipelago. According to their version, it was Thalmor mages who had driven back the Daedra and saved the Summerset Isles — not the Empire, not the Divines, but the Thalmor alone.
+
+The truth of this claim is impossible to verify. What is certain is that it was believed by a traumatized population desperately seeking heroes and saviors. The Thalmor offered a simple and powerful narrative: "We saved you when no one else could."
+
+### The Collapse of Imperial Authority
+
+The death of Martin Septim left a colossal power vacuum. The Empire, without an emperor of divine blood, lost much of its mystical legitimacy. The Dragonfires were extinguished forever. The peripheral provinces began to stir, questioning their allegiance to an Empire that could no longer protect them.
+
+In the Summerset Archipelago, separatist sentiment exploded. Why should the Altmer, the oldest and most noble of peoples, obey a decadent human empire that had just proven its inability to maintain order?
+
+## The Event: The Thalmor's Ascension
+
+### The Coup (4E 22)
+
+In 4E 22, the Thalmor overthrew the government of the Summerset Isles. The exact details of this coup remain obscure — purges, political assassinations, mass imprisonments of opponents. Moderate Altmer, Imperial sympathizers, and anyone who opposed the Thalmor's ideology were eliminated or silenced.
+
+The Summerset Archipelago was renamed "Alinor," reclaiming its ancient Elvish name — a symbol of the rejection of Imperial influence even in its place names. The Thalmor established an authoritarian regime, controlling all aspects of Altmer society.
+
+### The Formation of the Second Aldmeri Dominion
+
+The Thalmor was not content to control Alinor. In 4E 29, Valenwood, homeland of the Bosmer, was absorbed into the new Dominion. A similar coup, orchestrated by Thalmor sympathizers among the Bosmer, overthrew the local government. Dissident Bosmer were persecuted with the same brutality as Altmer opponents.
+
+Elsweyr followed. By exploiting the crisis provoked by the Missing Moons (the moons Masser and Secunda temporarily disappeared from the sky in 4E 98, a catastrophic event for Khajiit society that venerates the moons), the Thalmor presented themselves as saviors of the Khajiiti — claiming, once again, that the return of the moons was their doing. Elsweyr was divided into two client kingdoms: Anequina and Pelletine, both vassals of the Dominion.
+
+### The Internal Purge
+
+Within Alinor itself, the Thalmor conducted terrifying purges. Altmer who did not conform to the official ideology disappeared. Unapproved religious practices were forbidden. The worship of Talos — a man become god, the very antithesis of Thalmor theology — was prohibited long before this ban was imposed on the rest of Tamriel.
+
+Persistent rumors speak of "re-education" camps and eugenics programs aimed at "purifying" the Altmer race. Refugees who managed to flee the Archipelago described a totalitarian regime of chilling efficiency.
+
+### The Great War (4E 171–175)
+
+In 4E 171, the Thalmor felt powerful enough to strike the Empire directly. An ambassador presented Emperor Titus Mede II with an ultimatum containing impossible demands: dissolution of the Blades, cession of vast territories in Hammerfell, and a ban on Talos worship throughout the Empire.
+
+The Emperor's refusal triggered the Great War. The Dominion's armies invaded Cyrodiil and Hammerfell simultaneously. The Imperial City itself fell to the Thalmor — an event without precedent since the Alessian Revolt. Although the Empire managed to retake the capital at the Battle of the Red Ring, the losses were so catastrophic on both sides that neither could continue the war.
+
+## Consequences
+
+### The White-Gold Concordat (4E 175)
+
+The peace treaty — the White-Gold Concordat — was signed under humiliating conditions for the Empire. Its terms included the ban on Talos worship throughout the Empire, the official dissolution of the Blades (the Emperor's secret agents), and the cession of part of Hammerfell to the Dominion.
+
+The Empire accepted these conditions, judging that a humiliating peace was better than total defeat. But this treaty was not perceived as peace — rather as a temporary capitulation by both sides.
+
+### The Talos Ban
+
+The ban on Talos was the most incendiary clause of the Concordat. For the Thalmor, Talos — a man, Tiber Septim, elevated to godhood — represented a fundamental heresy. Their theology held that humans could not become gods, and that the divinity of Talos was a lie artificially maintaining Creation (Mundus) in existence.
+
+For the peoples of the Empire, particularly the Nords of Skyrim, Talos was the most venerated of the Divines — a mortal hero become god, a symbol of human potential. His prohibition was felt as a desecration.
+
+### The Skyrim Civil War (4E 201)
+
+The ban on Talos, combined with widespread bitterness toward an Empire perceived as weak and submissive, directly provoked the Skyrim Civil War. Ulfric Stormcloak, Jarl of Windhelm, killed High King Torygg and led a secessionist rebellion in the name of religious freedom and Nordic independence.
+
+The Thalmor watched this civil war with satisfaction — it weakened the Empire regardless of who won. Intercepted documents reveal that the Thalmor considered prolonging the conflict to be in their strategic interests.
+
+### The Secession of Hammerfell
+
+Hammerfell refused the terms of the Concordat and separated from the Empire rather than cede its territory. The Redguards continued the war against the Dominion alone and managed, after five years of fierce conflict, to repel the Thalmor's forces. The Second Treaty of Stros M'Kai (4E 180) recognized Hammerfell's territorial integrity — proving that the Dominion was not invincible.
+
+### A New World Order
+
+The rise of the Thalmor fundamentally transformed the balance of power in Tamriel. For the first time since the First Era, an Elvish power dominated continental politics. The human Empire, once the unchallenged master, was reduced to a shadow of itself — shorn of provinces, subjected to humiliating conditions, torn apart by internal wars.
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Oblivion Crisis (3E 433)", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Death of Martin Septim (end of the dynasty)", link: "/chronologie/third-era/martin-septim", indent: 1 },
+  { text: "Devastation of the Summerset Archipelago", indent: 1 },
+  { text: "Failure of traditional Altmer institutions", indent: 2 },
+  { text: "Thalmor claims victory over the Daedra", indent: 2 },
+  { text: "Global weakening of the Empire", indent: 1 },
+  { text: "THALMOR COUP (4E 22)" },
+  { text: "Absorption of Valenwood (4E 29)", indent: 1 },
+  { text: "Vassalization of Elsweyr (4E 115)", indent: 1 },
+  { text: "Second Aldmeri Dominion formed" },
+  { text: "GREAT WAR (4E 171–175)", link: "/chronologie/fourth-era/grande-guerre" },
+  { text: "White-Gold Concordat", link: "/chronologie/fourth-era/concordat-or-blanc" },
+  { text: "Talos Ban", indent: 1 },
+  { text: "Skyrim Civil War (4E 201)", link: "/chronologie/fourth-era/guerre-civile-bordeciel", indent: 2 },
+  { text: "Dissolution of the Blades", indent: 1 },
+  { text: "Secession of Hammerfell (4E 175)", indent: 1 }
+]} />
+
+## Perspectives
+
+The rise of the Thalmor raises a fundamental question about Tamrielic politics: was the Oblivion Crisis simply exploited by the Thalmor, or was it deliberately provoked? Some theorists suggest that the Thalmor, with its deep knowledge of metaphysics, may have anticipated — or even facilitated — the end of the Septim dynasty.
+
+What is undeniable is that every major event of the Fourth Era flows, directly or indirectly, from this seizure of power. The Thalmor is not merely an actor in history — it has become its primary engine, shaping the fate of an entire continent according to its ideological vision.

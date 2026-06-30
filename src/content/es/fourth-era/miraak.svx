@@ -1,0 +1,56 @@
+---
+title: "Miraak"
+slug: "miraak"
+era: "fourth-era"
+category: "personnages"
+tags: ["sangre-de-dragon", "hermaeus-mora", "apocrypha", "solstheim", "sacerdote-dragon", "bend-will"]
+timelineYear: 201
+summary: "Miraak, el Primer Sangre de Dragón, fue un Sacerdote-Dragón rebelde cuyo pacto con Hermaeus Mora lo condenó a milenios de encarcelamiento en Apocrypha."
+sources: ["The Guardian and the Traitor", "Dragonborn DLC", "The Secrets of Solstheim", "Black Books"]
+---
+
+![Miraak en Apocrypha](/images/merethic-era/miraak.jpg)
+
+# Miraak — El Primer Sangre de Dragón
+
+## La Era Merética y el Primer Dovahkiin
+
+Mucho antes de que el Último Sangre de Dragón pisara el suelo de Bordeciel en 4E 201, otro mortal había recibido el don de la Voz del Dragón. **Miraak**, cuyo nombre significa "La Alianza Guía" en lengua dracónica, fue el primer ser humano en nacer con el alma de un dragón — el primer **Dovahkiin**.
+
+Durante la Era Merética, Miraak servía como **Sacerdote-Dragón** en la isla de Solstheim, entonces parte integrante del continente de Tamriel. En aquella época, los dragones reinaban como amos absolutos sobre los mortales, y los Sacerdotes-Dragón eran sus lugartenientes, administrando las poblaciones humanas en nombre de sus señores alados. Pero Miraak albergaba en su interior una contradicción fundamental: ¿cómo podía un ser que poseía el alma de un dragón someterse a otros dragones?
+
+## La Traición y el Pacto con Hermaeus Mora
+
+La rebelión de Miraak contra los dragones no estuvo motivada por la compasión hacia los mortales oprimidos, sino por un orgullo desmedido y una sed de poder sin límites. Se negó a postrarse ante criaturas que consideraba sus iguales — e incluso sus inferiores.
+
+Fue en esta búsqueda de poder cuando Miraak se volvió hacia **Hermaeus Mora**, el Príncipe Daédrico del Conocimiento Prohibido y la Memoria. El Guardián del Saber Prohibido ofreció a Miraak conocimientos arcanos de un poder inimaginable, entre ellos el Thu'um devastador **Bend Will** (Doblar la Voluntad), capaz de esclavizar las mentes de los propios dragones.
+
+A cambio, Miraak se convirtió en el campeón de Mora — un pacto cuyas consecuencias plenas no midió hasta que fue demasiado tarde.
+
+## La Confrontación con Vahlok
+
+Cuando los demás Sacerdotes-Dragón descubrieron la traición de Miraak, enviaron a **Vahlok el Guardián** para destruirlo. El enfrentamiento que se produjo fue de tal violencia que separó físicamente Solstheim del continente, creando el estrecho que existe hasta hoy.
+
+En el momento en que Vahlok iba a asestar el golpe fatal, Hermaeus Mora intervino, arrebatando a Miraak del mundo mortal para transportarlo a su reino de Oblivion: **Apocrypha**. Este rescate era en realidad una prisión — Miraak era ahora prisionero del Príncipe Daédrico, atrapado en un laberinto infinito de libros y conocimientos prohibidos.
+
+## Los Milenios en Apocrypha
+
+Apocrypha es un plano de Oblivion compuesto de océanos de líquido negro y torres infinitas de libros y pergaminos. Para Miraak, este lugar se convirtió a la vez en su biblioteca y en su celda. A lo largo de miles de años, acumuló un saber inmenso mientras buscaba desesperadamente un medio de escapar del dominio de Mora.
+
+En ese espacio fuera del tiempo, Miraak no envejecía pero nunca pudo encontrar la paz. Construyó su propio dominio dentro de Apocrypha, esclavizando a los Buscadores y a los Acechadores — las criaturas informes que pueblan ese reino — y planeando sin descanso su regreso al mundo mortal.
+
+## El Regreso en 4E 201
+
+En 4E 201, Miraak emprendió finalmente su intento de fuga. Desde Apocrypha, extendió su influencia sobre Solstheim a través de los **Libros Negros** — artefactos daédricos que sirven de portales hacia el reino de Mora. Esclavizó las mentes de los habitantes de la isla, obligándolos a construir inmensas estructuras de piedra en torno a las Piedras Levantadas en un ritual destinado a canalizar suficiente poder para romper sus cadenas.
+
+Su plan incluía también la absorción de almas de dragones, robando al Último Sangre de Dragón las almas de los dragones que este mataba. Este robo de almas era una provocación deliberada — Miraak necesitaba esa energía dracónica para alimentar su fuga.
+
+## El Enfrentamiento Final
+
+La confrontación entre los dos Sangres de Dragón tuvo lugar en el corazón mismo de Apocrypha. Miraak, armado con milenios de saber acumulado y el dominio de Thu'ums olvidados desde hacía eras, representaba un adversario de poder extraordinario. Podía volverse etéreo, esclavizar dragones en pleno vuelo y manipular la propia realidad de Apocrypha.
+
+Sin embargo, en el momento de su derrota, fue el propio **Hermaeus Mora** quien asestó el golpe final, atravesando a Miraak con sus tentáculos y absorbiendo su esencia. El Príncipe Daédrico se negaba a dejar escapar a su campeón — ni siquiera en la muerte. Miraak murió comprendiendo amargamente que su "salvador" nunca había sido más que un carcelero más paciente que los demás.
+
+## Legado y Significación
+
+Miraak encarna el arquetipo del héroe corrompido por la hybris. Primero entre los Sangres de Dragón, podría haber sido el liberador de la humanidad frente a los dragones. En cambio, su orgullo lo condujo a una servidumbre peor que aquella que rechazaba — aprisionado no por dragones sino por un ser infinitamente más antiguo y astuto. Su historia es una advertencia: el saber sin sabiduría, el poder sin humildad, solo conducen a una cautividad más profunda.

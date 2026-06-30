@@ -1,0 +1,52 @@
+---
+title: "Los Eventos de Solstheim"
+slug: "solstheim-events"
+era: "fourth-era"
+category: "evenements"
+tags: ["solstheim", "miraak", "hermaeus-mora", "sangre-de-dragon", "raven-rock", "tel-mithryn", "apocrypha"]
+timelineYear: 201
+summary: "Los principales eventos ocurridos en Solstheim en 4E 201, incluyendo el regreso de Miraak y la influencia de Hermaeus Mora sobre la isla."
+sources: ["Dragonborn DLC", "The Guardian and the Traitor", "The Winds of Change", "History of Raven Rock"]
+---
+
+## Solstheim en 4E 201
+
+La isla de **Solstheim**, situada entre Cielos de Hielo y **Morrowind**, vivió en 4E 201 una serie de eventos que amenazaron la propia existencia de sus habitantes. Otrora territorio nórdico vinculado a Cielos de Hielo, la isla había sido cedida a Morrowind tras el **Año Rojo** de 4E 5, cuando la erupción de la **Montaña Roja** devastó Vvardenfell y obligó a miles de Dunmer a buscar refugio en sus costas.
+
+Cuando el **Último Sangre de Dragón** pisó la isla, descubrió a una población bajo el dominio de una fuerza misteriosa. Los habitantes, en estado de trance, construían extrañas estructuras de piedra alrededor de las Piedras Erguidas sin ser conscientes de ello. Esta manipulación mental masiva era obra de **Miraak**, el Primer Sangre de Dragón, que buscaba escapar de su prisión en **Apocrypha**.
+
+## El Regreso de Miraak
+
+**Miraak** había estado prisionero en el reino de **Hermaeus Mora** desde la Era Meréthica, tras su rebelión contra el Culto del Dragón. Durante milenios, había acumulado un poder considerable mientras planeaba su fuga. Su plan se basaba en el sometimiento de las mentes de los habitantes de Solstheim a través de los **Libros Negros** — artefactos daédricos que servían de vínculos directos con Apocrypha.
+
+Las Piedras Erguidas de la isla — la Piedra de la Tierra, la Piedra del Sol, la Piedra de la Bestia, la Piedra del Agua, la Piedra del Viento y la Piedra del Árbol — fueron corrompidas por la influencia de Miraak. Los habitantes construían a su alrededor santuarios destinados a canalizar su energía espiritual hacia el Primer Dragonborn, proporcionándole el poder necesario para romper las cadenas de Apocrypha.
+
+## La Influencia de Hermaeus Mora
+
+**Hermaeus Mora**, el Príncipe Daédrico del Conocimiento Prohibido, jugó un papel ambiguo en estos eventos. Aunque Miraak era oficialmente su campeón, el Guardián del Saber Prohibido no hizo nada para impedir que el Último Sangre de Dragón penetrara en Apocrypha y desafiara a su prisionero. Algunos eruditos sugieren que Mora orquestó deliberadamente el enfrentamiento entre los dos Sangre de Dragón, buscando reemplazar a un campeón recalcitrante por otro más maleable.
+
+Los **Libros Negros** diseminados por Solstheim constituían las llaves de acceso al reino de Mora. Cada uno de ellos — *Epistolary Acumen*, *Filament and Filigree*, *The Hidden Twilight*, *The Sallow Regent*, *Untold Legends*, *The Winds of Change* y *Waking Dreams* — abría un paso hacia una sección diferente de Apocrypha, ofreciendo al que los consultaba poderes únicos a cambio de un vínculo cada vez más estrecho con el Príncipe Daédrico.
+
+## La Comunidad de Raven Rock
+
+**Raven Rock**, el principal asentamiento de la isla, era una antigua colonia minera de la **Compañía de la Bahía Oriental** reconvertida en refugio dunmer. Bajo el gobierno del Consejero **Morvayn**, la ciudad luchaba por sobrevivir entre los ataques de las criaturas de ceniza, la amenaza de los bandidos y el aparente agotamiento de su mina de ébano.
+
+La llegada del Último Sangre de Dragón permitió resolver varias crisis: la reapertura de la mina de ébano aseguró la viabilidad económica de la ciudad, mientras que la eliminación de la amenaza de Miraak liberó a los ciudadanos de su sometimiento mental. Los Dunmer de Raven Rock, aunque alejados de su devastada patria, encontraron así un nuevo aliento.
+
+## Tel Mithryn y la Magia Telvanni
+
+La torre hongo de **Tel Mithryn**, establecida por el Maestro **Neloth** de la Gran Casa **Telvanni**, representaba un avanzadilla de la cultura y la magia dunmer en Solstheim. Neloth, uno de los últimos grandes hechiceros Telvanni, conducía sus investigaciones sobre las Piedras del Corazón y los encantamientos Dwemer con un desprecio característico por todo lo que no fuera su propia búsqueda del conocimiento.
+
+Sus investigaciones sobre las **Piedras del Corazón** — fragmentos de la piedra del corazón de **Lorkhan** — proporcionaron información crucial para comprender la naturaleza del poder de Miraak y los mecanismos del encantamiento de las Piedras Erguidas.
+
+## Los Skaal y las Tradiciones Nórdicas
+
+El pueblo **Skaal**, en la parte norte de la isla, albergaba una comunidad nórdica que había preservado tradiciones chamánicas ancestrales. Su líder espiritual, **Storn Crag-Strider**, poseía conocimientos antiguos sobre la Voz y los Thu'ums olvidados que Mora codiciaba desde hacía milenios.
+
+El sacrificio de Storn — quien ofreció voluntariamente sus conocimientos a Hermaeus Mora a cambio de la última Palabra de Poder necesaria para vencer a Miraak — ilustra el terrible precio que los habitantes de Solstheim pagaron en este conflicto entre dos Sangre de Dragón y un manipulador Príncipe Daédrico.
+
+## Consecuencias y Legado
+
+La derrota de Miraak en Apocrypha puso fin a la amenaza directa que pesaba sobre Solstheim, pero las consecuencias a largo plazo siguen siendo inciertas. **Hermaeus Mora** considera ahora al Último Sangre de Dragón como su nuevo campeón — un título que este quizás no aceptó voluntariamente. Los Libros Negros permanecen en la isla, y los pasajes hacia Apocrypha siguen abiertos para quien se atreva a consultarlos.
+
+La isla misma, liberada del dominio de Miraak, recuperó cierta normalidad. Las Piedras Erguidas fueron purificadas, los habitantes recuperaron la conciencia, y la vida cotidiana retomó su curso entre las cenizas volcánicas y los gélidos vientos del norte. Pero el saber que Mora extrajo de los Skaal está perdido para siempre, y con él, una parte irremplazable de la memoria de Solstheim.

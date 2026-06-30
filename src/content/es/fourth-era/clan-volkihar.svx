@@ -1,0 +1,112 @@
+---
+title: "El Clan Volkihar"
+slug: "clan-volkihar"
+era: "fourth-era"
+category: "guildes"
+tags: ["vampiros", "harkon", "serana", "valerica", "castillo-volkihar", "tiranía-del-sol"]
+timelineYear: 201
+summary: "El clan Volkihar es uno de los linajes vampíricos más antiguos y poderosos de Tamriel, liderado por el señor Harkon desde su castillo aislado frente a las costas de Bordeciel."
+sources: ["Immortal Blood", "The Aetherium Wars", "Diario de Harkon", "Opusculus Lamae Bal"]
+---
+
+# El Clan Volkihar
+
+## Orígenes Ancestrales
+
+El **Clan Volkihar** es uno de los linajes vampíricos más antiguos y temidos de todo Tamriel. Sus orígenes se remontan a la **Era Merethica**, cuando el Príncipe Daédrico **Molag Bal** creó los primeros vampiros corrompiendo mortales mediante actos inenarrables de dominación y crueldad. El linaje Volkihar desciende directamente de estos primeros vampiros puros, lo que les confiere un poder sobrenatural muy superior al de los vampiros comunes.
+
+A diferencia de otros clanes vampíricos que se ocultan entre los mortales o merodean cuevas y ruinas, los Volkihar siempre han cultivado una forma de aristocracia oscura. Se consideran una nobleza de la noche, superiores a los mortales a los que ven como ganado, e igualmente superiores a otros vampiros a quienes juzgan indignos de su sangre antigua.
+
+## El Castillo Volkihar
+
+La fortaleza del clan se alza en una isla aislada frente a la costa noroeste de Bordeciel, en las gélidas aguas del **Mar de los Fantasmas**. El **Castillo Volkihar** es una maciza estructura de piedra oscura, azotada por vientos árticos y perpetuamente envuelta en niebla. Su arquitectura testimonia una construcción que abarca múltiples eras, con cimientos que se hunden profundamente en la roca de la isla.
+
+El castillo comprende:
+- Un gran salón de banquetes donde se reúne la corte vampírica
+- Mazmorras subterráneas con prisioneros que sirven como fuente de alimento
+- Un laboratorio alquímico para experimentos con sangre
+- El **Cairn del Alma**, portal a un desolado plano de Oblivion
+- Antiguas catacumbas que guardan los secretos más profundos del clan
+
+El acceso al castillo sólo es posible en barca, lo que lo hace prácticamente inexpugnable para los mortales ordinarios. Las aguas que rodean la isla están infestadas de horrores y las tormentas hacen la navegación peligrosa.
+
+## El Señor Harkon
+
+**Harkon** es el patriarca y señor indiscutible del Clan Volkihar. Otrora rey mortal de un reino nórdico cuyo nombre ha quedado olvidado por la historia, Harkon hizo un pacto con **Molag Bal** hace milenios. A cambio del sacrificio de mil inocentes, el Príncipe Daédrico le concedió el don del **vampirismo puro** — la forma más poderosa de la maldición vampírica.
+
+Este ritual transformó a Harkon en un **Señor Vampiro**, una criatura de fenomenal poder capaz de:
+- Transformarse en una monstruosa forma alada
+- Drenar la vida de sus enemigos a distancia
+- Invocar gárgolas y muertos vivientes
+- Emplear una devastadora magia de sangre
+- Ejercer control mental sobre los vampiros inferiores
+
+Harkon está obsesionado con el poder y la dominación. A lo largo de los milenios, su paranoia y sed de poder no han hecho más que crecer, volviéndolo cada vez más tiránico con su propia corte.
+
+## Serana y Valerica
+
+**Serana** es la hija de Harkon y **Valerica**, y una de las figuras más trágicas del clan. Al igual que sus padres, fue transformada en vampira pura mediante un ritual de Molag Bal — una experiencia que describe como traumática y sobre la que se niega a dar detalles.
+
+Serana posee los mismos poderes que un Señor Vampiro, aunque raramente elige utilizarlos plenamente. Es una consumada nigromante y una formidable combatiente, pero se distingue de su padre por la compasión que aún siente hacia los mortales y su rechazo a la crueldad gratuita.
+
+**Valerica**, la madre de Serana, era una brillante alquimista y nigromante. Cuando descubrió los planes de Harkon en torno a la profecía de la Tiranía del Sol, se opuso a él con firmeza. Para proteger a Serana e impedir que la profecía se cumpliera, Valerica:
+- Ocultó a Serana en un sarcófago sellado en lo más profundo de la **Cripta de Dimhollow**
+- Huyó ella misma al **Cairn del Alma**, un plano de Oblivion
+- Se llevó consigo uno de los Pergaminos Ancestrales necesarios para la profecía
+
+Esta separación duró milenios, con Serana permaneciendo en estado de letargo hasta su descubrimiento en 4E 201.
+
+## La Profecía de la Tiranía del Sol
+
+La obsesión de Harkon gira en torno a una antigua profecía inscrita en un **Pergamino Ancestral**: la **Tiranía del Sol**. Esta profecía describe un ritual capaz de extinguir el propio sol, sumergiendo a Nirn en una noche eterna.
+
+Para completar este ritual, Harkon necesita:
+- El **Arco de Auriel**, un arma divina creada por el dios Auri-El
+- La sangre de una **Hija de Puerto Frío** — una mujer transformada por el ritual directo de Molag Bal
+- Los Pergaminos Ancestrales que describen la profecía completa
+
+La sangre de Serana, vertida sobre las flechas de Auriel y disparada hacia el sol, oscurecería el astro y permitiría a los vampiros reinar sin trabas. Fue esta amenaza la que Valerica intentó conjurar separando los elementos necesarios.
+
+## La Corte Vampírica
+
+El Castillo Volkihar alberga una corte de vampiros antiguos y poderosos, cada uno con sus propias ambiciones y especialidades:
+
+- **Vingalmo** — un arrogante Alto Elfo, consejero político de Harkon
+- **Orthjolf** — un brutal Nórdico, jefe militar del clan
+- **Feran Sadri** — un Elfo Oscuro, alquimista y experto en magia de sangre
+- **Garan Marethi** — un Elfo Oscuro, erudito y diplomático
+- **Ronthil** — un servil Bosmer, custodio de los archivos del castillo
+
+Estos vampiros sirven a Harkon por miedo tanto como por lealtad. La corte es un nido de intrigas donde cada uno busca ganarse el favor del señor mientras evita su cólera.
+
+## Los Poderes Volkihar
+
+Los vampiros del Clan Volkihar poseen capacidades que los distinguen de los vampiros ordinarios. Su sangre ancestral les confiere:
+
+**Capacidades físicas:**
+- Fuerza y velocidad sobrehumanas, superiores a otros clanes
+- La capacidad de congelar el agua y la carne con el tacto
+- Regeneración acelerada, salvo bajo la luz solar
+- La posibilidad de cruzar el hielo sin romperlo (según las leyendas)
+
+**Capacidades mágicas:**
+- Dominio de la magia de sangre (Hemomancia)
+- Invocación de gárgolas de piedra
+- Drenaje de vida a distancia
+- Transformación en Señor Vampiro para los más poderosos
+- Nigromancia avanzada
+
+## El Enfrentamiento de 4E 201
+
+En 4E 201, el descubrimiento de Serana en la Cripta de Dimhollow por un miembro de la **Guardia del Alba** desencadenó una serie de sucesos que condujeron al enfrentamiento final con Harkon. El señor vampiro, al saber que su hija había sido encontrada, intensificó sus esfuerzos por obtener el Arco de Auriel y cumplir la profecía.
+
+La búsqueda del Arco llevó a los adversarios de Harkon a través de:
+- El **Valle Olvidado**, santuario oculto de los antiguos Fálmer
+- El **Cairn del Alma**, donde Valerica se había refugiado
+- Ruinas dwemer que albergaban el Pergamino Ancestral del Dragón
+
+Finalmente, Harkon fue confrontado en el gran salón de su propio castillo. A pesar de su poder como Señor Vampiro, fue derrotado. Su destrucción marcó el fin de la amenaza de la noche eterna, aunque el Clan Volkihar, bajo una nueva dirección, podría perdurar en las sombras.
+
+## Legado e Influencia
+
+El Clan Volkihar representa el pináculo del poder vampírico en Tamriel. Su existencia demuestra que el vampirismo no es simplemente una enfermedad, sino una forma organizada de poder daédrico con sus propias jerarquías, tradiciones y ambiciones. El intento de Harkon de cumplir la profecía de la Tiranía del Sol sigue siendo una de las amenazas más graves jamás planteadas al mundo mortal — una oscuridad eterna que habría convertido a Nirn en un paraíso para los muertos vivientes y un infierno para los vivos.

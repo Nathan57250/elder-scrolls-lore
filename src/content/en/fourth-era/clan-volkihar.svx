@@ -1,0 +1,112 @@
+---
+title: "Clan Volkihar"
+slug: "clan-volkihar"
+era: "fourth-era"
+category: "guildes"
+tags: ["vampires", "harkon", "serana", "valerica", "castle-volkihar", "tyranny-of-the-sun"]
+timelineYear: 201
+summary: "Clan Volkihar is one of the oldest and most powerful vampire lineages in Tamriel, led by Lord Harkon from their isolated castle off the coast of Skyrim."
+sources: ["Immortal Blood", "The Aetherium Wars", "Harkon's Journal", "Opusculus Lamae Bal"]
+---
+
+# Clan Volkihar
+
+## Ancient Origins
+
+**Clan Volkihar** is one of the oldest and most feared vampire lineages in all of Tamriel. Their origins trace back to the **Merethic Era**, when the Daedric Prince **Molag Bal** created the first vampires by corrupting mortals through unspeakable acts of domination and cruelty. The Volkihar line descends directly from these original pure vampires, granting them supernatural power far superior to common vampires.
+
+Unlike other vampire clans that hide among mortals or haunt caves and ruins, the Volkihar have always cultivated a form of dark aristocracy. They regard themselves as a nobility of the night, superior to the mortals they view as cattle, and equally superior to other vampires whom they deem unworthy of their ancient blood.
+
+## Castle Volkihar
+
+The clan's fortress stands on an isolated island off the northwest coast of Skyrim, in the icy waters of the **Sea of Ghosts**. **Castle Volkihar** is a massive structure of dark stone, battered by arctic winds and perpetually shrouded in mist. Its architecture speaks to construction spanning multiple eras, with foundations that plunge deep into the island's bedrock.
+
+The castle contains:
+- A great banquet hall where the vampire court assembles
+- Underground dungeons housing prisoners kept as a food supply
+- An alchemical laboratory for blood experiments
+- The **Soul Cairn**, a portal to a desolate Oblivion plane
+- Ancient catacombs concealing the clan's deepest secrets
+
+Access to the castle is only possible by boat, making it practically impregnable to ordinary mortals. The waters surrounding the island are infested with horrors, and storms make navigation treacherous.
+
+## Lord Harkon
+
+**Harkon** is the patriarch and undisputed lord of Clan Volkihar. Once the mortal king of a Nordic realm whose name has been lost to history, Harkon struck a pact with **Molag Bal** millennia ago. In exchange for a sacrifice of a thousand innocents, the Daedric Prince granted him the gift of **pure vampirism** — the most powerful form of the vampiric curse.
+
+This ritual transformed Harkon into a **Vampire Lord**, a creature of phenomenal power capable of:
+- Transforming into a monstrous winged form
+- Draining life from enemies at a distance
+- Summoning gargoyles and the undead
+- Wielding devastating blood magic
+- Exerting mental control over lesser vampires
+
+Harkon is obsessed with power and domination. Over the millennia, his paranoia and hunger for power have only grown, making him ever more tyrannical toward his own court.
+
+## Serana and Valerica
+
+**Serana** is the daughter of Harkon and **Valerica**, and one of the most tragic figures in the clan. Like her parents, she was transformed into a pure vampire through a ritual of Molag Bal — an experience she describes as traumatic and refuses to discuss in detail.
+
+Serana possesses the same powers as a Vampire Lord, though she rarely chooses to use them fully. She is an accomplished necromancer and a formidable fighter, but she sets herself apart from her father through her residual compassion for mortals and her rejection of gratuitous cruelty.
+
+**Valerica**, Serana's mother, was a brilliant alchemist and necromancer. When she discovered Harkon's plans concerning the Tyranny of the Sun prophecy, she firmly opposed him. To protect Serana and prevent the prophecy from being fulfilled, Valerica:
+- Hid Serana in a sealed sarcophagus deep within **Dimhollow Crypt**
+- Fled herself into the **Soul Cairn**, an Oblivion plane
+- Took with her one of the Elder Scrolls needed for the prophecy
+
+This separation lasted millennia, with Serana remaining in stasis until her discovery in 4E 201.
+
+## The Tyranny of the Sun Prophecy
+
+Harkon's obsession centers on an ancient prophecy inscribed in an **Elder Scroll**: the **Tyranny of the Sun**. This prophecy describes a ritual capable of extinguishing the sun itself, plunging Nirn into eternal night.
+
+To complete this ritual, Harkon needs:
+- **Auriel's Bow**, a divine weapon created by the god Auri-El
+- The blood of a **Daughter of Coldharbour** — a woman transformed by the direct ritual of Molag Bal
+- The Elder Scrolls describing the complete prophecy
+
+Serana's blood, poured onto Auriel's arrows and fired at the sun, would darken the star and allow vampires to reign unchecked. This was the threat Valerica sought to prevent by separating the necessary components.
+
+## The Vampire Court
+
+Castle Volkihar houses a court of ancient and powerful vampires, each with their own ambitions and specialties:
+
+- **Vingalmo** — an arrogant High Elf, Harkon's political advisor
+- **Orthjolf** — a brutal Nord, the clan's military chief
+- **Feran Sadri** — a Dark Elf, alchemist and blood magic expert
+- **Garan Marethi** — a Dark Elf, scholar and diplomat
+- **Ronthil** — a servile Bosmer, keeper of the castle's archives
+
+These vampires serve Harkon out of fear as much as loyalty. The court is a nest of intrigue where everyone seeks to win the lord's favor while avoiding his wrath.
+
+## Volkihar Powers
+
+The vampires of Clan Volkihar possess abilities that distinguish them from ordinary vampires. Their ancient blood grants them:
+
+**Physical abilities:**
+- Superhuman strength and speed, superior to other clans
+- The ability to freeze water and flesh by touch
+- Accelerated regeneration, except under sunlight
+- The capacity to cross ice without breaking it (according to legend)
+
+**Magical abilities:**
+- Mastery of blood magic (Hemomancy)
+- Summoning stone gargoyles
+- Life drain at a distance
+- Transformation into Vampire Lord form for the most powerful
+- Advanced necromancy
+
+## The Confrontation of 4E 201
+
+In 4E 201, the discovery of Serana in Dimhollow Crypt by a member of the **Dawnguard** triggered a chain of events that led to the final confrontation with Harkon. The vampire lord, learning his daughter had been found, intensified his efforts to obtain Auriel's Bow and fulfill the prophecy.
+
+The quest for the Bow led Harkon's adversaries through:
+- The **Forgotten Vale**, hidden sanctuary of the ancient Falmer
+- The **Soul Cairn**, where Valerica had taken refuge
+- Dwemer ruins housing the Dragon Elder Scroll
+
+Ultimately, Harkon was confronted in the great hall of his own castle. Despite his power as a Vampire Lord, he was defeated. His destruction marked the end of the eternal night threat, though Clan Volkihar, under new leadership, could endure in the shadows.
+
+## Legacy and Influence
+
+Clan Volkihar represents the apex of vampiric power in Tamriel. Their existence proves that vampirism is not simply a disease but an organized form of Daedric power, with its own hierarchies, traditions, and ambitions. Harkon's attempt to fulfill the Tyranny of the Sun prophecy remains one of the gravest threats ever posed to the mortal world — an eternal darkness that would have transformed Nirn into a paradise for the undead and a hell for the living.

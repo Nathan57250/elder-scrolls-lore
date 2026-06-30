@@ -1,0 +1,110 @@
+---
+title: "El Thalmor y el Segundo Dominio Aldmeri"
+slug: "thalmor"
+era: "fourth-era"
+category: "empires"
+tags: ["thalmor", "dominio-aldmeri", "altmer", "talos", "concordato-oro-blanco", "gran-guerra"]
+date: "4E 22 — presente"
+timelineYear: 22
+summary: "La organización supremacista Altmer que tomó el control del Archipiélago de Summerset y libró la Gran Guerra contra el Imperio, imponiendo el Concordato del Oro Blanco."
+mapCoords: { x: 180, y: 580 }
+province: "Archipiélago de Summerset"
+relatedArticles: ["quatrieme-ere", "tiber-septim"]
+sources: ["UESP: Thalmor", "The Great War (Legate Justianus Quintius)", "Rising Threat"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Orígenes — Lo que Condujo a Este Acontecimiento
+
+**¿Cómo llegó el Thalmor al poder?**
+
+El ascenso del Thalmor no es un accidente histórico — es la explotación metódica de una ventana de oportunidad creada por la Crisis de Oblivion:
+
+1. **El caos post-Crisis de Oblivion (3E 433)**: La apertura de las Puertas de Oblivion en todo Tamriel causó destrucciones masivas. El Archipiélago de Summerset fue especialmente devastado. La población Altmer, traumatizada, buscaba desesperadamente un salvador.
+
+2. **El Thalmor se atribuyó el mérito del cierre de las Puertas**: Aunque fue Martin Septim quien puso fin a la Crisis sacrificándose, el Thalmor afirmó que fueron sus magos quienes cerraron las Puertas en Summerset. Esta afirmación — probablemente falsa o muy exagerada — les otorgó una legitimidad heroica a los ojos de la población.
+
+3. **Purga de disidentes**: Una vez establecida su narrativa, el Thalmor eliminó sistemáticamente cualquier voz contradictoria. Los Altmer que cuestionaban su versión de los eventos o se oponían a su ideología desaparecían.
+
+4. **Explotación del supremacismo Altmer**: El Thalmor capitalizó el sentimiento de superioridad cultural ya presente entre los Altmer (como descendientes "puros" de los Aldmer/Et'Ada) y lo amplificó en ideología política: los elfos son seres divinos atrapados en la mortalidad, y solo el Thalmor puede liberarlos.
+
+5. **Golpe de estado de 4E 22**: Con el apoyo popular y la disidencia eliminada, el Thalmor tomó el control total del Archipiélago de Summerset por la fuerza.
+
+**¿Cuál es su objetivo último?**
+
+Más allá de la dominación política, el Thalmor persigue un objetivo metafísico:
+
+- **Destruir las Torres**: Las Torres (Direnni, Oro Blanco, Numidium, etc.) son los pilares metafísicos que mantienen Mundus en existencia. Cada Torre desactivada debilita la realidad.
+- **Eliminar a Talos**: Como el Noveno Divino, Talos es en sí mismo un pilar de Mundus. La prohibición de su culto pretende debilitar — y luego borrar — su naturaleza divina.
+- **Anular la Convención**: Deshacer la Creación de Mundus por Lorkhan para que los espíritus élficos puedan regresar a su estado divino pre-mortal.
+- **Retorno al estado pre-Creación**: El objetivo final es literalmente *deconstruir la realidad* para restaurar el Aurbis a su estado original, antes de que Lorkhan atrapara a los Et'Ada en el mundo mortal.
+
+## Orígenes
+
+El **Thalmor** es una organización política y militar altmer (Alto Elfo) cuya ideología se basa en la **supremacía mer** (élfica) y el retorno a un estado de existencia pre-Convención — es decir, la restauración de la naturaleza divina de los elfos, perdida durante la creación de Mundus.
+
+Tras la Crisis de Oblivion (3E 433), el Thalmor tomó el poder en el **Archipiélago de Summerset** en 4E 22 mediante un golpe de estado, atribuyéndose el mérito de haber "salvado" las islas de la crisis daédrica (una afirmación dudosa).
+
+## Ideología
+
+El Thalmor cree que:
+1. Los Altmer son los descendientes directos de los Et'Ada (espíritus divinos originales)
+2. La creación de Mundus por Lorkhan fue una **trampa** que aprisionó a los elfos en la mortalidad
+3. **Talos** (Tiber Septim divinizado) es un falso dios cuya existencia mantiene la estructura de Mundus
+4. Eliminando el culto a Talos y desactivando las **Torres** metafísicas, podrán **anular la Creación** y recuperar su estado divino
+
+Esta última teoría — la destrucción de Mundus — nunca se confirma oficialmente en los juegos pero está fuertemente sugerida por varias fuentes.
+
+## El Segundo Dominio Aldmeri
+
+En **4E 29**, el Thalmor recreó el **Dominio Aldmeri** — una confederación que comprende:
+- El Archipiélago de Summerset
+- **Valenwood** (tomado mediante un golpe apoyado por el Thalmor)
+- **Elsweyr** (cooptado mediante manipulación política de los Khajiiti tras las Noches del Vacío)
+
+## La Gran Guerra (4E 171–175)
+
+El Thalmor envió un ultimátum al Emperador **Titus Mede II** exigiendo la prohibición del culto a Talos, la cesión de territorios en Hammerfell, y la disolución de las Hojas. El rechazo del Emperador desencadenó la guerra.
+
+Tras cuatro años de brutal conflicto (incluyendo la caída y reconquista de la Ciudad Imperial), el agotado Imperio firmó el **Concordato del Oro Blanco** — aceptando esencialmente todas las demandas iniciales del Thalmor.
+
+## Los Justiciares
+
+Tras el Concordato, **Justiciares del Thalmor** fueron desplegados por todo el Imperio para hacer cumplir la prohibición del culto a Talos. Arrestan, interrogan y ejecutan a cualquiera sospechoso de venerar a Talos.
+
+En Cielos de Hielo, su presencia es especialmente odiada — los nórdicos consideran a Talos su héroe nacional (ya que era nórdico/bretón).
+
+## Objetivos a Largo Plazo
+
+El Thalmor no busca simplemente la dominación política. Según las teorías más respaldadas por el lore:
+- Quieren **desactivar todas** las Torres metafísicas de Mundus
+- Cada Torre desactivada debilita la estructura de la realidad
+- La prohibición de Talos debilita la Torre asociada al Noveno Divino
+- El objetivo final es la **anulación de la Convención** y el fin de Mundus
+
+Si esta teoría es correcta, el Thalmor es literalmente un culto apocalíptico que busca destruir la realidad para "liberar" a los espíritus élficos que creen atrapados en la mortalidad.
+
+## Cadena Causal
+
+<CausalChain items={[
+  { text: "Tiber Septim conquista el Dominio Aldmeri con el Numidium (2E)", link: "/chronologie/second-era/tiber-septim" },
+  { text: "Trauma colectivo Altmer (humillación, odio a los humanos)" },
+  { text: "Crisis de Oblivion (3E 433) → Puertas de Oblivion devastan Summerset", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Martin Septim se sacrifica → Fin de la Crisis, fin de la dinastía Septim", link: "/chronologie/third-era/martin-septim" },
+  { text: "El Thalmor se atribuye el mérito de la 'victoria' en Summerset" },
+  { text: "Legitimidad heroica usurpada", indent: 1 },
+  { text: "Purga sistemática de disidentes", indent: 1 },
+  { text: "Explotación del supremacismo Altmer", indent: 1 },
+  { text: "Golpe de estado (4E 22) → El Thalmor controla el Archipiélago de Summerset", link: "/chronologie/fourth-era/montee-du-thalmor" },
+  { text: "Segundo Dominio Aldmeri (Summerset + Valenwood + Elsweyr) (4E 29)" },
+  { text: "Gran Guerra contra el Imperio (4E 171–175)", link: "/chronologie/fourth-era/grande-guerre" },
+  { text: "Concordato del Oro Blanco → Culto a Talos prohibido", link: "/chronologie/fourth-era/concordat-or-blanc" },
+  { text: "OBJETIVO ÚLTIMO (en curso):" },
+  { text: "Desactivar las Torres metafísicas (pilares de Mundus)", indent: 1 },
+  { text: "Borrar a Talos (debilitar la estructura divina)", indent: 1 },
+  { text: "Anular la Convención (deshacer la Creación)", indent: 1 },
+  { text: "OBJETIVO FINAL: Deconstrucción de Mundus → Retorno al estado pre-Creación" }
+]} />

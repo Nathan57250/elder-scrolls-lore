@@ -1,0 +1,89 @@
+---
+title: "The Greybeards and Paarthurnax"
+slug: "grises-barbes"
+era: "fourth-era"
+category: "religion"
+tags: ["greybeards", "paarthurnax", "thuum", "voice", "high-hrothgar", "jurgen-windcaller", "meditation"]
+timelineYear: 201
+summary: "The Greybeards are a monastic order devoted to mastering the Thu'um through meditation — secretly guided by Paarthurnax, the dragon who betrayed Alduin to save humanity."
+sources: ["UESP: Greybeards", "UESP: Paarthurnax", "The Imperial Library: Way of the Voice"]
+---
+
+## The Order of the Greybeards
+
+The **Greybeards** are a monastic order of warrior-monks living at the summit of the **Throat of the World**, in the monastery of **High Hrothgar**. They have dedicated their lives to mastering the **Thu'um** — the Voice.
+
+## Foundation
+
+The order was founded by **Jurgen Windcaller** at the beginning of the Second Era, following the Nord defeat at the Battle of Red Mountain:
+- Jurgen meditated for seven years on the reason for the defeat
+- He concluded that the Nords had **abused** the gift of the Thu'um by using it for war
+- He developed the **Way of the Voice** — using the Thu'um solely to venerate the gods
+- Warriors who challenged him were defeated by his silence (he absorbed their Shouts)
+
+## Philosophy
+
+### The Way of the Voice
+- The Thu'um is a sacred gift, not a weapon
+- Meditation is the path to mastery
+- Silence is the greatest strength
+- The Thu'um must serve only the veneration of Kynareth (Kyne)
+- The exception: the summoning of the Dovahkiin (a unique case in history)
+
+### The Paradox
+The Greybeards are so powerful that simply **speaking normally** can trigger earthquakes. They therefore communicate primarily through whispers or through the controlled Voice of their leader, **Arngeir** — the only one disciplined enough to speak without causing destruction.
+
+## High Hrothgar
+
+### The Monastery
+Located at 7,000 steps from the ground (the **7,000 Steps**), High Hrothgar is:
+- One of the oldest buildings in Skyrim
+- Built of massive grey stone
+- Exposed to permanent storms
+- Accessible only by a long pilgrimage on foot
+- Heated solely by the monks' Thu'um
+
+### The Emblems of the Path
+Along the 7,000 Steps, **stone tablets** recount the history of the Voice:
+- The Dragon War
+- The creation of the Thu'um by mortals
+- The teaching of Paarthurnax
+- The philosophy of Jurgen Windcaller
+
+## Paarthurnax
+
+### The Secret
+Above High Hrothgar itself, at the peak of the Throat of the World, lives **Paarthurnax** — an ancient **dragon** who is the true spiritual founder of the Greybeards. His existence is the order's most closely guarded secret.
+
+### His History
+- Elder brother of Alduin, lieutenant of his draconic army
+- **Betrayed Alduin** at the behest of Kyne (Kynareth)
+- Taught the Thu'um to mortals, giving them the weapon to fight the Dragons
+- After the Dragon War, retreated to the top of the world
+- Guided Jurgen Windcaller toward the Way of the Voice
+- Has meditated for millennia on his own violent nature
+
+### The Philosophy of Paarthurnax
+
+> "What is better — to be born good, or to overcome one's evil nature through great effort?"
+
+Paarthurnax acknowledges that his draconic nature drives him toward **domination** (dovah = dragon = domination). Each day of meditation is a battle against that instinct. This is what makes his choice of peace all the more meritorious.
+
+### The Dilemma
+The **Blades** (Delphine and Esbern) demand Paarthurnax's death:
+- He was Alduin's right hand during the tyranny of the Dragons
+- A dragon does not truly change his nature, according to them
+- They refuse to aid the Dovahkiin as long as Paarthurnax lives
+
+The **Greybeards** defend Paarthurnax:
+- He saved humanity by betraying Alduin
+- Millennia of meditation prove his change
+- Killing him would be a betrayal of the one who gave you everything
+
+## Role in the Events of 4E 201
+
+1. The Greybeards **summon** the Dovahkiin with a Shout that shakes all of Skyrim
+2. Arngeir teaches the Dovahkiin the basics of the Thu'um
+3. Paarthurnax reveals the existence of the Shout **Dragonrend**
+4. The Greybeards organize the **Council of the Eternal Season** (truce between Empire and Stormcloaks)
+5. Paarthurnax guides the Dovahkiin toward the portal to Sovngarde

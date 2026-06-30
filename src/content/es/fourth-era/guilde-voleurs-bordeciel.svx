@@ -1,0 +1,131 @@
+---
+title: "El Gremio de Ladrones de Bordeciel"
+slug: "guilde-voleurs-bordeciel"
+era: "fourth-era"
+category: "guildes"
+tags: ["gremio-de-ladrones", "faillaise", "ruiseñores", "nocturnal", "mercer-frey", "karliah"]
+timelineYear: 201
+summary: "El Gremio de Ladrones de Bordeciel, asentado en los subterráneos de Faillaise, atraviesa un período de declive en 4E 201 antes de recuperar su pasada gloria gracias al descubrimiento de la traición de su maestro."
+sources: ["Erta's Journal", "Gallus's Encoded Journal", "Nightingales: Fact or Fiction?", "The Real Barenziah"]
+---
+
+# El Gremio de Ladrones de Bordeciel
+
+## Presentación General
+
+El **Gremio de Ladrones** de Bordeciel es una organización criminal que opera desde los subterráneos de la ciudad de **Faillaise** (*Riften*). A diferencia de la Hermandad Oscura, que vende la muerte, el Gremio vende el silencio, la sutileza y la redistribución de las riquezas. Su credo fundamental es sencillo: nunca matar en un trabajo, nunca robar a los pobres, y siempre cumplir los acuerdos pactados con los clientes.
+
+En 4E 201, el Gremio atraviesa su peor período en décadas. Los trabajos fracasan, la mala suerte se acumula y los miembros desertan. Este declive oculta en realidad una traición en lo más alto de la organización.
+
+## El Flacón Raído: El Santuario Subterráneo
+
+El cuartel general del Gremio se encuentra en el **Flacón Raído** (*The Ragged Flagon*), una taberna clandestina ubicada en las alcantarillas y los canales subterráneos bajo Faillaise, dentro de una red de túneles conocida como la **Vía de las Ratas** (*The Ratway*). Este laberinto de pasajes inundados, pasarelas desvencijadas y salas abandonadas sirve de protección natural contra las intrusiones.
+
+El Flacón Raído comprende:
+- La taberna principal, regentada por **Vekel el Silencioso**
+- La **Cisterna** (*The Cistern*), dormitorio y sala de entrenamiento de los miembros
+- Cajas fuertes y escondrijos para el botín
+- Un acceso secreto a la superficie a través del cementerio de Faillaise
+- Talleres para el ganzuado y la falsificación
+
+La organización también mantiene una vasta red de informantes, receptadores y contactos en todas las ciudades de Bordeciel, aunque esta red se había reducido considerablemente en el momento de la crisis de 4E 201.
+
+## Jerarquía y Funcionamiento
+
+El Gremio está organizado según una jerarquía estricta:
+
+**El Maestro del Gremio** — autoridad suprema, responsable de las decisiones estratégicas y la distribución de los beneficios. En 4E 201, este puesto lo ocupa **Mercer Frey**.
+
+**Los Ruiseñores** — trío de élite vinculado por juramento a la Princesa Daédrica Nocturnal (véase la sección dedicada).
+
+**Brynjolf** — brazo derecho del Maestro, reclutador y mentor. Un Nórdico de encanto desarmante que detecta talentos prometedores en las calles de Faillaise.
+
+**Delvin Mallory** — especialista en robos y contacto con la Hermandad Oscura. Distribuye los contratos de robo a los miembros.
+
+**Vex** — experta en infiltración y robos audaces. Una Imperial de carácter mordaz, gestiona los contratos más delicados.
+
+**Tonilia** — receptadora oficial del Gremio, convierte el botín en septims.
+
+Los miembros ordinarios ejecutan los contratos, entregan una parte al Gremio y ascienden en el escalafón según sus éxitos.
+
+## La Traición de Mercer Frey
+
+El declive del Gremio no es fruto del azar. **Mercer Frey**, el Maestro del Gremio, es en realidad un traidor que lleva años saqueando la organización. Su historia está ligada a la de su predecesor, **Gallus Desidenius**.
+
+Gallus era un brillante y respetado Maestro del Gremio que había descubierto que Mercer desviaba fondos del tesoro. Antes de poder revelar la verdad, Gallus fue asesinado por Mercer en 4E 176, unos veinticinco años antes de los sucesos de 4E 201. Mercer achacó la culpa del asesinato a **Karliah**, la compañera de Gallus y tercer Ruiseñor.
+
+Karliah fue desterrada y perseguida durante décadas mientras Mercer tomaba el control del Gremio. Durante todo ese tiempo, él:
+- Vació sistemáticamente el tesoro del Gremio
+- Usó la **Llave Esqueleto** robada a Nocturnal para sus propios fines
+- Saboteó discretamente las operaciones para enmascarar sus malversaciones
+- Mantuvo la ilusión de un liderazgo competente ante el declive
+
+## Los Ruiseñores y Nocturnal
+
+Los **Ruiseñores** (*Nightingales*) constituyen el aspecto más secreto y sagrado del Gremio de Ladrones. Son un trío de ladrones de élite vinculados por un pacto con la Princesa Daédrica **Nocturnal**, la Dama de la Oscuridad y patrona de los ladrones.
+
+El pacto de los Ruiseñores implica:
+- Proteger la **Sala del Ruiseñor** (*Nightingale Hall*), el santuario secreto de Nocturnal
+- Custodiar la **Llave Esqueleto**, un artefacto daédrico de inmenso poder
+- Servir a Nocturnal eternamente después de la muerte, como guardianes espectrales en el **Evergloam**, su plano de Oblivion
+
+A cambio, los Ruiseñores reciben:
+- Los **Poderes del Ruiseñor** — capacidades sobrenaturales de sigilo
+- La **Armadura del Ruiseñor** — equipamiento encantado de una potencia extraordinaria
+- El favor de Nocturnal, que se manifiesta como suerte sobrenatural
+
+Los tres Ruiseñores en el momento del asesinato de Gallus eran: el propio Gallus, Karliah y Mercer Frey. La traición de Mercer constituyó por tanto una triple violación — contra el Gremio, contra sus compañeros y contra la propia Nocturnal.
+
+## La Llave Esqueleto
+
+La **Llave Esqueleto** es un artefacto daédrico de Nocturnal cuyo poder supera con creces su modesta apariencia. Aunque puede abrir cualquier cerradura física, su verdadera naturaleza es metafísica: permite desbloquear el potencial oculto de quien la porta, suprimiendo todas las limitaciones personales.
+
+Mercer Frey usó la Llave durante veinticinco años para:
+- Ampliar sus capacidades de ladrón más allá de lo natural
+- Abrir todas las cerraduras y cofres que encontraba
+- Volverse prácticamente indetectable
+- Acceder a lugares que de otro modo serían inaccesibles
+
+Sin embargo, el robo de la Llave privó a la Sala del Ruiseñor de su protección, lo que provocó la maldición de Nocturnal sobre el Gremio — explicando la persistente mala suerte que golpeaba a la organización.
+
+## La Restauración del Gremio
+
+La restauración del Gremio comenzó cuando Brynjolf reclutó a un nuevo miembro especialmente talentoso en 4E 201. Este nuevo ladrón fue descubriendo gradualmente la verdad sobre Mercer gracias a Karliah, que emergió de su escondrijo tras décadas de exilio.
+
+Las etapas de la restauración:
+1. El descubrimiento del diario cifrado de Gallus, traducido con la ayuda de **Enthir** en el Colegio de Winterhold
+2. La revelación de la traición de Mercer ante el Gremio reunido
+3. La persecución de Mercer hasta las ruinas dwemer de **Irkngthand**, donde intentaba robar los ojos de la estatua de la **Reina de las Nieves**
+4. La muerte de Mercer en las profundidades inundadas de Irkngthand
+5. La devolución de la Llave Esqueleto a la Sala del Ruiseñor
+6. La restauración del favor de Nocturnal
+
+## Influencia en Faillaise
+
+El Gremio de Ladrones mantiene una relación simbiótica con la ciudad de Faillaise. **Maven Roncenoir** (*Maven Black-Briar*), la mujer más poderosa de la ciudad, es su principal cliente y protectora. Gracias a su influencia política y su fortuna, protege al Gremio de las autoridades a cambio de servicios regulares.
+
+Esta alianza permite al Gremio:
+- Operar con relativa impunidad en Faillaise
+- Tener contactos dentro de la guardia de la ciudad
+- Beneficiarse de la protección política de Maven
+- Acceder a contratos lucrativos a través de la red Roncenoir
+
+La corrupción de Faillaise es tan profunda que incluso el Jarl está bajo la influencia indirecta de Maven, y los guardias hacen la vista gorda con las actividades del Gremio mientras la violencia se mantenga limitada.
+
+## Código y Principios
+
+A pesar de su naturaleza criminal, el Gremio de Ladrones opera según un código estricto:
+
+- **Sin asesinatos** — la violencia es el último recurso, nunca un objetivo
+- **Sin robar a los pobres** — sólo los ricos y poderosos son objetivos
+- **Cumplir los contratos** — un acuerdo es sagrado, incluso entre ladrones
+- **Proteger al Gremio** — nunca revelar la existencia ni los secretos de la organización
+- **Repartir los beneficios** — una parte siempre revierte al Gremio
+
+Estos principios distinguen al Gremio de los simples bandoleros y le confieren una forma de legitimidad en el mundo criminal. Un ladrón del Gremio es un profesional, no un matón.
+
+## Legado y Tradición
+
+El Gremio de Ladrones de Bordeciel forma parte de una tradición milenaria. Organizaciones similares existen en todo Tamriel — el Gremio de Ladrones de Cyrodiil fue en su día legendario bajo la dirección del **Zorro Gris**. El de Bordeciel, aunque más modesto, perpetúa los mismos ideales de robo elegante, redistribución de la riqueza y desafío a la autoridad establecida.
+
+Tras la restauración de 4E 201, el Gremio vivió un espectacular renacimiento, recuperando su influencia en todas las grandes ciudades de Bordeciel y restableciendo su red de contactos y protectores. La renovada bendición de Nocturnal aseguró que la suerte volviera a sonreír a quienes operan en la sombra.

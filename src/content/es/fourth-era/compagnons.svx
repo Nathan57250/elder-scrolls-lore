@@ -1,0 +1,102 @@
+---
+title: "Los Compañeros de Jorrvaskr"
+slug: "compagnons"
+era: "fourth-era"
+category: "guildes"
+tags: ["companeros", "jorrvaskr", "guerreros", "blancherive", "ysgramor", "el-circulo", "hombre-lobo"]
+timelineYear: 201
+summary: "Los Compañeros son la orden de guerreros más antigua de Bordeciel — descendientes espirituales de Ysgramor, con sede en Jorrvaskr en Blancherive desde la Era Merética."
+sources: ["UESP: Companions", "Songs of the Return", "The Imperial Library"]
+---
+
+## Orígenes
+
+Los **Compañeros** (The Companions) toman su nombre de los **Quinientos Compañeros** de Ysgramor — los guerreros Atmoranos que conquistaron Bordeciel en la Era Merética. Cuando la conquista se completó, Ysgramor fundó **Jorrvaskr** — un salón de guerreros en Blancherive, construido alrededor del barco volcado que los había traído desde Atmora.
+
+Jorrvaskr es por tanto el **edificio humano más antiguo** de Tamriel que aún sigue en uso activo.
+
+## Estructura
+
+### No es un Gremio
+Los Compañeros insisten: **no** son un gremio. No existe:
+- Ningún contrato oficial
+- Ningún juramento formal
+- Ninguna jerarquía rígida (en teoría)
+- Ninguna lealtad política
+
+Un Compañero es simplemente un guerrero que vive según el honor y acepta contratos para financiar el salón.
+
+### Jerarquía de Hecho
+En la práctica, una estructura sí existe:
+
+| Función | Descripción |
+|---------|-------------|
+| Adalid (Harbinger) | Guía moral, no un jefe en sentido estricto |
+| El Círculo | Consejo interior (portadores de la sangre de lobo) |
+| Miembros | Guerreros confirmados |
+| Cachorros (Whelps) | Reclutas en período de evaluación |
+
+### El Círculo (The Circle)
+El secreto mejor guardado de los Compañeros: los miembros del Círculo son **hombres lobo**. Portan la sangre del lobo ofrecida por las Brujas de Glenmoril, servidoras de Hircine. Esta tradición se remonta a varios siglos.
+
+## Jorrvaskr
+
+El salón está ubicado en la plaza principal de Blancherive, cerca de la Forja del Cielo:
+- **Planta baja**: gran salón de banquetes, hogar central
+- **Sótano**: habitaciones individuales, aposentos de vida
+- **Exterior**: patio de entrenamiento con maniquíes y dianas
+
+### La Forja del Cielo (Skyforge)
+Fragua antigua **pre-humana** en lo alto de la colina, detrás de Jorrvaskr:
+- Más antigua que la propia ciudad
+- Produce el acero más fino de Bordeciel (Skyforge Steel)
+- Los **nórdicos antiguos** son incinerados aquí
+- El herrero **Eorlund Gray-Mane** es su guardián actual
+
+## Wuuthrad
+
+El hacha legendaria de **Ysgramor** — un arma de dos manos de inmenso poder:
+- Rota tras la muerte de Ysgramor
+- Sus fragmentos dispersados por Bordeciel
+- Reconstituida por el Último Sangre de Dragón
+- Particularmente eficaz contra los elfos
+- Símbolo supremo de los Compañeros
+
+## Eventos de 4E 201
+
+### La Crisis Interna
+- El Círculo está dividido sobre la licantropía
+- **Kodlak Barba-Blanca** (Adalid) busca una cura — quiere unirse a Sovngarde
+- **Aela la Cazadora** abraza el don del lobo
+- Los **Cazadores de Plata** (Silver Hand) dan caza a los hombres lobo del Círculo
+
+### Resolución
+- Los Cazadores de Plata atacan Jorrvaskr y matan a Kodlak
+- El Último Sangre de Dragón reconstituye Wuuthrad
+- Usa las cabezas de las Brujas de Glenmoril para liberar el espíritu lobo de Kodlak
+- El alma de Kodlak se une a Sovngarde
+- El Dovahkiin puede convertirse en el nuevo Adalid
+
+## Valores
+
+Los Compañeros encarnan las virtudes nórdicas:
+- **Honor** — nunca huir de un combate aceptado
+- **Lealtad** — los hermanos de escudo están por encima de todo
+- **Fuerza** — el poder físico como ideal
+- **Independencia** — ninguna lealtad política (ni Imperio, ni Sombrages)
+- **Meritocracia** — el rango se gana con los actos, no con el nacimiento
+
+## Contratos
+
+Los Compañeros aceptan trabajos a cambio de remuneración:
+- Exterminio de bestias salvajes
+- Escolta de caravanas
+- Recuperación de objetos en lugares peligrosos
+- Eliminación de bandidos
+- Duelos de honor por delegación
+
+Rechazan categóricamente:
+- El asesinato
+- El robo
+- Cualquier trabajo deshonroso
+- Las misiones políticas

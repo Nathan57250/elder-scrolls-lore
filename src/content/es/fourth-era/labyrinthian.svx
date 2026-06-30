@@ -1,0 +1,56 @@
+---
+title: "Labyrinthe"
+slug: "labyrinthian"
+era: "fourth-era"
+category: "lieux"
+tags: ["labyrinthian", "magnus", "baston-de-magnus", "morokei", "bromjunaar", "colegio-fortdhiver"]
+timelineYear: 201
+summary: "El Laberinto, antiguo complejo nórdico que alberga el Báculo de Magnus, lugar de poder vinculado al Culto del Dragón y al Archi-Mago Savos Aren."
+sources: ["College of Winterhold Questline", "Lost Legends", "Shalidor's Insights", "Amongst the Draugr"]
+---
+
+## Bromjunaar, la ciudad olvidada
+
+El **Laberinto** (Labyrinthian) es un vasto complejo de ruinas situado en las montañas al sureste de Morthal, en la fortaleza de Hjaalmarch. Antaño conocida como **Bromjunaar**, esta ciudad fue la capital del **Culto del Dragón** durante la Era Merética — el centro político y religioso desde el que los Sacerdotes Dragón administraban sus dominios en nombre de sus señores alados.
+
+En su apogeo, Bromjunaar albergaba la mayor concentración de Sacerdotes Dragón de toda Colmillohelada. El **Santuario del Bosque** en su centro servía de lugar de reunión donde los Sacerdotes más poderosos se congregaban para deliberar sobre los asuntos del culto, arbitrar disputas territoriales y coordinar la dominación dracónica sobre las poblaciones nórdicas.
+
+## Arquitectura y estructura
+
+El complejo del Laberinto es inmenso, y comprende varias zonas distintas conectadas por pasajes subterráneos y patios a cielo abierto. La arquitectura mezcla el estilo nórdico antiguo — grandes bloques de piedra en bruto, arcos masivos, escaleras monumentales — con los elementos característicos de los templos del Culto del Dragón: altares a dragones, bajorrelieves que narran la gloria de los señores alados, y trampas mortales diseñadas para proteger los tesoros sagrados.
+
+Los principales sectores incluyen el **Laberinto** propiamente dicho — un dédale de corredores con trampas y cámaras funerarias — así como zonas anexas como el **Pasaje Ceremonial** y la sala del trono de **Morokei**. Cada sección fue concebida no solo como lugar de culto, sino también como tumba destinada a preservar a los Sacerdotes Dragón en la no-muerte por toda la eternidad.
+
+## El Sacerdote Dragón Morokei
+
+**Morokei**, cuyo nombre significa «Glorioso» en lengua dracónica, fue uno de los Sacerdotes Dragón más poderosos. Maestro de las artes arcanas, era el guardián del **Báculo de Magnus** — un artefacto de considerable poder vinculado al dios **Magnus**, el Arquitecto de Mundus que huyó a Aetherius antes de que la Creación quedara terminada.
+
+Morokei quedó atrapado en un estado de suspensión entre la vida y la muerte, mantenido por dos espectros entomacianos cuya energía vital alimentaba su prisión. Su máscara — una de las ocho máscaras encantadas de Sacerdote Dragón — confiere a su portador una prodigiosa regeneración mágica, testimonio de la naturaleza profundamente arcana de este guardián.
+
+## El Báculo de Magnus
+
+El **Báculo de Magnus** es un artefacto de la mayor importancia, creado — según la leyenda — por el propio **Magnus** o en su honor. Sus poderes exactos son debatidos por los eruditos, pero su capacidad para absorber y manipular la energía mágica es innegable. El Báculo puede drenar la magicka de un adversario, disipar barreras mágicas de extraordinaria potencia y canalizar fuerzas arcanas en bruto.
+
+En 4E 201, el Báculo se convirtió en el objeto de una búsqueda vital cuando **Ancano**, un agente del **Thalmor** infiltrado en el **Colegio de Fortdhiver**, intentó utilizar el **Ojo de Magnus** — un orbe de poder misterioso descubierto bajo **Saarthal** — para adquirir un poder ilimitado. Solo el Báculo de Magnus podía contrarrestar el Ojo y neutralizar la amenaza que Ancano representaba para toda Colmillohelada.
+
+## Savos Aren y la tragedia del Laberinto
+
+El Archi-Mago **Savos Aren** del Colegio de Fortdhiver guardaba un terrible secreto ligado al Laberinto. Décadas antes de los eventos de 4E 201, cuando todavía era estudiante, Savos y un grupo de seis condiscípulos habían intentado explorar el complejo en busca de gloria y conocimiento. La expedición se convirtió en un desastre: uno a uno, los estudiantes perecieron a manos de draugr, trampas y los horrores que poblaban las ruinas.
+
+Al final, solo Savos sobrevivió — pero al precio de un acto terrible. Para confinar a Morokei en su cámara funeraria, sacrificó a los dos últimos supervivientes de su grupo, **Hafnar Puño de Hielo** y **Elvali Veren**, transformándolos en espectros encadenados cuya energía mantenía prisionero al Sacerdote Dragón. Este secreto atormentó a Savos el resto de su vida y explica por qué envió a otro a recuperar el Báculo en lugar de volver él mismo.
+
+## El papel en la misión del Colegio
+
+La recuperación del Báculo de Magnus en el corazón del Laberinto constituye la prueba culminante de la misión del **Colegio de Fortdhiver**. La exploración exige atravesar el complejo entero, enfrentándose a draugr, troles de hielo, espectros y trampas mecánicas antes de hacer frente al propio Morokei.
+
+La victoria sobre Morokei libera las almas de Hafnar y Elvali — poniendo fin a décadas de tormento espectral — y permite hacerse con el Báculo. Regresar al Colegio con el artefacto permite neutralizar a Ancano y el Ojo de Magnus, salvando Fortdhiver y potencialmente todo Tamriel de una catástrofe mágica.
+
+## El Ojo de Magnus y Saarthal
+
+La conexión entre el Laberinto, el **Báculo de Magnus** y el **Ojo de Magnus** descubierto bajo **Saarthal** sugiere una red de lugares de poder vinculados al dios arquitecto. Magnus, que diseñó los planos de Mundus antes de huir a Aetherius rasgando el cielo — creando el Sol —, dejó tras de sí artefactos cuyo poder supera la comprensión mortal.
+
+La **Orden Psíjica**, misteriosa hermandad de magos de Artaeum, intervino para retirar el Ojo de Magnus del mundo mortal tras la derrota de Ancano, juzgando que los mortales no estaban preparados para manejar tal poder. Esta intervención confirma la importancia cósmica de estos artefactos.
+
+## Legado
+
+El Laberinto sigue siendo uno de los lugares más peligrosos y fascinantes de Colmillohelada. Sus ruinas aún encierran innumerables secretos — salas inexploradas, pasajes derrumbados y cámaras selladas cuyo contenido permanece desconocido. Para arqueólogos y magos, representa una fuente inestimable de conocimiento; para los imprudentes, una tumba segura.

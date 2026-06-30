@@ -1,0 +1,90 @@
+---
+title: "Skyrim — Homeland of the Nords"
+slug: "bordeciel"
+era: "fourth-era"
+category: "lieux"
+tags: ["skyrim", "nords", "holds", "jarls", "geography"]
+timelineYear: 201
+summary: "The province of Skyrim, land of the Nords: its nine holds, its snow-capped mountains, its Nordic ruins and its central role in the events of the Fourth Era."
+sources: ["UESP: Skyrim", "Pocket Guide to the Empire, 1st Edition", "Nords of Skyrim"]
+---
+
+## Geography
+
+![Map of Skyrim](/images/fourth-era/skyrim-map.png)
+
+Skyrim is the northernmost province of Tamriel, bounded by:
+- **North**: the Sea of Ghosts
+- **West**: High Rock and Hammerfell
+- **South**: Cyrodiil
+- **East**: Morrowind
+
+The landscape is dominated by the **Throat of the World** — the tallest mountain in Tamriel, at the summit of which Paarthurnax meditates.
+
+### Natural Regions
+- **Volcanic tundra** (Eastmarch) — geysers and hot springs
+- **Pine forests** (Falkreath, The Rift) — wooded valleys
+- **Snowy plains** (Whiterun, Winterhold) — frozen steppes
+- **Rocky coastlines** (Haafingar, Hjaalmarch) — cliffs and marshes
+- **Mountains** (The Reach) — wild terrain, Forsworn territory
+
+## The Nine Holds
+
+| Hold | Capital | Jarl (4E 201) | Allegiance |
+|------|---------|---------------|------------|
+| Whiterun | Whiterun | Balgruuf | Neutral |
+| Eastmarch | Windhelm | Ulfric Stormcloak | Stormcloaks |
+| Haafingar | Solitude | Elisif the Fair | Empire |
+| The Rift | Riften | Laila Law-Giver | Stormcloaks |
+| Falkreath | Falkreath | Siddgeir | Empire |
+| Hjaalmarch | Morthal | Idgrod Ravencrone | Empire |
+| The Reach | Markarth | Igmund | Empire |
+| Winterhold | Winterhold | Korir | Stormcloaks |
+| The Pale | Dawnstar | Skald the Elder | Stormcloaks |
+
+## Major Cities
+
+### Solitude
+The Imperial capital of Skyrim, seat of the High King (or High Queen). Perched atop a massive natural stone arch, it is the most cosmopolitan and wealthy city in the province. The Blue Palace dominates the city.
+
+### Windhelm
+The oldest human city in Tamriel, founded by Ysgramor. The Palace of the Kings is carved into the very rock of the mountain. Headquarters of the Stormcloak rebellion and birthplace of Ulfric.
+
+### Markarth
+Built within the ruins of an ancient Dwemer city, Markarth is a masterpiece of stone architecture. The city is haunted by the conflict with the Forsworn — the native Reachmen who claim their land.
+
+### Winterhold
+Once a center of magical scholarship housing the prestigious College of Winterhold. The **Great Collapse** (4E 122) destroyed most of the city when the sea swallowed its cliffs.
+
+## Nordic Culture
+
+### Values
+- **Honor in battle** — death in combat leads to Sovngarde
+- **Distrust of magic** — Nords prefer steel
+- **Mead and feasting** — conviviality as social glue
+- **Skalds** — oral tradition of heroic exploits
+
+### Sovngarde
+The paradise of Nordic warriors, a vast feasting hall presided over by Shor (Lorkhan) where the valiant fight and feast eternally. Accessible via the Whale Bone Bridge guarded by Tsun.
+
+### The Thu'um
+The art of the Voice — legacy of the Dragon Era. Once a martial art, it was reserved to the Greybeards after the defeat of Jurgen Windcaller. Dragonborn are born with this innate ability.
+
+## Recent History
+
+- **4E 122**: Great Collapse of Winterhold
+- **4E 174**: Sack of the Imperial City by the Thalmor
+- **4E 175**: White-Gold Concordat — Talos banned
+- **4E 176**: Markarth Incident — Ulfric retakes the city
+- **4E 201**: Ulfric slays High King Torygg
+- **4E 201**: Return of Alduin and the Last Dragonborn
+
+## Fauna and Flora
+
+Skyrim is home to unique and dangerous wildlife:
+- **Dragons** — returned from the dead in 4E 201
+- **Frost Trolls** — regenerate unless struck by fire
+- **Sabrecats** — sabre-toothed felines
+- **Giants** — nomads tending their mammoths
+- **Draugr** — Nordic undead in ancient tombs
+- **Spriggans** — hostile forest spirits

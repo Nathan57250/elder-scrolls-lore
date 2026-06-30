@@ -1,0 +1,56 @@
+---
+title: "Miraak"
+slug: "miraak"
+era: "fourth-era"
+category: "personnages"
+tags: ["dragonborn", "hermaeus-mora", "apocrypha", "solstheim", "dragon-priest", "bend-will"]
+timelineYear: 201
+summary: "Miraak, the First Dragonborn, was a rebel Dragon Priest whose pact with Hermaeus Mora condemned him to millennia of imprisonment in Apocrypha."
+sources: ["The Guardian and the Traitor", "Dragonborn DLC", "The Secrets of Solstheim", "Black Books"]
+---
+
+![Miraak in Apocrypha](/images/merethic-era/miraak.jpg)
+
+# Miraak — The First Dragonborn
+
+## The Merethic Era and the First Dragonborn
+
+Long before the Last Dragonborn set foot in Skyrim in 4E 201, another mortal had received the gift of the Dragon Voice. **Miraak**, whose name means "Allegiance Guide" in the dragon tongue, was the very first human being born with the soul of a dragon — the first **Dovahkiin**.
+
+During the Merethic Era, Miraak served as a **Dragon Priest** on the island of Solstheim, then an integral part of the continent of Tamriel. In that age, dragons ruled mortals as absolute masters, and Dragon Priests were their lieutenants, administering human populations on behalf of their winged overlords. But Miraak carried within him a fundamental contradiction: how could a being possessing the soul of a dragon submit to other dragons?
+
+## The Betrayal and the Pact with Hermaeus Mora
+
+Miraak's rebellion against the dragons was not motivated by compassion toward the oppressed mortals, but by overweening pride and a boundless thirst for power. He refused to bow before creatures he considered his equals — or even his inferiors.
+
+It was in this quest for power that Miraak turned to **Hermaeus Mora**, the Daedric Prince of Forbidden Knowledge and Memory. The Keeper of Forbidden Knowledge offered Miraak arcane knowledge of unimaginable power, including the devastating Thu'um **Bend Will**, capable of enslaving the minds of dragons themselves.
+
+In exchange, Miraak became Mora's champion — a pact whose full consequences he would not grasp until far too late.
+
+## The Confrontation with Vahlok
+
+When the other Dragon Priests discovered Miraak's betrayal, they sent **Vahlok the Jailor** to destroy him. The ensuing battle was of such violence that it physically separated Solstheim from the mainland, creating the strait that exists to this day.
+
+At the moment Vahlok was about to land the killing blow, Hermaeus Mora intervened, snatching Miraak from the mortal world and transporting him to his realm of Oblivion: **Apocrypha**. This rescue was in reality a prison — Miraak was now a captive of the Daedric Prince, trapped in an infinite labyrinth of books and forbidden knowledge.
+
+## The Millennia in Apocrypha
+
+Apocrypha is a plane of Oblivion consisting of black liquid oceans and infinite towers of books and scrolls. For Miraak, this place became both his library and his cell. Over thousands of years, he accumulated vast knowledge while desperately seeking a means of escaping Mora's grasp.
+
+In this timeless space, Miraak did not age but could never find peace. He built his own domain within Apocrypha, enslaving the Seekers and Lurkers — the formless creatures that populate this realm — and ceaselessly plotting his return to the mortal world.
+
+## The Return in 4E 201
+
+In 4E 201, Miraak finally undertook his escape attempt. From Apocrypha, he extended his influence over Solstheim through the **Black Books** — Daedric artefacts serving as portals to Mora's realm. He enslaved the minds of the island's inhabitants, forcing them to construct immense stone structures around the Standing Stones in a ritual designed to channel enough power to break his chains.
+
+His plan also involved absorbing dragon souls, stealing from the Last Dragonborn the souls of the dragons he slew. This theft of souls was a deliberate provocation — Miraak needed that draconic energy to fuel his escape.
+
+## The Final Confrontation
+
+The confrontation between the two Dragonborn took place at the very heart of Apocrypha. Miraak, armed with millennia of accumulated knowledge and mastery of Shouts forgotten for ages, represented an adversary of extraordinary power. He could become ethereal, enslave dragons in mid-flight, and manipulate the very reality of Apocrypha.
+
+Yet at the moment of his defeat, it was **Hermaeus Mora** himself who struck the final blow, piercing Miraak with his tentacles and absorbing his essence. The Daedric Prince refused to let his champion escape him — even in death. Miraak died in bitter realization that his "savior" had never been anything more than a more patient jailor than the rest.
+
+## Legacy and Significance
+
+Miraak embodies the archetype of the hero corrupted by hubris. First among the Dragonborn, he could have been the liberator of humanity from the dragons. Instead, his pride led him to a servitude worse than the one he refused — imprisoned not by dragons but by a being infinitely older and more cunning. His story is a warning: knowledge without wisdom, power without humility, lead only to a deeper captivity.

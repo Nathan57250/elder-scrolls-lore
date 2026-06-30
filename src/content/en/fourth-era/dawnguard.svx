@@ -1,0 +1,63 @@
+---
+title: "The Dawnguard"
+slug: "dawnguard"
+era: "fourth-era"
+category: "guildes"
+tags: ["vampires", "volkihar", "auriel", "serana", "harkon", "vampire-hunters"]
+timelineYear: 201
+summary: "The Dawnguard is an order of vampire hunters reformed in 4E 201 to counter the threat of the Volkihar clan and their prophecy of eternal night."
+sources: ["Dawnguard Manifesto", "Immortal Blood", "The Aetherium Wars"]
+---
+
+# The Dawnguard
+
+## Historical Origins
+
+The **Dawnguard** was originally founded during the Second Era by the Jarls of Skyrim as a specialized force for eradicating vampires. Their fortress, **Fort Dawnguard**, was built in a remote canyon in the Rift to serve as an operational base.
+
+However, the order met a tragic end when its own leader was corrupted by vampirism. The shame of this failure led to the dissolution of the organization and the abandonment of their fortress for centuries. The Fort fell into oblivion, overgrown and erased from memory.
+
+## The Reformation in 4E 201
+
+When vampire attacks multiplied across Skyrim in 4E 201, a man named **Isran** took the initiative to reform the order. A former Vigilant of Stendarr, Isran had left the Vigilants whom he considered too soft against the undead threat. He restored Fort Dawnguard and began recruiting determined fighters.
+
+Isran was a hard, paranoid but capable man. He equipped his recruits:
+- With crossbows, weapons particularly effective against vampires
+- With offensive restoration spells
+- With specialized traps and fortifications
+- With intensive training in combat against the undead
+
+## The Threat of Clan Volkihar
+
+The reformation of the Dawnguard was not premature. **Clan Volkihar**, the oldest and most powerful vampiric lineage in Skyrim, was awakening from a long dormancy. Based in an ancestral castle on a frozen island off the northern coast, the Volkihar were no ordinary vampires.
+
+Their lord, **Harkon**, was an ancient Nordic king who had obtained pure vampirism directly from **Molag Bal** — the Daedric Prince and creator of vampirism — by sacrificing a thousand innocents in a ritual of unimaginable cruelty. Harkon possessed the **Vampire Lord** form, a monstrous transformation granting immense powers.
+
+## The Prophecy of the Bloodred Sun
+
+Harkon's motivation went beyond simple predation. The vampire lord had discovered an ancient prophecy inscribed in an **Elder Scroll**: the **Prophecy of the Bloodred Sun**. According to this prophecy, a specific ritual would **extinguish the sun**, plunging the world into eternal night.
+
+For vampires, this meant liberation from their greatest weakness. Without sunlight, they could reign unchecked, hunting mortals as livestock at any hour. The prophecy required three elements:
+- A specific **Elder Scroll**
+- **Auriel's Bow**, the legendary weapon of the Elven God-Dragon
+- The blood of a **Daughter of Coldharbour** — a mortal offered to Molag Bal
+
+## Serana: the Daughter of Coldharbour
+
+The central figure of this conflict was **Serana**, Harkon's own daughter. Transformed into a vampire through Molag Bal's ritual millennia ago, she had been sealed in a sarcophagus with one of the Elder Scrolls by her mother **Valerica**, precisely to prevent Harkon from completing the prophecy.
+
+Serana emerged from her slumber disoriented into an unrecognizable world. Despite her vampiric nature, she chose to oppose her father's plans, forming an unlikely alliance with the Dragonborn and the Dawnguard. Her inner conflict — between filial loyalty and horror at her father's ambitions — defines the emotional heart of this crisis.
+
+## Auriel's Bow
+
+**Auriel's Bow** is an artefact of immeasurable power, forged by the gods themselves. According to elven mythology, Auriel used it to strike down Lorkhan at the Dawn Era, hurling the fallen god's heart across the sky. The bow has a unique bond with the sun — Magnus, the eye of the Mage who fled Aetherius.
+
+Recovered in the ruins of Auriel's **Forgotten Temple** after a journey through the **Forgotten Vale** — a hidden sanctuary of the Snow Elves (Falmer) before their degeneration — the Bow became the key to the entire conflict.
+
+## Resolution and Legacy
+
+The conflict was resolved in the halls of Castle Volkihar. Harkon, refusing to relinquish his prophecy, was finally destroyed by Auriel's Bow — the very weapon he had sought to corrupt. His death shattered the cohesion of Clan Volkihar, with survivors either eliminated or scattered.
+
+The Dawnguard, its primary objective accomplished, continued its vigilance against vampires across Skyrim. Under Isran's unyielding leadership, the order reclaimed its place as a bulwark against the darkness — a role it had failed to fulfill centuries before.
+
+Auriel's Bow, meanwhile, remained in the hands of the Dragonborn — a reminder that even weapons of the gods sometimes walk among mortals.

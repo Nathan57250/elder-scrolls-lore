@@ -1,0 +1,87 @@
+---
+title: "Alduin the World-Eater"
+slug: "alduin"
+era: "fourth-era"
+category: "personnages"
+tags: ["alduin", "dragons", "dovahkiin", "sovngarde", "end-of-times", "thu'um"]
+date: "Merethic Era — 4E 201"
+timelineYear: 201
+summary: "The Firstborn of Akatosh, king of Dragons, destined to devour the world at the end of time. Defeated by the Dovahkiin in Sovngarde in 4E 201."
+aliases: ["Alduin", "World-Eater", "Destroyer Devour Master", "the Firstborn"]
+relatedArticles: ["quatrieme-ere", "thuum", "ere-merethique"]
+sources: ["UESP: Alduin", "The Alduin/Akatosh Dichotomy", "Events of TES V: Skyrim"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Origins — What Led to This Event
+
+**Why did Alduin return NOW, in 4E 201?**
+
+Alduin's return is not a cosmic accident — it is the direct consequence of events that occurred millennia earlier and of the progressive weakening of Mundus's metaphysical barriers:
+
+1. **Temporal exile during the Dragon War**: During the Merethic Era, the three Nordic heroes (Hakon, Gormlaith, Felldir) could not kill Alduin. They used an **Elder Scroll** to cast him out of time — not to destroy him, but to *postpone* him. The Scroll sent him forward through the temporal stream, toward a fixed point in the future.
+
+2. **The Oblivion Crisis (3E 433) shattered the Dragonfires**: The death of Martin Septim and the destruction of the Amulet of Kings ended the draconic barrier protecting Mundus. The Dragonfires were extinguished for good. This extinction weakened the metaphysical barriers between planes of existence — and potentially the mechanisms that kept Alduin outside of time.
+
+3. **Emergence at the Throat of the World**: Alduin reappeared exactly where he had been banished — at the summit of the Throat of the World — before making his way to Helgen. The temporal exit point had been set since the Merethic Era.
+
+4. **The necessity of the Dovahkiin**: Without the Dragonfires, without the Amulet of Kings, without the Septim dynasty, only a **Dragonborn** — a mortal gifted with a draconic soul — could face Alduin. The post-Oblivion Crisis weakening made a Dovahkiin indispensable as the last bulwark.
+
+![Alduin, the World-Eater](/images/fourth-era/alduin.png)
+
+## Nature and Cosmic Role
+
+**Alduin** is not a mere dragon — he is the **Firstborn of Akatosh**, the Dragon of Time himself. His cosmic role is that of the **World-Eater**: he is destined to consume reality at the end of each kalpa (cosmic cycle), allowing a new world to be born.
+
+The fundamental question around Alduin is: **did he abandon his cosmic role out of pride?** Instead of devouring the world as ordained, he chose to *dominate* it — to reign as a king rather than fulfill his function of destruction and renewal.
+
+## The Dragon Cult (Merethic Era)
+
+During the Merethic Era, Alduin ruled Skyrim through a hierarchy of dragons and human **Dragon Priests**. Mortals were slaves, and dragons were worshipped as gods.
+
+The most powerful Dragon Priests were rewarded with **Dragon Masks** that granted them immense power, even after their death (becoming Draugr).
+
+## The Rebellion and the Exile
+
+When mortals rebelled (with the aid of **Paarthurnax** and the gift of the Thu'um from Kynareth), three Nordic heroes — **Hakon**, **Gormlaith**, and **Felldir** — confronted Alduin at the summit of the **Throat of the World**.
+
+Unable to kill him (for he is an aspect of Akatosh and possibly necessary to existence itself), they used an **Elder Scroll** combined with the Shout **Dragonrend** to cast him outside the stream of time — sending him into the future.
+
+## The Return (4E 201)
+
+Alduin reappeared in **4E 201** at Helgen, Skyrim — precisely at the moment of the scheduled execution of both the Dovahkiin and Ulfric Stormcloak. His first act was to destroy the town, inadvertently saving them both.
+
+He immediately began **resurrecting the dead dragons** buried throughout Skyrim, rebuilding his army.
+
+## The Defeat
+
+The **Dovahkiin**, guided by the Greybeards, Paarthurnax, and the Blades:
+1. Learned **Dragonrend** via an Elder Scroll used at the Timelost Rift (a temporal breach)
+2. Confronted Alduin at the Throat of the World, forcing him to flee
+3. Captured the dragon **Odahviing** at Dragonsreach to locate the portal to Sovngarde
+4. Traveled to **Sovngarde** where Alduin was devouring the souls of the Nordic dead
+5. With the help of the three ancient heroes, defeated Alduin one final time
+
+## Is Alduin Truly Dead?
+
+The question remains open. Unlike the other dragons whose souls the Dovahkiin absorbs, **Alduin's soul was not absorbed** after his defeat. Paarthurnax himself suggests that Alduin might return — either in this kalpa, or to fulfill his true role as World-Eater at the end of the world.
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Merethic Era: Alduin dominates mortals" },
+  { text: "Dragon War: Mortal rebellion with Paarthurnax's aid" },
+  { text: "Elder Scroll + Dragonrend → Alduin cast OUTSIDE of time" },
+  { text: "(not destroyed, merely postponed)", indent: 1 },
+  { text: "Oblivion Crisis (3E 433) → Martin Septim sacrifices himself", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Dragonfires permanently extinguished", indent: 1 },
+  { text: "Metaphysical barriers weakened", indent: 2 },
+  { text: "Alduin emerges at the Throat of the World (4E 201)" },
+  { text: "Destruction of Helgen (inadvertently saves the Dovahkiin)", indent: 1 },
+  { text: "Resurrection of dragons across Skyrim", indent: 1 },
+  { text: "The Dovahkiin confronts Alduin in Sovngarde → Defeat (but soul not absorbed)", link: "/chronologie/fourth-era/enfant-de-dragon" },
+  { text: "Will Alduin return? (Cosmic role unfinished)" }
+]} />

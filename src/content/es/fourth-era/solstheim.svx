@@ -1,0 +1,90 @@
+---
+title: "Solstheim — La Isla entre Mundos"
+slug: "solstheim"
+era: "fourth-era"
+category: "lieux"
+tags: ["solstheim", "morrowind", "bordeciel", "skaal", "roca-cuervo", "miraak", "cenizas"]
+timelineYear: 201
+summary: "Solstheim es una isla volcánica entre Bordeciel y Morrowind — tierra de los Skaal, de los refugiados Dunmer y del templo de Miraak, el Primer Sangre de Dragón."
+sources: ["UESP: Solstheim", "Events of TES V: Dragonborn", "History of Raven Rock"]
+---
+
+## Geografía
+
+**Solstheim** es una isla de tamaño modesto ubicada en el **Mar de los Fantasmas**, al noreste de Tamriel:
+- Al norte de Morrowind (administrativamente)
+- Al noreste de Bordeciel (geográficamente cerca de Vendeaume)
+- Dividida entre una mitad **volcánica/ceniciente** (sur) y una mitad **nevada** (norte)
+
+### Regiones
+- **Costa de Cenizas** (sur) — paisaje devastado por el Año Rojo, cenizas de la Montaña Roja
+- **Bosques de pinos** (centro) — zona de transición
+- **Tundra helada** (norte) — territorio Skaal, osos polares, horkers
+- **Costa oeste** — acantilados y cuevas
+
+## Historia
+
+### Pertenencia Disputada
+- **Era Merética**: habitada por nórdicos (predecesores de los Skaal)
+- **3E**: bajo jurisdicción del Imperio / Bordeciel
+- **4E 16**: cedida a **Morrowind** por el Alto Rey de Bordeciel como gesto de compasión tras el Año Rojo
+- Desde entonces: colonia Dunmer bajo la protección de la Casa Redoran
+
+### El Año Rojo y sus Efectos
+La erupción de la Montaña Roja (4E 5) lanzó cenizas hasta Solstheim:
+- La mitad sur quedó cubierta de cenizas volcánicas
+- La vegetación murió, reemplazada por hongos y ash spawn
+- Los refugiados Dunmer llegaron masivamente
+
+## Roca Cuervo (Raven Rock)
+
+Principal asentamiento de Solstheim — una ciudad minera Dunmer:
+- Fundada por la **Compañía del Imperio Oriental** para explotar la ebonita
+- Hoy: gobernada por el **Consejero Morvayn** (Casa Redoran)
+- Economía: mina de ebonita (agotada y luego reabierta), pesca, comercio
+- Arquitectura: mezcla nórdica y dunmer (hongos, piedra negra)
+- Población: mayoritariamente Dunmer, algunos nórdicos y otros
+
+## Los Skaal
+
+Los **Skaal** son un pueblo nórdico aislado que vive al norte de la isla:
+- Modo de vida tradicional, chamánico
+- Veneración de la naturaleza y el **All-Maker** (creador universal)
+- Rechazo de la civilización "moderna"
+- Guerreros y cazadores
+- Su chamán guía a la comunidad
+- El **Stalhrim** (hielo encantado) es su secreto de forja ancestral
+
+### Stalhrim
+Material único de los Skaal — un hielo encantado más duro que la ebonita:
+- Solo los Skaal conocen la técnica de extracción
+- Armas y armaduras de calidad excepcional
+- Resistencia al frío extremo
+- Usado tradicionalmente para sellar las tumbas
+
+## Miraak y el Templo
+
+En 4E 201, **Miraak** — el Primer Sangre de Dragón — intentó regresar desde Apocrypha:
+- Usó su influencia para **controlar mentalmente** a los habitantes
+- Las víctimas construían estructuras misteriosas sin saberlo
+- El templo de Miraak (noreste) era el centro de su poder
+- El Último Sangre de Dragón lo enfrentó y venció en Apocrypha
+
+## Fauna Única
+
+| Criatura | Descripción |
+|----------|-------------|
+| Netch | Medusas gigantes flotantes (importadas de Morrowind) |
+| Ash Spawn | No-muertos de ceniza volcánica |
+| Riekling | Pequeños goblins azules de las nieves |
+| Lurker | Criaturas tentaculares de Apocrypha |
+| Bristleback | Jabalíes montados por los Rieklings |
+| Frost Giant | Gigantes de hielo raros y peligrosos |
+
+## Tel Mithryn
+
+Torre champiñón del **Maestro Neloth** — un mago Telvanni excéntrico:
+- La única torre Telvanni fuera de Morrowind
+- Neloth investiga las piedras corazón (Heart Stones)
+- Sirvientes y aprendices bajo su tutela autoritaria
+- Fuente de misiones y conocimiento para el Dovahkiin

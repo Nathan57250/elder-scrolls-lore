@@ -1,0 +1,131 @@
+---
+title: "The Thieves Guild of Skyrim"
+slug: "guilde-voleurs-bordeciel"
+era: "fourth-era"
+category: "guildes"
+tags: ["thieves-guild", "riften", "nightingales", "nocturnal", "mercer-frey", "karliah"]
+timelineYear: 201
+summary: "The Thieves Guild of Skyrim, based in the underground of Riften, goes through a period of decline in 4E 201 before reclaiming its former glory thanks to the uncovering of its guildmaster's betrayal."
+sources: ["Erta's Journal", "Gallus's Encoded Journal", "Nightingales: Fact or Fiction?", "The Real Barenziah"]
+---
+
+# The Thieves Guild of Skyrim
+
+## Overview
+
+The **Thieves Guild** of Skyrim is a criminal organization operating from the underground of the city of **Riften**. Unlike the Dark Brotherhood, which sells death, the Guild sells silence, subtlety, and the redistribution of wealth. Their fundamental creed is simple: never kill on a job, never steal from the poor, and always honor agreements made with clients.
+
+In 4E 201, the Guild is going through its worst period in decades. Jobs are failing, bad luck is piling up, and members are deserting. This decline is in fact concealing a betrayal at the very top of the organization.
+
+## The Ragged Flagon: The Underground Sanctuary
+
+The Guild's headquarters is located in the **Ragged Flagon**, a clandestine tavern situated in the sewers and underground canals beneath Riften, within a network of tunnels known as the **Ratway**. This labyrinth of flooded passages, rickety walkways, and abandoned rooms serves as natural protection against intruders.
+
+The Ragged Flagon includes:
+- The main tavern, run by **Vekel the Man**
+- The **Cistern**, the members' dormitory and training room
+- Safes and caches for stolen goods
+- A secret route to the surface through Riften's graveyard
+- Workshops for lockpicking and forgery
+
+The organization also maintains a vast network of informants, fences, and contacts in every city across Skyrim, though this network had considerably shrunk by the time of the 4E 201 crisis.
+
+## Hierarchy and Operations
+
+The Guild is organized along a strict hierarchy:
+
+**The Guildmaster** — supreme authority, responsible for strategic decisions and the distribution of profits. In 4E 201, this post is held by **Mercer Frey**.
+
+**The Nightingales** — an elite trio bound by oath to the Daedric Princess Nocturnal (see dedicated section).
+
+**Brynjolf** — right-hand man of the Guildmaster, recruiter and mentor. A Nord with disarming charm who spots promising talent on the streets of Riften.
+
+**Delvin Mallory** — specialist in burglary and contact with the Dark Brotherhood. He distributes theft contracts to members.
+
+**Vex** — expert in infiltration and daring heists. An Imperial with a biting personality, she handles the most delicate contracts.
+
+**Tonilia** — the Guild's official fence, she converts stolen goods into septims.
+
+Ordinary members carry out contracts, pay a share to the Guild, and rise in rank based on their successes.
+
+## The Betrayal of Mercer Frey
+
+The Guild's decline is no accident. **Mercer Frey**, the Guildmaster, is in reality a traitor who has been looting the organization for years. His story is tied to that of his predecessor, **Gallus Desidenius**.
+
+Gallus was a brilliant and respected Guildmaster who had discovered that Mercer was embezzling from the treasury. Before he could reveal the truth, Gallus was murdered by Mercer in 4E 176, roughly twenty-five years before the events of 4E 201. Mercer pinned the murder on **Karliah**, Gallus's companion and the third Nightingale.
+
+Karliah was banished and hunted for decades while Mercer took control of the Guild. Throughout this time, he:
+- Systematically drained the Guild's treasury
+- Used the stolen **Skeleton Key** from Nocturnal for his own purposes
+- Quietly sabotaged operations to conceal his embezzlement
+- Maintained the illusion of competent leadership in the face of decline
+
+## The Nightingales and Nocturnal
+
+The **Nightingales** are the most secretive and sacred aspect of the Thieves Guild. They are an elite trio of thieves bound by a pact with the Daedric Princess **Nocturnal**, the Lady of Darkness and patron of thieves.
+
+The Nightingale pact involves:
+- Protecting **Nightingale Hall**, Nocturnal's secret sanctuary
+- Guarding the **Skeleton Key**, a Daedric artifact of immense power
+- Serving Nocturnal eternally after death, as spectral guardians in the **Evergloam**, her Oblivion plane
+
+In return, the Nightingales receive:
+- **Nightingale Powers** — supernatural stealth abilities
+- **Nightingale Armor** — enchanted equipment of rare potency
+- The favor of Nocturnal, which manifests as supernatural luck
+
+The three Nightingales at the time of Gallus's murder were: Gallus himself, Karliah, and Mercer Frey. Mercer's betrayal therefore constituted a triple violation — against the Guild, against his companions, and against Nocturnal herself.
+
+## The Skeleton Key
+
+The **Skeleton Key** is a Daedric artifact of Nocturnal whose power far exceeds its modest appearance. While it can open any physical lock, its true nature is metaphysical: it unlocks the hidden potential of its bearer, suppressing all personal limitations.
+
+Mercer Frey used the Key for twenty-five years to:
+- Augment his thieving abilities beyond what was natural
+- Open every lock and chest he encountered
+- Become practically undetectable
+- Access places otherwise unreachable
+
+However, the theft of the Key deprived Nightingale Hall of its protection, which brought Nocturnal's curse upon the Guild — explaining the persistent bad luck that struck the organization.
+
+## The Restoration of the Guild
+
+The restoration of the Guild began when Brynjolf recruited a particularly talented new member in 4E 201. This new thief gradually uncovered the truth about Mercer with the help of Karliah, who emerged from hiding after decades of exile.
+
+The steps of the restoration:
+1. The discovery of Gallus's encoded journal, translated with the help of **Enthir** at the College of Winterhold
+2. The revelation of Mercer's betrayal before the assembled Guild
+3. The pursuit of Mercer to the Dwemer ruin of **Irkngthand**, where he was attempting to steal the eyes of the **Snow Queen** statue
+4. The death of Mercer in the flooded depths of Irkngthand
+5. The return of the Skeleton Key to Nightingale Hall
+6. The restoration of Nocturnal's favor
+
+## Influence in Riften
+
+The Thieves Guild maintains a symbiotic relationship with the city of Riften. **Maven Black-Briar**, the most powerful woman in the city, is their primary client and protector. Through her political influence and wealth, she shields the Guild from the authorities in exchange for regular services.
+
+This alliance allows the Guild to:
+- Operate with relative impunity in Riften
+- Maintain contacts within the city guard
+- Benefit from Maven's political protection
+- Access lucrative contracts through the Black-Briar network
+
+The corruption of Riften runs so deep that even the Jarl is under Maven's indirect influence, and the guards turn a blind eye to the Guild's activities as long as violence remains limited.
+
+## Code and Principles
+
+Despite its criminal nature, the Thieves Guild operates according to a strict code:
+
+- **No killing** — violence is a last resort, never an objective
+- **No stealing from the poor** — only the rich and powerful are targets
+- **Honor contracts** — an agreement is sacred, even among thieves
+- **Protect the Guild** — never reveal the organization's existence or secrets
+- **Share the profits** — a portion always goes back to the Guild
+
+These principles distinguish the Guild from common brigands and lend it a form of legitimacy in the criminal world. A Guild thief is a professional, not a thug.
+
+## Legacy and Tradition
+
+The Thieves Guild of Skyrim is part of a millennial tradition. Similar organizations exist throughout Tamriel — the Thieves Guild of Cyrodiil was once legendary under the leadership of the **Gray Fox**. That of Skyrim, though more modest, upholds the same ideals of elegant thievery, redistribution of wealth, and defiance of established authority.
+
+After the restoration of 4E 201, the Guild experienced a spectacular revival, regaining its influence in every major city of Skyrim and reestablishing its network of contacts and protectors. The renewed blessing of Nocturnal ensured that luck would once again smile upon those who operate in the shadows.

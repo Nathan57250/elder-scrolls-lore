@@ -1,0 +1,90 @@
+---
+title: "Bordeciel — La Patria de los Nórdicos"
+slug: "bordeciel"
+era: "fourth-era"
+category: "lieux"
+tags: ["bordeciel", "skyrim", "nordicos", "castillerias", "jarls", "geografia"]
+timelineYear: 201
+summary: "La provincia de Bordeciel, tierra de los nórdicos: sus nueve castelderías, sus montañas nevadas, sus ruinas nórdicas y su papel central en los eventos de la Cuarta Era."
+sources: ["UESP: Skyrim", "Pocket Guide to the Empire, 1st Edition", "Nords of Skyrim"]
+---
+
+## Geografía
+
+![Mapa de Bordeciel](/images/fourth-era/skyrim-map.png)
+
+Bordeciel (Skyrim) es la provincia más septentrional de Tamriel, delimitada por:
+- **Norte**: el Mar de los Fantasmas (Sea of Ghosts)
+- **Oeste**: Alta Roca y Martillo Caído
+- **Sur**: Cyrodiil
+- **Este**: Morrowind
+
+El paisaje está dominado por la **Garganta del Mundo** (Throat of the World) — la montaña más alta de Tamriel, en cuya cima medita Paarthurnax.
+
+### Regiones Naturales
+- **Tundra volcánica** (Estemarche) — géiseres y fuentes termales
+- **Bosques de pinos** (Falkreath, El Grifo) — valles boscosos
+- **Llanuras nevadas** (Blancherive, Invernalia) — estepas heladas
+- **Costas rocosas** (Haafingar, Hjaalmarch) — acantilados y marismas
+- **Montañas** (El Ciel d'Automne) — territorio salvaje de los Parjures
+
+## Las Nueve Castelderías
+
+| Castellería | Capital | Jarl (4E 201) | Lealtad |
+|-------------|---------|---------------|---------|
+| Blancherive | Blancherive | Balgruuf | Neutral |
+| Estemarche | Vendeaume | Ulfric Tormenta | Sombrages |
+| Haafingar | Solitud | Elisif la Justa | Imperio |
+| El Grifo | Faillaise | Laila Law-Giver | Sombrages |
+| Falkreath | Falkreath | Siddgeir | Imperio |
+| Hjaalmarch | Morthal | Idgrod Ravencrone | Imperio |
+| El Ciel d'Automne | Markarth | Igmund | Imperio |
+| Invernalia | Invernalia | Korir | Sombrages |
+| El Páramo | Ventestrella | Skald el Anciano | Sombrages |
+
+## Ciudades Principales
+
+### Solitud
+La capital imperial de Bordeciel, sede del Alto Rey (o Alta Reina). Encaramada sobre un inmenso arco natural de piedra, es la ciudad más cosmopolita y rica de la provincia. El Palacio Azul domina la ciudad.
+
+### Vendeaume
+La ciudad humana más antigua de Tamriel, fundada por Ysgramor. El Palacio de los Reyes está tallado en la roca misma de la montaña. Cuartel general de la rebelión Sombrage y ciudad natal de Ulfric.
+
+### Markarth
+Construida en las ruinas de una antigua ciudad Dwemer, Markarth es una obra maestra de arquitectura en piedra. La ciudad está marcada por el conflicto con los Parjures (Forsworn) — los nativos del Ciel d'Automne que reivindican su tierra.
+
+### Invernalia
+Antaño un centro de erudición mágica que albergaba el prestigioso Colegio de Invernalia. El **Gran Derrumbe** (4E 122) destruyó la mayor parte de la ciudad cuando el mar se tragó sus acantilados.
+
+## Cultura Nórdica
+
+### Valores
+- **Honor en el combate** — la muerte en batalla conduce a Sovngarde
+- **Desconfianza hacia la magia** — los nórdicos prefieren el acero
+- **Hidromiel y banquetes** — la convivialidad como cemento social
+- **Juglares** (Skalds) — tradición oral de las hazañas heroicas
+
+### Sovngarde
+El paraíso de los guerreros nórdicos, un vasto salón de banquetes presidido por Shor (Lorkhan) donde los valientes combaten y banquetean eternamente. Accesible a través del Puente de Hueso de Ballena custodiado por Tsun.
+
+### El Thu'um
+El arte de la Voz — herencia de la era de los Dragones. Antaño un arte marcial, fue reservado a los Barbas Grises tras la derrota de Jurgen Windcaller. Los Sangres de Dragón nacen con esta capacidad innata.
+
+## Historia Reciente
+
+- **4E 122**: Gran Derrumbe de Invernalia
+- **4E 174**: Saqueo de la Ciudad Imperial por el Thalmor
+- **4E 175**: Concordato del Oro Blanco — Talos prohibido
+- **4E 176**: Incidente de Markarth — Ulfric retoma la ciudad
+- **4E 201**: Ulfric mata al Alto Rey Torygg
+- **4E 201**: Retorno de Alduin y el Último Sangre de Dragón
+
+## Fauna y Flora
+
+Bordeciel alberga una fauna única y peligrosa:
+- **Dragones** — regresaron de entre los muertos en 4E 201
+- **Troles de las nieves** — se regeneran salvo ante el fuego
+- **Sabrecats** — felinos de dientes de sable
+- **Gigantes** — nómadas con sus mamuts
+- **Draugr** — no-muertos nórdicos en las tumbas antiguas
+- **Spriggans** — espíritus hostiles de los bosques

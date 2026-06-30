@@ -1,0 +1,52 @@
+---
+title: "Whiterun"
+slug: "blancherive"
+era: "fourth-era"
+category: "geographie"
+tags: ["skyrim", "whiterun", "dragonsreach", "dovahkiin", "civil-war", "jorrvaskr"]
+date: "Merethic Era — present"
+timelineYear: 180
+summary: "Central city of Skyrim dominated by Dragonsreach, seat of Jarl Balgruuf and starting point of the Dovahkiin's quest."
+mapCoords: { x: 430, y: 220 }
+province: "Skyrim"
+sources: ["UESP: Whiterun", "Events of TES V: Skyrim"]
+---
+
+## Geographic Location
+
+**Whiterun** stands at the center of Skyrim, on the tundra of the **Whiterun Plain** — a vast expanse of grasslands and farms bordered by rivers. Its central position makes it a vital commercial crossroads.
+
+The city is built on a rocky hill, with the **Dragonsreach** palace dominating the summit — an enormous Nordic timber-frame hall that takes its name from the dragon once imprisoned there.
+
+## Architecture and Districts
+
+Whiterun is divided into three districts:
+
+### The Plains District
+The lower level — merchants, market stalls, the Bannered Mare (inn), and the Warmaiden's forge of blacksmith Adrianne Avenicci.
+
+### The Wind District
+The middle level — residences of wealthy citizens, the Temple of Kynareth, and **Jorrvaskr** — the hall of the Companions (a warrior guild and spiritual heir to Ysgramor's Five Hundred Companions).
+
+### The Cloud District
+The summit — **Dragonsreach** and the Jarl's palace.
+
+## Dragonsreach
+
+Dragonsreach is one of the oldest and most impressive buildings in Skyrim. Built by Jarl Olaf One-Eye in the First Era to imprison the dragon **Numinex**, it is today the seat of power of **Jarl Balgruuf the Greater**.
+
+It is from Dragonsreach's Great Porch that the Dovahkiin captures the dragon **Odahviing** in 4E 201, using him to reach Skuldafn and the portal to Sovngarde.
+
+## Role in the Civil War
+
+Whiterun occupies a delicate political position during the civil war of 4E 201:
+- Geographically central, it is coveted by both sides
+- Jarl Balgruuf attempts to maintain neutrality
+- The city ultimately must choose a side, becoming a major military objective
+
+## The Dovahkiin in Whiterun
+
+It is in Whiterun that the Dovahkiin:
+1. Learns of his nature as Dragonborn after absorbing a dragon's soul at the Western Watchtower
+2. Is summoned by the **Greybeards** of High Hrothgar via the Thu'um
+3. Eventually joins the Companions and discovers the Circle's secret of lycanthropy

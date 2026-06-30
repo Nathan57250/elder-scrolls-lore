@@ -1,0 +1,105 @@
+---
+title: "Markarth"
+slug: "markarth"
+era: "fourth-era"
+category: "lieux"
+tags: ["markarth", "dwemer", "parjures", "sangre-de-plata", "cidhna", "la-alcanzada"]
+timelineYear: 201
+summary: "Markarth es una ciudad única en Bordeciel, construida en las ruinas de una antigua ciudad dwemer, marcada por el conflicto entre los Nórdicos, los Parjures y la corrupción de la familia Sangre de Plata."
+sources: ["The Markarth Incident", "The Bear of Markarth", "Dwemer History and Culture", "The \"Madmen\" of the Reach"]
+---
+
+# Markarth
+
+## La Ciudad de Piedra
+
+**Markarth** es una de las ciudades más singulares de Bordeciel y de todo Tamriel. Construida directamente en los acantilados de la **Alcanzada** (*The Reach*), en los vestigios de una antigua ciudad **dwemer** (*Nchuand-Zel*), está compuesta íntegramente de piedra y metal. Sin madera, sin tela — solo la roca tallada por una civilización desaparecida hace milenios y reutilizada por los sucesivos ocupantes.
+
+La ciudad se escalone en varios niveles a lo largo de una espectacular cascada, el **Kartspire**, que se derrama hacia el río que discurre abajo. Los edificios están excavados directamente en la pared rocosa, conectados por escaleras dwemer de piedra, pasarelas y rampas. El conjunto ofrece una impresión de grandiosidad monumental e inmutabilidad.
+
+## Herencia Dwemer
+
+Los **Dwemer** (*Enanos*) construyeron la ciudad original — **Nchuand-Zel** — durante la Primera Era. Su ingeniería era tan avanzada que sus estructuras sobrevivieron intactas durante milenios tras su misteriosa desaparición en 1E 700. Las características dwemer aún visibles incluyen:
+
+- Tuberías de vapor y mecanismos automatizados todavía en funcionamiento
+- Puertas y cerraduras de engranajes de una precisión extraordinaria
+- Columnas y arcos decorados con motivos geométricos
+- **Animunculi** (*autómatas dwemer*) aún activos en las profundidades
+- El vasto complejo subterráneo bajo la ciudad, parcialmente explorado
+
+Las ruinas subterráneas de Nchuand-Zel son peligrosas — pobladas por autómatas dwemer, Fálmer degenerados y trampas mortales. Las autoridades de Markarth prohíben el acceso, pero exploradores y aventureros intentan regularmente penetrar en ellas.
+
+## Los Parjures (Forsworn)
+
+El conflicto dominante de la Alcanzada es el que enfrenta a los **Parjures** (*Forsworn*) con los Nórdicos que controlan la región. Los Parjures son los descendientes de los **Hombres de la Alcanzada** (*Reachmen*), un pueblo bretón autóctono que habitaba la región mucho antes de la llegada de los Nórdicos.
+
+Los Parjures reivindican la Alcanzada como su tierra ancestral y llevan a cabo una brutal guerrilla contra la ocupación nórdica:
+- Emboscadas en caminos y pasos de montaña
+- Incursiones contra granjas y aldeas aisladas
+- Práctica de las **Hagragraves** — brujas corrompidas, mitad mujer, mitad pájaro
+- Uso de magia primigenia y rituales sangrientos
+- Campamentos forticicados en alturas inaccesibles
+
+El **Incidente de Markarth** de 4E 174 es un acontecimiento clave: aprovechando la Gran Guerra entre el Imperio y el Thalmor, los Parjures se apoderaron de la ciudad y la gobernaron durante dos años. Fue **Ulfric Sombrage** y su milicia quienes recuperaron la ciudad en un baño de sangre, masacrando a los Parjures y a los civiles simpatizantes sin distinción. Este suceso sembró las semillas del odio irreconciliable que persiste en 4E 201.
+
+## La Familia Sangre de Plata
+
+El verdadero poder en Markarth no es el Jarl sino la familia **Sangre de Plata** (*Silver-Blood*). Esta dinastía nórdica controla las minas de plata de la región — principal fuente de riqueza de la Alcanzada — y ejerce una influencia corrompida sobre todos los aspectos de la vida ciudadana.
+
+**Thongvor Sangre de Plata** es el patriarca de la familia, un duro nacionalista nórdico que apoya a los Sombrages. Su hermano **Thonar** gestiona las operaciones en la sombra, manipulando a los Parjures encarcelados y controlando las actividades criminales.
+
+La familia Sangre de Plata:
+- Posee la **Mina de Cidhna** y la mayoría de las minas de la región
+- Controla el comercio de la plata que hace la riqueza de Markarth
+- Manipula al Jarl **Igmund** mediante la presión económica
+- Utiliza a los prisioneros como mano de obra esclava en las minas
+- Financia secretamente ciertas actividades criminales
+
+Su dominio es tan absoluto que a menudo se dice que "la sangre de Markarth corre en plata" — una referencia a la vez a la riqueza mineral y a la corrupción que la acompaña.
+
+## La Mina de Cidhna
+
+La **Mina de Cidhna** es a la vez una mina de plata y la prisión más segura de Bordeciel. Situada en el corazón de la montaña bajo la ciudad, se considera inexpugnable — ninguna fuga ha sido confirmada jamás (oficialmente).
+
+Los prisioneros — principalmente Parjures capturados — son obligados a trabajar en las vetas de plata para el beneficio de la familia Sangre de Plata. Las condiciones son inhumanas:
+- Trabajo forzado interminable en la oscuridad
+- Comida mínima y agua contaminada
+- Sin esperanza de liberación para la mayoría
+- Violencia entre prisioneros tolerada por los guardias
+- Muerte frecuente por agotamiento o derrumbes
+
+**Madanach**, el "Rey Harapiento" (*King in Rags*), es el histórico líder Parjure encarcelado en Cidhna desde el Incidente de Markarth. A pesar de su encarcelamiento, sigue dirigiendo el movimiento parjure desde su celda, comunicándose con el exterior a través de intermediarios — irónicamente con la complicidad de Thonar Sangre de Plata, quien lo utiliza para controlar a los Parjures.
+
+## El Templo de Dibella
+
+Encaramado en lo alto de la ciudad, el **Templo de Dibella** es un lugar de culto dedicado a la diosa de la belleza y el amor. Las sacerdotisas de Dibella mantienen una comunidad cerrada, guardando celosamente el secreto de su **Sibila** — una joven dotada de visiones proféticas.
+
+El templo contrasta fuertemente con la violencia y la corrupción que impregnan el resto de la ciudad. Representa una isla de serenidad y gracia en un océano de brutalidad.
+
+## El Santuario de Namira
+
+Bajo la respetable superficie de Markarth se oculta un secreto aún más oscuro: un **culto caníbal** dedicado a la Princesa Daédrica **Namira**, Dama de la Decadencia. Este culto se reúne en las profundidades bajo la **Sala de los Muertos** de la ciudad, donde sus miembros — ciudadanos aparentemente respetables — se banquetean con la carne de los difuntos.
+
+El sacerdote de la Sala de los Muertos, **Verulus**, es consciente de actividades sospechosas pero impotente para detenerlas. El culto está protegido por el secreto y por la posición social de sus miembros.
+
+## Economía y Recursos
+
+Markarth obtiene su riqueza principalmente de sus minas:
+- **La plata** — recurso primero, extraído en grandes cantidades
+- **El hierro y el acero** — para armas y herramientas
+- **Las piedras preciosas** — encontradas en las vetas profundas
+- **Los artefactos dwemer** — hallados en las ruinas y vendidos a precios de oro
+
+El comercio de cuero, carne y pieles complementa la economía, pues la Alcanzada es una importante región ganadera a pesar de las incursiones de los Parjures. La **Cervecería Sangre de Plata** también produce hidromiel y cerveza vendidos por todo el oeste de Bordeciel.
+
+## La Guardia de Markarth
+
+La guardia de Markarth es tristemente célebre por su corrupción y brutalidad. Financiada en parte por los Sangre de Plata, sirve tanto los intereses de la familia como los del Jarl. Los guardias son rápidos en acusar y encarcelar con pruebas escasas, alimentando la población de trabajadores forzados de la Mina de Cidhna.
+
+Un dicho local resume la situación: *"Nadie escapa de la Mina de Cidhna"* — una amenaza tanto como una constatación, que recuerda a quien perturbe el orden establecido el riesgo de acabar en las entrañas de la montaña.
+
+## Significado Cultural
+
+Markarth es un microcosmos de las tensiones que desgarran Bordeciel: el conflicto entre los ocupantes nórdicos y los pueblos autóctonos, la corrupción de las élites, la explotación de los trabajadores y la violencia endémica que resulta de todo ello. Es una magnífica ciudad construida sobre el sufrimiento, un monumento a la ingeniería dwemer convertido en escenario de la codicia humana.
+
+La cuestión de la legitimidad — ¿quién tiene derecho a gobernar la Alcanzada? — permanece sin respuesta. Los Nórdicos conquistaron la región por la fuerza, los Parjures intentan recuperarla por la violencia y los Sangre de Plata se aprovechan del caos para enriquecerse. En este triángulo de conflictos, son los ciudadanos ordinarios quienes más sufren.

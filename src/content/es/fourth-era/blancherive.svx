@@ -1,0 +1,52 @@
+---
+title: "Blancherive"
+slug: "blancherive"
+era: "fourth-era"
+category: "geographie"
+tags: ["bordeciel", "blancherive", "fort-dragon", "dovahkiin", "guerra-civil", "jorrvaskr"]
+date: "Era Merética — presente"
+timelineYear: 180
+summary: "Ciudad central de Bordeciel dominada por Fort-Dragon, residencia del Jarl Balgruuf y punto de partida de la búsqueda del Dovahkiin."
+mapCoords: { x: 430, y: 220 }
+province: "Bordeciel"
+sources: ["UESP: Whiterun", "Events of TES V: Skyrim"]
+---
+
+## Ubicación Geográfica
+
+**Blancherive** (Whiterun) se alza en el centro de Bordeciel, en la tundra de la **Llanura de Blancherive** — una vasta extensión de praderas y granjas bordeada por ríos. Su posición central la convierte en un cruce comercial vital.
+
+La ciudad está construida sobre una colina rocosa, con el palacio de **Fort-Dragon** (Dragonsreach) dominando la cima — un inmenso salón de madera al estilo nórdico que debe su nombre al dragón que en su día estuvo aprisionado en él.
+
+## Arquitectura y Distritos
+
+Blancherive está dividida en tres distritos:
+
+### El Distrito de las Llanuras
+El nivel inferior — comerciantes, puestos del mercado, la Yegua Orgullosa (posada) y la forja Warmaiden's de la herrería Adrianne Avenicci.
+
+### El Distrito del Viento
+El nivel intermedio — residencias de los ciudadanos acomodados, el Templo de Kynareth y **Jorrvaskr** — el salón de los Compañeros (gremio de guerreros y heredero espiritual de los Quinientos Compañeros de Ysgramor).
+
+### El Distrito de las Nubes
+La cima — **Fort-Dragon** y el palacio del Jarl.
+
+## Fort-Dragon
+
+El salón de Fort-Dragon es uno de los edificios más antiguos e impresionantes de Bordeciel. Construido por el Jarl Olaf Un-Ojo en la Primera Era para aprisionar al dragón **Numinex**, es hoy la sede del poder del **Jarl Balgruuf el Grande**.
+
+Es desde el Gran Porche de Fort-Dragon donde el Dovahkiin captura al dragón **Odahviing** en 4E 201, sirviéndose de él para llegar a Skuldafn y el portal hacia Sovngarde.
+
+## Papel en la Guerra Civil
+
+Blancherive ocupa una posición política delicada durante la guerra civil de 4E 201:
+- Geográficamente en el centro, es codiciada por ambos bandos
+- El Jarl Balgruuf intenta mantener la neutralidad
+- La ciudad acaba teniendo que elegir un bando, convirtiéndose en un objetivo militar de primer orden
+
+## El Dovahkiin en Blancherive
+
+Es en Blancherive donde el Dovahkiin:
+1. Aprende su naturaleza de Sangre de Dragón tras absorber el alma de un dragón en la Torre de Guardia
+2. Es convocado por los **Barbas Grises** del Alto Hrothgar a través del Thu'um
+3. Se une eventualmente a los Compañeros y descubre el secreto de la licantropía del Círculo

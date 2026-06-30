@@ -1,0 +1,56 @@
+---
+title: "El Vampirismo en la Cuarta Era"
+slug: "vampires-fourth-era"
+era: "fourth-era"
+category: "races"
+tags: ["vampiros", "volkihar", "harkon", "serana", "guardia-del-alba", "molag-bal", "sanguinare-vampiris"]
+timelineYear: 201
+summary: "El vampirismo en la Cuarta Era, los distintos linajes vampíricos y el complot del señor Harkon para extinguir el sol."
+sources: ["Dawnguard DLC", "Immortal Blood", "Manifesto Cyrodiil Vampyrum", "The Aetherium Wars"]
+---
+
+## El Vampirismo en el Mundo de Tamriel
+
+El vampirismo es una aflicción tan antigua como los propios Príncipes Daédricos. Según la tradición, fue **Molag Bal**, el Príncipe de la Dominación, quien creó a los primeros vampiros violando a una mujer nédica llamada **Lamae Beolfag**, transformándola en la primera hija de la noche. Desde entonces, la maldición se ha extendido por Tamriel en múltiples formas, con cada cepa vampírica mostrando características distintas según el linaje y la región.
+
+En la Cuarta Era, el vampirismo sigue siendo una amenaza constante pero a menudo invisible. Muchos vampiros viven entre los mortales sin despertar sospechas, alimentándose discretamente y manteniendo su apariencia humana mientras satisfacen regularmente su sed de sangre.
+
+## Los Linajes Vampíricos de Cielos de Hielo
+
+En Cielos de Hielo, la forma dominante de vampirismo se transmite por la enfermedad **Sanguinare Vampiris**, contraída durante los ataques vampíricos. Si no se trata en tres días, la enfermedad se transforma en vampirismo completo, otorgando al sujeto poderes sobrenaturales pero también una mayor vulnerabilidad al sol y al fuego.
+
+Los vampiros de Cielos de Hielo se dividen en varias facciones. Los vampiros "comunes" viven en cuevas y ruinas, cazando viajeros imprudentes. Otros, más discretos, se integran en la sociedad haciéndose pasar por ciudadanos ordinarios. Pero el linaje más poderoso y antiguo es sin duda el **Clan Volkihar**.
+
+## El Clan Volkihar y el Señor Harkon
+
+El **Clan Volkihar** es el linaje vampírico más antiguo y poderoso de Cielos de Hielo. Establecido en el Castillo Volkihar, una fortaleza aislada en una isla frente a la costa noroeste, este clan obtiene su poder directamente del propio **Molag Bal**. El señor **Harkon**, patriarca del clan, obtuvo el don del vampirismo puro ofreciendo mil almas inocentes al Príncipe Daédrico en un ritual de crueldad indecible.
+
+El vampirismo Volkihar difiere fundamentalmente de otras cepas. Los miembros del clan poseen la forma de **Señor Vampiro** — una transformación monstruosa que les confiere poderes devastadores: levitación, drenar vida a distancia, invocar gárgolas y la capacidad de resucitar a los muertos. A diferencia de los vampiros ordinarios, los Volkihar pueden atravesar el hielo sin romperlo, deslizándose bajo los lagos helados para alcanzar a sus víctimas.
+
+## El Complot de la Profecía de la Tiranía del Sol
+
+El plan de **Harkon** se basaba en un antiguo artefacto conocido como el **Arco de Auriel** — el arco del dios **Auri-El** en persona, conservado desde la Era Meréthica en el santuario perdido del Valle Olvidado. Según la Profecía de la Tiranía del Sol, inscrita en un **Pergamino de los Ancianos**, la sangre de una Hija del Puerto Frío de Molag Bal, disparada a través del arco hacia el sol, hundiría al mundo en una noche eterna.
+
+Para completar este ritual, Harkon necesitaba a su propia hija, **Serana**, a quien había encerrado con un Pergamino de los Ancianos en un sarcófago en la cripta de Dimhollow hacía milenios. Serana y su madre **Valerica** habían sido transformadas en "Hijas del Puerto Frío" — vampiras puras creadas mediante un ritual directo con Molag Bal — específicamente para servir como componentes de la profecía.
+
+## Serana y la Resistencia Interna
+
+**Serana**, despertada de su sueño milenario en 4E 201, resultó ser mucho más que un simple instrumento en los planes de su padre. Dotada de voluntad propia y de una perspectiva única — la de una mujer arrancada de su época y proyectada a un mundo que ya no reconocía — eligió oponerse a Harkon.
+
+Su madre, **Valerica**, había huido al **Cairn de las Almas** — un plano de Oblivion que sirve de receptáculo para las almas atrapadas en gemas de alma — llevando consigo uno de los Pergaminos de los Ancianos necesarios para el ritual. Este sacrificio voluntario da fe de la profundidad del conflicto que desgarraba al Clan Volkihar desde dentro.
+
+## La Guardia del Alba
+
+Ante la creciente amenaza vampírica, una orden de cazadores de vampiros fue reformada: la **Guardia del Alba** (Dawnguard). Dirigida por **Isran**, un antiguo Vigía de **Stendarr** cuya desconfianza e inflexibilidad le habían valido la expulsión de la orden, la Guardia del Alba se estableció en el Fuerte Guardia del Alba, una antigua fortaleza en el cañón de Dayspring.
+
+La orden reclutaba guerreros, ballesteros e incluso magos especializados en magia de Restauración ofensiva — los hechizos de **sol** eran particularmente devastadores contra los muertos vivientes. La incorporación de trolls acorazados a su arsenal da testimonio de su pragmatismo ante una amenaza existencial.
+
+## La Resolución del Conflicto
+
+El enfrentamiento final entre la Guardia del Alba y el Clan Volkihar tuvo lugar en el gran salón del Castillo Volkihar. La muerte de **Harkon** — atravesado por el Arco de Auriel o vencido con armas convencionales — puso fin a la amenaza de la noche eterna. El Clan Volkihar fue destruido o absorbido bajo un nuevo líder, dependiendo de las circunstancias de la batalla.
+
+El propio **Arco de Auriel** sobrevivió al conflicto, al igual que los Pergaminos de los Ancianos implicados en la profecía. La cuestión de si la Profecía de la Tiranía del Sol podría algún día ser cumplida por otras manos sigue abierta — los artefactos necesarios aún existen, y la sangre de las Hijas del Puerto Frío sigue corriendo por las venas de Serana.
+
+## Legado Vampírico
+
+Los eventos de 4E 201 demostraron que el vampirismo, lejos de ser una simple maldición individual, podía constituir una amenaza civilizatoria. El plan de Harkon, de haber tenido éxito, habría alterado fundamentalmente el equilibrio del mundo al privar a Tamriel de la luz del sol — transformando Nirn en un paraíso para los muertos vivientes y un infierno para los vivos.

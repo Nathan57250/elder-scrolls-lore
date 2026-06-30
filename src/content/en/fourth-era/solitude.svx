@@ -1,0 +1,83 @@
+---
+title: "Solitude — Capital of Skyrim"
+slug: "solitude"
+era: "fourth-era"
+category: "lieux"
+tags: ["solitude", "haafingar", "blue-palace", "empire", "bard", "skyrim"]
+timelineYear: 201
+summary: "Solitude is the Imperial capital of Skyrim — a majestic city perched atop a natural stone arch, seat of Imperial power and the High King."
+sources: ["UESP: Solitude", "Walking the World, Vol XI", "The Imperial Library"]
+---
+
+## Location
+
+![View of Solitude from the road](/images/fourth-era/solitude.jpg)
+
+**Solitude** (Haafingar) is built atop an immense **natural stone arch** that juts out over the sea — a spectacular promontory that makes the city nearly impregnable. The Karth River flows beneath it, creating a sheltered natural harbor.
+
+It is the wealthiest, most populous, and most cosmopolitan city in Skyrim.
+
+## Architecture
+
+### The Blue Palace
+Residence of the High King (or High Queen) of Skyrim. An imposing edifice of blue stone and elegant arches, dominating the city from its highest point. In 4E 201, it is occupied by **Jarl Elisif the Fair** — widow of High King Torygg, murdered by Ulfric.
+
+### Castle Dour
+Solitude's military fortress, headquarters of **General Tullius** and the command of the Imperial Legion in Skyrim. It is here that operations against the Stormcloak rebellion are coordinated.
+
+### The Bards College
+An institution unique to Solitude, the College trains musicians, poets and historians. Bards play a crucial role in Nordic culture — they preserve oral history and tradition.
+
+### The Execution Square
+Visible from the city entrance — a courtyard where public executions take place. The player witnesses an execution upon first arriving in Solitude.
+
+## Political Role
+
+Solitude is the **seat of Imperial power** in Skyrim:
+- Residence of the High King / High Queen
+- Headquarters of the Imperial Legion
+- Thalmor embassy nearby
+- Administrative center of the province
+
+### Position in the Civil War
+Solitude is the main stronghold of the **Imperial faction**:
+- Jarl Elisif supports the Empire out of loyalty to her murdered husband
+- General Tullius coordinates operations from Castle Dour
+- The city is relatively spared from direct fighting
+
+## Commerce and Economy
+
+Solitude's port is the main maritime entry point for Skyrim:
+- Trade with High Rock, Cyrodiil, and the Isles
+- The **East Empire Company** has its headquarters here
+- Thriving covered market
+- Luxury crafts (jewelry, dyeing, carpentry)
+
+## Notable Locations
+
+| Location | Description |
+|----------|-------------|
+| Blue Palace | Royal residence |
+| Castle Dour | Imperial garrison |
+| Bards College | School of music and poetry |
+| Temple of the Divines | Largest temple in Skyrim |
+| Proudspire Manor | Most expensive residence in the game |
+| Winking Skeever | Main inn |
+| Radiant Raiment | Fine clothing shop |
+| Angeline's Aromatics | Herbalist and alchemy |
+
+## The Temple of the Divines
+
+The largest temple in Skyrim, dedicated to the **Eight Divines** (officially — the cult of Talos is forbidden since the Concordat):
+- Altars of the eight permitted deities
+- Resident priests and priestesses
+- The most prestigious marriage venue in the province
+- The altar of Talos is **absent** — in compliance with the ban
+
+## History
+
+- **1E**: Founded as a Nordic fishing port
+- **2E**: Becomes capital under Imperial influence
+- **3E**: Prospers under the Imperial peace
+- **4E 201**: Torygg killed by Ulfric → Civil war
+- The murder of Torygg is the spark: Ulfric challenged him to a duel and used the **Thu'um** to hurl him down, then killed him with a sword — the Imperials call it assassination, the Stormcloaks call it an honorable duel.

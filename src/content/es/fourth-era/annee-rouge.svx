@@ -1,0 +1,132 @@
+---
+title: "El Año Rojo: La Destrucción de Morrowind"
+slug: "annee-rouge"
+era: "fourth-era"
+category: "evenements"
+tags: ["año-rojo", "morrowind", "montaña-roja", "dunmer", "argonianos", "vvardenfell", "diaspora", "baar-dau"]
+timelineYear: 5
+summary: "En 4E 5, la erupción catastrófica de la Montaña Roja destruyó Vvardenfell y devastó Morrowind, desencadenando la invasión argoniana y la diáspora del pueblo Dunmer."
+sources: ["UESP: Red Year", "The Red Year vol. I & II (Melis Ravel)", "Events of TES III: Morrowind", "Adril Arano's dialogue (TES V: Dragonborn)"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## El Cataclismo
+
+El **Año Rojo** (4E 5) designa la mayor catástrofe natural de la Cuarta Era: la erupción de la **Montaña Roja** (Red Mountain), el volcán sagrado situado en el corazón de la isla de **Vvardenfell**, en Morrowind. Este acontecimiento transformó en pocas horas una civilización milenaria en un pueblo de refugiados.
+
+### La Caída de Baar Dau
+
+El desastre tuvo su origen en la **luna Baar Dau** (también llamada el Ministerio de la Verdad), un enorme meteorito que el dios viviente **Vivec** había suspendido por la fuerza de su voluntad sobre la ciudad de Vivec durante toda la Tercera Era.
+
+Tras la desaparición del Tribunal y el fin del poder divino de Vivec a raíz de los eventos de TES III, el meteorito solo era retenido por el **Ingenium** — un dispositivo mágico alimentado por almas. Cuando el Ingenium fue destruido (eventos de TES IV: Oblivion, La Ciudad Infernal), Baar Dau reanudó su caída inexorable.
+
+### El Impacto y la Erupción
+
+El impacto de Baar Dau:
+- **Destruyó completamente** la ciudad de Vivec
+- Desencadenó la erupción masiva de la Montaña Roja
+- Provocó devastadores maremotos a lo largo de toda la costa de Vvardenfell
+- Lanzó cenizas y lava sobre toda la isla
+
+## La Extensión de la Devastación
+
+### Vvardenfell
+
+La isla de Vvardenfell quedó **casi totalmente destruida**. Las grandes ciudades — Vivec, Balmora, Ald'ruhn, Sadrith Mora — fueron sepultadas bajo las cenizas o tragadas enteras. La población que no pudo huir pereció en las tormentas de fuego y los flujos piroclásticos.
+
+### El Continente de Morrowind
+
+El continente tampoco fue perdonado:
+- Lluvias de cenizas cayeron durante semanas
+- Las cosechas fueron destruidas durante varios años
+- La infraestructura económica se derrumbó
+- Las Grandes Casas perdieron sus tierras ancestrales
+
+| Región | Impacto |
+|--------|---------|
+| Vvardenfell | Destrucción casi total |
+| Costa oeste del continente | Maremotos, devastación severa |
+| Regiones interiores | Lluvia de cenizas, hambrunas |
+| Solstheim | Cenizas volcánicas masivas, clima transformado |
+
+## La Invasión Argoniana
+
+### El Contexto
+
+Los **Argonianos** (el pueblo reptiliano de Black Marsh) habían sido esclavizados por los Dunmer durante milenios, especialmente por la Gran Casa Dres y la Gran Casa Telvanni. El odio acumulado a lo largo de generaciones encontró por fin su escape.
+
+### La Ofensiva
+
+Unos meses después del Año Rojo, mientras Morrowind aún estaba bajo las cenizas, los ejércitos argonianos invadieron el sur del país:
+- Se apoderaron de toda la región meridional de Morrowind
+- La Gran Casa Dres fue **prácticamente aniquilada**
+- La Gran Casa Telvanni sufrió pérdidas catastróficas
+- Solo la intervención de la **Gran Casa Redoran** logró estabilizar una línea de frente
+
+### El Papel del Hist
+
+Algunas fuentes sugieren que el **Hist** — los árboles espíritu místicos que guían a los Argonianos — había **previsto** la catástrofe y preparado a su pueblo para la invasión, incluso llamando de vuelta a los Argonianos desde Oblivion o tierras lejanas para engrosar las filas del ejército.
+
+## La Diáspora Dunmer
+
+### Los Refugiados
+
+Cientos de miles de Dunmer fueron obligados al exilio:
+- Muchos huyeron a **Cielos de Hielo**, instalándose principalmente en **Viento de Aullido** (el Barrio Gris)
+- Otros se dirigieron a **Solstheim**, donde la Casa Redoran estableció una colonia en torno a **Raven Rock**
+- Algunos se unieron a Cyrodiil u otras provincias
+
+### El Barrio Gris de Viento de Aullido
+
+En Viento de Aullido, los refugiados Dunmer fueron confinados en el **Barrio Gris** — un miserable gueto donde sufrieron la discriminación de los nórdicos. A pesar de décadas de presencia, seguían siendo ciudadanos de segunda clase, víctimas del racismo cotidiano.
+
+### Solstheim y Raven Rock
+
+El Imperio cedió la isla de **Solstheim** a Morrowind como ayuda humanitaria. La Casa Redoran estableció allí la colonia de Raven Rock, bajo la autoridad de un Consejero. A pesar de las cenizas que cubren ahora la mitad sur de la isla, los Dunmer reconstruyeron una comunidad.
+
+## Consecuencias a Largo Plazo
+
+El Año Rojo transformó irrevocablemente al pueblo Dunmer:
+
+1. **Colapso de las Grandes Casas** — La jerarquía política tradicional fue sacudida, con la Casa Redoran convirtiéndose en dominante por su fuerza militar
+2. **Fin del Templo del Tribunal** — Los últimos vestigios del culto al Tribunal desaparecieron, reemplazados por el retorno al culto de los **Ancestros** y los **Buenos Daedra** (las Reclamaciones)
+3. **Diáspora permanente** — Los Dunmer se convirtieron en un pueblo disperso, presentes en todas las provincias pero sin hogar en ninguna
+4. **Identidad reforzada** — A pesar de (o por causa de) la tragedia, la identidad cultural dunmer se forjó más fuerte en la adversidad
+5. **Debilitamiento geopolítico** — Morrowind dejó de ser una potencia política significativa en los asuntos de Tamriel
+
+## Legado
+
+El Año Rojo sigue siendo, en 4E 201, la **herida fundadora** de la Cuarta Era para el pueblo Dunmer. Cada refugiado del Barrio Gris, cada minero de Raven Rock, lleva en sí el recuerdo del día en que el cielo se volvió rojo y el mundo de sus ancestros se derrumbó en el fuego.
+
+## Cronología Causal
+
+El Año Rojo es un eslabón central en la cadena de catástrofes de la Cuarta Era:
+
+### Lo que causó el Año Rojo
+
+<CausalChain items={[
+  { text: "Batalla de la Montaña Roja (1E 700)", link: "/chronologie/first-era/bataille-montagne-rouge" },
+  { text: "El Tribunal usa el Corazón de Lorkhan → Vivec suspende Baar Dau", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "Profecía del Nerevarine → Muerte de Dagoth Ur (3E 427)", link: "/chronologie/third-era/nerevarine", indent: 1 },
+  { text: "Pérdida del poder del Tribunal → Vivec desaparece", indent: 1 },
+  { text: "El Ingenium mantiene Baar Dau artificialmente", indent: 1 },
+  { text: "Crisis de Oblivion (3E 433) → Caos → Ingenium destruido", link: "/chronologie/third-era/crise-oblivion", indent: 1 },
+  { text: "AÑO ROJO (4E 5)", indent: 1 }
+]} />
+
+### Lo que causó el Año Rojo
+
+<CausalChain items={[
+  { text: "AÑO ROJO (4E 5)" },
+  { text: "Morrowind devastada → Invasión argoniana", indent: 1 },
+  { text: "Diáspora Dunmer → Barrio Gris de Viento de Aullido → Tensiones raciales", link: "/chronologie/fourth-era/vendeaume", indent: 1 },
+  { text: "Morrowind fuera de juego políticamente → Imperio aún más débil", indent: 1 },
+  { text: "Solstheim cedida → Colonia Dunmer aislada", link: "/chronologie/fourth-era/solstheim", indent: 1 },
+  { text: "Casa Redoran dominante → Política Dunmer militarizada", link: "/chronologie/first-era/grandes-maisons-dunmer", indent: 1 },
+  { text: "Regreso al culto de las Reclamaciones (Azura, Boéthiah, Mephala)", indent: 1 }
+]} />
+
+El Año Rojo es la consecuencia última de un acto cometido 3700 años antes — el Tribunal robando el poder del Corazón de Lorkhan. El precio de la divinidad usurpada fue finalmente pagado por millones de inocentes.

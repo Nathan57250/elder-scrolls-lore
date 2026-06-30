@@ -1,0 +1,158 @@
+---
+title: "The Great War"
+slug: "grande-guerre"
+era: "fourth-era"
+category: "evenements"
+tags: ["great-war", "thalmor", "empire", "aldmeri-dominion", "white-gold-concordat", "talos", "titus-mede-ii", "battle-red-ring"]
+timelineYear: 171
+summary: "The major conflict of the Fourth Era (4E 171–175) between the Aldmeri Dominion and the Empire, concluded by the White-Gold Concordat which banned the worship of Talos."
+sources: ["UESP: Great War", "The Great War (Legate Justianus Quintius)", "Events of TES V: Skyrim", "Rising Threat"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Geopolitical Context
+
+The **Great War** (4E 171 — 4E 175) was the most devastating conflict of the Fourth Era, pitting the **Empire of Cyrodiil** under Titus Mede II against the **Second Aldmeri Dominion** led by the Thalmor. This conflict redrawn the political map of Tamriel and sowed the seeds of the Skyrim Civil War.
+
+### A Weakened Empire
+
+At the dawn of the conflict, the Empire was little more than a shadow of its Septim glory:
+- The Septim dynasty had ended with Martin in 3E 433
+- The **Mede** dynasty ruled, but without the divine legitimacy of the Septims
+- **Hammerfell** and the Empire maintained a tense relationship
+- Morrowind, devastated by the Red Year, could contribute nothing militarily
+- Black Marsh had effectively withdrawn from the Empire
+
+### The Aldmeri Dominion at Its Peak
+
+The Thalmor had spent a century and a half:
+- Consolidating power over the Summerset Archipelago
+- Absorbing Valenwood through a coup
+- Co-opting Elsweyr after the Void Nights
+- Building a formidable and disciplined army
+- Infiltrating the Empire through a network of spies
+
+## The Ultimatum (4E 171)
+
+In 4E 171, the Thalmor presented Emperor **Titus Mede II** with an ultimatum demanding:
+
+1. The **complete ban** on Talos worship throughout the Empire
+2. The **dissolution** of the Blades
+3. The **cession** of vast territories in Hammerfell to the Dominion
+4. Annual **tribute** payments to the Aldmeri Dominion
+
+The Emperor refused. That same day, a Thalmor ambassador placed before him the heads of every Blades agent in Aldmeri territory. The war began.
+
+## Course of the Conflict
+
+### First Phase: The Aldmeri Offensive (4E 171–172)
+
+The Dominion struck simultaneously on two fronts:
+
+**Cyrodiil Front:**
+- Aldmeri armies invaded from the south, crossing Valenwood
+- Thalmor general **Naarifin** led the main advance
+- Imperial southern defenses were overwhelmed
+
+**Hammerfell Front:**
+- A second army attacked Hammerfell from the coast
+- Several coastal cities fell quickly
+- The Redguards put up fierce resistance
+
+### The Fall of the Imperial City (4E 174)
+
+The darkest moment of the war came in **4E 174**:
+- General Naarifin besieged and took the **Imperial City**
+- Emperor Titus Mede II was forced to **flee** north
+- The Temple of the One and the Imperial Palace were desecrated
+- The **White-Gold Tower** itself fell into Thalmor hands
+- The atrocities committed during the Sack of the Imperial City were seared into collective memory
+
+### The Battle of the Red Ring (4E 175)
+
+The Empire's decisive counteroffensive was a tactical masterpiece:
+
+| Force | Commander | Role |
+|-------|-----------|------|
+| Army of the North | Titus Mede II | Frontal attack from the north |
+| Army of the West | General Decianus (recalled from Hammerfell) | Encirclement from the west |
+| New Legion | General Jonna (from Skyrim) | Attack from the east |
+
+Naarifin's army was **completely encircled** around Lake Rumare. In one day of fierce combat:
+- The Aldmeri central army was annihilated
+- General Naarifin was captured (and according to some sources, hung from the top of the White-Gold Tower for 33 days)
+- The Imperial City was liberated
+
+However, the victory came at a **terrible cost** — the Imperial legions were decimated and unable to continue the war.
+
+## The White-Gold Concordat
+
+### The Controversial Decision
+
+Despite the victory at the Red Ring, Emperor Titus Mede II chose to **negotiate peace** — a decision that remains controversial. The Empire no longer had the strength to continue fighting, and the Dominion still had reserves.
+
+### The Terms of the Treaty
+
+The White-Gold Concordat, signed in **4E 175**, imposed:
+
+1. **The ban on Talos worship** throughout the Empire — the Ninth Divine was removed from the official pantheon
+2. **The dissolution of the Blades** — the ancient order charged with protecting the Emperor was officially abolished
+3. **The cession of territories** in southern Hammerfell to the Aldmeri Dominion
+4. **Authorization** for Thalmor Justiciars to operate in Imperial territory to enforce the ban
+5. **Free movement** of Thalmor agents throughout the Empire
+
+### The Reactions
+
+- **Hammerfell** refused the terms and **seceded** from the Empire rather than accept the territorial cession, fighting alone for five additional years before achieving a stalemate
+- **Skyrim** officially accepted the terms but with growing fury — the Nords saw Talos as their national hero
+- The **eastern provinces** (Morrowind, Black Marsh) were already outside the Imperial orbit
+
+## Consequences
+
+### The Talos Ban
+
+The ban on Talos worship became the Nords' primary grievance against the Empire:
+- Talos shrines were destroyed or abandoned
+- Priests were forced into hiding
+- Thalmor Justiciars arrested and tortured worshippers
+- Nordic fury directly fueled the Stormcloak rebellion
+
+### The Empire's Weakening
+
+The Great War left the Empire:
+- Militarily exhausted and unable to project force
+- Territorially reduced (loss of Hammerfell, de facto autonomy of several provinces)
+- Politically humiliated before its vassal nations
+- Infiltrated by Thalmor agents deep into its institutions
+
+### The Seeds of Civil War
+
+**Ulfric Stormcloak**'s phrase sums up Nordic sentiment: *"The Empire is nothing but a puppet of the Elves."* The Great War and the Concordat are the direct causes of the Skyrim Civil War that erupted in 4E 201.
+
+## Strategic Perspective
+
+Some lore analysts suggest the Concordat was merely a **truce**, not a true peace. The Thalmor seeks to weaken the Empire enough to deliver the final blow, while the Empire hopes to buy time to rebuild its forces. The Skyrim Civil War serves the Thalmor's interests perfectly — dividing the Empire from within.
+
+## Causal Timeline
+
+The Great War is part of a broader chain of events:
+
+<CausalChain items={[
+  { text: "Oblivion Crisis (3E 433) → End of the Septims", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "17-year succession crisis", indent: 1 },
+  { text: "Mede Dynasty (without divine legitimacy)", indent: 1 },
+  { text: "Structural weakening of the Empire", indent: 1 },
+  { text: "Thalmor exploits the void (seizes power in Alinor, 4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 1 },
+  { text: "Absorption of Valenwood and Elsweyr (4E 29–115)", link: "/chronologie/fourth-era/nuits-du-vide", indent: 1 },
+  { text: "GREAT WAR (4E 171–175)", indent: 1 },
+  { text: "White-Gold Concordat (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc", indent: 1 },
+  { text: "Talos Ban → Radicalization of Ulfric", indent: 2 },
+  { text: "Markarth Incident (4E 176)", link: "/chronologie/fourth-era/incident-markarth", indent: 2 },
+  { text: "Murder of Torygg (4E 201) → Civil War", link: "/chronologie/fourth-era/guerre-civile-bordeciel", indent: 2 },
+  { text: "Return of Alduin (4E 201) → Return of the Dragonborn", link: "/chronologie/fourth-era/alduin", indent: 1 }
+]} />
+
+The Thalmor plays the long game — every event reinforces their position. The Empire fractures from within exactly as they intended.

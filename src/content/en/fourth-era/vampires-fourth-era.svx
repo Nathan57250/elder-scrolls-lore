@@ -1,0 +1,56 @@
+---
+title: "Vampirism in the Fourth Era"
+slug: "vampires-fourth-era"
+era: "fourth-era"
+category: "races"
+tags: ["vampires", "volkihar", "harkon", "serana", "dawnguard", "molag-bal", "sanguinare-vampiris"]
+timelineYear: 201
+summary: "Vampirism in the Fourth Era, the various vampire bloodlines, and Lord Harkon's plot to extinguish the sun."
+sources: ["Dawnguard DLC", "Immortal Blood", "Manifesto Cyrodiil Vampyrum", "The Aetherium Wars"]
+---
+
+## Vampirism in the World of Tamriel
+
+Vampirism is an affliction as ancient as the Daedric Princes themselves. According to tradition, it was **Molag Bal**, the Prince of Domination, who created the first vampires by violating a Nedic woman named **Lamae Beolfag**, transforming her into the first daughter of the night. Since then, the curse has spread across Tamriel in multiple forms, each vampire strain displaying distinct characteristics depending on lineage and region.
+
+In the Fourth Era, vampirism remains a constant but often invisible threat. Many vampires live among mortals without arousing suspicion, feeding discreetly and maintaining their human appearance as long as they regularly satisfy their thirst for blood.
+
+## The Vampire Bloodlines of Skyrim
+
+In Skyrim, the dominant form of vampirism is transmitted by the disease **Sanguinare Vampiris**, contracted during vampire attacks. If not treated within three days, the disease transforms into full vampirism, granting the subject supernatural powers but also heightened vulnerability to sunlight and fire.
+
+Skyrim's vampires are divided into several factions. "Common" vampires live in caves and ruins, hunting unwary travelers. Others, more discreet, integrate into society by passing themselves off as ordinary citizens. But the most powerful and ancient bloodline is without question the **Volkihar Clan**.
+
+## The Volkihar Clan and Lord Harkon
+
+The **Volkihar Clan** is the oldest and most powerful vampire bloodline in Skyrim. Established in Castle Volkihar, an isolated fortress on an island off the northwest coast, this clan draws its power directly from **Molag Bal** himself. Lord **Harkon**, patriarch of the clan, obtained the gift of pure vampirism by offering a thousand innocent souls to the Daedric Prince in a ritual of unspeakable cruelty.
+
+Volkihar vampirism differs fundamentally from other strains. Clan members possess the **Vampire Lord** form — a monstrous transformation granting them devastating powers: levitation, life drain at range, summoning gargoyles, and the ability to raise the dead. Unlike ordinary vampires, Volkihar can pass through ice without breaking it, slipping beneath frozen lakes to reach their victims.
+
+## The Plot of the Tyranny of the Sun Prophecy
+
+**Harkon**'s plan rested on an ancient artifact known as **Auriel's Bow** — the bow of the god **Auri-El** himself, preserved since the Merethic Era in the lost sanctuary of the Forgotten Vale. According to the Tyranny of the Sun Prophecy, inscribed on an **Elder Scroll**, the blood of a Daughter of Coldharbour of Molag Bal, fired through the bow at the sun, would plunge the world into eternal night.
+
+To accomplish this ritual, Harkon needed his own daughter, **Serana**, whom he had sealed with an Elder Scroll inside a sarcophagus in Dimhollow Crypt millennia earlier. Serana and her mother **Valerica** had been transformed into "Daughters of Coldharbour" — pure vampires created through direct ritual with Molag Bal — specifically to serve as components of the prophecy.
+
+## Serana and Internal Resistance
+
+**Serana**, awakened from her millennial sleep in 4E 201, proved to be far more than a mere instrument in her father's plans. Possessed of her own will and a unique perspective — that of a woman torn from her era and hurled into a world she no longer recognized — she chose to oppose Harkon.
+
+Her mother, **Valerica**, had fled into the **Soul Cairn** — a plane of Oblivion serving as a receptacle for souls trapped in soul gems — carrying with her one of the Elder Scrolls needed for the ritual. This voluntary sacrifice speaks to the depth of the conflict tearing the Volkihar Clan apart from within.
+
+## The Dawnguard
+
+Facing the growing vampire threat, an order of vampire hunters was reformed: the **Dawnguard**. Led by **Isran**, a former Vigil of **Stendarr** whose distrust and inflexibility had earned him expulsion from the order, the Dawnguard established itself in Fort Dawnguard, an ancient fortress in Dayspring Canyon.
+
+The order recruited warriors, crossbowmen, and even mages specialized in offensive Restoration magic — **sun** spells particularly devastating against the undead. The addition of armored trolls to their arsenal speaks to their pragmatism in the face of an existential threat.
+
+## Resolution of the Conflict
+
+The final confrontation between the Dawnguard and the Volkihar Clan took place in the great hall of Castle Volkihar. The death of **Harkon** — pierced by Auriel's Bow or defeated by conventional weapons — put an end to the threat of eternal night. The Volkihar Clan was either destroyed or absorbed under a new leader, depending on the circumstances of the battle.
+
+**Auriel's Bow** itself survived the conflict, as did the Elder Scrolls involved in the prophecy. Whether the Tyranny of the Sun Prophecy could one day be fulfilled by other hands remains an open question — the necessary artifacts still exist, and the blood of the Daughters of Coldharbour still flows in Serana's veins.
+
+## Vampiric Legacy
+
+The events of 4E 201 demonstrated that vampirism, far from being a mere individual curse, could constitute a civilizational threat. Harkon's plan, had it succeeded, would have fundamentally altered the balance of the world by depriving Tamriel of sunlight — transforming Nirn into a paradise for the undead and a hell for the living.

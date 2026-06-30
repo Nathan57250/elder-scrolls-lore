@@ -1,0 +1,115 @@
+---
+title: "El Último Sangre de Dragón (Dovahkiin)"
+slug: "enfant-de-dragon"
+era: "fourth-era"
+category: "personnages"
+tags: ["dovahkiin", "sangre-de-dragon", "thuum", "alduin", "miraak", "harkon", "profecia", "dragones", "bordeciel", "alma-de-dragon"]
+timelineYear: 201
+summary: "El Último Sangre de Dragón, mortal nacido con el alma de un dragón, cuyo destino era derrotar a Alduin el Devorador de Mundos y poner fin al Retorno de los Dragones en 4E 201."
+sources: ["UESP: Last Dragonborn", "Events of TES V: Skyrim", "Events of TES V: Dragonborn DLC", "Events of TES V: Dawnguard DLC", "Book of the Dragonborn", "The Prophecy of the Dragonborn"]
+---
+
+## Naturaleza del Dovahkiin
+
+El **Dovahkiin** (literalmente "Nacido-Dragón-Cazador" en lengua dracónica) es un mortal nacido con el **alma de un dragón** — un fragmento del poder de **Akatosh**, el Dios del Tiempo. Esta naturaleza dual — cuerpo mortal, alma dracónica — le confiere capacidades únicas:
+
+- La capacidad de **absorber las almas** de los dragones vencidos
+- El aprendizaje instantáneo de los **Gritos** (Thu'um) donde otros tardan décadas
+- Una resistencia natural al poder de otros dragones
+- Un vínculo místico con el propio Akatosh
+
+### Distinción con los Demás Usuarios del Thu'um
+
+A diferencia de los **Barbas Grises** que estudian durante décadas para dominar un solo Grito, o de **Ulfric Tormenta** que solo aprendió rudimentos, el Dovahkiin domina el Thu'um de forma **innata**. Le basta con meditar ante un **Muro de Palabras** y absorber un alma de dragón para desbloquear instantáneamente un Grito completo.
+
+## La Profecía
+
+### El Muro de Alduin
+
+La profecía del Dovahkiin está inscrita en el **Muro de Alduin** en el Templo del Cielo (Sky Haven Temple), santuario secreto de las Cuchillas:
+
+> *"Cuando la nieve se funda y los muertos caminen, cuando el Devorador de Mundos llegue, la Sangre de Dragón traerá el fin."*
+
+### El Libro del Dovahkiin
+
+El *Libro del Dovahkiin* precisa las señales anunciadoras:
+1. Los tiempos son desesperados — guerra, caos, tiranía
+2. Los dragones regresan al mundo
+3. Un mortal con alma de dragón se revela
+4. Él es el único capaz de poner fin definitivamente a los dragones
+
+## El Despertar (4E 201)
+
+### Helgen
+
+El Último Dovahkiin fue revelado en las circunstancias más dramáticas. Prisionero anónimo capturado en la frontera de Bordeciel (por razones nunca precisadas), estaba en el cadalso en **Helgen** cuando el propio **Alduin** atacó la ciudad. El caos de la destrucción le permitió huir.
+
+### La Revelación
+
+Poco después, al matar su primer dragón cerca de la **Torre de Guardia de Blancherive**, el Dovahkiin absorbió el alma de la criatura ante los atónitos guardias. Los **Barbas Grises** lo convocaron de inmediato al Alto Hrothgar mediante un Thu'um tan poderoso que hizo temblar toda la provincia.
+
+## Los Poderes
+
+### Los Gritos (Thu'um)
+
+El Dovahkiin domina un arsenal de Gritos devastadores:
+
+| Grito | Efecto | Importancia narrativa |
+|-------|--------|----------------------|
+| **Fus Ro Dah** (Fuerza Equilibrio Empuje) | Onda de choque devastadora | Primer Grito aprendido, símbolo del Dovahkiin |
+| **Dragonrend** | Obliga a un dragón a aterrizar | Clave de la victoria contra Alduin |
+| **Llamada del Dragón** | Invoca a Odahviing | Permite el acceso a Sovngarde |
+| **Tiempo Lento** (Slow Time) | Ralentiza el tiempo | Manifestación del vínculo con Akatosh |
+| **Tormenta de Ira** (Storm Call) | Invoca una tormenta | Poder destructivo último |
+
+### La Absorción de Almas
+
+Cada dragón muerto por el Dovahkiin tiene su alma **absorbida** — lo que significa que ese dragón ya no puede ser resucitado. Es este poder el que hace único al Dovahkiin: solo él puede matar a los dragones de forma **permanente**.
+
+## La Derrota de Alduin
+
+### El Recorrido
+
+El camino hacia la derrota de Alduin condujo al Dovahkiin a través de:
+1. El aprendizaje con los **Barbas Grises** y **Paarthurnax**
+2. El descubrimiento del Muro de Alduin con las **Cuchillas** (Delphine y Esbern)
+3. El uso de un **Pergamino Anciano** en la Herida del Tiempo para aprender **Dragonrend**
+4. El primer enfrentamiento con Alduin en la **Garganta del Mundo**
+5. La captura de **Odahviing** en Fort-Dragon (Dragonsreach)
+6. El viaje hacia **Skuldafn**, el templo de Alduin
+7. La entrada en **Sovngarde** — el paraíso de los guerreros nórdicos
+
+### Sovngarde
+
+En Sovngarde, Alduin devoraba las almas de los muertos heroicos, nutriéndose de su fuerza. El Dovahkiin, ayudado por los tres héroes antiguos — **Hakon Rompe-Viento**, **Gormlaith Estrella-Dorada** y **Felldir el Viejo** — usó el Grito **Cielo Despejado** para disipar la niebla de Alduin y luego lo venció en combate.
+
+## Las Otras Amenazas
+
+### Miraak, el Primer Sangre de Dragón
+
+En la isla de **Solstheim**, el Dovahkiin se enfrentó a **Miraak** — el mismísimo primer Dovahkiin de la historia, un antiguo Sacerdote-Dragón de la Era Merética que había traicionado a sus amos pero fue absorbido en el reino del Príncipe Daédrico **Hermaeus Mora**. Miraak intentaba regresar al mundo mortal esclavizando las mentes de los habitantes de Solstheim.
+
+El combate final tuvo lugar en **Apocrypha**, el reino de Hermaeus Mora, donde el Dovahkiin absorbió el alma de Miraak tras su derrota — heredando así el poder de dos Dovahkiin.
+
+### Harkon y la Profecía de la Sangre
+
+El señor vampiro **Harkon**, líder del Clan Volkihar, buscaba cumplir la **Profecía de Tyranus** — un ritual que usaba los Pergaminos Ancianos y la sangre de una "Hija del Puerto Frío" (su propia hija **Serana**) para **apagar el sol**, permitiendo a los vampiros reinar sobre Tamriel.
+
+El Dovahkiin, aliado con la **Guardia del Amanecer** (Dawnguard) o con el propio Clan Volkihar, puso fin a los planes de Harkon destruyéndolo en su castillo.
+
+## Significación Metafísica
+
+### ¿Un Shezarrine?
+
+Algunas teorías del lore sugieren que el Dovahkiin podría ser un **Shezarrine** — un avatar de Lorkhan/Shor, el dios creador de Mundus. Los indicios:
+- Shor está ausente de su trono en Sovngarde cuando llega el Dovahkiin
+- El Dovahkiin actúa como campeón del mundo mortal contra las fuerzas que amenazan Mundus
+- Cada héroe de los juegos Elder Scrolls es potencialmente un aspecto de Lorkhan
+
+### El Prisionero
+
+En la cosmología de los Elder Scrolls, el Dovahkiin es también un **Prisionero** — un ser no ligado al destino, capaz de elegir y alterar el curso de la historia por su propia voluntad. Es esta naturaleza de "variable libre" lo que lo hace tan peligroso para las fuerzas del orden cósmico.
+
+## Legado
+
+El Último Sangre de Dragón se convirtió, en un solo año (4E 201), en la figura más determinante de la Cuarta Era — vencedor de Alduin, destructor de Miraak, terror de los vampiros y actor decisivo en la guerra civil de Bordeciel. Su destino posterior permanece desconocido, pero su impacto en Tamriel es inconmensurable.

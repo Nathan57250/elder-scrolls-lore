@@ -1,0 +1,101 @@
+---
+title: "The Second Aldmeri Dominion — Structure and Ideology"
+slug: "second-domaine-aldmeri"
+era: "fourth-era"
+category: "politique"
+tags: ["aldmeri-dominion", "thalmor", "altmer", "politics", "supremacism", "towers", "talos", "justiciars"]
+timelineYear: 29
+summary: "A political analysis of the Second Aldmeri Dominion: its internal structure, Thalmor supremacist ideology, methods of control, and ultimate metaphysical objectives."
+sources: ["UESP: Aldmeri Dominion (4th Era)", "The Imperial Library: Thalmor Dossiers", "TES V: Skyrim — Thalmor Embassy"]
+---
+
+# The Second Aldmeri Dominion — Structure and Ideology
+
+The **Second Aldmeri Dominion** is the most powerful political entity of the Fourth Era — a hegemonic alliance dominated by the **Altmer** of the **Summerset Isles** that also controls **Valenwood** and threatens the very existence of the **Empire**. Founded in 4E 29, it is governed de facto by the **Thalmor**, a political and ideological apparatus whose ambitions go beyond mere territorial conquest to touch the very metaphysical structure of reality.
+
+## Political Structure
+
+### The Dominion vs the Thalmor
+
+A crucial distinction is often overlooked: the **Aldmeri Dominion** is the state (the political alliance of elven nations), while the **Thalmor** is the ruling party within that state. Not all Altmer are Thalmor — the Thalmor is an ideological faction that seized power following the Oblivion Crisis.
+
+### Thalmor Hierarchy
+
+- **The Aldmeri First Emissary**: nominal head of the Dominion
+- **The Thalmor Councillors**: the true executive power
+- **The Justiciars**: operational agents tasked with enforcing doctrine abroad
+- **The Agents**: spies and assassins infiltrated throughout Imperial provinces
+- **The Dominion Army**: conventional forces including Bosmer battalions
+
+### Control of Valenwood
+
+The Dominion incorporated **Valenwood** by overthrowing the pro-Imperial Bosmer government in a coup in 4E 29. The Bosmer live under Thalmor tutelage:
+- Purges of pro-Empire dissidents
+- Imposition of Altmeri laws and customs
+- Exploitation of forest resources
+- Conscription into the Dominion's army
+
+## Ideology
+
+### Mer Supremacism
+
+Thalmor doctrine rests on a theological premise: the **Mer** (elves) descend from the **Et'Ada** — divine beings degraded into mortals by the "treachery" of **Lorkhan** during the creation of **Mundus**. Mortality is therefore an *error* — an imposed state, not a natural one.
+
+Humans, in this view, are byproducts with no divine connection. Their very existence is an insult to the primordial dignity of the Mer.
+
+### The Talos Problem
+
+The banning of **Talos** worship is not merely a political gesture — it is a metaphysical act:
+- **Talos** is a *human* elevated to the rank of god
+- His divine existence contradicts the thesis that only Mer possess a divine nature
+- Worse: Talos actively maintains **Mundus** as a Divine
+- Eliminating his cult could weaken his divine power
+
+### The Towers and Dissolution
+
+The most sinister theory regarding Thalmor objectives involves the **Towers** — metaphysical structures that anchor Mundus in existence:
+
+- The **Crystal Tower** (Crystal-Like-Law) of the Summerset Isles: already fallen
+- **White-Gold Tower** of Cyrodiil: vulnerable
+- The **Brass Tower** (Numidium): deactivated
+- The **Snow Tower** (Throat of the World) in Skyrim: threatened by political instability
+
+If all the Towers are deactivated, Mundus could *dissolve* — allowing elven souls to return to their original divine state. The genocide of all mortal life would be an "acceptable" side effect in this logic.
+
+## Methods of Control
+
+### The Justiciars
+
+**Thalmor Justiciars** operate in Imperial provinces under the authority of the **White-Gold Concordat**:
+- Hunting down Talos worshippers
+- Interrogations (including torture) of suspects
+- Arrests without Imperial warrant
+- Informant networks embedded in local populations
+
+### Political Manipulation
+
+The Thalmor does not rely on brute force alone:
+- Covert support for the **Stormcloak** rebellion to weaken the Empire (revealed by Thalmor dossiers)
+- Maintenance of instability in border provinces
+- Systematic espionage of Imperial leaders
+- Exploitation of each nation's internal divisions
+
+### Internal Purges
+
+The Thalmor eliminates **dissident Altmer** with particular brutality:
+- Altmer who refuse supremacist doctrine are branded "race traitors"
+- Massive purges took place after the seizure of power over Summerset
+- Exiled Altmer live in permanent fear of Thalmor assassins
+
+## Vulnerabilities
+
+Despite its power, the Dominion has weaknesses:
+- **Overextension**: controlling two provinces and threatening an Empire with a limited elven population
+- **Bosmer resistance**: the "green resistants" sabotage the occupation of Valenwood
+- **Fanaticism**: ideology sometimes replaces competence in military decisions
+- **Concordat dependency**: if the Empire denounces the treaty, the Thalmor must conquer or withdraw
+- **Altmer dissent**: not all High Elves support a project of cosmic genocide
+
+## Perspective
+
+The conflict between the Dominion and the Empire is the central geopolitical driver of the Fourth Era. Whether it leads to a Second Great War, the dissolution of the Empire, or an internal collapse of the Thalmor remains an open question — but the stakes are literally cosmic.

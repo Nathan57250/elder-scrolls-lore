@@ -1,0 +1,93 @@
+---
+title: "The Markarth Incident"
+slug: "incident-markarth"
+era: "fourth-era"
+category: "evenements"
+tags: ["markarth", "ulfric", "forsworn", "talos", "thalmor", "skyrim", "igmund"]
+timelineYear: 176
+summary: "The Markarth Incident (4E 176) is the event that radicalized Ulfric Stormcloak and laid the foundations of the Skyrim Civil War, 25 years before it erupted."
+sources: ["UESP: Markarth Incident", "The Bear of Markarth", "Thalmor Dossier: Ulfric Stormcloak"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Background — Why Markarth?
+
+### The Situation in 4E 174–176
+One year after the signing of the White-Gold Concordat (4E 175), the situation in Markarth was chaotic:
+- During the Great War, the **Forsworn** — the native people of the Reach — had taken advantage of the legions' withdrawal to **retake Markarth**
+- The Forsworn established a brief independent kingdom
+- The legitimate Jarl (of Nordic lineage) was in exile
+- The Empire, exhausted by the war, lacked the forces to reconquer the city
+
+### The Deal
+The Jarl in exile (father of Jarl Igmund) struck an agreement with **Ulfric Stormcloak**, then a young warrior and Jarl of Windhelm:
+- Ulfric retakes Markarth with his militia
+- In exchange: the **free worship of Talos** would be permitted in the Hold
+
+## The Event
+
+### The Reconquest
+Ulfric and his men attacked Markarth in force:
+- Use of the **Thu'um** in combat (Ulfric had mastered the Voice)
+- Brutal urban battle
+- The Forsworn were crushed — survivors imprisoned in Cidhna Mine
+- **Madanach** (the "King in Rags") captured and imprisoned
+
+### The Talos Worship Restored
+True to the agreement, the restored Jarl authorized Talos worship in Markarth:
+- The shrines were reopened
+- Priests of Talos preached freely
+- Nords celebrated openly
+
+## The Betrayal
+
+### The Thalmor Intervenes
+The **Thalmor Justiciars** learned of the open Talos worship in Markarth — a direct violation of the Concordat. They demanded that the Empire intervene.
+
+The Empire, unable to risk a resumption of war with the Dominion (it was still in tatters), **yielded to the Thalmor's demands**:
+- Talos worship was once again banned in Markarth
+- The promise made to Ulfric was **broken**
+- Ulfric protested — he was **arrested and imprisoned**
+
+### The Radicalization
+What the Markarth Incident taught Ulfric:
+- The Empire **cannot** protect Nordic traditions
+- The Empire will **always choose** the Thalmor over its own people
+- The diplomatic path is **dead** — only force matters
+- The Concordat is not a "temporary evil" — it is permanent submission
+
+## The Thalmor Dossier
+
+The Thalmor's dossier on Ulfric (findable at the Embassy) reveals:
+- Ulfric is classified as an **"uncooperative asset"**
+- The Thalmor had contacted him during his captivity in the Great War
+- They consider him useful because he **divides the Empire**
+- They do NOT want his victory — just the prolongation of the conflict
+- The Markarth Incident served their interests perfectly
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "White-Gold Concordat (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc" },
+  { text: "Talos Ban", indent: 1 },
+  { text: "Forsworn hold Markarth (exploited the war)", link: "/chronologie/fourth-era/forsworn-parjures-reach", indent: 1 },
+  { text: "Ulfric retakes Markarth in exchange for free worship", link: "/chronologie/fourth-era/ulfric-sombrage", indent: 1 },
+  { text: "Thalmor demands crackdown", indent: 1 },
+  { text: "Empire capitulates → Ulfric imprisoned", indent: 1 },
+  { text: "MARKARTH INCIDENT (4E 176)", indent: 1 },
+  { text: "Ulfric radicalized → 25 years of resentment", indent: 1 },
+  { text: "Murder of Torygg (4E 201) → Civil War", link: "/chronologie/fourth-era/guerre-civile-bordeciel", indent: 1 }
+]} />
+
+## Why This Matters
+
+The Markarth Incident is the **pivotal moment** between:
+- The Concordat (a theoretically temporary treaty)
+- And the Civil War (an armed conflict)
+
+Without Markarth, Ulfric might have continued seeking diplomatic solutions. It was the **betrayal of the promise** that convinced him violence was the only language the Empire understood.
+
+The irony: the Thalmor did not even need to plan this. The Empire sabotaged itself through its own weakness.

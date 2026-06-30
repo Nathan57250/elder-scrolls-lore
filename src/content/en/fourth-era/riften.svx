@@ -1,0 +1,116 @@
+---
+title: "Riften"
+slug: "riften"
+era: "fourth-era"
+category: "lieux"
+tags: ["riften", "thieves-guild", "maven-black-briar", "corruption", "mara", "lake-honrich"]
+timelineYear: 201
+summary: "Riften is a merchant city in southeastern Skyrim, riddled with the corruption of the Black-Briar family and serving as the operational base of the Thieves Guild."
+sources: ["Erta's Journal", "Of Crossed Daggers", "The Nightingales", "Scourge of the Gray Quarter"]
+---
+
+# Riften
+
+## City Overview
+
+**Riften** is the capital of the hold of the same name, situated on the shores of **Lake Honrich** in southeastern Skyrim. Once a prosperous merchant city renowned for its fisheries and mead, it has become by 4E 201 a den of corruption, organized crime, and political decadence. Beneath its facade of a peaceful city with picturesque canals lies a criminal network that controls every aspect of local life.
+
+The city is built on stilts and platforms over canals that empty into the lake. This unique architecture — with its wooden walkways, quays overlooking the water, and narrow alleys — offers an ideal setting for clandestine activities: secret passages, trapdoors in floors, and underground canals form a labyrinth suited to flight and concealment.
+
+## Geography and Environment
+
+Riften enjoys a milder climate than the rest of Skyrim, thanks to its southern location and the protection of the surrounding mountains. **Lake Honrich** and the autumn forest surrounding it lend it a natural setting of remarkable beauty — golden foliage, calm waters, morning mists.
+
+The city's surroundings include:
+- **Lake Honrich** — a vast expanse of fish-rich water feeding the local economy
+- **The Rift** — a deciduous forest with perpetually autumnal colors
+- **The Ratway** — a network of underground passages beneath the city
+- The **Temple of Mara** — a shrine to the goddess of love at the city's entrance
+- Farms and orchards in the surrounding valley
+
+## Maven Black-Briar: The Real Sovereign
+
+**Maven Black-Briar** is the most powerful woman in Riften — and likely in the hold as a whole. Officially a simple proprietor of the **Black-Briar Meadery**, she is in reality the power behind the throne, manipulating the Jarl, the guard, the merchants, and the criminals with an iron fist in a velvet glove.
+
+The sources of Maven's power:
+- **The Black-Briar Meadery** — her personal fortune, producing Skyrim's best-selling mead
+- **The Thieves Guild** — which she uses as an armed branch to intimidate rivals
+- **The Dark Brotherhood** — of which she is a regular client for eliminating obstacles
+- **The Thalmor** — with whom she maintains profitable diplomatic relations
+- **Imperial contacts** — who protect her from legal consequences
+
+Maven does not govern through brute force but through fear, debt, and blackmail. Every merchant owes her money, every guard knows that defying her means death, and every politician understands that their career depends on her goodwill. She can have a business ruined, an innocent imprisoned, or an enemy assassinated at the snap of her fingers.
+
+## The Jarl and Local Politics
+
+**Jarl Laila Law-Giver** is the nominal ruler of Riften, but she is largely disconnected from her city's reality. A Stormcloak sympathizer out of nationalist conviction, she ignores — or pretends to ignore — the corruption that is eating away at her hold.
+
+Her steward **Anuriel** is secretly on Maven's payroll, ensuring that political decisions serve Black-Briar interests. Laila's son **Harrald** is a noted incompetent. Only her other son, **Saerlund**, seems aware of the corruption but is powerless to fight it.
+
+If the Imperials take control of the Rift during the Civil War, Maven is directly installed as Jarl — simply formalizing what was already a de facto reality.
+
+## The Thieves Guild
+
+The **Thieves Guild** operates from the underground of Riften, in a network of canals and rooms called the **Ratway**. Their clandestine tavern, the **Ragged Flagon**, is accessible through the sewers beneath the city.
+
+The Guild's presence profoundly affects daily life:
+- Merchants pay an informal "protection tax"
+- Guards turn a blind eye to thefts in exchange for bribes
+- Citizens know not to ask questions
+- Stolen goods circulate openly on the black market
+- Any complaint is pointless — the guard will do nothing
+
+Despite everything, the Guild maintains a certain order in the criminal world. Without it, Riften would be prey to even more chaotic and violent criminality.
+
+## The Black-Briar Meadery
+
+The **Black-Briar Meadery** is Riften's most profitable business and one of the most important in Skyrim. It produces **Black-Briar Mead**, a beverage renowned throughout the province, as well as various other ales and liquors.
+
+The meadery is located inside the city walls and employs many workers. However, working conditions are harsh and employees live in fear of Maven. Any attempt at unionization or protest is immediately crushed — generally by the Thieves Guild or through direct threats.
+
+**Ingun Black-Briar**, Maven's daughter, officially works at the meadery but spends her time studying alchemy — particularly poisons. Her morbid fascination with toxicology is tolerated by her mother, who perhaps sees in it a useful skill.
+
+## The Temple of Mara
+
+The **Temple of Mara** is one of Riften's few positive elements. Dedicated to the goddess of love, compassion, and fertility, it is run by **Maramal** and the priests of Mara who officiate weddings and offer refuge to the needy.
+
+The temple is located near the city's main entrance, symbolically separated from the inner corruption. It is here that couples from all across Skyrim come to be married according to Mara's rites — an ironic contrast with the dark city that surrounds it.
+
+The **Honorhall Orphanage** is another notable establishment, though under the direction of the cruel **Grelod the Kind**, it functions more as a prison for children than a place of charity.
+
+## Crime and Corruption
+
+Corruption in Riften is systemic and total:
+
+**The Guard** — corrupt from captain to common soldier. Guards accept bribes, overlook Guild crimes, and serve Maven's interests.
+
+**Justice** — nonexistent for the rich and well-connected. A thief caught in the act can buy their freedom; an innocent who inconveniences Maven can be imprisoned indefinitely.
+
+**Commerce** — controlled by Maven and the Guild. Independent merchants are intimidated, illegally taxed, or simply eliminated.
+
+**Administration** — infiltrated at every level. The steward, advisors, and officials serve Maven before the Jarl.
+
+The only counterbalance is **Mjoll the Lioness**, a Nordic adventurer who attempts to cleanse the city of its corruption. But alone against an entire system, her efforts remain largely futile.
+
+## Economy
+
+Despite the corruption, Riften remains an economically active city:
+
+- **Fishing** — Lake Honrich provides fish and shellfish
+- **Mead and brewing** — the primary industry under Black-Briar control
+- **Beekeeping** — linked to mead production
+- **Trade** — strategic position on routes toward Morrowind and Cyrodiil
+- **Agriculture** — the Rift is one of Skyrim's most fertile regions
+- **Crime** — fencing, smuggling, and black market represent a considerable parallel economy
+
+## The Historical Fire
+
+Riften's recent history is marked by a **devastating fire** that ravaged much of the city a few decades ago. This event explains the relatively recent wooden architecture that contrasts with the older stone foundations. Some whisper that the fire was not accidental, but details remain obscure.
+
+Before the fire, Riften was a more prosperous and less corrupt city. The destruction allowed criminal elements to seize control during the reconstruction, and the Black-Briar family seized the opportunity to consolidate its grip on the weakened city.
+
+## Significance in Skyrim
+
+Riften represents Skyrim's soft underbelly — proof that corruption and organized crime can flourish even in a warrior society. It is a warning about what happens when the law is for sale and power is concentrated in private hands.
+
+Yet for those who know how to navigate its troubled waters, Riften offers opportunities that more honest cities cannot provide. It is a place where one can disappear, reinvent oneself, or find services no respectable city would offer openly. In the shadow of corruption, a certain form of freedom exists — for those who pay its price.

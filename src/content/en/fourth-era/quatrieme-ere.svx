@@ -1,0 +1,110 @@
+---
+title: "The Fourth Era"
+slug: "quatrieme-ere"
+era: "fourth-era"
+category: "empires"
+tags: ["mede-empire", "thalmor", "great-war", "white-gold-concordat", "civil-war", "alduin", "dragonborn"]
+date: "4E 1 — 4E 201"
+summary: "The fall of the Septim dynasty, the rise of the Thalmor, the Great War, and the return of Alduin the World-Eater."
+timelineYear: 1
+sources: ["UESP: Fourth Era", "The Great War (book)", "Events of Skyrim"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Overview — The Era of Collapse
+
+The Fourth Era is the one in which **everything that once protected Tamriel falls apart**:
+- The Dragonfires — **extinguished** (Amulet destroyed)
+- The Septim dynasty — **extinct**
+- The Tribunal — **dead** (power lost in 3E 427)
+- The Empire — **amputated** and humiliated
+- The Towers — **falling one by one**
+
+Every event of this era is a direct consequence of the Oblivion Crisis (3E 433). The old world is dead — the new one has not yet found its balance.
+
+## The Post-Crisis Period (4E 1 — 4E 171)
+
+The death of Martin Septim left the Empire without a legitimate heir. After two centuries of chaotic transitions, the **Mede** dynasty took power — but the Empire was no more than a shadow of its former greatness.
+
+Major events of this period:
+- **4E 5**: The eruption of **Red Mountain** devastated Vvardenfell and much of Morrowind
+- **4E 6**: The Argonian invasion of Morrowind, taking advantage of the devastation
+- **4E 22**: The **Thalmor** (Altmer supremacists) seized power in the Summerset Archipelago through a coup
+- **4E 29**: The Thalmor reformed the **Second Aldmeri Dominion** with Valenwood and Elsweyr
+- **4E 115**: The Empire lost the province of Hammerfell (Redguard independence)
+
+## The Great War (4E 171 — 4E 175)
+
+The Thalmor issued the Mede Empire an ultimatum: ban the worship of **Talos**, cede vast territories, and dissolve the Blades. Emperor **Titus Mede II** refused.
+
+The war that followed was devastating:
+- The Dominion invaded Cyrodiil from the south (through Elsweyr and Valenwood)
+- The **Imperial City** was taken and sacked
+- The Empire counter-attacked at the **Battle of the Red Ring**, retaking the capital in a bloodbath
+
+Though militarily at a stalemate, the Empire was exhausted. Titus Mede II signed the **White-Gold Concordat** (4E 175) — a humiliating treaty that:
+- Banned Talos worship throughout the Empire
+- Dissolved the Blades
+- Ceded part of Hammerfell to the Dominion
+- Authorized Thalmor Justiciars to operate on Imperial soil
+
+## The Skyrim Civil War (4E 201)
+
+In **4E 201**, **Ulfric Stormcloak**, Jarl of Windhelm, assassinated the High King of Skyrim Torygg in a duel (using the Thu'um) and ignited a civil war:
+- The **Stormcloaks** wanted Skyrim's independence and freedom to worship Talos
+- The **Imperials** maintained that only Imperial unity could resist the Thalmor
+
+## The Return of Alduin
+
+Simultaneously with the civil war, **Alduin** — the Firstborn of Akatosh, the World-Eater — reappeared after being hurled into the future by a Shout from ancient Nordic heroes at the end of the Merethic Era.
+
+Alduin began **resurrecting dragons** across Skyrim, heralding the end of days according to Nordic prophecy.
+
+The **Dragonborn** (Dovahkiin), a mortal endowed with a dragon's soul, awakened during Alduin's attack on Helgen. Guided by the **Greybeards** of High Hrothgar and fragments of an Elder Scroll, the Dragonborn:
+
+1. Mastered the **Thu'um** (the Voice)
+2. Learned the Dragonrend Shout from ancient heroes via an Elder Scroll
+3. Traveled to **Sovngarde** — the Nordic afterlife — where Alduin was devouring the souls of the dead
+4. Defeated Alduin with the help of the ancient heroes (Hakon, Gormlaith, Felldir)
+
+The prophecy of the Dragonborn was fulfilled — but was Alduin truly destroyed? Even the Greybeards doubt it...
+
+## The Fourth Era — Complete Causal Map
+
+<CausalChain items={[
+  { text: "OBLIVION CRISIS (3E 433) — Ground Zero", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "End of the Septims + Amulet destroyed", indent: 1 },
+  { text: "Empire without sacred legitimacy → Mede Dynasty (weak)", indent: 2 },
+  { text: "Tribunal already fallen (3E 427) + Ingenium unstable", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "RED YEAR (4E 5)", link: "/chronologie/fourth-era/annee-rouge", indent: 2 },
+  { text: "Morrowind destroyed → Argonian invasion", indent: 3 },
+  { text: "Dunmer diaspora → Tensions in Windhelm", link: "/chronologie/fourth-era/vendeaume", indent: 3 },
+  { text: "Post-Crisis chaos → Global power vacuum", indent: 1 },
+  { text: "THALMOR seizes power (4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 2 },
+  { text: "Absorbs Valenwood (4E 29)", indent: 3 },
+  { text: "Co-opts Elsweyr via Void Nights (4E 115)", link: "/chronologie/fourth-era/nuits-du-vide", indent: 3 },
+  { text: "Empire too weak to resist", indent: 1 },
+  { text: "GREAT WAR (4E 171–175)", link: "/chronologie/fourth-era/grande-guerre", indent: 2 },
+  { text: "Sack of the Imperial City (4E 174)", indent: 3 },
+  { text: "WHITE-GOLD CONCORDAT (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc", indent: 3 },
+  { text: "Talos Ban", indent: 4 },
+  { text: "Markarth Incident (4E 176) → Ulfric radicalized", link: "/chronologie/fourth-era/incident-markarth", indent: 4 },
+  { text: "Metaphysical barriers weakened", indent: 1 },
+  { text: "RETURN OF ALDUIN (4E 201)", link: "/chronologie/fourth-era/alduin", indent: 2 },
+  { text: "Resurrection of Dragons", indent: 3 },
+  { text: "The Dragonborn awakens", link: "/chronologie/fourth-era/enfant-de-dragon", indent: 3 },
+  { text: "Miraak attempts his return (Solstheim)", link: "/chronologie/fourth-era/miraak", indent: 3 },
+  { text: "CONVERGENCE 4E 201: Civil War + Alduin + Vampires + Miraak", link: "/chronologie/fourth-era/guerre-civile-bordeciel" }
+]} />
+
+## Unresolved Questions
+
+The Fourth Era is **unfinished** — TES VI has not yet been released. Open questions:
+- Who wins the Civil War? (No official canon)
+- Does the Thalmor launch a second Great War?
+- What does the Dragonborn do after Alduin?
+- Do the Towers continue to fall?
+- Is Mundus doomed?

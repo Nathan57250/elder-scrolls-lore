@@ -1,0 +1,90 @@
+---
+title: "Solstheim — The Island Between Worlds"
+slug: "solstheim"
+era: "fourth-era"
+category: "lieux"
+tags: ["solstheim", "morrowind", "skyrim", "skaal", "raven-rock", "miraak", "ash"]
+timelineYear: 201
+summary: "Solstheim is a volcanic island between Skyrim and Morrowind — land of the Skaal, Dunmer refugees, and the temple of Miraak, the First Dragonborn."
+sources: ["UESP: Solstheim", "Events of TES V: Dragonborn", "History of Raven Rock"]
+---
+
+## Geography
+
+**Solstheim** is a modest-sized island located in the **Sea of Ghosts**, to the northeast of Tamriel:
+- North of Morrowind (administratively)
+- Northeast of Skyrim (geographically close to Windhelm)
+- Divided between a **volcanic/ashen** half (south) and a **snowy** half (north)
+
+### Regions
+- **Ash Coast** (south) — landscape devastated by the Red Year, ash from Red Mountain
+- **Pine forests** (center) — transitional zone
+- **Frozen tundra** (north) — Skaal territory, polar bears, horkers
+- **Western coast** — cliffs and caves
+
+## History
+
+### Disputed Ownership
+- **Merethic Era**: inhabited by Nords (predecessors of the Skaal)
+- **3E**: under Imperial / Skyrim jurisdiction
+- **4E 16**: ceded to **Morrowind** by the High King of Skyrim as a gesture of compassion after the Red Year
+- Since: Dunmer colony under House Redoran protection
+
+### The Red Year and Its Effects
+The eruption of Red Mountain (4E 5) hurled ash as far as Solstheim:
+- The southern half was buried under volcanic ash
+- Vegetation died, replaced by fungi and ash spawn
+- Dunmer refugees flooded in massively
+
+## Raven Rock
+
+Solstheim's main settlement — a Dunmer mining town:
+- Founded by the **East Empire Company** to exploit ebony
+- Today: governed by **Councilor Morvayn** (House Redoran)
+- Economy: ebony mine (exhausted then reopened), fishing, trade
+- Architecture: mix of Nordic and Dunmer (mushrooms, black stone)
+- Population: predominantly Dunmer, with some Nords and others
+
+## The Skaal
+
+The **Skaal** are an isolated Nordic people living in the island's north:
+- Traditional, shamanic way of life
+- Veneration of nature and the **All-Maker** (universal creator)
+- Rejection of "modern" civilization
+- Warriors and hunters
+- Their shaman guides the community
+- **Stalhrim** (enchanted ice) is their ancestral forging secret
+
+### Stalhrim
+A material unique to the Skaal — an enchanted ice harder than ebony:
+- Only the Skaal know the extraction technique
+- Weapons and armor of exceptional quality
+- Resistance to extreme cold
+- Traditionally used to seal tombs
+
+## Miraak and the Temple
+
+In 4E 201, **Miraak** — the First Dragonborn — attempted to return from Apocrypha:
+- He used his influence to **mentally control** the inhabitants
+- Victims constructed mysterious structures without knowing why
+- Miraak's temple (northeast) was the center of his power
+- The Last Dragonborn confronted and defeated him in Apocrypha
+
+## Unique Fauna
+
+| Creature | Description |
+|----------|-------------|
+| Netch | Giant floating jellyfish (imported from Morrowind) |
+| Ash Spawn | Undead of volcanic ash |
+| Riekling | Small blue ice goblins |
+| Lurker | Tentacled creatures from Apocrypha |
+| Bristleback | Wild boars ridden by Rieklings |
+| Frost Giant | Rare and dangerous ice giants |
+
+## Tel Mithryn
+
+Mushroom tower of **Master Neloth** — an eccentric Telvanni mage:
+- The only Telvanni tower outside of Morrowind
+- Neloth conducts research on Heart Stones
+- Servants and apprentices under his authoritarian tutelage
+- Source of quests and knowledge for the Dovahkiin

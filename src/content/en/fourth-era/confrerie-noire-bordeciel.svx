@@ -1,0 +1,132 @@
+---
+title: "The Dark Brotherhood of Skyrim"
+slug: "confrerie-noire-bordeciel"
+era: "fourth-era"
+category: "guildes"
+tags: ["dark-brotherhood", "astrid", "night-mother", "sithis", "assassination", "emperor"]
+timelineYear: 201
+summary: "The Dark Brotherhood of Skyrim, the last surviving branch of the assassins' order, is torn between tradition and pragmatism before carrying out its most audacious contract: the assassination of the Emperor."
+sources: ["The Night Mother's Truth", "Sacred Witness", "Fire and Darkness", "A Kiss, Sweet Mother"]
+---
+
+# The Dark Brotherhood of Skyrim
+
+## The Nature of the Brotherhood
+
+The **Dark Brotherhood** is the oldest and most feared assassins' organization in all of Tamriel. Founded on the worship of **Sithis**, the Voice of Void, and guided by the **Night Mother**, the Brotherhood offers death as a service — for a price and the proper ritual.
+
+In 4E 201, the Skyrim branch is the last one still active on the entire continent. The other sanctuaries have been destroyed over the decades: Cyrodiil's was annihilated during the Oblivion Crisis and its aftermath, Morrowind's was ravaged by the Red Year. Only the **Falkreath Sanctuary** survives, hidden in the dark forests of southern Skyrim.
+
+## The Falkreath Sanctuary
+
+The sanctuary is concealed behind an enchanted **Black Door**, located in a cave near the road between Falkreath and the Cyrodiil border. The door poses a ritual question to anyone seeking entry: *"What is the music of life?"* — and only the correct answer (*"Silence, my brother"*) grants access.
+
+The interior is a network of furnished caverns containing:
+- Individual quarters for each assassin
+- A basin of black water consecrated to Sithis
+- An altar for the Night Mother and her coffin
+- A combat training area
+- A meeting room around a stone table
+- Secret passages to the surface
+
+The atmosphere is paradoxically familial — members consider themselves a family, calling each other "brothers" and "sisters" according to the order's tradition.
+
+## Astrid: The Pragmatic Leader
+
+**Astrid** is the de facto leader of the Skyrim sanctuary. A charismatic and lethally capable Nord woman, she runs the Brotherhood according to her own rules rather than ancestral traditions. She has set aside the Night Mother and the Five Tenets in favor of a pragmatic, family-based approach.
+
+Under her leadership:
+- Contracts are obtained by word of mouth and contacts, not through the Black Sacrament
+- The hierarchy is informal, based on respect rather than titles
+- Efficiency takes precedence over ritual
+- "Family" is the supreme value
+
+Astrid is married to **Arnbjorn**, a werewolf and the sanctuary's blacksmith. She is respected by her members, but her rebellion against traditions will ultimately cause the sanctuary's downfall.
+
+## Members of the Sanctuary
+
+The Falkreath sanctuary houses an eclectic group of assassins:
+
+**Arnbjorn** — Astrid's husband, a Nord and werewolf, the sanctuary's blacksmith. Gruff but loyal.
+
+**Nazir** — a pragmatic Redguard who distributes minor contracts. Sarcastic and professional.
+
+**Babette** — a vampire who appears to be a ten-year-old girl but is over three hundred years old. An expert alchemist in poisons, she weaponizes her innocent appearance.
+
+**Festus Krex** — an elderly Imperial mage specializing in destructive magic. Irascible but brilliant.
+
+**Gabriella** — a discreet and efficient Dark Elf, devoted to Sithis.
+
+**Veezara** — an Argonian, last of the **Shadowscales**, Argonian assassins consecrated to Sithis from birth.
+
+**Cicero** — the Keeper of the Night Mother (see following section).
+
+## Cicero and the Night Mother
+
+The arrival of **Cicero** at the Skyrim sanctuary is a pivotal moment. This Imperial jester is the **Keeper** of the **Night Mother** — the preserved corpse of the Brotherhood's founder who communicates the will of Sithis to assassins through a **Listener**.
+
+Cicero transported the Night Mother's coffin across all of Tamriel after the destruction of the other sanctuaries. His journal reveals a man who was once sane and gradually descended into madness over his years of solitude as a Keeper without a Listener.
+
+The **Night Mother** herself is the embalmed corpse of a woman who, according to legend, killed her own children as an offering to Sithis. In return, Sithis made her the Brotherhood's eternal oracle. She communicates contracts arising from the **Black Sacrament** — a ritual where a client surrounded by human bones and flesh recites a prayer to the Night Mother.
+
+The conflict between Cicero (representing tradition) and Astrid (representing pragmatism) threatens to tear the sanctuary apart.
+
+## The Five Tenets
+
+The **Five Tenets** are the sacred laws of the Brotherhood, largely ignored by Astrid:
+
+1. **Never dishonor the Night Mother** — obey her will without question
+2. **Never betray the Brotherhood** — keep its secrets until death
+3. **Never disobey a superior** — the hierarchy is sacred
+4. **Never steal from a brother or sister** — loot is sacred among members
+5. **Never kill a brother or sister** — the blood of family must not be shed
+
+Violation of these tenets traditionally invites a visit from the **Wrath of Sithis** (*Lucien Lachance's ghost*), a vengeful spirit sent by the God of the Void.
+
+## The Emperor's Contract
+
+The most audacious contract in the Brotherhood's recent history is the assassination of **Emperor Titus Mede II** himself. This contract, received through the Black Sacrament via the Night Mother, is commissioned by **Amaund Motierre**, a member of the Empire's Elder Council.
+
+The execution of the contract unfolds in several phases:
+
+**Phase 1 — Eliminate the obstacles:**
+- Assassination of **Vittoria Vici**, the Emperor's cousin, during her wedding in Solitude
+- Elimination of **Commander Maro**, chief of the Emperor's personal guard
+- Neutralization of several secondary targets to create chaos
+
+**Phase 2 — The initial attempt:**
+- Infiltration of an official banquet at **Castle Dour** in Solitude
+- Poisoning of the main dish intended for the Emperor
+- This attempt succeeds… but the target turns out to be a decoy
+
+**Phase 3 — Astrid's betrayal:**
+- Astrid, frightened by the scale of the contract and fearing imperial reprisals, betrays the Brotherhood
+- She sells the location of the sanctuary to the **Penitus Oculatus** (imperial secret guard)
+- The assault destroys the sanctuary and kills most members
+- Consumed by remorse, Astrid performs the **Black Sacrament** on herself, requesting her own death
+
+**Phase 4 — The final assassination:**
+- The surviving Listener locates the Emperor aboard his ship, the **Katariah**
+- Infiltration of the ship and confrontation with Titus Mede II
+- The Emperor, aware of his fate, accepts his death with dignity
+- The assassination is carried out, completing the contract
+
+## The Consequences
+
+The destruction of the Falkreath sanctuary and the assassination of the Emperor have major consequences:
+
+- The Brotherhood is decimated but not destroyed — the new Listener and survivors (Nazir, Babette, Cicero) rebuild
+- A **new sanctuary** is established in the abandoned **Dawnstar** sanctuary
+- The Empire loses its sovereign at a moment of great political instability
+- The imperial succession is plunged into uncertainty
+- The Brotherhood's reputation is paradoxically restored by this feat
+
+## Sithis and the Voice of Void
+
+**Sithis** is neither a Daedra nor an Aedra — he is the **Void** itself, the primordial emptiness from which everything emerges and to which everything returns. The Brotherhood venerates him as the ultimate creator, for destruction is necessary for creation. Every soul sent into the Void is an offering to Sithis.
+
+The relationship between Sithis and the Brotherhood is mediated by the Night Mother, who hears his will and relays it to the Listener. Assassins do not pray to Sithis directly — he is beyond prayer, beyond understanding. They simply serve as instruments of his inexorable will.
+
+## The Brotherhood's Legacy
+
+Despite its near-destruction in 4E 201, the Dark Brotherhood has survived worse in the course of its millennial existence. As long as mortals desire the death of others and know the Black Sacrament, the Night Mother will listen, and her children will answer. Death is eternal, and so are its servants.

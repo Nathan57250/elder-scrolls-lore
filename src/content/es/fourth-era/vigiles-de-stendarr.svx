@@ -1,0 +1,94 @@
+---
+title: "Los Vigilantes de Stendarr"
+slug: "vigiles-de-stendarr"
+era: "fourth-era"
+category: "guildes"
+tags: ["vigilantes", "stendarr", "daedra", "vampiros", "hombres-lobo", "muertos-vivientes", "orden militar"]
+timelineYear: 10
+summary: "Los Vigilantes de Stendarr son una orden militante dedicada a la erradicación de los Daedra, muertos vivientes, hombres lobo y vampiros — fundada tras la Crisis de Oblivion para proteger a los mortales."
+sources: ["UESP: Vigilants of Stendarr", "The Imperial Library: Orders of Tamriel"]
+---
+
+## Fundación
+
+Los **Vigilantes de Stendarr** fueron fundados a comienzos de la Cuarta Era, como respuesta directa a la **Crisis de Oblivion** (3E 433). Tras la apertura de cientos de portales daédricos por todo Tamriel, la población civil tomó conciencia de su vulnerabilidad ante las fuerzas sobrenaturales.
+
+La orden nació del deseo de los sacerdotes de Stendarr — el Divino de la Misericordia — de **proteger activamente** a los mortales en lugar de limitarse a rezar por ellos.
+
+## Misión
+
+> "Stendarr concede su misericordia a los mortales. Nosotros somos el brazo armado de esa misericordia."
+
+Los Vigilantes rastrean y eliminan:
+- **Daedra** — criaturas invocadas y cultistas daédricos
+- **Vampiros** — muertos vivientes bebedores de sangre
+- **Hombres lobo** — licántropos de toda clase
+- **Muertos vivientes** — draugr, esqueletos, espectros
+- **Brujas** — practicantes de la magia daédrica
+
+## Organización
+
+### Estructura
+- Sin jerarquía militar rígida
+- **Guardián** — jefe de una sala regional
+- **Vigilante** — miembro activo en patrulla
+- **Novicio** — en formación
+
+### Sala del Vigilante
+En Bordeciel, su base era la **Sala de los Vigilantes** — un modesto edificio en la Pálida. En 4E 201, fue **destruida por los vampiros del Clan Volkihar**, una trágica demostración de los límites de la orden.
+
+## Métodos
+
+### Combate
+- Hechizos antimuertos (Repeler No Muertos, bendiciones solares)
+- Armas de plata contra los hombres lobo
+- Magia de Restauración ofensiva
+- Estacas, ajo y consagraciones contra los vampiros
+
+### Investigación
+- Patrullas regulares en los caminos
+- Investigaciones sobre desapariciones sospechosas
+- Infiltración en cultos daédricos
+- Interrogatorios (a veces brutales)
+
+## Filosofía
+
+Los Vigilantes operan según un código estricto:
+- **Ninguna** tolerancia hacia lo sobrenatural hostil
+- La misericordia se aplica a los **mortales** — no a las abominaciones
+- No se hace distinción entre Daedra "buenos" y "malos"
+- Un vampiro "arrepentido" sigue siendo un vampiro que hay que eliminar
+- Los artefactos daédricos deben destruirse o encerrarse
+
+### Los Límites Morales
+Esta intransigencia plantea preguntas difíciles:
+- ¿Merece la muerte un hombre lobo que controla a la bestia?
+- ¿Es todavía un enemigo un vampiro que no mata?
+- ¿Es siempre posible o deseable destruir un artefacto daédrico?
+
+## En Bordeciel (4E 201)
+
+Los Vigilantes están presentes pero **mal equipados**:
+- Patrullas en los caminos, a menudo en pequeños grupos de 2 a 3
+- Hostilidad inmediata hacia hombres lobo y vampiros
+- Destrucción a manos del Clan Volkihar → colaboración con la Guardia del Alba
+- Miembros dispersos tras la destrucción de su sala
+
+## Relaciones
+
+| Facción | Relación |
+|---------|----------|
+| Guardia del Alba | Aliados naturales (antivampiros) |
+| Compañeros | Conflicto potencial (licantropía del Círculo) |
+| Colegio de Winterhold | Desconfianza (¿conjuración = daédrica?) |
+| Thalmor | Tolerancia mutua (enemigo común: los Daedra) |
+| Hermandad Oscura | Enemigos (Sithis = fuerza daédrica) |
+
+## Debilidades
+
+La orden adolece de varias limitaciones:
+- **Escaso equipamiento** — sin financiación imperial sólida
+- **Fanatismo** — la intransigencia aleja a posibles aliados
+- **Falta de matices** — algunos casos no son blanco o negro
+- **Pocos efectivos** — insuficientes ante amenazas masivas
+- **Vulnerabilidad** — como demostró el ataque de los Volkihar

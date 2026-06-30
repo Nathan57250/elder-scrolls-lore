@@ -1,0 +1,112 @@
+---
+title: "Vendeaume"
+slug: "vendeaume"
+era: "fourth-era"
+category: "lieux"
+tags: ["vendeaume", "ulfric-sombrage", "nórdicos", "barrio-gris", "elfos-oscuros", "guerra-civil"]
+timelineYear: 201
+summary: "Vendeaume es la ciudad humana más antigua de Bordeciel, sede del poder de Ulfric Sombrage y capital de la rebelión contra el Imperio durante la Guerra Civil de 4E 201."
+sources: ["Erta's Journal", "Nords of Skyrim", "Songs of the Return", "Decree of Monument"]
+---
+
+# Vendeaume
+
+## La Ciudad Más Antigua de Bordeciel
+
+**Vendeaume** (*Windhelm*) es considerada la ciudad humana más antigua todavía habitada de todo Tamriel. Fundada por el propio **Ysgramor** durante la **Era Merethica**, fue la primera gran ciudad construida por los Nórdicos tras su migración desde Atmora. Su nombre original en la antigua lengua nórdica significa "El Yelmo del Viento", en referencia a las perpetuas tormentas que barren sus murallas.
+
+La ciudad se alza a orillas del **Río Blanco** en el noreste de Bordeciel, en el extremo del feudo de Estamarca (*Eastmarch*). Su posición estratégica controla el acceso a los pasos de montaña que llevan hacia Morrowind al este y hacia las tierras salvajes del norte.
+
+## Arquitectura y Urbanismo
+
+Vendeaume es una ciudad de maciza piedra, construida para resistir las ventiscas y los ataques enemigos. Su arquitectura es característica del antiguo estilo nórdico, con gruesos muros, tejados puntiagudos y decoraciones de piedra tallada que representan dragones, águilas y motivos entrelazados.
+
+El **Palacio de los Reyes** domina la ciudad desde su extremo norte. Esta colosal fortaleza fue construida por Ysgramor como sede del poder de los Altos Reyes de Bordeciel. Sus muros de piedra oscura se alzan varios pisos de altura, coronados por macizas torres desde las que se puede observar toda la región. El gran salón del trono alberga el **Trono de Ysgramor**, símbolo de la soberanía nórdica.
+
+La ciudad está dividida en varios barrios:
+
+El **Barrio de Piedra** (*Stone Quarter*) — el corazón comercial de la ciudad, con sus tiendas, tabernas y residencias de la clase media nórdica. La taberna **Sala del Corazón Encendido** (*Candlehearth Hall*) es el principal punto de encuentro social.
+
+El **Valunstrad** — barrio residencial de las familias nobles y acomodadas de la ciudad, con sus grandes mansiones de piedra.
+
+El **Barrio Gris** (*Gray Quarter*) — antiguo barrio de las Nieves, convertido en el gueto de los refugiados Dunmer (véase la sección dedicada).
+
+**Los Muelles** — zona portuaria en el Río Blanco, poblada principalmente por Argonianos que ni siquiera tienen derecho a vivir dentro de la ciudad propiamente dicha.
+
+## Historia Antigua
+
+La historia de Vendeaume está íntimamente ligada a la de toda Bordeciel:
+
+**Era Merethica** — Ysgramor funda la ciudad tras regresar de Atmora con sus Quinientos Compañeros. Se convierte en la sede de su poder y la cuna de la civilización nórdica en Tamriel.
+
+**Primera Era** — Vendeaume sirve como capital para los primeros Altos Reyes. El rey **Harald** establece aquí el primer reino nórdico unificado. La ciudad es el punto de partida de numerosas expediciones de conquista.
+
+**Segunda Era** — La ciudad pasa por períodos de grandeza y declive, sirviendo alternativamente como capital provincial y simple capital de feudo según las fluctuaciones políticas.
+
+**Tercera Era** — Bajo el Imperio Septim, Vendeaume sigue siendo un importante centro de poder, aunque secundario respecto a Solitude, sede del Alto Rey reconocido por el Imperio.
+
+## Ulfric Sombrage y la Guerra Civil
+
+En 4E 201, Vendeaume es la sede del **Jarl Ulfric Sombrage** (*Ulfric Stormcloak*), el líder de la rebelión contra el Imperio. Ulfric utiliza la ciudad como capital de su movimiento separatista, reclutando Nórdicos descontentos con el Concordato del Oro Blanco y la presencia del Thalmor.
+
+La ciudad sirve como:
+- Cuartel general militar de la rebelión Sombrage
+- Centro de reclutamiento de soldados nórdicos
+- Símbolo de la resistencia nórdica frente al Imperio y al Thalmor
+- Base logística para las operaciones en el este de Bordeciel
+
+El ambiente político es tenso y nacionalista. Los discursos de Ulfric desde el Palacio de los Reyes enardecen a las multitudes, y la ciudad vibra con un fervor patriótico que a veces roza la xenofobia.
+
+## El Barrio Gris y los Refugiados Dunmer
+
+Uno de los aspectos más controvertidos de Vendeaume es el trato reservado a los **Elfos Oscuros** (*Dunmer*) que huyeron de Morrowind tras el **Año Rojo** de 4E 5. Estos refugiados fueron confinados en un barrio deteriorado de la ciudad, el **Barrio Gris**, antaño conocido como el Barrio de las Nieves.
+
+Las condiciones en el Barrio Gris son deplorables:
+- Edificios deteriorados y mal mantenidos
+- Discriminación sistemática por parte de los Nórdicos
+- Acceso limitado a los comercios y servicios de la ciudad
+- Violencia e intimidación regulares por parte de Nórdicos xenófobos
+- Pobreza y falta de oportunidades económicas
+
+Entre los Dunmer notables del barrio figuran:
+- **Brunwulf Libre-Invierno** — un Nórdico solidario que ayuda a los Elfos Oscuros
+- **Ambarys Rendar** — tabernero del *Rincón de la Nueva Gnisis*
+- **Suvaris Atheron** — una Dunmer que trabaja en los muelles a pesar del racismo
+
+Esta situación refleja las tensiones raciales que socavan Bordeciel, exacerbadas por el nacionalismo de Ulfric, que privilegia a los Nórdicos en detrimento de todas las demás razas.
+
+## Los Argonianos de los Muelles
+
+La situación de los **Argonianos** es aún peor que la de los Dunmer. Tienen prohibida directamente la residencia en la ciudad y están confinados en los muelles exteriores. Trabajan como estibadores y marineros por salarios de miseria, viviendo en condiciones precarias expuestos a los elementos.
+
+Esta segregación se justifica oficialmente por el temor a conflictos entre Argonianos y Dunmer — dos pueblos con un historial de guerras — pero refleja sobre todo el racismo profundamente arraigado en la sociedad de Vendeaume.
+
+## El Carnicero de Vendeaume
+
+En 4E 201, la ciudad está aterrorizada por un asesino en serie apodado el **Carnicero de Vendeaume**. Se encuentran mujeres mutiladas en las calles y callejones, sus cuerpos con señales de rituales de nigromancia. La investigación revela que el culpable es **Calixto Corrium**, un coleccionista de antigüedades aparentemente respetable que intenta devolver la vida a su difunta hermana mediante la nigromancia.
+
+Este caso ilustra las carencias de la autoridad en Vendeaume, donde la guardia está demasiado preocupada por la guerra civil para garantizar la seguridad de los ciudadanos ordinarios.
+
+## Economía y Comercio
+
+A pesar de las tensiones políticas, Vendeaume sigue siendo un importante centro económico:
+
+- **Las minas de Estamarca** suministran hierro, corindón y piedras preciosas
+- **El puerto fluvial** permite el comercio con el este de Bordeciel y más allá
+- **El hidromiel de Vendeaume** goza de renombre en toda la provincia
+- **La fragua de la ciudad** produce armas y armaduras para la rebelión
+- **El mercado** ofrece mercancías del norte y del este
+
+La guerra civil perturba seriamente la economía, sin embargo, ya que las rutas comerciales son frecuentemente cortadas por los combates.
+
+## Clima y Entorno
+
+Vendeaume es una de las ciudades más frías de Bordeciel. Las ventiscas son frecuentes, los inviernos brutales y los veranos breves. El viento helado que barre constantemente las calles dio nombre a la ciudad y forjó el carácter endurecido de sus habitantes.
+
+Esta rudeza climática es frecuentemente invocada por los Nórdicos como explicación de su dureza y su desprecio por las razas que consideran más débiles. "Si no puedes soportar el frío de Vendeaume, no mereces vivir aquí" es un sentimiento expresado con frecuencia.
+
+## Significado Simbólico
+
+Vendeaume es mucho más que una simple ciudad — es un **símbolo**. Para los nacionalistas nórdicos, representa la gloria de Ysgramor, la independencia de Bordeciel y la superioridad de la cultura nórdica. Para los opositores de Ulfric, representa el repliegue identitario, la xenofobia y el rechazo al progreso.
+
+Sea cual sea el resultado de la guerra civil, Vendeaume seguirá siendo la ciudad humana más antigua de Tamriel, testigo de miles de años de historia, gloria y tragedia. Sus muros de piedra han visto nacer reyes y caer imperios, y se alzarán aún mucho tiempo después de que los conflictos actuales sean olvidados.

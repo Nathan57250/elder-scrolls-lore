@@ -1,0 +1,114 @@
+---
+title: "Paarthurnax"
+slug: "paarthurnax"
+era: "fourth-era"
+category: "personnages"
+tags: ["paarthurnax", "dragons", "alduin", "greybeards", "throat-of-the-world", "thu-um"]
+timelineYear: 201
+summary: "Paarthurnax is an ancient dragon who betrayed Alduin during the Dragon War to teach mortals the Thu'um, and has meditated at the summit of the Throat of the World for millennia."
+sources: ["The Dragon War", "Atlas of Dragons", "Seven Fights of the Aldudagga", "Erta's Journal"]
+---
+
+# Paarthurnax
+
+## The Dragon Who Chose Mortals
+
+**Paarthurnax** is one of the oldest and most enigmatic dragons in Tamriel. His name in the dragon tongue translates as "Ambition-Cruelty-Domination" — a name that reveals his original nature and makes his redemption all the more remarkable. For Paarthurnax is the dragon who **betrayed Alduin**, the World-Eater, to teach mortals the power of the **Voice** (*Thu'um*) and give them the means to free themselves from draconic tyranny.
+
+In 4E 201, he lives in seclusion at the summit of the **Throat of the World**, the highest peak in Tamriel, where he meditates on the nature of existence and has guided the **Greybeards** for millennia.
+
+## Origins and Draconic Nature
+
+Like all dragons (*Dovah*), Paarthurnax is a fragment of the spirit of **Akatosh**, the Dragon God of Time. Dragons are not mere beasts — they are eternal souls made flesh, beings of pure power whose every word is an act of creation or destruction. They are immortal by nature, capable of being truly killed only by a **Dovahkiin** (Dragonborn) able to absorb their soul.
+
+In the original draconic hierarchy, Paarthurnax served as **Alduin's lieutenant**, the Firstborn of Akatosh. His rank was high — he was one of the oldest and most powerful among his kind. His very name speaks to his past cruelty and unbounded ambition.
+
+## The Dragon War
+
+During the **Merethic Era**, dragons ruled over mortals as god-kings, demanding worship and sacrifice. Men served in the **Dragon Cult**, a brutal theocracy run by dragon-priests who interpreted the will of their winged masters. The dragons dominated through the Voice — their innate power to reshape reality through language.
+
+The **Dragon War** broke out when certain mortals began to rebel against this tyranny. But without the Thu'um, mortals were helpless against dragons. It was then that Paarthurnax made his decisive choice.
+
+## The Betrayal and the Teaching
+
+At the request of **Kyne** (Kynareth), the goddess of the Sky and patron of mortals, Paarthurnax turned against his brethren. He taught mortals the secret of the **Thu'um** — the ability to use the draconic Voice, normally reserved for dragons alone.
+
+This act of betrayal was of immeasurable significance:
+- It gave mortals a weapon capable of rivaling dragons
+- It broke the draconic monopoly on the power of the Voice
+- It enabled the creation of the **Dragonrend** technique — a Shout designed specifically to force dragons to the ground
+- It made possible the defeat of Alduin
+
+The first mortals to master the Thu'um through Paarthurnax's teaching became the first **Tongues**, warriors of devastating power who led the rebellion to victory.
+
+## The Fall of Alduin
+
+Thanks to the Thu'um and the Dragonrend Shout, the Nordic heroes **Hakon One-Eye**, **Felldir the Old**, and **Gormlaith Golden-Hilt** confronted Alduin at the summit of the Throat of the World. Unable to kill him outright, they used an **Elder Scroll** to hurl him out of time — banishing him to a distant future rather than destroying him.
+
+Paarthurnax witnessed this battle and understood that the problem had only been postponed, not resolved. He chose to remain at the summit of the Throat of the World, watching and meditating while awaiting Alduin's inevitable return.
+
+## The Millennia of Meditation
+
+After the Dragon War, Paarthurnax retired to the summit of the Throat of the World, where he began a meditation lasting millennia. His purpose is twofold:
+
+**Self-mastery** — Paarthurnax struggles every day against his draconic nature. Dragons are made to dominate (*Dovah* literally means "hunter" in Draconic). Cruelty, ambition, and the desire for power are inscribed in his very essence. Every moment of peace is a personal victory against his own instincts.
+
+**Understanding the Way of the Voice** — Paarthurnax developed a philosophy of the Voice as a tool of knowledge rather than domination. This philosophy was later codified by **Jurgen Windcaller** into the **Way of the Voice**, the Greybeards' doctrine.
+
+His most celebrated quote summarizes his philosophy:
+> *"What is better — to be born good, or to overcome your evil nature through great effort?"*
+
+## Paarthurnax and the Greybeards
+
+The **Greybeards** are a monastic order dedicated to the study of the Voice, living at the monastery of **High Hrothgar** on the slopes of the Throat of the World. Though most people believe the Greybeards are the masters of the Voice, they themselves acknowledge Paarthurnax as their **supreme master**.
+
+The relationship between Paarthurnax and the Greybeards:
+- He has been their spiritual guide since the order's founding
+- He teaches them Words of Power and the secrets of the Thu'um
+- He counsels them on metaphysical and spiritual matters
+- He lives above them — literally and figuratively — at the peak's summit
+- Only the most advanced of the Greybeards climb to the summit to consult him
+
+Paarthurnax's existence is a jealously guarded secret. The common people do not know a dragon lives at the summit of the Throat of the World, and the Greybeards only reveal this information to those they deem worthy.
+
+## Alduin's Return in 4E 201
+
+Alduin's return in 4E 201 confirmed Paarthurnax's millennial fears. The World-Eater began resurrecting dead dragons, rebuilding his army with the aim of reclaiming dominion over the world.
+
+Paarthurnax played a crucial role in the resistance:
+- He revealed to the **Dovahkiin** (Dragonborn) the existence of the Dragonrend Shout
+- He explained how to use an Elder Scroll to observe the past and learn the Shout
+- He guided the Dovahkiin toward the means of entering **Sovngarde** to confront Alduin
+- He provided wisdom and knowledge accumulated over millennia of meditation
+
+Without Paarthurnax's information and counsel, the final defeat of Alduin would have been impossible.
+
+## The Moral Dilemma
+
+Paarthurnax's existence poses a fundamental moral dilemma. The **Blades**, represented by **Delphine** and **Esbern**, demand his death. Their argument is pragmatic: Paarthurnax was Alduin's lieutenant who actively participated in the enslavement of mortals. Regardless of his millennia of penitence, his past crimes deserve death. Moreover, a dragon is still a dragon — his nature could make him relapse at any moment.
+
+The **Greybeards** firmly oppose this demand. Their argument is philosophical: Paarthurnax has proven his redemption through millennia of service and self-mastery. Judging him for acts committed in such a distant past is unjust, and his wisdom is irreplaceable.
+
+The Dovahkiin must choose:
+- **Spare Paarthurnax** — honor his redemption and maintain the alliance with the Greybeards
+- **Kill Paarthurnax** — satisfy the Blades and eliminate a potential danger
+
+This choice has no "correct" answer — it questions the nature of justice, forgiveness, and the possibility of change.
+
+## The Philosophy of Paarthurnax
+
+Paarthurnax has developed over millennia a unique philosophy that blends draconic wisdom and mortal compassion:
+
+**On nature** — "A dragon's nature is to dominate. Yet I choose not to dominate. Every day is a battle, and every day I choose peace."
+
+**On time** — As a fragment of Akatosh, Paarthurnax perceives time differently from mortals. For him, the millennia are but a moment, and yet every instant is an eternity of struggle.
+
+**On the Voice** — "The Thu'um is not a weapon. It is a way of being. Every Word is a truth, and truth can liberate or destroy."
+
+**On mortals** — He admires the mortal capacity for change, growth, and choosing their fate — a freedom that dragons, prisoners of their nature, do not possess naturally.
+
+## Legacy and Influence
+
+Paarthurnax's influence on the history of Tamriel is incalculable. Without his betrayal, mortals would never have mastered the Thu'um, Alduin would never have been defeated, and dragons would still reign as tyrants. He is, paradoxically, humanity's greatest benefactor — a dragon who gave men the power to kill dragons.
+
+His continued meditation at the summit of the Throat of the World symbolizes the eternal possibility of redemption and the price it demands: not a single act of contrition, but a daily and permanent struggle against one's own nature. Paarthurnax is not good because he was born good — he is good because he chooses to be, every day, against everything his being commands him.

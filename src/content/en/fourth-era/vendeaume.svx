@@ -1,0 +1,112 @@
+---
+title: "Windhelm"
+slug: "vendeaume"
+era: "fourth-era"
+category: "lieux"
+tags: ["windhelm", "ulfric-stormcloak", "nords", "gray-quarter", "dark-elves", "civil-war"]
+timelineYear: 201
+summary: "Windhelm is the oldest human city in Skyrim, seat of Ulfric Stormcloak's power and capital of the rebellion against the Empire during the Civil War of 4E 201."
+sources: ["Erta's Journal", "Nords of Skyrim", "Songs of the Return", "Decree of Monument"]
+---
+
+# Windhelm
+
+## The Oldest City in Skyrim
+
+**Windhelm** is considered the oldest human city still inhabited in all of Tamriel. Founded by **Ysgramor** himself during the **Merethic Era**, it was the first great city built by the Nords after their migration from Atmora. Its original name in the ancient Nordic tongue means "The Helm of the Wind," a reference to the perpetual storms that sweep its walls.
+
+The city stands on the banks of the **White River** in northeastern Skyrim, at the far end of Eastmarch hold. Its strategic position controls access to the mountain passes leading toward Morrowind to the east and toward the wild lands of the north.
+
+## Architecture and Urban Layout
+
+Windhelm is a city of massive stone, built to withstand snowstorms and enemy assaults. Its architecture is characteristic of the ancient Nordic style, with thick walls, pointed roofs, and carved stone decorations depicting dragons, eagles, and interlaced motifs.
+
+The **Palace of the Kings** dominates the city from its northern end. This colossal fortress was built by Ysgramor as the seat of power for the High Kings of Skyrim. Its walls of dark stone rise several stories high, crowned by massive towers from which the entire region can be surveyed. The great throne room houses **Ysgramor's Throne**, symbol of Nordic sovereignty.
+
+The city is divided into several quarters:
+
+The **Stone Quarter** — the commercial heart of the city, with its shops, taverns, and residences of the Nordic middle class. The **Candlehearth Hall** tavern is the main social gathering point.
+
+The **Valunstrad** — residential quarter of the city's noble and wealthy families, with their grand stone mansions.
+
+The **Gray Quarter** — once the Snow Quarter, now the ghetto of Dunmer refugees (see dedicated section).
+
+**The Docks** — the port area on the White River, populated mainly by Argonians who are not even permitted to live within the city proper.
+
+## Ancient History
+
+Windhelm's history is intimately tied to that of Skyrim itself:
+
+**Merethic Era** — Ysgramor founds the city after returning from Atmora with his Five Hundred Companions. It becomes the seat of his power and the cradle of Nordic civilization in Tamriel.
+
+**First Era** — Windhelm serves as the capital for the first High Kings. King **Harald** establishes the first unified Nordic kingdom here. The city is the launching point for numerous conquest expeditions.
+
+**Second Era** — The city goes through periods of greatness and decline, serving alternately as a provincial capital and a mere hold capital depending on political shifts.
+
+**Third Era** — Under the Septim Empire, Windhelm remains an important power center but secondary to Solitude, seat of the High King recognized by the Empire.
+
+## Ulfric Stormcloak and the Civil War
+
+In 4E 201, Windhelm is the seat of **Jarl Ulfric Stormcloak**, the leader of the rebellion against the Empire. Ulfric uses the city as the capital of his separatist movement, recruiting discontented Nords angered by the White-Gold Concordat and the Thalmor's presence.
+
+The city serves as:
+- Military headquarters of the Stormcloak rebellion
+- Recruitment center for Nordic soldiers
+- Symbol of Nordic resistance against the Empire and the Thalmor
+- Logistical base for operations in eastern Skyrim
+
+The political atmosphere is tense and nationalistic. Ulfric's speeches from the Palace of the Kings inflame the crowds, and the city thrums with a patriotic fervor that occasionally borders on xenophobia.
+
+## The Gray Quarter and Dunmer Refugees
+
+One of the most controversial aspects of Windhelm is the treatment of the **Dark Elves** (*Dunmer*) who fled Morrowind after the **Red Year** of 4E 5. These refugees were herded into a rundown quarter of the city, the **Gray Quarter**, formerly known as the Snow Quarter.
+
+Conditions in the Gray Quarter are deplorable:
+- Dilapidated and poorly maintained buildings
+- Systematic discrimination by Nords
+- Limited access to the city's shops and services
+- Regular violence and intimidation by xenophobic Nords
+- Poverty and lack of economic opportunity
+
+Notable Dunmer in the quarter include:
+- **Brunwulf Free-Winter** — a sympathetic Nord who helps the Dark Elves
+- **Ambarys Rendar** — innkeeper of the *New Gnisis Cornerclub*
+- **Suvaris Atheron** — a Dunmer woman working on the docks despite the racism
+
+This situation reflects the racial tensions that undermine Skyrim, exacerbated by Ulfric's nationalism, which favors Nords at the expense of all other races.
+
+## The Argonians of the Docks
+
+The situation of the **Argonians** is even worse than that of the Dunmer. They are flatly forbidden from residing in the city and confined to the exterior docks. They work as stevedores and sailors for meager wages, living in precarious conditions exposed to the elements.
+
+This segregation is officially justified by the fear of conflict between Argonians and Dunmer — the two peoples having a history of war — but it speaks above all to the deeply rooted racism in Windhelm's society.
+
+## The Butcher of Windhelm
+
+In 4E 201, the city is terrorized by a serial killer nicknamed the **Butcher of Windhelm**. Women are found mutilated in the streets and alleys, their bodies bearing the marks of necromantic rituals. The investigation reveals the culprit to be **Calixto Corrium**, an apparently respectable antiques dealer who is attempting to bring his deceased sister back to life through necromancy.
+
+This case illustrates the failures of authority in Windhelm, where the guard is too preoccupied with the civil war to ensure the safety of ordinary citizens.
+
+## Economy and Trade
+
+Despite the political tensions, Windhelm remains an important economic center:
+
+- **The Eastmarch mines** supply iron, corundum, and precious stones
+- **The river port** enables trade with eastern Skyrim and beyond
+- **Windhelm mead** is renowned throughout the province
+- **The city forge** produces weapons and armor for the rebellion
+- **The market** offers goods from the north and east
+
+The civil war nonetheless seriously disrupts the economy, as trade routes are frequently cut by fighting.
+
+## Climate and Environment
+
+Windhelm is one of the coldest cities in Skyrim. Snowstorms are frequent, winters brutal, and summers brief. The icy wind that constantly sweeps the streets gave the city its name and forged the hardened character of its inhabitants.
+
+This climatic harshness is often invoked by Nords as an explanation for their toughness and their contempt for races they deem weaker. "If you cannot bear the cold of Windhelm, you do not deserve to live here" is a sentiment frequently expressed.
+
+## Symbolic Significance
+
+Windhelm is far more than a mere city — it is a **symbol**. For Nordic nationalists, it represents the glory of Ysgramor, the independence of Skyrim, and the superiority of Nordic culture. For Ulfric's opponents, it represents identity politics, xenophobia, and a refusal of progress.
+
+Whatever the outcome of the civil war, Windhelm will remain the oldest human city in Tamriel, a witness to thousands of years of history, glory, and tragedy. Its stone walls have seen kings born and empires fall, and they will still stand long after the current conflicts have been forgotten.

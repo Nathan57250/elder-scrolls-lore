@@ -1,0 +1,115 @@
+---
+title: "The Last Dragonborn (Dovahkiin)"
+slug: "enfant-de-dragon"
+era: "fourth-era"
+category: "personnages"
+tags: ["dovahkiin", "dragonborn", "thuum", "alduin", "miraak", "harkon", "prophecy", "dragons", "skyrim", "dragon-soul"]
+timelineYear: 201
+summary: "The Last Dragonborn, a mortal born with the soul of a dragon, whose destiny was to defeat Alduin the World-Eater and end the Dragon Return in 4E 201."
+sources: ["UESP: Last Dragonborn", "Events of TES V: Skyrim", "Events of TES V: Dragonborn DLC", "Events of TES V: Dawnguard DLC", "Book of the Dragonborn", "The Prophecy of the Dragonborn"]
+---
+
+## Nature of the Dovahkiin
+
+The **Dovahkiin** (literally "Dragon-Born-Hunter" in the dragon tongue) is a mortal born with the **soul of a dragon** — a fragment of the power of **Akatosh**, the God of Time. This dual nature — mortal body, draconic soul — grants unique abilities:
+
+- The ability to **absorb the souls** of slain dragons
+- Instantaneous mastery of **Shouts** (Thu'um) where others require decades
+- A natural resistance to the power of other dragons
+- A mystical bond with Akatosh himself
+
+### Distinction from Other Thu'um Users
+
+Unlike the **Greybeards** who study for decades to master a single Shout, or **Ulfric Stormcloak** who learned only the rudiments, the Dovahkiin masters the Thu'um **innately**. He need only meditate before a **Word Wall** and absorb a dragon soul to instantly unlock a complete Shout.
+
+## The Prophecy
+
+### The Alduin's Wall
+
+The prophecy of the Dovahkiin is inscribed on **Alduin's Wall** at the Temple of the Blades, Sky Haven Temple — a secret sanctuary of the Blades:
+
+> *"When the snow of man is fallen and the dead walk, when the World-Eater comes, the Dragon Blood shall bring the end."*
+
+### The Book of the Dragonborn
+
+The *Book of the Dragonborn* specifies the heralding signs:
+1. Times are desperate — war, chaos, tyranny
+2. Dragons return to the world
+3. A mortal with the soul of a dragon is revealed
+4. He alone is capable of permanently ending the dragons
+
+## The Awakening (4E 201)
+
+### Helgen
+
+The Last Dovahkiin was revealed under the most dramatic of circumstances. An anonymous prisoner captured at the border of Skyrim (for reasons never specified), he was on the chopping block at **Helgen** when **Alduin** himself attacked the town. The chaos of the destruction allowed him to escape.
+
+### The Revelation
+
+Shortly after, by slaying his first dragon near **Whiterun's Western Watchtower**, the Dovahkiin absorbed the creature's soul before the astonished guards. The **Greybeards** immediately summoned him to High Hrothgar with a Thu'um so powerful it shook the entire province.
+
+## The Powers
+
+### The Shouts (Thu'um)
+
+The Dovahkiin commands an arsenal of devastating Shouts:
+
+| Shout | Effect | Narrative Importance |
+|-------|--------|---------------------|
+| **Fus Ro Dah** (Unrelenting Force) | Devastating shockwave | First Shout learned, symbol of the Dovahkiin |
+| **Dragonrend** | Forces a dragon to land | Key to victory against Alduin |
+| **Call Dragon** | Summons Odahviing | Allows access to Sovngarde |
+| **Slow Time** | Slows time | Manifestation of the bond with Akatosh |
+| **Storm Call** | Summons a storm | Ultimate destructive power |
+
+### Soul Absorption
+
+Every dragon slain by the Dovahkiin has its soul **absorbed** — meaning that dragon can no longer be resurrected. It is this power that makes the Dovahkiin unique: he alone can kill dragons **permanently**.
+
+## The Defeat of Alduin
+
+### The Journey
+
+The path to Alduin's defeat led the Dovahkiin through:
+1. Study under the **Greybeards** and **Paarthurnax**
+2. Discovery of Alduin's Wall with the **Blades** (Delphine and Esbern)
+3. Use of an **Elder Scroll** at the Time-Wound to learn **Dragonrend**
+4. The first confrontation with Alduin at the **Throat of the World**
+5. The capture of **Odahviing** at Dragonsreach
+6. The journey to **Skuldafn**, Alduin's temple
+7. Entry into **Sovngarde** — the paradise of Nordic warriors
+
+### Sovngarde
+
+At Sovngarde, Alduin was devouring the souls of heroic dead, feeding on their strength. The Dovahkiin, aided by three ancient heroes — **Hakon One-Eye**, **Gormlaith Golden-Hilt**, and **Felldir the Old** — used the Shout **Clear Skies** to dispel Alduin's mist, then defeated him in combat.
+
+## The Other Threats
+
+### Miraak, the First Dragonborn
+
+On the island of **Solstheim**, the Dovahkiin faced **Miraak** — the very first Dovahkiin in history, an ancient Dragon Priest from the Merethic Era who had betrayed his masters but been absorbed into the realm of the Daedric Prince **Hermaeus Mora**. Miraak was attempting to return to the mortal world by enslaving the minds of Solstheim's inhabitants.
+
+The final battle took place in **Apocrypha**, the realm of Hermaeus Mora, where the Dovahkiin absorbed Miraak's soul after his defeat — thereby inheriting the power of two Dovahkiin.
+
+### Harkon and the Prophecy of the Bloodmoon
+
+The vampire lord **Harkon**, leader of Clan Volkihar, sought to fulfill the **Tyranus Prophecy** — a ritual using Elder Scrolls and the blood of a "Daughter of Coldharbour" (his own daughter **Serana**) to **blot out the sun**, allowing vampires to reign over Tamriel.
+
+The Dovahkiin, allied with the **Dawnguard** or with Clan Volkihar itself, put an end to Harkon's plans by destroying him in his castle.
+
+## Metaphysical Significance
+
+### A Shezarrine?
+
+Some lore theories suggest the Dovahkiin may be a **Shezarrine** — an avatar of Lorkhan/Shor, the creator god of Mundus. The evidence:
+- Shor is absent from his throne in Sovngarde when the Dovahkiin arrives
+- The Dovahkiin acts as champion of the mortal world against forces that threaten Mundus
+- Each hero of the Elder Scrolls games is potentially an aspect of Lorkhan
+
+### The Prisoner
+
+In the cosmology of the Elder Scrolls, the Dovahkiin is also a **Prisoner** — a being unbound by fate, capable of choosing and altering the course of history by sheer will alone. It is this nature as a "free variable" that makes him so dangerous to the forces of cosmic order.
+
+## Legacy
+
+The Last Dragonborn became, in a single year (4E 201), the most decisive figure of the Fourth Era — slayer of Alduin, destroyer of Miraak, scourge of vampires, and pivotal actor in Skyrim's civil war. His ultimate fate remains unknown, but his impact on Tamriel is immeasurable.

@@ -1,0 +1,108 @@
+---
+title: "Ulfric Tormenta, Jarl de Vendeaume"
+slug: "ulfric-sombrage"
+era: "fourth-era"
+category: "personnages"
+tags: ["ulfric-tormenta", "sombrages", "vendeaume", "guerra-civil", "thuum", "torygg", "bordeciel", "nordicos", "talos"]
+timelineYear: 201
+summary: "Jarl de Vendeaume y líder de la Rebelión Sombrage, Ulfric usó la Voz para matar al Alto Rey Torygg y desencadenó la guerra civil de Bordeciel en nombre de la libertad religiosa nórdica."
+sources: ["UESP: Ulfric Stormcloak", "Events of TES V: Skyrim", "Thalmor Dossier: Ulfric Stormcloak", "Bear of Markarth", "Jarl Balgruuf's dialogue"]
+---
+
+## Identidad
+
+**Ulfric Tormenta** es el Jarl de **Vendeaume** (Windhelm), la ciudad humana más antigua de Bordeciel, y el líder de la rebelión de los **Sombrages** contra el Imperio durante la guerra civil de 4E 201. Figura profundamente divisiva, es considerado según la perspectiva adoptada como un héroe libertador o un traidor oportunista.
+
+## Juventud y Formación
+
+### Orígenes Nobles
+
+Ulfric es el hijo del anterior Jarl de Vendeaume. Nacido en la nobleza nórdica, heredó el orgullo y el patriotismo tradicional de su pueblo. Desde joven, fue elegido para estudiar bajo la tutela de los **Barbas Grises** en el Alto Hrothgar — un honor inmenso reservado a muy raros individuos.
+
+### El Aprendizaje de la Voz
+
+En el Alto Hrothgar, Ulfric estudió el **Thu'um** (la Voz) — el arte ancestral de los nórdicos que permite proyectar la voluntad a través de Gritos de poder. Aprendió en especial el Grito **Desarmar** y posiblemente otros. El Camino de la Voz, tal como lo enseñan los Barbas Grises, prohíbe el uso del Thu'um con fines violentos — un precepto que Ulfric abandonó con el tiempo.
+
+### La Gran Guerra
+
+Ulfric dejó a los Barbas Grises para combatir en la **Gran Guerra** contra el Dominio Aldmeri. Durante este conflicto:
+- Sirvió como oficial en las legiones imperiales
+- Fue **capturado** por el Thalmor
+- Bajo tortura, reveló información (cuya utilidad real sigue siendo debatida)
+- Los Thalmor lo **quebraron psicológicamente** antes de soltarlo deliberadamente
+
+## El Incidente de Markarth
+
+### El Contexto
+
+Tras la Gran Guerra, los **Parjures** (Forsworn) — los indígenas Bretones del Ciel d'Automne — tomaron el control de **Markarth**. El Jarl Hrolfdir solicitó la ayuda de Ulfric, quien aceptó con una condición: que el **culto a Talos fuera restablecido libremente** en la ciudad.
+
+### La Reconquista
+
+Ulfric lideró una milicia nórdica que retomó Markarth con **considerable violencia**:
+- Los Parjures fueron masacrados, incluidos (según algunas fuentes) civiles
+- El culto a Talos fue restablecido en la ciudad
+- Cuando el Imperio, bajo presión del Thalmor, dio marcha atrás en su promesa y arrestó a los fieles de Talos, Ulfric se sintió traicionado
+
+Este episodio radicalizó a Ulfric y convirtió a un patriota herido en un revolucionario.
+
+## El Asesinato del Alto Rey Torygg
+
+### El Acto
+
+En **4E 201**, Ulfric se dirigió a Solitud y **desafió** al Alto Rey **Torygg** a un combate singular según la antigua tradición nórdica. Las versiones difieren:
+
+- **Según los Sombrages**: Ulfric usó la Voz para desestabilizar a Torygg, luego lo mató con la espada — un duelo honorable según la tradición
+- **Según los Imperiales**: Ulfric usó el Thu'um para **arrojar** a Torygg al suelo, luego lo remató cobardemente — un asesinato disfrazado de duelo
+
+### La Cuestión de la Legitimidad
+
+El debate central es: ¿fue el duelo **legítimo**?
+- La tradición nórdica permite el desafío en el moot (asamblea de jarls)
+- Pero ¿fue desleal usar el Thu'um en combate?
+- Torygg, joven e inexperto, no tenía ninguna oportunidad
+- Algunos afirman que Torygg **habría apoyado** a Ulfric si simplemente se lo hubiera pedido
+
+## La Guerra Civil
+
+### Las Fuerzas en Presencia
+
+| Bando | Jefe | Base | Objetivo |
+|-------|------|------|----------|
+| Sombrages | Ulfric Tormenta | Vendeaume | Independencia de Bordeciel |
+| Legión Imperial | General Tullius | Solitud | Mantenimiento de la unidad imperial |
+
+### Las Motivaciones de Ulfric
+
+Ulfric articula su rebelión en torno a varias reclamaciones:
+1. **El derecho a venerar a Talos** — el Noveno Divino, héroe nórdico por excelencia
+2. **La soberanía de Bordeciel** — los nórdicos deben gobernar su propia tierra
+3. **El rechazo del Concordato** — un tratado humillante impuesto por elfos supremacistas
+4. **La debilidad del Imperio** — que ya no protege a sus súbditos sino que los vende al Thalmor
+
+### Las Críticas
+
+Los detractores de Ulfric señalan:
+- Su **racismo** hacia los no nórdicos (los Dunmer y Argonianos de Vendeaume viven en la miseria)
+- Su **ambición personal** disfrazada de causa nacional
+- El hecho de que la guerra civil **divide** Bordeciel frente al verdadero enemigo (el Thalmor)
+- Su manipulación involuntaria por el Thalmor (véase el expediente Thalmor)
+
+## El Expediente Thalmor
+
+Un documento clasificado del Thalmor, descubierto en la embajada, revela que los elfos consideran a Ulfric un **activo involuntario**:
+- Fue "quebrado" durante su cautiverio y cree haber traicionado información crucial
+- El Thalmor no lo controla directamente pero **se beneficia** de la guerra civil
+- Un Bordeciel unido (bajo el Imperio O bajo Ulfric) sería **perjudicial** para el Thalmor
+- Su ideal es que el conflicto **se prolongue** el mayor tiempo posible
+
+Este documento complica enormemente el juicio moral sobre Ulfric — es a la vez una víctima manipulada y un agente libre.
+
+## Legado y Ambigüedad
+
+Ulfric Tormenta encarna la ambigüedad moral central de Bordeciel. ¿Es:
+- Un **héroe** que lucha por la libertad de su pueblo contra un Imperio corrupto?
+- Un **demagogo** racista cuya ambición personal destruye la unidad necesaria frente al Thalmor?
+- Un **peón involuntario** del Thalmor, manipulado por sus propios traumas?
+
+La respuesta, según la filosofía de The Elder Scrolls, es probablemente: **los tres a la vez**. La grandeza del personaje reside en la imposibilidad de reducirlo a una única lectura.

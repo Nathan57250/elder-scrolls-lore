@@ -1,0 +1,102 @@
+---
+title: "The Companions of Jorrvaskr"
+slug: "compagnons"
+era: "fourth-era"
+category: "guildes"
+tags: ["companions", "jorrvaskr", "warriors", "whiterun", "ysgramor", "the-circle", "werewolf"]
+timelineYear: 201
+summary: "The Companions are the oldest warrior order in Skyrim — spiritual descendants of Ysgramor, based at Jorrvaskr in Whiterun since the Merethic Era."
+sources: ["UESP: Companions", "Songs of the Return", "The Imperial Library"]
+---
+
+## Origins
+
+The **Companions** take their name from the **Five Hundred Companions** of Ysgramor — the Atmoran warriors who conquered Skyrim in the Merethic Era. When the conquest was complete, Ysgramor founded **Jorrvaskr** — a warrior hall in Whiterun, built around the overturned ship that had carried them from Atmora.
+
+Jorrvaskr is therefore the **oldest human building** in Tamriel still in active use.
+
+## Structure
+
+### Not a Guild
+The Companions insist: they are **not** a guild. There is:
+- No official contract
+- No formal oath
+- No rigid hierarchy (in theory)
+- No political allegiance
+
+A Companion is simply a warrior who lives by honor and takes contracts to fund the hall.
+
+### De Facto Hierarchy
+In practice, a structure does exist:
+
+| Role | Description |
+|------|-------------|
+| Harbinger | Moral guide, not a leader in the strict sense |
+| The Circle | Inner council (bearers of the wolf blood) |
+| Members | Proven warriors |
+| Whelps | Recruits under evaluation |
+
+### The Circle
+The Companions' best-kept secret: members of the Circle are **werewolves**. They carry the wolf blood offered by the Witches of Glenmoril, servants of Hircine. This tradition stretches back centuries.
+
+## Jorrvaskr
+
+The hall is located on the main square of Whiterun, near the Skyforge:
+- **Ground floor**: great feasting hall, central hearth
+- **Basement**: individual rooms, living quarters
+- **Exterior**: training yard with dummies and targets
+
+### The Skyforge
+An ancient **pre-human** forge at the top of the hill behind Jorrvaskr:
+- Older than the city itself
+- Produces the finest steel in Skyrim (Skyforge Steel)
+- **Ancient Nords** are cremated here
+- The blacksmith **Eorlund Gray-Mane** is its current guardian
+
+## Wuuthrad
+
+The legendary axe of **Ysgramor** — a two-handed weapon of immense power:
+- Shattered after Ysgramor's death
+- Its fragments scattered across Skyrim
+- Reconstituted by the Last Dragonborn
+- Particularly effective against elves
+- The supreme symbol of the Companions
+
+## Events of 4E 201
+
+### The Internal Crisis
+- The Circle is divided over lycanthropy
+- **Kodlak Whitemane** (Harbinger) seeks a cure — he wishes to join Sovngarde
+- **Aela the Huntress** embraces the wolf gift
+- The **Silver Hand** hunts the Circle's werewolves
+
+### Resolution
+- The Silver Hand attacks Jorrvaskr, killing Kodlak
+- The Last Dragonborn reconstitutes Wuuthrad
+- Uses the heads of the Glenmoril Witches to free Kodlak's wolf spirit
+- Kodlak's soul joins Sovngarde
+- The Dovahkiin can become the new Harbinger
+
+## Values
+
+The Companions embody Nordic virtues:
+- **Honor** — never flee a fight once accepted
+- **Loyalty** — shield-brothers come before everything
+- **Strength** — physical prowess as an ideal
+- **Independence** — no political allegiance (neither Empire nor Stormcloaks)
+- **Meritocracy** — rank is earned through deeds, not birth
+
+## Contracts
+
+The Companions accept work in exchange for payment:
+- Extermination of wild beasts
+- Caravan escort
+- Retrieval of objects from dangerous locations
+- Elimination of bandits
+- Honor duels by proxy
+
+They categorically refuse:
+- Assassination
+- Theft
+- Any dishonorable work
+- Political missions

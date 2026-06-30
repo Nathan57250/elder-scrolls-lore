@@ -1,0 +1,132 @@
+---
+title: "La Hermandad Oscura de Bordeciel"
+slug: "confrerie-noire-bordeciel"
+era: "fourth-era"
+category: "guildes"
+tags: ["hermandad-oscura", "astrid", "madre-de-la-noche", "sithis", "asesinato", "emperador"]
+timelineYear: 201
+summary: "La Hermandad Oscura de Bordeciel, la última rama superviviente de la orden de asesinos, se debate entre tradición y pragmatismo antes de llevar a cabo su contrato más audaz: el asesinato del Emperador."
+sources: ["The Night Mother's Truth", "Sacred Witness", "Fire and Darkness", "A Kiss, Sweet Mother"]
+---
+
+# La Hermandad Oscura de Bordeciel
+
+## La Naturaleza de la Hermandad
+
+La **Hermandad Oscura** es la organización de asesinos más antigua y temida de todo Tamriel. Fundada sobre el culto de **Sithis**, la Voz del Vacío, y guiada por la **Madre de la Noche**, la Hermandad ofrece la muerte como servicio — a cambio de un precio y el ritual apropiado.
+
+En 4E 201, la rama de Bordeciel es la última que sigue activa en todo el continente. Los demás santuarios han sido destruidos a lo largo de las décadas: el de Cyrodiil fue aniquilado durante la Crisis de Oblivion y sus secuelas, el de Morrowind fue arrasado por el Año Rojo. Solo el **Santuario de Falkreath** persiste, oculto en los oscuros bosques del sur de Bordeciel.
+
+## El Santuario de Falkreath
+
+El santuario se disimula tras una **Puerta Negra** encantada, situada en una cueva cerca del camino entre Falkreath y la frontera de Cyrodiil. La puerta plantea una pregunta ritual a quien desee entrar: *"¿Cuál es la música de la vida?"* — y sólo la respuesta correcta (*"Silencio, hermano mío"*) permite el acceso.
+
+El interior es una red de cuevas acondicionadas que comprende:
+- Cuartos individuales para cada asesino
+- Un estanque de agua negra consagrado a Sithis
+- Un altar para la Madre de la Noche y su ataúd
+- Una zona de entrenamiento de combate
+- Una sala de reuniones en torno a una mesa de piedra
+- Pasajes secretos hacia la superficie
+
+El ambiente es paradójicamente familiar — los miembros se consideran una familia y se llaman "hermanos" y "hermanas" según la tradición de la orden.
+
+## Astrid: La Líder Pragmática
+
+**Astrid** es la jefa de facto del santuario de Bordeciel. Una carismática y mortalmente capaz mujer nórdica, dirige la Hermandad según sus propias reglas en lugar de las tradiciones ancestrales. Ha dejado de lado a la Madre de la Noche y los Cinco Preceptos en favor de un enfoque pragmático y familiar.
+
+Bajo su liderazgo:
+- Los contratos se obtienen de boca en boca y a través de contactos, no mediante el Sacramento Negro
+- La jerarquía es informal, basada en el respeto más que en los títulos
+- La eficiencia prima sobre el ritual
+- La "familia" es el valor supremo
+
+Astrid está casada con **Arnbjorn**, un hombre lobo y herrero del santuario. Sus miembros la respetan, pero su rebelión contra las tradiciones terminará provocando la caída del santuario.
+
+## Los Miembros del Santuario
+
+El santuario de Falkreath alberga un ecléctico grupo de asesinos:
+
+**Arnbjorn** — esposo de Astrid, Nórdico y hombre lobo, herrero del santuario. Hosco pero leal.
+
+**Nazir** — un pragmático Guardia Roja que distribuye los contratos menores. Sarcástico y profesional.
+
+**Babette** — una vampira que aparenta ser una niña de diez años pero tiene más de trescientos. Alquimista experta en venenos, utiliza su apariencia inocente como arma.
+
+**Festus Krex** — un viejo mago Imperial especializado en magia destructiva. Irascible pero brillante.
+
+**Gabriella** — una discreta y eficaz Elfa Oscura, devota de Sithis.
+
+**Veezara** — un Argoniano, último de las **Escamas en la Sombra** (*Shadowscales*), asesinos argonianos consagrados a Sithis desde el nacimiento.
+
+**Cicero** — el Guardián de la Madre de la Noche (véase la sección siguiente).
+
+## Cicero y la Madre de la Noche
+
+La llegada de **Cicero** al santuario de Bordeciel es un punto de inflexión. Este bufón Imperial es el **Guardián** (*Keeper*) de la **Madre de la Noche** — el cadáver conservado de la fundadora de la Hermandad que comunica la voluntad de Sithis a los asesinos a través de un **Oyente** (*Listener*).
+
+Cicero transportó el ataúd de la Madre de la Noche por todo Tamriel tras la destrucción de los demás santuarios. Su diario revela a un hombre que antaño estuvo en su sano juicio y que fue hundiéndose en la locura a lo largo de sus años de soledad como Guardián sin Oyente.
+
+La propia **Madre de la Noche** es el cadáver embalsamado de una mujer que, según la leyenda, mató a sus propios hijos como ofrenda a Sithis. En recompensa, Sithis la convirtió en el oráculo eterno de la Hermandad. Comunica los contratos surgidos del **Sacramento Negro** — un ritual en el que un cliente rodeado de huesos y carne humanos recita una plegaria a la Madre.
+
+El conflicto entre Cicero (que representa la tradición) y Astrid (que representa el pragmatismo) amenaza con desgarrar el santuario.
+
+## Los Cinco Preceptos
+
+Los **Cinco Preceptos** son las leyes sagradas de la Hermandad, ampliamente ignoradas por Astrid:
+
+1. **Nunca deshonrar a la Madre de la Noche** — obedecer su voluntad sin cuestionarla
+2. **Nunca traicionar a la Hermandad** — guardar sus secretos hasta la muerte
+3. **Nunca desobedecer a un superior** — la jerarquía es sagrada
+4. **Nunca robar a un hermano o hermana** — el botín es sagrado entre los miembros
+5. **Nunca matar a un hermano o hermana** — la sangre de la familia no debe derramarse
+
+La violación de estos preceptos invita tradicionalmente a la visita de la **Ira de Sithis**, un espíritu vengativo enviado por el Dios del Vacío.
+
+## El Contrato del Emperador
+
+El contrato más audaz de la historia reciente de la Hermandad es el asesinato del propio **Emperador Titus Mede II**. Este contrato, recibido mediante el Sacramento Negro a través de la Madre de la Noche, es encargado por **Amaund Motierre**, un miembro del Consejo de Ancianos del Imperio.
+
+La ejecución del contrato se desarrolla en varias fases:
+
+**Fase 1 — Eliminar los obstáculos:**
+- Asesinato de **Vittoria Vici**, prima del Emperador, durante su boda en Solitude
+- Eliminación del **comandante Maro**, jefe de la guardia personal del Emperador
+- Neutralización de varios objetivos secundarios para crear el caos
+
+**Fase 2 — El intento inicial:**
+- Infiltración en un banquete oficial en el **Castillo Dour** de Solitude
+- Envenenamiento del plato principal destinado al Emperador
+- Este intento tiene éxito… pero el objetivo resulta ser un doble
+
+**Fase 3 — La traición de Astrid:**
+- Astrid, asustada por la magnitud del contrato y temiendo represalias imperiales, traiciona a la Hermandad
+- Vende la ubicación del santuario a los **Penitus Oculatus** (la guardia secreta imperial)
+- El asalto destruye el santuario y mata a la mayoría de sus miembros
+- Consumida por el remordimiento, Astrid realiza el **Sacramento Negro** sobre sí misma, pidiendo su propia muerte
+
+**Fase 4 — El asesinato final:**
+- El Oyente superviviente localiza al Emperador a bordo de su nave, el **Katariah**
+- Infiltración en el barco y confrontación con Titus Mede II
+- El Emperador, consciente de su destino, acepta su muerte con dignidad
+- El asesinato se consuma, completando el contrato
+
+## Las Consecuencias
+
+La destrucción del santuario de Falkreath y el asesinato del Emperador tienen consecuencias de gran alcance:
+
+- La Hermandad queda diezmada pero no destruida — el nuevo Oyente y los supervivientes (Nazir, Babette, Cicero) reconstruyen
+- Se establece un **nuevo santuario** en el santuario abandonado de **Dawnstar**
+- El Imperio pierde a su soberano en un momento de gran inestabilidad política
+- La sucesión imperial queda sumida en la incertidumbre
+- La reputación de la Hermandad queda paradójicamente restaurada por esta hazaña
+
+## Sithis y la Voz del Vacío
+
+**Sithis** no es un Daedra ni un Aedra — es el propio **Vacío**, el vacío primordial del que todo emerge y al que todo retorna. La Hermandad lo venera como el creador último, pues la destrucción es necesaria para la creación. Cada alma enviada al Vacío es una ofrenda a Sithis.
+
+La relación entre Sithis y la Hermandad está mediada por la Madre de la Noche, que escucha su voluntad y la transmite al Oyente. Los asesinos no rezan a Sithis directamente — está más allá de la plegaria, más allá de la comprensión. Simplemente sirven como instrumentos de su inexorable voluntad.
+
+## El Legado de la Hermandad
+
+A pesar de su casi destrucción en 4E 201, la Hermandad Oscura ha sobrevivido a cosas peores a lo largo de su existencia milenaria. Mientras los mortales deseen la muerte de otros y conozcan el Sacramento Negro, la Madre de la Noche escuchará, y sus hijos responderán. La muerte es eterna, y también lo son sus servidores.

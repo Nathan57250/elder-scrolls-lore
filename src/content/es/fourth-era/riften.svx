@@ -1,0 +1,116 @@
+---
+title: "Faillaise"
+slug: "riften"
+era: "fourth-era"
+category: "lieux"
+tags: ["faillaise", "gremio-de-ladrones", "maven-roncenoir", "corrupción", "mara", "lago-honrich"]
+timelineYear: 201
+summary: "Faillaise es una ciudad mercantil en el sureste de Bordeciel, gangrenada por la corrupción de la familia Roncenoir y base operacional del Gremio de Ladrones."
+sources: ["Erta's Journal", "Of Crossed Daggers", "The Nightingales", "Scourge of the Gray Quarter"]
+---
+
+# Faillaise
+
+## Presentación de la Ciudad
+
+**Faillaise** (*Riften*) es la capital del feudo del mismo nombre, situada a orillas del **Lago Honrich** en el sureste de Bordeciel. Otrora próspera ciudad mercantil célebre por sus pesquerías y su hidromiel, en 4E 201 se ha convertido en un refugio de corrupción, crimen organizado y decadencia política. Bajo su apariencia de tranquila ciudad de pintorescos canales se oculta una red criminal que controla todos los aspectos de la vida local.
+
+La ciudad está construida sobre pilotes y plataformas sobre canales que desembocan en el lago. Esta arquitectura única — con sus pasarelas de madera, los muelles que se asoman al agua y las estrechas callejuelas — ofrece un escenario ideal para las actividades clandestinas: pasajes secretos, trampillas en los suelos y canales subterráneos forman un laberinto propicio a la huida y la ocultación.
+
+## Geografía y Entorno
+
+Faillaise goza de un clima más templado que el resto de Bordeciel, gracias a su posición meridional y a la protección de las montañas circundantes. El **Lago Honrich** y el bosque otoñal que lo rodea le confieren un entorno natural de notable belleza — follaje dorado, aguas tranquilas, brumas matutinas.
+
+Los alrededores de la ciudad comprenden:
+- El **Lago Honrich** — vasta extensión de agua rica en peces que alimenta la economía local
+- **El Grieta** (*The Rift*) — bosque de árboles caducifolios de colores otoñales perpetuos
+- La **Vía de las Ratas** (*The Ratway*) — red de pasajes subterráneos bajo la ciudad
+- El **Templo de Mara** — santuario de la diosa del amor a la entrada de la ciudad
+- Granjas y huertos en el valle circundante
+
+## Maven Roncenoir: La Verdadera Soberana
+
+**Maven Roncenoir** (*Maven Black-Briar*) es la mujer más poderosa de Faillaise — y probablemente de todo el feudo. Oficialmente una simple propietaria de la **Cervecería Roncenoir**, es en realidad el poder detrás del trono, que manipula al Jarl, a la guardia, a los comerciantes y a los criminales con mano de hierro envuelta en guante de terciopelo.
+
+Las fuentes del poder de Maven:
+- **La Cervecería Roncenoir** — su fortuna personal, que produce el hidromiel más vendido de Bordeciel
+- **El Gremio de Ladrones** — que utiliza como brazo armado para intimidar a sus rivales
+- **La Hermandad Oscura** — de la que es clienta habitual para eliminar obstáculos
+- **El Thalmor** — con quien mantiene rentables relaciones diplomáticas
+- **Contactos imperiales** — que la protegen de las consecuencias legales
+
+Maven no gobierna por la fuerza bruta sino por el miedo, la deuda y el chantaje. Cada comerciante le debe dinero, cada guardia sabe que desafiarla significa la muerte y cada político comprende que su carrera depende de su buena voluntad. Puede arruinar un negocio, encarcelar a un inocente o mandar asesinar a un enemigo con solo chasquear los dedos.
+
+## El Jarl y la Política Local
+
+La **Jarl Laila Ley-de-las-Nieves** (*Laila Law-Giver*) es la dirigente nominal de Faillaise, pero está ampliamente desconectada de la realidad de su ciudad. Simpatizante de los Sombrages por convicción nacionalista, ignora — o finge ignorar — la corrupción que carcome su feudo.
+
+Su intendente **Anuriel** está secretamente al servicio de Maven, asegurándose de que las decisiones políticas sirvan los intereses Roncenoir. El hijo de Laila, **Harrald**, es un notorio incompetente. Solo su otro hijo, **Saerlund**, parece consciente de la corrupción pero impotente para combatirla.
+
+Si los Imperiales toman el control de la Grieta durante la Guerra Civil, Maven es instalada directamente como Jarl — formalizando simplemente lo que ya era una realidad de hecho.
+
+## El Gremio de Ladrones
+
+El **Gremio de Ladrones** opera desde los subterráneos de Faillaise, en una red de canales y salas llamada la **Vía de las Ratas** (*The Ratway*). Su taberna clandestina, el **Flacón Raído** (*Ragged Flagon*), es accesible por las alcantarillas bajo la ciudad.
+
+La presencia del Gremio afecta profundamente a la vida cotidiana:
+- Los comerciantes pagan un "impuesto de protección" informal
+- Los guardias hacen la vista gorda ante los robos a cambio de sobornos
+- Los ciudadanos saben que no deben hacer preguntas
+- Los bienes robados circulan abiertamente en el mercado negro
+- Cualquier denuncia es inútil — la guardia no hará nada
+
+A pesar de todo, el Gremio mantiene un cierto orden en el mundo criminal. Sin él, Faillaise sería presa de una criminalidad aún más caótica y violenta.
+
+## La Cervecería Roncenoir
+
+La **Cervecería Roncenoir** (*Black-Briar Meadery*) es el negocio más rentable de Faillaise y uno de los más importantes de Bordeciel. Produce el **Hidromiel Roncenoir**, una bebida de renombre en toda la provincia, así como diversas otras cervezas y licores.
+
+La cervecería está ubicada dentro de las murallas de la ciudad y emplea a numerosos trabajadores. Sin embargo, las condiciones laborales son duras y los empleados viven con el miedo a Maven. Cualquier intento de sindicación o protesta es inmediatamente aplastado — generalmente por el Gremio de Ladrones o mediante amenazas directas.
+
+**Ingun Roncenoir**, la hija de Maven, trabaja oficialmente en la cervecería pero pasa su tiempo estudiando alquimia — en particular venenos. Su mórbida fascinación por la toxicología es tolerada por su madre, que quizás vea en ello una habilidad útil.
+
+## El Templo de Mara
+
+El **Templo de Mara** es uno de los pocos elementos positivos de Faillaise. Dedicado a la diosa del amor, la compasión y la fertilidad, está regentado por **Maramal** y los sacerdotes de Mara, que ofician bodas y ofrecen refugio a los necesitados.
+
+El templo está situado cerca de la entrada principal de la ciudad, simbólicamente separado de la corrupción interior. Es aquí donde las parejas de todo Bordeciel vienen a casarse según los ritos de Mara — un irónico contraste con la sombría ciudad que lo rodea.
+
+El orfanato **Honorhall** es otro establecimiento notable, aunque bajo la dirección de la cruel **Grelod la Amable**, funciona más como una prisión para niños que como un lugar de caridad.
+
+## Criminalidad y Corrupción
+
+La corrupción en Faillaise es sistémica y total:
+
+**La Guardia** — corrupta del capitán al simple soldado. Los guardias aceptan sobornos, ignoran los crímenes del Gremio y sirven los intereses de Maven.
+
+**La Justicia** — inexistente para los ricos y los bien relacionados. Un ladrón pillado in fraganti puede comprar su libertad; un inocente que molesta a Maven puede ser encarcelado indefinidamente.
+
+**El Comercio** — controlado por Maven y el Gremio. Los comerciantes independientes son intimidados, gravados ilegalmente o simplemente eliminados.
+
+**La Administración** — infiltrada a todos los niveles. El intendente, los consejeros y los funcionarios sirven a Maven antes que al Jarl.
+
+El único contrapeso es **Mjoll la Leona** (*Mjoll the Lioness*), una aventurera nórdica que intenta limpiar la ciudad de su corrupción. Pero sola contra todo un sistema, sus esfuerzos resultan en gran medida vanos.
+
+## Economía
+
+A pesar de la corrupción, Faillaise sigue siendo una ciudad económicamente activa:
+
+- **La pesca** — el Lago Honrich proporciona peces y mariscos
+- **El hidromiel y la cervecería** — industria principal bajo control Roncenoir
+- **La apicultura** — vinculada a la producción de hidromiel
+- **El comercio** — posición estratégica en las rutas hacia Morrowind y Cyrodiil
+- **La agricultura** — la Grieta es una de las regiones más fértiles de Bordeciel
+- **El crimen** — receptación, contrabando y mercado negro representan una economía paralela considerable
+
+## El Incendio Histórico
+
+La historia reciente de Faillaise está marcada por un **devastador incendio** que arrasó gran parte de la ciudad hace unas décadas. Este acontecimiento explica la arquitectura de madera relativamente reciente que contrasta con las cimentaciones de piedra más antiguas. Algunos susurran que el incendio no fue accidental, pero los detalles permanecen oscuros.
+
+Antes del incendio, Faillaise era una ciudad más próspera y menos corrupta. La destrucción permitió a los elementos criminales tomar el control durante la reconstrucción, y la familia Roncenoir aprovechó la oportunidad para consolidar su dominio sobre la ciudad debilitada.
+
+## Significado en Bordeciel
+
+Faillaise representa el punto blando de Bordeciel — la prueba de que la corrupción y el crimen organizado pueden prosperar incluso en una sociedad guerrera. Es una advertencia sobre lo que ocurre cuando la ley está en venta y el poder se concentra en manos privadas.
+
+Sin embargo, para quienes saben navegar por sus turbulentas aguas, Faillaise ofrece oportunidades que las ciudades más honestas no pueden brindar. Es un lugar donde uno puede desaparecer, reinventarse o encontrar servicios que ninguna ciudad respetable ofrecería abiertamente. A la sombra de la corrupción existe una cierta forma de libertad — para quienes están dispuestos a pagar su precio.

@@ -1,0 +1,88 @@
+---
+title: "The College of Winterhold"
+slug: "college-fortdhiver"
+era: "fourth-era"
+category: "guildes"
+tags: ["college", "winterhold", "magic", "archmage", "savos-aren", "ancano"]
+timelineYear: 201
+summary: "The College of Winterhold is the last major institution of magical learning in Skyrim — a bastion of knowledge in a province hostile to magic."
+sources: ["UESP: College of Winterhold", "The Imperial Library: History of Winterhold"]
+---
+
+## Overview
+
+The **College of Winterhold** is perched on an isolated promontory at the edge of the Sea of Ghosts, connected to the town by a narrow, vertiginous bridge. It is the only institution of magical learning in Skyrim — and one of the few to survive after the dissolution of the Mages Guild in 4E 1.
+
+## History
+
+### Foundation
+The College was founded in the First Era by **Shalidor** — a legendary archmage said to have been capable of constructing entire cities through magic alone. He wished to create a place of study dedicated to all forms of magic, free from political constraints.
+
+### The Great Collapse (4E 122)
+The most traumatic event in the College's history:
+- A natural (or magical?) catastrophe engulfed the majority of Winterhold's city
+- The cliffs collapsed into the sea, taking entire quarters with them
+- The College **survived** untouched on its promontory
+- The townspeople accused the mages of being responsible
+- Since then, the College has been isolated and despised by the local population
+
+### 4E 201 — The Eye of Magnus Incident
+- Discovery of the **Eye of Magnus** in the ruins of Saarthal
+- The Thalmor **Ancano** attempted to seize its power
+- The Staff of Magnus was needed to neutralize it
+- Archmage **Savos Aren** died during the crisis
+- The Last Dragonborn potentially became the new Archmage
+
+## Organization
+
+### Hierarchy
+| Title | Responsibility |
+|-------|---------------|
+| Archmage | Supreme leadership of the College |
+| Master Wizard | Second-in-command, daily management |
+| Expert Wizard | Head of a school of magic |
+| Wizard | Full member |
+| Apprentice | Advanced student |
+| Novice | Beginning student |
+
+### Departments (4E 201)
+- **Destruction** — Master Faralda (Altmer)
+- **Conjuration** — Master Phinis Gestor (Breton)
+- **Restoration** — Master Colette Marence (Breton)
+- **Alteration** — Master Tolfdir (Nord)
+- **Illusion** — Master Drevis Neloren (Dunmer)
+- **Enchanting** — Master Sergius Turrianus (Imperial)
+
+## Architecture
+
+The College is organized into several buildings:
+- **Hall of the Elements** — main practice hall, where the Eye of Magnus was displayed
+- **Hall of Attainment** — student dormitories
+- **Hall of Countenance** — masters' quarters
+- **Arcanaeum** — the library, managed by the Orc Urag gro-Shub
+- **The Midden** — dark basement, site of forbidden experiments
+- **Archmage's Tower** — private quarters of the College's leader
+
+## The Conflict with Skyrim
+
+The College is **despised** by the majority of Nords:
+- Cultural distrust of magic (Nordic tradition)
+- Accusation of responsibility for the Great Collapse
+- The Stormcloaks see the College as a nest of foreigners
+- Only the necessity of magical research keeps it tolerated
+
+Despite this hostility, the College accepts students of **all races** — a rare cosmopolitanism in Skyrim.
+
+## Notable Artefacts
+
+- **Eye of Magnus** — orb of immense power linked to Magnus, architect of Mundus
+- **Staff of Magnus** — necessary to control the Eye
+- **Gauldur Amulet** — reconstructed in the depths of Saarthal
+- **Savos Aren's Amulet** — relic of the fallen Archmage
+
+## External Relations
+
+- **Psijics** — the rare contacts with the Psijic Order occur at the College
+- **Thalmor** — Ancano was an "advisor" (spy) imposed by the Aldmeri Dominion
+- **Empire** — distant support; the College is technically independent
+- **Jarl of Winterhold** — Korir despises the College but can do nothing about it

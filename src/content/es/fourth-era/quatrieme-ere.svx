@@ -1,0 +1,110 @@
+---
+title: "La Cuarta Era"
+slug: "quatrieme-ere"
+era: "fourth-era"
+category: "empires"
+tags: ["imperio-mede", "thalmor", "gran-guerra", "concordato-oro-blanco", "guerra-civil", "alduin", "sangre-de-dragon"]
+date: "4E 1 — 4E 201"
+summary: "La caída de la dinastía Septim, el ascenso del Thalmor, la Gran Guerra y el regreso de Alduin el Devorador de Mundos."
+timelineYear: 1
+sources: ["UESP: Fourth Era", "The Great War (book)", "Events of Skyrim"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Panorama General — La Era del Colapso
+
+La Cuarta Era es aquella en la que **todo lo que protegía a Tamriel se derrumba**:
+- Las Hogueras del Dragón — **apagadas** (Amuleto destruido)
+- La dinastía Septim — **extinguida**
+- El Tribunal — **muerto** (poder perdido en 3E 427)
+- El Imperio — **amputado** y humillado
+- Las Torres — **cayendo una a una**
+
+Cada acontecimiento de esta era es una consecuencia directa de la Crisis de Oblivion (3E 433). El mundo antiguo ha muerto — el nuevo aún no ha encontrado su equilibrio.
+
+## El Período Post-Crisis (4E 1 — 4E 171)
+
+La muerte de Martin Septim dejó al Imperio sin heredero legítimo. Tras dos siglos de transiciones caóticas, la dinastía **Mede** tomó el poder — pero el Imperio no era más que una sombra de su antigua grandeza.
+
+Eventos principales de este período:
+- **4E 5**: La erupción de la **Montaña Roja** devastó Vvardenfell y gran parte de Morrowind
+- **4E 6**: La invasión argoniana de Morrowind, aprovechando la devastación
+- **4E 22**: El **Thalmor** (supremacistas Altmer) tomó el poder en el Archipiélago de Summerset mediante un golpe de estado
+- **4E 29**: El Thalmor reformó el **Segundo Dominio Aldmeri** con Valenwood y Elsweyr
+- **4E 115**: El Imperio perdió la provincia de Hammerfell (independencia de los Reguardias)
+
+## La Gran Guerra (4E 171 — 4E 175)
+
+El Thalmor lanzó un ultimátum al Imperio Mede: prohibir el culto a **Talos**, ceder vastos territorios y disolver las Hojas. El Emperador **Titus Mede II** se negó.
+
+La guerra que siguió fue devastadora:
+- El Dominio invadió Cyrodiil desde el sur (por Elsweyr y Valenwood)
+- La **Ciudad Imperial** fue tomada y saqueada
+- El Imperio contraatacó en la **Batalla del Anillo Rojo**, recuperando la capital en un baño de sangre
+
+Aunque militarmente en un punto muerto, el Imperio estaba agotado. Titus Mede II firmó el **Concordato del Oro Blanco** (4E 175) — un humillante tratado que:
+- Prohibió el culto a Talos en todo el Imperio
+- Disolvió las Hojas
+- Cedió parte de Hammerfell al Dominio
+- Autorizó a los Justiciares del Thalmor a operar en suelo imperial
+
+## La Guerra Civil de Cielos de Hielo (4E 201)
+
+En **4E 201**, **Ulfric Capa de Tormenta**, Jarl de Viento de Aullido, asesinó al Alto Rey de Cielos de Hielo Torygg en duelo (usando el Thu'um) y desencadenó una guerra civil:
+- Los **Capas de Tormenta** querían la independencia de Cielos de Hielo y la libertad de culto a Talos
+- Los **Imperiales** sostenían que solo la unidad del Imperio podía resistir al Thalmor
+
+## El Regreso de Alduin
+
+Simultáneamente a la guerra civil, **Alduin** — el Primogénito de Akatosh, el Devorador de Mundos — reapareció tras haber sido proyectado hacia el futuro por un Grito de los antiguos héroes nórdicos al final de la Era Meréthica.
+
+Alduin comenzó a **resucitar dragones** por toda Cielos de Hielo, anunciando el fin de los tiempos según las profecías nórdicas.
+
+El **Sangre de Dragón** (Dovahkiin), un mortal dotado con el alma de un dragón, despertó durante el ataque de Alduin sobre Helgen. Guiado por los **Barbudos Grises** de Alto Hrothgar y fragmentos de un Pergamino de los Ancianos, el Dovahkiin:
+
+1. Dominó el **Thu'um** (la Voz)
+2. Aprendió el Grito Derrumba Dragones de los héroes antiguos mediante un Pergamino de los Ancianos
+3. Viajó a **Sovngarde** — el paraíso nórdico — donde Alduin devoraba las almas de los muertos
+4. Derrotó a Alduin con la ayuda de los héroes ancestrales (Hakon, Gormlaith, Felldir)
+
+La profecía del Dovahkiin se cumplió — ¿pero fue Alduin verdaderamente destruido? Incluso los Barbudos Grises lo dudan...
+
+## La Cuarta Era — Mapa Causal Completo
+
+<CausalChain items={[
+  { text: "CRISIS DE OBLIVION (3E 433) — Punto cero", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Fin de los Septim + Amuleto destruido", indent: 1 },
+  { text: "Imperio sin legitimidad sagrada → Dinastía Mede (débil)", indent: 2 },
+  { text: "Tribunal ya caído (3E 427) + Ingenium inestable", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "AÑO ROJO (4E 5)", link: "/chronologie/fourth-era/annee-rouge", indent: 2 },
+  { text: "Morrowind destruida → Invasión argoniana", indent: 3 },
+  { text: "Diáspora Dunmer → Tensiones en Viento de Aullido", link: "/chronologie/fourth-era/vendeaume", indent: 3 },
+  { text: "Caos post-Crisis → Vacío de poder global", indent: 1 },
+  { text: "EL THALMOR toma el poder (4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 2 },
+  { text: "Absorbe Valenwood (4E 29)", indent: 3 },
+  { text: "Coopta Elsweyr mediante las Noches del Vacío (4E 115)", link: "/chronologie/fourth-era/nuits-du-vide", indent: 3 },
+  { text: "Imperio demasiado débil para resistir", indent: 1 },
+  { text: "GRAN GUERRA (4E 171–175)", link: "/chronologie/fourth-era/grande-guerre", indent: 2 },
+  { text: "Saqueo de la Ciudad Imperial (4E 174)", indent: 3 },
+  { text: "CONCORDATO DEL ORO BLANCO (4E 175)", link: "/chronologie/fourth-era/concordat-or-blanc", indent: 3 },
+  { text: "Prohibición de Talos", indent: 4 },
+  { text: "Incidente de Markarth (4E 176) → Ulfric radicalizado", link: "/chronologie/fourth-era/incident-markarth", indent: 4 },
+  { text: "Barreras metafísicas debilitadas", indent: 1 },
+  { text: "REGRESO DE ALDUIN (4E 201)", link: "/chronologie/fourth-era/alduin", indent: 2 },
+  { text: "Resurrección de los Dragones", indent: 3 },
+  { text: "El Dovahkiin despierta", link: "/chronologie/fourth-era/enfant-de-dragon", indent: 3 },
+  { text: "Miraak intenta su regreso (Solstheim)", link: "/chronologie/fourth-era/miraak", indent: 3 },
+  { text: "CONVERGENCIA 4E 201: Guerra Civil + Alduin + Vampiros + Miraak", link: "/chronologie/fourth-era/guerre-civile-bordeciel" }
+]} />
+
+## Preguntas Sin Resolver
+
+La Cuarta Era está **inacabada** — TES VI aún no ha salido. Las preguntas abiertas:
+- ¿Quién gana la Guerra Civil? (Sin canon oficial)
+- ¿Lanza el Thalmor una segunda Gran Guerra?
+- ¿Qué hace el Dovahkiin tras derrotar a Alduin?
+- ¿Siguen cayendo las Torres?
+- ¿Está Mundus condenado?
