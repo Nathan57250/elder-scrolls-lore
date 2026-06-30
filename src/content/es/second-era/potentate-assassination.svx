@@ -1,0 +1,58 @@
+---
+title: "El Asesinato del Potentado Savirien-Chorak"
+slug: "potentate-assassination"
+era: "second-era"
+category: "evenements"
+tags: ["potentado", "savirien-chorak", "akaviri", "hermandad-oscura", "interregno", "asesinato"]
+timelineYear: 430
+summary: "El asesinato del Potentado Savirien-Chorak y todos sus herederos por la Hermandad Oscura en 2E 430 puso fin al Segundo Imperio y sumió a Tamriel en el Interregno."
+sources: ["2920: The Last Year of the First Era", "Pocket Guide to the Empire 1st Edition", "Brothers of Darkness"]
+---
+
+## El Último Potentado
+
+**Savirien-Chorak** fue el último de los Potentados Akaviri que gobernaron el Imperio de Tamriel tras la extinción de la dinastía **Reman**. Hijo de **Versidue-Shaie**, el primer Potentado que había tomado el poder tras el asesinato de **Reman III** en 1E 2920, Savirien-Chorak heredó un imperio debilitado pero aún funcional. Su reinado de varias décadas intentó mantener la unidad imperial frente a unas fuerzas centrífugas cada vez más poderosas.
+
+Los Potentados Akaviri eran **Tsaesci**, seres reptilianos originarios del continente de **Akavir**, que habían servido a los emperadores Reman como consejeros y generales antes de apoderarse del poder a la muerte del último Reman. Su autoridad nunca había sido plenamente aceptada por todas las provincias: para muchos, seguían siendo extranjeros exóticos, usurpadores que ocupaban el Trono de Rubí sin legitimidad divina.
+
+Savirien-Chorak gobernaba desde la **Ciudad Imperial**, rodeado de una leal guardia pretoriana Tsaesci y apoyado por una burocracia imperial que seguía funcionando por inercia. Su reinado no estuvo exento de logros: mantuvo abiertas las rutas comerciales, arbitró disputas entre provincias y preservó un semblante de orden en un imperio que se resquebrajaba desde dentro.
+
+## Un Imperio en Declive
+
+El Imperio que gobernaba Savirien-Chorak era una sombra del poder reman. Las provincias periféricas afirmaban su independencia con una audacia creciente. Las legiones imperiales, antaño la fuerza militar más formidable de Tamriel, estaban dispersas y desmoralizadas. Las finanzas imperiales, desangradas por décadas de conflictos y mala gestión, no permitían proyectar el poder imperial en las regiones lejanas.
+
+Los factores de división eran múltiples. Las tensiones raciales entre las distintas poblaciones del Imperio nunca habían sido resueltas. Las ambiciones regionales de reyes y jarls socavaban constantemente la autoridad central. Los gremios y las organizaciones comerciales acumulaban un poder que rivalizaba con el del Estado. Y la propia legitimidad del Potentado era constantemente cuestionada por quienes consideraban que solo un humano tenía derecho a sentarse en el Trono de Rubí.
+
+Savirien-Chorak era consciente de la precariedad de su posición. Empleaba una red de espías e informadores para vigilar las amenazas potenciales, y su seguridad personal estaba garantizada por los mejores guerreros Tsaesci disponibles. Pero ni siquiera la vigilancia más extrema puede proteger eternamente contra un enemigo decidido y paciente.
+
+## La Noche del Asesinato
+
+En 2E 430, la **Hermandad Oscura** golpeó con una precisión y una coordinación que siguen siendo sin precedentes en la historia de la organización. En una sola noche, Savirien-Chorak y cada uno de sus herederos fueron asesinados simultáneamente, en diferentes lugares a lo largo del Imperio. La operación implicó meses de planificación, coordinación entre decenas de asesinos y un dominio absoluto del secreto.
+
+Los detalles exactos del asesinato del Potentado son poco conocidos. Algunas fuentes hablan de un veneno administrado en un banquete. Otras describen a un asesino que se coló en sus aposentos privados a pesar de los guardias Tsaesci. Lo que es seguro es que Savirien-Chorak murió aquella noche, y con él murió el último hilo de continuidad con la era imperial.
+
+La eliminación simultánea de todos los posibles herederos fue el golpe de genio de la operación. Al no dejar ningún sucesor viable, la Hermandad no se limitaba a matar a un individuo: destruía una institución. Sin heredero, la sucesión era imposible, y el Imperio no tenía un centro en torno al cual reconstituirse. Fue un asesinato político en su forma más pura y más destructiva.
+
+## Los Instigadores
+
+La identidad de los instigadores del crimen sigue siendo uno de los grandes misterios históricos de la Segunda Era. ¿El Sacramento Negro que desencadenó el contrato fue realizado por un solo individuo o por un grupo? Las teorías abundan, cada una tan plausible como las demás.
+
+Algunos historiadores señalan a las grandes familias nobles de Cyrodiil, impacientes por repartirse el poder imperial sin la incómoda presencia de un Potentado Akaviri. Otros sospechan de los reyes de las provincias periféricas, deseosos de obtener su independencia definitiva. Teorías más exóticas invocan al **Thalmor** de Alinor, o incluso a facciones dentro de la propia comunidad Tsaesci.
+
+La Hermandad Oscura, fiel a sus principios, nunca reveló la identidad de sus comitentes. Para la organización, esta información era sagrada: el Sacramento Negro creaba un vínculo entre el solicitante y la Madre de la Noche que ningún mortal tenía derecho a romper. El secreto murió con quienes lo conocían, y la verdad sobre los instigadores del asesinato más trascendental de la historia de Tamriel permanece enterrada en la oscuridad del Vacío.
+
+## La Caída en el Interregno
+
+Las consecuencias del asesinato fueron inmediatas y catastróficas. Sin una autoridad central reconocida, el Imperio se fragmentó en una multitud de reinos, ducados y ciudades-estado independientes. Las provincias que habían mantenido una lealtad nominal hacia el Potentado declararon su soberanía de la noche a la mañana. Las legiones imperiales, sin un comandante supremo, se dispersaron o fueron absorbidas por los señores de la guerra locales.
+
+El **Interregno** que siguió fue un período de caos, guerras e inestabilidad que duró más de siglo y medio. Los pretendientes al Trono de Rubí se sucedieron sin que ninguno lograra restablecer la autoridad imperial sobre todo Tamriel. Las alianzas se formaban y se deshacían al ritmo de los intereses del momento. El comercio declinó, los caminos se volvieron peligrosos y las poblaciones civiles sufrieron los incesantes conflictos.
+
+Este período de fragmentación culminó en la **Guerra de las Tres Banderas**, un conflicto continental que enfrentó a tres grandes alianzas por el control de la Ciudad Imperial y la restauración de un imperio unificado. El Pacto de Corazón de Ébano, el Dominio Aldmeri y el Pacto de Daggerfall disputaron el derecho a reforjar lo que el asesinato de Savirien-Chorak había roto.
+
+## El Legado Histórico
+
+El asesinato del Potentado Savirien-Chorak ilustra el poder destructivo de un solo acto bien ejecutado. Un único contrato, ejecutado en una sola noche, cambió el curso de la historia de todo un continente durante siglos. La Hermandad Oscura demostró que incluso los imperios más poderosos podían ser derribados por una hoja en la oscuridad, si esa hoja golpeaba en el lugar y el momento adecuados.
+
+Para los historiadores de la **Tercera Era** y posteriores, el asesinato sirvió de advertencia permanente sobre la fragilidad del poder imperial. El **Amuleto de los Reyes** y los rituales del encendido de los Dragonfires se desarrollaron en parte para prevenir un acontecimiento similar: al vincular la legitimidad imperial a un artefacto divino, la simple eliminación de un gobernante resultaría insuficiente para destruir la institución.
+
+El propio Interregno moldeó profundamente la política tamriélica. El recuerdo del caos que siguió a la muerte del Potentado reforzó el apego de las poblaciones a la idea imperial y facilitó la aceptación de los imperios posteriores. Mejor un emperador imperfecto que ningún emperador: esta lección, aprendida con la sangre del Interregno, se convirtió en un pilar del pensamiento político imperial.

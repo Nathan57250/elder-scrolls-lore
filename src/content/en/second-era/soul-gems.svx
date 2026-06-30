@@ -1,0 +1,96 @@
+---
+title: "Soul Gems"
+slug: "soul-gems"
+era: "second-era"
+category: "magie"
+tags: ["soul-gems", "soul-trapping", "soul-cairn", "enchanting", "necromancy", "ideal-masters"]
+timelineYear: 400
+summary: "Soul gems, their function, the process of soul trapping, and the mysterious Soul Cairn."
+sources: ["The Art of Enchanting", "Souls, Black and White", "Report on the Ideal Masters", "Opuscule on Soul Capture"]
+---
+
+## Nature and Origin of Soul Gems
+
+**Soul gems** are natural — or sometimes artificial — crystals possessing the extraordinary property of containing the vital essence of a creature. These stones, which vary in size, purity, and capacity, constitute one of the most fundamental components in the practice of **enchanting** and certain forms of **necromancy**.
+
+Geologically, soul gems form under particular conditions, where underground currents of magic — the ley lines of **Mundus** — intersect certain crystalline formations. This convergence creates a mineral structure capable of resonating with the energy of souls, in the manner of a natural receptacle.
+
+They are found primarily in deep caverns, ancient mines, and regions of high magical concentration. Their relative rarity — particularly for specimens of high quality — makes them objects of lucrative trade and sometimes violent conflict.
+
+## Classification and Hierarchy
+
+Soul gems are classified according to their capacity, meaning the maximum power of the soul they can contain:
+
+**Petty** soul gems can only hold the weakest souls — those of small creatures such as rats, giant insects, or minor spirits. They are common and inexpensive.
+
+**Lesser** soul gems accept the souls of more substantial creatures: wolves, bears, common trolls. They constitute the basic standard for most ordinary enchantments.
+
+**Common** soul gems can trap the souls of middling magical creatures: minor Atronachs, powerful draugr, frost trolls.
+
+**Greater** soul gems contain the souls of powerful creatures: mammoths, major Atronachs, giants.
+
+**Grand** soul gems are the largest of the ordinary gems, capable of containing the souls of the most powerful creatures in Tamriel.
+
+**Black soul gems** constitute a separate category, capable of containing the souls of sentient humanoid beings — an act considered a crime in most jurisdictions of Tamriel.
+
+## The Trapping Process
+
+Trapping a soul requires two elements: an empty soul gem of sufficient capacity and an active **Soul Trap** spell on the target at the moment of its death. The magical process is precise and implacable.
+
+When the spell is active and the creature dies, its soul — or more precisely its animus, its vital energy — is torn from its physical shell and directed toward the nearest gem capable of containing it. The soul is then imprisoned there, preserved in a state of suspension.
+
+The question of the consciousness of trapped souls is debated among mages. Some affirm that the soul within the gem is merely a reservoir of raw energy, devoid of consciousness. Others — notably the ethical opponents of soul trapping — maintain that the soul retains a form of consciousness and suffers from its imprisonment.
+
+The **Mages Guild** historically adopted a position of compromise: trapping animal souls ("white" souls) is legal and ethically acceptable, while trapping humanoid souls ("black" souls) is forbidden and severely punished.
+
+## White Souls and Black Souls
+
+The distinction between "white" souls and "black" souls constitutes the ethical and legal foundation of the regulation of soul trapping in **Tamriel**:
+
+**White souls** are those of non-sentient creatures: animals, monsters, minor spirits. They can be trapped in ordinary gems, and their use in enchanting is universally accepted.
+
+**Black souls** are those of beings endowed with reason: humans, elves, beast-folk. They can only be contained in **black soul gems**, special crystals created through necromantic processes. Their trapping constitutes a crime in the majority of civilized nations.
+
+The reason for this distinction is as much practical as moral. Ordinary gems appear incapable of containing the complexity of a humanoid soul — as if consciousness refuses the prison. Only black soul gems, altered by dark magic, can force that containment.
+
+**Vanus Galerion**, founder of the Mages Guild, was one of the first to codify this legal distinction, in direct reaction to the practices of his former fellow student **Mannimarco**, the King of Worms.
+
+## The Soul Cairn
+
+The **Soul Cairn** is an **Oblivion** plane intimately linked to the soul trapping process. This sinister and desolate realm is governed by the **Ideal Masters**, mysterious entities whose exact nature remains debated.
+
+The Cairn presents itself as an infinite landscape of purplish desolation, dotted with bone structures and giant crystals. The souls that end up there wander aimlessly, stripped of their will and most of their identity. It is a place of non-existence rather than active torment — a purgatory of oblivion.
+
+When a soul gem is used for an enchantment, the soul's energy is consumed, but any residual essence that remains is drawn toward the Soul Cairn. The Ideal Masters collect these residues as others accumulate wealth.
+
+The **Ideal Masters** trade with necromancers and conjurers, offering powers and knowledge in exchange for souls. This trade constitutes one of the darkest magical practices in Tamriel, as it involves the deliberate condemnation of conscious beings to an eternity of servitude.
+
+## Applications in Enchanting
+
+The primary use of soul gems is **enchanting** — the process of infusing an object with permanent magical properties. The trapped soul serves as an energy source, powering the enchantment for as long as its charge persists.
+
+The enchanting process requires three elements: the object to be enchanted, the filled soul gem, and knowledge of the desired enchantment. The enchanter transfers the soul's energy into the object, binding it to a specific magical effect.
+
+The power of the enchantment depends directly on the power of the soul used. A petty gem will produce only a weak, short-lived enchantment, while a grand gem will allow for powerful and lasting effects.
+
+Certain enchanted weapons possess the property of trapping the souls of their victims themselves, automatically recharging — a particularly formidable application in combat.
+
+## The Dwemer and Soul Gems
+
+The **Dwemer** developed an unprecedented industrial use of soul gems. Their automata are powered by gems embedded in their structure, providing the energy necessary for their autonomous functioning.
+
+This large-scale use raises troubling questions. The thousands of still-active Dwemer automata required thousands of souls for their creation. Where did they come from? Did the Dwemer systematically trap underground fauna, or did they have more sinister methods?
+
+Some theories suggest that the Dwemer developed artificial soul gems or methods for recycling soul energy without consuming it entirely — techniques lost with their civilization.
+
+## Ethics and Controversies
+
+Soul trapping remains one of the most controversial subjects in magical practice. Positions vary considerably across cultures:
+
+The **Dunmer** of the **Tribunal** Temple consider trapping a tool like any other, its morality depending on the use made of it. The **Morag Tong** uses black soul gems without scruple.
+
+The **Septim Empire** and the **Mages Guild** maintain a strict ban on black gems while permitting trade in white gems.
+
+The **Vigils of Stendarr** consider all soul trapping an abomination, including that of animals, arguing that every soul deserves rest.
+
+Worshippers of **Molag Bal**, Prince of domination, practice soul trapping as an act of devotion, offering trapped souls to their Daedric lord.

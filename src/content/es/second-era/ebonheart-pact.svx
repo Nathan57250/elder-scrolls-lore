@@ -1,0 +1,86 @@
+---
+title: "El Pacto de Corazón de Ébano"
+slug: "ebonheart-pact"
+era: "second-era"
+category: "empires"
+tags: ["pacto-corazon-de-ebano", "dunmer", "nordicos", "argonianos", "alianza", "segunda-era", "jorunn"]
+timelineYear: 572
+summary: "La improbable alianza entre Dunmer, Nórdicos y Argonianos frente a la amenaza de la invasión akaviri y el Planemeld."
+sources: ["El Pacto de Corazón de Ébano y sus orígenes", "La Segunda Invasión Akaviri", "Guía de la Era del Caos"]
+---
+
+## Una Alianza Improbable
+
+El **Pacto de Corazón de Ébano** representa una de las alianzas más improbables y fascinantes de la historia de **Tamriel**. Formado en el año 572 de la Segunda Era, unió a tres pueblos que todo separaba: los **Dunmer** de **Morrowind**, los **Nórdicos** de **Skyrim** y los **Argonianos** del **Pantano Negro**.
+
+La improbabilidad de esta alianza no puede exagerarse. Los Dunmer habían esclavizado a los Argonianos durante siglos. Los Nórdicos y los Dunmer se habían enfrentado en innumerables guerras fronterizas. Los Nórdicos consideraban a los Argonianos con condescendencia en el mejor de los casos. Cada pueblo tenía profundas razones históricas para odiar a los otros dos.
+
+Sin embargo, ante una amenaza existencial común, estos enemigos seculares encontraron un terreno común. El Pacto de Corazón de Ébano demuestra que incluso los odios más antiguos pueden superarse temporalmente cuando la supervivencia está en juego.
+
+## La Amenaza Akaviri: Catalizador de la Alianza
+
+El acontecimiento desencadenante del Pacto fue la **Segunda Invasión Akaviri** de 2E 572. Las fuerzas del Directorio Kamal de **Akavir**, bajo el mando de Ada'Soom Dir-Kamal, desembarcaron en las costas orientales de Tamriel con un ejército masivo.
+
+Los invasores golpearon primero el norte de Morrowind y luego se volvieron hacia Skyrim. La ciudad de **Windhelm** fue sitiada, el Alto Rey **Jorunn** estuvo a punto de perecer, y durante un terrible momento pareció que nada podría detener el avance akaviri.
+
+Fue en este contexto de desesperación cuando ocurrió lo impensable. Los ejércitos dunmer, bajo la dirección de la general **Almalexia** (el dios vivo del **Tribunal**), marcharon hacia Skyrim no para conquistarla sino para ayudar. Las fuerzas argonianas, dirigidas por pragmáticos jefes de guerra, se unieron al esfuerzo.
+
+El ejército akaviri fue finalmente aplastado en la **Batalla de Stonefalls**, atrapado en un tornillo entre las tres fuerzas aliadas. Esta victoria compartida selló la alianza.
+
+## Los Fundamentos del Pacto
+
+El Pacto de Corazón de Ébano fue formalizado mediante un tratado que establecía varios principios fundamentales:
+
+**Defensa mutua**: toda agresión contra uno de los tres miembros se consideraría agresión contra todos. Esta cláusula era el corazón del Pacto, transformando a tres naciones vulnerables en un formidable bloque militar.
+
+**Respeto de las soberanías**: cada nación conservaba su gobierno interno, sus leyes y sus tradiciones. El Pacto no buscaba la unificación política sino la cooperación militar.
+
+**Abolición progresiva de la esclavitud**: concesión importante de los Dunmer, que aceptaron liberar a sus esclavos argonianos — aunque la aplicación de esta cláusula resultó notoriamente incompleta.
+
+**El Alto Rey Jorunn** de Skyrim se convirtió en el líder nominal del Pacto, una elección pragmática que reflejaba la contribución militar nórdica y la fuerza personal de Jorunn como líder carismático.
+
+## Las Tensiones Internas
+
+A pesar de la cooperación oficial, el Pacto de Corazón de Ébano estuvo perpetuamente minado por las tensiones entre sus miembros:
+
+Los **Dunmer de las Grandes Casas** aceptaban mal tratar a los Argonianos como iguales tras siglos de relaciones amo-esclavo. La **Casa Dres** y la **Casa Telvanni**, los mayores esclavistas, cumplieron el tratado con una evidente mala fe, liberando a los esclavos en teoría mientras mantenían formas disfrazadas de servidumbre.
+
+Los **Argonianos** llevaban el recuerdo de generaciones de esclavitud y solo confiaban en los Dunmer con una extrema reserva. Muchos consideraban la alianza como un mal necesario más que como una verdadera reconciliación.
+
+Los **Nórdicos**, pueblo orgulloso e independiente, soportaban mal la diplomacia y los compromisos que exigía una alianza tripartita. Ciertos clanes consideraban la cooperación con los elfos una vergüenza.
+
+## El Papel en la Guerra de las Tres Banderas
+
+El Pacto de Corazón de Ébano fue una de las tres grandes alianzas que se enfrentaron en la **Guerra de las Tres Banderas**, un conflicto continental desencadenado por el vacío de poder que dejó el colapso de la dinastía **Reman** y el debilitamiento del Imperio.
+
+Frente al Pacto se alzaban el **Primer Dominio Aldmeri** — alianza de **Altmer** y **Bosmer** — y el **Pacto de Daggerfall** — coalición de **Bretones**, **Redguards** y **Orcos**. Cada facción disputaba el trono imperial de Cyrodiil.
+
+El Pacto de Corazón de Ébano justificaba su campaña por el deseo de preservar la independencia de sus miembros frente a un Imperio potencialmente hostil o a una dominación élfica. Jorunn no buscaba necesariamente el Imperio para sí mismo, pero quería garantizar que ningún poder hostil se apoderara de él.
+
+## La Organización Militar
+
+La fuerza militar del Pacto descansaba en la complementariedad de sus tres ejércitos:
+
+Los **Nórdicos** aportaban la infantería pesada, los guerreros de combate cuerpo a cuerpo cuya ferocidad y resistencia al frío eran legendarias. Los huscarls nórdicos formaban la columna vertebral de las fuerzas de choque.
+
+Los **Dunmer** aportaban el poder mágico y la versatilidad táctica. Los magos de guerra dunmer, en particular los de la **Casa Telvanni**, poseían un aterrador arsenal arcano. La infantería dunmer, bien equipada y disciplinada, complementaba eficazmente la furia nórdica.
+
+Los **Argonianos** sobresalían en la guerra de guerrillas, el espionaje y las operaciones anfibias. Su capacidad para respirar bajo el agua y moverse por los pantanos otorgaba al Pacto una ventaja táctica única en ciertos teatros de operaciones.
+
+## La Amenaza del Planemeld
+
+Más allá de la guerra política por el trono imperial, el Pacto de Corazón de Ébano se enfrentó a una amenaza mucho más aterradora: el **Planemeld**, el intento de **Molag Bal** de fusionar su plano de Oblivion, Havreglace, con Mundus.
+
+Las **Anclas Oscuras** de Molag Bal caían sobre todo Tamriel, arrancando porciones del mundo mortal hacia Oblivion. Ante esta amenaza apocalíptica, las tres alianzas tuvieron que cooperar a veces a pesar de su conflicto, reconociendo que la dominación daédrica sería peor que cualquier resultado político mortal.
+
+El Pacto contribuyó significativamente a la resistencia contra el Planemeld, con sus fuerzas combatiendo a los cultistas de Molag Bal y a las criaturas daédricas que invadían sus territorios.
+
+## El Legado y la Disolución
+
+El Pacto de Corazón de Ébano no sobrevivió mucho tiempo al final de la Guerra de las Tres Banderas. Sin una amenaza exterior común para mantener la cohesión, las tensiones internas volvieron a imponerse.
+
+La esclavización de los Argonianos por los Dunmer se reanudó gradualmente. Los conflictos fronterizos entre Nórdicos y Dunmer recomenzaron. Los Argonianos se replegaron en su tradicional aislamiento pantanoso.
+
+Sin embargo, el recuerdo del Pacto persistió. Demostró que la cooperación entre pueblos radicalmente diferentes era posible, aunque fuera temporal. Y las lecciones militares de esta alianza influyeron en las doctrinas de combate de sus tres pueblos durante los siglos siguientes.
+
+La ironía final es que la **Gran Casa Indoril** y la **Gran Casa Redoran**, que más habían apoyado el Pacto por parte dunmer, se encontrarían entre las primeras víctimas de la invasión argoniana de Morrowind durante la Cuarta Era — una venganza histórica por siglos de esclavitud que ni siquiera el Pacto había borrado verdaderamente.

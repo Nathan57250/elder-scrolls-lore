@@ -1,0 +1,86 @@
+---
+title: "The Ebonheart Pact"
+slug: "ebonheart-pact"
+era: "second-era"
+category: "empires"
+tags: ["ebonheart-pact", "dunmer", "nords", "argonians", "alliance", "second-era", "jorunn"]
+timelineYear: 572
+summary: "The improbable alliance between the Dunmer, Nords, and Argonians in the face of the Akaviri invasion threat and the Planemeld."
+sources: ["The Ebonheart Pact and Its Origins", "The Second Akaviri Invasion", "Guide to the Age of Chaos"]
+---
+
+## An Unlikely Alliance
+
+The **Ebonheart Pact** represents one of the most improbable and fascinating alliances in the history of **Tamriel**. Formed in the year 572 of the Second Era, it united three peoples who had everything to keep them apart: the **Dunmer** of **Morrowind**, the **Nords** of **Skyrim**, and the **Argonians** of **Black Marsh**.
+
+The improbability of this alliance cannot be overstated. The Dunmer had enslaved Argonians for centuries. The Nords and the Dunmer had clashed in countless border wars. The Nords regarded Argonians with condescension at best. Each people had deep historical reasons to hate the other two.
+
+Yet, faced with a common existential threat, these ancient enemies found common ground. The Ebonheart Pact demonstrates that even the oldest hatreds can be temporarily overcome when survival is at stake.
+
+## The Akaviri Threat: Catalyst of the Alliance
+
+The triggering event of the Pact was the **Second Akaviri Invasion** of 2E 572. The forces of the Kamal Directorate of **Akavir**, under the command of Ada'Soom Dir-Kamal, landed on the eastern coasts of Tamriel with a massive army.
+
+The invaders struck first at northern Morrowind, then turned toward Skyrim. The city of **Windhelm** was besieged, High King **Jorunn** narrowly escaped death, and for one terrible moment it seemed that nothing could halt the Akaviri advance.
+
+It was in this context of desperation that the unthinkable came to pass. The Dunmer armies, under the direction of the general **Almalexia** (the living god of the **Tribunal**), marched toward Skyrim not to conquer but to aid. The Argonian forces, led by pragmatic warchief, joined the effort.
+
+The Akaviri army was ultimately crushed at the **Battle of Stonefalls**, caught in a vice between the three allied forces. This shared victory sealed the alliance.
+
+## The Foundations of the Pact
+
+The Ebonheart Pact was formalized by a treaty establishing several fundamental principles:
+
+**Mutual defense**: any aggression against one of the three members would be considered aggression against all. This clause was the heart of the Pact, transforming three vulnerable nations into a formidable military bloc.
+
+**Respect for sovereignty**: each nation retained its internal government, its laws, and its traditions. The Pact did not seek political unification but military cooperation.
+
+**Progressive abolition of slavery**: a major concession from the Dunmer, who agreed to free their Argonian slaves — though the implementation of this clause remained notoriously incomplete.
+
+**High King Jorunn** of Skyrim became the nominal leader of the Pact, a pragmatic choice that reflected the Nordic military contribution and Jorunn's personal strength as a charismatic leader.
+
+## Internal Tensions
+
+Despite official cooperation, the Ebonheart Pact was perpetually undermined by tensions between its members:
+
+The **Dunmer of the Great Houses** found it difficult to treat Argonians as equals after centuries of master-slave relationships. **House Dres** and **House Telvanni**, the greatest slaveholders, complied with the treaty in obvious bad faith, freeing slaves in theory while maintaining disguised forms of servitude.
+
+The **Argonians** carried the memory of generations of enslavement and trusted the Dunmer only with extreme wariness. Many viewed the alliance as a necessary evil rather than genuine reconciliation.
+
+The **Nords**, a proud and independent people, had little patience for the diplomacy and compromises a tripartite alliance demanded. Certain clans viewed cooperation with elves as a disgrace.
+
+## The Role in the Alliance War
+
+The Ebonheart Pact was one of the three great alliances that clashed during the **Alliance War**, a continental conflict triggered by the power vacuum left by the collapse of the **Reman** dynasty and the weakening of the Empire.
+
+Facing the Pact stood the **First Aldmeri Dominion** — an alliance of **Altmer** and **Bosmer** — and the **Daggerfall Covenant** — a coalition of **Bretons**, **Redguards**, and **Orcs**. Each faction disputed the imperial throne of Cyrodiil.
+
+The Ebonheart Pact justified its campaign by the desire to preserve the independence of its members against a potentially hostile Empire or Elven domination. Jorunn did not necessarily seek the Empire for himself, but wanted to ensure that no hostile power would seize it.
+
+## Military Organization
+
+The Pact's military strength rested on the complementarity of its three armies:
+
+The **Nords** provided heavy infantry, the close-combat warriors whose ferocity and cold resistance were legendary. Nordic huscarls formed the backbone of the shock forces.
+
+The **Dunmer** brought magical power and tactical versatility. Dunmer war mages, especially those of **House Telvanni**, possessed a terrifying arcane arsenal. Dunmer infantry, well-equipped and disciplined, effectively complemented Nordic fury.
+
+The **Argonians** excelled in guerrilla warfare, espionage, and amphibious operations. Their ability to breathe underwater and move through marshes gave the Pact a unique tactical advantage in certain theaters of operation.
+
+## The Threat of the Planemeld
+
+Beyond the political war for the imperial throne, the Ebonheart Pact faced a far more terrifying threat: the **Planemeld**, **Molag Bal**'s attempt to merge his Oblivion plane, Coldharbour, with Mundus.
+
+Molag Bal's **Dark Anchors** were falling across all of Tamriel, tearing portions of the mortal world toward Oblivion. Faced with this apocalyptic threat, the three alliances sometimes had to cooperate despite their conflict, recognizing that Daedric domination would be worse than any mortal political outcome.
+
+The Pact contributed significantly to the resistance against the Planemeld, its forces fighting the cultists of Molag Bal and the Daedric creatures invading its territories.
+
+## Legacy and Dissolution
+
+The Ebonheart Pact did not long survive the end of the Alliance War. Without a common external threat to maintain cohesion, internal tensions reasserted themselves.
+
+The enslavement of Argonians by the Dunmer gradually resumed. Border conflicts between Nords and Dunmer restarted. The Argonians retreated into their traditional swampy isolation.
+
+Yet the memory of the Pact persisted. It proved that cooperation between radically different peoples was possible, even if temporary. And the military lessons of this alliance influenced the combat doctrines of all three peoples for the centuries that followed.
+
+The final irony is that **Great House Indoril** and **Great House Redoran**, which had most supported the Pact on the Dunmer side, would be among the first victims of the Argonian invasion of Morrowind during the Fourth Era — a historical revenge for centuries of enslavement that even the Pact had never truly erased.

@@ -1,0 +1,58 @@
+---
+title: "The Assassination of Potentate Savirien-Chorak"
+slug: "potentate-assassination"
+era: "second-era"
+category: "evenements"
+tags: ["potentate", "savirien-chorak", "akaviri", "dark-brotherhood", "interregnum", "assassination"]
+timelineYear: 430
+summary: "The assassination of Potentate Savirien-Chorak and all his heirs by the Dark Brotherhood in 2E 430 ended the Second Empire and plunged Tamriel into the Interregnum."
+sources: ["2920: The Last Year of the First Era", "Pocket Guide to the Empire 1st Edition", "Brothers of Darkness"]
+---
+
+## The Last Potentate
+
+**Savirien-Chorak** was the last of the Akaviri Potentates who governed the Empire of Tamriel following the extinction of the **Reman** dynasty. Son of **Versidue-Shaie**, the first Potentate who had seized power following the assassination of **Reman III** in 1E 2920, Savirien-Chorak inherited a weakened but still functional empire. His reign of several decades attempted to maintain imperial unity in the face of increasingly powerful centrifugal forces.
+
+The Akaviri Potentates were **Tsaesci**, reptilian beings originating from the continent of **Akavir**, who had served the Reman emperors as advisors and generals before seizing power upon the death of the last Reman. Their authority had never been fully accepted by all the provinces: for many, they remained exotic foreigners, usurpers who occupied the Ruby Throne without divine legitimacy.
+
+Savirien-Chorak governed from the **Imperial City**, surrounded by a loyal Tsaesci praetorian guard and supported by an imperial bureaucracy that continued to function through inertia. His reign was not without accomplishments: he kept the trade routes open, arbitrated disputes between provinces, and preserved a semblance of order in an empire crumbling from within.
+
+## An Empire in Decline
+
+The Empire that Savirien-Chorak governed was a shadow of Reman power. The peripheral provinces were asserting their independence with increasing boldness. The Imperial legions, once the most formidable military force in Tamriel, were scattered and demoralized. Imperial finances, bled dry by decades of conflict and mismanagement, no longer allowed the projection of imperial power into distant regions.
+
+The factors driving division were numerous. Racial tensions among the Empire's various populations had never been resolved. The regional ambitions of kings and jarls constantly undermined central authority. Guilds and commercial organizations accumulated power that rivaled that of the state. And the very legitimacy of the Potentate was constantly challenged by those who believed only a human had the right to sit on the Ruby Throne.
+
+Savirien-Chorak was aware of the precariousness of his position. He employed a network of spies and informants to monitor potential threats, and his personal security was ensured by the best Tsaesci warriors available. But even the most extreme vigilance cannot protect indefinitely against a determined and patient enemy.
+
+## The Night of the Assassination
+
+In 2E 430, the **Dark Brotherhood** struck with a precision and coordination that remains unparalleled in the organization's history. In a single night, Savirien-Chorak and each of his heirs were assassinated simultaneously, in different locations throughout the Empire. The operation involved months of planning, coordination among dozens of assassins, and absolute mastery of secrecy.
+
+The exact details of the Potentate's assassination are poorly documented. Some sources speak of poison administered at a banquet. Others describe an assassin slipping into his private chambers despite the Tsaesci guards. What is certain is that Savirien-Chorak died that night, and with him died the last thread of continuity with the imperial era.
+
+The simultaneous elimination of all possible heirs was the stroke of genius in the operation. By leaving no viable successor, the Brotherhood was not merely killing an individual: they were destroying an institution. Without an heir, succession was impossible, and the Empire had no center around which to reconstitute itself. It was political assassination in its purest and most destructive form.
+
+## The Masterminds
+
+The identity of those who commissioned the murder remains one of the great historical mysteries of the Second Era. Was the Black Sacrament that triggered the contract performed by a single individual or by a group? Theories abound, each as plausible as the others.
+
+Some historians point the finger at the great noble families of Cyrodiil, eager to divide imperial power without the encumbering presence of an Akaviri Potentate. Others suspect the kings of the peripheral provinces, desirous of attaining their final independence. More exotic theories invoke the **Thalmor** of Alinor, or even factions within the Tsaesci community itself.
+
+The Dark Brotherhood, faithful to its principles, never revealed the identity of its patrons. For the organization, this information was sacred: the Black Sacrament created a bond between the petitioner and the Night Mother that no mortal had the right to break. The secret died with those who knew it, and the truth about the instigators of the most consequential assassination in Tamriel's history remains buried in the darkness of the Void.
+
+## The Descent into the Interregnum
+
+The consequences of the assassination were immediate and catastrophic. Without a recognized central authority, the Empire fragmented into a multitude of kingdoms, duchies, and independent city-states. Provinces that had maintained nominal loyalty to the Potentate declared their sovereignty overnight. The Imperial legions, without a supreme commander, dispersed or were absorbed by local warlords.
+
+The **Interregnum** that followed was a period of chaos, wars, and instability lasting more than a century and a half. Claimants to the Ruby Throne came and went, none succeeding in restoring imperial authority over all of Tamriel. Alliances formed and dissolved at the whim of momentary interests. Trade declined, roads became dangerous, and civilian populations suffered from incessant conflicts.
+
+This period of fragmentation culminated in the **Alliance War**, a continental conflict that pitted three great alliances against each other for control of the Imperial City and the restoration of a unified empire. The Ebonheart Pact, the Aldmeri Dominion, and the Daggerfall Covenant each disputed the right to reforge what the assassination of Savirien-Chorak had shattered.
+
+## The Historical Legacy
+
+The assassination of Potentate Savirien-Chorak illustrates the destructive power of a single well-placed act. One contract, executed in a single night, changed the course of history for an entire continent for centuries. The Dark Brotherhood proved that even the most powerful empires could be brought down by a blade in the darkness, if that blade struck in the right place at the right moment.
+
+For historians of the **Third Era** and beyond, the assassination served as a permanent warning about the fragility of imperial power. The **Amulet of Kings** and the rituals of lighting the Dragonfires were developed in part to prevent a similar event: by linking imperial legitimacy to a divine artifact, the simple elimination of a ruler would be insufficient to destroy the institution.
+
+The Interregnum itself profoundly shaped Tamrielic politics. The memory of the chaos following the Potentate's death strengthened populations' attachment to the imperial idea and facilitated acceptance of subsequent empires. Better an imperfect emperor than no emperor at all: this lesson, learned in the blood of the Interregnum, became a pillar of imperial political thought.
