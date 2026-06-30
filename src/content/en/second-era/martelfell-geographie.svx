@@ -1,0 +1,125 @@
+---
+title: "Hammerfell — Geography and Regions"
+slug: "martelfell-geographie"
+era: "second-era"
+category: "geographie"
+tags: ["hammerfell", "martelfell", "alikr", "redguards", "sentinel", "taneth", "stros-mkai", "geography"]
+timelineYear: 500
+summary: "Detailed geography of Hammerfell: the Alik'r Desert, the coastal regions, the major cities, and the influence of terrain on Redguard culture."
+sources: ["UESP: Hammerfell", "The Imperial Library: Hammerfell Geography", "TES: Redguard", "ESO: Alik'r Desert"]
+---
+
+# Hammerfell — Geography and Regions
+
+**Hammerfell** is the largest and most geographically diverse province in western **Tamriel**. From the scorching deserts of the **Alik'r** to the tropical forests of the south, from the rocky coasts of the **Iliac Bay** to the mountains of the Dragontail range, this land shaped the **Redguard** people as much as it was shaped by them.
+
+## Main regions
+
+### The Alik'r Desert
+
+The heart of Hammerfell is a vast desert — the **Alik'r** — stretching for hundreds of leagues:
+- **Shifting sand dunes** that can reach dozens of meters in height
+- **Extreme temperatures**: scorching by day, freezing by night
+- **Rare but vital oases**, centers of the caravan routes
+- **Ancient ruins**: Nedic and Yokudan vestiges buried beneath the sand
+- **Hostile fauna**: giant scorpions, dunerippers, sand trolls
+
+The desert is not uninhabitable — the Redguards have lived there for millennia through intimate knowledge of water sources and trade routes. But it constitutes a formidable natural barrier against invaders.
+
+### The Iliac Bay Coast
+
+To the northwest, Hammerfell shares the **Iliac Bay** with **High Rock**. This region is:
+- Fertile and temperate, in sharp contrast to the desert interior
+- The center of maritime commerce with High Rock and the islands
+- The territory of the great port cities
+- Politically turbulent — a contested border with the Bretons
+
+### The Dragontail Mountains
+
+The eastern frontier with **Cyrodiil** and **Skyrim** is marked by a mountain range:
+- A natural barrier protecting Hammerfell from land invasion
+- Mines of precious ores
+- Strategic passes controlling access to the province
+- Mountain forests supplying the coastal shipyards
+
+### The Southern Regions
+
+The south of Hammerfell is paradoxically lush:
+- Tropical forests along the southern coast
+- Coastal marshes
+- Humid climate influenced by ocean currents
+- Less populated than the north but rich in natural resources
+
+## Major cities
+
+### Sentinel
+
+**Sentinel** is the largest city of northern Hammerfell, dominating the Iliac Bay:
+- Major commercial port
+- Seat of power of the **Crowns** (Redguard traditionalist faction)
+- Architecture blending Yokudan and Imperial influences
+- Royal palace overlooking the bay from white cliffs
+
+### Taneth
+
+A southern port city, **Taneth** is a commercial crossroads:
+- Trade with the **Summerset Isles** and **Valenwood**
+- Cosmopolitan population
+- Spice markets renowned across all of Tamriel
+- Shipyards producing the fastest vessels in the west
+
+### Hegathe
+
+The traditional ancient capital, **Hegathe** is the most "Yokudan" of cities:
+- Architecture preserved from the first Ra Gada settlers
+- Spiritual center of Redguard culture
+- Legendary fencing schools (the "ansei" still teach there)
+- Located at the edge of the desert, guardian of traditions
+
+### Stros M'Kai
+
+The island of **Stros M'Kai** off the southern coast is:
+- A historic free port — refuge of pirates and merchants alike
+- The site of the Redguard revolt against **Tiber Septim** (2E 864)
+- Rich in underwater Dwemer ruins
+- A symbol of Redguard independence
+
+## The influence of geography on culture
+
+### The Crowns/Forebears divide
+
+Hammerfell's geography structures its fundamental political division:
+
+- The **Crowns**: direct descendants of the Yokudan nobility, concentrated in inland cities and traditional regions. They value the old traditions and resist Imperial influence.
+- The **Forebears**: descendants of the first-wave Ra Gada warriors, established in the coastal ports. More open to commerce, diplomacy, and Imperial integration.
+
+### The Redguard art of war
+
+Hammerfell's terrain forged a unique martial style:
+- **Desert combat**: endurance, mobility, ambushes
+- **Swordsmanship**: the Redguards are the finest swordsmen in Tamriel
+- **Naval warfare**: coastal cities produce formidable sailors
+- **Independence**: every warrior is self-sufficient — no reliance on heavy logistics
+
+This adaptation to terrain explains why Hammerfell successfully resisted the **Aldmeri Dominion** during the Great War, repelling Thalmor forces without Imperial aid and forcing a separate treaty.
+
+### The caravan routes
+
+The network of routes through the Alik'r is the economic nervous system of Hammerfell:
+- Oases linked by secret routes known only to local guides
+- Trade in salt, spices, ores, and textiles
+- Caravans travel by night to avoid the heat
+- Control of oases is a source of political power
+
+## Resources
+
+Hammerfell is rich in:
+- **Ores**: iron, orichalcum, ebony in the mountains
+- **Salt**: extracted from dried-up desert lakes
+- **Spices**: cultivated in oases and the tropical south
+- **Precious timber**: southern forests
+- **Fish and pearls**: rich coastal waters on both seas
+
+## Strategic significance
+
+Hammerfell's geographical position makes it a key piece in Tamrielic geopolitics: it controls the western maritime routes, constitutes a buffer between the Empire and the Aldmeri Dominion, and its proven resistance against the Thalmor makes it a crucial potential ally — or a formidable adversary — for anyone aspiring to dominate western Tamriel.

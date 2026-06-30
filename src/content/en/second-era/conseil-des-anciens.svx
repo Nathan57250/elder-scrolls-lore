@@ -1,0 +1,103 @@
+---
+title: "The Elder Council and Imperial Governance"
+slug: "conseil-des-anciens"
+era: "second-era"
+category: "politique"
+tags: ["elder-council", "empire", "potentate", "governance", "succession", "provinces", "interregnum"]
+timelineYear: 243
+summary: "The political structure of the Empire of Tamriel: the Elder Council, the Potentate, the relationship between central authority and the provinces, and succession crises."
+sources: ["UESP: Elder Council", "The Imperial Library: Imperial Government", "TES IV: Oblivion — Political History"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Elder Council and Imperial Governance
+
+The **Elder Council** is the oldest and most enduring political institution of the **Empire of Tamriel**. Founded under the Alessian Empire, it survived the fall of three Imperial dynasties, weathered the **Interregnum**, and continues to function under the Mede Empire in the Fourth Era. It represents Imperial administrative continuity beyond individual sovereigns.
+
+## Structure
+
+### Composition
+
+The Elder Council is composed of:
+- **The Chancellor** (High Chancellor): president of the Council, often the most powerful figure after the Emperor
+- **The Councilors**: nobles, scholars, and administrators appointed by the Emperor or co-opted
+- **The Potentate**: title used during regencies and periods without an emperor
+
+The exact number of councilors varies by era — from a few dozen under the Alessians to more than a hundred under the Septims.
+
+### Powers
+
+Under normal circumstances, the Council:
+- Advises the Emperor on affairs of state
+- Administers the provinces on behalf of the crown
+- Ratifies treaties and declarations of war
+- Manages Imperial finances and tax collection
+- Oversees the Imperial Legions and their deployment
+
+In the event of a **vacant throne**, the Council becomes the supreme authority:
+- It acts as regent under the title of Potentate
+- It organizes the succession (often with great difficulty)
+- It can theoretically elect a new Emperor if no heir exists
+
+## Political history
+
+### Under the Alessian Empire (1E 243 — 1E 2331)
+
+The Council was created by **Alessia** herself to govern the nascent Empire after the liberation of humans from **Ayleid** slavery. At this time, it combined religious and political functions — priests of the Alessian Order sat alongside nobles.
+
+### The Akaviri Potentate (1E 2920 — 2E 430)
+
+After the assassination of the last **Reman** emperor, power passed to the **Akaviri Potentate** — first Versidue-Shaie, then his son Savirien-Chorak. The Council governed under their authority for five centuries, a testament to its institutional resilience.
+
+### The Interregnum (2E 430 — 2E 854)
+
+The assassination of Savirien-Chorak and his entire lineage in 2E 430 plunged the Empire into chaos. Without an Emperor or Potentate, the Council fragmented into rival factions:
+
+<CausalChain items={[
+  { text: "Assassination of the Akaviri Potentate (2E 430)" },
+  { text: "Fragmentation of the Council into provincial factions", indent: 1 },
+  { text: "Endless succession wars", indent: 2 },
+  { text: "Collapse of central authority — provinces become independent", indent: 2 },
+  { text: "The Interregnum: 400 years without a unified Empire", indent: 3 }
+]} />
+
+### Under the Septims (2E 854 — 3E 433)
+
+**Tiber Septim** restored the Council as an institution, but with reduced power before a conquering Emperor. Under his less dominant successors, the Council gradually regained its influence. Under the last Septims, the Chancellor was often the true power behind the throne.
+
+### Under the Medes (4E 17 — present)
+
+After the Oblivion Crisis and the extinction of the Septim line, the Council once again failed to ensure a stable transition. **Titus Mede I** seized the throne by force in 4E 17 with only a thousand men — the Council, too divided, could not oppose this military coup.
+
+## Provincial governance
+
+### The provincial system
+
+The Empire governs nine provinces, each with its own political traditions:
+
+- **Cyrodiil**: direct governance by the Emperor and the Council
+- **Skyrim**: the Moot (assembly of Jarls) elects a High King
+- **Morrowind**: the Great Houses govern, the Empire supervises
+- **High Rock**: a multitude of vassal kingdoms and city-states
+- **Hammerfell**: the Crowns/Forebears division under Imperial suzerainty
+- **Elsweyr**: the Mane governs the Khajiit
+- **Valenwood**: Bosmer monarchy under Imperial (later Aldmeri) tutelage
+- **Summerset Isles**: autonomous Altmer governance
+- **Black Marsh**: the Hist and Argonian tribes resist all centralization
+
+### Center-periphery tensions
+
+The Empire's permanent challenge is striking the balance between central control and provincial autonomy. Too much control provokes rebellions (the Skyrim Civil War). Too much autonomy leads to fragmentation (the Interregnum).
+
+## Structural weaknesses
+
+The Council suffers from recurring flaws:
+- **Corruption**: seats are often bought or traded for favors
+- **Decisional paralysis**: in the absence of a strong Emperor, factions block all action
+- **Lack of popular legitimacy**: the Council is not elected and holds no popular mandate
+- **Vulnerability to coups**: three times in history, a general seized power against an impotent Council
+
+These weaknesses explain why the Empire contracts during the Fourth Era: without a charismatic emperor or an institution capable of deciding swiftly, the **Aldmeri Dominion** and rebel provinces chip away at Imperial authority.

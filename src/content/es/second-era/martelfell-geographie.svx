@@ -1,0 +1,125 @@
+---
+title: "Martelfell — Geografía y Regiones"
+slug: "martelfell-geographie"
+era: "second-era"
+category: "geographie"
+tags: ["martelfell", "hammerfell", "alikr", "rougegardes", "sentinel", "taneth", "stros-mkai", "geografia"]
+timelineYear: 500
+summary: "Geografía detallada de Martelfell: el desierto de Alik'r, las regiones costeras, las grandes ciudades y la influencia del territorio en la cultura rougegarde."
+sources: ["UESP: Hammerfell", "The Imperial Library: Hammerfell Geography", "TES: Redguard", "ESO: Alik'r Desert"]
+---
+
+# Martelfell — Geografía y Regiones
+
+**Martelfell** (Hammerfell) es la provincia más extensa y geográficamente diversa del oeste de **Tamriel**. Desde los abrasadores desiertos del **Alik'r** hasta los bosques tropicales del sur, desde las costas rocosas de la **Bahía de Iliac** hasta las montañas de la cordillera Drakelowe, esta tierra dio forma al pueblo **Rougegarde** tanto como fue modelada por él.
+
+## Regiones principales
+
+### El Desierto de Alik'r
+
+El corazón de Martelfell es un inmenso desierto — el **Alik'r** — que se extiende durante cientos de leguas:
+- **Dunas de arena** movedizas que pueden alcanzar decenas de metros de altura
+- **Temperaturas extremas**: abrasadoras de día, gélidas de noche
+- **Oasis** escasos pero vitales, centros de las rutas de caravanas
+- **Ruinas antiguas**: vestigios nédicos y yokudanos enterrados bajo la arena
+- **Fauna hostil**: escorpiones gigantes, dunerippers, trolls de arena
+
+El desierto no es inhabitable — los Rougegardes llevan milenios viviendo en él gracias a un conocimiento íntimo de los puntos de agua y las rutas. Pero constituye una barrera natural formidable contra los invasores.
+
+### La Costa de la Bahía de Iliac
+
+Al noroeste, Martelfell comparte la **Bahía de Iliac** con **High Rock**. Esta región es:
+- Fértil y templada, en marcado contraste con el interior desértico
+- El centro del comercio marítimo con High Rock y las islas
+- El territorio de las grandes ciudades portuarias
+- Políticamente agitada — frontera disputada con los Bretones
+
+### Las Montañas de Drakelowe
+
+La frontera oriental con **Cyrodiil** y **Bordeciel** está marcada por una cadena montañosa:
+- Barrera natural que protege Martelfell de las invasiones terrestres
+- Minas de minerales preciosos
+- Pasos estratégicos que controlan el acceso a la provincia
+- Bosques de montaña que abastecen a los astilleros costeros
+
+### Las Regiones meridionales
+
+El sur de Martelfell es paradójicamente frondoso:
+- Bosques tropicales a lo largo de la costa sur
+- Marismas costeras
+- Clima húmedo influenciado por las corrientes marinas
+- Menos poblado que el norte pero rico en recursos naturales
+
+## Grandes ciudades
+
+### Sentinel
+
+**Sentinel** es la ciudad más grande del norte de Martelfell, dominando la Bahía de Iliac:
+- Puerto comercial de primer orden
+- Sede del poder de las **Couronnes** (facción tradicionalista rougegarde)
+- Arquitectura que mezcla influencias yokudanas e imperiales
+- Palacio real que domina la bahía desde unos acantilados blancos
+
+### Taneth
+
+Ciudad portuaria del sur, **Taneth** es un cruce de caminos comercial:
+- Comercio con las **Islas Summerset** y **Valenwood**
+- Población cosmopolita
+- Mercados de especias renombrados en todo Tamriel
+- Astilleros que producen los navíos más rápidos del oeste
+
+### Hegathe
+
+Antigua capital tradicional, **Hegathe** es la ciudad más "yokudana":
+- Arquitectura preservada de los primeros Ra Gada
+- Centro espiritual de la cultura rougegarde
+- Escuelas de esgrima legendarias (los "ansei" siguen enseñando allí)
+- Situada en el límite del desierto, guardiana de las tradiciones
+
+### Stros M'Kai
+
+La isla de **Stros M'Kai** frente a la costa sur es:
+- Un puerto franco histórico — refugio de piratas y mercaderes
+- El lugar de la revuelta rougegarde contra **Tiber Septim** (2E 864)
+- Rica en ruinas dwemer submarinas
+- Un símbolo de la independencia rougegarde
+
+## La influencia de la geografía en la cultura
+
+### La división Couronnes/Devanciers
+
+La geografía de Martelfell estructura su división política fundamental:
+
+- Las **Couronnes** (Crowns): descendientes directos de la nobleza yokudana, concentrados en las ciudades del interior y las regiones tradicionales. Valoran las antiguas tradiciones y se resisten a la influencia imperial.
+- Los **Devanciers** (Forebears): descendientes de los guerreros Ra Gada de primera oleada, establecidos en los puertos costeros. Más abiertos al comercio, la diplomacia y la integración imperial.
+
+### El arte de la guerra rougegarde
+
+El terreno de Martelfell forjó un estilo marcial único:
+- **Combate en el desierto**: resistencia, movilidad, emboscadas
+- **Esgrima**: los Rougegardes son los mejores espadachines de Tamriel
+- **Guerra naval**: las ciudades costeras producen marineros formidables
+- **Independencia**: cada guerrero es autónomo — sin dependencia de la logística pesada
+
+Esta adaptación al terreno explica por qué Martelfell resistió con éxito al **Dominio Aldmeri** durante la Gran Guerra, repeliendo las fuerzas del Thalmor sin ayuda imperial y forzando un tratado separado.
+
+### Las rutas de caravanas
+
+La red de rutas a través del Alik'r es el sistema nervioso económico de Martelfell:
+- Oasis conectados por rutas secretas conocidas solo por los guías locales
+- Comercio de sal, especias, minerales y textiles
+- Las caravanas viajan de noche para evitar el calor
+- El control de los oasis es fuente de poder político
+
+## Recursos
+
+Martelfell es rica en:
+- **Minerales**: hierro, oricalco, ébonita en las montañas
+- **Sal**: extracción en los lagos secos del desierto
+- **Especias**: cultivos en los oasis y el sur tropical
+- **Madera preciosa**: bosques meridionales
+- **Peces y perlas**: ricas costas en los dos mares
+
+## Importancia estratégica
+
+La posición geográfica de Martelfell la convierte en una pieza clave de la geopolítica tamriélica: controla las rutas marítimas del oeste, constituye un escudo entre el Imperio y el Dominio Aldmeri, y su probada resistencia frente al Thalmor la convierte en un aliado potencial crucial — o en un adversario formidable — para quien aspire a dominar el oeste de Tamriel.

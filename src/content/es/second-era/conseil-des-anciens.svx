@@ -1,0 +1,103 @@
+---
+title: "El Consejo de los Ancianos y la Gobernanza Imperial"
+slug: "conseil-des-anciens"
+era: "second-era"
+category: "politique"
+tags: ["consejo-ancianos", "imperio", "potentado", "gobernanza", "sucesion", "provincias", "interregnum"]
+timelineYear: 243
+summary: "Estructura política del Imperio de Tamriel: el Consejo de los Ancianos, el Potentado, las relaciones entre el poder central y las provincias, y las crisis de sucesión."
+sources: ["UESP: Elder Council", "The Imperial Library: Imperial Government", "TES IV: Oblivion — Political History"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# El Consejo de los Ancianos y la Gobernanza Imperial
+
+El **Consejo de los Ancianos** (Elder Council) es la institución política más antigua y duradera del **Imperio de Tamriel**. Fundado bajo el Imperio Alessiano, ha sobrevivido a la caída de tres dinastías imperiales, atravesado el **Interregno** y sigue funcionando bajo el Imperio Mede en la Cuarta Era. Representa la continuidad administrativa imperial más allá de los soberanos individuales.
+
+## Estructura
+
+### Composición
+
+El Consejo de los Ancianos se compone de:
+- **El Canciller** (Alto Canciller): presidente del Consejo, a menudo el personaje más poderoso después del Emperador
+- **Los Consejeros**: nobles, eruditos y administradores nombrados por el Emperador o cooptados
+- **El Potentado**: título utilizado durante las regencias y los períodos sin emperador
+
+El número exacto de consejeros varía según las épocas — de unas pocas decenas bajo los Alessianos a más de un centenar bajo los Septim.
+
+### Poderes
+
+En tiempos normales, el Consejo:
+- Asesora al Emperador en los asuntos de Estado
+- Administra las provincias en nombre de la corona
+- Ratifica los tratados y las declaraciones de guerra
+- Gestiona las finanzas imperiales y la recaudación de impuestos
+- Supervisa las Legiones Imperiales y su despliegue
+
+En caso de **vacante del trono**, el Consejo se convierte en la autoridad suprema:
+- Ejerce la regencia bajo el título de Potentado
+- Organiza la sucesión (a menudo con grandes dificultades)
+- Puede teóricamente elegir a un nuevo Emperador si no existe heredero
+
+## Historia política
+
+### Bajo el Imperio Alessiano (1E 243 — 1E 2331)
+
+El Consejo fue creado por la propia **Alessia** para gobernar el Imperio naciente tras la liberación de los humanos de la esclavitud **Ayleida**. En aquella época combinaba funciones religiosas y políticas — los sacerdotes de la Orden Alessiana se sentaban junto a los nobles.
+
+### El Potentado Akaviri (1E 2920 — 2E 430)
+
+Tras el asesinato del último emperador **Reman**, el poder pasó al **Potentado Akaviri** — primero Versidue-Shaie, después su hijo Savirien-Chorak. El Consejo gobernó bajo su autoridad durante cinco siglos, prueba de su resiliencia institucional.
+
+### El Interregno (2E 430 — 2E 854)
+
+El asesinato de Savirien-Chorak y de toda su estirpe en 2E 430 sumió al Imperio en el caos. Sin Emperador ni Potentado, el Consejo se fragmentó en facciones rivales:
+
+<CausalChain items={[
+  { text: "Asesinato del Potentado Akaviri (2E 430)" },
+  { text: "Fragmentación del Consejo en facciones provinciales", indent: 1 },
+  { text: "Guerras de sucesión interminables", indent: 2 },
+  { text: "Colapso del poder central — las provincias se vuelven independientes", indent: 2 },
+  { text: "El Interregno: 400 años sin Imperio unificado", indent: 3 }
+]} />
+
+### Bajo los Septim (2E 854 — 3E 433)
+
+**Tiber Septim** restauró el Consejo como institución, pero con un poder reducido ante un Emperador conquistador. Bajo sus sucesores menos dominantes, el Consejo fue recuperando progresivamente su influencia. Bajo los últimos Septim, el Canciller era a menudo el poder real detrás del trono.
+
+### Bajo los Mede (4E 17 — presente)
+
+Tras la Crisis de Oblivion y la extinción de los Septim, el Consejo volvió a fracasar a la hora de garantizar una transición estable. **Titus Mede I** tomó el trono por la fuerza en 4E 17 con apenas mil hombres — el Consejo, demasiado dividido, no pudo oponerse a este golpe de Estado militar.
+
+## Gobernanza provincial
+
+### El sistema de provincias
+
+El Imperio gobierna nueve provincias, cada una con sus propias tradiciones políticas:
+
+- **Cyrodiil**: gobernanza directa por el Emperador y el Consejo
+- **Bordeciel**: el Moot (asamblea de Jarls) elige a un Alto Rey
+- **Morrowind**: las Grandes Casas gobiernan, el Imperio supervisa
+- **High Rock**: multitud de reinos vasallos y ciudades-estado
+- **Hammerfell**: división Couronnes/Devanciers bajo suzeranía imperial
+- **Elsweyr**: la Crin gobierna a los Khajiit
+- **Valenwood**: monarquía bosmer bajo tutela imperial (luego aldmeri)
+- **Islas Summerset**: gobernanza altmer autónoma
+- **Pantano Negro**: el Hist y las tribus argonianas resisten toda centralización
+
+### Tensiones centro-periferia
+
+El desafío permanente del Imperio es el equilibrio entre control central y autonomía provincial. Un exceso de control provoca rebeliones (la Guerra Civil de Bordeciel). Un exceso de autonomía conduce a la fragmentación (el Interregno).
+
+## Debilidades estructurales
+
+El Consejo padece defectos recurrentes:
+- **Corrupción**: los escaños se compran a menudo o se intercambian por favores
+- **Parálisis decisional**: en ausencia de un Emperador fuerte, las facciones bloquean toda acción
+- **Falta de legitimidad popular**: el Consejo no es elegido y carece de mandato popular
+- **Vulnerabilidad a los golpes de Estado**: tres veces en la historia, un general tomó el poder ante un Consejo impotente
+
+Estas debilidades explican por qué el Imperio se contrae en la Cuarta Era: sin un emperador carismático ni una institución capaz de decidir con rapidez, el **Dominio Aldmeri** y las provincias rebeldes van erosionando la autoridad imperial.
