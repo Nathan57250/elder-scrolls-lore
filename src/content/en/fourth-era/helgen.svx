@@ -1,0 +1,52 @@
+---
+title: "Helgen"
+slug: "helgen"
+era: "fourth-era"
+category: "lieux"
+tags: ["helgen", "alduin", "dragonborn", "skyrim", "civil-war", "empire", "dragons"]
+timelineYear: 201
+summary: "Helgen, the town destroyed by Alduin whose attack marked the return of dragons and the beginning of the Dragonborn's adventure."
+sources: ["Skyrim Main Quest", "Atlas of Dragons", "The Book of the Dragonborn", "Alduin is Real"]
+---
+
+## The Town of Helgen
+
+**Helgen** was a small fortified town located in Falkreath Hold, in southern Skyrim, not far from the border with Cyrodiil. Protected by solid stone walls and an Imperial garrison, it served as a waypoint for travelers and merchants crossing the pass between the two provinces. With its inn, forge, and modest dwellings, Helgen embodied the archetype of a peaceful Nordic hamlet.
+
+The town housed a mixed population of Nords and Imperial soldiers, coexisting in relative harmony despite the mounting tensions of the **Civil War** tearing Skyrim apart. Its strategic position on the main road connecting Cyrodiil to Skyrim made it a natural checkpoint for the **Empire**'s forces.
+
+## The Execution That Never Happened
+
+On the fateful morning of Last Seed 4E 201, a convoy of Imperial prisoners arrived at Helgen. Among the captives were **Ulfric Stormcloak**, the rebel Jarl of Windhelm and leader of the Stormcloak rebellion, along with an anonymous prisoner whose name appeared on no list — the one who would become the **Last Dragonborn**.
+
+The execution was meant to be swift and efficient. General **Tullius** of the Imperial Legion had personally overseen the capture of Ulfric near Darkwater Crossing and wanted to take no risks. The **Thalmor**, represented by the emissary **Elenwen**, was present to observe — a detail that raises questions about the true circumstances of Ulfric's capture.
+
+## The Attack of Alduin
+
+As the headsman's axe rose, an impossible sound tore through the sky: the roar of a dragon. **Alduin**, the World-Eater, the Firstborn of **Akatosh**, appeared above Helgen in an explosion of flame and destruction. His arrival was not fortuitous — the Black Dragon had just been flung out of the time stream by an **Elder Scroll** used at the Throat of the World millennia earlier.
+
+The destruction was total and immediate. Alduin summoned a rain of flaming meteors that crashed down upon the town, collapsing towers, setting buildings ablaze, and killing soldiers and civilians without discrimination. The walls that had protected Helgen for generations proved laughably inadequate against the fury of a dragon god.
+
+## The Chaos and the Escape
+
+In the chaos that followed the attack, the lines between friends and enemies blurred. Imperial soldiers attempted to organize a futile defense while prisoners sought to flee. Two escape paths were offered to the future Dragonborn: follow **Hadvar**, the loyal Imperial soldier who had watched him with sympathy during the convoy, or **Ralof**, the Stormcloak who shared his prisoner cart.
+
+The basements of Helgen's fort offered a passage to survival — through tunnels infested with giant spiders and a network of natural caves opening out onto the forests of southern Skyrim. Behind them, Helgen was nothing but a conflagration.
+
+## The Significance of the Event
+
+The destruction of Helgen constitutes a turning point in the history of the Fourth Era. It simultaneously marked three events of paramount importance: the return of dragons to the mortal world after millennia of absence, the revelation of the existence of a new **Dragonborn**, and the escape of **Ulfric Stormcloak** which allowed the Civil War to continue.
+
+The attack also demonstrated the terrifying power of **Alduin**. A single dragon — admittedly the most powerful of all — had reduced a fortified town to ash in minutes. If the dragons were to return in numbers, no mortal army could stop them.
+
+## Immediate Consequences
+
+News of Helgen's destruction spread rapidly across Skyrim, sowing panic and disbelief. Dragons had been regarded as mythical creatures for millennia — their sudden return shattered all certainties. Jarls reinforced their Hold defenses, guards nervously scanned the skies, and the wildest rumors circulated in every inn and market.
+
+For both the Empire and the Stormcloaks, the destruction of Helgen greatly complicated the conflict. Both sides now had to contend not only with their human enemy but also with an existential threat from the skies.
+
+## Helgen After the Destruction
+
+The town was never rebuilt. Its charred ruins became a bandit den, a grim reminder of civilization's fragility in the face of primordial forces. The few survivors — mainly those who had fled through the underground tunnels — scattered across the surrounding cities, carrying with them the trauma of having witnessed the return of dragons.
+
+The ruins of Helgen remain an involuntary place of pilgrimage for the curious and historians alike, a monument to the day the world changed forever — when a nameless prisoner became Tamriel's last hope against the World-Eater.

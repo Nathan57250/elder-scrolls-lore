@@ -1,0 +1,50 @@
+---
+title: "High Hrothgar"
+slug: "high-hrothgar"
+era: "fourth-era"
+category: "lieux"
+tags: ["high-hrothgar", "greybeards", "throat-of-the-world", "thuum", "paarthurnax", "jurgen-windcaller"]
+timelineYear: 201
+summary: "High Hrothgar, the Greybeards' monastery at the summit of the Throat of the World, sanctuary of the Voice and refuge of Paarthurnax."
+sources: ["The Greybeards", "Seven Thousand Steps", "Erta's Note", "Skyrim Main Quest"]
+---
+
+## The Monastery at the Top of the World
+
+**High Hrothgar** is an ancient stone monastery perched on the slopes of the **Throat of the World** (Monahven in Dragonish), the tallest mountain in Tamriel. Located at a vertiginous altitude, accessible only by the **Seven Thousand Steps** — a staircase carved into the rock of the mountain itself — the monastery is the seat of the **Greybeards**, a contemplative order dedicated to the study and mastery of the **Thu'um**, the Voice.
+
+The monastery's architecture reflects its ascetic nature: grey stone walls battered by icy winds, halls stripped of all superfluous ornament, and inner courtyards where the Greybeards practice their vocal meditations. The building seems to grow from the mountain itself, as though it were shaped by the Voice rather than by mortal hands.
+
+## The Seven Thousand Steps
+
+The pilgrimage of the **Seven Thousand Steps** is itself an initiatory ordeal. The path winds from the town of Ivarstead at the mountain's foot all the way to the gates of High Hrothgar, crossing increasingly hostile terrain as altitude increases. Frost trolls, wolves, and deadly cold threaten pilgrims throughout the ascent.
+
+Along the way, ten carved stone tablets tell the story of **Jurgen Windcaller** and the founding of the Greybeards' order. These **Emblematic Tablets** constitute a progressive teaching, spiritually preparing the pilgrim for what awaits at the summit. Few mortals complete this pilgrimage — and even fewer are admitted to the monastery.
+
+## The Greybeards
+
+The **Greybeards** are Nordic monks who have devoted their existence to mastering the Voice according to the **Way of the Voice** established by **Jurgen Windcaller**. After the defeat of the Nords against the Snow Elves at the Battle of Red Mountain in 1E 416 — a defeat attributed to the abuse of the Thu'um — Jurgen meditated for seven years and concluded that the Voice should be used only for worship and contemplation, never as a weapon.
+
+The Greybeards live in near-permanent silence, for their mastery of the Thu'um is such that the slightest whisper can trigger earthquakes. Only **Arngeir**, the eldest among them, speaks to the rare visitors — the others speak only to teach Words of Power to those who are chosen.
+
+## Paarthurnax, the Secret at the Summit
+
+Above High Hrothgar, at the very summit of the Throat of the World, lives the Greybeards' most extraordinary secret: **Paarthurnax**, an ancient dragon who was once the lieutenant of **Alduin** himself. Paarthurnax betrayed his master during the Dragon War of the Merethic Era, teaching mortals the Thu'um and thus giving them the weapon that allowed them to defeat the dragons.
+
+Since then, Paarthurnax has meditated at the mountain's summit, eternally struggling against his draconic nature — the innate desire for domination that inhabits every dragon. "What is better — to be born good, or to overcome your evil nature through great effort?" he ponders. His presence is known only to the Greybeards, who regard him as their true master.
+
+## The Throat of the World in History
+
+The **Throat of the World** is far more than a simple mountain. According to Nordic cosmology, it is Skyrim's Tower — one of the metaphysical structures maintaining the stability of Mundus. Its summit is the closest point to **Aetherius** accessible from Nirn, which explains why the Thu'um — a form of magic tied to the creative forces of the universe — reaches its greatest power there.
+
+It is also at the summit of the Throat of the World that the ancient Nordic heroes — **Hakon One-Eye**, **Felldir the Old**, and **Gormlaith Golden-Hilt** — used the **Elder Scroll** and the Shout **Dragonrend** to banish Alduin out of time, an act that did not destroy him but hurled him into the future.
+
+## The Role of High Hrothgar in 4E 201
+
+When the dragons returned in 4E 201 with the reappearance of **Alduin**, the Greybeards called the new **Dragonborn** to High Hrothgar by thundering their summons across all of Skyrim — an event every inhabitant of the province heard. The monastery then became the Dragonborn's place of teaching, where they learned the first Words of Power necessary for their quest.
+
+High Hrothgar also served as neutral ground for the **Peace Council** — an attempted ceasefire between the Empire and the Stormcloaks negotiated by the Greybeards to allow the Dragonborn to focus on the draconic threat. This diplomatic role, unusual for a contemplative order, speaks to the gravity of the crisis.
+
+## Symbolism and Permanence
+
+High Hrothgar represents an ideal of restraint and wisdom in a world torn by conflict. While others use power to conquer, the Greybeards demonstrate that immense power can coexist with peace — that the Thu'um, the most terrible of weapons, can become an instrument of meditation and harmony. The monastery endures, immutable, above the wars and empires that rise and fall in the plains far below.

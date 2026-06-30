@@ -1,0 +1,54 @@
+---
+title: "El Oyente y la Madre de la Noche"
+slug: "dark-brotherhood-listener"
+era: "fourth-era"
+category: "guildes"
+tags: ["hermandad-oscura", "madre-de-la-noche", "oyente", "sithis", "astrid", "cicero"]
+timelineYear: 201
+summary: "El Oyente de la Hermandad Oscura y la Madre de la Noche en la era de Cielos de Hielo, entre las tradiciones antiguas y un sangriento renacimiento."
+sources: ["The Night Mother's Truth", "Sacred Witness", "Dark Brotherhood Questline", "Cicero's Journal"]
+---
+
+## La Hermandad Oscura en su Agonía
+
+En 4E 201, la **Hermandad Oscura** no era más que la sombra de lo que había sido. Otrora la red de asesinos más temida de todo Tamriel, la organización había sufrido décadas de persecución, purgas internas y la pérdida de sus tradiciones sagradas. Los santuarios de Cyrodiil habían sido destruidos, el de Morrowind había caído, y solo el santuario de **Falkreath** en Cielos de Hielo subsistía — un grupo heterogéneo de asesinos que operaba bajo la dirección de **Astrid**.
+
+Este santuario funcionaba más como un gremio de asesinos mercenarios que como la orden religiosa consagrada a **Sithis** que se suponía que era. Astrid había abandonado deliberadamente las tradiciones antiguas: la **Madre de la Noche**, el Sacramento Negro, los **Cinco Principios** — todo había sido descartado en favor de un pragmatismo brutal donde solo importaban los contratos y el oro.
+
+## La Madre de la Noche
+
+La **Madre de la Noche** es el cadáver preservado de la mujer que, según la tradición, fundó la Hermandad Oscura asesinando a sus propios hijos como ofrenda a **Sithis**, el Vacío primordial. Su cuerpo momificado sirve de conducto entre el mundo de los mortales y el propio Sithis — es a través de ella que la voluntad del Vacío se transmite al **Oyente**, el máximo líder espiritual de la Hermandad.
+
+Tras la destrucción de los santuarios de Cyrodiil, el cuerpo de la Madre de la Noche fue transportado por todo Tamriel por **Cicero**, su Guardián. Este bufón demente — cuya aparente locura enmascaraba una devoción absoluta — recorrió cientos de leguas con su macabro fardo, protegiendo el sagrado cuerpo ante todos los peligros hasta su llegada al santuario de Falkreath.
+
+## Cicero, el Guardián
+
+**Cicero** encarna el conflicto central de la Hermandad en esta época: la tensión entre las tradiciones antiguas y el nuevo pragmatismo. Nombrado Guardián de la Madre de la Noche — un título sagrado que implica la protección y el mantenimiento del cuerpo — había asistido impotente a la progresiva disolución de la orden. Su diario da testimonio de su descenso a la locura: aislado, despreciado por los otros asesinos que ya no comprendían el significado de su papel, se hundió en una demencia que solo su fe en Sithis y la Madre de la Noche impedía que fuera total.
+
+Su llegada al santuario de Falkreath creó un conflicto inmediato con Astrid, quien veía en la Madre de la Noche una reliquia inútil y en Cicero un fanático peligroso que amenazaba su autoridad.
+
+## El Surgimiento de un Nuevo Oyente
+
+El **Oyente** es el único mortal capaz de escuchar la voz de la Madre de la Noche. Este don no es elegido sino otorgado por el propio Sithis — la Madre de la Noche susurra el nombre del elegido, y este escucha sus palabras donde los demás solo perciben el silencio. En 4E 201, tras décadas sin Oyente, la Madre de la Noche eligió por fin un nuevo receptáculo para su voluntad.
+
+Este nuevo Oyente recibió directamente de la Madre de la Noche el contrato más audaz de la historia reciente de la Hermandad: el asesinato del propio **Emperador Titus Mede II**. Este contrato había sido encomendado mediante el Sacramento Negro — prueba de que las tradiciones antiguas conservaban su poder incluso en ausencia de quienes las practicaban.
+
+## La Traición de Astrid
+
+**Astrid**, al sentir su autoridad amenazada por el surgimiento de un Oyente legítimo, cometió el acto más grave que un miembro de la Hermandad podía cometer: traicionó a los suyos. Contactando al comandante **Maro** de la guardia del **Penitus Oculatus** — el servicio de inteligencia imperial — ofreció entregar al Oyente a cambio de una garantía de seguridad para ella y su santuario.
+
+Esta traición se volvió contra ella de la manera más cruel. El Penitus Oculatus atacó el santuario sin discriminación, matando a la mayoría de los asesinos. La propia Astrid, quemada y moribunda, se dio cuenta demasiado tarde de la magnitud de su error. En un último acto de penitencia, realizó el **Sacramento Negro** sobre sí misma, pidiendo al Oyente que pusiera fin a su vida — cumpliendo así la voluntad de Sithis mediante su propia muerte.
+
+## El Asesinato del Emperador
+
+El asesinato del **Emperador Titus Mede II** constituye uno de los eventos políticos más significativos de la Cuarta Era. El monarca fue asesinado a bordo del *Katariah*, su nave imperial, anclada frente a Solitude. Lo que hace notable este asesinato no es solo su ejecución sino la propia reacción del Emperador — algunos relatos sugieren que Titus Mede aceptó su destino con dignidad, pidiendo solo que el contratante fuera castigado a cambio.
+
+La identidad del contratante — **Amaund Motierre**, un noble cyrodiiliano — y sus motivaciones exactas siguen siendo objeto de debate. Algunos ven en esto una conspiración del **Thalmor**, otros un juego de poder interno en la nobleza imperial.
+
+## El Renacimiento de la Hermandad
+
+Tras la destrucción del santuario de Falkreath, la Hermandad Oscura se levantó de nuevo bajo la dirección de su nuevo Oyente. Un nuevo santuario fue establecido en el **Santuario del Sacramento Negro** en Dawnstar, y las tradiciones antiguas fueron restauradas. **Nazir** y **Babette** — una niña vampira de trescientos años — se contaron entre los supervivientes que formaron el núcleo de este renacimiento.
+
+## El Significado Espiritual
+
+El retorno del Oyente simboliza la reafirmación de las vías antiguas frente al pragmatismo moderno. La Hermandad Oscura no es un simple gremio de asesinos — es una orden religiosa cuya misión trasciende el simple asesinato. Cada contrato es un sacramento, cada muerte una ofrenda a **Sithis** y al Vacío. El abandono de estos principios por Astrid había privado a la Hermandad de su razón de ser; su restauración le devolvió su verdadera identidad y su terrible poder.
