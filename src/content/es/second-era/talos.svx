@@ -1,0 +1,100 @@
+---
+title: "Talos — El Noveno Divino"
+slug: "talos"
+era: "second-era"
+category: "aedra"
+tags: ["talos", "tiber-septim", "noveno-divino", "thalmor", "apoteosis", "ysmir", "hjalti"]
+timelineYear: 854
+summary: "Talos es el Noveno Divino — un mortal convertido en dios. Conocido como Tiber Septim, Hjalti Barba-Temprana e Ysmir, conquistó Tamriel y alcanzó la apoteosis, convirtiéndose en la figura más controvertida del universo."
+sources: ["UESP: Talos", "The Arcturian Heresy", "Varieties of Faith"]
+---
+
+## Presentación
+
+**Talos** es el dios más controvertido de Tamriel — el único mortal en haber alcanzado la **apoteosis** (convertirse en dios) y haber sido oficialmente entronizado como **Noveno Divino**. Su prohibición mediante el Concordato de Oro Blanco es la causa directa de la Guerra Civil de Colmillo de Cielo.
+
+## La Identidad de Talos
+
+La identidad de Talos es **extremadamente compleja** y objeto de debate:
+
+### Los Tres Aspectos
+Según algunas interpretaciones, Talos es un **ser compuesto** de tres personas:
+1. **Hjalti Barba-Temprana** — un Bretón nacido en Alcaire (Roca Alta), un guerrero ambicioso
+2. **Ysmir Wulfharth** — un antiguo Alto Rey nórdico (Shezarrine, avatar de Shor)
+3. **Zurin Arctus** — el Mago de Batalla imperial que creó el Numidium
+
+### La Versión Oficial
+El Imperio enseña que:
+- Tiber Septim era un solo hombre, nacido Hjalti
+- Conquistó Tamriel gracias a su genio militar y su Voz (Thu'um)
+- Murió de vejez en 3E 38
+- Los Divinos lo acogieron como el Noveno
+
+### La Versión Herética (La Herejía Arcturiana)
+- Hjalti era un Bretón que usaba la voz de Wulfharth
+- Wulfharth hacía el verdadero trabajo de conquista (voz, combate)
+- Arctus fue sacrificado para alimentar el Numidium (Mantella)
+- La apoteosis resultó de la fusión de las tres almas/identidades
+- Tiber Septim es una **mentira** que encubre una verdad compleja
+
+## La Apoteosis
+
+¿Cómo se convierte un mortal en dios?
+
+### Teorías
+1. **Mantling** — Talos "se convirtió" en Lorkhan/Shor al cumplir su papel
+2. **CHIM** — Alcanzó la comprensión última de la realidad
+3. **El Numidium** — La Torre activada permitió el ascenso
+4. **La Voz** — El Thu'um en su nivel máximo trasciende la mortalidad
+5. **Combinación** — Todos estos caminos convergieron
+
+### La Prueba
+- Los peregrinos de Talos **reciben bendiciones reales** (en los juegos)
+- Esto demuestra que ES un dios, independientemente del mecanismo
+- El Thalmor lo sabe — por eso quiere SUPRIMIR su culto
+
+## La Controversia del Concordato
+
+### La Posición del Thalmor
+- Talos **no** es un dios — era un mortal con un ego desmesurado
+- Un hombre no puede unirse a los Divinos (los Divinos son et-Ada)
+- Su culto es una blasfemia contra los verdaderos dioses
+- Posición **real** (secreta): si los mortales dejan de creer en Talos, su poder divino mengua
+
+### La Posición Nórdica
+- Talos ES un dios — sienten su presencia
+- Un Nórdico (Ysmir) convertido en dios es su máximo orgullo
+- Prohibir su culto es un insulto existencial
+- "No puedes quitarnos a nuestro dios"
+
+### La Posición Imperial
+- Talos probablemente es un dios (las bendiciones funcionan)
+- Pero el Imperio debe sobrevivir → sacrificio pragmático
+- "Rezamos en privado y firmamos el tratado en público"
+
+## El Peregrino de Talos
+
+En Colmillo de Cielo (4E 201):
+- Los altares de Talos siguen existiendo (ocultos o abiertos según la región)
+- Los Justiciares del Thalmor arrestan a los adoradores
+- Heimskr (el predicador de Blancherive) proclama en voz alta la gloria de Talos públicamente
+- Simplemente llevar un **Amuleto de Talos** es un crimen
+- La bendición de Talos: -20% en el tiempo de recarga de los Gritos
+
+## Importancia Metafísica
+
+Talos cumple un papel **cosmológico** crucial:
+- Es la prueba de que los mortales pueden trascender
+- Estabiliza Mundus de una manera que ningún otro Divino logra
+- Su supresión debilitaría potencialmente la barrera entre Mundus y Oblivion
+- El Thalmor posiblemente quiere "des-crear" Mundus eliminando las Torres Y a Talos
+- Él es el **Dios Desaparecido** — el sustituto de Lorkhan en el panteón
+
+## Legado
+
+Ya sea que Talos sea un dios, tres dioses o una mentira:
+- Tres imperios llevan su legado
+- Millones rezan en su nombre
+- Su leyenda une a los humanos de Tamriel
+- La prohibición de su culto divide el continente
+- ¿Importaría la verdad si la fe es real?

@@ -1,0 +1,136 @@
+---
+title: "The Fall of the Reman Empire and the Interregnum"
+description: "The assassination of Reman III, the period of the Akaviri Potentates, and the collapse into four centuries of chaos"
+era: "second-era"
+category: "evenements"
+slug: "chute-empire-reman"
+timelineYear: 430
+tags: ["reman", "akaviri-potentates", "dark-brotherhood", "interregnum", "three-banners-war", "tiber-septim", "savirien-chorak"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Fall of the Reman Empire and the Interregnum (2E 430)
+
+The fall of the Reman dynasty and the period of anarchy that followed — the Interregnum — constitutes one of the darkest and longest periods in the history of Tamriel. An empire that had unified almost the entire continent collapsed within a few decades, giving way to four centuries of war, fragmentation, and chaos. This political catastrophe has its roots in one emperor's paranoia, the ambition of foreigners, and the blade of assassins.
+
+## Origins and Causes
+
+### The Reman Empire at Its Height
+
+The Reman Empire, founded by Reman Cyrodiil in 1E 2703, had unified nearly all of Tamriel under its banner. Born from resistance against the Akaviri invasion, this empire had integrated the defeated invaders into its own structures — the Akaviri became the Potentates, top-tier Imperial counselors and administrators. This cohabitation, initially productive, carried within it the seeds of future destruction.
+
+The Reman Empire had accomplished what no power had managed since Alessia: a durable unification of the continent. Its legions maintained order, its trade routes ensured prosperity, and the cult of the Eight Divines provided a common spiritual framework.
+
+### The Paranoia of Reman III
+
+Reman III, the last of his line, came to the throne in a context of decline. The Empire, though vast, showed signs of exhaustion. The peripheral provinces were restless, and the Imperial treasury was being drained by costly wars — notably the failed attempts to conquer Morrowind.
+
+The monarch developed growing paranoia, seeing conspiracies everywhere. He distrusted his own counselors, his generals, and especially the Akaviri Potentates whose influence over the Imperial administration had grown considerable. This mistrust was not entirely unjustified — the Akaviri had indeed accumulated enormous power over the centuries.
+
+### The Power of the Akaviri Potentates
+
+The Akaviri Potentates — particularly Versidue-Shaie and his son Savirien-Chorak — had built a network of influence that rivaled that of the Emperor himself. Officially counselors and servants of the throne, they controlled in practice a large part of the Empire's administrative and military apparatus.
+
+Their position was ambiguous: as foreigners in a human empire, they could not themselves claim the throne, yet they possessed the means to leave it vacant. This situation created an irresolvable structural tension.
+
+### The Rise of the Dark Brotherhood
+
+The Morag Tong — the legal assassins' guild of Morrowind — had long existed, but it was during this period that its schism gave birth to the Dark Brotherhood, an assassins' organization operating without the legal constraints of its predecessor. The Dark Brotherhood, devoted to the cult of Sithis and the Night Mother, became the perfect tool for those who wished to resolve political problems through the blade.
+
+### The Failed Conquest of Morrowind
+
+Reman III's wars against Morrowind drained Imperial resources without result. The Dunmer, protected by the Tribunal and their hostile terrain, resisted effectively. The Armistice Treaty that ended the conflict was more an admission of failure than a diplomatic victory. These costly campaigns exhausted the treasury and demoralized the legions.
+
+## The Event: The Collapse
+
+### The Assassination of Reman III (1E 2920)
+
+In 1E 2920, Reman III was assassinated. The exact circumstances are a matter of debate — some sources attribute the killing to the Potentates, others to the Morag Tong acting on contract. What is certain is that his death ended the Reman line. Without an heir, the Ruby Throne stood vacant.
+
+His son, Prince Juilek, had been killed shortly before under suspicious circumstances during the war against Morrowind — depriving the Empire of any legitimate successor.
+
+### The Reign of the Potentates (1E 2920 – 2E 430)
+
+In the absence of a Reman heir, Potentate Versidue-Shaie took control of the Empire as regent — technically inaugurating the Second Era. He ruled with cold efficiency for several decades, maintaining Imperial order while consolidating Akaviri power.
+
+Versidue-Shaie took drastic measures to maintain control: he ordered the dissolution of all the nobles' private armies, centralizing the monopoly on violence in the hands of the Imperial State. This decision, rational from an administrative standpoint, created deep resentment among the aristocracy of every province.
+
+It was under his reign that the Dark Brotherhood was officially "recognized" — a Faustian pact in which the Potentate implicitly legitimized the assassins in exchange for their neutrality toward his own regime.
+
+### The Assassination of Versidue-Shaie (2E 324)
+
+Versidue-Shaie was in turn assassinated — by the Morag Tong according to the most reliable sources. His son Savirien-Chorak succeeded him, continuing his father's policy. But the Potentates' reign was now clearly on the defensive, unable to draw upon dynastic or divine legitimacy.
+
+### The Assassination of Savirien-Chorak (2E 430)
+
+In 2E 430, Savirien-Chorak and all his heirs were assassinated in a single night. This act — attributed to the Dark Brotherhood — was of terrifying efficiency. By eliminating not only the Potentate but his entire line, the assassins left no possibility of orderly succession.
+
+The Empire found itself without a ruler, without a line of succession, and without a constitutional mechanism to designate a new sovereign. The power vacuum was total and instantaneous.
+
+### The Immediate Collapse
+
+Without central authority, the Empire fragmented within months. Every province, every kingdom, every warlord claimed independence or attempted to seize power. The Imperial legions, deprived of unified command, split into rival factions or were absorbed by local powers.
+
+## Consequences
+
+### Four Centuries of Chaos: The Interregnum
+
+The period between 2E 430 and 2E 854 (the advent of Tiber Septim) is known as the Interregnum — an era of fragmentation, perpetual wars, and chronic instability. No power managed to reunify Tamriel for over four centuries.
+
+Kingdoms rose and fell at the whim of alliances and betrayals. Borders changed constantly. Violence became endemic, and the civilian population suffered beyond measure — famines, epidemics, destruction.
+
+### The Three Banners War (2E 580)
+
+The most emblematic conflict of the Interregnum was the Three Banners War, in which three great alliances clashed for control of Cyrodiil and the Ruby Throne:
+
+- The Ebonheart Pact (Nords, Dunmer, Argonians)
+- The Aldmeri Dominion (Altmer, Bosmer, Khajiit)
+- The Daggerfall Covenant (Bretons, Redguards, Orcs)
+
+This titanic war produced no definitive victor, perfectly illustrating the political deadlock of the Interregnum. Hundreds of thousands died for nothing.
+
+### The Rise of Guilds and Organizations
+
+The vacuum left by the Empire fostered the emergence of transnational organizations: the Fighters Guild, the Mages Guild, and the Dark Brotherhood itself all flourished in a world without central authority. These guilds offered structure and protection where states had failed.
+
+### The Emergence of Tiber Septim
+
+It was from the chaos of the Interregnum that Tiber Septim finally arose — Hjalti Early-Beard, Talos of Atmora's Forest. His conquest of Tamriel from 2E 854 onward was only possible because four centuries of war had exhausted all resistance. The peoples, weary of chaos, accepted unification by force because the alternative — an eternal Interregnum — was worse.
+
+### Institutional Lessons
+
+The Interregnum demonstrated the fragility of an empire resting solely on a dynasty. The Septim Empire, drawing lessons from the past, established more robust mechanisms — the Elder Council, the Blades, the Dragonfires system — to ensure continuity of power. Paradoxically, these mechanisms also failed during the Oblivion Crisis.
+
+### Cultural Impact
+
+The four centuries of chaos left deep marks on the culture of all the peoples of Tamriel. Mistrust of political instability, the valorization of Imperial order, the trauma of perpetual war — these sentiments shaped the attitudes of populations for millennia.
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Reman III's paranoia + growing Akaviri power", link: "/chronologie/second-era/empire-reman" },
+  { text: "Costly wars against Morrowind (failure)", indent: 1 },
+  { text: "Assassination of Reman III + Prince Juilek (1E 2920)" },
+  { text: "Akaviri Potentates seize power (no divine legitimacy)" },
+  { text: "Dissolution of private armies (noble resentment)", indent: 1 },
+  { text: "Rise of the Dark Brotherhood", indent: 1 },
+  { text: "Assassination of Versidue-Shaie (2E 324)" },
+  { text: "Assassination of Savirien-Chorak + all his heirs (2E 430)" },
+  { text: "TOTAL COLLAPSE — BEGINNING OF THE INTERREGNUM", link: "/chronologie/second-era/interregnum" },
+  { text: "Fragmentation into rival kingdoms", indent: 1 },
+  { text: "Three Banners War (2E 580)", link: "/chronologie/second-era/trois-alliances", indent: 1 },
+  { text: "Prosperity of transnational guilds", indent: 1 },
+  { text: "400 years of wars and suffering", indent: 1 },
+  { text: "Emergence of Tiber Septim (2E 854)", link: "/chronologie/second-era/tiber-septim", indent: 1 },
+  { text: "Founding of the Septim Empire", indent: 2 },
+  { text: "Third Era of relative stability", indent: 3 }
+]} />
+
+## Reflections on Imperial Fragility
+
+The fall of the Reman Empire teaches a brutal lesson: an empire, however powerful, can collapse in a single night if its continuity rests on a single point of failure — the survival of a bloodline. The assassination of a few individuals is enough to plunge a continent into centuries of darkness.
+
+This lesson resonates across all the eras of Tamriel. The Septim Empire also fell when its line was extinguished. The covenant of Akatosh itself rests on the survival of a bloodline. Fragility is inscribed at the very heart of the system — and those who, like the Dark Brotherhood, understand this fragility hold a disproportionate power relative to their numbers.

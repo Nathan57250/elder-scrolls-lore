@@ -1,0 +1,127 @@
+---
+title: "El Imperio Reman"
+description: "La historia del Segundo Imperio de Tamriel, fundado por Reman Cyrodiil, sus conquistas, su apogeo bajo los Potentados akaviri y su caída"
+slug: empire-reman
+category: "empires"
+era: "second-era"
+timelineYear: 1
+keywords:
+  - imperio reman
+  - segundo imperio
+  - reman cyrodiil
+  - potentados akaviri
+  - invasión akaviri
+  - gremio de guerreros
+  - gremio de magos
+  - cyrodiil
+---
+
+## El Imperio Reman: El Segundo Imperio de Tamriel
+
+El Imperio Reman, también conocido como el Segundo Imperio, fue la segunda gran entidad política en unificar la mayor parte de Tamriel. Fundado por Reman Cyrodiil al final de la Primera Era, perduró a través de la dinastía Reman y luego bajo los Potentados akaviri hasta 2E 430. Su legado institucional moldeó duraderamente la civilización tamriélica.
+
+## El Nacimiento del Imperio
+
+### El Contexto: El Fin de la Primera Era
+
+La Primera Era estuvo marcada por el dominio del Imperio Alessiano, luego por su gradual declive tras la Guerra de la Virtud que enfrentó a reformistas y ortodoxos de la Orden Alessiana. La disolución de esa orden en 1E 2321 dejó a Cyrodiil fragmentada y vulnerable, abriendo el camino a nuevos conquistadores.
+
+### La Invasión Akaviri de 1E 2703
+
+El acontecimiento catalizador de la fundación del Imperio Reman fue la invasión de Tamriel por los Tsaesci de Akavir. Estos guerreros-serpiente cruzaron el océano e invadieron el norte de Tamriel, sembrando el terror a su paso. Ante esta amenaza existencial, los pueblos de Cyrodiil buscaron desesperadamente un campeón.
+
+### Reman Cyrodiil
+
+Reman surgió como el salvador providencial. Según la leyenda, fue concebido místicamente en la Colina de los Mil Gargantas, impregnada con la sangre de Santa Alessia y la luz del Amuleto de los Reyes. Su nacimiento fue acompañado de prodigios divinos: se dice que los propios Montes Jerall gritaron su nombre.
+
+Reman reunió a las fuerzas de Cyrodiil y las llevó a la batalla en el Paso Pálido, donde infligió una derrota decisiva a los invasores akaviri. Pero en lugar de exterminar a los vencidos, demostró una notable sabiduría política al integrar a los supervivientes tsaesci en su ejército y administración.
+
+## La Expansión Imperial
+
+### Las Conquistas de Reman I
+
+Envalentonado por su victoria contra los Akaviri, Reman unificó rápidamente Cyrodiil bajo su bandera. Su legitimidad, forjada en la batalla contra un enemigo común, le permitió extender su autoridad sobre las provincias vecinas. Roca Alta, Martillo y Colmillo de Cielo reconocieron su soberanía, atraídas por la promesa de estabilidad y protección.
+
+### Los Intentos sobre Morrowind
+
+La gran ambición inconclusa de la dinastía Reman fue la conquista de Morrowind. Las campañas militares contra los Dunmer y sus aliados dweméricos arrojaron resultados mixtos. El terreno hostil, la feroz resistencia de las Grandes Casas y el poder del Tribunal hicieron imposible la conquista total.
+
+### Reman II y Reman III
+
+Los sucesores de Reman I continuaron su política expansionista con fortuna variable. Reman II consolidó los logros de su padre y extendió la influencia imperial. Reman III, el último de la dinastía, se embarcó en una costosa guerra contra Morrowind conocida como la Guerra de los Ochenta Años, que agotó los recursos del Imperio sin resultado decisivo.
+
+## La Administración Imperial
+
+### La Integración Akaviri
+
+Una de las características más notables del Imperio Reman fue la integración de los Tsaesci en sus estructuras. Los Akaviri aportaron su experiencia administrativa, militar y diplomática, ocupando posiciones cada vez más importantes dentro de la burocracia imperial. Esta simbiosis cultural produjo una civilización única.
+
+### Las Instituciones
+
+El Imperio Reman creó o formalizó numerosas instituciones que perduran hasta hoy:
+
+- La Guardia del Dragón, unidad de élite compuesta por guerreros akaviri
+- El sistema de Potentados, que permitía el gobierno por delegación
+- Los códigos jurídicos que armonizaban las leyes provinciales
+- La red de carreteras imperiales que conectaban las provincias
+
+### El Sistema Monetario
+
+La unificación monetaria bajo el Imperio Reman facilitó el comercio interprovincial. El septim de oro — aunque nombrado posteriormente en honor a Tiber Septim — tiene su origen en el sistema de monedas estandarizadas introducido por la administración reman.
+
+## Los Potentados Akaviri
+
+### La Transición del Poder
+
+El asesinato de Reman III por la Morag Tong en 1E 2920 (fecha que convencionalmente marca el fin de la Primera Era) dejó al Imperio sin heredero dinástico. El poder pasó naturalmente al Potentado Versidue-Shaie, un Tsaesci que ya servía como principal consejero y administrador del Imperio.
+
+### El Reinado de Versidue-Shaie
+
+Versidue-Shaie gobernó el Imperio durante más de tres siglos — una longevidad posible gracias a la naturaleza reptiliana de los Tsaesci. Su reinado estuvo marcado por una política pragmática de consolidación más que de expansión. Renunció a la conquista de Morrowind y se concentró en la estabilidad interna.
+
+### La Fundación de los Gremios
+
+El legado más duradero de los Potentados akaviri fue la creación de los gremios oficiales mediante el decreto conocido como el Acta de los Gremios en 2E 321. Este decreto legalizó y reguló:
+
+- El Gremio de Guerreros (el Sínodo de las Hojas)
+- El Gremio de Magos (inspirado en la Academia Psíjica)
+
+Estas instituciones supranacionales ofrecieron una estructura social y económica que trascendía las fronteras provinciales.
+
+### Savirien-Chorak
+
+El hijo y sucesor de Versidue-Shaie, Savirien-Chorak, continuó la política de su padre. Sin embargo, su reinado estuvo marcado por una creciente inestabilidad y rebeliones provinciales. La autoridad imperial se erosionaba progresivamente, y las provincias más alejadas ya solo reconocían nominalmente la soberanía del Potentado.
+
+## La Caída del Imperio
+
+### El Asesinato de Savirien-Chorak
+
+En 2E 430, la Hermandad Oscura asesinó a Savirien-Chorak y a todos sus herederos en una sola noche coordinada. Esta operación de alcance sin precedentes eliminó toda posibilidad de sucesión y puso fin definitivamente al Segundo Imperio.
+
+### Las Causas Profundas
+
+El asesinato fue solo el golpe de gracia a un imperio ya moribundo. Varios factores habían preparado su caída:
+
+- La pérdida de legitimidad dinástica tras la extinción de los Reman
+- El creciente resentimiento hacia los gobernantes akaviri no humanos
+- El debilitamiento militar debido a las guerras de Morrowind
+- Las rebeliones provinciales cada vez más frecuentes
+- La incapacidad de mantener las rutas comerciales seguras
+
+## El Legado del Segundo Imperio
+
+### Las Instituciones Supervivientes
+
+A pesar de su caída, el Imperio Reman dejó un considerable legado institucional. Los gremios que creó sobrevivieron al Interregno y persistieron bajo el Imperio Septim. El modelo administrativo reman inspiró directamente a Tiber Septim cuando reconstruyó el Imperio.
+
+### La Idea Imperial
+
+Más fundamentalmente, el Imperio Reman ancló en la conciencia tamriélica la idea de que un Imperio unificado no solo era posible sino deseable. Tras dos imperios sucesivos — el Alessiano y luego el Reman — la unificación del continente dejó de ser un sueño utópico para convertirse en un objetivo político concreto.
+
+### El Precedente Multicultural
+
+La exitosa integración de los Akaviri en la estructura imperial estableció un precedente importante: el Imperio podía trascender las divisiones raciales y culturales. Este modelo de inclusión, aunque imperfecto, inspiró las políticas posteriores de convivencia entre los pueblos de Tamriel.
+
+## Conclusión
+
+El Imperio Reman representa un capítulo esencial de la historia tamriélica. Al unificar el continente bajo una autoridad común, crear instituciones duraderas y demostrar la posibilidad de una civilización multirracial, sentó los cimientos sobre los que Tiber Septim construiría más tarde el Tercer Imperio. Su memoria pervive en las instituciones, leyes y tradiciones que continúan estructurando la vida en todo Tamriel.

@@ -1,0 +1,127 @@
+---
+title: "The Reman Empire"
+description: "The history of the Second Empire of Tamriel, founded by Reman Cyrodiil, its conquests, its peak under the Akaviri Potentates, and its fall"
+slug: empire-reman
+category: "empires"
+era: "second-era"
+timelineYear: 1
+keywords:
+  - reman empire
+  - second empire
+  - reman cyrodiil
+  - akaviri potentates
+  - akaviri invasion
+  - fighters guild
+  - mages guild
+  - cyrodiil
+---
+
+## The Reman Empire: The Second Empire of Tamriel
+
+The Reman Empire, also known as the Second Empire, was the second great political entity to unify most of Tamriel. Founded by Reman Cyrodiil at the end of the First Era, it endured through the Reman dynasty and then under the Akaviri Potentates until 2E 430. Its institutional legacy durably shaped Tamrielic civilization.
+
+## The Birth of the Empire
+
+### The Context: The End of the First Era
+
+The First Era was marked by the dominance of the Alessian Empire, then by its gradual decline following the War of Righteousness that pitted reformists against the Orthodox faction of the Alessian Order. The dissolution of that order in 1E 2321 left Cyrodiil fragmented and vulnerable, opening the way for new conquerors.
+
+### The Akaviri Invasion of 1E 2703
+
+The catalytic event for the founding of the Reman Empire was the invasion of Tamriel by the Tsaesci of Akavir. These serpent-warriors crossed the ocean and invaded northern Tamriel, spreading terror in their wake. Faced with this existential threat, the peoples of Cyrodiil desperately sought a champion.
+
+### Reman Cyrodiil
+
+Reman emerged as the providential savior. According to legend, he was mystically conceived on the Hill of the Thousand Throats, imbued with the blood of Saint Alessia and the light of the Amulet of Kings. His birth was accompanied by divine portents: the Jerall Mountains themselves reportedly cried out his name.
+
+Reman rallied the forces of Cyrodiil and led them to battle at Pale Pass where he inflicted a decisive defeat on the Akaviri invaders. Rather than exterminating the vanquished, however, he demonstrated remarkable political wisdom by integrating the surviving Tsaesci into his army and administration.
+
+## Imperial Expansion
+
+### The Conquests of Reman I
+
+Emboldened by his victory against the Akaviri, Reman rapidly unified Cyrodiil under his banner. His legitimacy, forged in battle against a common enemy, allowed him to extend his authority over neighboring provinces. High Rock, Hammerfell, and Skyrim recognized his suzerainty, drawn by the promise of stability and protection.
+
+### The Attempts on Morrowind
+
+The great unfinished ambition of the Reman dynasty was the conquest of Morrowind. Military campaigns against the Dunmer and their Dwemer allies yielded mixed results. The hostile terrain, the fierce resistance of the Great Houses, and the power of the Tribunal made total conquest impossible.
+
+### Reman II and Reman III
+
+The successors of Reman I pursued his expansionist policy with varying fortunes. Reman II consolidated his father's gains and extended Imperial influence. Reman III, the last of the dynasty, engaged in a costly war against Morrowind known as the War of the Eighty Years, which exhausted the Empire's resources without decisive result.
+
+## Imperial Administration
+
+### Akaviri Integration
+
+One of the most remarkable features of the Reman Empire was its integration of the Tsaesci into its structures. The Akaviri brought their administrative, military, and diplomatic expertise, occupying increasingly important positions within the Imperial bureaucracy. This cultural symbiosis produced a unique civilization.
+
+### The Institutions
+
+The Reman Empire created or formalized numerous institutions that endure to this day:
+
+- The Dragonguard, an elite unit composed of Akaviri warriors
+- The Potentate system, enabling governance by proxy
+- Legal codes harmonizing provincial laws
+- The Imperial road network connecting the provinces
+
+### The Monetary System
+
+Monetary unification under the Reman Empire facilitated interprovincial trade. The gold septim — though named later after Tiber Septim — has its origins in the standardized coinage system introduced by the Reman administration.
+
+## The Akaviri Potentates
+
+### The Transfer of Power
+
+The assassination of Reman III by the Morag Tong in 1E 2920 (the date that conventionally marks the end of the First Era) left the Empire without a dynastic heir. Power passed naturally to Potentate Versidue-Shaie, a Tsaesci who already served as the Empire's chief counselor and administrator.
+
+### The Reign of Versidue-Shaie
+
+Versidue-Shaie governed the Empire for more than three centuries — a longevity made possible by the reptilian nature of the Tsaesci. His reign was marked by a pragmatic policy of consolidation rather than expansion. He renounced the conquest of Morrowind and focused on internal stability.
+
+### The Founding of the Guilds
+
+The most enduring legacy of the Akaviri Potentates was the creation of official guilds through the decree known as the Guilds Act in 2E 321. This decree legalized and regulated:
+
+- The Fighters Guild (the Synd of Blades)
+- The Mages Guild (inspired by the Psijic Academy)
+
+These supranational institutions offered a social and economic structure that transcended provincial borders.
+
+### Savirien-Chorak
+
+The son and successor of Versidue-Shaie, Savirien-Chorak, continued his father's policy. His reign was nonetheless marked by growing instability and provincial rebellions. Imperial authority eroded progressively, and the most distant provinces recognized the Potentate's suzerainty only in name.
+
+## The Fall of the Empire
+
+### The Assassination of Savirien-Chorak
+
+In 2E 430, the Dark Brotherhood assassinated Savirien-Chorak and all his heirs in a single coordinated night. This operation of unprecedented scale eliminated any possibility of succession and definitively ended the Second Empire.
+
+### The Deeper Causes
+
+The assassination was merely the killing blow to an already dying empire. Several factors had prepared its fall:
+
+- The loss of dynastic legitimacy after the extinction of the Remans
+- Growing resentment toward non-human Akaviri rulers
+- Military weakening due to the wars over Morrowind
+- Increasingly frequent provincial rebellions
+- The inability to maintain secure trade routes
+
+## The Legacy of the Second Empire
+
+### The Surviving Institutions
+
+Despite its fall, the Reman Empire left a considerable institutional legacy. The guilds it created survived the Interregnum and persisted under the Septim Empire. The Reman administrative model directly inspired Tiber Septim when he reconstituted the Empire.
+
+### The Imperial Idea
+
+More fundamentally, the Reman Empire anchored in the Tamrielic consciousness the idea that a unified Empire was not only possible but desirable. After two successive empires — Alessian and then Reman — the unification of the continent ceased to be a utopian dream and became a concrete political objective.
+
+### The Multicultural Precedent
+
+The successful integration of the Akaviri into the Imperial structure established an important precedent: the Empire could transcend racial and cultural divisions. This model of inclusion, though imperfect, inspired the later policies of coexistence among the peoples of Tamriel.
+
+## Conclusion
+
+The Reman Empire represents an essential chapter of Tamrielic history. By unifying the continent under a common authority, creating enduring institutions, and demonstrating the possibility of a multiracial civilization, it laid the foundations upon which Tiber Septim would later build the Third Empire. Its memory lives on in the institutions, laws, and traditions that continue to structure life across Tamriel.
