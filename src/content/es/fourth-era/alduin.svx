@@ -1,0 +1,87 @@
+---
+title: "Alduin el Devorador de Mundos"
+slug: "alduin"
+era: "fourth-era"
+category: "personnages"
+tags: ["alduin", "dragones", "dovahkiin", "sovngarde", "fin-de-los-tiempos", "thuum"]
+date: "Era Merética — 4E 201"
+timelineYear: 201
+summary: "El Primogénito de Akatosh, rey de los Dragones, destinado a devorar el mundo al fin de los tiempos. Vencido por el Dovahkiin en Sovngarde en 4E 201."
+aliases: ["Alduin", "World-Eater", "Destroyer Devour Master", "el Primogénito"]
+relatedArticles: ["quatrieme-ere", "thuum", "ere-merethique"]
+sources: ["UESP: Alduin", "The Alduin/Akatosh Dichotomy", "Events of TES V: Skyrim"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Orígenes — Lo que condujo a este evento
+
+**¿Por qué regresó Alduin AHORA, en 4E 201?**
+
+El regreso de Alduin no es un accidente cósmico — es la consecuencia directa de eventos ocurridos milenios antes y del debilitamiento progresivo de las barreras metafísicas de Mundus:
+
+1. **El exilio temporal durante la Guerra de los Dragones**: Durante la Era Merética, los tres héroes nórdicos (Hakon, Gormlaith, Felldir) no podían matar a Alduin. Utilizaron un **Pergamino de los Ancianos** para proyectarlo fuera del tiempo — no para destruirlo, sino para *aplazarlo*. El Pergamino lo envió hacia adelante en la corriente temporal, hacia un punto fijo del futuro.
+
+2. **La Crisis de Oblivion (3E 433) destruyó las Llamas del Dragón**: La muerte de Martin Septim y la destrucción del Amuleto de los Reyes pusieron fin a la barrera dracónica que protegía Mundus. Las Llamas del Dragón se apagaron definitivamente. Esta extinción debilitó las barreras metafísicas entre los planos de existencia — y potencialmente los mecanismos que mantenían a Alduin fuera del tiempo.
+
+3. **La emergencia en la Garganta del Mundo**: Alduin reapareció exactamente allí donde había sido desterrado — en la cima de la Garganta del Mundo — antes de dirigirse a Helgen. El punto de salida temporal había quedado fijado desde la Era Merética.
+
+4. **La necesidad del Dovahkiin**: Sin las Llamas del Dragón, sin el Amuleto de los Reyes, sin la dinastía Septim, solo un **Sangre de Dragón** — un mortal dotado de un alma dracónica — podía enfrentarse a Alduin. El debilitamiento posterior a la Crisis de Oblivion hacía indispensable a un Dovahkiin como último baluarte.
+
+![Alduin, el Devorador de Mundos](/images/fourth-era/alduin.png)
+
+## Naturaleza y Papel Cósmico
+
+**Alduin** no es un simple dragón — es el **Primogénito de Akatosh**, el Dragón del Tiempo en persona. Su papel cósmico es el de **Devorador de Mundos**: está destinado a consumir la realidad al final de cada kalpa (ciclo cósmico), permitiendo el nacimiento de un nuevo mundo.
+
+La pregunta fundamental en torno a Alduin es: **¿abandonó su papel cósmico por orgullo?** En lugar de devorar el mundo como estaba previsto, eligió *dominarlo* — reinar como un rey antes que cumplir su función de destrucción y renacimiento.
+
+## El Culto del Dragón (Era Merética)
+
+Durante la Era Merética, Alduin gobernó Colmillohelada a través de una jerarquía de dragones y **Sacerdotes Dragón** humanos. Los mortales eran esclavos, y los dragones eran venerados como dioses.
+
+Los Sacerdotes Dragón más poderosos fueron recompensados con **Máscaras Dracónicas** que les conferían un inmenso poder, incluso después de su muerte (convirtiéndose en Draugr).
+
+## La Rebelión y el Exilio
+
+Cuando los mortales se rebelaron (con la ayuda de **Paarthurnax** y el don del Thu'um por parte de Kynareth), tres héroes nórdicos — **Hakon**, **Gormlaith** y **Felldir** — se enfrentaron a Alduin en la cima de la **Garganta del Mundo**.
+
+Al no poder matarlo (pues es un aspecto de Akatosh y quizás necesario para la existencia misma), utilizaron un **Pergamino de los Ancianos** combinado con el Grito **Devastar Dragón** para proyectarlo fuera de la corriente del tiempo — enviándolo al futuro.
+
+## El Regreso (4E 201)
+
+Alduin reapareció en **4E 201** en Helgen, Colmillohelada — justo en el momento de la ejecución prevista del Dovahkiin y de Ulfric Tormenta-de-Nieve. Su primer acto fue destruir la ciudad, salvándolos involuntariamente a ambos.
+
+Comenzó de inmediato a **resucitar a los dragones muertos** enterrados por toda Colmillohelada, reconstruyendo su ejército.
+
+## La Derrota
+
+El **Dovahkiin**, guiado por los Barbas Grises, Paarthurnax y las Cuchillas:
+1. Aprendió **Devastar Dragón** mediante un Pergamino de los Ancianos usado en la Grieta del Tiempo (una brecha temporal)
+2. Se enfrentó a Alduin en la Garganta del Mundo, forzándolo a huir
+3. Capturó al dragón **Odahviing** en Fortaleza Dragón para localizar el portal a Sovngarde
+4. Se adentró en **Sovngarde**, donde Alduin devoraba las almas de los muertos nórdicos
+5. Con la ayuda de los tres héroes antiguos, venció a Alduin una última vez
+
+## ¿Está Alduin verdaderamente muerto?
+
+La pregunta sigue abierta. A diferencia de los demás dragones cuya alma absorbe el Dovahkiin, **el alma de Alduin no fue absorbida** tras su derrota. El propio Paarthurnax sugiere que Alduin podría regresar — bien en este kalpa, bien para cumplir su verdadero papel de Devorador al final del mundo.
+
+## Cadena Causal
+
+<CausalChain items={[
+  { text: "Era Merética: Alduin domina a los mortales" },
+  { text: "Guerra de los Dragones: Rebelión de los mortales con la ayuda de Paarthurnax" },
+  { text: "Pergamino de los Ancianos + Devastar Dragón → Alduin proyectado FUERA del tiempo" },
+  { text: "(no destruido, solo aplazado)", indent: 1 },
+  { text: "Crisis de Oblivion (3E 433) → Martin Septim se sacrifica", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Llamas del Dragón apagadas definitivamente", indent: 1 },
+  { text: "Barreras metafísicas debilitadas", indent: 2 },
+  { text: "Alduin emerge en la Garganta del Mundo (4E 201)" },
+  { text: "Destrucción de Helgen (salva involuntariamente al Dovahkiin)", indent: 1 },
+  { text: "Resurrección de los dragones por toda Colmillohelada", indent: 1 },
+  { text: "El Dovahkiin se enfrenta a Alduin en Sovngarde → Derrota (pero alma no absorbida)", link: "/chronologie/fourth-era/enfant-de-dragon" },
+  { text: "¿Regresará Alduin? (Papel cósmico inacabado)" }
+]} />

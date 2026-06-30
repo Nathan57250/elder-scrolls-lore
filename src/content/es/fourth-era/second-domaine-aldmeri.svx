@@ -1,0 +1,101 @@
+---
+title: "El Segundo Dominio Aldmeri — Estructura e Ideología"
+slug: "second-domaine-aldmeri"
+era: "fourth-era"
+category: "politique"
+tags: ["dominio-aldmeri", "thalmor", "altmer", "politica", "supremacismo", "torres", "talos", "justiciars"]
+timelineYear: 29
+summary: "Análisis político del Segundo Dominio Aldmeri: su estructura interna, la ideología supremacista Thalmor, sus métodos de control y sus objetivos metafísicos últimos."
+sources: ["UESP: Aldmeri Dominion (4th Era)", "The Imperial Library: Thalmor Dossiers", "TES V: Skyrim — Thalmor Embassy"]
+---
+
+# El Segundo Dominio Aldmeri — Estructura e Ideología
+
+El **Segundo Dominio Aldmeri** es la entidad política más poderosa de la Cuarta Era — una alianza hegemónica dominada por los **Altmer** de las **Islas Summerset** que también controla **Bosque de Valentia** y amenaza la propia existencia del **Imperio**. Fundado en 4E 29, está dirigido de facto por el **Thalmor**, un aparato político e ideológico cuyas ambiciones van más allá de la simple conquista territorial para tocar la estructura metafísica de la propia realidad.
+
+## Estructura política
+
+### El Dominio vs el Thalmor
+
+A menudo se ignora una distinción crucial: el **Dominio Aldmeri** es el Estado (la alianza política de las naciones élficas), mientras que el **Thalmor** es el partido gobernante dentro de ese Estado. No todos los Altmer son Thalmor — el Thalmor es una facción ideológica que tomó el poder tras la Crisis de Oblivion.
+
+### Jerarquía del Thalmor
+
+- **El Primer Consejero Aldmeri**: jefe nominal del Dominio
+- **Los Consejeros Thalmor**: el verdadero poder ejecutivo
+- **Los Justiciars**: agentes operacionales encargados de aplicar la doctrina en el extranjero
+- **Los Agentes**: espías y asesinos infiltrados en las provincias imperiales
+- **El Ejército del Dominio**: fuerzas convencionales que incluyen batallones Bosmer
+
+### Control de Bosque de Valentia
+
+El Dominio integró **Bosque de Valentia** derrocando al gobierno Bosmer pro-imperial mediante un golpe de Estado en 4E 29. Los Bosmer viven bajo tutela Thalmor:
+- Purgas de los disidentes pro-Imperio
+- Imposición de las leyes y costumbres altmeri
+- Explotación de los recursos forestales
+- Conscripción en el ejército del Dominio
+
+## Ideología
+
+### El supremacismo mer
+
+La doctrina Thalmor descansa sobre una premisa teológica: los **Mer** (elfos) descienden de los **Et'Ada** — seres divinos degradados a mortales por la «traición» de **Lorkhan** durante la creación de **Mundus**. La mortalidad es, por tanto, un *error* — un estado impuesto, no natural.
+
+Los humanos, en esta visión, son subproductos sin vínculo divino. Su propia existencia es una afrenta a la dignidad primordial de los Mer.
+
+### El problema de Talos
+
+La prohibición del culto a **Talos** no es un simple gesto político — es un acto metafísico:
+- **Talos** es un *humano* elevado al rango de dios
+- Su existencia divina contradice la tesis de que solo los Mer poseen una naturaleza divina
+- Peor aún: Talos mantiene activamente **Mundus** como Divino
+- Eliminar su culto podría debilitar su poder divino
+
+### Las Torres y la Disolución
+
+La teoría más siniestra sobre los objetivos Thalmor implica a las **Torres** — estructuras metafísicas que anclan Mundus en la existencia:
+
+- La **Torre de Cristal** (Crystal-Like-Law) de las Islas Summerset: ya caída
+- La **Torre Blanco-Oro** de Cyrodiil: vulnerable
+- La **Torre de Bronce** (Numidium): desactivada
+- La **Torre de Nieve** (Garganta del Mundo) de Colmillohelada: amenazada por la inestabilidad política
+
+Si todas las Torres son desactivadas, Mundus podría *disolverse* — permitiendo que las almas élficas vuelvan a su estado divino original. El genocidio de toda vida mortal sería un efecto secundario «aceptable» en esta lógica.
+
+## Métodos de control
+
+### Los Justiciars
+
+Los **Justiciars Thalmor** operan en las provincias imperiales en virtud del **Concordato del Oro Blanco**:
+- Persecución de los adoradores de Talos
+- Interrogatorios (incluyendo la tortura) de los sospechosos
+- Detenciones sin orden imperial
+- Red de informadores entre las poblaciones locales
+
+### Manipulación política
+
+El Thalmor no se conforma con la fuerza bruta:
+- Apoyo secreto a la rebelión **Tormenta-de-Nieve** para debilitar al Imperio (revelado por los expedientes Thalmor)
+- Mantenimiento de la inestabilidad en las provincias fronterizas
+- Espionaje sistemático de los dirigentes imperiales
+- Explotación de las divisiones internas de cada nación
+
+### Purgas internas
+
+El Thalmor elimina a los **Altmer disidentes** con una brutalidad particular:
+- Los Altmer que rechazan la doctrina supremacista son calificados de «traidores a la raza»
+- Hubo purgas masivas tras la toma del poder sobre las Islas Summerset
+- Los Altmer exiliados viven en el miedo permanente a los asesinos Thalmor
+
+## Vulnerabilidades
+
+A pesar de su poder, el Dominio presenta debilidades:
+- **Sobreextensión**: controlar dos provincias y amenazar a un Imperio con una población élfica limitada
+- **Resistencia Bosmer**: los «resistentes verdes» sabotean la ocupación de Bosque de Valentia
+- **Fanatismo**: la ideología sustituye a veces a la competencia en las decisiones militares
+- **Dependencia del Concordato**: si el Imperio denuncia el tratado, el Thalmor debe conquistar o retirarse
+- **Disidencia altmer**: no todos los Altos Elfos apoyan un proyecto de genocidio cósmico
+
+## Perspectiva
+
+El conflicto entre el Dominio y el Imperio es el motor geopolítico central de la Cuarta Era. Que desemboque en una Segunda Gran Guerra, en una disolución del Imperio o en un colapso interno del Thalmor sigue siendo una cuestión abierta — pero las apuestas son literalmente cósmicas.
