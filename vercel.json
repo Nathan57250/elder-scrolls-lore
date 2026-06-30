@@ -1,6 +1,8 @@
 {
   "buildCommand": "npm run build",
   "outputDirectory": "build",
+  "cleanUrls": true,
+  "trailingSlash": false,
   "redirects": [
     { "source": "/chronologie/:path*", "destination": "/fr/chronologie/:path*", "statusCode": 301 },
     { "source": "/categories/:path*", "destination": "/fr/categories/:path*", "statusCode": 301 },
