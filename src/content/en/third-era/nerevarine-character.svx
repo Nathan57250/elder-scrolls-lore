@@ -1,0 +1,58 @@
+---
+title: "The Nerevarine"
+slug: "nerevarine-character"
+era: "third-era"
+category: "personnages"
+tags: ["nerevarine", "morrowind", "nerevar", "prophecy", "azura", "dagoth-ur", "tribunal", "prisoner"]
+timelineYear: 427
+summary: "The Nerevarine as a character: the prisoner turned prophesied reincarnate, liberator of Morrowind, and destroyer of the Tribunal."
+sources: ["Morrowind Main Quest", "The Lost Prophecy", "Nerevar at Red Mountain", "Azura's Prophecy", "The Seven Curses"]
+---
+
+## The Nameless Prisoner
+
+The **Nerevarine** is the title given to the prophesied reincarnation of **Indoranyon Nerevar** — the legendary warrior-king of the Chimer who united the Great Houses and the Ashlander tribes before perishing under controversial circumstances at the Battle of Red Mountain. In 3E 427, a nameless prisoner, incarcerated in the imperial dungeons of Cyrodiil, was released on the personal orders of **Emperor Uriel Septim VII** and sent to **Morrowind** with a secret mission: to fulfill — or become — the Nerevarine Prophecy.
+
+The Nerevarine's exact identity before their imprisonment is unknown. Race, gender, past — everything varies according to the accounts. What is constant is their status as a "prisoner" — a recurring theme among Tamriel's heroes, as if fate demanded that its instruments be broken first before they could be forged anew.
+
+## The Nerevarine Prophecy
+
+The **Nerevarine Prophecy** — or the Lost Prophecy — is a set of cryptic verses transmitted by **Azura**, the Daedric Princess of Dawn and Dusk. The prophecy announces Nerevar's return in a new form to avenge the betrayal against him, destroy the false gods of the **Tribunal**, and free Morrowind from the threat of **Dagoth Ur** and his Sixth Blight.
+
+The signs identifying the Nerevarine are numerous: they must be "born of a certain day under a certain star," "neither recognized nor named," "a stranger in Morrowind." These criteria were deliberately vague — dozens of claimants to the title had failed before the true Nerevarine was recognized. The **Tribunal Temple** had even created a specific bureau dedicated to refuting Nerevarine candidates.
+
+## The Trials of Recognition
+
+Before being recognized as the true Nerevarine, the prisoner had to fulfill a series of trials prescribed by the prophecy. They had to win the trust of the **Ashlander Tribes** — the nomadic Dunmer of the Ashlands who had preserved the memory of Nerevar in its purest form — and be recognized by their Wise Women and war khans.
+
+The process involved proving one's worth according to Ashlander traditions: survival in the wastelands, martial prowess, and above all visiting the **Caverns of the Incarnate** — the tombs of all the "failed Nerevarines" who had come before. The sight of these past failures underscored both the weight of the prophecy and the very real possibility of failure.
+
+## The Role of Caius Cosades
+
+Emperor **Uriel Septim VII** — who had received prophetic visions concerning the Nerevarine — orchestrated the prisoner's release and their dispatch to Morrowind via the port of **Seyda Neen**. There, they were taken in hand by **Caius Cosades**, a **Blades** agent disguised as an elderly sugar-addict, who ran the imperial intelligence network on Vvardenfell.
+
+Cosades guided the future Nerevarine's first steps, pointing them toward the necessary contacts while gathering intelligence on the prophecy and the growing threat of Dagoth Ur. This imperial patronage speaks to the rare convergence between the Empire's political interests and the prophetic forces of the universe.
+
+## The Confrontation with Dagoth Ur
+
+**Dagoth Ur** — once **Voryn Dagoth**, a Chimer lord betrayed by the future Tribunal — had awakened beneath Red Mountain, sustained by the **Heart of Lorkhan**. His growing power threatened all of Morrowind through the **Sixth Blight** — a supernatural disease transforming its victims into monsters devoted to his cause — and the construction of a second **Numidium**, Akulakhan.
+
+The Nerevarine, equipped with **Wraithguard**, **Sunder**, and **Keening** — the tools of **Kagrenac** — penetrated the heart of Red Mountain and destroyed the Heart of Lorkhan. This act annihilated Dagoth Ur, whose existence depended on the Heart, but simultaneously destroyed the source of the Tribunal's power, condemning **Vivec**, **Almalexia**, and **Sotha Sil** to mortality.
+
+## The Relationship with the Tribunal
+
+The Nerevarine's relationship with the **Tribunal** is complex. Theologically, they are its nemesis — Nerevar's revenge upon those who betrayed and killed him. In practice, **Vivec** himself helped fulfill the prophecy, providing Wraithguard and crucial information. This paradox — a god aiding the instrument of his own downfall — reflects the moral complexity of Vivec's character.
+
+After the destruction of the Heart, the loss of their divinity condemned the three members of the Tribunal to tragic fates: **Sotha Sil** was assassinated by Almalexia, **Almalexia** descended into madness and was herself destroyed, and **Vivec** mysteriously vanished — taken, according to some, by the **Daedra** in payment for his past crimes.
+
+## After the Prophecy
+
+After the fulfillment of the prophecy, the Nerevarine became a figure of immense political importance in Morrowind. Simultaneously recognized as Hortator (war chief) by the Great Houses and as Nerevarine by the Ashlander Tribes, they held a legitimacy no other individual in Morrowind could claim.
+
+Yet, according to later traditions, the Nerevarine left Morrowind after completing their mission — some say toward **Akavir**, others toward unknown destinations. Like other prophetic heroes, it seems fate had no further use for them once the prophecy was fulfilled.
+
+## The Prisoner as Archetype
+
+The Nerevarine perfectly illustrates the archetype of the "Prisoner" in Elder Scrolls metaphysics — a being whose fundamental nature is the absence of fixed destiny, which paradoxically allows them to fulfill any destiny. The Prisoner is free precisely because they are nothing: without a past, without an identity, without attachments, they can become anything — including the reincarnation of an ancient king.
+
+This metaphysical freedom is what distinguishes the Nerevarine from the dozens of claimants who failed before: they had an identity, a history, ties — all chains that prevented them from truly becoming Nerevar. The nameless prisoner, stripped of everything, could fill themselves entirely with the prophecy.

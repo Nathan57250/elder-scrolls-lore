@@ -1,0 +1,58 @@
+---
+title: "The Destruction of Kvatch"
+slug: "kvatch"
+era: "third-era"
+category: "evenements"
+tags: ["kvatch", "oblivion", "oblivion-gate", "mehrunes-dagon", "martin", "crisis"]
+timelineYear: 433
+summary: "The destruction of Kvatch by an Oblivion Gate was the first major manifestation of the Oblivion Crisis and the place where Martin Septim was discovered."
+sources: ["Oblivion Main Quest", "The Oblivion Crisis", "Kvatch Rebuilt"]
+---
+
+## The Jewel of Colovia
+
+**Kvatch** was one of the great cities of western **Cyrodiil**, perched on a hill in the Colovian highlands that dominated the valley of the Gold Road. A prosperous and proud city, it was renowned for its grand arena, its chapel of **Akatosh**, and its vineyards that produced some of the province's finest wines. **Count Goldwine** governed from the castle that crowned the hill, and the city counted several thousand inhabitants living in relative prosperity.
+
+Kvatch's geographic position — on a natural elevation surrounded by solid walls — made it an easily defensible city by conventional means. Its walls had repelled armies in the past, and its inhabitants felt secure behind their ancestral fortifications. But nothing in Tamriel's military experience had prepared them for what was about to come.
+
+Life in Kvatch followed a peaceful rhythm in this twilight of the Third Era. Merchants traded in the great square, priests officiated at the chapel, and fighters trained at the arena. No one suspected that their city was about to become the symbol of the greatest catastrophe of the modern age.
+
+## The Opening of the Gate
+
+In the night of the 27th to the 28th of Last Seed, 3E 433, a few hours after the assassination of Emperor **Uriel Septim VII** in the Imperial City, a massive **Oblivion Gate** opened before the walls of Kvatch. This gate — a dimensional portal linking **Nirn** to the plane of **Mehrunes Dagon** — was of unprecedented size: an arch of fire and darkness as tall as a tower, pouring blood-red light into the night sky.
+
+The opening of the Gate was instantaneous and without warning. One moment the plain before Kvatch was peaceful; the next, a tear in reality was pouring the armies of Oblivion onto the mortal world. **Dremora**, **Clannfears**, **Scamps**, and far worse creatures poured through by the thousands, their war cries echoing in the night like the trumpets of the apocalypse.
+
+The city guards were caught completely off guard. The sentinels on the walls saw the Gate open and sounded the alarm, but no procedure existed for facing a Daedric invasion. Within minutes, the first waves of attackers reached the walls, and the battle for Kvatch began in confusion and absolute terror.
+
+## The Battle and the Fall
+
+Kvatch's defense was heroic but desperate. The city guards, joined by hastily armed citizens, held the walls as long as possible. But the Dremora were no ordinary soldiers: they were immortal beings, thousand-year-old warriors for whom death was merely a temporary inconvenience. Every defender killed was an irreplaceable loss; every Dremora destroyed was reborn in the furnaces of Oblivion and returned to the fight.
+
+Kvatch's walls, designed to withstand battering rams and ladders, could do nothing against the Dremora's destructive magic. Balls of Daedric fire struck the fortifications with devastating precision, collapsing entire sections of ramparts. Flying creatures soared over the defenses to attack the city from within, sowing panic among the civilians trying to flee.
+
+The city's fall was swift and total. Within a few hours, Kvatch went from a prosperous city to a flaming charnel house. Buildings burned, streets were strewn with bodies, and survivors fled into the countryside or hid in cellars waiting for a death that seemed inevitable. The Count's castle fell last, its defenders fighting to the last man.
+
+## The Survivors and the Refugee Camp
+
+A fraction of the population managed to escape before the encirclement was complete. These survivors, traumatized and often wounded, gathered in a makeshift camp at the foot of the hill, under the precarious protection of a few surviving guards led by **Savlian Matius**, captain of Kvatch's guard.
+
+The refugee camp was a place of despair and terror. Survivors were haunted by what they had seen and lost. Families had been separated, orphaned children wept for their parents, and the wounded were dying for lack of adequate care. The field chapel, held by a few surviving priests, was the only point of light in this ocean of suffering.
+
+Among these survivors was a priest of Akatosh named **Martin**, an apparently ordinary man whom no one suspected to be the illegitimate son of the assassinated emperor. Martin had helped evacuate civilians during the attack, risking his life to save others. His courage and selflessness during that terrible night were the first signs of the greatness that would soon be revealed.
+
+## The Reconquest
+
+The arrival of the **Champion of Cyrodiil** at the refugee camp marked the turning point. Bearing the mission entrusted by the dying emperor, the Champion learned that Martin was still somewhere in the devastated city. To find him, it was first necessary to close the Oblivion Gate that continued to pour Daedric reinforcements onto Kvatch.
+
+The closing of the Kvatch Gate was the Champion's first feat during the Oblivion Crisis, and one of the most remarkable. Entering a Daedric dimension, surviving its horrors, finding and destroying the **Sigil Stone** that kept the portal open — all of this was the stuff of superhuman achievement. Yet the Champion succeeded, closing the Gate and cutting off the flow of Daedric reinforcements.
+
+The reconquest of the city itself followed, led by Savlian Matius and the surviving guards, supported by the Champion. Quarter by quarter, the residual Daedric forces were eliminated. The chapel, where the last civilians had barricaded themselves, was liberated. Martin was found alive among the chapel's refugees, and the Champion could finally reveal his true identity to him.
+
+## The Aftermath and the Memory
+
+Kvatch never fully recovered from its destruction. Although reconstruction efforts were undertaken in the following years, the city never regained its former population or prosperity. The scorched ruins and collapsed walls remained for a long time as a silent testament to the violence of the Oblivion Crisis.
+
+The destruction of Kvatch served as a warning for all of Tamriel. If a fortified and prosperous city could be annihilated in a few hours, no place was safe. The news spread like wildfire through the provinces, sowing panic and forcing the authorities to take the Daedric threat seriously. Militias were raised, fortifications reinforced, and the Mages Guilds were mobilized to study ways of closing the Gates.
+
+In collective memory, Kvatch became the symbol of the mortal world's vulnerability to the forces of Oblivion. Its name is invoked whenever the dangers of the Daedra are discussed, a reminder that the barrier between worlds is more fragile than one might believe, and that destruction can strike anywhere, at any time, without warning or mercy.

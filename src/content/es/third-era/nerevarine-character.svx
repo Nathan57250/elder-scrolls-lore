@@ -1,0 +1,58 @@
+---
+title: "El Nerevarine"
+slug: "nerevarine-character"
+era: "third-era"
+category: "personnages"
+tags: ["nerevarine", "morrowind", "nerevar", "profecia", "azura", "dagoth-ur", "tribunal", "prisionero"]
+timelineYear: 427
+summary: "El Nerevarine como personaje: el prisionero convertido en profeta reencarnado, libertador de Morrowind y destructor del Tribunal."
+sources: ["Morrowind Main Quest", "The Lost Prophecy", "Nerevar at Red Mountain", "Azura's Prophecy", "The Seven Curses"]
+---
+
+## El Prisionero sin Nombre
+
+El **Nerevarine** es el título otorgado a la reencarnación profetizada de **Indoranyon Nerevar** — el legendario rey guerrero de los Chimer que unió a las Grandes Casas y a las tribus Cendrinas antes de perecer en circunstancias controvertidas en la Batalla de la Montaña Roja. En 3E 427, un prisionero sin nombre, encarcelado en las mazmorras imperiales de Cyrodiil, fue liberado por orden personal del **Emperador Uriel Septim VII** y enviado a **Morrowind** con una misión secreta: cumplir — o convertirse en — la Profecía del Nerevarine.
+
+La identidad exacta del Nerevarine antes de su encarcelamiento es desconocida. Raza, género, pasado — todo varía según los relatos. Lo que es constante es su condición de "prisionero" — un tema recurrente entre los héroes de Tamriel, como si el destino exigiera que sus instrumentos fueran primero quebrados antes de poder ser forjados de nuevo.
+
+## La Profecía del Nerevarine
+
+La **Profecía del Nerevarine** — o Profecía Perdida — es un conjunto de versos crípticos transmitidos por **Azura**, la Princesa Daédrica del Amanecer y el Crepúsculo. La profecía anuncia el regreso de Nerevar bajo una nueva forma para vengar su traición, destruir a los dioses falsos del **Tribunal** y liberar Morrowind de la amenaza de **Dagoth Ur** y su Sexta Plaga.
+
+Las señales que identifican al Nerevarine son múltiples: debe ser "nacido en cierto día bajo cierta estrella", "ni reconocido ni nombrado", "un extraño en Morrowind". Estos criterios eran deliberadamente vagos — decenas de pretendientes al título habían fracasado antes de que el verdadero Nerevarine fuera reconocido. El **Templo del Tribunal** incluso había creado una oficina específica dedicada a refutar a los candidatos al Nerevarine.
+
+## Las Pruebas del Reconocimiento
+
+Antes de ser reconocido como el verdadero Nerevarine, el prisionero tuvo que superar una serie de pruebas prescritas por la profecía. Debía ganarse la confianza de las **Tribus Cendrinas** — los Dunmer nómadas de las Tierras de Ceniza que habían preservado la memoria de Nerevar en su forma más pura — y ser reconocido por sus mujeres sabias y sus khans de guerra.
+
+El proceso implicaba demostrar la propia valía según las tradiciones cendrinas: sobrevivir en las tierras desoladas, demostrar proezas marciales, y sobre todo visitar las **Cavernas de los Encarnados** — las tumbas de todos los "Nerevarines fallidos" que habían venido antes. La visión de esos fracasos pasados subrayaba tanto el peso de la profecía como la posibilidad muy real del fracaso.
+
+## El Papel de Caius Cosades
+
+El Emperador **Uriel Septim VII** — quien había recibido visiones proféticas sobre el Nerevarine — orquestó la liberación del prisionero y su envío a Morrowind a través del puerto de **Seyda Neen**. Allí, fue recibido por **Caius Cosades**, un agente de las **Hojas** disfrazado de anciano adicto al azúcar, que dirigía la red de inteligencia imperial en Vvardenfell.
+
+Cosades guió los primeros pasos del futuro Nerevarine, orientándole hacia los contactos necesarios mientras recababa información sobre la profecía y la creciente amenaza de Dagoth Ur. Este patrocinio imperial testimonia la rara convergencia entre los intereses políticos del Imperio y las fuerzas proféticas del universo.
+
+## La Confrontación con Dagoth Ur
+
+**Dagoth Ur** — antaño **Voryn Dagoth**, un señor chimer traicionado por el futuro Tribunal — había despertado bajo la Montaña Roja, alimentado por el **Corazón de Lorkhan**. Su creciente poder amenazaba toda Morrowind a través de la **Sexta Plaga** — una enfermedad sobrenatural que transformaba a sus víctimas en monstruos devotos a su causa — y con la construcción de un segundo **Numidium**, Akulakhan.
+
+El Nerevarine, equipado con **Wraithguard**, **Sunder** y **Keening** — las herramientas de **Kagrenac** — penetró en el corazón de la Montaña Roja y destruyó el Corazón de Lorkhan. Este acto anuló a Dagoth Ur, cuya existencia dependía del Corazón, pero destruyó simultáneamente la fuente de poder del Tribunal, condenando a **Vivec**, **Almalexia** y **Sotha Sil** a la mortalidad.
+
+## La Relación con el Tribunal
+
+La relación del Nerevarine con el **Tribunal** es compleja. Teológicamente, es su némesis — la venganza de Nerevar sobre quienes le traicionaron y mataron. En la práctica, el propio **Vivec** le ayudó a cumplir la profecía, proporcionándole Wraithguard e información crucial. Esta paradoja — un dios ayudando al instrumento de su propia caída — refleja la complejidad moral del personaje de Vivec.
+
+Tras la destrucción del Corazón, la pérdida de su divinidad condenó a los tres miembros del Tribunal a destinos trágicos: **Sotha Sil** fue asesinado por Almalexia, **Almalexia** cayó en la locura y fue ella misma destruida, y **Vivec** desapareció misteriosamente — llevado, según algunos, por los **Daedra** como pago por sus crímenes pasados.
+
+## Después de la Profecía
+
+Tras el cumplimiento de la profecía, el Nerevarine se convirtió en una figura de inmensa importancia política en Morrowind. Reconocido simultáneamente como Hortator (jefe de guerra) por las Grandes Casas y como Nerevarine por las Tribus Cendrinas, poseía una legitimidad que ningún otro individuo en Morrowind podía reclamar.
+
+Sin embargo, según las tradiciones posteriores, el Nerevarine abandonó Morrowind tras cumplir su misión — algunos dicen que hacia **Akavir**, otros hacia destinos desconocidos. Como otros héroes proféticos, parece que el destino ya no tenía más uso para él una vez cumplida la profecía.
+
+## El Prisionero como Arquetipo
+
+El Nerevarine ilustra a la perfección el arquetipo del "Prisionero" en la metafísica de los Elder Scrolls — un ser cuya naturaleza fundamental es la ausencia de destino fijo, lo que paradójicamente le permite cumplir cualquier destino. El Prisionero es libre precisamente porque no es nada: sin pasado, sin identidad, sin ataduras, puede convertirse en cualquier cosa — incluso en la reencarnación de un antiguo rey.
+
+Esta libertad metafísica es lo que distingue al Nerevarine de las decenas de pretendientes que fracasaron antes que él: tenían una identidad, una historia, vínculos — otras tantas cadenas que les impedían convertirse verdaderamente en Nerevar. El prisionero sin nombre, despojado de todo, podía llenarse por completo de la profecía.

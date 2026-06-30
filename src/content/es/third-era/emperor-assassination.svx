@@ -1,0 +1,56 @@
+---
+title: "El Asesinato de Uriel Septim VII"
+slug: "emperor-assassination"
+era: "third-era"
+category: "evenements"
+tags: ["uriel-septim", "asesinato", "aurora-mitica", "profecia", "martin", "oblivion"]
+timelineYear: 433
+summary: "El asesinato del Emperador Uriel Septim VII por parte del Aurora Mítica marcó el inicio de la Crisis de Oblivion y reveló la existencia de su hijo ilegítimo Martin."
+sources: ["Oblivion Main Quest", "The Oblivion Crisis", "Brief History of the Empire"]
+---
+
+## Las Últimas Horas de un Emperador
+
+El 27 del Último Mes del año 3E 433, el Emperador **Uriel Septim VII** fue asesinado en los pasadizos secretos bajo la **Ciudad Imperial**, poniendo fin a una dinastía que había gobernado **Tamriel** durante más de cuatro siglos. Este asesinato, perpetrado por agentes del **Aurora Mítica**, un culto daédrico dedicado a **Mehrunes Dagon**, no fue simplemente la muerte de un hombre sino la extinción de un linaje divino y el inicio de una crisis existencial para todo el continente.
+
+Uriel Septim VII había reinado durante sesenta y cinco años, uno de los reinados más largos de la historia imperial. A pesar de sus pruebas — el **Simulacrum Imperial** orquestado por **Jagar Tharn**, las constantes intrigas políticas y las amenazas exteriores —, el anciano emperador había mantenido el Imperio unido y relativamente estable. Pero en sus últimos años, visiones proféticas le habían revelado que su fin se acercaba, y que ese fin sería el preludio de una catástrofe mucho mayor.
+
+El emperador había presentido su muerte pero no la había huido. Los informes de los supervivientes indican que caminó hacia su destino con una serenidad que dejó atónitos a sus guardias y asesinos. Sus últimos actos fueron deliberados: confiar el **Amuleto de los Reyes** a un prisionero desconocido, un gesto aparentemente absurdo que resultó ser la decisión que salvó el mundo.
+
+## El Aurora Mítica y la Conspiración
+
+El **Aurora Mítica** era un culto dedicado a **Mehrunes Dagon**, el Príncipe Daédrico de la destrucción y el cambio radical. Dirigido por **Mankar Camoran**, un Altmer (o Bosmer según las fuentes) que se autoproclamaba descendiente del linaje Camoran de Valenwood, el culto había infiltrado la sociedad imperial durante décadas, preparando la apertura de las **Puertas de Oblivion** y la invasión de Tamriel por las hordas daédricas.
+
+El plan del Aurora Mítica tenía una lógica aterradora. El linaje de los Septim estaba ligado a los **Fuegos del Dragón** mediante el Amuleto de los Reyes. Mientras viviera un Septim y los Fuegos ardieran, las barreras entre **Oblivion** y **Mundus** se mantenían sólidas, impidiendo cualquier invasión daédrica a gran escala. Para abrir el camino a Mehrunes Dagon, era necesario apagar los Fuegos eliminando a todos los portadores de sangre Septim.
+
+El asesinato del emperador y sus tres hijos reconocidos fue coordinado con precisión militar. Los príncipes herederos fueron asesinados en sus respectivas residencias, probablemente en las horas anteriores o posteriores al asesinato de su padre. En una sola noche, el linaje Septim fue dado por extinto, y los Fuegos del Dragón se apagaron por primera vez en cuatro siglos.
+
+## Las Últimas Palabras y la Profecía
+
+Las últimas palabras de Uriel Septim VII, pronunciadas ante un prisionero sin nombre en los túneles bajo la prisión imperial, figuran entre las más citadas de la historia tamriélica. El emperador habló de sueños, de destino, y de estrellas que se alineaban para un momento de transformación cósmica. Afirmó que su muerte no era un final sino el inicio de un capítulo escrito hacía mucho tiempo.
+
+Al confiar el Amuleto de los Reyes al prisionero, Uriel Septim realizaba un acto profético consciente. Sabía, por sus visiones, que ese prisionero desempeñaría un papel crucial en los eventos venideros. Esta presciencia, ya fuera de origen divino o simplemente fruto de una intuición agudizada por décadas de poder, resultó ser perfectamente exacta.
+
+El emperador también reveló la existencia de un hijo ilegítimo, **Martin**, un sacerdote de **Akatosh** que vivía de incógnito en la capilla de **Kvatch**. Esta revelación, hecha en sus últimos instantes de vida, fue el testamento político de Uriel Septim: un plan de sucesión secreto, preparado para una eventualidad que había temido durante largo tiempo. Martin era la póliza de seguro del Imperio, la última esperanza de un linaje que sus enemigos creían haber erradicado.
+
+## El Prisionero y la Misión
+
+El prisionero al que Uriel Septim confió el Amuleto de los Reyes se convirtió en el **Campeón de Cyrodiil**, uno de los más grandes héroes de la historia de Tamriel. Su identidad, raza y pasado permanecen misteriosos — las crónicas no se ponen de acuerdo sobre estos detalles — pero sus acciones cambiaron el curso de la historia. Portador del Amuleto, se convirtió en el nexo entre el mundo antiguo y el nuevo, el mensajero que conectaría a Martin con su herencia.
+
+La misión era clara: llevar el Amuleto de los Reyes a **Jauffre**, Gran Maestre de las **Hojas**, en el **Priorato de Weynon**, y luego encontrar a Martin antes de que lo hiciera el Aurora Mítica. Cada hora contaba, pues las puertas de Oblivion ya comenzaban a abrirse por todo Cyrodiil, y sin un Septim para volver a encender los Fuegos del Dragón, nada podría detener la invasión.
+
+El viaje del prisionero, desde la prisión imperial hasta las llamas de Kvatch y luego hasta los salones del **Templo del Único**, constituye una de las búsquedas más desesperadas e importantes de la Tercera Era. Cada etapa fue una carrera contra el tiempo, cada victoria un respiro temporal en un mundo que se desintegraba bajo los embates de Mehrunes Dagon.
+
+## La Importancia Histórica
+
+El asesinato de Uriel Septim VII no fue simplemente el asesinato de un dirigente político. Fue la ruptura de un pacto cósmico, el quiebre de una barrera metafísica que protegía el mundo mortal desde la fundación del Imperio por **Tiber Septim**. Al matar al último emperador reconocido, el Aurora Mítica no solo cambiaba el paisaje político: alteraba las leyes fundamentales que gobernaban la relación entre Mundus y Oblivion.
+
+La **Crisis de Oblivion** que siguió fue la consecuencia directa y previsible de este acto. Las puertas daédricas se abrieron en todas las provincias, derramando Dremora y otras criaturas horrorosas sobre un continente desprevenido. Miles de civiles murieron, ciudades fueron destruidas, y durante un momento pareció que todo Tamriel sería desbordado por las fuerzas de la destrucción.
+
+Solo gracias al sacrificio de **Martin Septim**, el hijo ilegítimo revelado en los últimos instantes de Uriel, la crisis fue resuelta. Martin destruyó el Amuleto de los Reyes, invocando el avatar del propio **Akatosh** para repeler a Mehrunes Dagon en las calles de la Ciudad Imperial. Pero este triunfo le costó al mundo su último linaje imperial divino, y la era que siguió — la **Cuarta Era** — comenzó sin emperador y sin la protección de los Fuegos del Dragón.
+
+## El Legado en la Memoria
+
+La memoria de Uriel Septim VII es la de un hombre que conoció su destino y lo aceptó con dignidad. Sus últimas palabras, impregnadas de sabiduría y resignación, son estudiadas en los templos de Akatosh como ejemplo de sumisión digna a la voluntad divina. El anciano emperador, a pesar de sus imperfecciones y fracasos pasados, redimió una vida entera en la dignidad de su muerte.
+
+El lugar de su asesinato, en los túneles bajo la Ciudad Imperial, se convirtió en un lugar de peregrinación informal. Los ciudadanos imperiales dejaban allí flores y oraciones, honrando al último emperador de una era pasada. Para el pueblo de Cyrodiil, la muerte de Uriel Septim marcaba el fin de una época de relativa seguridad y el inicio de un futuro incierto, sin la protección del linaje dragonado.
