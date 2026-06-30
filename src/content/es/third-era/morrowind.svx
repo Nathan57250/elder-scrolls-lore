@@ -1,0 +1,87 @@
+---
+title: "Morrowind — Tierra de los Dunmer"
+slug: "morrowind"
+era: "third-era"
+category: "lieux"
+tags: ["morrowind", "dunmer", "gran-casa", "tribunal", "montana-roja", "ashlands"]
+timelineYear: 400
+summary: "La provincia de Morrowind, tierra ancestral de los Dunmer: sus Grandes Casas, sus hostiles paisajes de ceniza y hongos gigantes, y su turbulenta historia."
+sources: ["UESP: Morrowind", "Pocket Guide to the Empire, 3rd Edition", "The Imperial Library: Great Houses"]
+---
+
+## Geografía
+
+Morrowind es la provincia noreste de Tamriel, dominada por la **Montaña Roja** (Red Mountain) — un volcán activo en el centro de la isla de Vvardenfell. La provincia se divide en regiones distintas:
+
+### Vvardenfell
+La isla volcánica central, escenario de los eventos de TES III:
+- **Ashlands** — llanuras de ceniza azotadas por tormentas
+- **Costa Amarga** — marismas costeras, hongos gigantes
+- **West Gash** — colinas verdes ondulantes
+- **Islas Ascadianas** — tierras fértiles, agricultura
+- **Molag Amur** — meseta volcánica hostil
+- **Sheogorad** — archipiélago al norte
+
+### Continente
+- **Resdayn** — el corazón histórico
+- **Deshaan** — llanuras al sur
+- **Stonefalls** — costa volcánica occidental
+- **Eastmarch** — frontera con Bordeciel
+
+## Las Grandes Casas
+
+La sociedad Dunmer se organiza en **Grandes Casas** — clanes político-familiares que gobiernan la provincia:
+
+| Casa | Especialidad | Territorio | Filosofía |
+|------|-------------|-----------|----------|
+| Hlaalu | Comercio, diplomacia | Oeste | Pragmatismo, pro-Imperio |
+| Redoran | Honor, guerra | Noroeste | Deber, disciplina |
+| Telvanni | Magia, individualismo | Este | Poder personal, aislamiento |
+| Indoril | Religión, tradición | Centro | Piedad, conservadurismo |
+| Dres | Esclavitud, agricultura | Sureste | Tradición, xenofobia |
+| Dagoth | (Extinta/resucitada) | Montaña Roja | — |
+
+### Casa Hlaalu
+Pragmáticos y oportunistas, los Hlaalu fueron los aliados más cercanos del Imperio. Tras el Año Rojo y el abandono imperial, fueron **despojados** de su estatus de Gran Casa — reemplazados por la Casa Sadras.
+
+### Casa Telvanni
+Los señores-magos Telvanni viven en inmensas **torres de hongos** que cultivan mediante magia. Radicalmente individualistas, no reconocen más ley que el poder personal. Sus torres solo son accesibles por levitación — un filtro deliberado.
+
+### Casa Redoran
+Guerreros de honor y protectores de Morrowind. Tras el Año Rojo, asumieron el liderazgo de la provincia, defendiendo a los Dunmer de la invasión argoniana.
+
+## Religión
+
+### El Tribunal (antes de 3E 427)
+Durante milenios, los Dunmer veneraron a tres dioses vivientes:
+- **Vivec** — guerrero-poeta, dualidad, paradoja
+- **Almalexia** — reina-madre, curación, compasión
+- **Sotha Sil** — misterio, invención, mecánica
+
+Su poder provenía del **Corazón de Lorkhan**, canalizado a través de las Herramientas de Kagrenac. Cuando el Nerevarine destruyó esa fuente, el Tribunal perdió sus poderes divinos.
+
+### La Reconciliación
+Tras la caída del Tribunal, los Dunmer regresaron a los **Buenos Daedra**:
+- **Azura** — alba y crepúsculo, profecía
+- **Boethiah** — conspiración, competencia
+- **Mephala** — misterio, asesinato
+
+Y los **Cuatro Rincones de la Casa de los Problemas** (los Daedra "malvados" a los que temer).
+
+## El Año Rojo y sus Consecuencias
+
+En 4E 5, la Montaña Roja **hizo erupción**, devastando Vvardenfell y gran parte del continente. Unos años después, los **Argonianos** invadieron el sur de Morrowind — una venganza histórica por siglos de esclavitud.
+
+La diáspora Dunmer se extendió por todo Tamriel:
+- **Roca del Cuervo** (Solstheim) — colonia bajo protección Redoran
+- **El Barrio Gris** de Windhelm — el gueto dunmer en Bordeciel
+- **Refugiados** dispersos por Cyrodiil y Alta Roca
+
+## Cultura
+
+Los Dunmer son un pueblo resiliente marcado por:
+- La **veneración de los ancestros** — comunicación con los espíritus familiares
+- El **dualismo** — el sufrimiento forja la fuerza
+- La **esclavitud** (abolida en 3E 427) — antes practicada sobre argonianos y khajiit
+- La **arquitectura orgánica** — hongos, conchas, insectos gigantes (silt striders)
+- El **netch** y el **guar** como animales de carga

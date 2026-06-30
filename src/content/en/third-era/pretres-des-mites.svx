@@ -1,0 +1,75 @@
+---
+title: "The Moth Priests and Divination"
+slug: "pretres-des-mites"
+era: "third-era"
+category: "propheties"
+tags: ["moth-priests", "elder-scrolls", "prophecy", "ancestor-moth", "divination", "empire"]
+timelineYear: 200
+summary: "The monastic order of the Moth Priests, keepers of the Elder Scrolls, and the nature of prophecy in the Elder Scrolls universe."
+sources: ["UESP: Moth Priest", "The Imperial Library: Elder Scrolls", "TES V: Dawnguard — Dexion Evicus"]
+---
+
+# The Moth Priests and Divination
+
+The **Moth Priests** are an imperial monastic order dedicated to reading and interpreting the **Elder Scrolls**. Based in the **Imperial Library** of the Imperial City, they represent the highest authority on prophetic divination in the **Empire**. Their order is inseparable from the very understanding of what "prophecy" means in the world of Tamriel.
+
+## The Ancestor Moth Ritual
+
+### Preparation
+
+Reading an Elder Scroll is no trivial act. Moth Priests develop their reading ability through the ritual of the **Ancestor Moth** — a mystical communion with the ancestor moths that inhabit the caverns beneath the Imperial City.
+
+These moths are not ordinary insects: they are bound to the Tapestry of fate itself. By meditating among them, priests learn to perceive the patterns woven into reality — the threads of the past, the present, and possible futures.
+
+### The Stages of Initiation
+
+- **Novitiate**: years of study of ancient texts and meditation among the moths
+- **Communion**: the priest learns to "read" the patterns formed by swarms of moths
+- **First Reading**: the priest attempts to decipher a fragment of a Scroll under supervision
+- **Mastery**: full reading ability — at the cost of progressive deterioration of sight
+
+## The Price of Knowledge
+
+### Progressive Blindness
+
+Each reading of an Elder Scroll irreversibly deteriorates the reader's sight. Experienced priests gradually go blind — a sacrifice accepted as the price of communion with artifacts that transcend mortality.
+
+> *Eyes that have seen eternity can no longer bear the light of the everyday.*
+
+The most ancient Moth Priests are completely blind, but paradoxically "see" more clearly than anyone the prophetic currents flowing through the Aurbis.
+
+### Madness
+
+Worse than blindness, some priests descend into madness after readings that are too frequent or too deep. **Septimus Signus** illustrates this danger: his genius allowed him to decipher unheard-of secrets, but at the cost of his sanity.
+
+## The Nature of Prophecy in Tamriel
+
+### Determinism and Free Will
+
+The Elder Scrolls pose a fundamental question: is the future written? Moth Priests teach a nuanced position — the Scrolls show **probable convergences**, not absolute certainties. The future exists as possibilities that progressively crystallize.
+
+### Dragon Breaks
+
+**Dragon Breaks** — temporal ruptures where the linearity of time collapses — represent the ultimate limits of prophecy. During a Dragon Break, the Scrolls become unreadable, because all possible futures exist simultaneously. The most famous example is the **Warp in the West** (Distortion of the West), where six contradictory endings all occurred at the same time.
+
+### Prophecy vs. Divine Will
+
+A crucial distinction separates Tamrielic prophecy from simple prediction: major prophecies appear to emanate from **Akatosh** himself, the God of Time. They do not "predict" the future — they *shape* it. The Scroll is not a passive mirror but an active tool in the divine mechanics of the world.
+
+## Political Role
+
+### Imperial Advisors
+
+Moth Priests serve as prophetic advisors to the Emperors. **Uriel Septim VII** relied on their visions to make crucial decisions — it was partly through them that he sent the future **Nerevarine** to Morrowind and identified the future **Champion of Cyrodiil**.
+
+### Keepers of the Scrolls
+
+The Empire holds an indeterminate number of Elder Scrolls in the Imperial Library. The Priests are their guardians as much as their readers — protecting these artifacts against theft and misuse.
+
+### Decline in the Fourth Era
+
+Following the **Oblivion Crisis** and the fall of the **Septim** dynasty, the order suffered a decline. In 4E 201, the vampire **Harkon** of the **Volkihar** clan abducted the Moth Priest **Dexion Evicus** to have him read a Scroll revealing the Prophecy of the Tyranny of the Sun — illustrating the vulnerability of the weakened order.
+
+## Legacy
+
+The order of the Moth Priests embodies the central paradox of knowledge in the Elder Scrolls universe: the closer one approaches ultimate truth, the greater the personal price. Their very existence proves that the future can be glimpsed — but never without consequences.

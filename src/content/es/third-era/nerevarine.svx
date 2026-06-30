@@ -1,0 +1,105 @@
+---
+title: "El Nerevarine"
+slug: "nerevarine"
+era: "third-era"
+category: "personnages"
+tags: ["nerevarine", "nerevar", "morrowind", "profecia", "dagoth-ur", "corazon-lorkhan", "tribunal", "azura"]
+timelineYear: 427
+summary: "La reencarnación profetizada de Nerevar Indoril, el Nerevarine cumplió las Siete Visiones y las Siete Gracias para derrotar a Dagoth Ur y liberar Morrowind de su maldición."
+sources: ["UESP: Nerevarine", "The Lost Prophecy", "Events of TES III: Morrowind", "Erta Ashlander Prophecies"]
+---
+
+## La Profecía del Nerevarine
+
+Desde la trágica muerte del general **Nerevar Indoril** en la Batalla de la Montaña Roja, los Cendrinos de Morrowind susurraban una antigua promesa: Nerevar volvería. No como un espectro, sino reencarnado en un nuevo cuerpo — un extraño venido del oeste, nacido bajo cierta estrella, que uniría a las tribus y a las Grandes Casas para enfrentarse al mal bajo la Montaña.
+
+Esta profecía, conocida como la **Profecía del Nerevarine**, quedó registrada en los textos sagrados de los Cendrinos y era secretamente temida por el **Tribunal** — pues su cumplimiento significaba el fin de su usurpado reinado divino.
+
+### Las Siete Visiones
+
+Las condiciones para identificar al Nerevarine eran precisas:
+
+| Visión | Condición |
+|--------|-----------|
+| Primera | Nacido bajo cierta estrella, en un día incierto |
+| Segunda | Ni Dunmer nativo ni verdadero extranjero |
+| Tercera | Llegado a Morrowind sin pasado ni futuro |
+| Cuarta | Inmune a la Enfermedad del Corprus |
+| Quinta | Reconocido por las Sabias Cendrinas |
+| Sexta | Reconocido por las Grandes Casas |
+| Séptima | Portador del anillo Luna-y-Estrella de Azura |
+
+## La Llegada a Morrowind
+
+En **3E 427**, un prisionero anónimo fue liberado de las mazmorras imperiales y enviado a **Seyda Neen** en la isla de Vvardenfell, por orden directa del Emperador **Uriel Septim VII**. Este prisionero — cuya raza, género y pasado permanecen deliberadamente indeterminados en las crónicas — llevaba en su interior la semilla de la profecía sin saberlo.
+
+Reclutado por las **Hojas** bajo las órdenes de Caius Cosades, el futuro Nerevarine comenzó como simple agente imperial antes de descubrir su verdadero destino.
+
+### Las Pruebas del Camino
+
+El camino hacia el reconocimiento como Nerevarine exigía:
+
+- **Ganarse la confianza de las cuatro tribus Cendrinas** — los Urshilaku, Ahemmusa, Zainab y Erabenimsun
+- **Ser reconocido como Hortator** por las tres Grandes Casas presentes en Vvardenfell — Hlaalu, Redoran y Telvanni
+- **Sobrevivir a la Enfermedad del Corprus** — una prueba mortal de la que nadie había salido con vida
+
+## La Cura Imposible
+
+La Enfermedad del Corprus, una plaga divina propagada por Dagoth Ur, era considerada incurable. Sin embargo, el hechicero **Divayth Fyr**, de cuatro mil años de antigüedad, logró curar al Nerevarine mediante un artefacto Dwemer. Esta curación constituyó la prueba definitiva: el Nerevarine conservaba la inmortalidad conferida por el Corprus sin sufrir su locura ni su deformación.
+
+Este milagro convenció a los últimos escépticos entre los Cendrinos.
+
+## La Caída del Tribunal
+
+Antes de enfrentarse a Dagoth Ur, el Nerevarine tuvo que obtener las **Herramientas de Kagrenac** — Wraithguard, Sunder y Keening — utilizadas en su día por el Tribunal para extraer el poder del Corazón de Lorkhan. **Vivec**, el último miembro lúcido del Tribunal, entregó Wraithguard al Nerevarine, reconociendo implícitamente la legitimidad de la profecía y el fin de su propio reinado.
+
+Este gesto marcó la caída simbólica del Tribunal: los dioses falsos cedían el paso al verdadero héroe.
+
+## La Destrucción del Corazón de Lorkhan
+
+Armado con las tres Herramientas, el Nerevarine descendió a las profundidades de la **Montaña Roja** y alcanzó la cámara del Corazón de Lorkhan. Allí se enfrentó a Dagoth Ur en un combate a la vez físico y metafísico.
+
+La estrategia no era matar a Dagoth Ur — que era inmortal mientras existiera el Corazón — sino **destruir el Corazón en sí**:
+
+1. Golpear el Corazón con **Sunder** para liberar su energía
+2. Usar **Keening** para dispersar esa energía
+3. Todo ello protegido por **Wraithguard** frente a las fuerzas divinas
+
+Con el Corazón destruido, Dagoth Ur perdió su divinidad y se derrumbó. Akulakhan, su gigantesco autómata, se hundió en la lava. La Montaña Roja tembló pero no se derrumbó — todavía no.
+
+## Las Consecuencias
+
+La destrucción del Corazón de Lorkhan tuvo repercusiones cósmicas:
+
+- **El Tribunal** perdió definitivamente su fuente de poder divino, volviéndose mortal
+- **El Ghostfence** — la barrera mágica sostenida por el Tribunal — comenzó a debilitarse
+- **La Sexta Casa** se derrumbó, sus servidores liberados del sueño de Dagoth Ur
+- **Los Cendrinos** vieron su antigua fe validada tras milenios de persecución
+
+### La Desaparición
+
+Tras sus hazañas, el Nerevarine desapareció de las crónicas oficiales. Según algunas fuentes, viajó hacia **Akavir**, el misterioso continente al este de Tamriel. Otros afirman que aún vaga, inmortal gracias al Corprus curado, esperando el día en que Morrowind vuelva a necesitarle.
+
+> *"No fue ni rey ni dios. Fue el cuchillo que cortó los hilos del destino — y desapareció en el corte."*
+> — Palabras atribuidas a Nibani Maesa, sabia de los Urshilaku
+
+## La Cascada — Lo Que el Nerevarine Desencadenó
+
+El cumplimiento de la profecía tuvo efectos en cadena durante los siglos siguientes:
+
+```
+Nerevarine destruye el Corazón de Lorkhan (3E 427)
+  → El Tribunal pierde su poder divino
+    → Vivec desaparece → Baar Dau ya no está sostenido
+    → Almalexia cae en la locura → mata a Sotha Sil → es matada por el Nerevarine
+  → El Ghostfence colapsa (pero Dagoth Ur ya está muerto)
+  → El Ingenio es creado para retener Baar Dau (temporal)
+  → Crisis de Oblivion (3E 433) → Caos → Ingenio inestable
+  → Baar Dau cae → AÑO ROJO (4E 5)
+    → Morrowind devastada
+    → Invasión argoniana
+    → Diáspora Dunmer (Barrio Gris, Solstheim)
+    → Regreso al culto de las Reclamaciones (Azura, Boethiah, Mephala)
+```
+
+El Nerevarine liberó a Morrowind de Dagoth Ur — pero al destruir el Corazón, también retiró el fundamento del poder que mantenía a Baar Dau en levitación. La liberación y la futura destrucción eran inseparables. Quizás esto es lo que Azura había planeado desde el principio — no una simple venganza, sino un **reinicio completo** de la sociedad Dunmer: el fin del Tribunal, el fin de la arrogancia, un retorno forzado a la humildad y a la verdadera fe.

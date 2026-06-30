@@ -1,0 +1,85 @@
+---
+title: "Jagar Tharn — The Usurper"
+slug: "jagar-tharn"
+era: "third-era"
+category: "personnages"
+tags: ["jagar-tharn", "simulacrum", "usurper", "uriel-septim", "staff-of-chaos", "eternal-champion", "illusion"]
+timelineYear: 389
+summary: "Biography of the imperial mage Jagar Tharn: his coup against Uriel Septim VII, the ten years of the Imperial Simulacrum, and his defeat at the hands of the Eternal Champion."
+sources: ["UESP: Jagar Tharn", "The Imperial Library: Imperial Simulacrum", "TES I: Arena"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# Jagar Tharn — The Usurper
+
+**Jagar Tharn** is the imperial mage who usurped the throne of **Tamriel** for ten years (3E 389 — 3E 399) by imprisoning the Emperor **Uriel Septim VII** in a dimension of Oblivion and taking his place through unparalleled illusion magic. The **Imperial Simulacrum** he orchestrated remains one of the greatest political crimes in the history of the Empire.
+
+## Rise to Power
+
+### Origins
+
+Jagar Tharn was born with exceptional talent for **illusion** and **alteration** magic. The details of his youth are obscure — some sources connect him to the **Tharn** lineage of Cyrodiil, a noble family known for its participation in imperial power since the Second Era (the infamous **Abnur Tharn** of the Council of the Five Companions shared this surname).
+
+### Imperial Battlemage
+
+Tharn climbed the ranks of the imperial court to the position of **Imperial Battlemage** — the highest magical rank in the Empire and direct advisor to the Emperor. This post gave him unlimited access to the crown's secrets and to artifacts of considerable power.
+
+## The Coup
+
+### The Scheme
+
+<CausalChain items={[
+  { text: "Tharn acquires the Staff of Chaos — an artifact of immense power" },
+  { text: "He shatters the Staff into eight fragments and scatters them across Tamriel", indent: 1 },
+  { text: "He imprisons Uriel Septim VII in a dimension of Oblivion", indent: 1 },
+  { text: "He assumes the Emperor's exact appearance through illusion magic", indent: 2 },
+  { text: "Ten years of impostor rule — the Imperial Simulacrum (3E 389-399)", indent: 2 }
+]} />
+
+The scattering of the **Staff of Chaos** was a security measure: as long as the Staff remained fragmented, no one could use it to shatter the illusion or free the true Emperor.
+
+### The Perfection of the Illusion
+
+Tharn's magical feat is staggering: for **ten years**, he perfectly imitated Uriel Septim VII — his voice, his mannerisms, his apparent memories, his governing style. Neither the court, the **Elder Council**, nor the **Blades** (the Emperor's personal guard) detected the substitution.
+
+This raises troubling questions about the nature of imperial power: if an impostor can rule for ten years without anyone noticing, what does the Emperor's legitimacy truly mean?
+
+## The Reign of the Simulacrum
+
+### Governance
+
+Contrary to what one might expect from a usurper, Tharn did not govern catastrophically. The Empire did not collapse under his rule — the provinces continued to function, the Legions remained in place. Tharn was intelligent enough to maintain the appearance of normalcy.
+
+However, tensions accumulated:
+- Minor wars between provinces were ignored or mismanaged
+- The Empire's magical defenses were neglected
+- Imperial resources were diverted toward personal occult projects
+- The latent political instability that would culminate in future events began to ferment
+
+### The Victims
+
+**Ria Silmane**, Tharn's apprentice and the only person to discover the truth, was murdered. But her spirit refused to vanish — she contacted an anonymous prisoner from beyond the grave to guide them toward the fragments of the Staff of Chaos.
+
+## The Fall
+
+### The Eternal Champion
+
+A prisoner in the imperial dungeons — contacted in dreams by the spirit of **Ria Silmane** — undertook a journey of several years across the nine provinces of Tamriel to find the eight fragments of the Staff of Chaos.
+
+This **Eternal Champion** faced countless dangers in each province, reconstituted the Staff, and finally confronted Jagar Tharn in the depths of the **Imperial Palace**. The battle was terrible — Tharn deployed his full power — but the reconstituted Staff of Chaos shattered his illusion and destroyed him.
+
+### The Liberation of Uriel Septim VII
+
+Uriel Septim VII was freed from his dimensional prison after ten years of captivity. The Emperor returned changed — more suspicious, more acutely aware of the fragility of power, and haunted by prophetic visions that would guide his decisions for the thirty-four remaining years of his reign, until his assassination by the **Mythic Dawn** in 3E 433.
+
+## Legacy
+
+The Imperial Simulacrum demonstrated three uncomfortable truths:
+1. Imperial power rests more on **appearance** than on substance
+2. The institutions of oversight (Blades, Council) are fallible against sufficiently powerful magic
+3. The "stability" of the Empire can mask a deep underlying rot
+
+Tharn was a malevolent genius — but a genius nonetheless. His ability to deceive the entire world for a decade remains without equal in the annals of Tamrielic magic.

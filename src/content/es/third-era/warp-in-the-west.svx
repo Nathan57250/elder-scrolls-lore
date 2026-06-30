@@ -1,0 +1,146 @@
+---
+title: "El Giro del Oeste"
+slug: "warp-in-the-west"
+era: "third-era"
+category: "evenements"
+tags: ["giro-del-oeste", "daggerfall", "ruptura-del-dragon", "numidium", "high-rock", "hammerfell", "tiber-septim", "mantella"]
+timelineYear: 417
+summary: "La Ruptura del Dragón ocurrida en 3E 417 en la Bahía de Iliac, donde todos los posibles desenlaces del conflicto por el control del Numidium ocurrieron simultáneamente, remodelando la geografía política de High Rock y Hammerfell."
+sources: ["UESP: The Warp in the West", "The Daggerfall Chronicles", "Where Were You When the Dragon Broke?", "Events of TES II: Daggerfall"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Orígenes — Lo Que Llevó a Este Evento
+
+**¿Qué causó el Giro del Oeste?**
+
+La Ruptura del Dragón de 3E 417 es el resultado de una convergencia de factores que hacía inevitable una paradoja temporal:
+
+1. **El Tótem de Tiber Septim**: El único artefacto capaz de controlar el Numidium, fue redescubierto en la Bahía de Iliac tras siglos de olvido. Su reaparición desencadenó una carrera por el poder entre siete facciones irreconciliables.
+
+2. **El Numidium**: El autómata divino de los Dwemer, reconstruido por Tiber Septim, es un artefacto cuya propia naturaleza *niega la realidad*. Cada activación provoca una fractura en el tiempo — está inscrito en su naturaleza ontológica como un "NO" metafísico.
+
+3. **La Mantella**: La gema de alma que contenía la esencia de Zurin Arctus/Wulfharth alimentaba el Numidium. Su poder combinado con el del Tótem creaba las condiciones para una paradoja total.
+
+4. **Siete Facciones Incompatibles**: El Imperio, Daggerfall, Wayrest, Sentinel, Orsinium, Mannimarco y el Rey Inferior — cada uno con un objetivo mutuamente excluyente. Cuando el agente de las Hojas activó el Numidium, la realidad no podía "elegir" un único ganador.
+
+5. **La Incapacidad de Akatosh para Mantener una Línea Temporal**: Ante el Numidium (que niega el tiempo) activado en un contexto de paradoja absoluta (siete resultados mutuamente excluyentes), el propio Dragón del Tiempo se rompió.
+
+**¿Qué causó el Giro?**
+
+- **High Rock unificado**: De cuarenta y cuatro reinos fragmentados a cuatro naciones estables
+- **Orsinium reconocido**: Por primera vez, los Orcos obtuvieron una legitimidad política permanente
+- **Estabilidad política**: Fin de las guerras perpetuas de la Bahía de Iliac
+- **Daño temporal**: La memoria colectiva permanece fragmentada; los testimonios se contradicen
+- **Mannimarco divinizado**: Creación de un dios nigromante cuya influencia persiste en eras posteriores
+- **Precedente peligroso**: Prueba de que el Numidium puede reescribir la realidad a voluntad
+
+## Contexto — El Tótem de Tiber Septim
+
+En **3E 401**, el Emperador **Uriel Septim VII** envió un agente de las Hojas a la región de la **Bahía de Iliac**, oficialmente para investigar el fantasma del rey Lysandus de Daggerfall. Pero la misión verdadera era mucho más peligrosa: recuperar el **Tótem de Tiber Septim**, el único artefacto capaz de controlar el **Numidium** — el autómata divino de los Dwemer, reconstruido por Tiber Septim durante su conquista.
+
+El Numidium, alimentado por la **Mantella** (una gema de alma que contenía la esencia del Rey Inferior Zurin Arctus), representaba un poder capaz de reescribir la propia realidad.
+
+### Los Pretendientes al Poder
+
+Siete facciones principales codiciaban el Numidium:
+
+| Facción | Objetivo |
+|---------|----------|
+| Imperio (Uriel Septim VII) | Reafirmar el control imperial sobre la Bahía de Iliac |
+| Rey de Daggerfall | Dominación de High Rock |
+| Rey de Wayrest | Supremacía comercial y militar |
+| Rey de Sentinel | Expansión de Hammerfell hacia el norte |
+| Rey Orco (Gortwog) | Reconocimiento de Orsinium como nación soberana |
+| Reina Mannimarco | Ascensión divina a través de la nigromancia |
+| Rey Inferior (Zurin Arctus) | Liberación de su alma atrapada en la Mantella |
+
+## La Ruptura del Dragón
+
+El **10 del Mes de la Escarcha, 3E 417**, el agente de las Hojas activó el Numidium. Lo que sucedió entonces desafía toda lógica temporal y sigue siendo uno de los eventos más debatidos por los eruditos de Tamriel.
+
+Una **Ruptura del Dragón** — el fenómeno por el que el tiempo lineal deja de existir y todas las posibilidades se realizan simultáneamente — envolvió la totalidad de la Bahía de Iliac. Durante un instante que pudo durar un segundo o quizás un siglo, **los siete desenlaces ocurrieron todos al mismo tiempo**.
+
+### ¿Qué es una Ruptura del Dragón?
+
+El tiempo en el universo de los Elder Scrolls es mantenido por **Akatosh**, el Dragón divino del Tiempo. Una Ruptura del Dragón ocurre cuando un evento es tan paradójico, tan cargado de poder divino, que incluso Akatosh no puede mantener una sola línea temporal. El tiempo se fragmenta — cada fragmento contiene una realidad diferente — y luego se reconstituye incorporando **todas** las realidades a la vez.
+
+> *"Cuando el Dragón se rompe, no hay mentiras — pues cada verdad es verdadera."*
+
+## Los Siete Desenlaces Simultáneos
+
+Tras el Giro, el mundo emergió con todas las siguientes consecuencias integradas en la realidad:
+
+### 1. El Numidium Fue Activado para el Imperio
+El Emperador obtuvo el control del Numidium, consolidando el poder imperial en la región. Los cuarenta y cuatro pequeños reinos se redujeron a cuatro grandes naciones sometidas al Imperio.
+
+### 2. El Numidium Fue Entregado a Daggerfall
+El reino de Daggerfall absorbió a sus vecinos y se convirtió en una potencia mayor de High Rock.
+
+### 3. El Numidium Fue Entregado a Wayrest
+Wayrest se expandió considerablemente, dominando el comercio marítimo de la bahía.
+
+### 4. El Numidium Fue Entregado a Sentinel
+Sentinel unificó los territorios redguard y extendió su influencia hacia el norte.
+
+### 5. Orsinium Fue Reconocido
+Los Orcos de Gortwog obtuvieron el reconocimiento de su ciudad-estado, un evento sin precedentes en la historia de Tamriel.
+
+### 6. Mannimarco Alcanzó la Divinidad
+El Rey de los Gusanos trascendió su forma mortal y se convirtió en el **Dios de los Gusanos** — una deidad nigromante. Por eso Mannimarco existe simultáneamente como mortal y como dios en eras posteriores.
+
+### 7. El Rey Inferior Fue Liberado
+El alma de Zurin Arctus fue finalmente liberada de la Mantella, encontrando el descanso tras siglos de cautiverio.
+
+## Las Consecuencias Geopolíticas
+
+Antes del Giro, la Bahía de Iliac contenía **cuarenta y cuatro reinos, condados y ducados** independientes. Tras el evento, solo quedaban **cuatro naciones importantes**:
+
+- **Daggerfall** — el reino dominante del oeste de High Rock
+- **Wayrest** — la potencia comercial del este de High Rock
+- **Sentinel** — el reino redguard expandido al sur
+- **Orsinium** — la ciudad-estado orca recién reconocida
+
+Lo que los eruditos llaman el **"Milagro de la Paz"** fue en realidad un baño de sangre comprimido en un instante: miles murieron, linajes nobles se extinguieron, las fronteras fueron redibujadas por la fuerza bruta — pero todo esto ocurrió *fuera del tiempo*, dejando solo los resultados en la memoria colectiva.
+
+## La Memoria Fragmentada
+
+Los habitantes de la Bahía de Iliac no recuerdan el Giro de manera coherente. Algunos recuerdan haber jurado lealtad a un rey; otros juran haber luchado para la facción contraria. Ambos tienen razón. Esta confusión de la memoria es la cicatriz dejada por el Dragón roto.
+
+El texto imperial *"¿Dónde Estabas Cuando el Dragón Se Rompió?"* recoge testimonios contradictorios de esa época — ninguno es falso; todos son verdaderos.
+
+## Significado Metafísico
+
+El Giro del Oeste demuestra un principio fundamental de la cosmología de Tamriel: **el Numidium niega la realidad**. Por donde quiera que camine, el tiempo se fractura, porque su propia naturaleza es un "NO" rugido a la existencia. Cada activación del Numidium en la historia ha provocado una Ruptura del Dragón — desde Tiber Septim hasta la Bahía de Iliac.
+
+Por eso los Thalmor lo temen, por eso el Imperio lo abandonó finalmente, y por eso algunos creen que el próximo Numidium podría romper el Dragón de forma permanente.
+
+## Cadena Causal
+
+<CausalChain items={[
+  { text: "Tiber Septim reconstruye el Numidium (2E) → Conquista del Dominio Aldmeri", link: "/chronologie/second-era/tiber-septim" },
+  { text: "Numidium desactivado y oculto tras la conquista" },
+  { text: "Tótem de Tiber Septim redescubierto en la Bahía de Iliac (3E 401)" },
+  { text: "Siete facciones se disputan el control del Numidium" },
+  { text: "Imperio", indent: 1 },
+  { text: "Daggerfall", indent: 1 },
+  { text: "Wayrest", indent: 1 },
+  { text: "Sentinel", indent: 1 },
+  { text: "Orsinium", indent: 1 },
+  { text: "Mannimarco", indent: 1 },
+  { text: "Rey Inferior", indent: 1 },
+  { text: "El agente de las Hojas activa el Numidium (3E 417)" },
+  { text: "PARADOJA: 7 resultados mutuamente excluyentes + Numidium (niega la realidad)" },
+  { text: "RUPTURA DEL DRAGÓN (El tiempo se fragmenta)" },
+  { text: "TODOS los desenlaces se vuelven simultáneamente verdaderos" },
+  { text: "44 reinos → 4 naciones estables", indent: 1 },
+  { text: "Orsinium reconocido como estado soberano", indent: 1 },
+  { text: "Mannimarco alcanza la divinidad", indent: 1 },
+  { text: "Zurin Arctus liberado de la Mantella", indent: 1 },
+  { text: "Memoria colectiva fragmentada", indent: 1 },
+  { text: "\"Milagro de la Paz\" → Estabilidad política regional" },
+  { text: "Precedente sobre los peligros del Numidium → El Imperio abandona el artefacto" }
+]} />

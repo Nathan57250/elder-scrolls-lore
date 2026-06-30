@@ -1,0 +1,85 @@
+---
+title: "Jagar Tharn — El Usurpador"
+slug: "jagar-tharn"
+era: "third-era"
+category: "personnages"
+tags: ["jagar-tharn", "simulacro", "usurpador", "uriel-septim", "baston-del-caos", "campeon-eterno", "ilusion"]
+timelineYear: 389
+summary: "Biografía del mago imperial Jagar Tharn: su golpe de Estado contra Uriel Septim VII, los diez años del Simulacro Imperial y su derrota a manos del Campeón Eterno."
+sources: ["UESP: Jagar Tharn", "The Imperial Library: Imperial Simulacrum", "TES I: Arena"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# Jagar Tharn — El Usurpador
+
+**Jagar Tharn** es el mago imperial que usurpó el trono de **Tamriel** durante diez años (3E 389 — 3E 399) al aprisionarte al Emperador **Uriel Septim VII** en una dimensión de Oblivion y ocupar su lugar mediante una magia de ilusión sin precedentes. El **Simulacro Imperial** que orquestó sigue siendo uno de los mayores crímenes políticos de la historia del Imperio.
+
+## Ascenso
+
+### Orígenes
+
+Jagar Tharn nació con un talento excepcional para la magia de **ilusión** y **alteración**. Los detalles de su juventud son oscuros: algunas fuentes lo vinculan al linaje de los **Tharn** de Cyrodiil, una familia noble conocida por su participación en el poder imperial desde la Segunda Era (el infame **Abnur Tharn** del Consejo de los Cinco Compañeros compartía este apellido).
+
+### Mago de Batalla Imperial
+
+Tharn ascendió por los escalafones de la corte imperial hasta el cargo de **Mago de Batalla Imperial** (Imperial Battlemage), el rango mágico más elevado del Imperio y asesor directo del Emperador. Este cargo le proporcionó acceso ilimitado a los secretos de la Corona y a artefactos de considerable poder.
+
+## El golpe de Estado
+
+### La maquinación
+
+<CausalChain items={[
+  { text: "Tharn adquiere el Bastón del Caos — artefacto de inmensa potencia" },
+  { text: "Lo quiebra en ocho fragmentos y los dispersa por Tamriel", indent: 1 },
+  { text: "Aprisiona a Uriel Septim VII en una dimensión de Oblivion", indent: 1 },
+  { text: "Asume la apariencia exacta del Emperador mediante magia de ilusión", indent: 2 },
+  { text: "Diez años de reinado impostador — el Simulacro Imperial (3E 389-399)", indent: 2 }
+]} />
+
+La dispersión del **Bastón del Caos** era una medida de seguridad: mientras el Bastón permaneciera fragmentado, nadie podría usarlo para romper la ilusión o liberar al verdadero Emperador.
+
+### La perfección de la ilusión
+
+La hazaña mágica de Tharn resulta asombrosa: durante **diez años**, imitó a la perfección a Uriel Septim VII: su voz, sus modales, sus aparentes recuerdos y su estilo de gobierno. Ni la corte, ni el **Consejo de los Ancianos**, ni las **Hojas** (la guardia personal del Emperador) detectaron la sustitución.
+
+Esto plantea preguntas inquietantes sobre la naturaleza del poder imperial: si un impostor puede gobernar diez años sin que nadie lo note, ¿qué significa realmente la legitimidad del Emperador?
+
+## El reinado del Simulacro
+
+### La gobernanza
+
+Contrariamente a lo que cabría esperar de un usurpador, Tharn no gobernó de manera catastrófica. El Imperio no se derrumbó bajo su mandato: las provincias siguieron funcionando y las Legiones permanecieron en sus puestos. Tharn era suficientemente inteligente como para mantener la apariencia de normalidad.
+
+Sin embargo, las tensiones se fueron acumulando:
+- Las guerras menores entre provincias fueron ignoradas o mal gestionadas
+- Las defensas mágicas del Imperio fueron descuidadas
+- Los recursos imperiales fueron desviados hacia proyectos ocultistas personales
+- La inestabilidad política latente que culminaría en eventos futuros comenzó a fermentar
+
+### Las víctimas
+
+**Ria Silmane**, aprendiz de Tharn y única persona que descubrió la verdad, fue asesinada. Pero su espíritu se negó a desaparecer: contactó a un prisionero anónimo desde el más allá para guiarlo hacia los fragmentos del Bastón del Caos.
+
+## La caída
+
+### El Campeón Eterno
+
+Un prisionero de los calabozos imperiales —contactado en sueños por el espíritu de **Ria Silmane**— emprendió un periplo de varios años por las nueve provincias de Tamriel para hallar los ocho fragmentos del Bastón del Caos.
+
+Este **Campeón Eterno** (Eternal Champion) se enfrentó a innumerables peligros en cada provincia, reconstituyó el Bastón y confrontó finalmente a Jagar Tharn en las profundidades del **Palacio Imperial**. El combate fue terrible —Tharn desplegó toda su potencia—, pero el Bastón del Caos reconstituido rompió su ilusión y lo destruyó.
+
+### La liberación de Uriel Septim VII
+
+Uriel Septim VII fue liberado de su prisión dimensional tras diez años de cautiverio. El Emperador regresó transformado: más desconfiado, más consciente de la fragilidad del poder y atormentado por visiones proféticas que guiarían sus decisiones durante los treinta y cuatro años restantes de su reinado, hasta su asesinato a manos del **Alba Mítica** en el año 3E 433.
+
+## Legado
+
+El Simulacro Imperial demostró tres verdades incómodas:
+1. El poder imperial descansa más en la **apariencia** que en la esencia
+2. Las instituciones de control (Hojas, Consejo) son falibles ante una magia suficientemente poderosa
+3. La «estabilidad» del Imperio puede enmascarar una corrupción profunda
+
+Tharn fue un genio malévolo, pero un genio al fin y al cabo. Su capacidad para engañar al mundo entero durante una década no tiene parangón en los anales de la magia tamriélica.

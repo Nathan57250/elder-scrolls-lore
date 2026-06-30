@@ -1,0 +1,91 @@
+---
+title: "The Thieves Guild"
+slug: "guilde-des-voleurs"
+era: "third-era"
+category: "guildes"
+tags: ["thieves-guild", "nocturnal", "nightingales", "gray-fox", "crime", "stealth"]
+timelineYear: 390
+summary: "The Thieves Guild operates in the shadows across Tamriel — a criminal organization governed by a strict code of honor, protected by Nocturnal."
+sources: ["UESP: Thieves Guild", "The Imperial Library: Thieves Guild", "Purloined Shadows"]
+---
+
+## Origins and Philosophy
+
+The Thieves Guild is not a simple gang of criminals — it is an **institution** with rules, a hierarchy, and a philosophy of its own. Their fundamental creed:
+
+> "Never steal from those who cannot afford to lose it. Never kill on the job. Never steal from a fellow thief."
+
+The Guild operates on a principle of **shadow**: the best operation is the one no one ever knows happened. Unlike the Dark Brotherhood, which cultivates terror, the Guild cultivates invisibility.
+
+## Structure
+
+### Hierarchy
+| Rank | Role |
+|------|------|
+| Guild Master | Supreme leadership |
+| Nightingale | Secret elite (liaison with Nocturnal) |
+| Master Thief | Major operations |
+| Fence | Sales network |
+| Thief | Full member |
+| Recruit | Novice under evaluation |
+
+### The Code
+- Never kill during a job (except in absolute self-defense)
+- Never steal from a Guild member
+- Never betray the Guild to the authorities
+- Honor accepted contracts
+- Share a percentage with the Guild
+
+## Nocturnal and the Nightingales
+
+### The Lady of Luck
+**Nocturnal**, Daedric Princess of Night and Mystery, is the Guild's secret patron. Her influence manifests through:
+- **Luck** — skilled thieves benefit from her invisible favor
+- **Shadow** — enhanced ability to conceal oneself
+- **Skeleton Keys** — artifacts that open any lock
+
+### The Nightingales
+A secret triumvirate within the Guild itself:
+- Three agents bound to Nocturnal by a pact
+- Guardians of the **Twilight Sepulcher**
+- Granted powers: perfect invisibility, shadow manipulation, supernatural luck
+- In exchange, their souls join Nocturnal after death to guard the Evergloam eternally
+
+## In Cyrodiil (Third Era)
+
+The Cyrodiil branch was led by the mysterious **Gray Fox** — a title passed from one master to another thanks to the **Gray Cowl of Nocturnal**, a cursed artifact that erased the wearer's identity from history.
+
+The last Gray Fox (Count Corvus Umbranox) managed to break the curse, restoring his identity while freeing the title.
+
+## In Skyrim (4E 201)
+
+The Riften branch, operating from the **Ratway** (the sewers) and the **Bee and Barb tavern**:
+- Led by **Mercer Frey** — who betrayed the Nightingales and the Guild
+- Restored by the Last Dragonborn with **Brynjolf** and **Karliah**
+- Maven Black-Briar as a major political ally (de facto Jarl of Riften)
+- Specialties: extortion, burglary, forgery, smuggling
+
+### Mercer Frey's Betrayal
+Mercer Frey, the former Guild Master, had:
+- Stolen Nocturnal's **Skeleton Key**
+- Plundered the Guild's treasury for years
+- Assassinated the former Master Gallus Desidenius
+- Framed Karliah for the murder
+
+His downfall restored the connection between the Guild and Nocturnal.
+
+## Typical Operations
+
+- **Burglary** — theft of specific items commissioned by clients
+- **Pickpocketing** — theft in markets
+- **Forgery** — documents, letters, evidence
+- **Extortion** — pressure on resistant merchants
+- **Smuggling** — contraband goods (skooma, Dwemer tech)
+- **Fencing** — network for selling stolen goods
+
+## Rivalries
+
+- **Dark Brotherhood**: no direct rivalry (different domains), but mutual wariness
+- **City Guards**: natural adversaries
+- **Vigilants of Stendarr**: hostility toward anything deemed "impious"
+- **Merchant guilds**: primary targets and occasional accomplices

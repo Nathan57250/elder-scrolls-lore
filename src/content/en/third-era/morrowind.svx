@@ -1,0 +1,87 @@
+---
+title: "Morrowind — Land of the Dunmer"
+slug: "morrowind"
+era: "third-era"
+category: "lieux"
+tags: ["morrowind", "dunmer", "great-house", "tribunal", "red-mountain", "ashlands"]
+timelineYear: 400
+summary: "The province of Morrowind, ancestral homeland of the Dunmer: its Great Houses, its hostile landscapes of ash and giant mushrooms, and its turbulent history."
+sources: ["UESP: Morrowind", "Pocket Guide to the Empire, 3rd Edition", "The Imperial Library: Great Houses"]
+---
+
+## Geography
+
+Morrowind is the northeastern province of Tamriel, dominated by **Red Mountain** — an active volcano at the center of the island of Vvardenfell. The province is divided into distinct regions:
+
+### Vvardenfell
+The central volcanic island, setting for the events of TES III:
+- **Ashlands** — ash plains swept by storms
+- **Bitter Coast** — coastal marshes, giant mushrooms
+- **West Gash** — rolling green hills
+- **Ascadian Isles** — fertile lands, agriculture
+- **Molag Amur** — hostile volcanic plateau
+- **Sheogorad** — northern archipelago
+
+### Mainland
+- **Resdayn** — the historic heartland
+- **Deshaan** — southern plains
+- **Stonefalls** — western volcanic coast
+- **Eastmarch** — border with Skyrim
+
+## The Great Houses
+
+Dunmer society is organized into **Great Houses** — political-family clans that govern the province:
+
+| House | Specialty | Territory | Philosophy |
+|-------|-----------|-----------|-----------|
+| Hlaalu | Trade, diplomacy | West | Pragmatism, pro-Empire |
+| Redoran | Honor, warfare | Northwest | Duty, discipline |
+| Telvanni | Magic, individualism | East | Personal power, isolation |
+| Indoril | Religion, tradition | Center | Piety, conservatism |
+| Dres | Slavery, agriculture | Southeast | Tradition, xenophobia |
+| Dagoth | (Extinct/resurrected) | Red Mountain | — |
+
+### House Hlaalu
+Pragmatic and opportunistic, the Hlaalu were the Empire's closest allies. After the Red Year and the Imperial withdrawal, they were **stripped** of their Great House status — replaced by House Sadras.
+
+### House Telvanni
+The Telvanni mage-lords live in immense **mushroom towers** they cultivate through magic. Radically individualistic, they recognize no law but personal power. Their towers are accessible only by levitation — a deliberate filter.
+
+### House Redoran
+Warriors of honor and protectors of Morrowind. After the Red Year, they took the lead in the province, defending the Dunmer against the Argonian invasion.
+
+## Religion
+
+### The Tribunal (before 3E 427)
+For millennia, the Dunmer venerated three living gods:
+- **Vivec** — warrior-poet, duality, paradox
+- **Almalexia** — queen-mother, healing, compassion
+- **Sotha Sil** — mystery, invention, mechanics
+
+Their power came from the **Heart of Lorkhan**, channeled through the Tools of Kagrenac. When the Nerevarine destroyed that source, the Tribunal lost its divine powers.
+
+### The Reconciliation
+After the fall of the Tribunal, the Dunmer returned to the **Good Daedra**:
+- **Azura** — dawn and dusk, prophecy
+- **Boethiah** — plotting, competition
+- **Mephala** — mystery, assassination
+
+And the **Four Corners of the House of Troubles** (the "evil" Daedra to be feared).
+
+## The Red Year and Its Consequences
+
+In 4E 5, Red Mountain **erupted**, devastating Vvardenfell and much of the mainland. A few years later, the **Argonians** invaded southern Morrowind — a historic revenge for centuries of enslavement.
+
+The Dunmer diaspora spread across Tamriel:
+- **Raven Rock** (Solstheim) — colony under Redoran protection
+- **The Gray Quarter** of Windhelm — the Dunmer ghetto in Skyrim
+- **Refugees** scattered throughout Cyrodiil and High Rock
+
+## Culture
+
+The Dunmer are a resilient people shaped by:
+- **Ancestor veneration** — communication with family spirits
+- **Dualism** — suffering forges strength
+- **Slavery** (abolished in 3E 427) — once practiced on Argonians and Khajiit
+- **Organic architecture** — mushrooms, shells, giant insects (silt striders)
+- The **netch** and the **guar** as beasts of burden

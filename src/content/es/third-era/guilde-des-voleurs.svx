@@ -1,0 +1,91 @@
+---
+title: "El Gremio de Ladrones"
+slug: "guilde-des-voleurs"
+era: "third-era"
+category: "guildes"
+tags: ["gremio-de-ladrones", "nocturnal", "ruisenores", "zorro-gris", "crimen", "sigilo"]
+timelineYear: 390
+summary: "El Gremio de Ladrones opera en las sombras por todo Tamriel — una organización criminal regida por un estricto código de honor y protegida por Nocturnal."
+sources: ["UESP: Thieves Guild", "The Imperial Library: Thieves Guild", "Purloined Shadows"]
+---
+
+## Orígenes y Filosofía
+
+El Gremio de Ladrones no es una simple banda de criminales — es una **institución** con reglas, jerarquía y filosofía propias. Su credo fundamental:
+
+> "Nunca robes a quienes no puedan permitirse perderlo. Nunca mates en el trabajo. Nunca robes a otro ladrón."
+
+El Gremio opera bajo un principio de **sombra**: la mejor operación es aquella de la que nadie sabe que ocurrió. A diferencia de la Hermandad Oscura, que cultiva el terror, el Gremio cultiva la invisibilidad.
+
+## Estructura
+
+### Jerarquía
+| Rango | Función |
+|-------|---------|
+| Maestro del Gremio | Liderazgo supremo |
+| Ruiseñor | Élite secreta (enlace con Nocturnal) |
+| Maestro Ladrón | Operaciones mayores |
+| Perista | Red de ventas |
+| Ladrón | Miembro confirmado |
+| Recluta | Novato en evaluación |
+
+### El Código
+- Nunca matar durante un trabajo (salvo en legítima defensa absoluta)
+- Nunca robar a un miembro del Gremio
+- Nunca traicionar al Gremio ante las autoridades
+- Respetar los contratos aceptados
+- Ceder un porcentaje al Gremio
+
+## Nocturnal y los Ruiseñores
+
+### La Dama de la Suerte
+**Nocturnal**, Princesa Daédrica de la Noche y el Misterio, es la patrona secreta del Gremio. Su influencia se manifiesta mediante:
+- La **Suerte** — los buenos ladrones se benefician de su favor invisible
+- La **Sombra** — capacidad mejorada para ocultarse
+- Las **Llaves Esqueleto** — artefactos que abren cualquier cerradura
+
+### Los Ruiseñores (Nightingales)
+Un triunvirato secreto dentro del propio Gremio:
+- Tres agentes ligados a Nocturnal por un pacto
+- Guardianes del **Sepulcro del Crepúsculo** (Twilight Sepulcher)
+- Poderes otorgados: invisibilidad perfecta, manipulación de las sombras, suerte sobrenatural
+- A cambio, sus almas se unen a Nocturnal tras la muerte para guardar el Evergloam eternamente
+
+## En Cyrodiil (Tercera Era)
+
+La rama de Cyrodiil estaba dirigida por el misterioso **Zorro Gris** — un título que pasaba de un maestro a otro gracias a la **Capucha Gris de Nocturnal**, un artefacto maldito que borraba la identidad del portador de la historia.
+
+El último Zorro Gris (el Conde Corvus Umbranox) logró romper la maldición, recuperando su identidad y liberando el título.
+
+## En Bordeciel (4E 201)
+
+La rama de Riften, que opera desde el **Ratway** (las alcantarillas) y la **taberna La Abeja y la Urna**:
+- Dirigida por **Mercer Frey** — que traicionó a los Ruiseñores y al Gremio
+- Restaurada por el Último Nacido del Dragón con **Brynjolf** y **Karliah**
+- Maven Black-Briar como aliada política clave (Jarl de facto de Riften)
+- Especialidades: extorsión, robo, falsificación, contrabando
+
+### La Traición de Mercer Frey
+Mercer Frey, antiguo Maestro del Gremio, había:
+- Robado la **Llave Esqueleto** de Nocturnal
+- Saqueado el tesoro del Gremio durante años
+- Asesinado al antiguo Maestro Gallus Desidenius
+- Inculpado a Karliah del asesinato
+
+Su caída restauró la conexión entre el Gremio y Nocturnal.
+
+## Operaciones Habituales
+
+- **Robo** — sustracción de objetos específicos por encargo de clientes
+- **Carterismo** — robo en los mercados
+- **Falsificación** — documentos, cartas, pruebas
+- **Extorsión** — presión sobre comerciantes renuentes
+- **Contrabando** — mercancías prohibidas (skooma, tecnología Dwemer)
+- **Peritage** — red de venta de objetos robados
+
+## Rivalidades
+
+- **Hermandad Oscura**: sin rivalidad directa (dominios distintos), pero desconfianza mutua
+- **Guardias de la Ciudad**: adversarios naturales
+- **Vigilantes de Stendarr**: hostilidad hacia todo lo "impío"
+- **Gremios de mercaderes**: principales víctimas y a veces cómplices

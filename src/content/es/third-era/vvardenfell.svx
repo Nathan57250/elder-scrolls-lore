@@ -1,0 +1,54 @@
+---
+title: "Vvardenfell"
+slug: "vvardenfell"
+era: "third-era"
+category: "geographie"
+tags: ["morrowind", "vvardenfell", "montana-escarlata", "tribunal", "dagoth-ur", "dwemer"]
+date: "Era Merética — 4E 5"
+timelineYear: 400
+summary: "Isla volcánica de Morrowind dominada por el Monte Escarlata, sede del Corazón de Lorkhan, las ruinas Dwemer y el conflicto entre el Tribunal y Dagoth Ur."
+mapCoords: { x: 740, y: 300 }
+province: "Morrowind"
+relatedArticles: ["vivec", "dwemer", "premiere-ere"]
+sources: ["UESP: Vvardenfell", "Events of TES III: Morrowind"]
+---
+
+![Vvardenfell visto desde la costa](/images/third-era/vvardenfell.jpg)
+
+## Geografía
+
+**Vvardenfell** es una inmensa isla volcánica en el centro de la provincia de Morrowind, dominada por el **Monte Escarlata** (Red Mountain) — un enorme volcán activo en cuyo corazón se hallaba el Corazón de Lorkhan.
+
+La isla presenta una notable diversidad geográfica:
+- **Costa de Azura** — acantilados y bahías al este
+- **Ashlands** — desiertos volcánicos al norte y centro
+- **Costa Amarga** — marismas al oeste
+- **Grazelands** — praderas al noreste
+- **West Gash** — colinas arboladas al oeste
+
+## El Monte Escarlata y la Cerca Fantasmal
+
+El Monte Escarlata no es un volcán ordinario — en su corazón reposaba el **Corazón de Lorkhan**, la fuente de poder tanto del Tribunal como de Dagoth Ur.
+
+Para contener la amenaza de Dagoth Ur y su peste del Corpus, el Tribunal erigió la **Ghostfence** — una inmensa barrera mágica de espectros que rodeaba el Monte Escarlata, alimentada por las almas de los dunmer muertos.
+
+## Ruinas Dwemer
+
+Vvardenfell alberga algunas de las ruinas Dwemer mejor conservadas de todo Tamriel:
+- **Arkngthand** — lugar del redescubrimiento de Wraithguard
+- **Mzulft** — gran ciudad subterránea
+- **Nchardak** — ciudad semisumergida en la isla de Solstheim
+
+## Eventos Principales
+
+### La Guerra del Nerevarine (3E 427)
+El Nerevarine, profetizado por Azura, llegó a Vvardenfell y:
+- Obtuvo las Herramientas de Kagrenac
+- Penetró en la Montaña Roja
+- Destruyó el Corazón de Lorkhan
+- Derrotó a Dagoth Ur
+
+### El Año Rojo (4E 5)
+Tras la desaparición de Vivec y la caída del Ministerio de la Verdad (un meteorito que mantenía suspendido sobre Vivec City), el meteorito se estrelló, provocando la erupción del Monte Escarlata.
+
+El **Año Rojo** devastó Vvardenfell: tsunamis, lluvias de ceniza, coladas de lava. La mayor parte de la isla quedó inhabitable. Cientos de miles de Dunmer perecieron o fueron desplazados.

@@ -1,0 +1,90 @@
+---
+title: "Las Puertas de Oblivion"
+slug: "oblivion-gates"
+era: "third-era"
+category: "magie"
+tags: ["oblivion", "puertas", "piedras-de-sigilo", "mehrunes-dagon", "crisis-oblivion", "daedra"]
+timelineYear: 433
+summary: "El funcionamiento de las Puertas de Oblivion, las Piedras de Sigilo que las sostienen y el papel que desempeñaron en la Crisis de Oblivion."
+sources: ["The Gates of Oblivion", "Mythic Dawn Commentaries", "Legion War Journal", "Report on the Planes of Oblivion"]
+---
+
+## La barrera entre los mundos
+
+**Mundus** —el plano mortal— y **Oblivion** —el reino de los **Príncipes Daédricos**— están separados por una barrera metafísica mantenida por los **Pilares de la Creación**, el sacrificio de los **Aedra** que dio nacimiento al mundo. Esta barrera, denominada a veces el «Velo Liminal», impide normalmente que los Daedra de gran poder accedan físicamente al plano mortal.
+
+Las **Puertas de Oblivion** son brechas en esa barrera: pasajes físicos que conectan un lugar de Mundus con un plano de Oblivion específico. Su creación es uno de los actos mágicos más complejos y peligrosos que existen, pues implica desgarrar literalmente el tejido de la realidad.
+
+En condiciones normales, estas brechas son raras, inestables y temporales. Pero durante la **Crisis de Oblivion** del año 3E 433, el culto del **Alba Mítica** logró abrir cientos de puertas permanentes hacia las Tierras Muertas de **Mehrunes Dagon**, amenazando con inundar todo **Tamriel** bajo las hordas daédricas.
+
+## La anatomía de una Puerta de Oblivion
+
+Una Puerta de Oblivion se manifiesta físicamente como un arco masivo de piedra o metal que enmarca un portal de llamas y energía daédrica. Su tamaño varía: algunas apenas son lo suficientemente grandes para dejar pasar a un hombre, mientras que otras son colosales y permiten el paso de criaturas gigantescas.
+
+Del lado de Mundus, la puerta aparece como una estructura que surge del suelo, a menudo acompañada de la corrupción de la tierra circundante: el suelo se resquebraja, la vegetación muere, las llamas brotan de grietas y un resplandor rojizo invade el cielo. Incluso la atmósfera se carga de una energía nociva que afecta a los seres vivos que se encuentran cerca.
+
+Del otro lado, el pasaje conduce directamente al plano de Oblivion correspondiente. Durante la Crisis, todas las puertas llevaban a las **Tierras Muertas** (Deadlands), el reino personal de Mehrunes Dagon: un paisaje de lava, metal incandescente y desolación infernal.
+
+## Las Piedras de Sigilo: el corazón del mecanismo
+
+El mantenimiento de una Puerta de Oblivion permanente requiere un anclaje energético: la **Piedra de Sigilo** (Sigil Stone). Este artefacto daédrico sirve a la vez como fuente de energía y punto de anclaje dimensional, manteniendo la brecha abierta y estable.
+
+Una Piedra de Sigilo es un orbe de piedra oscura, resplandeciente de energía daédrica, que habitualmente se conserva en la cima de una **Torre de Sigilo** en el plano de Oblivion. Esta torre es el punto neurálgico de cada puerta: su destrucción o la extracción de la piedra provoca el colapso inmediato del pasaje.
+
+La piedra funciona como un conducto bidireccional: extrae energía del plano de Oblivion para mantener abierta la brecha en la barrera liminal. Sin ese aporte constante de energía daédrica, las fuerzas naturales de Mundus sellarían la brecha en cuestión de instantes.
+
+Las Piedras de Sigilo también poseen propiedades útiles una vez extraídas de su torre: contienen una carga mágica aprovechable para el encantamiento, y algunos magos las recolectaban específicamente con ese fin durante la Crisis.
+
+## El proceso de apertura
+
+Abrir una Puerta de Oblivion requiere un ritual complejo que combina varios elementos:
+
+Un **anclaje ritual** del lado de Mundus, típicamente un círculo de invocación trazado con materiales impregnados de energía daédrica: sangre de Daedra, cenizas de Oblivion o cristales de fuego infernal.
+
+Una **conexión con un plano de Oblivion específico**: el rituālista debe tener un vínculo con el plano objetivo, generalmente obtenido mediante un pacto con el Príncipe Daédrico correspondiente.
+
+Un **sacrificio energético** considerable: abrir la barrera liminal exige una cantidad de poder mágico que pocos magos individuales poseen. El Alba Mítica utilizaba sacrificios humanos para alimentar sus rituales.
+
+Una **Piedra de Sigilo** preposicionada del lado de Oblivion, lista para sostener la puerta una vez abierta.
+
+Durante la Crisis de Oblivion, **Mankar Camoran** y el Alba Mítica habían perfeccionado este proceso hasta el punto de poder abrir puertas en serie, cada una sostenida por la energía del propio Dagon.
+
+## La Crisis de Oblivion: puertas en masa
+
+La **Crisis de Oblivion** del año 3E 433 representa el uso más masivo y devastador de Puertas de Oblivion en la historia conocida. Tras el asesinato del Emperador **Uriel Septim VII** y sus herederos a manos del **Alba Mítica**, los **Fuegos del Dragón** se apagaron, debilitando fatalmente la barrera entre Mundus y Oblivion.
+
+Los Fuegos del Dragón, mantenidos por el linaje de los Emperadores Septim que portaban el **Amuleto de los Reyes**, constituían un refuerzo mágico adicional de la barrera liminal. Sin ellos, abrir puertas se volvió considerablemente más fácil.
+
+**Mehrunes Dagon** aprovechó esta oportunidad para abrir cientos de puertas simultáneamente por toda Cyrodiil. Ejércitos de Dremora, Xivilai, Clannfear y otros Daedra se derramaron sobre el mundo mortal, asediando ciudades y fortalezas.
+
+Cada puerta debía cerrarse de forma individual: un héroe tenía que penetrar en el plano de Oblivion, combatir a través de las Tierras Muertas, escalar la Torre de Sigilo y retirar o destruir la Piedra de Sigilo.
+
+## El cierre de las puertas
+
+El método para cerrar una Puerta de Oblivion es brutalmente simple en principio, pero terriblemente peligroso en la práctica:
+
+El combatiente debe cruzar la puerta hacia el plano de Oblivion, sobrevivir a las hordas daédricas que guardan el pasaje, navegar por un paisaje hostil y letal, localizar la Torre de Sigilo —a menudo protegida por defensas adicionales— y alcanzar su cima.
+
+En la cima, la Piedra de Sigilo debe ser retirada o destruida. La extracción provoca un colapso en cadena: la torre se derrumba, la realidad local se desestabiliza y todo aquel que se encuentre en el plano de Oblivion es expulsado de vuelta a Mundus mientras la puerta se cierra.
+
+El proceso es extremadamente peligroso. Muchos soldados y aventureros murieron intentando cerrar puertas, abrumados por los defensores daédricos o abatidos por el hostil entorno de las Tierras Muertas.
+
+## Las defensas de las Torres de Sigilo
+
+Las Tierras Muertas que los héroes debían atravesar eran entornos diseñados para matar. El terreno estaba compuesto de rocas volcánicas, lagos de lava y estructuras de metal daédrico incandescente.
+
+Las **Torres de Sigilo** eran construcciones masivas y en espiral, repletas de trampas y guardianes. Los Dremora —soldados de élite de Dagon— las defendían con una ferocidad metódica. Los **Xivilai**, criaturas daédricas inteligentes y mágicamente poderosas, comandaban las defensas.
+
+Algunas torres poseían sistemas de defensa adicionales: puentes que se derrumbaban, salas que se llenaban de llamas, jaulas que contenían criaturas feroces liberadas sobre los intrusos.
+
+## El legado de las Puertas
+
+La Crisis de Oblivion y sus puertas dejaron un impacto duradero en Tamriel:
+
+Los lugares donde se abrieron las puertas permanecieron marcados durante años: tierra estéril, flora muerta, residuos de energía daédrica. Algunos se convirtieron en lugares evitados, considerados malditos.
+
+La comprensión de los mecanismos de las puertas avanzó considerablemente, permitiendo a los magos desarrollar mejores protecciones contra futuras incursiones daédricas.
+
+El evento motivó la creación de barreras mágicas adicionales que protegen Mundus, aunque el método exacto sigue siendo secreto, posiblemente vinculado al sacrificio de **Martin Septim**, quien se transformó en un avatar de **Akatosh** para repeler al propio Dagon.
+
+Los **Vigilantes de Stendarr** de la Cuarta Era siguen patrullando los emplazamientos de las antiguas puertas, velando para que no se produzca ninguna resurgencia.

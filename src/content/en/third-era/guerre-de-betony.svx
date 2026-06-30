@@ -1,0 +1,135 @@
+---
+title: "The War of Betony"
+description: "The armed conflict between the kingdoms of Daggerfall and Sentinel for control of the island of Betony, serving as the backdrop to the events of Daggerfall"
+slug: guerre-de-betony
+category: "evenements"
+era: "third-era"
+timelineYear: 403
+keywords:
+  - war of betony
+  - daggerfall
+  - sentinel
+  - king lysandus
+  - king gothryd
+  - king camaron
+  - high rock
+  - hammerfell
+  - daggerfall
+  - iliac bay
+---
+
+## The War of Betony
+
+The War of Betony (3E 402–403) was an armed conflict between the kingdom of Daggerfall in High Rock and the kingdom of Sentinel in Hammerfell for sovereignty over the island of Betony, situated in the Iliac Bay. Though relatively brief and localized, this conflict had considerable political repercussions and forms the immediate backdrop to the events depicted in The Elder Scrolls II: Daggerfall.
+
+## The Geopolitical Context
+
+### The Iliac Bay
+
+The Iliac Bay is a vast body of water bordered to the east by High Rock and to the south by Hammerfell. This region — one of the most densely populated and politically fragmented in Tamriel — contained dozens of independent or semi-independent kingdoms, duchies, and baronies at the time. Rivalries among these micro-states were constant and often violent.
+
+### Daggerfall
+
+The kingdom of Daggerfall, situated on the southern coast of High Rock, was one of the most powerful Breton states in the Iliac Bay. Under King Lysandus, it sought to expand its maritime influence and secure the bay's trade routes.
+
+### Sentinel
+
+The kingdom of Sentinel, the principal Redguard state on the northern coast of Hammerfell, was governed by King Camaron. A commercial and military power, Sentinel historically claimed suzerainty over the islands of the southern bay, including Betony.
+
+### The Island of Betony
+
+Betony is a relatively small but strategically positioned island at the center of the Iliac Bay. Controlling it offers a considerable commercial and military advantage, enabling oversight of maritime traffic and the levying of tolls on passing vessels.
+
+## The Causes of the Conflict
+
+### Territorial Claims
+
+Both kingdoms claimed Betony on the basis of contradictory historical rights. Daggerfall cited ancient Breton treaties, while Sentinel invoked an earlier Redguard occupation. In truth, sovereignty over the island had changed hands many times over the centuries.
+
+### Economic Interests
+
+Beyond historical arguments, the real motivations were economic. Control of Betony meant dominating the most lucrative sea lanes in the bay. The island's fisheries also represented an important resource for coastal communities.
+
+### The Post-Simulacrum Era
+
+The conflict was set against the backdrop of the post-Simulacrum period. Ten years of misrule under Jagar Tharn had weakened imperial authority and emboldened local rulers. The Empire no longer had the capacity — nor perhaps the will — to impose peace between kingdoms that felt increasingly autonomous.
+
+## The Course of the Conflict
+
+### The Declaration of War
+
+The conflict broke out openly in 3E 402 when King Lysandus of Daggerfall publicly asserted his kingdom's sovereignty over Betony. King Camaron of Sentinel rejected this claim and mobilized his forces. Mediation attempts, notably by the Temple of Arkay, failed.
+
+### The Early Skirmishes
+
+The first engagements were largely naval, with both fleets vying for control of the waters around Betony. Coastal raids struck fishing villages on both sides, and maritime trade in the bay was severely disrupted.
+
+### Land Escalation
+
+The conflict rapidly spread to the mainland. Armies were raised on both sides, and neighboring kingdoms were forced to choose their allegiance. Most Breton states backed Daggerfall out of ethnic solidarity, while Redguard lords largely rallied behind Sentinel.
+
+### The Battle of Cryngaine Field
+
+The turning point of the war was the Battle of Cryngaine Field in 3E 403, a major land engagement that ended in Daggerfall's victory. It was during this battle that King Lysandus met his death — an event whose exact circumstances remain controversial and whose consequences would quite literally haunt the region for years to come.
+
+## The Death of King Lysandus
+
+### The Official Account
+
+According to the official version, King Lysandus fell heroically in battle during the Battle of Cryngaine Field, struck down by an enemy arrow. This version was propagated by the court of Daggerfall and accepted by official chroniclers.
+
+### The Hidden Truth
+
+The reality was far darker. Lysandus was in fact assassinated through a conspiracy involving Lord Woodborne, a Daggerfall noble who coveted the throne. This murder, disguised as a battlefield death, constitutes the central mystery of the Daggerfall storyline.
+
+### The Ghost of Lysandus
+
+The spirit of King Lysandus, furious at having been treacherously murdered and denied justice, could not find rest. His ghost haunted the streets of Daggerfall, terrorizing the population and demanding vengeance. This supernatural phenomenon caught the attention of Emperor Uriel Septim VII himself.
+
+## The Immediate Aftermath
+
+### The Treaty of Wayrest
+
+The war concluded with the Treaty of Wayrest, which granted sovereignty over Betony to Daggerfall. The new King Gothryd, son of Lysandus, consolidated his father's victory and extended Daggerfall's influence throughout the bay.
+
+### The Dynastic Marriage
+
+To seal the peace, a marriage was arranged between King Gothryd of Daggerfall and Princess Aubk-i of Sentinel, daughter of the late King Camaron (who also perished during the battle). This dynastic union was intended to prevent any resumption of hostilities.
+
+### Redguard Resentment
+
+Despite the treaty and the marriage, resentment remained strong in Sentinel and the Redguard territories. The defeat was perceived as a national humiliation, and many voices called for revenge.
+
+## Imperial Intervention
+
+### The Emperor's Investigation
+
+Emperor Uriel Septim VII, informed of the supernatural events in Daggerfall and anxious to stabilize the region, dispatched a personal agent to investigate. This agent — the protagonist of Daggerfall — was officially tasked with ending Lysandus's haunting and secretly charged with recovering a compromising letter from the Emperor.
+
+### The Totem of Tiber Septim
+
+The investigation revealed stakes far greater than anticipated. The Totem of Tiber Septim, an artifact capable of controlling the Numidium — the Dwemer divine golem — was somewhere in the region. Several rival factions sought to seize it, threatening the balance of power across the continent.
+
+## The Miracle of Peace
+
+### The Warp in the West
+
+In 3E 417, an unprecedented metaphysical event struck the Iliac Bay region. Known as the Miracle of Peace or the Warp in the West, this event is linked to the activation of the Numidium. Reality itself seemed to fracture and reconstitute: dozens of micro-kingdoms merged into a few powerful states overnight.
+
+### Political Consequences
+
+The Miracle of Peace drastically reduced the number of independent political entities in the Iliac Bay. Daggerfall, Sentinel, Wayrest, and Orsinium emerged as the dominant powers, absorbing the surrounding minor kingdoms. This realignment brought an end to centuries of micro-regional conflict.
+
+## The Legacy of the War
+
+### A Harbinger Conflict
+
+The War of Betony, though limited in scope, foreshadowed the decline of imperial authority. The Empire's inability to prevent conflict between two of its own vassals demonstrated the progressive weakening of central power — a weakening that would culminate in the Oblivion Crisis thirty years later.
+
+### Collective Memory
+
+In the memory of the peoples of the Iliac Bay, the War of Betony remains a symbol of the absurdity of territorial conflicts between neighbors. The island itself, the object of so much bloodshed, ultimately held only modest strategic value compared to the human cost of the war.
+
+### Lessons Unlearned
+
+Despite the Miracle of Peace and the political consolidation that followed, the lessons of the War of Betony were largely ignored. Regional rivalries continued to undermine imperial unity, and the inability of rulers to look beyond their local interests contributed to Tamriel's fragility in the face of crises to come.

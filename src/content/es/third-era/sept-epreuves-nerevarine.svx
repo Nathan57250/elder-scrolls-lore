@@ -1,0 +1,81 @@
+---
+title: "Las Siete Pruebas del Nerevarine"
+slug: "sept-epreuves-nerevarine"
+era: "third-era"
+category: "propheties"
+tags: ["nerevarine", "profecia", "cenicientos", "azura", "morrowind", "sacerdotes-disidentes", "tribunal"]
+timelineYear: 427
+summary: "Los textos proféticos de las Siete Pruebas, la Profecía Perdida y el Poema del Extraño: las condiciones precisas de la reencarnación de Nerevar según las tradiciones cenizosas."
+sources: ["UESP: Nerevarine Prophecy", "The Imperial Library: Seven Trials", "TES III: Morrowind — Nibani Maesa"]
+---
+
+# Las Siete Pruebas del Nerevarine
+
+Las **Siete Pruebas** constituyen el núcleo de la tradición profética cenizosa acerca del retorno de **Indoril Nerevar**. Transmitidas oralmente por las Mujeres Sabias de las tribus **Cenicientas** durante milenios, y luego compiladas por los **Sacerdotes Disidentes** del Templo, estas pruebas definen las condiciones precisas que un candidato debe cumplir para ser reconocido como el Nerevarine: la reencarnación del héroe dunmer traicionado en la **Montaña Roja**.
+
+## Las fuentes textuales
+
+### La Profecía Perdida
+
+La Profecía Perdida (Lost Prophecy) es el texto fundacional, atribuido a las visiones de la propia **Azura** transmitidas a las primeras Mujeres Sabias tras la traición del **Tribunal**:
+
+> *De tierras extrañas vendrá, ni atado ni libre,*
+> *Nacido bajo un signo incierto, con estrellas desconocidas.*
+> *De la maldición será purificado, de la plaga inmunizado,*
+> *Ni hombre ni mer, ni bestia ni demoño.*
+
+Este texto establece el perfil paradójico del candidato: un extranjero en Morrowind que no es ni esclavo ni hombre libre (un prisionero liberado), nacido bajo signos astrológicos imposibles de identificar de antemano.
+
+### El Poema del Extraño
+
+El Poema del Extraño (Stranger) completa la Profecía Perdida al describir las circunstancias de la llegada del Nerevarine:
+
+> *Cuando la Tierra tiemble y el Fuego arda,*
+> *Cuando los mares se alcen y los muertos caminen,*
+> *Cuando el Espectro tome forma y la niebla se espese,*
+> *El Extraño vendrá a derribar a los falsos dioses.*
+
+Los «falsos dioses» hacen referencia inequívoca al **Tribunal**, lo que explica por qué el Templo persiguió durante milenios a quienes difundían estos textos.
+
+## Las Siete Pruebas
+
+Las pruebas en sí, tal como fueron reveladas por **Nibani Maesa**, Mujer Sabia de los **Urshilaku**:
+
+### Primera Prueba — El Nacimiento
+El candidato debe haber nacido un día determinado bajo ciertos signos. La fecha exacta fue oscurecida por el Templo, pero los Cenizosos la reconocen de manera instintiva.
+
+### Segunda Prueba — La Plaga
+El Nerevarine debe sobrevivir a la **Enfermedad Corprus** —la plaga de **Dagoth Ur**— y ser curado de ella conservando sus dones de inmortalidad. Esta prueba elimina a cualquier impostor: el Corprus es incurable excepto para el Elegido.
+
+### Tercera Prueba — La Bóveda de Kogoruhn
+El candidato debe penetrar en las ruinas de **Kogoruhn**, fortaleza de la Sexta Casa, y traer pruebas de la corrupción de Dagoth Ur.
+
+### Cuarta Prueba — El Reconocimiento de los Cenizosos
+Las cuatro tribus Cenicientas deben reconocer al candidato como Nerevarine, cada una según sus propias pruebas tribales.
+
+### Quinta Prueba — El Reconocimiento de las Grandes Casas
+El candidato debe ser reconocido como Hortator (campeón de guerra) por las tres Grandes Casas de Vvardenfell: **Hlaalu**, **Redoran** y **Telvanni**.
+
+### Sexta Prueba — El Fuego Sagrado
+El Nerevarine debe adquirir las Herramientas de **Kagrenac** —**Keening**, **Sunder** y **Wraithguard**— los mismos instrumentos que el Tribunal utilizó para robar la divinidad.
+
+### Séptima Prueba — La Montaña Roja
+La prueba final: penetrar en el **Corazón de Lorkhan** bajo la Montaña Roja, vencer a Dagoth Ur y destruir el encantamiento que une el Corazón, poniendo fin tanto al poder de Dagoth Ur como al del Tribunal.
+
+## Interpretación y controversias
+
+### La posición del Templo
+
+El **Templo del Tribunal** declaró estas profecías heréticas y persiguió tanto a los Cenizosos como a los Sacerdotes Disidentes que las estudiaban. Para el Templo, el Nerevarine no era más que un mito peligroso que socavaba la legitimidad de los dioses vivientes. Los Ordinadores perseguían activamente a quienes difundían estos textos.
+
+### La posición de los Sacerdotes Disidentes
+
+Los **Sacerdotes Disidentes** —miembros del Templo que habían roto con la doctrina oficial— compilaron los textos cenizosos y los compararon con los archivos imperiales. Concluyeron que la profecía era auténtica y que el Tribunal había traicionado efectivamente a Nerevar.
+
+### La naturaleza de la reencarnación
+
+Una cuestión teológica persiste: ¿es el Nerevarine literalmente el alma de Nerevar retornada, o un individuo distinto que cumple las condiciones de la profecía? Los Cenizosos favorecen la reencarnación literal. Los Sacerdotes Disidentes sugieren que la distinción carece de importancia: lo que cuenta es el cumplimiento de las pruebas, no la identidad metafísica.
+
+## Cumplimiento en el año 3E 427
+
+En el año **427** de la Tercera Era, un prisionero imperial enviado a Morrowind por **Uriel Septim VII** cumplió las Siete Pruebas una a una. Su supervivencia al Corprus gracias a los trabajos de **Divayth Fyr**, su reconocimiento por las cuatro tribus y las tres Casas, y su destrucción final del Corazón de Lorkhan confirmaron la validez de la profecía milenaria y sellaron el destino del Tribunal.

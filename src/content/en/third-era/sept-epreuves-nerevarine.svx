@@ -1,0 +1,81 @@
+---
+title: "The Seven Trials of the Nerevarine"
+slug: "sept-epreuves-nerevarine"
+era: "third-era"
+category: "propheties"
+tags: ["nerevarine", "prophecy", "ashlanders", "azura", "morrowind", "dissident-priests", "tribunal"]
+timelineYear: 427
+summary: "The prophetic texts of the Seven Trials, the Lost Prophecy and the Stranger Poem — the precise conditions of Nerevar's reincarnation according to Ashlander traditions."
+sources: ["UESP: Nerevarine Prophecy", "The Imperial Library: Seven Trials", "TES III: Morrowind — Nibani Maesa"]
+---
+
+# The Seven Trials of the Nerevarine
+
+The **Seven Trials** form the heart of the Ashlander prophetic tradition concerning the return of **Indoril Nerevar**. Passed down orally by the Wise Women of the **Ashlander** tribes for millennia, then compiled by the **Dissident Priests** of the Temple, these trials define the precise conditions that a candidate must fulfill in order to be recognized as the Nerevarine — the reincarnation of the Dunmer hero betrayed at **Red Mountain**.
+
+## The Textual Sources
+
+### The Lost Prophecy
+
+The Lost Prophecy is the founding text, attributed to visions of **Azura** herself transmitted to the first Wise Women after the **Tribunal**'s betrayal:
+
+> *From a land of strangers he shall come, neither beholden nor free,*
+> *Born under a shrouded star, with signs unknown.*
+> *From the curse he shall be cleansed, from the plague made immune,*
+> *Neither man nor mer, neither beast nor Daedra.*
+
+This text establishes the paradoxical profile of the candidate: a stranger to Morrowind who is neither slave nor free citizen (a freed prisoner), born under astrological signs impossible to identify in advance.
+
+### The Stranger Poem
+
+The Stranger Poem completes the Lost Prophecy by describing the circumstances of the Nerevarine's arrival:
+
+> *When Earth shall shake and Fire shall burn,*
+> *When seas shall rise and the dead shall walk,*
+> *When the Specter takes form and the mist grows thick,*
+> *The Stranger comes to cast down the false gods.*
+
+The "false gods" refer unambiguously to the **Tribunal** — which explains why the Temple persecuted for millennia anyone who circulated these texts.
+
+## The Seven Trials
+
+The trials themselves, as revealed by **Nibani Maesa**, Wise Woman of the **Urshilaku**:
+
+### First Trial — Birth
+The candidate must have been born on a certain day under certain signs. The exact date was obscured by the Temple, but the Ashlanders recognize it instinctively.
+
+### Second Trial — The Plague
+The Nerevarine must survive **Corprus disease** — the plague of **Dagoth Ur** — and be cured of it while retaining their gifts of immortality. This trial eliminates all impostors: Corprus is incurable except for the Chosen One.
+
+### Third Trial — The Vault of Kogoruhn
+The candidate must penetrate the ruins of **Kogoruhn**, stronghold of the Sixth House, and bring back proof of Dagoth Ur's corruption.
+
+### Fourth Trial — Recognition by the Ashlanders
+All four Ashlander tribes must recognize the candidate as Nerevarine, each according to its own tribal trials.
+
+### Fifth Trial — Recognition by the Great Houses
+The candidate must be recognized as Hortator (war champion) by the three Great Houses of Vvardenfell: **Hlaalu**, **Redoran**, and **Telvanni**.
+
+### Sixth Trial — The Sacred Fire
+The Nerevarine must acquire the Tools of **Kagrenac** — **Keening**, **Sunder**, and **Wraithguard** — the same instruments the Tribunal used to steal divinity.
+
+### Seventh Trial — Red Mountain
+The final trial: to enter the **Heart of Lorkhan** beneath Red Mountain, defeat Dagoth Ur, and destroy the enchantment binding the Heart — putting an end to both Dagoth Ur's power and that of the Tribunal.
+
+## Interpretation and Controversies
+
+### The Temple's Position
+
+The **Tribunal Temple** declared these prophecies heretical and persecuted both the Ashlanders and the Dissident Priests who studied them. For the Temple, the Nerevarine was nothing more than a dangerous myth undermining the legitimacy of the living gods. The Ordinators actively hunted anyone who circulated these texts.
+
+### The Dissident Priests' Position
+
+The **Dissident Priests** — Temple members who had broken with official doctrine — compiled the Ashlander texts and compared them to the imperial archives. They concluded that the prophecy was authentic and that the Tribunal had indeed betrayed Nerevar.
+
+### The Nature of Reincarnation
+
+A theological question persists: is the Nerevarine literally the soul of Nerevar returned, or a distinct individual who fulfills the conditions of the prophecy? The Ashlanders favor literal reincarnation. The Dissident Priests suggest the distinction is immaterial — the fulfillment of the trials is what matters, not the metaphysical identity.
+
+## Fulfillment in 3E 427
+
+In the year **427** of the Third Era, an imperial prisoner sent to Morrowind by **Uriel Septim VII** fulfilled the Seven Trials one by one. Their survival of Corprus through the work of **Divayth Fyr**, their recognition by all four tribes and the three Houses, and their final destruction of the Heart of Lorkhan confirmed the validity of the millennia-old prophecy — and sealed the fate of the Tribunal.

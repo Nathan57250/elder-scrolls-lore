@@ -1,0 +1,58 @@
+---
+title: "Historia de las Hojas"
+slug: "blades-history"
+era: "third-era"
+category: "guildes"
+tags: ["hojas", "akavir", "guardia-dragon", "emperadores", "espias", "disolucion"]
+timelineYear: 200
+summary: "La historia completa de las Hojas, desde sus orígenes como Guardia del Dragón akaviri hasta su papel como protectores imperiales y su disolución al comienzo de la Cuarta Era."
+sources: ["The Rise and Fall of the Blades", "Erta's Report", "Atlas of Dragons", "Pocket Guide to the Empire"]
+---
+
+## Los orígenes akaviri
+
+Las **Hojas** tienen su origen en la **Guardia del Dragón** de **Akavir**, una orden de guerreros del continente oriental cuya misión principal era rastrear y eliminar dragones. Los **Tsaesci** de Akavir estaban obsesionados con los dragones, hasta el punto de que, según la leyenda, los habrían devorado a todos en su continente. La Guardia del Dragón era la élite de esa tradición de caza de dragones: guerreros de excepcional destreza marcial armados con katanas finamente elaboradas.
+
+Cuando los Tsaesci invadieron **Tamriel** en el año 1E 2703 bajo su Potentado, buscaban a los dragones que habían huido de Akavir. Su invasión fue repelida por el Emperador **Reman Cyrodiil**, pero el encuentro entre los invasores y el Emperador cambió el curso de ambas civilizaciones. Los Tsaesci, al reconocer en Reman a un **Dovahkiin** —un Sangre de Dragón— se arrodillaron ante él y juraron servirle.
+
+Esta sumisión voluntaria transformó a la Guardia del Dragón en una orden al servicio de la dinastía imperial. Los guerreros Tsaesci se convirtieron en los guardaespaldas, espías y consejeros más fieles de los emperadores Reman. Su lealtad no era hacia el Imperio como institución, sino hacia la sangre del dragón que corría por las venas de Reman y sus descendientes. Esta distinción sutil pero crucial definiría la identidad de las Hojas durante milenios.
+
+## La transformación en las Hojas
+
+Con el paso de los siglos, la orden se abrió a reclutas no Tsaesci y evolucionó hasta convertirse en lo que conocemos como las **Hojas**. La identidad akaviri se fue diluyendo progresivamente, reemplazada por una cultura propia que mezclaba tradiciones orientales y occidentales. Las katanas siguieron siendo el arma emblemática, y se mantuvieron ciertos rituales Tsaesci, pero la orden se volvió fundamentalmente tamriélica.
+
+Bajo la dinastía **Septim**, las Hojas alcanzaron la cúspide de su poder e influencia. El propio **Tiber Septim** era un Dovahkiin, y su relación con las Hojas reproducía la de Reman con la Guardia del Dragón original. La orden servía al Emperador como guardia personal, servicio de inteligencia y fuerza de intervención especial —una combinación de funciones que la convertía en la organización más versátil y temida del Imperio.
+
+El cuartel general de las Hojas, el **Templo del Gobernante de Nubes** en las montañas de Cyrodiil, albergaba los archivos más completos del Imperio sobre dragones, Dovahkiin y amenazas sobrenaturales. El **Muro de Alduin**, una profecía esculpida en piedra por los antiguos akaviri, se conservaba allí, aguardando el día en que su significado se volvería crucial para la supervivencia del mundo.
+
+## El papel bajo los Septim
+
+Durante la Tercera Era, las Hojas funcionaban principalmente como un servicio de inteligencia al servicio directo del Emperador. Sus agentes, los **Spectrins**, operaban encubiertos en todas las provincias del Imperio, recabando información, neutralizando amenazas y ejecutando la voluntad imperial lejos de los canales oficiales. Su existencia era un secreto a voces: todo el mundo sabía que existían, pero nadie podía demostrar quiénes eran.
+
+El Gran Maestro de las Hojas actuaba como consejero personal del Emperador en materia de seguridad. **Jauffre**, el último Gran Maestro de la Tercera Era, residía en el **Priorato de Weynon**, un monasterio que servía de tapadera para una de las bases más importantes de la orden. Fue a Jauffre a quien el Campeón de Cyrodiil entregó el Amuleto de los Reyes tras el asesinato de Uriel Septim VII.
+
+Las Hojas también mantenían vigilancia sobre las actividades daédricas, necromantes y otras amenazas sobrenaturales. Sus archivos contenían siglos de información sobre cultos peligrosos, artefactos poderosos y profecías pendientes de cumplimiento. Esta base de conocimientos hacía de las Hojas la institución mejor informada del Imperio en materia de peligros ocultos.
+
+## La Crisis de Oblivion y la caída de los Septim
+
+La **Crisis de Oblivion** del año 3E 433 puso a las Hojas a prueba como nunca antes. El asesinato del Emperador y la destrucción del Priorato de Weynon a manos del **Alba Mítica** asestaron golpes severos a la organización. Pero las Hojas se reagruparon en el **Templo del Gobernante de Nubes** y desempeñaron un papel crucial en la protección de **Martin Septim** y en la resolución de la crisis.
+
+Las Hojas combatieron junto al Campeón de Cyrodiil a lo largo de toda la crisis —cerrando Portales de Oblivion, defendiendo Bruma de un masivo asalto daédrico y escoltando a Martin hasta la Ciudad Imperial para el enfrentamiento final. Su valentía fue ejemplar, y varios miembros de la orden pagaron con su vida su devoción a la causa imperial.
+
+Pero el sacrificio de Martin —quien se transformó en un avatar de **Akatosh** para repeler a **Mehrunes Dagon**— dejó a las Hojas sin razón de ser. Su juramento las ligaba a la sangre del dragón, y con la extinción del linaje Septim, ese juramento ya no podía ser honrado. La orden sobrevivió a la crisis, pero perdió su identidad fundamental: guardianes sin nadie a quien guardar.
+
+## La disolución y la persecución
+
+La **Cuarta Era** fue catastrófica para las Hojas. El **Concordato del Oro Blanco**, tratado impuesto por el **Dominio Aldmeri** al Imperio al término de la **Gran Guerra**, exigió explícitamente la disolución de la orden. Los **Thalmor** consideraban a las Hojas una amenaza directa: cazadores de dragones que podrían interferir con sus propios planes en torno al culto de **Talos** y la naturaleza divina del Sangre de Dragón.
+
+La caza de las Hojas fue sistemática y brutal. Los agentes Thalmor rastrearon a los miembros de la orden por todo el Imperio, ejecutándolos o obligándolos a ocultarse. El Templo del Gobernante de Nubes fue sellado. Los archivos fueron confiscados o destruidos. En pocos años, una organización que había servido al Imperio durante milenios quedó reducida a un puñado de supervivientes escondidos.
+
+Los escasos miembros de las Hojas que sobrevivieron a esa purga vivieron en las sombras, cambiando de identidad, moviéndose constantemente, sin atreverse a revelar su pasada afiliación. **Delphine** y **Esbern**, los más conocidos de esos supervivientes, no reaparecieron hasta el año 4E 201, cuando la aparición de un nuevo Dovahkiin les dio por fin una razón para salir de la oscuridad.
+
+## La esperanza de un renacimiento
+
+La aparición del **Sangre de Dragón** en Skyrim en el año 4E 201 ofreció a los supervivientes de las Hojas una oportunidad de renacimiento. Por primera vez desde la extinción de los Septim, existía en el mundo un ser portador de sangre de dragón, y con él llegaba la posibilidad de reconstruir la orden sobre sus cimientos originales. El Templo del Gobernante de Nubes fue reabierto y se aceptaron los primeros reclutas de una nueva orden.
+
+Pero la cuestión de la identidad de las nuevas Hojas seguía abierta. ¿Serían un servicio de inteligencia imperial como bajo los Septim? ¿Una orden de cazadores de dragones como la Guardia del Dragón original? ¿O algo completamente nuevo, adaptado a las realidades de una era sin Emperador? La respuesta dependería del Dovahkiin y de la visión que él o ella impusiera a la orden renaciente.
+
+La historia de las Hojas —desde la Guardia del Dragón de Akavir hasta los fugitivos de la Cuarta Era— es la de una orden que se reinventó constantemente para servir un ideal inmutable: la protección de la sangre del dragón. Ese ideal sobrevivió a los cambios de dinastía, las invasiones daédricas y la persecución. Mientras exista un Dovahkiin en algún lugar del mundo, las Hojas tendrán una razón para existir.

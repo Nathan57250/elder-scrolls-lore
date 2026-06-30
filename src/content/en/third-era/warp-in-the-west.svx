@@ -1,0 +1,146 @@
+---
+title: "The Warp in the West"
+slug: "warp-in-the-west"
+era: "third-era"
+category: "evenements"
+tags: ["warp-in-the-west", "daggerfall", "dragon-break", "numidium", "high-rock", "hammerfell", "tiber-septim", "mantella"]
+timelineYear: 417
+summary: "The Dragon Break that occurred in 3E 417 in the Iliac Bay, where all possible outcomes of the conflict for control of the Numidium occurred simultaneously, reshaping the political geography of High Rock and Hammerfell."
+sources: ["UESP: The Warp in the West", "The Daggerfall Chronicles", "Where Were You When the Dragon Broke?", "Events of TES II: Daggerfall"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Origins — What Led to This Event
+
+**What caused the Warp in the West?**
+
+The Dragon Break of 3E 417 is the result of a convergence of factors that made a temporal paradox inevitable:
+
+1. **The Totem of Tiber Septim**: The only artifact capable of controlling the Numidium, it was rediscovered in the Iliac Bay after centuries of obscurity. Its reappearance triggered a power struggle between seven irreconcilable factions.
+
+2. **The Numidium**: The Dwemer's divine automaton, rebuilt by Tiber Septim, is an artifact whose very nature *negates reality*. Every activation causes a fracture in time — it is written into its ontological nature as a metaphysical "NO."
+
+3. **The Mantella**: The soul gem containing the essence of Zurin Arctus/Wulfharth fueled the Numidium. Its power combined with the Totem's created the conditions for a total paradox.
+
+4. **Seven Incompatible Factions**: The Empire, Daggerfall, Wayrest, Sentinel, Orsinium, Mannimarco, and the Underking — each with a mutually exclusive objective. When the Blades agent activated the Numidium, reality could not "choose" a single winner.
+
+5. **Akatosh's Inability to Maintain a Timeline**: Faced with the Numidium (which negates time) activated in a context of absolute paradox (seven mutually exclusive outcomes), the Dragon of Time himself broke.
+
+**What did the Warp cause?**
+
+- **Unified High Rock**: From forty-four fragmented kingdoms to four stable nations
+- **Orsinium recognized**: For the first time, the Orcs obtained permanent political legitimacy
+- **Political stability**: End of the perpetual wars of the Iliac Bay
+- **Temporal damage**: Collective memory remains fragmented; testimonies contradict each other
+- **Mannimarco deified**: The creation of a necromantic god whose influence persists into later eras
+- **Dangerous precedent**: Proof that the Numidium can rewrite reality at will
+
+## Context — The Totem of Tiber Septim
+
+In **3E 401**, Emperor **Uriel Septim VII** sent a Blades agent into the region of the **Iliac Bay**, officially to investigate the ghost of King Lysandus of Daggerfall. But the true mission was far more perilous: to recover the **Totem of Tiber Septim**, the only artifact capable of controlling the **Numidium** — the Dwemer's divine automaton, rebuilt by Tiber Septim during his conquest.
+
+The Numidium, powered by the **Mantella** (a soul gem containing the essence of Underking Zurin Arctus), represented a power capable of rewriting reality itself.
+
+### The Claimants to Power
+
+Seven major factions coveted the Numidium:
+
+| Faction | Objective |
+|---------|-----------|
+| Empire (Uriel Septim VII) | Reassert imperial control over the Iliac Bay |
+| King of Daggerfall | Domination of High Rock |
+| King of Wayrest | Commercial and military supremacy |
+| King of Sentinel | Expansion of Hammerfell northward |
+| Orc King (Gortwog) | Recognition of Orsinium as a sovereign nation |
+| Queen Mannimarco | Divine ascension through necromancy |
+| Underking (Zurin Arctus) | Liberation of his soul trapped in the Mantella |
+
+## The Dragon Break
+
+On **the 10th of Frostfall, 3E 417**, the Blades agent activated the Numidium. What then occurred defies all temporal logic and remains one of the most debated events among Tamriel's scholars.
+
+A **Dragon Break** — the phenomenon where linear time ceases to exist and all possibilities are realized simultaneously — enveloped the entirety of the Iliac Bay. For a moment that may have lasted a second or perhaps a century, **all seven outcomes occurred at the same time**.
+
+### What Is a Dragon Break?
+
+Time in the Elder Scrolls universe is maintained by **Akatosh**, the divine Dragon of Time. A Dragon Break occurs when an event is so paradoxical, so laden with divine power, that even Akatosh cannot maintain a single timeline. Time fragments — each fragment containing a different reality — then reassembles incorporating **all** realities at once.
+
+> *"When the Dragon breaks, there are no lies — for every truth is true."*
+
+## The Seven Simultaneous Outcomes
+
+After the Warp, the world emerged with all of the following consequences integrated into reality:
+
+### 1. The Numidium Was Activated for the Empire
+The Emperor gained control of the Numidium, consolidating imperial power in the region. The forty-four small kingdoms were reduced to four great nations under the Empire.
+
+### 2. The Numidium Was Given to Daggerfall
+The kingdom of Daggerfall absorbed its neighbors and became a major power in High Rock.
+
+### 3. The Numidium Was Given to Wayrest
+Wayrest expanded considerably, dominating the bay's maritime trade.
+
+### 4. The Numidium Was Given to Sentinel
+Sentinel unified Redguard territories and extended its influence northward.
+
+### 5. Orsinium Was Recognized
+Gortwog's Orcs obtained recognition of their city-state, an unprecedented event in Tamrielic history.
+
+### 6. Mannimarco Achieved Divinity
+The King of Worms transcended his mortal form and became the **God of Worms** — a necromantic deity. This is why Mannimarco exists simultaneously as a mortal and a god in later eras.
+
+### 7. The Underking Was Freed
+The soul of Zurin Arctus was finally released from the Mantella, finding rest after centuries of captivity.
+
+## The Geopolitical Consequences
+
+Before the Warp, the Iliac Bay contained **forty-four independent kingdoms, counties, and duchies**. After the event, only **four major nations** remained:
+
+- **Daggerfall** — the dominant kingdom of western High Rock
+- **Wayrest** — the commercial power of eastern High Rock
+- **Sentinel** — the expanded Redguard kingdom to the south
+- **Orsinium** — the newly recognized Orc city-state
+
+What scholars call the **"Miracle of Peace"** was in reality a bloodbath compressed into an instant: thousands died, noble lines were extinguished, borders were redrawn by brute force — but all of this occurred *outside of time*, leaving only the results in collective memory.
+
+## The Fragmented Memory
+
+The inhabitants of the Iliac Bay do not remember the Warp coherently. Some recall swearing allegiance to one king; others swear they fought for the opposing faction. Both are right. This memory confusion is the scar left by the broken Dragon.
+
+The imperial text *"Where Were You When the Dragon Broke?"* collects contradictory testimonies from this era — none are false; all are true.
+
+## Metaphysical Significance
+
+The Warp in the West demonstrates a fundamental principle of Tamrielic cosmology: **the Numidium negates reality**. Wherever it walks, time fractures, because its very nature is a "NO" screamed at existence. Every activation of the Numidium in history has provoked a Dragon Break — from Tiber Septim to the Iliac Bay.
+
+This is why the Thalmor fear it, why the Empire ultimately abandoned it, and why some believe the next Numidium could break the Dragon permanently.
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Tiber Septim rebuilds the Numidium (2E) → Conquest of the Aldmeri Dominion", link: "/chronologie/second-era/tiber-septim" },
+  { text: "Numidium deactivated and hidden after the conquest" },
+  { text: "Totem of Tiber Septim rediscovered in the Iliac Bay (3E 401)" },
+  { text: "Seven factions compete for control of the Numidium" },
+  { text: "Empire", indent: 1 },
+  { text: "Daggerfall", indent: 1 },
+  { text: "Wayrest", indent: 1 },
+  { text: "Sentinel", indent: 1 },
+  { text: "Orsinium", indent: 1 },
+  { text: "Mannimarco", indent: 1 },
+  { text: "Underking", indent: 1 },
+  { text: "Blades agent activates the Numidium (3E 417)" },
+  { text: "PARADOX: 7 mutually exclusive outcomes + Numidium (negates reality)" },
+  { text: "DRAGON BREAK (Time fragments)" },
+  { text: "ALL outcomes become simultaneously true" },
+  { text: "44 kingdoms → 4 stable nations", indent: 1 },
+  { text: "Orsinium recognized as a sovereign state", indent: 1 },
+  { text: "Mannimarco achieves divinity", indent: 1 },
+  { text: "Zurin Arctus freed from the Mantella", indent: 1 },
+  { text: "Collective memory fragmented", indent: 1 },
+  { text: "\"Miracle of Peace\" → Regional political stability" },
+  { text: "Precedent for the dangers of the Numidium → Empire abandons the artifact" }
+]} />

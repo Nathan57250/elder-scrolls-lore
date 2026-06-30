@@ -1,0 +1,114 @@
+---
+title: "The Dark Brotherhood"
+slug: "confrerie-noire"
+era: "third-era"
+category: "guildes"
+tags: ["dark-brotherhood", "sithis", "night-mother", "assassins", "morag-tong", "sanctuary", "darkness"]
+timelineYear: 358
+summary: "An assassins' guild venerating Sithis and the Night Mother, the Dark Brotherhood operates from the shadows across all of Tamriel, bound by the Five Tenets and a grim ritual known as the Black Sacrament."
+sources: ["UESP: Dark Brotherhood", "The Night Mother's Truth", "Sacred Witness", "Events of TES IV: Oblivion", "Events of TES V: Skyrim"]
+---
+
+## Origins — From the Morag Tong to the Brotherhood
+
+The **Dark Brotherhood** was born from a schism within the **Morag Tong**, the legally sanctioned assassins' guild of Morrowind that serves the Daedric Prince Mephala. During the Second Era, a group of dissidents rejected the state-approved structure and the veneration of Mephala to embrace a far older and more terrible entity: **Sithis** — the Void itself.
+
+Where the Morag Tong kills under legal contract with the approval of the Dunmer government, the Dark Brotherhood kills for anyone who performs the **Black Sacrament**. No legality, no political justification — only death as sacred service.
+
+## Sithis and the Night Mother
+
+### Sithis — The Primordial Void
+
+**Sithis** is not a god in the traditional sense. He is the force of change and dissolution that precedes all creation. Where Anu represents stasis and permanence, Sithis is entropy, the end, the return to nothingness. Brotherhood members believe that every soul they send into the Void nourishes Sithis.
+
+### The Night Mother
+
+The **Night Mother** is the link between Sithis and his mortal followers. According to Brotherhood tradition:
+
+- She was once a mortal woman who murdered her five children as an offering to Sithis
+- In reward, Sithis transformed her into his spectral wife and mouthpiece
+- Her mummified body is kept and secretly moved between Sanctuaries
+- Only the **Listener** can hear her voice and receive contracts
+
+### The Listener and the Speaker
+
+The divine communication hierarchy functions as follows:
+
+1. **Sithis** conveys his will to the **Night Mother**
+2. The Night Mother whispers contracts to the **Listener** (a unique member chosen by her)
+3. The Listener passes orders to the **Speakers** (leaders of each Sanctuary)
+4. The Speakers distribute contracts to **assassins**
+
+## The Five Tenets
+
+Every member of the Brotherhood is bound by the **Five Tenets** — absolute rules whose violation brings the visit of a vengeful spirit:
+
+| Tenet | Rule |
+|-------|------|
+| First | Never disobey or refuse to obey the orders of a Dark Brotherhood superior |
+| Second | Never compromise the Brotherhood or its members |
+| Third | Never steal the possessions of a Dark Brother or Sister |
+| Fourth | Never kill a Dark Brother or Sister |
+| Fifth | Never refuse to pay the Brotherhood for its services |
+
+Violating a Tenet invokes Sithis's wrath. According to members, a specter appears to the traitor in their sleep — and they never wake again.
+
+## The Black Sacrament
+
+The **Black Sacrament** is the ritual by which a client solicits the Brotherhood's services:
+
+### Required Components
+- A human body (real or symbolic)
+- Human bones
+- Human flesh
+- Nightshade leaves
+- Nightbloom petals
+
+### The Ritual
+The client must lock themselves in a dark room, arrange the components around them, then stab the body while repeating the incantation:
+
+> *"Sweet Mother, sweet Mother, send your child unto me, for the sins of the unworthy must be baptized in blood and fear."*
+
+If the ritual is performed correctly, the Night Mother hears the call and passes the contract to the Listener.
+
+## Structure and Sanctuaries
+
+The Brotherhood operates through a network of **Sanctuaries** — hidden lairs scattered throughout all of Tamriel's provinces. Each Sanctuary is a family:
+
+- **The Speaker** — Sanctuary leader, receives contracts from the Listener
+- **The Assassins** — full members who carry out contracts
+- **The Initiates** — new recruits in their trial period
+- **The Crypt Keeper** — protector of the Night Mother's body (in whichever Sanctuary houses her)
+
+### Known Sanctuaries During the Third Era
+
+- **Cheydinhal** (Cyrodiil) — one of the most active, led by Ocheeva
+- **Blackwood** (Cyrodiil) — abandoned Sanctuary housing the Night Mother's body
+- **Falkreath** (Skyrim) — an ancient Sanctuary deep within a Nordic crypt
+- **Multiple refuges in Morrowind** — in direct competition with the Morag Tong
+
+## The Brotherhood During the Third Era
+
+### The Purification
+
+The most traumatic event for the Brotherhood during the Third Era was the **Purification** of the Cheydinhal Sanctuary. Orchestrated by Lucien Lachance on orders from what he believed to be the Night Mother, this purge involved the elimination of all Sanctuary members by a single assassin.
+
+In reality, this manipulation was the work of an infiltrated traitor — proof that even an organization built on secrecy can be corrupted from within.
+
+### Rivalry with the Morag Tong
+
+In Morrowind, the Dark Brotherhood and the Morag Tong wage a permanent shadow war:
+
+- The Morag Tong regards the Brotherhood as misguided heretics
+- The Brotherhood sees the Morag Tong as timid relics shackled by bureaucracy
+- Mutual assassinations are frequent
+- The Tribunal historically favored the Morag Tong, keeping the Brotherhood underground in Morrowind
+
+## Philosophy and Beliefs
+
+To its members, the Brotherhood is not merely a criminal guild — it is a **religious order**. Death is not a sin but a sacrament. Every completed contract is a prayer to Sithis, every life taken an offering to the Void.
+
+This sincere conviction distinguishes the Brotherhood from mere mercenaries. A Brotherhood assassin does not kill for gold — they kill because death is sacred, and the Void demands its due.
+
+> *"What is the music of life? Silence, my brother."*
+> — Traditional Dark Brotherhood recognition phrase

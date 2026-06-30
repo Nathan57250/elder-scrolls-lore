@@ -1,0 +1,54 @@
+---
+title: "Vvardenfell"
+slug: "vvardenfell"
+era: "third-era"
+category: "geographie"
+tags: ["morrowind", "vvardenfell", "red-mountain", "tribunal", "dagoth-ur", "dwemer"]
+date: "Merethic Era — 4E 5"
+timelineYear: 400
+summary: "Volcanic island of Morrowind dominated by Red Mountain, site of the Heart of Lorkhan, Dwemer ruins, and the conflict between the Tribunal and Dagoth Ur."
+mapCoords: { x: 740, y: 300 }
+province: "Morrowind"
+relatedArticles: ["vivec", "dwemer", "premiere-ere"]
+sources: ["UESP: Vvardenfell", "Events of TES III: Morrowind"]
+---
+
+![Vvardenfell seen from the coast](/images/third-era/vvardenfell.jpg)
+
+## Geography
+
+**Vvardenfell** is a vast volcanic island at the center of the province of Morrowind, dominated by **Red Mountain** — a massive active volcano at whose heart lay the Heart of Lorkhan.
+
+The island displays remarkable geographical diversity:
+- **Azura's Coast** — cliffs and coves to the east
+- **Ashlands** — volcanic deserts to the north and center
+- **Bitter Coast** — marshes to the west
+- **Grazelands** — grasslands to the northeast
+- **West Gash** — wooded hills to the west
+
+## Red Mountain and the Ghostfence
+
+Red Mountain is no ordinary volcano — at its heart rested the **Heart of Lorkhan**, the source of power for both the Tribunal and Dagoth Ur.
+
+To contain the threat of Dagoth Ur and his Corprus plague, the Tribunal erected the **Ghostfence** — an immense magical barrier of spirits encircling Red Mountain, sustained by the souls of dead Dunmer.
+
+## Dwemer Ruins
+
+Vvardenfell houses some of the best-preserved Dwemer ruins in all of Tamriel:
+- **Arkngthand** — site of the rediscovery of Wraithguard
+- **Mzulft** — great underground city
+- **Nchardak** — semi-submerged city on the island of Solstheim
+
+## Major Events
+
+### The Nerevarine War (3E 427)
+The Nerevarine, prophesied by Azura, arrived on Vvardenfell and:
+- Obtained the Tools of Kagrenac
+- Entered Red Mountain
+- Destroyed the Heart of Lorkhan
+- Defeated Dagoth Ur
+
+### The Red Year (4E 5)
+After Vivec's disappearance and the fall of the Ministry of Truth (a meteor he had been keeping suspended above Vivec City), the meteor crashed down, triggering Red Mountain's eruption.
+
+The **Red Year** devastated Vvardenfell: tsunamis, ash rain, lava flows. The majority of the island became uninhabitable. Hundreds of thousands of Dunmer perished or were displaced.

@@ -1,0 +1,82 @@
+---
+title: "The Events of TES: Arena"
+slug: "arena-events"
+era: "third-era"
+category: "evenements"
+tags: ["arena", "jagar-tharn", "imperial-simulacrum", "uriel-septim", "eternal-champion", "staff-of-chaos"]
+timelineYear: 399
+summary: "The usurpation of the imperial throne by the mage Jagar Tharn and the Eternal Champion's quest to free the Emperor."
+sources: ["The True Barenziah", "Brief History of the Empire", "The Imperial Simulacrum"]
+---
+
+## The Imperial Simulacrum
+
+The **Imperial Simulacrum** refers to the ten-year period (3E 389 – 3E 399) during which the mage **Jagar Tharn**, imperial advisor and traitor, usurped the throne of **Tamriel** by imprisoning the Emperor **Uriel Septim VII** in a parallel dimension and taking his place through powerful illusion magic.
+
+This usurpation stands as one of the greatest deceptions in imperial history. For an entire decade, the whole continent was governed by an impostor — without any advisors, nobles, or even the Emperor's personal guard noticing.
+
+Jagar Tharn did not merely rule; he actively manipulated the Empire to serve his own ends, stoking conflicts between provinces, weakening institutions, and consolidating absolute personal power behind the mask of the rightful Emperor.
+
+## Jagar Tharn: the Traitor Mage
+
+**Jagar Tharn** was the **Imperial Battlemage**, one of the most prestigious and powerful positions at the Emperor's court. As the Emperor's personal magical advisor, he had access to the Empire's most sensitive secrets and the complete trust of Uriel Septim VII.
+
+Tharn was a mage of exceptional power, mastering the arts of illusion at a level beyond ordinary comprehension. His ability to perfectly replicate the Emperor's appearance, voice, and mannerisms testifies to a terrifying command of magic.
+
+His motivations remain partially obscure. Pure power was certainly a factor, but some sources suggest that Tharn served darker interests — perhaps those of the **Daedric Princes** or even older forces. The **Staff of Chaos**, the artifact he used to imprison Uriel, is a Daedric object of considerable power.
+
+## The Imprisonment of Uriel Septim VII
+
+The central act of Tharn's scheme was the use of the **Staff of Chaos** to trap **Uriel Septim VII** in an alternate dimension. The Staff, an artifact of immense power, created a dimensional prison from which the Emperor could not escape by his own means.
+
+To ensure that no one could free Uriel, Tharn shattered the Staff into eight fragments that he scattered throughout Tamriel, hiding them in dungeons guarded by powerful creatures. Without the reconstituted Staff, the dimensional prison was inviolable.
+
+The only witness to the act — **Ria Silmane**, Tharn's apprentice who attempted to intervene — was killed by the traitor. But her spirit persisted beyond death, refusing to leave Mundus until justice was done.
+
+## The Reign of the Impostor
+
+For ten years, Tharn governed Tamriel under the guise of Uriel Septim VII. His reign was characterized by a series of seemingly erratic but calculated decisions designed to weaken the Empire from within:
+
+He stoked tensions between provinces, encouraging border conflicts that diverted the attention of nobles away from the imperial court. Local wars erupted throughout Tamriel, each one profitable to the false emperor.
+
+He undermined the **Elder Council**, marginalizing the most perceptive advisors who might have detected the deception. Key posts were assigned to loyal incompetents or Tharn's own agents.
+
+He diverted imperial resources toward personal projects, accumulating magical power and wealth in secret caches throughout the Empire.
+
+Paradoxically, the Simulacrum was not a period of total chaos — Tharn was intelligent enough to maintain an appearance of stability while undermining the Empire's foundations.
+
+## The Eternal Champion
+
+Liberation came from an unexpected hero: the **Eternal Champion**, an anonymous prisoner whose precise identity has been lost to history. Guided by the ghost of **Ria Silmane**, this hero undertook an epic quest to reconstitute the Staff of Chaos.
+
+The Champion crossed the eight provinces of Tamriel, confronting the guardians of each fragment of the Staff. Each dungeon presented a mortal challenge: labyrinths filled with monsters, magical traps, and increasingly powerful enemies.
+
+Ria Silmane, from beyond the grave, guided the Champion through visions and messages, indicating the location of each fragment and the dangers that awaited. Her posthumous devotion to the imperial cause makes her one of the unsung heroines of this period.
+
+## The Final Confrontation
+
+Once the eight fragments were gathered and the Staff of Chaos reconstituted, the Eternal Champion traveled to the **Imperial Palace** in the **Imperial City** to confront Jagar Tharn directly.
+
+The confrontation was a magical duel of extraordinary violence. Tharn, unmasked and cornered, unleashed his full power against the Champion. But the Staff of Chaos, turned against its original wielder, gave the Champion the necessary advantage.
+
+Jagar Tharn was destroyed — some sources say disintegrated, others claim his soul was absorbed by the Staff itself — and the dimensional prison shattered. **Uriel Septim VII** was freed after a decade of captivity, returning to an Empire weakened and divided by his usurper's machinations.
+
+## The Aftermath of the Simulacrum
+
+The return of Uriel Septim VII to the throne did not immediately put an end to the problems created by the Simulacrum:
+
+The Empire was weakened, its institutions undermined and its provinces in conflict. Trust in imperial authority had been eroded by a decade of misgovernance.
+
+The local wars stoked by Tharn did not extinguish themselves. The conflict in **High Rock** that would lead to the events of **Daggerfall** was already taking shape.
+
+The reputation of imperial magic was tarnished. How had a court mage been able to deceive everyone for ten years? This question undermined public trust in institutional mages.
+
+Uriel VII himself emerged from captivity changed — more suspicious, more introspective, and haunted by the sense that dark forces continued to threaten the Empire from within.
+
+## Historical Legacy
+
+The Imperial Simulacrum is often regarded as the first sign of the terminal weakening of the **Septim Empire**. If a single mage could seize the throne for a decade, it revealed deep structural flaws in imperial security and governance.
+
+The event is also a reminder of the terrifying power of magic in the hands of malevolent individuals. The institutional response — a tightening of oversight over mages — would fuel tensions between the **Mages Guild** and imperial authority for decades to come.
+
+The Eternal Champion, for his part, vanished from history after his exploit, joining the lineage of Tamriel's anonymous heroes — ordinary individuals who, in extraordinary circumstances, changed the fate of the world.

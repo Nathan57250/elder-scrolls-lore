@@ -1,0 +1,90 @@
+---
+title: "The Oblivion Gates"
+slug: "oblivion-gates"
+era: "third-era"
+category: "magie"
+tags: ["oblivion", "gates", "sigil-stones", "mehrunes-dagon", "oblivion-crisis", "daedra"]
+timelineYear: 433
+summary: "The mechanics of the Oblivion Gates, the Sigil Stones that sustain them, and the role they played in the Oblivion Crisis."
+sources: ["The Gates of Oblivion", "Mythic Dawn Commentaries", "Legion War Journal", "Report on the Planes of Oblivion"]
+---
+
+## The Barrier Between Worlds
+
+**Mundus** — the mortal plane — and **Oblivion** — the realm of the **Daedric Princes** — are separated by a metaphysical barrier maintained by the **Pillars of Creation**, the sacrifice of the **Aedra** that gave birth to the world. This barrier, sometimes called the "Liminal Barrier," normally prevents Daedra of great power from physically accessing the mortal plane.
+
+**Oblivion Gates** are breaches in this barrier — physical passages connecting a location in Mundus to a specific plane of Oblivion. Their creation is one of the most complex and dangerous magical acts conceivable, for it involves literally tearing the fabric of reality.
+
+Under normal circumstances, these breaches are rare, unstable, and temporary. But during the **Oblivion Crisis** of 3E 433, the **Mythic Dawn** cult managed to open hundreds of permanent gates into **Mehrunes Dagon**'s Deadlands, threatening to overwhelm all of **Tamriel** beneath Daedric hordes.
+
+## The Anatomy of an Oblivion Gate
+
+An Oblivion Gate manifests physically as a massive arch of stone or metal, framing a portal of flame and Daedric energy. Its size varies — some are barely large enough to allow a man through, while others are colossal, permitting the passage of enormous creatures.
+
+On the Mundus side, the gate appears as a structure that erupts from the ground, often accompanied by corruption of the surrounding earth: the ground cracks, vegetation dies, flames burst from fissures, and a reddish glow suffuses the sky. The very atmosphere becomes charged with an unhealthy energy that affects living beings nearby.
+
+On the other side, the passage leads directly into the corresponding plane of Oblivion. During the Crisis, all gates led to the **Deadlands**, Mehrunes Dagon's personal realm — a landscape of lava, incandescent metal, and infernal desolation.
+
+## Sigil Stones: the Heart of the Mechanism
+
+Maintaining a permanent Oblivion Gate requires an energy anchor: the **Sigil Stone**. This Daedric artifact serves as both power source and dimensional anchor, keeping the breach open and stable.
+
+A Sigil Stone is an orb of dark stone, glowing with Daedric energy, typically kept at the summit of a **Sigil Tower** in the plane of Oblivion. This tower is the nerve center of each gate — its destruction or the removal of the stone causes the passage to collapse immediately.
+
+The stone functions as a bidirectional conduit: it draws energy from the plane of Oblivion to keep the breach open in the Liminal Barrier. Without this constant supply of Daedric energy, the natural forces of Mundus would seal the breach within moments.
+
+Sigil Stones also possess useful properties once removed from their tower: they contain a harvestable magical charge suitable for enchanting, and some mages specifically collected them for that purpose during the Crisis.
+
+## The Opening Process
+
+Opening an Oblivion Gate requires a complex ritual combining several elements:
+
+A **ritual anchor** on the Mundus side — typically an invocation circle drawn with materials imbued with Daedric energy: Daedra blood, Oblivion ashes, or hellfire crystals.
+
+A **connection to a specific plane of Oblivion** — the ritualist must have a link to the targeted plane, generally obtained through a pact with the corresponding Daedric Prince.
+
+A **considerable sacrifice of energy** — breaching the Liminal Barrier demands a quantity of magical power that few individual mages possess. The Mythic Dawn used human sacrifices to fuel its rituals.
+
+A **Sigil Stone** pre-positioned on the Oblivion side, ready to sustain the gate once opened.
+
+During the Oblivion Crisis, **Mankar Camoran** and the Mythic Dawn had perfected this process to the point of being able to open gates in series, each one sustained by the energy of Dagon himself.
+
+## The Oblivion Crisis: Gates en Masse
+
+The **Oblivion Crisis** of 3E 433 represents the most massive and devastating use of Oblivion Gates in recorded history. Following the assassination of Emperor **Uriel Septim VII** and his heirs by the **Mythic Dawn**, the **Dragonfires** were extinguished — fatally weakening the barrier between Mundus and Oblivion.
+
+The Dragonfires, maintained by the Septim Emperor's line bearing the **Amulet of Kings**, constituted an additional magical reinforcement of the Liminal Barrier. Without them, opening gates became considerably easier.
+
+**Mehrunes Dagon** exploited this opportunity to open hundreds of gates simultaneously across Cyrodiil. Armies of Dremora, Xivilai, Clannfear, and other Daedra poured into the mortal world, besieging cities and fortresses.
+
+Each gate had to be closed individually — a hero would need to enter the plane of Oblivion, fight through the Deadlands, climb the Sigil Tower, and remove or destroy the Sigil Stone.
+
+## Closing the Gates
+
+The method for closing an Oblivion Gate is brutally simple in principle but terribly dangerous in execution:
+
+The fighter must cross through the gate into the plane of Oblivion, survive the Daedric hordes guarding the passage, navigate through a hostile and lethal landscape, locate the Sigil Tower — often defended by additional fortifications — and reach its summit.
+
+At the summit, the Sigil Stone must be removed or destroyed. The removal triggers a chain collapse: the tower falls, the local reality destabilizes, and anyone inside the plane of Oblivion is expelled back to Mundus as the gate closes.
+
+The process is extraordinarily dangerous. Many soldiers and adventurers perished attempting to close gates, overwhelmed by Daedric defenders or slain by the hostile environment of the Deadlands.
+
+## The Defenses of the Sigil Towers
+
+The Deadlands that heroes had to traverse were environments designed to kill. The terrain consisted of volcanic rock, lava lakes, and structures of incandescent Daedric metal.
+
+The **Sigil Towers** were massive, spiraling constructions filled with traps and guardians. Dremora — Dagon's elite soldiers — defended them with methodical ferocity. **Xivilai**, intelligent and magically powerful Daedric creatures, commanded the defenses.
+
+Some towers possessed additional defense systems: bridges that collapsed, rooms that filled with flames, cages containing feral creatures released upon intruders.
+
+## The Legacy of the Gates
+
+The Oblivion Crisis and its gates left a lasting mark on Tamriel:
+
+The sites where gates had opened remained scarred for years — barren earth, dead flora, residual Daedric energy. Some became avoided places, considered cursed.
+
+The understanding of gate mechanics advanced considerably, allowing mages to develop better protections against future Daedric incursions.
+
+The event motivated the creation of additional magical barriers protecting Mundus, though the exact method remains secret — possibly linked to the sacrifice of **Martin Septim**, who transformed into an avatar of **Akatosh** to repel Dagon himself.
+
+The **Vigilants of Stendarr** of the Fourth Era still patrol the sites of former gates, ensuring that no resurgence occurs.

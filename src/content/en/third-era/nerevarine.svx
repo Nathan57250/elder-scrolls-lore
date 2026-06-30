@@ -1,0 +1,105 @@
+---
+title: "The Nerevarine"
+slug: "nerevarine"
+era: "third-era"
+category: "personnages"
+tags: ["nerevarine", "nerevar", "morrowind", "prophecy", "dagoth-ur", "heart-of-lorkhan", "tribunal", "azura"]
+timelineYear: 427
+summary: "The prophesied reincarnation of Nerevar Indoril, the Nerevarine fulfilled the Seven Visions and Seven Graces to defeat Dagoth Ur and free Morrowind from its curse."
+sources: ["UESP: Nerevarine", "The Lost Prophecy", "Events of TES III: Morrowind", "Erta Ashlander Prophecies"]
+---
+
+## The Nerevarine Prophecy
+
+Since the tragic death of General **Nerevar Indoril** at the Battle of Red Mountain, the Ashlanders of Morrowind had whispered an ancient promise: Nerevar would return. Not as a specter, but reincarnated in a new body — a stranger come from the west, born under a certain star, who would unite the tribes and the Great Houses to face the evil beneath the Mountain.
+
+This prophecy, known as the **Nerevarine Prophecy**, was recorded in the sacred texts of the Ashlanders and secretly dreaded by the **Tribunal** — for its fulfillment meant the end of their usurped divine reign.
+
+### The Seven Visions
+
+The conditions for identifying the Nerevarine were precise:
+
+| Vision | Condition |
+|--------|-----------|
+| First | Born under a certain star, on an uncertain day |
+| Second | Neither native Dunmer nor true outsider |
+| Third | Arrived in Morrowind without past or future |
+| Fourth | Immune to the Corprus Disease |
+| Fifth | Recognized by the Ashlander Wise Women |
+| Sixth | Recognized by the Great Houses |
+| Seventh | Bearer of Azura's Moon-and-Star ring |
+
+## Arrival in Morrowind
+
+In **3E 427**, an anonymous prisoner was released from the imperial dungeons and sent to **Seyda Neen** on the island of Vvardenfell, by direct order of Emperor **Uriel Septim VII**. This prisoner — whose race, gender, and past are deliberately left indeterminate in the chronicles — carried the seed of the prophecy within them without knowing it.
+
+Recruited by the **Blades** under the orders of Caius Cosades, the future Nerevarine began as a simple imperial agent before discovering their true destiny.
+
+### The Trials of the Path
+
+The path to recognition as the Nerevarine required:
+
+- **Gaining the trust of the four Ashlander tribes** — the Urshilaku, Ahemmusa, Zainab, and Erabenimsun
+- **Being recognized as Hortator** by the three Great Houses present on Vvardenfell — Hlaalu, Redoran, and Telvanni
+- **Surviving the Corprus Disease** — a deadly trial from which none had ever recovered
+
+## The Impossible Cure
+
+The Corprus Disease, a divine plague spread by Dagoth Ur, was reputed to be incurable. Yet the four-thousand-year-old sorcerer **Divayth Fyr** managed to cure the Nerevarine using a Dwemer artifact. This cure constituted the ultimate proof: the Nerevarine retained the immortality granted by Corprus without suffering its madness or deformity.
+
+This miracle convinced the last skeptics among the Ashlanders.
+
+## The Fall of the Tribunal
+
+Before confronting Dagoth Ur, the Nerevarine had to obtain the **Tools of Kagrenac** — Wraithguard, Sunder, and Keening — once used by the Tribunal to siphon power from the Heart of Lorkhan. **Vivec**, the last still-lucid member of the Tribunal, surrendered Wraithguard to the Nerevarine, implicitly acknowledging the legitimacy of the prophecy and the end of his own reign.
+
+This gesture marked the symbolic fall of the Tribunal: the false gods yielded to the true hero.
+
+## The Destruction of the Heart of Lorkhan
+
+Armed with the three Tools, the Nerevarine descended into the depths of **Red Mountain** and reached the chamber of the Heart of Lorkhan. There, they confronted Dagoth Ur in a battle both physical and metaphysical.
+
+The strategy was not to kill Dagoth Ur — who was immortal so long as the Heart existed — but to **destroy the Heart itself**:
+
+1. Strike the Heart with **Sunder** to release its energy
+2. Use **Keening** to disperse that energy
+3. All while protected by **Wraithguard** against the divine forces
+
+With the Heart destroyed, Dagoth Ur lost his divinity and collapsed. Akulakhan, his giant automaton, sank into the lava. Red Mountain shook but did not collapse — not yet.
+
+## The Consequences
+
+The destruction of the Heart of Lorkhan had cosmic repercussions:
+
+- **The Tribunal** permanently lost its source of divine power, becoming mortal
+- **The Ghostfence** — the magical barrier sustained by the Tribunal — began to weaken
+- **The Sixth House** collapsed, its servants freed from Dagoth Ur's dream
+- **The Ashlanders** saw their ancient faith validated after millennia of persecution
+
+### The Disappearance
+
+After his exploits, the Nerevarine vanished from the official chronicles. According to some sources, they traveled to **Akavir**, the mysterious continent to the east of Tamriel. Others claim they still wander, immortal thanks to the cured Corprus, awaiting the day Morrowind will need them again.
+
+> *"They were neither king nor god. They were the knife that cut the threads of fate — and disappeared into the cut."*
+> — Words attributed to Nibani Maesa, sage of the Urshilaku
+
+## The Cascade — What the Nerevarine Set in Motion
+
+The fulfillment of the prophecy had chain effects across the following centuries:
+
+```
+Nerevarine destroys the Heart of Lorkhan (3E 427)
+  → Tribunal loses its divine power
+    → Vivec disappears → Baar Dau is no longer supported
+    → Almalexia descends into madness → kills Sotha Sil → killed by the Nerevarine
+  → The Ghostfence collapses (but Dagoth Ur is already dead)
+  → The Ingenium is created to hold Baar Dau (temporary)
+  → Oblivion Crisis (3E 433) → Chaos → Ingenium unstable
+  → Baar Dau crashes → RED YEAR (4E 5)
+    → Morrowind devastated
+    → Argonian invasion
+    → Dunmer diaspora (Gray Quarter, Solstheim)
+    → Return to the cult of the Reclamations (Azura, Boethiah, Mephala)
+```
+
+The Nerevarine freed Morrowind from Dagoth Ur — but by destroying the Heart, they also removed the foundation of the power that kept Baar Dau aloft. The liberation and the future destruction were inseparable. Perhaps this is what Azura had planned from the beginning — not a simple act of vengeance, but a **complete reset** of Dunmer society: the end of the Tribunal, the end of arrogance, a forced return to humility and true faith.

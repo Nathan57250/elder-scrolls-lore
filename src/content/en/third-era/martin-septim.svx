@@ -1,0 +1,92 @@
+---
+title: "Martin Septim"
+slug: "martin-septim"
+era: "third-era"
+category: "personnages"
+tags: ["martin-septim", "oblivion-crisis", "akatosh", "avatar", "dragonblood", "amulet-of-kings", "mehrunes-dagon", "last-emperor"]
+timelineYear: 433
+summary: "Last heir of the Septim line, a priest of Akatosh who became emperor, Martin sacrificed himself by invoking the Dragon Avatar to repel Mehrunes Dagon and bring an end to the Oblivion Crisis."
+sources: ["UESP: Martin Septim", "Events of TES IV: Oblivion", "The Amulet of Kings", "Brief History of the Empire, Vol. 4"]
+---
+
+## An Unexpected Emperor
+
+**Martin Septim** was never meant to rule. An illegitimate son of Emperor **Uriel Septim VII**, he grew up without knowing his royal heritage, raised as a commoner in the chapel of Akatosh in **Kvatch**, Cyrodiil. A humble priest and scholar, he spent his days between prayers and the study of sacred texts.
+
+Nothing in his life hinted that he carried the **Dragonblood** within him — the divine lineage that connected the Septim emperors to the god Akatosh and to the Dragonfires that sealed the barriers between Mundus and Oblivion.
+
+## The Fall of Kvatch
+
+On the **27th of Last Seed, 3E 433**, the Oblivion Crisis struck Kvatch with absolute ferocity. An **Oblivion Gate** opened at the city's outskirts, pouring forth the legions of **Mehrunes Dagon**. The city was ravaged, its population massacred.
+
+Martin survived — protected by the gods or by chance. Taking refuge in the ruins with a handful of survivors, he was found by the **Hero of Kvatch**, an adventurer sent by **Jauffre**, Grand Master of the Blades, who had learned of this hidden heir's existence.
+
+### The Revelation
+
+The news of his heritage struck Martin like a thunderbolt:
+- His father, Emperor Uriel Septim VII, had just been assassinated by the **Mythic Dawn**
+- His three legitimate half-brothers had been killed the same night
+- He was the **sole living heir** of the Septim line
+- Without him, the Dragonfires would remain extinguished and the barriers of Oblivion could not be restored
+
+## Refuge at Cloud Ruler Temple
+
+Martin was brought to **Cloud Ruler Temple**, the Blades' fortress in the Jerall Mountains. There, the Blades recognized him as their rightful emperor and swore to protect him.
+
+### A Reluctant but Capable Leader
+
+Despite having no political or military training, Martin revealed remarkable qualities:
+
+- **Exceptional intelligence** — capable of deciphering ancient Daedric texts
+- **Genuine humility** — refusing the trappings of power
+- **Moral courage** — making difficult decisions without hesitation
+- **Magical scholarship** — his years of priesthood and a troubled past involving Daedric magic gave him a unique understanding of the forces at play
+
+## The Quest to Close the Gates
+
+Martin understood that to defeat Mehrunes Dagon, he had to complete a ritual requiring four components:
+
+### The Four Elements of the Ritual
+
+1. **A Daedric artifact** — the Blood of Daedra, obtained by sacrificing an item of Daedric power
+2. **A Great Welkynd Stone soul gem** — an Ayleid crystal of immense power, found in the ruins of Miscarcand
+3. **Tiber Septim's armor** — a relic of the first emperor, recovered from Sancre Tor
+4. **A Great Sigil Stone** — a stone torn from a Great Oblivion Gate, requiring such a gate to be opened at Bruma
+
+While the Hero of Kvatch traveled Tamriel to gather these elements, Martin coordinated the defense from Cloud Ruler Temple, ceaselessly studying the Mythic Dawn Commentaries.
+
+## The Battle of Bruma
+
+Obtaining the Great Sigil Stone demanded a terrible sacrifice: **allowing** a Great Oblivion Gate to open before the city of **Bruma**. Martin made this decision knowing it would put thousands of lives at risk.
+
+The battle was fierce. Daedric legions clashed with Bruma's defenders and reinforcements sent by the other cities of Cyrodiil. The Hero of Kvatch entered the Great Gate and wrenched out the Sigil Stone before the Daedric siege engine could destroy the city.
+
+## The Final Sacrifice
+
+With all the components assembled, Martin was able to open a portal to the **Paradise** of Camoran — a dimension created by Mankar Camoran, leader of the Mythic Dawn, who held the **Amulet of Kings**. The Hero of Kvatch slew Camoran and recovered the Amulet.
+
+But it was too late for an orderly ritual. Mehrunes Dagon himself — in the full might of a Daedric Prince — materialized in the **Imperial City**, destroying the Temple of the One.
+
+### The Avatar of Akatosh
+
+In the chaos of the ruined Temple, Martin made the only decision that could save the world. He shattered the **Amulet of Kings** — releasing the souls of all the Septim emperors enshrined within it — and offered his own life as the catalyst.
+
+His body transformed into an **Avatar of Akatosh** — a dragon of golden light of colossal size. The Avatar confronted Mehrunes Dagon in a divine battle above the Imperial City and drove him back into Oblivion.
+
+Then the Avatar turned to stone, becoming a **dragon statue** at the center of the Temple of the One — Martin Septim's final monument, frozen for eternity in his act of sacrifice.
+
+## The Legacy
+
+Martin Septim's death marked:
+
+- **The end of the Septim line** — no more heirs of the Dragonblood remained
+- **The end of the Third Era** — Imperial historians fix the start of the Fourth Era at this moment
+- **The extinction of the Dragonfires** — the barriers between Mundus and Oblivion became permanent but could no longer be renewed
+- **A succession crisis** — without a legitimate emperor, the Empire entered a period of turmoil leading to the White-Gold Concordat
+
+### A Man, Not a Hero
+
+What makes Martin remarkable is not his power — he was neither a warrior nor a battle mage. It is his **willingness to sacrifice**. An ordinary priest who learned within a few weeks that he was emperor, then chose to die for an empire he had never governed.
+
+> *"The gods do not always help those who pray to them. But sometimes, they send a man who helps the gods themselves."*
+> — Inscription on the base of the dragon statue, Temple of the One, Imperial City

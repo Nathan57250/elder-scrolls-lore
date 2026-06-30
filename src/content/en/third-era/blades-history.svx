@@ -1,0 +1,58 @@
+---
+title: "History of the Blades"
+slug: "blades-history"
+era: "third-era"
+category: "guildes"
+tags: ["blades", "akavir", "dragonguard", "emperors", "spies", "dissolution"]
+timelineYear: 200
+summary: "The complete history of the Blades, from their origins as the Akaviri Dragonguard to their role as imperial protectors and their dissolution at the dawn of the Fourth Era."
+sources: ["The Rise and Fall of the Blades", "Erta's Report", "Atlas of Dragons", "Pocket Guide to the Empire"]
+---
+
+## Akaviri Origins
+
+The **Blades** trace their origins to the **Dragonguard** of **Akavir**, an order of warriors from the eastern continent whose primary mission was to hunt and slay dragons. The **Tsaesci** of Akavir were obsessed with dragons — so much so that legend holds they devoured every last dragon on their continent. The Dragonguard were the elite of this draconic hunting tradition: warriors of exceptional martial skill armed with finely crafted katanas.
+
+When the Tsaesci invaded **Tamriel** in 1E 2703 under their Potentate, they were searching for the dragons that had fled Akavir. Their invasion was repelled by the Emperor **Reman Cyrodiil**, but the encounter between invaders and emperor altered the course of both civilizations. The Tsaesci, recognizing in Reman a **Dovahkiin** — a Dragonborn — knelt before him and swore to serve him.
+
+This voluntary submission transformed the Dragonguard into an order bound to the imperial dynasty. The Tsaesci warriors became the most devoted bodyguards, spies, and advisors to the Reman emperors. Their loyalty lay not with the Empire as an institution but with the dragon blood flowing through the veins of Reman and his descendants. This subtle yet crucial distinction would define the Blades' identity for millennia.
+
+## The Transformation into the Blades
+
+Over the centuries, the order opened its ranks to non-Tsaesci recruits and evolved into what we know as the **Blades**. The Akaviri identity gradually faded, replaced by a culture of its own that blended eastern and western traditions. Katanas remained the emblematic weapon, and certain Tsaesci rituals were preserved, but the order became fundamentally Tamrielic.
+
+Under the **Septim** dynasty, the Blades reached the height of their power and influence. **Tiber Septim** himself was a Dovahkiin, and his relationship with the Blades mirrored that of Reman with the original Dragonguard. The order served the emperor as personal guard, intelligence service, and special operations force — a combination of roles that made it the most versatile and feared organization in the Empire.
+
+The Blades' headquarters, the **Cloud Ruler Temple** in the mountains of Cyrodiil, housed the Empire's most comprehensive archives on dragons, Dovahkiin, and supernatural threats. The **Alduin's Wall**, a prophecy carved in stone by the ancient Akaviri, was preserved there, awaiting the day when its meaning would prove crucial to the survival of the world.
+
+## The Role Under the Septims
+
+During the Third Era, the Blades functioned primarily as an intelligence service reporting directly to the emperor. Their agents, known as **Spectrins**, operated undercover in every province of the Empire, gathering information, neutralizing threats, and carrying out imperial will far from official scrutiny. Their existence was an open secret: everyone knew they existed, but no one could prove who they were.
+
+The Grand Master of the Blades served as the emperor's personal security advisor. **Jauffre**, the last Grand Master of the Third Era, resided at **Weynon Priory**, a monastery that served as cover for one of the order's most important bases. It was to Jauffre that the Champion of Cyrodiil brought the Amulet of Kings following the assassination of Uriel Septim VII.
+
+The Blades also maintained vigilance over Daedric, necromantic, and other supernatural threats. Their archives contained centuries of intelligence on dangerous cults, powerful artifacts, and unfulfilled prophecies. This knowledge base made the Blades the best-informed institution in the Empire regarding occult dangers.
+
+## The Oblivion Crisis and the Fall of the Septims
+
+The **Oblivion Crisis** of 3E 433 tested the Blades as never before. The assassination of the emperor and the destruction of Weynon Priory by the **Mythic Dawn** dealt severe blows to the organization. But the Blades rallied at **Cloud Ruler Temple** and played a crucial role in protecting **Martin Septim** and resolving the crisis.
+
+The Blades fought alongside the Champion of Cyrodiil throughout the crisis — closing Oblivion Gates, defending Bruma against a massive Daedric assault, and escorting Martin to the Imperial City for the final confrontation. Their bravery was exemplary, and several members of the order paid with their lives for their devotion to the imperial cause.
+
+But Martin's sacrifice — in which he transformed into an avatar of **Akatosh** to drive back **Mehrunes Dagon** — left the Blades without purpose. Their oath bound them to dragon blood, and with the extinction of the Septim line, that oath could no longer be honored. The order survived the crisis but lost its fundamental identity: guardians with no one left to guard.
+
+## Dissolution and Persecution
+
+The **Fourth Era** was catastrophic for the Blades. The **White-Gold Concordat**, the treaty imposed by the **Aldmeri Dominion** on the Empire at the end of the **Great War**, explicitly demanded the dissolution of the order. The **Thalmor** regarded the Blades as a direct threat: dragon hunters who could interfere with their own plans concerning the cult of **Talos** and the divine nature of the Dragonborn.
+
+The hunt for the Blades was systematic and brutal. Thalmor agents tracked members of the order throughout the Empire, executing them or forcing them into hiding. Cloud Ruler Temple was sealed. The archives were confiscated or destroyed. Within a few years, an organization that had served the Empire for millennia was reduced to a handful of survivors in hiding.
+
+The few Blades who survived this purge lived in the shadows, changing identities, moving constantly, never daring to reveal their past affiliation. **Delphine** and **Esbern**, the most well-known of these survivors, did not resurface until 4E 201, when the emergence of a new Dovahkiin finally gave them reason to step out of the shadows.
+
+## The Hope of Rebirth
+
+The appearance of the **Dragonborn** in Skyrim in 4E 201 gave the surviving Blades a chance at renewal. For the first time since the extinction of the Septims, a being carrying dragon blood existed in the world, and with it came the possibility of rebuilding the order on its original foundations. Cloud Ruler Temple was reopened, and the first recruits of a new order were accepted.
+
+But the question of the new Blades' identity remained open. Would they be an imperial intelligence service as under the Septims? A dragon-hunting order like the original Dragonguard? Or something entirely new, adapted to the realities of an era without an emperor? The answer would depend on the Dovahkiin and the vision they chose to impose on the reborn order.
+
+The history of the Blades — from the Dragonguard of Akavir to the fugitives of the Fourth Era — is the story of an order that continually reinvented itself to serve an unchanging ideal: the protection of dragon blood. That ideal survived dynastic changes, Daedric invasions, and persecution alike. As long as a Dovahkiin exists somewhere in the world, the Blades will have reason to exist.

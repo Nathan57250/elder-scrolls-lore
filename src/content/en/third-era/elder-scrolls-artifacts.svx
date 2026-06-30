@@ -1,0 +1,56 @@
+---
+title: "The Elder Scrolls"
+slug: "elder-scrolls-artifacts"
+era: "third-era"
+category: "artefacts"
+tags: ["elder-scrolls", "prophecy", "moth-priests", "artifacts", "akatosh", "destiny"]
+timelineYear: 200
+summary: "The Elder Scrolls as artifacts, their transcendent nature, the Moth Priests who decipher them, and their role in history."
+sources: ["Effects of the Elder Scrolls", "Erta's Note", "Ruminations on the Elder Scrolls", "An Accounting of the Elder Scrolls"]
+---
+
+## The Nature of the Scrolls
+
+The **Elder Scrolls** are the most mysterious and powerful artifacts in all of Tamriel — if "artifact" is even the right word to describe them. They are not objects created by mortal or divine hands: they are fragments of Creation itself, pieces of the fabric of reality that exist outside of time and normal causality. Their number is unknown — some scholars claim it is infinite, others that it fluctuates, still others that it is meaningless to count objects that are not subject to conventional mathematics.
+
+The Scrolls contain the totality of history — past, present, and future — but reading them is a perilous act with potentially devastating consequences for the human mind.
+
+## The Impossibility of Comprehension
+
+Any attempt to understand the true nature of the Elder Scrolls runs into a fundamental paradox: they exceed the comprehension of mortal beings. The scholar **Septimus Signus**, who devoted his life to their study, described this paradox eloquently: the Scrolls are like "a cosmic funnel through which pours the knowledge of all that was and all that shall be, but whose opening is too narrow to permit complete understanding."
+
+The Scrolls appear to exist simultaneously in all times — they do not "predict" the future but contain it, just as they contain the past and present. This atemporal nature places them beyond the jurisdiction of all gods, including **Akatosh**, the god of Time himself.
+
+## The Moth Priests
+
+The **Moth Priests** constitute the monastic order dedicated to reading and interpreting the Elder Scrolls. Based in the **Temple of the Ancestor Moths** in Cyrodiil, these monks spend their entire lives spiritually preparing for the act of reading — a preparation that offers no guarantee of success.
+
+The reading process requires deep meditation in the presence of ancestor moths, whose wing patterns serve as a natural "decipherment key." The Priest enters a trance state during which the content of the Scroll reveals itself — partially — to their mind. Each reading diminishes the Priest's sight, and repeated reading inevitably leads to **total blindness**. The most accomplished Moth Priests are therefore invariably blind.
+
+## The Effects of Reading
+
+Reading an Elder Scroll without adequate preparation produces devastating effects. A layperson who attempts to read a Scroll is immediately struck blind. An untrained mage may perceive fragments of content but emerges mentally diminished. Even trained Moth Priests risk madness with every reading — the mortal mind is simply not designed to contain the totality of time.
+
+The visions transmitted by the Scrolls are rarely clear. They manifest as metaphors, symbols, and impressions that the reader must interpret — a subjective process that inevitably introduces errors. Two Priests reading the same Scroll may draw different interpretations from it.
+
+## Role in Prophecies
+
+The Elder Scrolls are intimately linked to the great **prophecies** of Tamriel. The Dragonborn Prophecy, the Nerevarine Prophecy, the visions of the Warp in the West — all were, at one time or another, confirmed or clarified through the reading of the Scrolls. They do not create prophecies but contain them, serving as immutable witnesses to what must come to pass.
+
+However, the relationship between the Scrolls and destiny is not simple. The Scrolls contain prophecies, but prophecies require a **hero** (a "prisoner" in esoteric terminology) to be realized. Without the action of a free agent, the content of the Scrolls remains potential rather than actual.
+
+## Conservation and Location
+
+The exact number of Elder Scrolls in the Empire's possession has varied over the centuries. The **Imperial Library** traditionally maintained the largest collection, but Scrolls are periodically discovered — or disappear — without logical explanation. Some seem to "move" on their own, appearing where they are needed and vanishing once their role is fulfilled.
+
+Other Scrolls exist outside imperial control: in ancient ruins, in the hands of private collectors, or in impossible locations. The Scroll used to banish **Alduin** from time was found in an underground **Dwemer Tower of Mzark** — a place no mortal had any knowledge of.
+
+## The Scrolls as Weapons
+
+Though primarily known as instruments of divination, the Elder Scrolls also possess active power. The **Dragonrend Shout** that banished Alduin was channeled through a Scroll. The **Tyranny of the Sun Prophecy** required a Scroll as a ritual component. And the Scrolls' capacity to "rewrite" local reality temporarily makes them potentially devastating weapons in the hands of anyone who dared use them as such.
+
+This offensive dimension explains why the Scrolls are so jealously guarded — not only for the knowledge they contain but for the raw power they represent.
+
+## The Paradox of Existence
+
+The greatest mystery of the Elder Scrolls is their very existence. They were created by no known entity — neither Aedra, Daedra, nor mortals claim them. They predate the Creation of Mundus and will likely survive its end. They are, in a sense, the only true "eternals" in the universe — constants in a world of change, certainties in a cosmos of uncertainty.

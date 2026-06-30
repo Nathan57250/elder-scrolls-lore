@@ -1,0 +1,101 @@
+---
+title: "La Tercera Era"
+slug: "troisieme-ere"
+era: "third-era"
+category: "empires"
+tags: ["imperio-septim", "simulacrum-imperial", "giro-del-oeste", "crisis-oblivion", "uriel-septim"]
+date: "3E 1 — 3E 433"
+summary: "La era de la dinastía Septim: el Simulacrum Imperial, el Giro del Oeste, la guerra del Nerevarine y la Crisis de Oblivion que puso fin a la era."
+timelineYear: 1
+sources: ["UESP: Third Era", "The Imperial Library", "Events of Morrowind, Oblivion"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Panorama General — La Era de la Estabilidad Frágil
+
+La Tercera Era es una paradoja: **433 años de paz relativa** mantenidos por un sistema con un único punto de fallo — el linaje Septim y los Fuegos del Dragón. Mientras el sistema aguantara, Tamriel estaba protegido. Cuando cedió, todo se derrumbó en una sola noche.
+
+### Lo Que Creó la Tercera Era
+- Tiber Septim conquista todo Tamriel (2E 854-896) con el Numidium
+- Forja una paz impuesta — todas las provincias bajo un Imperio
+- Alcanza la apoteosis → el culto a Talos consolida la legitimidad imperial
+- Los Fuegos del Dragón + el Amuleto de los Reyes protegen contra las invasiones daédricas
+
+### Las Grietas que se Acumularon
+Bajo la superficie de la paz, el sistema se pudría:
+
+| Período | Evento | Grieta Creada |
+|---------|--------|---------------|
+| 3E 389-399 | Simulacrum Imperial | El Emperador es vulnerable — 10 años sin ser detectado |
+| 3E 417 | Giro del Oeste | La realidad misma puede romperse |
+| 3E 427 | Nerevarine | Corazón de Lorkhan destruido → el Tribunal cae → Morrowind inestable |
+| 3E 433 | Crisis de Oblivion | Todo el sistema colapsa en una sola noche |
+
+## La Dinastía Septim
+
+La Tercera Era estuvo dominada por la **dinastía Septim**, descendiente de Tiber Septim. El Imperio mantuvo una paz relativa en todo Tamriel durante la mayor parte de este período, a pesar de numerosas intrigas y crisis.
+
+El emperador **Uriel Septim VII** reinó durante la mayor parte del final de la Tercera Era (3E 368 — 3E 433), sobreviviendo a usurpaciones, encarcelamientos y conspiraciones.
+
+## El Simulacrum Imperial (3E 389 — 3E 399)
+
+El mago **Jagar Tharn**, consejero imperial, encarceló secretamente al Emperador Uriel Septim VII en una dimensión paralela y tomó su lugar mediante magia de ilusión. Durante diez años gobernó bajo su apariencia, sembrando la discordia.
+
+Un héroe anónimo, guiado por el fantasma de la bruja Ria Silmane, reunió los fragmentos del **Bastón del Caos** y desenmascaró al impostor, liberando al verdadero emperador.
+
+## El Giro del Oeste (3E 417)
+
+También conocido como el "Milagro de la Paz" o la **Ruptura del Dragón** de la Bahía de Iliac, este evento sigue siendo uno de los más misteriosos de la historia de Tamriel.
+
+Un agente de las Hojas en posesión del **Tótem del Numidium** activó el gólem Dwemer. La realidad misma se fracturó — **seis desenlaces mutuamente excluyentes ocurrieron simultáneamente** (un fenómeno llamado Ruptura del Dragón, donde el tiempo pierde su linealidad).
+
+El resultado: las decenas de pequeños reinos de la región de la Bahía de Iliac se fusionaron en cuatro grandes naciones (Daggerfall, Sentinel, Orsinium, Wayrest).
+
+## La Profecía del Nerevarine (3E 427)
+
+En la isla de **Vvardenfell** en Morrowind, un prisionero resultó ser la reencarnación de **Nerevar** — el Nerevarine profetizado. Con las herramientas de Kagrenac (Keening, Sunder, Wraithguard), el Nerevarine penetró en el Corazón de la Montaña Roja y:
+
+- Destruyó el **Corazón de Lorkhan**, cortando la fuente de poder de Dagoth Ur
+- Venció a **Dagoth Ur** y puso fin a la Plaga de la Podredumbre
+- Quebró la fuente de inmortalidad del **Tribunal**, condenando a Vivec, Almalexia y Sotha Sil a recuperar su mortalidad
+
+## La Crisis de Oblivion (3E 433)
+
+La Tercera Era terminó en sangre y fuego. El Aurora Mítica, un culto dedicado a **Mehrunes Dagon** (Príncipe Daédrico de la Destrucción), asesinó al Emperador Uriel Septim VII y a todos sus herederos conocidos.
+
+**Puertas de Oblivion** se abrieron por todo Tamriel, derramando ejércitos daédricos. La ciudad de **Kvatch** fue completamente destruida.
+
+**Martin Septim**, hijo ilegítimo y último heredero secreto del linaje Septim, fue encontrado a tiempo. Con la ayuda del Campeón de Cyrodiil, se sacrificó en el Templo del Único fusionándose con el Amuleto de los Reyes para convertirse en un **Avatar de Akatosh** — un dragón divino que repelió a Mehrunes Dagon de vuelta a Oblivion.
+
+La muerte de Martin puso fin al linaje Septim y a los **Fuegos del Dragón** que protegían las barreras entre Oblivion y Mundus. La Tercera Era llegó a su fin.
+
+## Cadena Causal — De Tiber Septim al Final
+
+<CausalChain items={[
+  { text: "Tiber Septim conquista Tamriel (2E 854)", link: "/chronologie/second-era/tiber-septim" },
+  { text: "Forja el Amuleto de los Reyes + Fuegos del Dragón", link: "/chronologie/first-era/amulette-des-rois", indent: 1 },
+  { text: "433 años de protección contra los Daedra", indent: 1 },
+  { text: "Dagoth Ur despierta (bajo la Montaña Roja)", link: "/chronologie/third-era/dagoth-ur", indent: 1 },
+  { text: "El Aurora Mítica se infiltra (durante décadas)", link: "/chronologie/third-era/mythic-dawn", indent: 1 },
+  { text: "El Tribunal pierde su poder (gradualmente)", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "3E 427: El Nerevarine destruye el Corazón", link: "/chronologie/third-era/nerevarine" },
+  { text: "Tribunal mortal → Vivec desaparece → Baar Dau inestable", indent: 1 },
+  { text: "Una consecuencia colateral fatal para el futuro", indent: 1 },
+  { text: "3E 433: El Aurora Mítica golpea", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Asesina a los Septim → Fuegos del Dragón apagados", indent: 1 },
+  { text: "Martin se sacrifica → Dagon repelido", link: "/chronologie/third-era/martin-septim", indent: 1 },
+  { text: "Amuleto DESTRUIDO → protección perdida para siempre", indent: 1 },
+  { text: "RESULTADO: El mundo post-3E 433 es DEFINITIVAMENTE vulnerable", indent: 1 }
+]} />
+
+## La Ironía Trágica
+
+La Tercera Era ilustra una profunda ironía del lore:
+- El sistema **funcionaba** (Fuegos del Dragón = protección perfecta)
+- Pero descansaba en **una sola familia** (los Septim)
+- Cuando esa familia muere, no hay **plan B**
+- 433 años de seguridad volvieron a la gente **complaciente**
+- El Aurora Mítica solo necesitó matar a 4 personas para destruir la protección de todo un mundo

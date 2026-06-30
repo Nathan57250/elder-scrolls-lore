@@ -1,0 +1,115 @@
+---
+title: "La Crisis de Oblivion"
+slug: "crise-oblivion"
+era: "third-era"
+category: "empires"
+tags: ["mehrunes-dagon", "martin-septim", "aurora-mitica", "puertas-oblivion", "akatosh", "kvatch"]
+date: "3E 433"
+timelineYear: 433
+summary: "La invasión de Tamriel por los ejércitos de Mehrunes Dagon a través de las Puertas de Oblivion, y el sacrificio de Martin Septim que puso fin a la dinastía."
+mapCoords: { x: 512, y: 480 }
+province: "Cyrodiil"
+relatedArticles: ["troisieme-ere", "quatrieme-ere"]
+sources: ["UESP: Oblivion Crisis", "Events of TES IV: Oblivion"]
+---
+
+## Causas — Por Qué la Crisis Era Inevitable
+
+La Crisis de Oblivion no fue un evento aislado — fue la culminación de vulnerabilidades acumuladas durante siglos:
+
+### La Fragilidad de los Fuegos del Dragón
+El sistema de protección de Tamriel descansaba sobre un **único punto de fallo**: el linaje Septim. Mientras un Dragonborn legítimo encendiera los Fuegos del Dragón, la Barrera Liminal impedía las invasiones daédricas. Pero:
+- El linaje dependía de un único anciano (Uriel VII, 87 años) y tres hijos
+- No existía ningún plan de sucesión alternativo
+- Las Hojas (supuestamente encargadas de proteger al Emperador) habían sido debilitadas y reducidas
+
+### El Debilitamiento del Imperio
+Uriel VII había sufrido el **Simulacrum Imperial** (3E 389-399) — diez años encarcelado en Oblivion por Jagar Tharn. A su regreso:
+- El Imperio estaba administrativamente debilitado
+- El Giro del Oeste (3E 417) había perturbado High Rock
+- Morrowind estaba en crisis (Dagoth Ur; muerte del Nerevarine en 3E 427)
+- La vigilancia sobre los cultos daédricos se había relajado
+
+### La Infiltración del Aurora Mítica
+Mankar Camoran había tenido **décadas** para prepararse:
+- Reclutamiento paciente en todos los estratos sociales
+- Obtención del Mysterium Xarxes (libro sagrado de Dagon)
+- Células durmientes dentro de la propia Guardia Imperial
+- Espías dentro del palacio — acceso a las alcantarillas imperiales
+- Los cuatro tomos de los Comentarios filtraban a los candidatos más devotos
+
+### El Precedente Histórico
+Mehrunes Dagon ya había **intentado** invadir Mundus:
+- Invasión de Ald Sotha (1E) — repelida por Sotha Sil
+- Ataque a Mournhold — repelido por Almalexia y Sotha Sil
+- Cada fracaso había perfeccionado su estrategia: esta vez, suprimir los Fuegos del Dragón ANTES de abrir las puertas
+
+## El Aurora Mítica
+
+El **Aurora Mítica** (Mythic Dawn) era un culto secreto dedicado al Príncipe Daédrico **Mehrunes Dagon** — el príncipe de la Destrucción, el Cambio, la Revolución y la Ambición. Dirigido por **Mankar Camoran**, un Altmer que se autoproclamaba descendiente del rey Camoran de Valenwood, el culto contaba con miles de miembros infiltrados en todos los niveles de la sociedad imperial.
+
+Camoran enseñaba que Mundus no era una creación de los Aedra sino un **reino de Oblivion robado** por Lorkhan — y que Dagon era su legítimo libertador.
+
+## El Asesinato del Emperador
+
+El **27 de Último Mes de 3E 433**, agentes del Aurora Mítica asesinaron simultáneamente a:
+- El emperador **Uriel Septim VII** (en las alcantarillas bajo la Ciudad Imperial)
+- Sus tres hijos y herederos reconocidos
+
+El emperador, sabiendo que su muerte era inminente gracias a visiones proféticas, confió el **Amuleto de los Reyes** a un prisionero anónimo (el futuro Campeón de Cyrodiil) con la misión de entregárselo a Jauffre, Gran Maestre de las Hojas.
+
+## Las Puertas de Oblivion
+
+Con el linaje Septim aparentemente extinto y los Fuegos del Dragón apagados, las barreras entre Oblivion y Mundus se debilitaron. **Puertas de Oblivion** — inmensos portales ardientes — se abrieron por todo Tamriel.
+
+La primera ciudad en caer fue **Kvatch**, completamente destruida por las hordas daédricas. Fue allí donde el Campeón de Cyrodiil descubrió a **Martin Septim** — el hijo ilegítimo del emperador, un sacerdote de Akatosh que desconocía su propio linaje.
+
+## La Batalla de Bruma
+
+Las fuerzas imperiales, lideradas por Martin y apoyadas por los ejércitos de los distintos condados de Cyrodiil, se enfrentaron a las legiones daédricas ante la ciudad de **Bruma**. El Campeón de Cyrodiil penetró en la Gran Puerta y recuperó una Gran Piedra de Sigilo, cerrando el portal gigante antes de que pudiera emerger un Asedio Daédrico.
+
+## El Sacrificio de Martin
+
+Cuando el propio Mehrunes Dagon se manifestó físicamente en la Ciudad Imperial — una figura colosal de destrucción sembrando el caos en el distrito del Templo — Martin destruyó el **Amuleto de los Reyes** (que contenía las almas de todos los emperadores Septim y un fragmento de Akatosh).
+
+Se transformó en un **Avatar de Akatosh** — un inmenso dragón dorado — y combatió a Dagon, repelándolo hacia Oblivion y sellando para siempre las barreras entre los planos.
+
+Martin se petrificó en una estatua de dragón en el centro del Templo, poniendo fin a:
+- La Crisis de Oblivion
+- La dinastía Septim
+- La propia Tercera Era
+
+## Consecuencias — Lo Que Siguió
+
+La Crisis de Oblivion redefinió el mundo. Sus consecuencias se desplegaron en cascada:
+
+### Inmediatas (4E 0-10)
+- **Fin de la dinastía Septim** — ningún heredero Dragonborn sobrevive
+- **Destrucción del Amuleto de los Reyes** — los Fuegos del Dragón nunca podrán volver a encenderse
+- **Vacío imperial** — luchas de poder durante 17 años antes de Titus Mede
+- **Fundación de las Vigilias de Stendarr** — orden militante anti-Daedra como respuesta directa
+
+### A Medio Plazo (4E 5-50)
+- **Año Rojo (4E 5)** — el Ministerio de la Verdad (Baar Dau) cae sobre Vivec City → erupción de la Montaña Roja. La Crisis había debilitado los encantamientos que lo mantenían levitando
+- **Invasión argoniana de Morrowind** — los Hist habían llamado de vuelta a los Argonianos DURANTE la Crisis; la debilidad Dunmer post-Año Rojo fue explotada
+- **Secesión del Pantano Negro** — los Argonianos abandonan el Imperio, galvanizados por su éxito contra los Daedra
+- **Ascenso del Thalmor** — los Altmer afirman haber cerrado las puertas en las Islas del Verano (¿mentira o verdad?), usando este "éxito" para justificar su toma del poder
+
+### A Largo Plazo (4E 150-201)
+- **Gran Guerra (4E 171-175)** — el Imperio debilitado desde la Crisis no puede resistir al Dominio Aldmeri → Concordato del Oro Blanco
+- **Guerra Civil de Skyrim (4E 201)** — consecuencia indirecta: sin Septim = sin legitimidad imperial sagrada = posibilidad de secesión
+- **Regreso de los Dragones (4E 201)** — sin la protección de los Fuegos del Dragón, las barreras metafísicas se debilitan
+
+### La Cadena Causal Completa
+```
+Crisis de Oblivion (3E 433)
+  → Fin de los Septim → Vacío imperial
+  → Destrucción del Amuleto → No más Fuegos del Dragón
+  → Morrowind debilitada → Año Rojo (4E 5)
+  → Ascenso del Thalmor → Gran Guerra (4E 171)
+  → Concordato del Oro Blanco (4E 175) → Culto a Talos prohibido
+  → Guerra Civil (4E 201)
+  → Regreso de Alduin (4E 201)
+```
+
+Casi cada evento importante de la Cuarta Era deriva directa o indirectamente de la Crisis de Oblivion.

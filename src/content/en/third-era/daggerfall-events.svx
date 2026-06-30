@@ -1,0 +1,88 @@
+---
+title: "The Events of TES: Daggerfall"
+slug: "daggerfall-events"
+era: "third-era"
+category: "evenements"
+tags: ["daggerfall", "totem-tiber-septim", "numidium", "warp-in-the-west", "high-rock", "mantella"]
+timelineYear: 417
+summary: "The events surrounding the rediscovery of the Numidium and the Warp in the West, the temporal fracture that reshaped the Iliac Bay."
+sources: ["The Warp in the West", "The Totem of Tiber Septim", "Brief History of the Empire", "The Daggerfall Chronicles"]
+---
+
+## The Iliac Bay: A Political Cauldron
+
+The **Iliac Bay**, situated between **High Rock** and **Hammerfell**, was at the end of the Third Era a territory of extraordinary political complexity. Dozens of Breton and Redguard kingdoms, duchies, baronies, and city-states competed for influence in an endless game of alliances and betrayals.
+
+At the heart of this political chaos lay the great regional powers: the kingdom of **Daggerfall**, the kingdom of **Sentinel**, the kingdom of **Wayrest**, the city-state of **Orsinium**, and the eternally contested **Orsinium** of the Orcs. Each sought to expand its influence at the expense of the others.
+
+It was in this context that the Emperor **Uriel Septim VII** — still marked by his imprisonment during the **Imperial Simulacrum** — dispatched an agent, the future **Hero of Daggerfall**, to investigate a mystery with continental implications.
+
+## The Emperor's Secret Mission
+
+The agent's official mission was to investigate the ghost of King **Lysandus** of Daggerfall, whose specter haunted the city streets crying out for vengeance. But the true reason for the agent's presence was far graver.
+
+Uriel Septim VII had learned that the **Totem of Tiber Septim** — the artifact capable of controlling the **Numidium**, the colossal Dwemer golem — had been located somewhere in the Iliac Bay region. The Numidium, once used by **Tiber Septim** to conquer Tamriel, represented a power capable of redrawing the continent's political map.
+
+The Emperor wanted to recover the Totem before one of the local factions could seize it. But he was not the only one searching — virtually every power in the region had agents hunting for the artifact.
+
+## The Numidium and the Totem
+
+The **Numidium** — also called Anumidium or the Brass God — is the most formidable weapon ever created on Tamriel. Designed by the **Dwemer** and originally powered by the **Heart of Lorkhan**, it was completed by Tiber Septim using a substitute power source: the **Mantella**, a soul gem containing the essence of the war-mage **Zurin Arctus**.
+
+The **Totem of Tiber Septim** is the control key for the Numidium — without it, the golem is an inert machine. Tiber Septim had used the Numidium to conquer the Summerset Archipelago and unify Tamriel, before the machine was deactivated and hidden.
+
+Reactivating the Numidium would grant its possessor absolute military power — enough to conquer any territory or crush any enemy. The stakes of this quest were therefore, quite literally, the fate of the continent.
+
+## The Factions at Play
+
+Numerous factions competed to seize the Totem:
+
+The **Empire** of Uriel Septim VII sought to secure the artifact in order to prevent a regional power from destabilizing the continental balance.
+
+The kingdom of **Daggerfall**, under Queen **Mynisera**, wanted the Totem to assert its supremacy over the Iliac Bay.
+
+The kingdom of **Wayrest** and its allies saw it as a means of breaking Daggerfall's hegemony.
+
+The **Underking**, a necromancer of terrifying power identified as **Zurin Arctus** — or perhaps **Wulfharth** — sought the Mantella to put an end to his own cursed existence.
+
+The king of **Sentinel** and the king of **Orsinium** each had their own ambitions for the Numidium.
+
+## The Hero of Daggerfall
+
+The **Hero of Daggerfall** — an imperial agent whose true name is unknown — navigated this web of intrigue for months, investigating Lysandus's murder, tracking the Totem, and surviving assassination attempts by multiple factions.
+
+The investigation revealed the truth behind Lysandus's death (a political conspiracy rather than a battlefield death), the location of the Totem in the depths of an ancient dungeon, and the true intentions of each faction.
+
+The decisive moment came when the agent managed to recover the Totem. Faced with an impossible choice — to whom should it be given? — every faction offered arguments and rewards, but none guaranteed a positive outcome for Tamriel as a whole.
+
+## The Warp in the West
+
+What happened next is one of the most mysterious and debated events in the history of Tamriel: the **Warp in the West**, also called the "Miracle of Peace."
+
+On the 10th of Hearthfire, 417 of the Third Era, a temporal fracture struck the Iliac Bay region. Space and time warped, and when reality restabilized, the political landscape had been radically transformed — as if **multiple** contradictory outcomes had occurred simultaneously.
+
+The dozens of small kingdoms of the Bay were consolidated into four great powers: Daggerfall, Sentinel, Wayrest, and Orsinium. The Numidium appears to have been activated — perhaps multiple times, in parallel realities — before being destroyed or deactivated.
+
+The **Underking** finally found rest, the Mantella having been returned to him. The Emperor claimed to have secured the Totem. The king of Orsinium proclaimed Orcish independence. All of these contradictory outcomes seem to have coexisted through the Warp.
+
+## Theories on the Warp
+
+Several explanations have been put forward for the Warp in the West:
+
+The **Dragon Break** theory — a fracture in time similar to that which occurred during Tiber Septim's activation of the Numidium — is the most widely accepted. Time itself would have literally fragmented into parallel realities before reunifying.
+
+Some scholars of the **Psijic Order** suggest that the Numidium, by virtue of its nature as an "artificial god," destabilizes reality through its mere activation, creating temporal paradoxes.
+
+Other theorists propose that the **Daedric Princes** or the **Aedra** themselves intervened to prevent any single mortal power from dominating through the Numidium.
+
+## Lasting Consequences
+
+The Warp in the West had profound consequences:
+
+The political consolidation of the Iliac Bay put an end to centuries of petty wars between baronies. Four stable nations replaced dozens of fragile states — a result that many consider positive despite the violence of the transition.
+
+**Orsinium** gained official recognition as a sovereign nation, a historic achievement for the **Orcish** people after centuries of persecution.
+
+The apparent destruction of the Numidium eliminated — at least temporarily — the threat of a mortal power using the weapon to dominate Tamriel.
+
+The event paradoxically reinforced imperial authority: in the chaos of the Warp, the Empire presented itself as the only stabilizing force, consolidating its legitimacy with the Bay's new nations.

@@ -1,0 +1,82 @@
+---
+title: "Los eventos de TES: Arena"
+slug: "arena-events"
+era: "third-era"
+category: "evenements"
+tags: ["arena", "jagar-tharn", "simulacro-imperial", "uriel-septim", "campeon-eterno", "baston-del-caos"]
+timelineYear: 399
+summary: "La usurpación del trono imperial por el mago Jagar Tharn y la búsqueda del Campeón Eterno para liberar al Emperador."
+sources: ["The True Barenziah", "Brief History of the Empire", "The Imperial Simulacrum"]
+---
+
+## El Simulacro Imperial
+
+El **Simulacro Imperial** hace referencia al período de diez años (3E 389 - 3E 399) durante el cual el mago **Jagar Tharn**, consejero imperial y traidor, usurpó el trono de **Tamriel** encarcelando al Emperador **Uriel Septim VII** en una dimensión paralela y ocupando su lugar mediante poderosas magias de ilusión.
+
+Esta usurpación representa uno de los mayores engaños de la historia imperial. Durante una década entera, el continente entero fue gobernado por un impostor, sin que consejeros, nobles ni siquiera la guardia personal del Emperador se percatasen de ello.
+
+Jagar Tharn no se contentó con reinar: manipuló activamente el Imperio para servir a sus propios fines, avivar los conflictos entre provincias, debilitar las instituciones y consolidar un poder personal absoluto tras la máscara del Emperador legítimo.
+
+## Jagar Tharn: el mago traidor
+
+**Jagar Tharn** era el **Mago de Batalla Imperial** (Imperial Battlemage), uno de los cargos más prestigiosos y poderosos de la corte del Emperador. Como consejero mágico personal del soberano, tenía acceso a los secretos más sensibles del Imperio y a la plena confianza de Uriel Septim VII.
+
+Tharn era un mago de potencia excepcional que dominaba las artes de la ilusión a un nivel más allá de la comprensión ordinaria. Su capacidad para reproducir con exactitud el aspecto, la voz y los modales del Emperador evidencia un dominio de la magia verdaderamente aterrador.
+
+Sus motivaciones siguen siendo parcialmente oscuras. El poder puro era sin duda un factor, pero algunas fuentes sugieren que Tharn servía a intereses más sombríos, quizás vinculados a los **Príncipes Daédricos** o a fuerzas aún más antiguas. El **Bastón del Caos**, artefacto que utilizó para aprisionar a Uriel, es un objeto daédrico de considerable poder.
+
+## El encarcelamiento de Uriel Septim VII
+
+El acto central del complot de Tharn fue la utilización del **Bastón del Caos** para atrapar a **Uriel Septim VII** en una dimensión alternativa. El Bastón, un artefacto de inmensa potencia, creó una prisión dimensional de la que el Emperador no podía escapar por sus propios medios.
+
+Para asegurarse de que nadie pudiera liberar a Uriel, Tharn quebró el Bastón en ocho fragmentos que dispersó por todo Tamriel, escondiéndolos en mazmorras custodiadas por criaturas poderosas. Sin el Bastón reconstituido, la prisión dimensional era inviolable.
+
+La única testigo del acto —**Ria Silmane**, aprendiz de Tharn que intentó interponerse— fue asesinada por el traidor. Pero su espíritu persistió más allá de la muerte, negándose a abandonar Mundus hasta que se hiciera justicia.
+
+## El reinado del impostor
+
+Durante diez años, Tharn gobernó Tamriel bajo la apariencia de Uriel Septim VII. Su reinado se caracterizó por una serie de decisiones aparentemente erráticas pero calculadas para debilitar el Imperio desde dentro:
+
+Avivó las tensiones entre provincias, fomentando conflictos fronterizos que desviaban la atención de los nobles de la corte imperial. Guerras locales estallaron en todo Tamriel, cada una beneficiosa para el falso Emperador.
+
+Debilitó el **Consejo de los Ancianos**, marginando a los consejeros más perspicaces que habrían podido detectar el engaño. Los puestos clave fueron entregados a incompetentes leales o a agentes del propio Tharn.
+
+Desvió recursos imperiales hacia proyectos personales, acumulando poder mágico y riquezas en escondites secretos por todo el Imperio.
+
+Paradójicamente, el Simulacro no fue un período de caos total: Tharn era suficientemente inteligente como para mantener una apariencia de estabilidad mientras socavaba los cimientos del Imperio.
+
+## El Campeón Eterno
+
+La liberación llegó de un héroe inesperado: el **Campeón Eterno** (Eternal Champion), un prisionero anónimo cuya identidad precisa se ha perdido en los meandros de la historia. Guiado por el fantasma de **Ria Silmane**, este héroe emprendió una épica búsqueda para reconstituir el Bastón del Caos.
+
+El Campeón recorrió las ocho provincias de Tamriel, enfrentándose a los guardianes de cada fragmento del Bastón. Cada mazmorra representaba un desafío mortal: laberintos poblados de monstruos, trampas mágicas y enemigos cada vez más poderosos.
+
+Ria Silmane, desde el más allá, guiaba al Campeón mediante visiones y mensajes, indicándole la localización de cada fragmento y los peligros que le aguardaban. Su devoción póstuma a la causa imperial la convierte en una de las heroínas más olvidadas de este período.
+
+## La confrontación final
+
+Una vez reunidos los ocho fragmentos y reconstituido el Bastón del Caos, el Campeón Eterno se dirigió al **Palacio Imperial** de la **Ciudad Imperial** para enfrentarse directamente a Jagar Tharn.
+
+La confrontación fue un duelo mágico de una violencia extraordinaria. Tharn, desenmascarado y acorralado, desató toda su potencia contra el Campeón. Pero el Bastón del Caos, vuelto contra quien lo había manejado, le dio al Campeón la ventaja necesaria.
+
+Jagar Tharn fue destruido —algunas fuentes dicen desintegrado; otras afirman que su alma fue absorbida por el propio Bastón— y la prisión dimensional se rompió. **Uriel Septim VII** fue liberado tras una década de cautividad, regresando a un Imperio debilitado y dividido por las maquinaciones de su usurpador.
+
+## Las consecuencias del Simulacro
+
+El retorno de Uriel Septim VII al trono no puso fin de inmediato a los problemas creados por el Simulacro:
+
+El Imperio estaba debilitado, sus instituciones socavadas y sus provincias en conflicto. La confianza en la autoridad imperial había sido erosionada por una década de mala gobernanza.
+
+Las guerras locales azuzadas por Tharn no se apagaron por sí solas. El conflicto en **Alto Risco** que desembocaría en los eventos de **Daggerfall** ya estaba en gestación.
+
+La reputación de la magia imperial quedó empañada. ¿Cómo había podido un mago de la corte engañar a todo el mundo durante diez años? Esta pregunta minó la confianza del público en los magos institucionales.
+
+El propio Uriel VII salió transformado de su cautiverio: más desconfiado, más introspectivo y atormentado por la sensación de que fuerzas oscuras continuaban amenazando al Imperio desde dentro.
+
+## El legado histórico
+
+El Simulacro Imperial es considerado con frecuencia el primer síntoma del debilitamiento terminal del **Imperio Septim**. Si un único mago podía apoderarse del trono durante una década, eso revelaba profundas fallas estructurales en la seguridad y la gobernanza imperiales.
+
+El evento es también un recordatorio del aterrador poder de la magia en manos de individuos malévoles. La respuesta institucional —un reforzamiento de la vigilancia sobre los magos— alimentaría las tensiones entre el **Gremio de Magos** y el poder imperial durante las décadas siguientes.
+
+El Campeón Eterno, por su parte, desapareció de la historia tras su hazaña, uniéndose al linaje de héroes anónimos de Tamriel: individuos ordinarios que, en circunstancias extraordinarias, cambiaron el destino del mundo.

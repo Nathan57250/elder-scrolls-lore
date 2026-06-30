@@ -1,0 +1,101 @@
+---
+title: "The Third Era"
+slug: "troisieme-ere"
+era: "third-era"
+category: "empires"
+tags: ["septim-empire", "imperial-simulacrum", "warp-in-the-west", "oblivion-crisis", "uriel-septim"]
+date: "3E 1 — 3E 433"
+summary: "The era of the Septim dynasty: the Imperial Simulacrum, the Warp in the West, the Nerevarine war, and the Oblivion Crisis that ended the age."
+timelineYear: 1
+sources: ["UESP: Third Era", "The Imperial Library", "Events of Morrowind, Oblivion"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Overview — The Era of Fragile Stability
+
+The Third Era is a paradox: **433 years of relative peace** maintained by a system with a single point of failure — the Septim bloodline and the Dragonfires. As long as the system held, Tamriel was protected. When it gave way, everything collapsed in a single night.
+
+### What Created the Third Era
+- Tiber Septim conquers all of Tamriel (2E 854–896) with the Numidium
+- He forges a forced peace — all provinces under one Empire
+- He achieves apotheosis → the cult of Talos cements imperial legitimacy
+- The Dragonfires + the Amulet of Kings protect against Daedric invasions
+
+### The Cracks That Accumulated
+Beneath the surface of peace, the system decayed:
+
+| Period | Event | Crack Created |
+|--------|-------|---------------|
+| 3E 389–399 | Imperial Simulacrum | The Emperor is vulnerable — 10 years undetected |
+| 3E 417 | Warp in the West | Reality itself can be broken |
+| 3E 427 | Nerevarine | Heart of Lorkhan destroyed → Tribunal falls → Morrowind unstable |
+| 3E 433 | Oblivion Crisis | The entire system collapses in a single night |
+
+## The Septim Dynasty
+
+The Third Era was dominated by the **Septim dynasty**, descended from Tiber Septim. The Empire maintained a relative peace across Tamriel for most of this period, despite numerous intrigues and crises.
+
+Emperor **Uriel Septim VII** reigned for the majority of the late Third Era (3E 368 — 3E 433), surviving usurpations, imprisonments, and conspiracies.
+
+## The Imperial Simulacrum (3E 389 — 3E 399)
+
+The mage **Jagar Tharn**, an imperial advisor, secretly imprisoned Emperor Uriel Septim VII in a parallel dimension and took his place through illusion magic. For ten years, he ruled in his guise, sowing discord.
+
+An anonymous hero, guided by the ghost of the witch Ria Silmane, gathered the fragments of the **Staff of Chaos** and unmasked the impostor, freeing the true emperor.
+
+## The Warp in the West (3E 417)
+
+Also known as the "Miracle of Peace" or the **Dragon Break** of the Iliac Bay, this event remains one of the most mysterious in the history of Tamriel.
+
+A Blades agent in possession of the **Totem of the Numidium** activated the Dwemer golem. Reality itself fractured — **six mutually exclusive outcomes occurred simultaneously** (a phenomenon called a Dragon Break, where time loses its linearity).
+
+The result: the dozens of small kingdoms in the Iliac Bay region merged into four great nations (Daggerfall, Sentinel, Orsinium, Wayrest).
+
+## The Nerevarine Prophecy (3E 427)
+
+On the island of **Vvardenfell** in Morrowind, a prisoner was revealed to be the reincarnation of **Nerevar** — the prophesied Nerevarine. With the tools of Kagrenac (Keening, Sunder, Wraithguard), the Nerevarine entered the Heart of Red Mountain and:
+
+- Destroyed the **Heart of Lorkhan**, severing Dagoth Ur's source of power
+- Defeated **Dagoth Ur** and brought an end to the Blight
+- Broke the source of immortality of the **Tribunal**, condemning Vivec, Almalexia, and Sotha Sil to regain their mortality
+
+## The Oblivion Crisis (3E 433)
+
+The Third Era ended in blood and fire. The Mythic Dawn, a cult devoted to **Mehrunes Dagon** (Daedric Prince of Destruction), assassinated Emperor Uriel Septim VII and all his known heirs.
+
+**Oblivion Gates** opened across all of Tamriel, pouring Daedric armies through. The city of **Kvatch** was entirely destroyed.
+
+**Martin Septim**, illegitimate son and last secret heir of the Septim line, was found in time. With the help of the Champion of Cyrodiil, he sacrificed himself in the Temple of the One by merging with the Amulet of Kings to become an **Avatar of Akatosh** — a divine dragon who drove Mehrunes Dagon back into Oblivion.
+
+Martin's death ended the Septim line and the **Dragonfires** that protected the barriers between Oblivion and Mundus. The Third Era came to a close.
+
+## Causal Chain — From Tiber Septim to the End
+
+<CausalChain items={[
+  { text: "Tiber Septim conquers Tamriel (2E 854)", link: "/chronologie/second-era/tiber-septim" },
+  { text: "Forges the Amulet of Kings + Dragonfires", link: "/chronologie/first-era/amulette-des-rois", indent: 1 },
+  { text: "433 years of protection against the Daedra", indent: 1 },
+  { text: "Dagoth Ur awakens (beneath Red Mountain)", link: "/chronologie/third-era/dagoth-ur", indent: 1 },
+  { text: "The Mythic Dawn infiltrates (for decades)", link: "/chronologie/third-era/mythic-dawn", indent: 1 },
+  { text: "The Tribunal loses its power (gradually)", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "3E 427: The Nerevarine destroys the Heart", link: "/chronologie/third-era/nerevarine" },
+  { text: "Mortal Tribunal → Vivec disappears → Baar Dau unstable", indent: 1 },
+  { text: "A fatal collateral consequence for the future", indent: 1 },
+  { text: "3E 433: The Mythic Dawn strikes", link: "/chronologie/third-era/crise-oblivion" },
+  { text: "Assassinates the Septims → Dragonfires extinguished", indent: 1 },
+  { text: "Martin sacrifices himself → Dagon repelled", link: "/chronologie/third-era/martin-septim", indent: 1 },
+  { text: "Amulet DESTROYED → protection gone forever", indent: 1 },
+  { text: "RESULT: The post-3E 433 world is PERMANENTLY vulnerable", indent: 1 }
+]} />
+
+## The Tragic Irony
+
+The Third Era illustrates a deep irony in the lore:
+- The system **worked** (Dragonfires = perfect protection)
+- But it rested on **a single family** (the Septims)
+- When that family dies, there is **no plan B**
+- 433 years of security made people **complacent**
+- The Mythic Dawn only needed to kill 4 people to destroy the protection of an entire world

@@ -1,0 +1,92 @@
+---
+title: "Martin Septim"
+slug: "martin-septim"
+era: "third-era"
+category: "personnages"
+tags: ["martin-septim", "crisis-de-oblivion", "akatosh", "avatar", "sangre-de-dragon", "amuleto-de-los-reyes", "mehrunes-dagon", "ultimo-emperador"]
+timelineYear: 433
+summary: "Último heredero del linaje Septim, sacerdote de Akatosh que se convirtió en emperador, Martin se sacrificó invocando el Avatar del Dragón para repeler a Mehrunes Dagon y poner fin a la Crisis de Oblivion."
+sources: ["UESP: Martin Septim", "Events of TES IV: Oblivion", "The Amulet of Kings", "Brief History of the Empire, Vol. 4"]
+---
+
+## Un Emperador Inesperado
+
+**Martin Septim** nunca estuvo destinado a reinar. Hijo ilegítimo del Emperador **Uriel Septim VII**, creció sin conocer su ascendencia real, criado como un plebeyo en la capilla de Akatosh en **Kvatch**, Cyrodiil. Sacerdote humilde y erudito, pasaba sus días entre rezos y el estudio de textos sagrados.
+
+Nada en su vida hacía presagiar que portaba en su interior la **Sangre del Dragón** — el linaje divino que conectaba a los emperadores Septim con el dios Akatosh y con los Fuegos del Dragón que sellaban las barreras entre Mundus y Oblivion.
+
+## La Caída de Kvatch
+
+El **27 de la Última Siembra, 3E 433**, la Crisis de Oblivion golpeó Kvatch con violencia absoluta. Una **puerta de Oblivion** se abrió a las afueras de la ciudad, derramando las legiones de **Mehrunes Dagon**. La ciudad fue arrasada y su población masacrada.
+
+Martin sobrevivió — protegido por los dioses o por azar. Refugiado entre las ruinas con un puñado de supervivientes, fue encontrado por el **Héroe de Kvatch**, un aventurero enviado por **Jauffre**, Gran Maestro de las Hojas, que había sabido de la existencia de este heredero oculto.
+
+### La Revelación
+
+La noticia de su herencia golpeó a Martin como un trueno:
+- Su padre, el Emperador Uriel Septim VII, acababa de ser asesinado por el **Alba Mítica**
+- Sus tres medio-hermanos legítimos habían sido asesinados la misma noche
+- Era el **único heredero vivo** del linaje Septim
+- Sin él, los Fuegos del Dragón permanecerían apagados y las barreras de Oblivion no podrían restaurarse
+
+## El Refugio en el Templo del Gobernante de las Nubes
+
+Martin fue llevado al **Templo del Gobernante de las Nubes** (Cloud Ruler Temple), la fortaleza de las Hojas en las montañas Jerall. Allí, las Hojas lo reconocieron como su legítimo emperador y juraron protegerlo.
+
+### Un Líder Reacio pero Capaz
+
+A pesar de carecer de formación política o militar, Martin reveló cualidades notables:
+
+- **Inteligencia excepcional** — capaz de descifrar textos daédricos antiguos
+- **Humildad sincera** — rechazando los fastos del poder
+- **Valentía moral** — tomando decisiones difíciles sin vacilar
+- **Erudición mágica** — sus años de sacerdocio y un turbio pasado juvenil relacionado con la magia daédrica le otorgaban una comprensión única de las fuerzas en juego
+
+## La Búsqueda para Cerrar las Puertas
+
+Martin comprendió que para vencer a Mehrunes Dagon debía completar un ritual que requería cuatro componentes:
+
+### Los Cuatro Elementos del Ritual
+
+1. **Un artefacto daédrico** — la Sangre de Daedra, obtenida sacrificando un objeto de poder daédrico
+2. **Una Gran Piedra Welkynd** — cristal Ayleid de inmenso poder, hallado en las ruinas de Miscarcand
+3. **La armadura de Tiber Septim** — reliquia del primer emperador, recuperada de Sancre Tor
+4. **Una Gran Piedra de Sigilo** — piedra arrancada a una Gran Puerta de Oblivion, que requería abrir dicha puerta en Bruma
+
+Mientras el Héroe de Kvatch recorría Tamriel reuniendo estos elementos, Martin coordinaba la defensa desde el Templo del Gobernante de las Nubes, estudiando sin descanso los Comentarios del Alba Mítica.
+
+## La Batalla de Bruma
+
+Obtener la Gran Piedra de Sigilo exigía un terrible sacrificio: **permitir** la apertura de una Gran Puerta de Oblivion ante la ciudad de **Bruma**. Martin tomó esta decisión sabiendo que pondría en peligro miles de vidas.
+
+La batalla fue feroz. Las legiones daédricas chocaron con los defensores de Bruma y los refuerzos enviados por las demás ciudades de Cyrodiil. El Héroe de Kvatch penetró en la Gran Puerta y arrancó la Piedra de Sigilo antes de que el ingenio de asedio daédrico pudiera destruir la ciudad.
+
+## El Sacrificio Final
+
+Con todos los componentes reunidos, Martin pudo abrir un portal al **Paraíso** de Camoran — dimensión creada por Mankar Camoran, líder del Alba Mítica, que poseía el **Amuleto de los Reyes**. El Héroe de Kvatch mató a Camoran y recuperó el Amuleto.
+
+Pero era demasiado tarde para un ritual ordenado. El propio Mehrunes Dagon — con todo el poder de un Príncipe Daédrico — se materializó en la **Ciudad Imperial**, destruyendo el Templo del Único.
+
+### El Avatar de Akatosh
+
+En el caos del Templo destruido, Martin tomó la única decisión capaz de salvar el mundo. Destrozó el **Amuleto de los Reyes** — liberando las almas de todos los emperadores Septim que estaban consagrados en él — y ofreció su propia vida como catalizador.
+
+Su cuerpo se transformó en un **Avatar de Akatosh** — un dragón de luz dorada de tamaño colosal. El Avatar se enfrentó a Mehrunes Dagon en un combate divino sobre la Ciudad Imperial y lo repelió hacia Oblivion.
+
+Luego el Avatar se petrificó, convirtiéndose en una **estatua de dragón** en el centro del Templo del Único — el último monumento de Martin Septim, congelado para la eternidad en su acto de sacrificio.
+
+## El Legado
+
+La muerte de Martin Septim marcó:
+
+- **El fin del linaje Septim** — ningún heredero de la Sangre del Dragón sobrevivía
+- **El fin de la Tercera Era** — los historiadores imperiales fijan la Cuarta Era en este momento
+- **La extinción de los Fuegos del Dragón** — las barreras entre Mundus y Oblivion se volvieron permanentes pero ya no renovables
+- **Una crisis de sucesión** — sin un emperador legítimo, el Imperio entró en un período de turbulencia que condujo al Concordato del Oro Blanco
+
+### Un Hombre, no un Héroe
+
+Lo que hace notable a Martin no es su poder — no era ni guerrero ni mago de combate. Es su **voluntad de sacrificio**. Un sacerdote ordinario que aprendió en unas pocas semanas que era emperador, y luego eligió morir por un imperio que nunca había gobernado.
+
+> *"Los dioses no siempre ayudan a quienes les rezan. Pero a veces, envían a un hombre que los ayuda a ellos mismos."*
+> — Inscripción en la base de la estatua-dragón, Templo del Único, Ciudad Imperial

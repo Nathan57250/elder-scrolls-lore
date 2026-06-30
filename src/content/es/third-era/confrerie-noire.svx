@@ -1,0 +1,114 @@
+---
+title: "La Hermandad Oscura"
+slug: "confrerie-noire"
+era: "third-era"
+category: "guildes"
+tags: ["hermandad-oscura", "sithis", "madre-noche", "asesinos", "morag-tong", "santuario", "tinieblas"]
+timelineYear: 358
+summary: "Un gremio de asesinos que venera a Sithis y a la Madre de la Noche, la Hermandad Oscura opera desde las sombras por todo Tamriel, vinculada por los Cinco Preceptos y un siniestro ritual conocido como el Sacramento Negro."
+sources: ["UESP: Dark Brotherhood", "The Night Mother's Truth", "Sacred Witness", "Events of TES IV: Oblivion", "Events of TES V: Skyrim"]
+---
+
+## Orígenes — De la Morag Tong a la Hermandad
+
+La **Hermandad Oscura** nació de un cisma dentro de la **Morag Tong**, el gremio de asesinos legalmente reconocido de Morrowind que sirve al Príncipe Daédrico Mephala. Durante la Segunda Era, un grupo de disidentes rechazó la estructura sancionada por el Estado y la veneración de Mephala para abrazar una entidad mucho más antigua y temible: **Sithis** — el Vacío en persona.
+
+Donde la Morag Tong mata bajo contrato legal con la aprobación del gobierno dunmer, la Hermandad Oscura mata para quien sea que realice el **Sacramento Negro**. Sin legalidad, sin justificación política — solo la muerte como servicio sagrado.
+
+## Sithis y la Madre de la Noche
+
+### Sithis — El Vacío Primordial
+
+**Sithis** no es un dios en el sentido tradicional. Es la fuerza del cambio y la disolución que precede a toda creación. Donde Anu representa la estasis y la permanencia, Sithis es la entropía, el fin, el retorno a la nada. Los miembros de la Hermandad creen que cada alma que envían al Vacío nutre a Sithis.
+
+### La Madre de la Noche
+
+La **Madre de la Noche** es el vínculo entre Sithis y sus seguidores mortales. Según la tradición de la Hermandad:
+
+- Fue en su día una mujer mortal que asesinó a sus cinco hijos como ofrenda a Sithis
+- En recompensa, Sithis la transformó en su esposa espectral y portavoz
+- Su cuerpo momificado se conserva y traslada en secreto entre los Santuarios
+- Solo el **Oyente** puede escuchar su voz y recibir los contratos
+
+### El Oyente y el Portavoz
+
+La jerarquía de comunicación divina funciona así:
+
+1. **Sithis** transmite su voluntad a la **Madre de la Noche**
+2. La Madre de la Noche susurra los contratos al **Oyente** (un miembro único elegido por ella)
+3. El Oyente transmite las órdenes a los **Portavoces** (jefes de cada Santuario)
+4. Los Portavoces distribuyen los contratos a los **asesinos**
+
+## Los Cinco Preceptos
+
+Todo miembro de la Hermandad está vinculado por los **Cinco Preceptos** — reglas absolutas cuya violación trae la visita de un espíritu vengador:
+
+| Precepto | Regla |
+|----------|-------|
+| Primero | Nunca desobedecer ni negarse a obedecer las órdenes de un superior de la Hermandad |
+| Segundo | Nunca comprometer a la Hermandad ni a sus miembros |
+| Tercero | Nunca robar las posesiones de un Hermano o Hermana Oscuro/a |
+| Cuarto | Nunca matar a un Hermano o Hermana Oscuro/a |
+| Quinto | Nunca negarse a pagar a la Hermandad por sus servicios |
+
+Violar un Precepto invoca la ira de Sithis. Según los miembros, un espectro aparece ante el traidor mientras duerme — y nunca vuelve a despertar.
+
+## El Sacramento Negro
+
+El **Sacramento Negro** es el ritual mediante el cual un cliente solicita los servicios de la Hermandad:
+
+### Componentes Necesarios
+- Un cuerpo humano (real o simbólico)
+- Huesos humanos
+- Carne humana
+- Hojas de belladona
+- Pétalos de Flor Nocturna
+
+### El Ritual
+El cliente debe encerrarse en una habitación oscura, disponer los componentes a su alrededor y apuñalar el cuerpo mientras repite el encantamiento:
+
+> *"Dulce Madre, dulce Madre, envía a tu hijo hacia mí, pues los pecados de los indignos deben ser bautizados en sangre y miedo."*
+
+Si el ritual se realiza correctamente, la Madre de la Noche escucha la llamada y transmite el contrato al Oyente.
+
+## Estructura y Santuarios
+
+La Hermandad opera a través de una red de **Santuarios** — guaridas ocultas repartidas por todas las provincias de Tamriel. Cada Santuario es una familia:
+
+- **El Portavoz** — jefe del Santuario, recibe los contratos del Oyente
+- **Los Asesinos** — miembros confirmados que ejecutan los contratos
+- **Los Iniciados** — nuevos reclutas en período de prueba
+- **El Guardián de la Cripta** — protector del cuerpo de la Madre de la Noche (en el Santuario que lo alberga)
+
+### Santuarios conocidos durante la Tercera Era
+
+- **Cheydinhal** (Cyrodiil) — uno de los más activos, dirigido por Ocheeva
+- **Bosque Negro** (Cyrodiil) — Santuario abandonado que alberga el cuerpo de la Madre de la Noche
+- **Falkreath** (Bordeciel) — antiguo Santuario en las profundidades de una cripta nórdica
+- **Múltiples refugios en Morrowind** — en competencia directa con la Morag Tong
+
+## La Hermandad durante la Tercera Era
+
+### La Purificación
+
+El evento más traumático para la Hermandad durante la Tercera Era fue la **Purificación** del Santuario de Cheydinhal. Orquestada por Lucien Lachance por órdenes de lo que él creía que era la Madre de la Noche, esta purga implicó la eliminación de todos los miembros del Santuario por un solo asesino.
+
+En realidad, esta manipulación fue obra de un traidor infiltrado — prueba de que incluso una organización construida sobre el secreto puede ser corrompida desde dentro.
+
+### Rivalidad con la Morag Tong
+
+En Morrowind, la Hermandad Oscura y la Morag Tong libran una guerra de sombras permanente:
+
+- La Morag Tong considera a la Hermandad como herejes descarriados
+- La Hermandad ve a la Morag Tong como reliquias tímidas encadenadas a la burocracia
+- Los asesinatos mutuos son frecuentes
+- El Tribunal favorecía históricamente a la Morag Tong, manteniendo a la Hermandad en la clandestinidad en Morrowind
+
+## Filosofía y Creencias
+
+Para sus miembros, la Hermandad no es simplemente un gremio criminal — es una **orden religiosa**. La muerte no es un pecado sino un sacramento. Cada contrato cumplido es una plegaria a Sithis, cada vida arrebatada una ofrenda al Vacío.
+
+Esta sincera convicción distingue a la Hermandad de los simples mercenarios. Un asesino de la Hermandad no mata por oro — mata porque la muerte es sagrada, y el Vacío reclama lo que le corresponde.
+
+> *"¿Cuál es la música de la vida? El silencio, hermano mío."*
+> — Frase de reconocimiento tradicional de la Hermandad Oscura

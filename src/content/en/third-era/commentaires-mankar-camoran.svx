@@ -1,0 +1,76 @@
+---
+title: "The Commentaries of Mankar Camoran"
+slug: "commentaires-mankar-camoran"
+era: "third-era"
+category: "propheties"
+tags: ["mankar-camoran", "mysterium-xarxes", "mythic-dawn", "mehrunes-dagon", "oblivion", "heresy", "lorkhan"]
+timelineYear: 433
+summary: "The four volumes of the Commentaries on the Mysterium Xarxes — the heretical prophetic text of Mankar Camoran, the doctrinal foundation of the Mythic Dawn."
+sources: ["UESP: Mythic Dawn Commentaries", "The Imperial Library: Mankar Camoran", "TES IV: Oblivion"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Commentaries of Mankar Camoran
+
+The **Commentaries on the Mysterium Xarxes** are four volumes written by **Mankar Camoran**, founder of the **Mythic Dawn** cult, based on his reading of the **Mysterium Xarxes** — a book written by **Mehrunes Dagon** himself. These texts constitute at once a prophetic work, a revolutionary theological manifesto, and a covert recruitment tool whose decipherment led directly to the heart of the **Oblivion Crisis**.
+
+## Nature of the Texts
+
+### Structure
+
+The four volumes operate on several simultaneous levels:
+
+- **Literal level**: an esoteric narrative on the nature of reality
+- **Doctrinal level**: the theology of the Mythic Dawn and its justification for the worship of Dagon
+- **Operational level**: the first letters of each paragraph, once assembled, reveal the secret meeting place of the cult
+- **Metaphysical level**: truths (or half-truths) about the structure of the Aurbis
+
+### The Mysterium Xarxes
+
+The **Mysterium Xarxes** from which Camoran draws his commentaries is a Daedric artifact of terrifying power — Mehrunes Dagon's personal book, written in his own hand using an ink made from mortal blood. Mankar Camoran is the only mortal known to have read the Mysterium in its entirety and survived with their reason (relatively) intact.
+
+## Heretical Theses
+
+### Lorkhan as a Daedra
+
+Camoran's most radical thesis claims that **Lorkhan** is not an Aedra but a **Daedric Prince** — and that consequently, **Tamriel** is not a mortal plane but a **plane of Oblivion**. According to this view, mortals are already living in a Daedric realm without knowing it.
+
+> *Gather, my children, and behold the truth: Mundus is a trap, and the "Divines" your jailers.*
+
+### Liberation Through Dagon
+
+If Tamriel is a prison, then **Mehrunes Dagon** — Prince of Change, Destruction, and Revolution — is a **liberator**, not a conqueror. His invasion of Mundus is not an act of aggression but one of deliverance, breaking the chains forged by the false Aedric gods.
+
+### Camoran's Paradise
+
+Mankar Camoran claims to have created his own plane of Oblivion — **Camoran's Paradise** (Gaiar Alata) — through the secrets of the Mysterium Xarxes. This claim, if true, would make him a being of power comparable to a Daedric Prince. The Paradise served as the reward promised to faithful members of the Mythic Dawn after their deaths.
+
+## Influence on the Oblivion Crisis
+
+<CausalChain items={[
+  { text: "Mankar Camoran reads the Mysterium Xarxes" },
+  { text: "Composition of the four Commentaries", indent: 1 },
+  { text: "Mass recruitment for the Mythic Dawn", indent: 1 },
+  { text: "Assassination of Uriel Septim VII and his heirs", indent: 2 },
+  { text: "Extinguishing of the Dragonfires — opening of the Oblivion Gates", indent: 2 },
+  { text: "Oblivion Crisis (3E 433)", indent: 3 }
+]} />
+
+The Commentaries were not merely a theological text: their circulation in the intellectual circles of Cyrodiil recruited hundreds of fanatical devotees willing to die for the "liberation" promised by Dagon. Without these texts, the Mythic Dawn would never have reached the critical mass necessary for its cosmic coup.
+
+## Critical Analysis
+
+### Truths and Manipulations
+
+Post-Crisis scholars debate the validity of Camoran's claims:
+
+- **The Lorkhan-Daedra thesis** is considered false by the majority of theologians, yet it contains a troubling kernel: the Convention and the creation of Mundus *did* involve deception and involuntary sacrifice
+- **Tamriel as a plane of Oblivion** is refuted by the very structure of the Aurbis as observed by the Psijics, but the boundaries between planes are more porous than official doctrine admits
+- **The Paradise** existed in reality — the Champion of Cyrodiil entered it and killed Camoran — but its exact nature (an independent plane of Oblivion or a sub-domain of Dagon?) remains disputed
+
+### Intellectual Legacy
+
+Despite their association with a murderous cult, the Commentaries are studied (cautiously) by mages at the Arcane University for their insights into the metaphysics of the Aurbis. Camoran was wrong about many things — but his very errors illuminate the structure of Tamrielic reality.

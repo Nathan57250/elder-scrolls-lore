@@ -1,0 +1,75 @@
+---
+title: "Los Sacerdotes de las Polillas y la Adivinación"
+slug: "pretres-des-mites"
+era: "third-era"
+category: "propheties"
+tags: ["sacerdotes-polillas", "pergaminos-anciens", "profecia", "polilla-ancestral", "adivinacion", "imperio"]
+timelineYear: 200
+summary: "La orden monástica de los Sacerdotes de las Polillas, guardianes de los Pergaminos de los Ancianos, y la naturaleza de la profecía en el universo de los Elder Scrolls."
+sources: ["UESP: Moth Priest", "The Imperial Library: Elder Scrolls", "TES V: Dawnguard — Dexion Evicus"]
+---
+
+# Los Sacerdotes de las Polillas y la Adivinación
+
+Los **Sacerdotes de las Polillas** (Moth Priests) son una orden monástica imperial dedicada a la lectura e interpretación de los **Pergaminos de los Ancianos**. Con sede en la **Biblioteca Imperial** de la Ciudad Imperial, representan la máxima autoridad en materia de adivinación profética en el **Imperio**. Su orden es inseparable de la comprensión misma de lo que significa «profecía» en el mundo de Tamriel.
+
+## El ritual de la Polilla Ancestral
+
+### La preparación
+
+Leer un Pergamino de los Ancianos no es un acto trivial. Los Sacerdotes de las Polillas desarrollan su capacidad de lectura a través del ritual de la **Polilla Ancestral**: una comunión mística con las polillas ancestrales que habitan las cavernas bajo la Ciudad Imperial.
+
+Estas polillas no son insectos ordinarios: están vinculadas al Tapiz del destino en sí mismo. Al meditar entre ellas, los sacerdotes aprenden a percibir los patrones tejidos en la realidad: los hilos del pasado, del presente y de los futuros posibles.
+
+### Las etapas de la iniciación
+
+- **Noviciado**: años de estudio de los textos antiguos y meditación entre las polillas
+- **Comunión**: el sacerdote aprende a «leer» los patrones formados por los enjambres de polillas
+- **Primera lectura**: el sacerdote intenta descifrar un fragmento de un Pergamino bajo supervisión
+- **Maestría**: capacidad de lectura completa, al precio de un deterioro progresivo de la vista
+
+## El precio del conocimiento
+
+### La ceguera progresiva
+
+Cada lectura de un Pergamino de los Ancianos deteriora irremediablemente la vista del lector. Los sacerdotes experimentados van quedándose ciegos progresivamente: un sacrificio aceptado como el precio de la comunión con artefactos que trascienden la mortalidad.
+
+> *Los ojos que han visto la eternidad ya no pueden soportar la luz de lo cotidiano.*
+
+Los Sacerdotes de las Polillas más ancianos son completamente ciegos, pero paradójicamente «ven» con mayor claridad que nadie las corrientes proféticas que atraviesan el Aurbis.
+
+### La locura
+
+Peor que la ceguera, algunos sacerdotes caen en la locura tras lecturas demasiado frecuentes o demasiado profundas. **Septimus Signus** ilustra este peligro: su genio le permitió descifrar secretos inauditos, pero al precio de su cordura.
+
+## La naturaleza de la profecía en Tamriel
+
+### Determinismo y libre albedrío
+
+Los Pergaminos de los Ancianos plantean una pregunta fundamental: ¿está escrito el futuro? Los Sacerdotes de las Polillas enseñan una posición matizada: los Pergaminos muestran **convergencias probables**, no certezas absolutas. El futuro existe en forma de posibilidades que se cristalizan progresivamente.
+
+### Los Dragon Breaks
+
+Los **Dragon Breaks** —rupturas temporales en las que la linealidad del tiempo se colapsa— representan los límites últimos de la profecía. Durante un Dragon Break, los Pergaminos se vuelven ilegibles, pues todos los futuros posibles existen simultáneamente. El ejemplo más célebre es el **Warp in the West** (Distorsión del Oeste), donde seis finales contradictorios se produjeron todos al mismo tiempo.
+
+### Profecía frente a voluntad divina
+
+Una distinción crucial separa la profecía tamriélica de la simple predicción: las profecías mayores parecen emanar del propio **Akatosh**, el Dios del Tiempo. No «predicen» el futuro: lo *modelan*. El Pergamino no es un espejo pasivo, sino una herramienta activa en la mecánica divina del mundo.
+
+## Papel político
+
+### Consejeros imperiales
+
+Los Sacerdotes de las Polillas sirven de consejeros proféticos a los Emperadores. **Uriel Septim VII** se apoyaba en sus visiones para tomar decisiones cruciales: en parte gracias a ellos envió al futuro **Nerevarine** a Morrowind e identificó al futuro **Campeón de Cyrodiil**.
+
+### Guardianes de los Pergaminos
+
+El Imperio conserva un número indeterminado de Pergaminos de los Ancianos en la Biblioteca Imperial. Los Sacerdotes son sus guardianes tanto como sus lectores, protegiendo estos artefactos contra el robo y el uso abusivo.
+
+### Declive en la Cuarta Era
+
+Tras la **Crisis de Oblivion** y la caída de la dinastía **Septim**, la orden experimentó un declive. En el año 4E 201, el vampiro **Harkon** del clan **Volkihar** secuestró al Sacerdote de las Polillas **Dexion Evicus** para hacerle leer un Pergamino que revelaba la Profecía de la Tiranía del Sol, ilustrando la vulnerabilidad de la orden debilitada.
+
+## Legado
+
+La orden de los Sacerdotes de las Polillas encarna la paradoja central del conocimiento en el universo de los Elder Scrolls: cuanto más se aproxima uno a la verdad última, mayor es el precio personal. Su propia existencia demuestra que el futuro puede ser vislumbrado, pero nunca sin consecuencias.

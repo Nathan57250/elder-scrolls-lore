@@ -1,0 +1,128 @@
+---
+title: "The Fulfillment of the Nerevarine Prophecy"
+description: "The arrival of the Nerevarine in Morrowind, the destruction of the Heart of Lorkhan, and the fall of the Tribunal in 3E 427"
+era: "third-era"
+category: "evenements"
+timelineYear: 427
+tags: ["nerevarine", "morrowind", "dagoth-ur", "tribunal", "azura", "heart-of-lorkhan", "vivec", "red-mountain"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Fulfillment of the Nerevarine Prophecy (3E 427)
+
+In the year 427 of the Third Era, an anonymous prisoner arrived in Morrowind and fulfilled the Nerevarine Prophecy — a prophecy thousands of years old foretelling the reincarnation of Indoril Nerevar. This event brought about the destruction of the Heart of Lorkhan, the fall of Dagoth Ur, and set in motion a cascade of consequences that would culminate in the Red Year, the greatest catastrophe in Morrowind's history.
+
+## Origins and Causes
+
+### The Battle of Red Mountain (1E 700)
+
+The roots of this prophecy reach back into the First Era. At the Battle of Red Mountain, the Chimer of Indoril Nerevar clashed with the Dwemer of Dumac for control of the Heart of Lorkhan — the divine heart of a dead god, source of immeasurable power, hidden beneath Red Mountain.
+
+Nerevar had secured from his advisors — Vivec, Almalexia, Sotha Sil — and his general Voryn Dagoth the oath never to use the Tools of Kagrenac on the Heart. Yet after the Dwemer vanished and Nerevar died under murky circumstances, the three advisors betrayed this oath. They used the Tools — Keening, Sunder, and Wraithguard — to draw power from the Heart and elevate themselves to living gods.
+
+### Azura's Curse
+
+Azura, Daedric Prince patroness of the Chimer and protector of Nerevar, discovered the betrayal. Furious at seeing her faithful break their most sacred oath, she pronounced a double curse. The Chimer were physically transformed — their golden skin became ashen, their eyes turned red. They became the Dunmer, the Dark Elves. And Azura prophesied that Nerevar would return to restore justice and punish the oath-breakers.
+
+The Tribunal — Vivec, Almalexia, and Sotha Sil — publicly denied the curse and rewrote history. According to their version, the transformation was a blessing, and the events at Red Mountain had unfolded differently. For millennia, this official version prevailed.
+
+### The Awakening of Dagoth Ur
+
+Voryn Dagoth, whom all believed dead at the Battle of Red Mountain, had in fact survived. Exposed to the Heart of Lorkhan, he had become something else entirely — Dagoth Ur, a being of terrible power. For centuries he lay dormant beneath Red Mountain, slowly feeding on the Heart.
+
+Around 2E 882, Dagoth Ur fully awakened. He reclaimed control of Red Mountain and its surrounding citadels, driving back the forces of the Tribunal. He began construction of Akulakhan, a Second Numidium — a divine golem powered by the Heart that would have given him the power to conquer all of Tamriel.
+
+Worse still, his will began to spread through the dreams of the Dunmer in the form of the Corprus Disease and the Blight, transforming victims into monsters devoted to his cause. The Ghostfence, a magical barrier sustained by the Tribunal, barely contained this growing threat.
+
+### The Tribunal's Weakening
+
+Dagoth Ur's control of Red Mountain denied the Tribunal access to the Heart of Lorkhan. Unable to renew their divine connection, the three living gods were gradually losing their powers. Vivec was sustaining Baar Dau — a massive meteor suspended above Vivec City by his will alone — but for how much longer?
+
+The Temple of the Tribunal, Morrowind's dominant religious institution, actively persecuted the "Dissenters" who believed in the Nerevarine Prophecy. But the signs were multiplying: the dreams sent by Dagoth Ur, the visible weakening of the Living Gods, the gaps in the Ghostfence.
+
+### The Emperor's Scheme
+
+Uriel Septim VII, Emperor of Tamriel, was a man of prophetic visions. Guided by the Elder Scrolls and his own premonitions, he orchestrated the sending of a specific prisoner to Morrowind — an individual born under certain signs, matching the criteria of the prophecy. The Emperor saw in the Nerevarine a tool for resolving the Dagoth Ur crisis while tightening imperial control over this rebellious province.
+
+## The Event: The Fulfillment of the Prophecy
+
+### The Prisoner's Arrival
+
+The prisoner landed at the port of Seyda Neen, released by imperial decree with the secret mission of contacting Caius Cosades, a Blades agent. Officially just a freed prisoner, they carried within them the potential to fulfill — or fail — the millennia-old prophecy.
+
+### The Trials of the Nerevarine
+
+Fulfilling the prophecy required the candidate to prove their identity through a series of trials defined by the "Seven Visions" and the "Lost Words." The prisoner had to:
+
+- Be recognized by the Ashlander tribes as the Nerevarine
+- Be recognized by the Great Houses as Hortator (war champion)
+- Survive Corprus and be cured of it — proving immunity to Dagoth Ur's power
+- Obtain the Tools of Kagrenac: Wraithguard, Keening, and Sunder
+
+Each step involved mortal trials, complex political negotiations, and confrontation with hostile forces. The Temple dispatched assassins, Dagoth Ur's followers sought to corrupt them through dreams, and many "false Nerevarines" had failed before them.
+
+### The Meeting with Vivec
+
+In a pivotal moment, the Nerevarine met Vivec himself. The Poet-God, weakened and perhaps weary of his millennia of lies, acknowledged the reality of the prophecy. He surrendered Wraithguard to the Nerevarine and explained how to use the Tools on the Heart. It was an implicit admission of his own original betrayal — the god accepting Azura's judgment.
+
+### The Destruction of the Heart of Lorkhan
+
+The Nerevarine descended into the depths of Red Mountain, passed through Dagoth Ur's citadels, and reached the chamber of the Heart. There, they confronted Dagoth Ur — not by force of arms alone, but by using the Tools of Kagrenac on the Heart itself.
+
+By striking the Heart with Sunder and then touching it with Keening, the Nerevarine did not destroy the Heart — they freed it. The Heart of Lorkhan vanished from physical reality, simultaneously stripping Dagoth Ur of his power source. The mad god collapsed, and with him fell his entire army of corrupted creatures and his grand plans of conquest.
+
+Akulakhan, the barely completed Second Numidium, sank into the lava of Red Mountain. The existential threat hanging over Tamriel was annihilated.
+
+## Consequences
+
+### The Fall of the Tribunal
+
+The destruction of the Heart permanently denied the Tribunal any possibility of renewing their divine powers. The three Living Gods became mortal — or at least began an irreversible decline.
+
+Sotha Sil, reclusive in his Clockwork City for years, was assassinated by Almalexia, who was descending into madness. Almalexia herself, demented and desperate, attempted to kill the Nerevarine before being defeated. Vivec, the most enigmatic of the three, simply vanished. The chronicles diverge on his fate — some say he was taken by the Daedra, others that he transcended reality.
+
+### The Instability of Baar Dau
+
+Vivec's disappearance had a catastrophic delayed consequence. The meteor Baar Dau, suspended above Vivec City for centuries by the Poet-God's will alone, had nothing left to hold it in place. The Temple's Engineers attempted to maintain the rock through ordinary magical means, but these solutions were only temporary.
+
+### The End of the Tribunal Temple
+
+Morrowind's dominant religious institution lost its raison d'être. The Living Gods it worshipped were dead, insane, or gone. The cult of the Reclamations — the "true" Daedra of Morrowind (Azura, Boethiah, Mephala) — began its return, as did respect for ancestors and Ashlander traditions.
+
+### The Path to the Red Year
+
+The causal chain continued inexorably. In 4E 5, the magical devices sustaining Baar Dau finally failed. The meteor crashed onto Vivec City with apocalyptic force, triggering the eruption of Red Mountain. This event — the Red Year — devastated much of Morrowind, killing hundreds of thousands of Dunmer and destroying their civilization.
+
+### Metaphysical Implications
+
+The Heart of Lorkhan's disappearance from physical reality had repercussions on the very structure of Mundus. The Heart was one of the pillars of creation — its liberation affected the foundations of the world in ways that even the greatest mages do not fully understand.
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Tribunal's Betrayal (1E 700) + Azura's Curse", link: "/chronologie/first-era/bataille-montagne-rouge" },
+  { text: "Nerevarine Prophecy announced" },
+  { text: "Dagoth Ur awakens (2E 882)", link: "/chronologie/third-era/dagoth-ur" },
+  { text: "Corprus Disease + Construction of Akulakhan", indent: 1 },
+  { text: "Uriel Septim VII's visions → Prisoner sent (3E 427)" },
+  { text: "Trials + Recognition as Nerevarine" },
+  { text: "DESTRUCTION OF THE HEART OF LORKHAN" },
+  { text: "Death of Dagoth Ur", indent: 1 },
+  { text: "Fall of the Tribunal", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "End of the Akulakhan threat", indent: 1 },
+  { text: "Disappearance of Vivec", link: "/chronologie/first-era/vivec", indent: 2 },
+  { text: "Baar Dau unstable", indent: 3 },
+  { text: "RED YEAR (4E 5)", link: "/chronologie/fourth-era/annee-rouge" },
+  { text: "Destruction of Morrowind", indent: 1 },
+  { text: "Dunmer Exodus", indent: 1 },
+  { text: "Argonian Invasion", indent: 1 }
+]} />
+
+## Reflection on Causality
+
+The Nerevarine Prophecy illustrates a fundamental paradox in Tamriel: do prophecies cause events, or do events cause prophecies? Azura foretold Nerevar's return because the Tribunal had betrayed — but the Tribunal was punished because the prophecy existed. The Emperor sent the prisoner because he knew the prophecy — but the prophecy was fulfilled because the Emperor sent the prisoner.
+
+What is certain is that the causal chain initiated by the betrayal of 1E 700 did not truly end until the Red Year of 4E 5 — more than three thousand years of cascading consequences, triggered by a single act of perjury at the summit of Red Mountain.
