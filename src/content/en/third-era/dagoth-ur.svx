@@ -1,0 +1,54 @@
+---
+title: "Dagoth Ur"
+slug: "dagoth-ur"
+era: "third-era"
+category: "personnages"
+tags: ["dagoth-ur", "voryn-dagoth", "sixth-house", "heart-of-lorkhan", "nerevarine", "corpus"]
+date: "1E 700 — 3E 427"
+timelineYear: 420
+summary: "Once an ally of Nerevar who became a corrupted deity beneath Red Mountain, seeking to unify Tamriel under the control of the Heart of Lorkhan through the Corprus Plague."
+mapCoords: { x: 735, y: 285 }
+province: "Morrowind"
+aliases: ["Voryn Dagoth", "the Sharmat", "the Dreamer"]
+relatedArticles: ["vivec", "premiere-ere", "vvardenfell"]
+sources: ["UESP: Dagoth Ur", "Dagoth Ur's Plans", "Events of TES III: Morrowind"]
+---
+
+![Dagoth Ur beneath Red Mountain](/images/third-era/dagoth-ur.jpg)
+
+## Voryn Dagoth — The Loyal Friend
+
+Before he was a monster, **Voryn Dagoth** was the head of Great House Dagoth and one of General **Nerevar**'s most loyal companions. At the Battle of Red Mountain, Nerevar entrusted him with the guardianship of the Tools of Kagrenac while he confronted the Dwemer chiefs.
+
+When Nerevar returned dying and the Tribunal demanded the tools, Voryn refused — either out of corruption from contact with the Heart, or out of fidelity to an oath sworn to Nerevar. The Tribunal attacked him and left him for dead.
+
+## The Rebirth Beneath the Mountain
+
+But Voryn Dagoth did not die. Contact with the **Heart of Lorkhan** had transformed him. For millennia, he remained in the depths of Red Mountain, absorbing the Heart's power, becoming something more than a mortal but less than a true god.
+
+He became **Dagoth Ur** — a corrupted divine entity, an "anti-Tribunal" powered by the same source but without the proper ritual.
+
+## The Sixth House
+
+Dagoth Ur recreated **House Dagoth** (officially dissolved after his supposed death) under the name of the **Sixth House**. His servants — the **Ash Vampires**, the **Ash Ghouls**, and the Corprus-afflicted — formed an army bound to his will through dreams and disease.
+
+### The Corprus Plague
+**Corprus** is a divine disease created by Dagoth Ur:
+- Physically: monstrous deformation of the body, uncontrolled growth of flesh and bone
+- Mentally: loss of one's own will, absorption into Dagoth Ur's "Dream"
+- Notable trait: it renders the afflicted **immortal** while destroying the mind
+
+## Akulakhan — The Second Numidium
+
+Dagoth Ur's ultimate plan was the construction of **Akulakhan** — a second Numidium (a metal giant) powered by the Heart of Lorkhan. With this divine automaton, he intended to:
+1. Destroy the Tribunal
+2. Drive the Empire from Morrowind
+3. Spread Corprus throughout all of Tamriel, unifying humanity into a single collective mind — his own
+
+## The Final Confrontation
+
+In **3E 427**, the **Nerevarine** — the reincarnation of his old friend Nerevar — entered Red Mountain with the Tools of Kagrenac. Protected by Wraithguard, he used Sunder and Keening to **destroy the Heart of Lorkhan**.
+
+Deprived of his power source, Dagoth Ur collapsed. In his final words, he expressed a mixture of relief and sorrow — as though a part of Voryn Dagoth, the loyal friend, had survived beneath the corruption all along.
+
+> *"What right had you? What right had you to undo my life's work? What right..."*

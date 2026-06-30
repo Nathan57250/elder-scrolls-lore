@@ -1,0 +1,93 @@
+---
+title: "The Brotherhood of Darkness — Mythic Dawn"
+slug: "mythic-dawn"
+era: "third-era"
+category: "religion"
+tags: ["mythic-dawn", "mehrunes-dagon", "oblivion", "cult", "mankar-camoran", "assassination"]
+timelineYear: 433
+summary: "The Mythic Dawn is the cult of Mehrunes Dagon responsible for the assassination of the Septims and the opening of the Oblivion Gates in 3E 433."
+sources: ["UESP: Mythic Dawn", "Commentaries on the Mysterium Xarxes", "Events of TES IV: Oblivion"]
+---
+
+## Overview
+
+The **Mythic Dawn** is a Daedric cult devoted to **Mehrunes Dagon** — the Daedric Prince of Destruction, Change, and Revolution. What sets this cult apart is its success: they accomplished what no other cult had managed — **breaching the Liminal Barrier** and enabling a full-scale invasion of Mundus.
+
+## The Founder: Mankar Camoran
+
+**Mankar Camoran** was an Altmer (or Bosmer, depending on the source) who proclaimed himself heir to the Camoran king of Valenwood. A brilliant scholar and charismatic orator:
+- Author of the **Commentaries on the Mysterium Xarxes** — four volumes of propaganda
+- Possessed the **Mysterium Xarxes** — Mehrunes Dagon's sacred book
+- Created his own **Paradise** — a personal plane of Oblivion
+- Regarded Dagon not as a destroyer but as a **liberator**
+
+### His Philosophy
+Camoran taught that:
+- Mundus is a **prison** created by Lorkhan to trap souls
+- Mehrunes Dagon wishes to **destroy this prison** and free those souls
+- The Septim Empire is the prison's guardian (via the Dragonfires)
+- Destroying the Empire = liberating humanity
+
+## The Plan
+
+The Mythic Dawn executed a plan spanning several decades:
+
+### Phase 1: Infiltration
+- Recruitment across all strata of society
+- Sleeper cells throughout Cyrodiil
+- Members within the Imperial Guard (access to the sewers)
+- Spies inside the Palace
+
+### Phase 2: The Assassination (3E 433)
+- Elimination of Emperor Uriel Septim VII's three sons
+- Assassination of the Emperor himself in the Imperial Sewers
+- Theft of the **Amulet of Kings**
+
+### Phase 3: The Invasion
+- Extinguishing of the Dragonfires (no legitimate Emperor)
+- Collapse of the Liminal Barrier
+- Opening of **Oblivion Gates** throughout all of Tamriel
+- Massive Daedric invasion (Dremora, Clannfear, Xivilai, Scamps)
+
+## The Oblivion Gates
+
+The **Oblivion Gates** were portals between Dagon's Deadlands and Mundus:
+- Dozens of gates opened simultaneously across Cyrodiil
+- Each gate poured out Daedric armies
+- The gates could be closed by destroying their **Sigil Stone** (atop towers within)
+- Closing them was extremely dangerous — it required crossing through Oblivion
+
+## The Defeat
+
+The cult was defeated by a combination of factors:
+1. The **Hero of Kvatch** infiltrated and destroyed Camoran's Paradise
+2. Mankar Camoran was slain and the Amulet of Kings recovered
+3. **Martin Septim** (the last heir) used the Amulet to invoke Akatosh
+4. The Avatar of Akatosh closed all gates and drove back Dagon
+5. The cult scattered, hunted by the Empire
+
+## Consequences
+
+The Mythic Dawn paradoxically succeeded in its partial objective:
+- The Amulet of Kings is **destroyed**
+- The Septim dynasty is **extinct**
+- The Liminal Barrier can no longer be restored
+- The Empire is irreversibly weakened
+- But Mundus survives — Dagon failed to "liberate" it
+
+## Legacy
+
+In 4E 201, remnants of the cult persist:
+- The **Museum of the Mythic Dawn** in Dawnstar (Skyrim), maintained by a fanatic
+- Copies of the Commentaries still circulate
+- The Mysterium Xarxes may or may not have been destroyed
+- The event left a lasting trauma across all of Tamriel
+
+## Recruitment
+
+The Mythic Dawn attracted its members through:
+- The **promise of paradise** — Camoran offered eternity in his Paradise
+- **Revolutionary rhetoric** — "liberating" mortals from the prison of Mundus
+- Camoran's **charisma** — an exceptional orator
+- **Resentment** toward the Empire — an effective recruitment tool
+- The **four tomes** of the Commentaries served as a filter (only the most devoted deciphered the hidden message)

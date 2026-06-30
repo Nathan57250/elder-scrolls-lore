@@ -1,0 +1,93 @@
+---
+title: "La Hermandad de las Tinieblas — Alba Mítica"
+slug: "mythic-dawn"
+era: "third-era"
+category: "religion"
+tags: ["aurora-mitica", "mehrunes-dagon", "oblivion", "culto", "mankar-camoran", "asesinato"]
+timelineYear: 433
+summary: "El Alba Mítica (Mythic Dawn) es el culto de Mehrunes Dagon responsable del asesinato de los Septim y de la apertura de las puertas de Oblivion en 3E 433."
+sources: ["UESP: Mythic Dawn", "Commentaries on the Mysterium Xarxes", "Events of TES IV: Oblivion"]
+---
+
+## Presentación
+
+El **Alba Mítica** (Mythic Dawn) es un culto daédrico dedicado a **Mehrunes Dagon** — el Príncipe Daédrico de la Destrucción, el Cambio y la Revolución. Lo que distingue a este culto es su éxito: lograron lo que ningún otro culto había conseguido — **romper la Barrera Liminal** y permitir una invasión a gran escala de Mundus.
+
+## El Fundador: Mankar Camoran
+
+**Mankar Camoran** era un Altmer (o Bosmer, según las fuentes) que se proclamaba heredero del rey Camoran de Bosque del Valle. Brillante erudito y orador carismático:
+- Autor de los **Comentarios sobre el Mysterium Xarxes** — cuatro volúmenes de propaganda
+- Poseía el **Mysterium Xarxes** — libro sagrado de Mehrunes Dagon
+- Creó su propio **Paraíso** — un plano de Oblivion personal
+- Consideraba a Dagon no como un destructor sino como un **libertador**
+
+### Su Filosofía
+Camoran enseñaba que:
+- Mundus es una **prisión** creada por Lorkhan para atrapar almas
+- Mehrunes Dagon quiere **destruir esa prisión** para liberar las almas
+- El Imperio Septim es el guardián de esa prisión (mediante los Fuegos del Dragón)
+- Destruir el Imperio = liberar a la humanidad
+
+## El Plan
+
+El Alba Mítica ejecutó un plan de varias décadas:
+
+### Fase 1: Infiltración
+- Reclutamiento en todos los estratos de la sociedad
+- Células durmientes por todo Cyrodiil
+- Miembros en la Guardia Imperial (acceso a las alcantarillas)
+- Espías dentro del Palacio
+
+### Fase 2: El Asesinato (3E 433)
+- Eliminación de los tres hijos del Emperador Uriel Septim VII
+- Asesinato del propio Emperador en las Alcantarillas Imperiales
+- Robo del **Amuleto de los Reyes**
+
+### Fase 3: La Invasión
+- Extinción de los Fuegos del Dragón (sin Emperador legítimo)
+- Colapso de la Barrera Liminal
+- Apertura de **Puertas de Oblivion** por todo Tamriel
+- Invasión masiva de Daedra (Dremora, Clannfear, Xivilai, Scamps)
+
+## Las Puertas de Oblivion
+
+Las **Puertas de Oblivion** eran portales entre las Tierras Muertas de Dagon y Mundus:
+- Decenas de puertas abiertas simultáneamente por toda Cyrodiil
+- Cada puerta vertía ejércitos daédricos
+- Las puertas podían cerrarse destruyendo su **Piedra de Sigilo** (en lo alto de torres en el interior)
+- Cerrarlas era extremadamente peligroso — requería atravesar Oblivion
+
+## La Derrota
+
+El culto fue derrotado por una combinación de factores:
+1. El **Héroe de Kvatch** se infiltró y destruyó el Paraíso de Camoran
+2. Mankar Camoran fue abatido y el Amuleto de los Reyes recuperado
+3. **Martin Septim** (el último heredero) utilizó el Amuleto para invocar a Akatosh
+4. El Avatar de Akatosh cerró todas las puertas y repelió a Dagon
+5. El culto se dispersó, perseguido por el Imperio
+
+## Consecuencias
+
+El Alba Mítica logró paradójicamente su objetivo parcial:
+- El Amuleto de los Reyes queda **destruido**
+- La dinastía Septim está **extinta**
+- La Barrera Liminal ya no puede restaurarse
+- El Imperio queda irrevocablemente debilitado
+- Pero Mundus sobrevive — Dagon fracasó en su intento de "liberarlo"
+
+## Legado
+
+En 4E 201, perviven vestigios del culto:
+- El **Museo del Alba Mítica** en Estrella del Alba (Bordeciel), mantenido por un fanático
+- Copias de los Comentarios siguen circulando
+- El Mysterium Xarxes fue destruido — o quizás no
+- El evento traumatizó duraderamente a todo Tamriel
+
+## Reclutamiento
+
+El Alba Mítica atraía a sus miembros mediante:
+- La **promesa del paraíso** — Camoran ofrecía la eternidad en su Paraíso
+- La **retórica revolucionaria** — "liberar" a los mortales de la prisión de Mundus
+- El **carisma** de Camoran — un orador excepcional
+- El **resentimiento** hacia el Imperio — herramienta de reclutamiento eficaz
+- Los **cuatro tomos** de los Comentarios servían de filtro (solo los más devotos descifraban el mensaje oculto)
