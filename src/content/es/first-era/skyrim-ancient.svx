@@ -1,0 +1,88 @@
+---
+title: "El Antiguo Reino de Skyrim — Los Altos Reyes"
+slug: "skyrim-ancient"
+era: "first-era"
+category: "empires"
+tags: ["skyrim", "nordicos", "altos-reyes", "ysgramor", "primera-era", "wulfharth", "saarthal"]
+timelineYear: 100
+summary: "La historia del Reino de Skyrim en la Primera Era, desde el legado de Ysgramor hasta las dinastías de los Altos Reyes y su influencia en Tamriel."
+sources: ["UESP: Skyrim (region)", "The Imperial Library: History of Skyrim", "A History of Daggerfall", "Frontier, Conquest, and Accommodation"]
+---
+
+## Introducción
+
+El **Reino de Skyrim** es una de las naciones humanas más antiguas de **Tamriel**. Fundado por los descendientes de **Ysgramor** y sus **Quinientos Compañeros**, este reino nórdico dominó el norte del continente durante milenios, alternando entre períodos de grandeza imperial y de fragmentación interna.
+
+En la **Primera Era**, Skyrim pasó de ser una colección de territorios tribales a convertirse en un reino unificado capaz de proyectar su poder sobre todo Tamriel — un imperio nórdico que, en su apogeo, controlaba tierras que se extendían desde Alta Roca hasta Morrowind.
+
+## Las Fundaciones del Reino
+
+### El Legado de Ysgramor
+
+Tras el regreso de **Ysgramor** y sus Compañeros desde **Atmora** y su conquista de los Elfos de las Nieves (**Falmer**), los Nórdicos establecieron sus primeros asentamientos permanentes. **Windhelm** fue la primera gran ciudad, construida por el propio Ysgramor como capital de estas nuevas tierras.
+
+El linaje de Ysgramor gobernó sobre los primeros Nórdicos, estableciendo las tradiciones que definirían la cultura de Skyrim durante las eras venideras: el valor marcial, el honor, el respeto a los ancestros y la resistencia ante la magia élfica.
+
+### Las Jurisdicciones
+
+Skyrim se estructuró en **Jurisdicciones** (Holds) — territorios semiautónomos gobernados por **Jarls**. Este sistema, que perduró hasta la Cuarta Era, permitía una gobernanza local al tiempo que reconocía la autoridad suprema del **Alto Rey**, que tradicionalmente residía en Soledad o Viento de Elm.
+
+Las nueve Jurisdicciones históricas son: Albacorriente, Haafingar (Soledad), Marcha del Este (Viento de Elm), La Hendidura (Markarth), Winterhold, Hjaalmarch, La Palidez (Morthal), Falkreath y El Grieta.
+
+## La Expansión Nórdica
+
+### El Primer Imperio Nórdico
+
+A comienzos de la Primera Era, bajo el reinado del Alto Rey **Harald** (1E 143-221), Skyrim cortó oficialmente sus vínculos con Atmora y se declaró nación independiente. Harald unificó las Jurisdicciones y lanzó las primeras campañas de expansión.
+
+Su sucesor **Vrage el Dotado** (1E 222-) condujo a los Nórdicos a su mayor expansión territorial. El **Imperio Nórdico** en su apogeo controlaba:
+- La totalidad de Skyrim
+- Vastas porciones de **Alta Roca**
+- El norte de **Cyrodiil**
+- La mayor parte del oeste de **Morrowind** (a pesar de la encarnizada resistencia de los Dunmer)
+
+### Las Guerras contra los Elfos
+
+Los Nórdicos de la Primera Era libraron guerras constantes contra los pueblos élficos. El odio ancestral nacido de la **Noche de las Lágrimas** en Saarthal alimentaba un deseo de venganza que trascendía las generaciones. Las campañas contra los **Dwemer** y los **Chimer** de Morrowind fueron especialmente brutales, aunque en última instancia infructuosas ante la alianza de esos dos pueblos élficos.
+
+## Los Legendarios Altos Reyes
+
+### Wulfharth Rey-de-Ceniza
+
+**Wulfharth**, conocido también como **Ysmir**, es uno de los Altos Reyes más míticos de Skyrim. Guerrero-rey de poder legendario, dominaba el **Thu'um** (la Voz) con una habilidad sin igual. Las leyendas cuentan que fue asesinado y resucitado en múltiples ocasiones, regresando cada vez que Skyrim lo necesitaba.
+
+Wulfharth luchó junto a **Nerevar** en la **Batalla de la Montaña Roja** y desempeñó un papel controvertido en el ascenso de **Tiber Septim**. Su naturaleza exacta — hombre, dios o avatar — sigue siendo debatida por los eruditos.
+
+### Olaf el Tuerto
+
+**Olaf el Tuerto** capturó al dragón **Numinex** y lo encarceló en el **Dragonsreach** de Albacorriente — una hazaña que consolidó su leyenda y le valió el título de Alto Rey. Sin embargo, el bardo **Svaknir** lo acusó de haber exagerado sus proezas, lo que le costó el encarcelamiento.
+
+### Hoag Matador-de-Mer
+
+**Hoag Matador-de-Mer** (es decir, matador de elfos) condujo a los Nórdicos contra la **Orden Alessiana** en una guerra motivada por la intolerancia religiosa de dicha orden hacia las tradiciones nórdicas. Murió en la **Batalla de Glenumbria Moors** en 1E 482, pero sus fuerzas obtuvieron una victoria decisiva.
+
+## El Sistema del Moot
+
+### La Elección del Alto Rey
+
+A diferencia de los imperios hereditarios del sur, el trono de Skyrim no era estrictamente dinástico. El **Moot** — una asamblea de Jarls — se reunía para elegir al Alto Rey, generalmente (aunque no siempre) entre los descendientes de la dinastía reinante.
+
+Este sistema creaba una tensión perpetua entre la tradición hereditaria y la meritocracia marcial — una tensión que estallaría en la **Guerra Civil** de la Cuarta Era cuando **Ulfric Tormenta-de-Capa** mató al Alto Rey Torygg en combate singular.
+
+### La Voz como Legitimidad
+
+El dominio del **Thu'um** confería una legitimidad especial a los aspirantes al trono. En la antigua tradición nórdica, un rey debía ser un guerrero capaz de imponer respeto por la fuerza — y nada demostraba el poder con mayor claridad que la capacidad de **Gritar** a los enemigos hasta la muerte.
+
+## El Declive del Primer Imperio
+
+### La Pérdida de Territorios
+
+El Imperio Nórdico se fue desmoronando gradualmente a lo largo de la Primera Era. Los territorios conquistados en Alta Roca y Morrowind se perdieron ante las resistencias locales. La **Guerra de Sucesión** (1E 369-420) desgarró el reino desde dentro, debilitando considerablemente la posición de Skyrim.
+
+### La Integración en el Imperio
+
+Cuando **Tiber Septim** unificó Tamriel a finales de la Segunda Era, Skyrim se incorporó al Imperio — algunos dicen voluntariamente (reconociendo en Tiber un hijo espiritual de Skyrim), otros afirman que incluso los Nórdicos no pudieron resistir al **Numidium**. En cualquier caso, Skyrim se convirtió en una provincia imperial conservando sus tradiciones y su sistema de Jurisdicciones.
+
+## El Legado
+
+El antiguo Reino de Skyrim estableció los fundamentos culturales que perduran hasta la Cuarta Era: el sistema de los Jarls, el Moot, la veneración del Thu'um, la desconfianza hacia la magia y un fiero nacionalismo que resurgiría con fuerza durante la guerra entre los **Tormenta-de-Capa** y los **Imperiales** milenios después.

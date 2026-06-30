@@ -1,0 +1,151 @@
+---
+title: "The Disappearance of the Dwemer"
+description: "The mysterious and instantaneous vanishing of the entire Dwemer race — the Deep Elves — during the Battle of Red Mountain in 1E 700"
+era: "first-era"
+category: "evenements"
+timelineYear: 700
+tags: ["dwemer", "kagrenac", "heart-of-lorkhan", "red-mountain", "numidium", "yagrum-bagarn", "nerevar", "chimer"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+# The Disappearance of the Dwemer (1E 700)
+
+The disappearance of the Dwemer — the Deep Elves, the People of the Deep — remains the greatest unsolved mystery in Tamrielic history. In a single instant, during the Battle of Red Mountain in 1E 700, an entire civilization vanished from existence. No bodies, no flight, no exile — simply a total and immediate absence. Their cities remained intact, their automata kept functioning, but of their makers, nothing remained.
+
+## Origins and Causes
+
+### The Dwemer: a unique civilization
+
+The Dwemer were radically different from all other races of Mer. Where the Altmer revered the Aedra, where the Chimer followed the Daedra, the Dwemer worshipped nothing and no one. Their philosophy was fundamentally atheistic and rationalist — they regarded the "gods" as natural phenomena to be understood and exploited, not as beings worthy of worship.
+
+This worldview produced a civilization of staggering technological advancement. The Dwemer mastered tonal architecture — the manipulation of reality through sound and vibration — and created automata, steam machinery, impossible metals, and underground structures of unparalleled complexity. Their civilization stretched beneath all of Tamriel, from Morrowind to Skyrim and Hammerfell.
+
+### The discovery of the Heart of Lorkhan
+
+Beneath Red Mountain in Morrowind, Dwemer miners discovered the Heart of Lorkhan — the literal heart of the god who had created Mundus and had been "slain" by the other Divines for his act. This heart, lodged in the rock since the Dawn of Time, still pulsed with immeasurable divine power.
+
+For any other race, this discovery would have inspired reverence or terror. For the Dwemer, it represented an unprecedented scientific opportunity — a divine specimen to be studied, analyzed, and ultimately exploited.
+
+### Kagrenac's ambition
+
+Kagrenac, Chief Tonal Architect of the Dwemer clan of Resdayn, was the most brilliant mind of his generation — perhaps of all Dwemer history. He studied the Heart for decades and forged three Tools specifically designed to interact with it:
+
+- **Wraithguard**: a gauntlet protecting its wearer from the Heart's destructive energy
+- **Sunder**: a hammer to strike the Heart and release its energy
+- **Keening**: a blade to channel and direct that energy
+
+Kagrenac's ultimate project was the construction of the Numidium — a colossal golem, an artificial god powered by the might of the Heart of Lorkhan. With the Numidium, the Dwemer would no longer need gods — they would have one of their own, built by their own hands.
+
+### The war with the Chimer
+
+The Chimer — the future Dunmer — lived on the surface of Morrowind while the Dwemer occupied the underground. The two peoples coexisted in relative peace under the joint rule of Chimer king Indoril Nerevar and Dwemer king Dumac Dwarfking, bound by a pact of friendship.
+
+But when Nerevar discovered Kagrenac's research on the Heart of Lorkhan, he was horrified. For the Chimer, devout followers of the Daedric Princes, the idea of desecrating the heart of a god — even a reviled god like Lorkhan — was an intolerable sacrilege. Nerevar confronted Dumac, who initially denied the project's existence. The betrayal of this friendship shattered the alliance between the two peoples.
+
+### Escalation toward war
+
+The diplomatic rupture quickly became open conflict. The Chimer, under the leadership of Nerevar and his advisors — Vivec, Almalexia, Sotha Sil, and general Voryn Dagoth — marched against the Dwemer. The objective was to prevent Kagrenac from completing his project — to stop the creation of an artificial god that would have made the Dwemer invincible.
+
+The Dwemer, despite their technological superiority, were numerically inferior. The Battle of Red Mountain became the focal point of the conflict — it was there that the Heart and Kagrenac were found, and it was there that everything would be decided.
+
+## The Event: The Disappearance
+
+### The Battle of Red Mountain
+
+The battle was titanic. Chimer armies clashed with Dwemer legions and their automata in the depths of Red Mountain. Nerevar himself faced Dumac in single combat. Casualties were colossal on both sides.
+
+Sources diverge considerably on the exact sequence of events. The Tribunal, which rewrote history after the fact, gave one version. The Ashlanders preserved another. The truth likely lies somewhere between the two.
+
+### Kagrenac's act
+
+What is universally accepted is that at a critical moment in the battle — perhaps when Dwemer defeat became inevitable, perhaps according to a premeditated plan — Kagrenac used his Tools on the Heart of Lorkhan. He struck the Heart with Sunder and touched it with Keening.
+
+Exactly what he was attempting remains the subject of scholarly debate:
+- Was he trying to activate the Numidium to reverse the tide of battle?
+- Was he seeking to transcend mortal existence for his entire race?
+- Was he attempting to merge the Dwemer with the divine and elevate them to godhood?
+- Or did he simply make a fatal error under the pressure of combat?
+
+### The instantaneous disappearance
+
+Whatever his intention, the result was immediate and total. In an instant, every Dwemer in Tamriel — not just those present at Red Mountain, but the entire race, everywhere on the continent — vanished. Their armor fell empty on the battlefield. Their cities fell silent. Their forges went cold.
+
+There were no bodies, no ashes, no traces of destruction. The Dwemer did not die — they simply ceased to be there. As if reality had erased them, or as if they had been displaced elsewhere, to a place no one can reach.
+
+The automata, deprived of supervision but still powered by their intricate mechanisms, continued to function — some still do today, millennia later, faithfully guarding cities whose inhabitants will never return.
+
+## Consequences
+
+### The empty cities
+
+The vast underground complexes of the Dwemer became abandoned labyrinths. From Bamz-Amschend beneath Mournhold to Blackreach beneath Skyrim, entire cities were left intact — filled with functional machinery, technological treasures, and deadly dangers in the form of automata hostile to intruders.
+
+These ruins attracted explorers, looters, and scholars for millennia. Dwemer technology, though impossible to reproduce, remained functional indefinitely — a testament to the mastery of its creators.
+
+### Lost technology
+
+The Dwemer's knowledge died with them. Tonal architecture, Dwemer metalworking, the principles animating their automata — all of it became a mystery. Generations of scholars attempted to unravel these secrets, almost always in vain.
+
+The rare Dwemer artifacts that could be studied revealed an understanding of physics and metaphysics that far surpassed that of any subsequent civilization. The Dwemer had grasped principles that the finest mages and engineers of the Third Era could not even conceptualize.
+
+### Yagrum Bagarn: the last Dwemer
+
+Only one Dwemer survived — Yagrum Bagarn. At the time of the disappearance, he was in an external dimensional plane, beyond the reach of whatever effect claimed his race. When he returned, he found a world empty of his kind.
+
+Infected by Corprus — Dagoth Ur's divine disease — Yagrum survived through the millennia in a state of perpetual suffering, becoming an obese and misshapen mass kept alive by the very disease consuming him. The Nerevarine encountered him in 3E 427 in Divayth Fyr's Tel Fyr, where he still lived — the last witness of an extinct civilization, unable to explain what had become of his people.
+
+### The mystery haunting Tamriel
+
+The disappearance of the Dwemer spawned countless theories:
+- They were destroyed, their souls absorbed into the Numidium (the "skin of the god" theory)
+- They transcended mortal existence and persist in a state beyond perception
+- They were transported out of Mundus, into an inaccessible plane
+- They were simply annihilated, reduced to nothingness by the forces they unleashed
+- Kagrenac partially succeeded — the Dwemer became the "divine metal" composing the Numidium
+
+No theory has ever been confirmed. The mystery remains wholly unsolved.
+
+### Impact on the balance of power
+
+The disappearance of the Dwemer left a considerable geopolitical void. Their territory in Morrowind reverted to the Chimer/Dunmer. Their cities in Skyrim were gradually forgotten. Hammerfell lost the Dwemer of Volenfell. The balance of power across the entire continent was altered in an instant.
+
+### Metaphysical implications
+
+The event proved a terrifying truth: it was possible to erase an entire race from existence in a single moment. This reality haunts the theologians and metaphysicians of Tamriel. If the Dwemer could vanish in such a way, what prevents a similar event from striking other races?
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Atheistic and rationalist philosophy of the Dwemer", link: "/chronologie/first-era/dwemer" },
+  { text: "Discovery of the Heart of Lorkhan beneath Red Mountain" },
+  { text: "Kagrenac studies the Heart → Forges the Tools (Wraithguard, Sunder, Keening)" },
+  { text: "The Numidium project (artificial god)", link: "/chronologie/first-era/numidium" },
+  { text: "Nerevar discovers the project → Breakdown of the Chimer-Dwemer alliance", link: "/chronologie/first-era/nerevar" },
+  { text: "BATTLE OF RED MOUNTAIN (1E 700)", link: "/chronologie/first-era/bataille-montagne-rouge" },
+  { text: "Kagrenac strikes the Heart with the Tools" },
+  { text: "INSTANTANEOUS DISAPPEARANCE OF ALL THE DWEMER" },
+  { text: "Empty cities, masterless automata", indent: 1 },
+  { text: "Technology lost forever", indent: 1 },
+  { text: "Yagrum Bagarn: sole survivor (was outside Mundus)", indent: 1 },
+  { text: "Kagrenac's Tools recovered by the Tribunal", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "Tribunal uses the Heart → Living Gods", indent: 2 },
+  { text: "Nerevarine Prophecy (distant consequence)", link: "/chronologie/third-era/nerevarine", indent: 3 },
+  { text: "Unsolved mystery haunting Tamriel for millennia", indent: 1 }
+]} />
+
+## The Main Theories
+
+### The "Skin of the God" theory
+
+According to this hypothesis, the Dwemer were indeed transformed — not into gods, but into the very substance of the Numidium. Their collective being became the "divine metal" of which the golem is composed. They would still exist, in some fashion, but in a form so radically different that they are no longer recognizable as living beings.
+
+### The "Absolute Zero" theory
+
+Other scholars suggest that Kagrenac attempted to reach what metaphysicists call the "Zero" — the point of non-existence that precedes and underlies all reality. The Dwemer would have reached a state of existence-nonexistence that escapes all mortal comprehension.
+
+### The lesson of the Dwemer
+
+Whatever the truth, the disappearance of the Dwemer carries a warning that Tamriel has never forgotten: there are forces in this world that no intelligence, however brilliant, can safely control. The Dwemer were the greatest minds Tamriel ever produced — and their very genius caused their undoing.

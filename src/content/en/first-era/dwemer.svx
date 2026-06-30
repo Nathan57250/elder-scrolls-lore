@@ -1,0 +1,110 @@
+---
+title: "The Dwemer"
+slug: "dwemer"
+era: "first-era"
+category: "races"
+tags: ["dwemer", "tonal-architecture", "numidium", "kagrenac", "disappearance", "automatons"]
+date: "ME — 1E 700"
+timelineYear: 500
+summary: "The Deep Folk — Tamriel's most advanced civilization, which vanished entirely and instantaneously in 1E 700. Their fate remains the greatest mystery in the world."
+aliases: ["Deep Elves", "Dwarves", "Deep Folk"]
+relatedArticles: ["premiere-ere", "vivec"]
+sources: ["UESP: Dwemer", "Ruins of Kemel-Ze", "The Imperial Library: Dwemer"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Origins — What led to this event
+
+**What gave rise to Dwemer civilization?**
+
+The Dwemer did not appear from nothing. Their civilization is the product of a fundamental schism within the original Aldmeri society:
+
+1. **The Aldmeri schism**: The Aldmer (ancestors of all elves) fragmented into numerous subcultures after departing Aldmeris. Where the Altmer preserved tradition, the Chimer followed Veloth into religion, and the Bosmer chose nature — the Dwemer took the path of **pure reason**.
+
+2. **Rationalist philosophy rejecting the gods**: Unlike every other culture in Tamriel, the Dwemer concluded that the gods — while objectively existing — were not worthy of veneration. They viewed them as natural phenomena to be studied, understood, and eventually surpassed. This radical rejection of the divine drove them toward science and engineering as paths to transcendence.
+
+3. **Underground exile**: Their rejection of Elven traditions marginalized them. They settled beneath the mountains, in the depths of Tamriel, where they developed a civilization entirely oriented toward technology and a mechanical understanding of reality.
+
+**What happened after their disappearance?**
+
+The instantaneous disappearance of the Dwemer in 1E 700 left an immense void whose consequences still resonate millennia later:
+
+- **Empty but still active cities**: Dwemer ruins attract adventurers, looters, and scholars — but the automata (Centurions, Spheres, Spiders) continue to patrol and kill intruders
+- **Lost technology**: No one has been able to reproduce the Dwemer alloy, Tonal Architecture, or the principles of automation — irreplaceable knowledge that vanished with its creators
+- **The fate of the Falmer**: The Snow Elves, who had taken refuge with the Dwemer after their defeat at the hands of the Nords, were enslaved and blinded by toxic fungi. After the Dwemer disappeared, these degenerate Falmer freed themselves — becoming the hostile creatures that haunt the depths
+- **The Numidium**: Kagrenac's unfinished project was recovered and rebuilt by Tiber Septim, changing the course of Tamrielic history
+- **The Tribunal**: Vivec, Almalexia, and Sotha Sil used Kagrenac's Tools on the Heart of Lorkhan to become living gods — a direct consequence of the Dwemer legacy
+
+## A Unique People
+
+The **Dwemer** (literally "People of the Deep" in Aldmeris, often mistranslated as "Dwarves" by taller races) were an Elven race radically different from their cousins. Where other elves venerated the Aedra or the Daedra, the Dwemer rejected all forms of divine worship.
+
+They were **atheists in a world where the gods objectively exist** — which makes their philosophy all the more remarkable.
+
+## Philosophy and Science
+
+The Dwemer believed that reality itself could be understood, manipulated, and transcended through **pure reason**. Their areas of mastery:
+
+### Tonal Architecture
+The manipulation of the fundamental "tones" of reality — the underlying vibrations that sustain existence. Through sound, mathematics, and precision engineering, they could literally **rewrite the laws of physics** on a local scale.
+
+### Engineering
+Their constructions defy all explanation:
+- **Automata** (Centurions, Spheres, Spiders) that still function thousands of years after their creators' disappearance
+- Underground cities artificially lit, with ventilation systems, running water, and geothermal heating
+- **Acoustic geodes** (Tonal Resonators) capable of altering matter
+
+### Metallurgy
+The Dwemer alloy — often called "Dwemer metal" — is of extraordinary durability. Its exact composition is unknown and impossible to reproduce.
+
+## Kagrenac's Tools
+
+The Chief Engineer **Kagrenac** built three tools designed to interact with the Heart of Lorkhan:
+- **Wraithguard** — a protective gauntlet allowing its wearer to handle the other two without being destroyed
+- **Sunder** — a hammer to strike the Heart and extract its energy
+- **Keening** — a blade to channel and shape that energy
+
+His ultimate project: to use the Heart to create **Anumidium** (the Numidium) — an artificial god that would give the Dwemer logical proof of their own negation of divinity.
+
+## The Disappearance
+
+In **1E 700**, during the Battle of Red Mountain, Kagrenac activated his tools on the Heart of Lorkhan. **In an instant, every Dwemer on Nirn — men, women, children, soldiers — vanished simultaneously.**
+
+Theories about their fate:
+- They **zero-summed** themselves (cancelled themselves out of existence by reaching a comprehension that negated them)
+- They were **absorbed into the skin of the Numidium** (becoming the golem's metal)
+- They reached a state of **collective transcendence** beyond the Aurbis
+- They exist in a **superposed state** between existence and non-existence
+
+Only **Yagrum Bagarn**, a Dwemer who was in an Oblivion plane at the time of the disappearance, survived — ill with Corprus, he was found millennia later in the Tel Fyr of the sorcerer Divayth Fyr.
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Aldmeris: unified Aldmeri society" },
+  { text: "Schism of the Aldmer → Multiple Elven subcultures" },
+  { text: "Altmer (tradition)", indent: 1 },
+  { text: "Chimer (religion, follow Veloth)", indent: 1 },
+  { text: "Bosmer (nature)", indent: 1 },
+  { text: "DWEMER (pure reason, rejection of the gods)", indent: 1 },
+  { text: "Rationalist philosophy + radical atheism" },
+  { text: "Underground exile → Unparalleled technological civilization" },
+  { text: "Tonal Architecture (rewriting reality)", indent: 1 },
+  { text: "Automata (Centurions, Spheres, Spiders)", indent: 1 },
+  { text: "Kagrenac's Tools (Wraithguard, Sunder, Keening)", indent: 1 },
+  { text: "Numidium project (artificial god)", link: "/chronologie/first-era/numidium", indent: 1 },
+  { text: "Kagrenac activates the Tools on the Heart of Lorkhan (1E 700)", link: "/chronologie/first-era/disparition-dwemer" },
+  { text: "INSTANTANEOUS DISAPPEARANCE of all the Dwemer" },
+  { text: "Empty cities, automata still patrolling", indent: 1 },
+  { text: "Technology lost, impossible to reproduce", indent: 1 },
+  { text: "Enslaved Falmer free themselves → degenerate creatures", indent: 1 },
+  { text: "Kagrenac's Tools recovered → Tribunal (living gods)", link: "/chronologie/first-era/tribunal", indent: 1 },
+  { text: "Numidium recovered → Tiber Septim → Conquest of Tamriel", link: "/chronologie/second-era/tiber-septim", indent: 1 },
+  { text: "The Dwemer legacy shapes subsequent eras" },
+  { text: "Numidium → Warp in the West", link: "/chronologie/third-era/warp-in-the-west", indent: 1 },
+  { text: "Tribunal → Morrowind", link: "/chronologie/third-era/nerevarine", indent: 1 },
+  { text: "Falmer → underground threat", indent: 1 }
+]} />
