@@ -1,0 +1,89 @@
+---
+title: "Las Noches del Vacío — La Caída de las Lunas"
+slug: "nuits-du-vide"
+era: "fourth-era"
+category: "evenements"
+tags: ["noches del vacío", "lunas", "khajiit", "thalmor", "elsweyr", "masser", "secunda"]
+timelineYear: 98
+summary: "Las Noches del Vacío (4E 98-100) fueron la inexplicada desaparición de las dos lunas de Nirn durante dos años, un acontecimiento que permitió al Thalmor cooptar a los Khajiit y absorber Elsweyr."
+sources: ["UESP: Void Nights", "Rising Threat", "The Imperial Library"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## El Acontecimiento
+
+En **4E 98**, las dos lunas de Nirn — **Masser** y **Secunda** — desaparecieron del cielo nocturno. Durante **dos años**, el cielo permaneció vacío de noche. No se encontró ninguna explicación natural.
+
+Lo que para la mayoría de las razas era un inquietante fenómeno astronómico, fue para los **Khajiit** una **catástrofe existencial**.
+
+## Por Qué los Khajiit Quedaron Devastados
+
+### La Dependencia Lunar
+Las lunas no son meros astros para los Khajiit — determinan **su forma física**:
+- El **furespect** (forma corporal) de un Khajiit está determinado por la fase de las lunas en su nacimiento
+- Las 16+ formas Khajiit (del tigre cuadrúpedo al casi-elfo) dependen de las lunas
+- Sin lunas = **no hay nuevos nacimientos viables** (o nacimientos de forma indeterminada)
+- La sociedad Khajiit está organizada en torno al ciclo lunar
+
+### La Crisis Espiritual
+Para los Khajiit, Masser y Secunda son:
+- Los **restos de Lorkhan** (su cuerpo partido en dos por los Divinos)
+- Sagradas en su teología — Jone y Jode
+- La prueba de que su creador existe
+- Su desaparición = posible muerte de Lorkhan = fin de los Khajiit como pueblo
+
+## El "Rescate" del Thalmor
+
+### La Reivindicación
+En **4E 100**, las lunas reaparecieron. El **Thalmor** reivindicó inmediatamente la responsabilidad:
+- Afirmaron haber utilizado una poderosa magia para **restaurar** las lunas
+- Se presentaron como los salvadores del pueblo Khajiit
+- Los Khajiit, desesperados y agradecidos, creyeron (o eligieron creer)
+
+### La Verdad (Probablemente)
+La mayoría de los analistas del lore sospechan que el Thalmor:
+- **Causó** la desaparición de las lunas (en lugar de haberlas restaurado)
+- Usó la crisis que había creado para erigirse como salvador
+- Es un patrón clásico de manipulación: crear el problema, ofrecer la solución
+- No existe ninguna prueba directa en ninguna dirección
+
+## Las Consecuencias
+
+### Absorción de Elsweyr
+La gratitud de los Khajiit permitió al Thalmor:
+- Disolver la Confederación de Elsweyr
+- Dividirla en dos reinos vasallos: **Anequina** y **Pelletine**
+- Integrar ambos en el **Dominio Aldmeri** como estados vasallos
+- Obtener guerreros Khajiit como soldados para la futura Gran Guerra
+
+### Fortalecimiento del Dominio
+Tras las Noches del Vacío:
+- El Dominio controla: Alinor + Val-Boisé + Elsweyr
+- Es un inmenso imperio preparado para desafiar al Imperio de Cyrodiil
+- Los Khajiit se convierten en soldados y exploradores del Dominio
+- En 4E 171, el Dominio está listo para la Gran Guerra
+
+## Cadena Causal
+
+<CausalChain items={[
+  { text: "El Thalmor toma el poder en Alinor (4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor" },
+  { text: "Absorbe Val-Boisé mediante golpe de estado (4E 29)", indent: 1 },
+  { text: "NOCHES DEL VACÍO (4E 98-100) — desaparecen las lunas", indent: 1 },
+  { text: "El Thalmor \"restaura\" las lunas", indent: 1 },
+  { text: "Khajiit agradecidos → Elsweyr absorbido (4E 115)", indent: 1 },
+  { text: "Dominio Aldmeri completo → Preparado para la guerra", indent: 1 },
+  { text: "Gran Guerra (4E 171)", link: "/chronologie/fourth-era/grande-guerre", indent: 1 }
+]} />
+
+## Importancia Narrativa
+
+Las Noches del Vacío ilustran el **método Thalmor**:
+- Sin conquista brutal (al contrario que el Imperio)
+- **Manipulación**, creación de crisis, "rescate" interesado
+- Explotación de las vulnerabilidades culturales y espirituales
+- Paciencia durante décadas
+
+Es el mismo enfoque que utilizan con el Concordato: debilitar al Imperio desde dentro (prohibición de Talos → división → guerra civil) en lugar de atacarlo frontalmente.

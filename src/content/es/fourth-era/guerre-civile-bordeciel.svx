@@ -1,0 +1,100 @@
+---
+title: "La Guerra Civil de Bordeciel"
+slug: "guerre-civile-bordeciel"
+era: "fourth-era"
+category: "empires"
+tags: ["guerra-civil", "bordeciel", "ulfric", "imperio", "sombrages", "thalmor", "talos"]
+date: "4E 201"
+timelineYear: 199
+summary: "El conflicto entre los Sombrages de Ulfric y las fuerzas imperiales por el control de Bordeciel, desencadenado por el asesinato del Alto Rey y la prohibición del culto a Talos."
+mapCoords: { x: 430, y: 190 }
+province: "Bordeciel"
+relatedArticles: ["quatrieme-ere", "thalmor", "blancherive"]
+sources: ["UESP: Skyrim Civil War", "Events of TES V: Skyrim", "Thalmor Dossier: Ulfric Stormcloak"]
+---
+
+## Orígenes — La Cadena de Sucesos
+
+La Guerra Civil no nació de un único acto, sino de una cascada de causas a lo largo de 200 años:
+
+### La Crisis de Oblivion (3E 433)
+Todo comienza aquí. El fin de la dinastía Septim significó:
+- Ya no hay Sangre de Dragón en el trono → pérdida de la legitimidad sagrada del Imperio
+- Las provincias ya no tienen razón "divina" para obedecer → las secesiones son posibles
+- El Imperio queda debilitado administrativamente y militarmente
+
+### El Ascenso del Thalmor (4E 22-100)
+Aprovechando el caos poscrisis:
+- El Thalmor toma el poder en las Islas del Ocaso
+- Reforma del Dominio Aldmeri (Altmer + Bosmer + Khajiit)
+- Ideología supremacista élfica radical
+- Ambición declarada: restaurar la divinidad élfica deshaciendo la Creación
+
+### La Gran Guerra (4E 171-175)
+El Dominio ataca a un Imperio ya debilitado:
+- Saqueo de la Ciudad Imperial
+- Victoria pírrica en el Anillo Rojo (reconquista de la capital)
+- El Imperio ya no puede permitirse continuar → **Concordato del Oro Blanco**
+
+### El Concordato del Oro Blanco (4E 175)
+El tratado que rompió el contrato social:
+- **Prohibición del culto a Talos** — insulto existencial para los Nórdicos
+- **Justiciars Thalmor** autorizados a operar en territorio imperial
+- Los Nórdicos lo perciben como: "El Imperio nos ha vendido a los Elfos"
+- 26 años de creciente resentimiento antes de la explosión
+
+### El Incidente de Markarth (4E 176)
+**Ulfric Sombrage** recupera Markarth de los Parjures con la promesa del libre culto a Talos:
+- El Jarl de Markarth acepta, y el culto se reanuda abiertamente
+- El Thalmor exige la represión → el Imperio cede
+- Ulfric es brevemente encarcelado
+- Sale radicalizado, convencido de que el Imperio está irremediablemente sometido
+
+### El Asesinato de Torygg (4E 201)
+El detonante inmediato — pero no la causa:
+- Ulfric había intentado la vía política durante 25 años
+- Torygg posiblemente habría apoyado la independencia si Ulfric se la hubiera pedido
+- El Thu'um convierte un duelo político en un espectáculo de poder
+- La irreversibilidad del acto fuerza el conflicto abierto
+
+## Contexto
+
+Tras el **Concordato del Oro Blanco** (4E 175), la prohibición del culto a Talos indignó profundamente a los Nórdicos — un pueblo para quienes Talos (Tiber Septim/Ysmir) es un héroe nacional ascendido al rango de dios.
+
+Los **Justiciars del Thalmor**, autorizados a operar en suelo imperial, arrestaron y ejecutaron a fieles de Talos, inflamando el resentimiento.
+
+## El Detonante: El Incidente de Solitude
+
+En **4E 201**, **Ulfric Sombrage**, Jarl de Vendeaume, se dirigió a Solitude y mató al Alto Rey **Torygg** en duelo — utilizando el Thu'um para derribarlo antes de rematarlo.
+
+- **Para los Sombrages**: fue un duelo legítimo según la tradición nórdica, que probaba la debilidad de un rey sometido al Imperio
+- **Para los Imperiales**: fue un asesinato que utilizó un poder sobrenatural de manera desleal
+
+## Los Dos Bandos
+
+### Los Sombrages
+- **Líder**: Ulfric Sombrage, Jarl de Vendeaume
+- **Reivindicaciones**: Independencia de Bordeciel, libertad de culto a Talos, fin de la sumisión al Thalmor
+- **Base**: Vendeaume y el este de Bordeciel (Estamarca, Faillaise)
+- **Fuerzas**: Patriotismo nórdico, tradición guerrera
+- **Debilidades**: Nacionalismo exclusivo (hostilidad hacia los no Nórdicos), vulnerabilidad ante el Thalmor
+
+### Los Imperiales
+- **Líder**: General Tullius (representante del Imperio)
+- **Reivindicaciones**: Unidad necesaria para resistir al Thalmor, el Concordato es un mal temporal
+- **Base**: Solitude y el oeste de Bordeciel (Markarth, Morthal)
+- **Fuerzas**: Recursos imperiales, visión estratégica a largo plazo
+- **Debilidades**: Percibidos como ocupantes extranjeros, incapaces de proteger las tradiciones nórdicas
+
+## El Expediente del Thalmor
+
+Un documento encontrado en la embajada del Thalmor revela que los Justiciars consideran a Ulfric como un **"activo durmiente"** — alguien cuyas acciones sirven involuntariamente los intereses del Thalmor al **debilitar al Imperio desde dentro**.
+
+El Thalmor no quiere la victoria de ninguno de los dos bandos — su interés está en prolongar el conflicto.
+
+## Resolución
+
+El Dovahkiin puede elegir unirse a uno u otro bando, dirigiendo batallas para conquistar los fuertes enemigos. El desenlace canónico no está confirmado, pero sea cual sea el vencedor:
+- Bordeciel sigue debilitada
+- El Thalmor sigue siendo la amenaza última
+- La cuestión de Talos sigue sin resolverse

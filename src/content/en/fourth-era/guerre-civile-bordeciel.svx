@@ -1,0 +1,100 @@
+---
+title: "The Skyrim Civil War"
+slug: "guerre-civile-bordeciel"
+era: "fourth-era"
+category: "empires"
+tags: ["civil-war", "skyrim", "ulfric", "empire", "stormcloaks", "thalmor", "talos"]
+date: "4E 201"
+timelineYear: 199
+summary: "The conflict between Ulfric's Stormcloaks and the imperial forces for control of Skyrim, triggered by the murder of the High King and the ban on Talos worship."
+mapCoords: { x: 430, y: 190 }
+province: "Bordeciel"
+relatedArticles: ["quatrieme-ere", "thalmor", "blancherive"]
+sources: ["UESP: Skyrim Civil War", "Events of TES V: Skyrim", "Thalmor Dossier: Ulfric Stormcloak"]
+---
+
+## Origins — The Chain of Events
+
+The Civil War was not born from a single act but from a cascade of causes spanning 200 years:
+
+### The Oblivion Crisis (3E 433)
+It all begins here. The end of the Septim dynasty meant:
+- No more Dragonborn on the throne → loss of the Empire's sacred legitimacy
+- Provinces no longer have a "divine" reason to obey → secessions become possible
+- The Empire is weakened administratively and militarily
+
+### The Rise of the Thalmor (4E 22–100)
+Capitalizing on post-Crisis chaos:
+- The Thalmor seize power over the Summerset Isles
+- Reformation of the Aldmeri Dominion (Altmer + Bosmer + Khajiit)
+- Radical elven supremacist ideology
+- Declared ambition: restore elvish divinity by undoing Creation
+
+### The Great War (4E 171–175)
+The Dominion attacks an already weakened Empire:
+- Sack of the Imperial City
+- Pyrrhic victory at the Battle of Red Ring (recapture of the capital)
+- The Empire can no longer afford to continue → **White-Gold Concordat**
+
+### The White-Gold Concordat (4E 175)
+The treaty that broke the social contract:
+- **Ban on Talos worship** — an existential insult to the Nords
+- **Thalmor Justiciars** authorized to operate on imperial territory
+- Nords perceive this as: "The Empire sold us to the Elves"
+- 26 years of growing resentment before the explosion
+
+### The Markarth Incident (4E 176)
+**Ulfric Stormcloak** retakes Markarth from the Forsworn with the promise of free Talos worship:
+- The Jarl of Markarth accepts, and worship resumes openly
+- The Thalmor demand suppression → the Empire yields
+- Ulfric is briefly imprisoned
+- He emerges radicalized, convinced that the Empire is irreparably submissive
+
+### The Murder of Torygg (4E 201)
+The immediate trigger — but not the cause:
+- Ulfric had tried the political path for 25 years
+- Torygg would possibly have supported independence if Ulfric had requested it
+- The Thu'um transforms a political duel into a spectacle of power
+- The irreversibility of the act forces open conflict
+
+## Context
+
+After the **White-Gold Concordat** (4E 175), the ban on Talos worship deeply enraged the Nords — a people for whom Talos (Tiber Septim/Ysmir) is a national hero ascended to godhood.
+
+The **Thalmor Justiciars**, authorized to operate on imperial soil, arrested and executed Talos worshippers, inflaming resentment.
+
+## The Trigger: The Solitude Incident
+
+In **4E 201**, **Ulfric Stormcloak**, Jarl of Windhelm, traveled to Solitude and killed High King **Torygg** in a duel — using the Thu'um to hurl him to the ground before finishing him off.
+
+- **For the Stormcloaks**: it was a legitimate duel according to Nordic tradition, proving the weakness of a king submissive to the Empire
+- **For the Imperials**: it was a murder using supernatural power in an unfair manner
+
+## The Two Sides
+
+### The Stormcloaks
+- **Leader**: Ulfric Stormcloak, Jarl of Windhelm
+- **Claims**: Independence for Skyrim, freedom to worship Talos, end of submission to the Thalmor
+- **Base**: Windhelm and eastern Skyrim (Eastmarch, Riften)
+- **Strengths**: Nordic patriotism, warrior tradition
+- **Weaknesses**: Exclusive nationalism (hostility toward non-Nords), vulnerability before the Thalmor
+
+### The Imperials
+- **Leader**: General Tullius (representing the Empire)
+- **Claims**: Unity necessary to resist the Thalmor, the Concordat is a temporary evil
+- **Base**: Solitude and western Skyrim (Markarth, Morthal)
+- **Strengths**: Imperial resources, long-term strategic vision
+- **Weaknesses**: Perceived as foreign occupiers, unable to protect Nordic traditions
+
+## The Thalmor Dossier
+
+A document found in the Thalmor Embassy reveals that the Justiciars view Ulfric as a **"sleeping asset"** — someone whose actions involuntarily serve Thalmor interests by **weakening the Empire from within**.
+
+The Thalmor do not want either side to win — their interest is in prolonging the conflict.
+
+## Resolution
+
+The Dovahkiin can choose to join either side, leading battles to capture the enemy's forts. The canonical outcome is not confirmed, but regardless of who wins:
+- Skyrim remains weakened
+- The Thalmor remain the ultimate threat
+- The question of Talos remains unresolved

@@ -1,0 +1,89 @@
+---
+title: "The Void Nights — Fall of the Moons"
+slug: "nuits-du-vide"
+era: "fourth-era"
+category: "evenements"
+tags: ["void nights", "moons", "khajiit", "thalmor", "elsweyr", "masser", "secunda"]
+timelineYear: 98
+summary: "The Void Nights (4E 98–100) were the unexplained disappearance of Nirn's two moons for two years, an event that allowed the Thalmor to co-opt the Khajiit and absorb Elsweyr."
+sources: ["UESP: Void Nights", "Rising Threat", "The Imperial Library"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## The Event
+
+In **4E 98**, Nirn's two moons — **Masser** and **Secunda** — vanished from the night sky. For **two years**, the sky remained empty at night. No natural explanation was found.
+
+What, for most races, was an unsettling astronomical phenomenon, was for the **Khajiit** an **existential catastrophe**.
+
+## Why the Khajiit Were Devastated
+
+### Lunar Dependence
+The moons are not mere celestial bodies for the Khajiit — they determine **their physical form**:
+- A Khajiit's **furespect** (body form) is determined by the phase of the moons at birth
+- The 16+ Khajiit forms (from the quadrupedal tiger to the near-elf) depend on the moons
+- Without moons = **no viable new births** (or births of indeterminate form)
+- Khajiit society is organized around the lunar cycle
+
+### The Spiritual Crisis
+For the Khajiit, Masser and Secunda are:
+- The **remains of Lorkhan** (his body split in two by the Divines)
+- Sacred in their theology — Jone and Jode
+- Proof that their creator exists
+- Their disappearance = possible death of Lorkhan = end of the Khajiit as a people
+
+## The Thalmor's "Rescue"
+
+### The Claim
+In **4E 100**, the moons reappeared. The **Thalmor** immediately claimed responsibility:
+- They asserted they had used powerful magic to **restore** the moons
+- They presented themselves as the saviors of the Khajiit people
+- The Khajiit, desperate and grateful, believed (or chose to believe)
+
+### The Truth (Probably)
+Most lore analysts suspect that the Thalmor:
+- **Caused** the moons' disappearance (rather than restoring them)
+- Used the crisis they had created to position themselves as saviors
+- This is a classic manipulation pattern: create the problem, offer the solution
+- No direct evidence exists in either direction
+
+## The Consequences
+
+### Absorption of Elsweyr
+The gratitude of the Khajiit allowed the Thalmor to:
+- Dissolve the Elsweyr Confederation
+- Divide it into two client kingdoms: **Anequina** and **Pelletine**
+- Integrate both into the **Aldmeri Dominion** as vassal states
+- Obtain Khajiit warriors as soldiers for the future Great War
+
+### Strengthening of the Dominion
+After the Void Nights:
+- The Dominion controls: Alinor + Valenwood + Elsweyr
+- This is a massive empire ready to challenge the Cyrodiil Empire
+- The Khajiit become soldiers and scouts for the Dominion
+- In 4E 171, the Dominion is ready for the Great War
+
+## Causal Chain
+
+<CausalChain items={[
+  { text: "Thalmor seizes power over Alinor (4E 22)", link: "/chronologie/fourth-era/montee-du-thalmor" },
+  { text: "Absorbs Valenwood through coup (4E 29)", indent: 1 },
+  { text: "VOID NIGHTS (4E 98-100) — moons disappear", indent: 1 },
+  { text: "Thalmor \"restores\" the moons", indent: 1 },
+  { text: "Grateful Khajiit → Elsweyr absorbed (4E 115)", indent: 1 },
+  { text: "Aldmeri Dominion complete → Ready for war", indent: 1 },
+  { text: "Great War (4E 171)", link: "/chronologie/fourth-era/grande-guerre", indent: 1 }
+]} />
+
+## Narrative Importance
+
+The Void Nights illustrate the **Thalmor method**:
+- No brutal conquest (unlike the Empire)
+- **Manipulation**, creation of crises, self-interested "rescue"
+- Exploitation of cultural and spiritual vulnerabilities
+- Patience over decades
+
+This is the same approach they use with the Concordat: weakening the Empire from within (Talos ban → division → civil war) rather than attacking it head-on.
