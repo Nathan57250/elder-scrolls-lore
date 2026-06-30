@@ -1,0 +1,63 @@
+---
+title: "El Yunque de Martelfell"
+slug: "lenclume"
+era: "second-era"
+category: "lieux"
+tags: ["martelfell", "rojguardia", "alikr", "coronas", "antecesores", "ansei", "thalmor"]
+timelineYear: 420
+summary: "Martelfell, árida tierra de los Rojguardias, es una provincia forjada por el desierto, las tradiciones guerreras y los conflictos políticos entre las Coronas y los Antecesores."
+sources: ["Pocket Guide to the Empire, 1st Edition", "Erta's Report to Anequina", "The Redguards: Their History and Heroes", "Lord Vivec's Sword-Meeting with Cyrus the Restless"]
+---
+
+![Mapa de Tamriel](/images/common/tamriel-map.jpg)
+
+## Martelfell: La Provincia del Yunque
+
+Martelfell, antaño conocida como Volenfell por los Dwemer que la habitaban, es una vasta provincia situada en la costa noroeste de Tamriel. Bordeada por Alta Roca al norte, Cyrodiil al este y el mar de Abeceo al oeste, esta tierra inhóspita alberga a uno de los pueblos más orgullosos y belicosos del continente: los Rojguardias.
+
+## Los Rojguardias: Guerreros de Yokuda
+
+Los Rojguardias no son originarios de Tamriel. Su tierra ancestral, el continente de Yokuda, fue engullida por el mar durante un cataclismo cuyas circunstancias exactas permanecen debatidas por los eruditos. Algunos afirman que un Ansei renegado utilizó la Técnica Prohibida — un golpe de espada tan devastador que dividió el átomo mismo de la creación, provocando la sumersión del continente entero.
+
+Los supervivientes cruzaron el océano hacia Tamriel durante el período tardío de la Era Merética y la Primera Era, asentándose en lo que se convertiría en Martelfell. Su llegada no fue pacífica: los Rojguardias tuvieron que combatir a las poblaciones establecidas — elfos y orcos entre ellos — para reclamar esas tierras como suyas.
+
+## El Desierto de Alik'r
+
+En el corazón de Martelfell se extiende el desierto de Alik'r, una extensión de arena abrasada por el sol que se alarga cientos de leguas. Este implacable desierto es mucho más que un simple obstáculo geográfico: es el alma misma de la provincia. Los Guerreros del Alik'r, legendaria orden de élite, toman su nombre de esta desolación y la utilizan como campo de entrenamiento.
+
+Bajo las dunas se esconden innumerables ruinas Dwemer y templos olvidados de la época yokudana. Las tormentas de arena pueden sepultar caravanas enteras en cuestión de minutos, y las criaturas del desierto — escorpiones gigantes, dunerippers y no-muertos errantes — representan un peligro constante para los imprudentes.
+
+## Los Ansei: El Arte Perdido de la Espada
+
+Los Ansei, o Cantores de la Espada, representan la más alta tradición marcial de Yokuda. Estos guerreros trascendentes habían alcanzado tal maestría con la espada que podían materializar una hoja a partir de su sola voluntad espiritual — la Shehai, o Espada-Espíritu. Esta capacidad no era magia en el sentido convencional, sino una disciplina del alma tan pura que se manifestaba en el mundo físico.
+
+La tradición de los Ansei se perdió en gran medida durante la travesía hacia Tamriel. No obstante, su legado impregna cada aspecto de la cultura rojguardia. Las escuelas de esgrima modernas, aunque incapaces de manifestar la Shehai, perpetúan las formas y las filosofías de los antiguos maestros.
+
+## Coronas contra Antecesores
+
+La sociedad rojguardia está profundamente dividida entre dos facciones políticas cuyo antagonismo se remonta a la llegada a Tamriel:
+
+**Las Coronas** (Na-Totambu) descienden de la nobleza yokudana y de las familias reales. Feroces tradicionalistas, preservan las antiguas costumbres, veneran a los dioses yokudanos y rechazan la influencia imperial. Sus bastiones se encuentran principalmente en la ciudad de Sentinel y en las regiones del interior.
+
+**Los Antecesores** (Ra Gada) descienden de la oleada guerrera que desembarcó la primera en las costas de Tamriel. Más pragmáticos, han adoptado numerosas costumbres imperiales y favorecen la integración en las estructuras políticas continentales. Daggerfall y Taneth son sus principales centros de poder.
+
+Este conflicto secular ha provocado guerras civiles, asesinatos y alianzas de conveniencia que han moldeado la historia de la provincia a lo largo de milenios.
+
+## La Resistencia al Thalmor
+
+El acontecimiento más trascendente de la historia reciente de Martelfell es su rechazo categórico del Concordato del Oro Blanco. Cuando el Imperio de Titus Mede II firmó ese humillante tratado con el Dominio Aldmeri al término de la Gran Guerra — prohibiendo el culto de Talos y cediendo territorio —, los Rojguardias se negaron a someterse.
+
+Martelfell se separó entonces del Imperio y continuó sola la guerra contra el Thalmor. Durante cinco años adicionales de encarnizados combates, los guerreros rojguardias — Coronas y Antecesores unidos por primera vez en generaciones — infligieron tales pérdidas a las fuerzas del Dominio que este se vio obligado a firmar un segundo tratado, esta vez en los términos de Martelfell.
+
+Esta victoria convirtió a Martelfell en la única provincia que resistió con éxito al Thalmor, consolidando la legendaria reputación de los Rojguardias como guerreros indomables.
+
+## Geografía y Ciudades Notables
+
+Más allá del desierto de Alik'r, Martelfell posee una geografía variada: las montañas Dragontail al norte, llanuras fértiles a lo largo de la costa y bosques tropicales en la región de Hew's Bane al sur. Las principales ciudades incluyen:
+
+- **Sentinel**: Capital de las Coronas, majestuosa ciudad portuaria al norte
+- **Taneth**: Fortaleza comercial de los Antecesores al sur
+- **Stros M'Kai**: Isla estratégica, escenario de la rebelión contra Tiber Septim
+- **Elinhir**: Ciudad fronteriza cercana a Cyrodiil, famosa por sus magos
+
+Martelfell sigue siendo una de las provincias más independientes y ferozmente soberanas de todo Tamriel — un testimonio viviente de la tenacidad y el orgullo de su pueblo.

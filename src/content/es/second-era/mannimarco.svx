@@ -1,0 +1,121 @@
+---
+title: "Mannimarco, el Rey de los Gusanos"
+slug: "mannimarco"
+era: "second-era"
+category: "personnages"
+tags: ["mannimarco", "nigromancia", "rey-de-los-gusanos", "vanus-galerion", "distorsion-del-oeste", "dios-de-los-gusanos", "orden-del-gusano-negro"]
+timelineYear: 230
+summary: "Primer gran nigromante de Tamriel y rival eterno de Vanus Galerion, Mannimarco ascendió a la divinidad durante la Distorsión del Oeste en 3E 417."
+sources: ["UESP: Mannimarco", "The Warp in the West", "Mannimarco, King of Worms", "ESO Lore", "The Imperial Library"]
+---
+
+## Orígenes: Artaeum y la Traición
+
+**Mannimarco** nació altmer en las Islas Summerset, probablemente a principios de la Segunda Era. Dotado de un talento mágico excepcional, fue aceptado en la **Orden Psijica** en la mítica isla de Artaeum — la misma orden que formó a su futuro rival.
+
+### Condiscípulo de Galerion
+
+En Artaeum, Mannimarco estudió junto a **Trechtus** (el futuro Vanus Galerion). Los dos jóvenes magos eran considerados los más brillantes de su generación, pero sus filosofías divergieron radicalmente:
+
+- **Galerion** quería democratizar la magia para el bien de todos
+- **Mannimarco** buscaba trascender la mortalidad mediante el dominio sobre los muertos
+
+### La Expulsión
+
+Mannimarco comenzó a experimentar en secreto con la **nigromancia** — animando cadáveres, atrapando almas, comunicándose con los muertos. Cuando sus prácticas fueron descubiertas, la Orden Psijica lo **expulsó** de Artaeum. Esta humillación alimentó un odio eterno hacia el establishment mágico y hacia Galerion en particular.
+
+## El Ascenso del Rey de los Gusanos
+
+### Fundación de la Orden del Gusano Negro
+
+Tras su expulsión, Mannimarco no se hundió en el olvido. Fundó la **Orden del Gusano Negro** — un culto nigromántico que atrajo a magos renegados, buscadores de inmortalidad y almas corrompidas de todo Tamriel.
+
+La Orden se estructuró como un anti-Gremio de Magos:
+
+- Donde el Gremio prohibía la nigromancia, la Orden la convertía en su especialidad
+- Donde el Gremio servía al público, la Orden solo servía a su amo
+- Donde el Gremio buscaba el conocimiento, la Orden buscaba el **poder absoluto**
+
+### Los Poderes del Rey de los Gusanos
+
+A lo largo de los siglos, Mannimarco acumuló un poder aterrador:
+
+- **Inmortalidad** — Mediante la nigromancia y la liche, trascendió la muerte natural
+- **Ejércitos de no-muertos** — Legiones enteras obedecían su voluntad
+- **Captura de almas** — Dominó la captura y el uso de almas en un grado sin igual
+- **Manipulación política** — Sus agentes se infiltraron en todas las instituciones de Tamriel
+
+## La Rivalidad con Vanus Galerion
+
+### El Conflicto Eterno
+
+La rivalidad entre Mannimarco y Galerion es uno de los conflictos más duraderos del lore. Dos genios mágicos, dos visiones del mundo irreconciliables:
+
+| Aspecto | Vanus Galerion | Mannimarco |
+|---------|---------------|------------|
+| Objetivo | Democratizar la magia | Dominar mediante la magia |
+| Método | Educación y estructura | Terror y nigromancia |
+| Visión de la muerte | Descanso sagrado | Recurso a explotar |
+| Legado | El Gremio de Magos | La Orden del Gusano Negro |
+| Legitimidad | Reconocida por el Imperio | Perseguida como herejía |
+
+### La Batalla Final
+
+Galerion reunió finalmente un ejército de magos del Gremio para enfrentarse directamente a Mannimarco. La batalla fue **apocalíptica** — cientos de magos y no-muertos se enfrentaron en un cataclismo de fuego, hielo y energía nigromántica.
+
+Galerion **murió** durante esa batalla, pero su sacrificio debilitó considerablemente a Mannimarco, obligándolo a retirarse a las sombras durante siglos. La victoria fue pírrica — ambos bandos quedaron diezmados.
+
+## Papel durante la Guerra de las Tres Banderas (2E 582)
+
+### El Manipulador Supremo
+
+Durante los eventos de *Elder Scrolls Online*, Mannimarco aparece como uno de los principales antagonistas. Él:
+
+- Servía ostensiblemente a **Molag Bal** en el proyecto del Planemeld
+- Manipulaba a los **Cinco Compañeros** que intentaban encender los Fuegos del Dragón
+- Planeaba en secreto **traicionar a Molag Bal** para apoderarse de su poder
+- Usó al Vestigio (el jugador) y a todos los bandos como peones
+
+### Ambición Desmedida
+
+El plan de Mannimarco era de una audacia insensata: usar la Amuleta de los Reyes y el ritual de Molag Bal para **usurpar el poder de un Príncipe Daédrico**. Fracasó en 2E 582, pero esta ambición presagiaba su futura apoteosis.
+
+## La Apoteosis: La Distorsión del Oeste (3E 417)
+
+### El Numidium y la Ruptura del Dragón
+
+El momento más extraordinario de la existencia de Mannimarco llegó con la **Distorsión del Oeste** en 3E 417 — un evento metafísico en el que el **Numidium** fue activado simultáneamente por varias facciones en la región de Iliac Bay.
+
+La **Ruptura del Dragón** resultante creó una paradoja temporal: **todos los desenlaces posibles** de la activación del Numidium se realizaron simultáneamente. La realidad misma se fracturó.
+
+### El Dios de los Gusanos
+
+En una de esas realidades simultáneas (que se convirtieron todas en verdaderas), Mannimarco usó el poder del Numidium para **ascender a la divinidad**. Se convirtió en el **Dios de los Gusanos** — una luna nigromántica, un astro de no-muerte que orbita alrededor de Arkay, el Divino de la vida y la muerte.
+
+### La Paradoja Mannimarco
+
+Tras la Distorsión del Oeste, Mannimarco existe bajo **dos formas simultáneas**:
+
+1. **El Dios de los Gusanos** — Una entidad divina, una luna oscura que eclipsa periódicamente a Arkay y permite a los nigromantes crear gemas de alma negra
+2. **El mortal Mannimarco** — Un poderoso pero falible nigromante, que reaparece durante la Crisis de Oblivion (3E 433) y puede ser derrotado
+
+Esta paradoja es consecuencia directa de la Ruptura del Dragón: ambos estados coexisten sin contradicción en la metafísica fracturada del Aurbis.
+
+## Legado e Influencia
+
+### Impacto en la Magia
+
+Mannimarco transformó de forma irreversible la práctica mágica en Tamriel:
+
+- Demostró que la nigromancia podía rivalizar con cualquier otra escuela
+- Su existencia justificó la prohibición de la nigromancia por el Gremio de Magos
+- Inspiró a generaciones de nigromantes — y motivó a sus perseguidores
+- Su ascenso demostró que un mortal podía convertirse en dios solo mediante la magia
+
+### Las Gemas de Alma Negra
+
+Una de las consecuencias prácticas de la existencia del Dios de los Gusanos: cuando su luna nigromántica eclipsa a Arkay (un evento llamado **Shade of the Revenant**), los encantadores pueden crear **gemas de alma negra** — gemas capaces de capturar las almas de los mortales sapientes, un acto normalmente imposible.
+
+### ¿Un Mal Necesario?
+
+Algunos eruditos tamriélicos argumentan que Mannimarco, pese a sus horrores, cumplió un papel cósmico. Su rivalidad con Galerion impulsó al Gremio de Magos a mejorar constantemente. Su ascenso divino creó un contrapeso a Arkay, manteniendo un equilibrio cósmico entre la vida y la muerte. El Rey de los Gusanos es odiado, temido — pero nunca ignorado.

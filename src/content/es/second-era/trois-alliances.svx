@@ -1,0 +1,129 @@
+---
+title: "La Guerra de las Tres Banderas"
+slug: "trois-alliances"
+era: "second-era"
+category: "evenements"
+tags: ["guerra-de-alianzas", "pacto-corazonebano", "alianza-daggerfall", "dominio-aldmeri", "interregno", "eso", "trono-rubí"]
+timelineYear: 580
+summary: "La Guerra de las Tres Banderas enfrentó al Pacto de Corazonébano, la Alianza de Daggerfall y el Primer Dominio Aldmeri en la lucha por el Trono de Rubí durante el Interregno."
+sources: ["UESP: Alliance War", "ESO: The Improved Emperor's Guide to Tamriel", "ESO Lore", "The Imperial Library"]
+---
+
+## Contexto: El Interregno
+
+La **Guerra de las Tres Banderas** estalló en **2E 580**, en pleno corazón del **Interregno** — ese largo período de caos que siguió a la caída de la dinastía Reman y al asesinato del último Potentado Akaviri en 2E 430. Sin un emperador legítimo en el Trono de Rubí, Tamriel se fragmentó en reinos rivales, presa de señores de la guerra, nigromantes e invasores extraplanares.
+
+### El Catalizador
+
+Varios eventos precipitaron la formación de las alianzas:
+
+- La crónica inestabilidad de Cyrodiil, donde los usurpadores se sucedían sin cesar
+- La creciente amenaza de **Molag Bal** y sus cultistas
+- Las ambiciones del nigromante **Mannimarco**, quien manipulaba los acontecimientosoculto
+- El deseo de cada facción de imponer su visión del orden sobre Tamriel
+
+## El Pacto de Corazonébano
+
+### Composición
+
+- **Nórdicos** de Cielos de Hielo
+- **Dunmer** de Morrowind
+- **Argonianos** de la Marisma
+
+### Líder: El Alto Rey Jorunn el Rey-Escaldo
+
+**Jorunn** era un nórdico atípico — tanto poeta y diplomático como guerrero. Forjó el Pacto tras la invasión akaviri de 2E 572, cuando nórdicos, dunmer y argonianos tuvieron que luchar juntos por pura necesidad.
+
+### Formación y Motivaciones
+
+El Pacto es la alianza más **improbable** de las tres. Los nórdicos y los dunmer se habían desconfiado mutuamente durante siglos, y los argonianos habían sido esclavizados por los dunmer durante generaciones. Su unión se asienta en:
+
+- **Pragmatismo militar** — La invasión akaviri demostró que la supervivencia exigía cooperación
+- **El Gran Pacto** — Un solemne juramento de no agresión y ayuda mutua
+- **Defensa común** — Cada pueblo aporta sus fortalezas: la fuerza bruta nórdica, la magia dunmer y la guerrilla argoniana
+
+### Filosofía Política
+
+El Pacto no buscaba conquistar Tamriel sino **asegurar sus fronteras**. Su objetivo era colocar en el Trono de Rubí a un emperador que respetara la autonomía de las provincias y nunca amenazara su independencia.
+
+## La Alianza de Daggerfall
+
+### Composición
+
+- **Bretones** de Alta Roca
+- **Rojguardias** de Martelfell
+- **Orcos** de Orsinium
+
+### Líder: El Alto Rey Emeric
+
+**Emeric** era un mercader convertido en rey — un hombre pragmático que comprendía que la prosperidad comercial requería estabilidad política. Su matrimonio con la princesa Ra Navaira de Martelfell selló la alianza.
+
+### Formación y Motivaciones
+
+La Alianza de Daggerfall es la más **convencional** — sus miembros ya compartían intereses comerciales y geográficos. Sus motivaciones:
+
+- **Comercio y prosperidad** — La estabilidad del Trono de Rubí garantiza las rutas comerciales
+- **Restauración imperial** — Los bretones, herederos parciales de la cultura imperial, desean restaurar el Imperio
+- **Reconocimiento orsimer** — Los orcos obtienen por fin legitimidad política a cambio de su poderío militar
+
+### Fuerzas Militares
+
+| Pueblo | Especialidad |
+|--------|-------------|
+| Bretones | Caballeros, battle-magos, diplomacia |
+| Rojguardias | Espadachines de élite, guerreros del desierto |
+| Orcos | Infantería pesada, herreros de guerra |
+
+## El Primer Dominio Aldmeri
+
+### Composición
+
+- **Altmer** de las Islas Summerset
+- **Bosmer** de Valenwood
+- **Khajiit** de Elsweyr
+
+### Líder: La Reina Ayrenn
+
+**Ayrenn Arana Aldmeri** era una joven reina altmer que había pasado años viajando de incógnito por Tamriel. Esta experiencia única le otorgó una perspectiva cosmopolita poco común entre su pueblo.
+
+### Formación y Motivaciones
+
+El Dominio Aldmeri es la alianza más **ideológica**. Ayrenn consideraba que las razas mer (élficas), más antiguas y sabias, debían guiar a Tamriel:
+
+- **Superioridad cultural** — Los altmer se consideran herederos legítimos de los aldmer originales
+- **Protección del Bosmer** — El vulnerable Valenwood necesita la protección de Summerset
+- **Alianza khajiit** — La reina Ayrenn salvó Elsweyr de una epidemia, creando un vínculo de gratitud
+- **Orden a través de la sabiduría** — A diferencia de los "bárbaros" humanos, los mer traerían estabilidad y refinamiento
+
+### Distinción Importante
+
+Este Primer Dominio Aldmeri **no** debe confundirse con el **Tercer Dominio Aldmeri** (el Thalmor de la Cuarta Era). La reina Ayrenn, pese a su creencia en la superioridad mer, no era una supremacista genocida — buscaba guiar, no exterminar.
+
+## El Teatro de Guerra: Cyrodiil
+
+### La Batalla por el Trono de Rubí
+
+La guerra se concentró principalmente en **Cyrodiil**, donde las tres alianzas luchaban por el control de la **Ciudad Imperial** y el Trono de Rubí. El sistema funcionaba así:
+
+1. Los ejércitos se enfrentaban por el control de **fortalezas** estratégicas
+2. La alianza que dominaba Cyrodiil podía coronar a un **emperador** entre sus campeones
+3. Ese emperador, mientras mantuviera el control, recibía las bendiciones de las **Amuletas de los Reyes**
+
+### Guerra de Desgaste
+
+Ninguna alianza logró mantener una dominación duradera. La guerra se convirtió en un ciclo interminable de conquistas y reconquistas, agotando a las tres facciones y al continente entero.
+
+## Consecuencias y Final
+
+### El Agotamiento
+
+La Guerra de las Tres Banderas no tuvo un vencedor claro. Ella:
+
+- Devastó los campos de Cyrodiil
+- Agotó los recursos de las tres alianzas
+- Demostró que ninguna facción podía dominar en solitario
+- Preparó el terreno para la futura unificación por Tiber Septim
+
+### El Legado
+
+Esta guerra demostró que Tamriel no podía funcionar como un conjunto de naciones rivales. El Interregno solo terminó cuando un hombre — **Tiber Septim** — unificó el continente por la fuerza, la astucia y el poder divino. Las tres alianzas, al agotarse mutuamente, hicieron posible paradójicamente esa unificación.

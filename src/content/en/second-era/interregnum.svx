@@ -1,0 +1,92 @@
+---
+title: "The Interregnum"
+description: "The chaotic period between the fall of the Reman Empire and the rise of Tiber Septim, marked by civil wars and the absence of Imperial authority"
+slug: interregnum
+category: "evenements"
+era: "second-era"
+timelineYear: 430
+keywords:
+  - interregnum
+  - second era
+  - chaos
+  - civil wars
+  - Akaviri potentates
+  - Ruby Throne
+  - Daggerfall Covenant
+  - Ebonheart Pact
+  - Aldmeri Dominion
+---
+
+## The Interregnum: The Age of Chaos
+
+The Interregnum refers to the long period of political and military turmoil that stretched from the fall of the Reman dynasty and the assassination of the last Akaviri Potentate in 2E 430 until the unification of Tamriel under the banner of Tiber Septim in 2E 896. For nearly five centuries, the entire continent sank into unprecedented instability, with each province fighting for its own survival or attempting to seize the Ruby Throne.
+
+## The Causes of the Interregnum
+
+The fall of the Reman Empire was not a sudden event but the result of a long decline. After the assassination of Reman III by the Dark Brotherhood in 2E 324, power passed to the Akaviri Potentates who governed as regents. Their rule, though relatively stable, lacked the dynastic legitimacy needed to maintain Imperial unity.
+
+The assassination of Potentate Savirien-Chorak and all his heirs in 2E 430 by the Dark Brotherhood marked the true beginning of the Interregnum. With no legitimate successor and no institution capable of ensuring the transfer of power, the Empire fragmented into a myriad of rival kingdoms.
+
+## The Political Fragmentation
+
+### Pretenders to the Throne
+
+In the early years of the Interregnum, numerous warlords and provincial monarchs claimed the Ruby Throne. Cyrodiil itself was torn between several factions, with every count and baron declaring themselves the legitimate successor of Emperors past. Succession wars followed one after another, leaving the Imperial province bled dry and divided.
+
+### The Isolation of the Provinces
+
+Without the Imperial cement, each province regained de facto autonomy. High Rock splintered into dozens of small warring kingdoms. Hammerfell was ravaged by tribal conflicts among Redguard clans. Morrowind withdrew under the domination of the Dunmer Great Houses. Skyrim experienced its own succession wars between its various holds.
+
+## The Three Alliances
+
+### The Ebonheart Pact
+
+Around 2E 572, an unexpected alliance formed between the Nords of Skyrim, the Dunmer of Morrowind, and the Argonians of Black Marsh. The Ebonheart Pact arose in response to the Akaviri invasion of the Second Directive. Despite centuries of mutual distrust and hostility between these peoples, military necessity forged a formidable coalition under the leadership of the Skald-King Jorunn.
+
+### The Aldmeri Dominion
+
+The High Elves of Alinor, the Wood Elves of Valenwood, and the Khajiit of Elsweyr formed the First Aldmeri Dominion under the aegis of Queen Ayrenn. This alliance sought to restore order to Tamriel according to the Elven vision, holding that the human races had proven their inability to govern the continent.
+
+### The Daggerfall Covenant
+
+The Bretons of High Rock, the Redguards of Hammerfell, and the Orcs of Orsinium united in the Daggerfall Covenant under the command of High King Emeric. This coalition, though composed of peoples with conflicting histories, shared a pragmatic vision of Imperial power.
+
+## The Three Banners War
+
+The major conflict of the Interregnum pitted these three alliances against one another in a devastating war for control of Cyrodiil and the Ruby Throne. Each faction believed it had the right and the capacity to restore the Empire to its former glory, but on its own terms and according to its own political vision.
+
+Battles concentrated particularly around the Imperial City, symbol of universal power. Military campaigns ravaged the central lands of Cyrodiil, transforming the heart of the former Empire into a permanent battlefield.
+
+## The Social Consequences
+
+### The Decline of Trade
+
+The absence of unified Imperial authority brought about the collapse of secure trade routes. Banditry became endemic, merchant guilds lost their legal protection, and interprovincial commerce declined dramatically. Only the Merchants Guild managed to maintain a semblance of a commercial network.
+
+### The Rise of the Guilds
+
+Paradoxically, the Interregnum fostered the growth of the great guilds. The Fighters Guild and the Mages Guild, initially created under the Akaviri Potentates, became supranational institutions offering stability and services in a chaotic world. The Thieves Guild was founded during this period, taking advantage of the ambient disorder.
+
+### The Suffering of the Populace
+
+For civilian populations, the Interregnum was an era of misery. Famines, epidemics, and military violence decimated entire regions. Peasants, stripped of Imperial protection, were at the mercy of local warlords and marauding bands.
+
+## External Threats
+
+### The Akaviri Invasion of 2E 572
+
+The Second Akaviri Directorate launched a massive invasion of Tamriel from the north of Morrowind. This external threat was one of the catalysts for the formation of the Ebonheart Pact. The defeat of the invaders proved that the peoples of Tamriel could still unite against a common enemy.
+
+### Daedric Incursions
+
+The weakening of magical and religious institutions made Tamriel more vulnerable to incursions from the planes of Oblivion. Several Daedric Princes took advantage of the chaos to extend their influence over Nirn, most notably Molag Bal, whose Planemeld threatened the very existence of Mundus.
+
+## The End of the Interregnum
+
+The Interregnum came to an end with the rise of Tiber Septim, born Hjalti Early-Beard in High Rock. Through a combination of military genius, skillful diplomacy, and supernatural power — notably his use of the Numidium — Tiber Septim succeeded in reunifying all of Tamriel under his banner, founding the Third Era and the Septim dynasty.
+
+## Historical Legacy
+
+The Interregnum remains in collective memory as proof that without strong Imperial power, Tamriel is condemned to chaos. This conviction underpins the very legitimacy of the Septim Empire and explains the reluctance of many peoples to challenge Imperial authority, even as it weakened considerably during later crises.
+
+The institutions born during this period — the great guilds, provincial alliances, traditions of local autonomy — continued to influence Tamrielic politics long beyond the Second Era.

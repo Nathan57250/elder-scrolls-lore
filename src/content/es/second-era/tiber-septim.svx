@@ -1,0 +1,102 @@
+---
+title: "Tiber Septim"
+slug: "tiber-septim"
+era: "second-era"
+category: "personnages"
+tags: ["talos", "numidium", "imperio", "dragonborn", "thuum", "wulfharth", "zurin-arctus"]
+date: "2E 828 — 3E 38"
+timelineYear: 828
+summary: "El conquistador de Tamriel, fundador de la dinastía Septim y del Tercer Imperio. Tras su muerte, ascendió al rango del Noveno Divino bajo el nombre de Talos."
+mapCoords: { x: 512, y: 480 }
+province: "Cyrodiil"
+aliases: ["Talos", "Hjalti Early-Beard", "Ysmir", "el Stormcrown"]
+relatedArticles: ["deuxieme-ere", "troisieme-ere"]
+sources: ["UESP: Tiber Septim", "The Arcturian Heresy", "The Imperial Library"]
+---
+
+<script>
+import CausalChain from '$lib/components/CausalChain.svelte';
+</script>
+
+## Orígenes — Lo que llevó a este evento
+
+**¿Por qué pudo Tiber Septim conquistar todo Tamriel?**
+
+La conquista de Tiber Septim no fue una simple hazaña militar — fue la convergencia de condiciones históricas únicas y poderes extraordinarios:
+
+1. **El caos del Interregno**: La Segunda Era estuvo marcada por siglos de guerra, fragmentación política y ausencia de autoridad central tras la caída de la dinastía Reman. Los pueblos de Tamriel estaban agotados y *hambrientos de unidad*. Un conquistador carismático que prometía orden encontró un terreno fértil.
+
+2. **El Numidium**: El autómata divino de los Dwemer, reconstruido y alimentado por la Mantella, le dio a Tiber Septim un arma literalmente invencible. Conquistó el Dominio Aldmeri — la mayor potencia militar de Tamriel — en un solo día gracias a esta arma que *niega la realidad*.
+
+3. **El Thu'um**: Tiber Septim dominó la Voz con un poder aterrador. Este don dracónico le otorgaba una ventaja militar personal decisiva en cualquier campo de batalla.
+
+4. **La ayuda de Wulfharth**: El fantasma del Alto Rey Wulfharth — un **Shezarrine** (avatar de Lorkhan/Shor) — acompañaba y reforzaba a Tiber Septim. Esta alianza con un espíritu divino le confería poder sobrenatural y legitimidad mítica entre los Nórdicos.
+
+5. **Naturaleza compuesta**: La fusión mística de tres seres (Hjalti, Wulfharth, Zurin Arctus) en uno solo dio origen a una entidad cuyo poder trascendía el de cualquier mortal individual.
+
+**¿Qué causó la conquista?**
+
+- **La Tercera Era**: La fundación de una nueva era de estabilidad imperial que duró 433 años
+- **La dinastía Septim**: Un linaje de emperadores Dragonborn, guardianes de los Dragonfires y el Amuleto de los Reyes
+- **Los Dragonfires reencendidos**: Las barreras entre Mundus y Oblivion reforzadas, protegiendo el mundo de las invasiones daédricas
+- **El culto de Talos**: Tras su apoteosis, Talos se convirtió en el Noveno Divino — un humano que se convirtió en dios, un concepto inaceptable para los Altmer
+- **La sumisión del Tribunal**: Vivec, Almalexia y Sotha Sil aceptaron la soberanía imperial sobre Morrowind (el Tratado de Armisticio)
+- **El trauma Altmer**: La conquista del Dominio por el Numidium plantó las semillas del odio que, dos eras después, dio lugar al Thalmor
+
+## Los Orígenes Disputados
+
+La verdadera identidad de Tiber Septim es uno de los temas más debatidos del lore de Elder Scrolls. Según las fuentes:
+
+- **Versión imperial oficial**: Nacido **Talos** en Atmora, llegó a Tamriel y conquistó todo el continente por sus propios méritos
+- **La Herejía Arcturiana**: Nacido **Hjalti Early-Beard**, un Bretón de High Rock, usurpó la identidad de su general nórdico **Cuhlecain** y utilizó el fantasma del Rey Wulfharth para sus conquistas
+
+La verdad es probablemente que "Tiber Septim" es un **ser compuesto** — el resultado de la fusión mística de tres personas: Hjalti, Wulfharth y Zurin Arctus.
+
+## La Conquista de Tamriel
+
+Sea cual sea su origen, los hechos de su conquista son innegables:
+- Dominó el **Thu'um** (la Voz) con un poder aterrador
+- Unificó primero Cyrodiil, luego Skyrim, luego el resto del continente
+- Empleó una combinación de genio militar, diplomacia y poder sobrehumano
+
+## El Numidium
+
+El arma definitiva de Tiber Septim fue el **Numidium** (también llamado el Dios de Latón) — un autómata gigantesco construido por los Dwemer, capaz de negar la realidad misma.
+
+Para alimentarlo, **Zurin Arctus** (el Battlemage Imperial, posiblemente un aspecto de Wulfharth) creó la **Mantella** — una gema que contenía el alma de un Shezarrine (avatar de Lorkhan). El proceso mató (o transformó) a Arctus/Wulfharth.
+
+Tiber Septim utilizó el Numidium para conquistar el **Dominio Aldmeri** en un solo día — un acto que traumatizó a los Altmer durante milenios y alimentó el odio del Thalmor.
+
+## La Apoteosis
+
+Tras su muerte en **3E 38**, Tiber Septim ascendió a la divinidad, convirtiéndose en **Talos** — el Noveno Divino. Los Ocho Divinos se convirtieron en los **Nueve Divinos**.
+
+Esta apoteosis está en el centro del conflicto de la Cuarta Era:
+- Para el Imperio y los Nórdicos, Talos es un dios legítimo, prueba de que los mortales pueden alcanzar la divinidad
+- Para el **Thalmor**, un humano no puede convertirse en dios — es una blasfemia que debilita el Aurbis e impide que los Altmer recuperen su naturaleza divina original
+
+El **Concordato de Oro Blanco** que prohíbe el culto a Talos es el catalizador de la Guerra Civil de Skyrim.
+
+## Cadena Causal
+
+<CausalChain items={[
+  { text: "Segunda Era: Interregno (caos, ausencia de Imperio)", link: "/chronologie/second-era/interregnum" },
+  { text: "Los pueblos de Tamriel están hambrientos de unidad y estabilidad" },
+  { text: "Tiber Septim emerge con poderes únicos:" },
+  { text: "Thu'um (Voz)", indent: 1 },
+  { text: "Numidium (niega la realidad)", link: "/chronologie/first-era/numidium", indent: 1 },
+  { text: "Wulfharth (Shezarrine)", indent: 1 },
+  { text: "Naturaleza compuesta (3 seres fusionados)", indent: 1 },
+  { text: "Conquista de todo Tamriel (Dominio Aldmeri en 1 día)" },
+  { text: "Fundación de la Tercera Era", indent: 1 },
+  { text: "Dinastía Septim (Dragonborn)", indent: 1 },
+  { text: "Dragonfires reencendidos (barrera contra Oblivion)", indent: 1 },
+  { text: "El Tribunal somete Morrowind al Imperio", indent: 1 },
+  { text: "Trauma Altmer (semillas del Thalmor)", link: "/chronologie/fourth-era/montee-du-thalmor", indent: 1 },
+  { text: "Muerte de Tiber Septim (3E 38) → Apoteosis → TALOS (Noveno Divino)", link: "/chronologie/second-era/talos" },
+  { text: "Ocho Divinos → Nueve Divinos", indent: 1 },
+  { text: "Hombre convertido en dios (blasfemia para los Altmer)", indent: 1 },
+  { text: "Mantiene la estructura de Mundus", indent: 1 },
+  { text: "El Thalmor prohíbe el culto a Talos → Concordato de Oro Blanco (4E)", link: "/chronologie/fourth-era/concordat-or-blanc" },
+  { text: "Guerra Civil de Skyrim (4E 201)", link: "/chronologie/fourth-era/guerre-civile-bordeciel" }
+]} />

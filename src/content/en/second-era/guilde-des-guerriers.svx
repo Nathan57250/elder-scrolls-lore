@@ -1,0 +1,98 @@
+---
+title: "The Fighters Guild"
+slug: "guilde-des-guerriers"
+era: "second-era"
+category: "guildes"
+tags: ["fighters-guild", "mercenaries", "combat", "contracts", "imperial-guilds"]
+timelineYear: 321
+summary: "The Fighters Guild is an organization of legal mercenaries operating under an Imperial charter — offering protection work, extermination, and retrieval services throughout Tamriel."
+sources: ["UESP: Fighters Guild", "The Imperial Library: History of the Fighters Guild", "Charter of the Fighters Guild"]
+---
+
+## Foundation
+
+The **Fighters Guild** was founded in 2E 321 by the **Akaviri Potentate Versidue-Shaie** as part of his Imperial guild reforms. Created as a legal alternative to unregulated mercenary work, it offered:
+- A legal framework for independent fighters
+- Verified and guaranteed contracts
+- Legal protection for its members
+- Shared training and resources
+
+## Structure
+
+### Hierarchy
+| Rank | Responsibility |
+|------|---------------|
+| Guild Master | Supreme direction, appointments |
+| Champion | Regional operational command |
+| Weaponmaster | Training, evaluation |
+| Guardian | Head of a local guild hall |
+| Protector | Confirmed members |
+| Warrior | Standard members |
+| Associate | Recruits |
+
+### Organization
+- Guild halls in every major city
+- Local autonomy under Imperial charter
+- Contracts posted publicly
+- Fixed remuneration based on difficulty
+
+## Types of Contracts
+
+The Guild accepts:
+- **Extermination** — clearing creatures (rats, trolls, vampires, bandits)
+- **Escort** — protecting caravans and travelers
+- **Retrieval** — recovering objects lost in dangerous areas
+- **Guard duty** — protecting locations or persons
+- **Exploration** — clearing ruins, caves, abandoned forts
+
+The Guild **refuses**:
+- Assassination
+- Intimidation
+- Inter-guild combat (except under exceptional circumstances)
+- Illegal contracts
+
+## Across the Eras
+
+### Second Era (ESO)
+- Very active during the Interregnum
+- Corrupted by the necromancer Molag Bal through the Worm Cult
+- Reformed by the Vestige
+- Power struggle with the Worm Cult
+
+### Third Era
+- Present in all Imperial provinces
+- In Morrowind: competition with the Great Houses (which have their own warriors)
+- In Cyrodiil: main hall in every city
+- Growing rivalry with the Dark Brotherhood (which encroaches on the "violence market")
+
+### Fourth Era
+- Weakened by the collapse of the Empire
+- In Skyrim: replaced by the **Companions** (similar structure but culturally Nordic)
+- Survives in other provinces with diminished influence
+
+## Code of Honor
+
+Fundamental rules:
+1. Never abandon an accepted contract (except proven immorality)
+2. Do not steal from Guild members
+3. Do not kill without contractual justification
+4. Obey the orders of superiors on a mission
+5. Share profits according to the terms of the contract
+
+## Differences with the Companions
+
+| Aspect | Fighters Guild | Companions |
+|--------|---------------|------------|
+| Structure | Formal hierarchy | Informal |
+| Charter | Imperial | None |
+| Reach | All of Tamriel | Skyrim only |
+| Motivation | Profit | Honor |
+| Specialty | General mercenary work | Heroic combat |
+| Religion | Secular | Shor / Nordic traditions |
+
+## Rivals and Enemies
+
+- **Dark Brotherhood** — illegal assassins
+- **Camonna Tong** — organized crime in Morrowind
+- **Bandits** — targets and competitors
+- **Worm Cult** (Order of the Black Worm) — necromantic infiltration

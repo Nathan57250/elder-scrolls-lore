@@ -1,0 +1,50 @@
+---
+title: "The Second Era"
+slug: "deuxieme-ere"
+era: "second-era"
+category: "empires"
+tags: ["interregnum", "tiber-septim", "daggerfall-covenant", "ebonheart-pact", "aldmeri-dominion", "molag-bal"]
+date: "2E 1 — 2E 896"
+summary: "The chaotic Interregnum, the three great alliances, the invasion of Molag Bal, and the rise of Tiber Septim who unified all of Tamriel."
+timelineYear: 1
+sources: ["UESP: Second Era", "ESO Lore", "The Imperial Library"]
+---
+
+## The Interregnum (2E 430 — 2E 854)
+
+Following the fall of the Reman dynasty and the assassination of the last Akaviri Potentate, Tamriel plunged into a period of chaos known as the **Interregnum**. With no emperor to unify the continent, the provinces splintered into rival kingdoms.
+
+It was during this period that the necromancer **Mannimarco** (the King of Worms) grew in power, and that numerous factions emerged in an attempt to fill the power vacuum.
+
+## The Three Alliances and the Alliance War (2E 580)
+
+Faced with the threat of the necromancer-king and various destructive forces, three great alliances took shape:
+
+### The Ebonheart Pact
+- **Races**: Nords, Dunmer, Argonians
+- **Leader**: High King Jorunn
+- **Territory**: Skyrim, Morrowind, Black Marsh
+
+### The Daggerfall Covenant
+- **Races**: Bretons, Redguards, Orcs
+- **Leader**: High King Emeric
+- **Territory**: High Rock, Hammerfell, Orsinium
+
+### The First Aldmeri Dominion
+- **Races**: Altmer, Bosmer, Khajiit
+- **Leader**: Queen Ayrenn
+- **Territory**: Summerset Isles, Valenwood, Elsweyr
+
+## The Anchoring of Molag Bal (2E 582)
+
+Running parallel to the Alliance War, the Daedric Prince **Molag Bal** attempted to merge his Oblivion realm (Coldharbour) with Mundus in an event called the **Planemeld**. "Dark Anchors" — enormous hooks of metal — fell from the sky across all of Tamriel, ripping chunks from the mortal plane.
+
+A hero, the **Vestige** (whose soul had been stolen by Molag Bal), managed to penetrate Coldharbour and defeat the Daedric Prince with the help of the Five Companions and the Lyric Warrior.
+
+## The Rise of Tiber Septim (2E 854 — 2E 896)
+
+The most important figure of the Second Era is **Tiber Septim** (born Hjalti Early-Beard, also known as Talos). A brilliant general and Dragonborn, he unified all of Tamriel through conquest and diplomacy.
+
+His campaigns culminated in the use of the **Numidium** — the enormous Dwemer golem reconstructed by Zurin Arctus — to subjugate the Aldmeri Dominion in a single day.
+
+In **2E 896**, Tiber Septim proclaimed himself emperor of all Tamriel, marking the beginning of the **Third Era** and the Septim dynasty. After his death, he ascended to divinity under the name **Talos**, the Ninth Divine.

@@ -1,0 +1,90 @@
+---
+title: "Daedric Worship Across Tamriel"
+slug: "daedric-worship"
+era: "second-era"
+category: "religion"
+tags: ["daedra", "daedric-princes", "worship", "persecution", "religion", "oblivion"]
+timelineYear: 300
+summary: "The diverse forms of Daedric worship across Tamriel, their cultural variety, and the persecutions they endure."
+sources: ["The Daedric Princes", "Varieties of Faith in the Empire", "Invocation of the Daedra", "The Book of Daedra"]
+---
+
+## The Daedric Princes: between veneration and terror
+
+The **Daedric Princes** are the most powerful entities of **Oblivion**, beings of inconceivable antiquity whose power rivals that of the **Aedra** themselves. Numbering sixteen by official count — though this figure is contested — they inspire reactions across **Tamriel** ranging from the most fervent devotion to absolute terror.
+
+Unlike the Aedra, who sacrificed a portion of their power to create **Mundus** and remain relatively distant, the Daedric Princes actively interact with the mortal world. They offer pacts, grant powers, manipulate champions, and sometimes intervene directly in the affairs of Tamriel.
+
+This accessibility largely explains their appeal: where the Aedra remain silent in the face of prayers, a Daedric Prince can respond, reward — and punish. Daedric worship is fundamentally transactional: the devotee offers their devotion and receives in return power, knowledge, or protection.
+
+## The diversity of cults
+
+It would be reductive to speak of "Daedric worship" as a single phenomenon. Each Prince has their own cults, and these vary considerably by culture, region, and era:
+
+**Azura**, Princess of dusk and dawn, is openly venerated by the **Dunmer** as one of the three "Good Daedra." Her cult is respectable, institutional, and perfectly legal in **Morrowind**. Elsewhere in Tamriel, it is tolerated as eccentric but rarely persecuted.
+
+**Meridia**, Princess of light and life, is paradoxically considered relatively benign despite her Daedric status. Her active opposition to the undead and to **Molag Bal** even earns her the sympathy of some priests of the Divines.
+
+**Hermaeus Mora**, Prince of forbidden knowledge, attracts obsessive scholars and researchers. His cult is secretive by nature — his followers seek knowledge the world would prefer to see forgotten.
+
+**Molag Bal**, Prince of domination and violation, attracts sadists and those hungry for power. His cult is universally condemned and pursued with the greatest severity.
+
+## Daedric worship among the Dunmer
+
+The **Dunmer** of **Morrowind** represent the unique case of a people whose official religion venerates Daedric Princes. This tradition traces back to **Veloth** and the exodus of the **Chimer**, built on the worship of the three "Good Daedra":
+
+**Boethiah** is the patron of strength, cunning, and overthrow. Their cult teaches that conflict forges greatness and that only the strong deserve to rule. Mortal trials between devotees are considered acts of devotion.
+
+**Mephala** patronizes secrecy, intrigue, and ritual assassination. The **Morag Tong**, a guild of assassins legal in Morrowind, operates under her blessing. Her teachings concern murder as sacred art and manipulation as virtue.
+
+**Azura** guides destinies and transitions. Her cult is the most "benevolent" of the three, offering prophecies and protection to her followers in exchange for absolute devotion.
+
+The three "Bad Daedra" — **Molag Bal**, **Sheogorath**, and **Malacath** — are acknowledged but ritually repelled. Specific ceremonies exist to appease their wrath without venerating them.
+
+## Secret cults across the Empire
+
+In the territories of the **Empire**, where the worship of the **Eight Divines** (later Nine) is the official religion, the veneration of Daedra is generally illegal or socially unacceptable. This does not prevent the existence of thriving secret cults.
+
+**Covens of Hircine** gather followers of the Prince of the Hunt, often lycanthropes who view their condition as a gift rather than a curse. They convene during full moons for ritual hunts.
+
+**Devotees of Sanguine**, Prince of debauchery, exist in every major city in the form of hedonistic circles. Their gatherings resemble profane orgies but carry real ritual dimensions.
+
+**Worshippers of Namira**, Princess of repugnance, form the most secret and shocking cults — their practices including ritual cannibalism, they face the death penalty in every jurisdiction.
+
+**Disciples of Clavicus Vile**, Prince of bargains, are often merchants, politicians, or the ambitious seeking shortcuts to power — always at the cost of unforeseen consequences.
+
+## Persecution and inquisition
+
+The persecution of Daedric worship has varied in intensity across eras and political regimes:
+
+The **Alessian Order** of the First Era represented the pinnacle of religious intolerance, persecuting not only Daedric cults but any form of spirituality deviating from their monotheistic dogma.
+
+The **Septim Empire** of the Third Era adopted a more nuanced position: Daedric worship was not systematically prosecuted as long as it did not disturb public order, but the most dangerous cults — worshippers of Molag Bal, Mehrunes Dagon, Namira — were actively hunted.
+
+The **Vigils of Stendarr**, a militant order dedicated to eradicating Daedric influences, represent the most organized form of persecution during the Fourth Era. They make no distinction between "good" and "bad" Daedra.
+
+The **Thalmor** of the Fourth Era pursue the worship of **Talos** with a ferocity that recalls the Alessian inquisition, though their target is a "Divine" rather than a Daedra.
+
+## Daedric artifacts and temptation
+
+The **Daedric Princes** attract followers partly through the promise of artifacts of extraordinary power. Each Prince possesses an emblematic artifact which they sometimes entrust to mortals in exchange for services:
+
+The **Azura's Star**, a reusable soul gem. The **Masque of Clavicus Vile**. The **Ring of Hircine**. **Volendrung**, Malacath's hammer. The **Sanguine Rose**. The **Mehrunes' Razor**. The **Mace of Molag Bal**.
+
+These artifacts are instruments of seduction as much as of power. They draw mortals toward the Princes, creating a dependency and a gradual allegiance. Many Daedric cults are born when a mortal obtains an artifact and begins to recruit other followers to honor their "benefactor."
+
+## The Mythic Dawn: a case study
+
+The **Mythic Dawn**, a cult of **Mehrunes Dagon** that provoked the **Oblivion Crisis** in 3E 433, illustrates the destructive potential of Daedric worship at its extreme. Founded by **Mankar Camoran**, this cult managed to assassinate Emperor **Uriel Septim VII** and open the **Gates of Oblivion** across Cyrodiil.
+
+The Mythic Dawn recruited from every level of society: nobles, merchants, soldiers, mages. Its success proved that Daedric worship is not confined to the marginalized — it can seduce anyone sufficiently desperate, ambitious, or idealistic.
+
+The destruction caused by the Oblivion Crisis considerably reinforced popular hostility toward all Daedric cults, legitimizing the persecutions that followed.
+
+## The moral ambiguity
+
+The question of the morality of Daedric worship is more complex than it appears. Some Princes offer genuine blessings without any obviously destructive price. Followers of Azura, Meridia, or even Nocturnal do not necessarily cause harm.
+
+The distinction between "good" and "bad" Daedra is itself culturally relative: good for the Dunmer, those same Princes are judged harmful by the Empire. And some Aedra are not free of cruelty in their mythologies.
+
+This ambiguity ensures that Daedric worship will always persist, regardless of the intensity of persecution. As long as mortals seek power, knowledge, or transcendence through forbidden paths, the Daedric Princes will find followers.

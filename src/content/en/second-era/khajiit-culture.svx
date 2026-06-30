@@ -1,0 +1,77 @@
+---
+title: "Khajiit Culture"
+slug: "culture-khajiit"
+era: "second-era"
+category: "races"
+tags: ["khajiit", "furstocks", "mane", "moon-sugar", "skooma", "riddle-thar"]
+timelineYear: 309
+summary: "An in-depth study of Khajiit culture, from the seventeen lunar morphologies to the spiritual traditions of the Riddle'Thar and the sacred role of the Mane."
+sources: ["Words of Clan Mother Ahnissi", "Erta's Report on the Khajiit", "The Moon Cats and their Dance", "Ahzirr Traajijazeri"]
+---
+
+# Khajiit Culture
+
+## A People Shaped by the Moons
+
+The Khajiit of Elsweyr constitute one of the most fascinating and most misunderstood civilizations in Tamriel. A feline people with origins linked to the Bosmer through the common ancestor Nirni, the Khajiit differ from all other races by a unique characteristic: their physical morphology is entirely determined by the phases of the two moons of Nirn — Masser (Jone) and Secunda (Jode) — at the moment of their birth.
+
+This relationship between the moons and physical form is neither metaphorical nor superstitious. It constitutes the biological, spiritual, and cultural foundation of all Khajiit society. The Khajiit call this system the **Lunar Lattice**, a network of cosmic forces that binds their people to the rhythms of the heavens.
+
+## The Furstocks: Seventeen Forms
+
+The term **Furstock** denotes each of the possible morphologies for a Khajiit. Tradition recognizes seventeen, though some are so rare they have not been observed in generations:
+
+**Quadrupedal forms:**
+- **Alfiq** — resembling an ordinary house cat, but capable of speech and fully intelligent. Often underestimated, Alfiq are formidable mages.
+- **Alfiq-raht** — slightly larger than the Alfiq, about the size of a large wildcat.
+- **Senche** — a massive feline the size of a horse, sometimes used as a mount by other Khajiit.
+- **Senche-raht** — the largest of the quadrupedal Furstocks, rivaling a mammoth in size.
+
+**Bipedal forms:**
+- **Suthay-raht** — the form most commonly encountered outside Elsweyr, digitigrade with full fur and a tail.
+- **Cathay** — a bipedal form of human size, more robust than the Suthay-raht.
+- **Cathay-raht** — also called the "jaguar-man," imposing and powerfully muscled.
+- **Ohmes** — almost indistinguishable from a Bosmer, with no visible fur or tail.
+- **Ohmes-raht** — similar to the Ohmes but retaining light fur and more feline features.
+- **Tojay** and **Tojay-raht** — mysterious forms rarely documented, associated with wooded regions.
+- **Dagi** and **Dagi-raht** — small and agile, adapted to arboreal life in the forests of Tenmar.
+- **Pahmar** and **Pahmar-raht** — resembling large bipedal felines, powerful warriors.
+
+The **Mane** and the **Moon-dead** (Moons die) represent exceptional cases, linked to extraordinary lunar configurations.
+
+## The Mane
+
+The **Mane** is the spiritual leader of all Khajiit, born only when the two moons align in an extraordinarily rare manner. There is never more than one Mane alive at a time. This is not a king in the political sense — it is a living incarnation of lunar will, a being whose very existence binds the Khajiit people to the celestial forces.
+
+Traditionally, the Mane never walks: they are carried by devoted servants. Their hair — or more precisely, their mane — is braided with locks offered by every Khajiit who visits them, symbolizing the unity of the whole people. Over time, this mane grows so voluminous and heavy that it requires multiple bearers.
+
+The Mane's role is that of unifier, mediator between the often rival clans of Elsweyr, and guardian of ancestral spiritual traditions.
+
+## Moon Sugar and Skooma
+
+**Moon Sugar** is far more than a simple drug in the eyes of the Khajiit. This crystalline substance, harvested from sugarcane fields in Elsweyr, is regarded as the "crystallized sweat" of the two moons themselves. Its consumption is an integral part of Khajiit cuisine, medicine, and spirituality.
+
+For the Khajiit, Moon Sugar is a sacrament that strengthens their connection to the Lunar Lattice. Its prohibition in other provinces of Tamriel is perceived as a profound cultural misunderstanding, even as a form of Imperial oppression.
+
+**Skooma**, by contrast, is a concentrated and altered distillation of Moon Sugar. Even within Khajiit society, Skooma is regarded with ambivalence — recognized as dangerous and addictive, it nonetheless remains present in certain rituals, and its total prohibition has never achieved consensus.
+
+## The Riddle'Thar
+
+The **Riddle'Thar Epiphany**, which occurred in 2E 309 under the leadership of the Mane Rid-Thar-ri'Datta, constituted a major theological revolution. This religious reform unified the two Khajiit kingdoms — Anequina in the north and Pellitine in the south — under a single spiritual framework.
+
+The Riddle'Thar (literally "the Hidden Sugar" or "the Riddle") established a new paradigm:
+
+- The ancient cults of individual gods were subordinated to a unified cosmology
+- Lunar phases became the official ritual calendar for the entire people
+- The religious hierarchy was restructured around Clan Mothers
+- A moral code based on balance and moderation replaced the older warrior traditions
+
+The Riddle'Thar is not a god but a concept — the idea that spiritual truth is a mystery that each Khajiit must resolve individually, guided by the moons and the teachings of the Clan Mothers.
+
+## The Lunar Lattice
+
+The **Lunar Lattice** designates the network of cosmic forces that binds Jone and Jode to the Khajiit. According to Khajiit theology, this lattice was created by Azurah (their name for Azura) when she shaped the first Khajiit from the original Bosmer, giving them the capacity to change form according to the moons.
+
+This is not merely a religious concept: the Lattice has measurable effects. Khajiit physically feel lunar eclipses, and the temporary disappearance of the moons during the Void Nights caused existential panic across all of Elsweyr — a trauma that was exploited by the Thalmor to rally the Khajiit to the Aldmeri Dominion.
+
+The Lunar Lattice thus represents the indissoluble bond between the Khajiit, their land, their moons, and their very identity — a bond that no other race in Tamriel can truly understand.

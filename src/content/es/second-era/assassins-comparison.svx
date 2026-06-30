@@ -1,0 +1,98 @@
+---
+title: "Morag Tong vs Hermandad Oscura"
+slug: "assassins-comparison"
+era: "second-era"
+category: "guildes"
+tags: ["morag-tong", "hermandad-oscura", "asesinos", "mephala", "sithis", "madre-de-la-noche"]
+timelineYear: 350
+summary: "Comparación entre el Morag Tong, gremio de asesinos legal de Morrowind, y la Hermandad Oscura, organización clandestina que venera a Sithis."
+sources: ["El Morag Tong", "La Noche lo Abarca Todo", "Los Cinco Principios", "Guía de la Hermandad Oscura"]
+---
+
+## Dos filosofías del asesinato
+
+**Tamriel** alberga dos grandes organizaciones de asesinos, radicalmente diferentes en su filosofía, estructura y legitimidad: el **Morag Tong** y la **Hermandad Oscura**. Aunque ambas practican el asesinato como profesión, la comparación termina casi ahí — sus motivaciones, métodos y justificaciones son diametralmente opuestos.
+
+El Morag Tong es una institución legal, sancionada por el gobierno de **Morrowind**, que practica el asesinato como una forma socialmente aceptada de resolución de conflictos. La Hermandad Oscura es una organización criminal clandestina, perseguida por las autoridades de todo Tamriel, que mata por dinero y devoción a **Sithis**, el Vacío primordial.
+
+Esta dualidad refleja una pregunta fundamental de la civilización tamriélica: ¿puede el asesinato ser legítimo? Y de ser así, ¿qué condiciones lo hacen aceptable?
+
+## El Morag Tong: el asesinato santificado
+
+El **Morag Tong** — literalmente "el Gremio de los Golpes Anticipados" — es una organización de asesinos que opera legalmente en **Morrowind** desde la Era Méretica. Su legitimidad descansa sobre dos fundamentos: la sanción religiosa de **Mephala** y el reconocimiento legal del sistema de **Writs** (mandatos de ejecución).
+
+Mephala, la Tejedora, Daedra del secreto y la intriga, patrocina al Morag Tong desde su fundación. En la cosmología dunmer, el asesinato ritual es considerado un acto sagrado — una ofrenda a Mephala que mantiene el equilibrio de poderes entre las **Grandes Casas** de Morrowind.
+
+El sistema de Writs es el mecanismo legal que distingue al Morag Tong del simple asesinato. Un Writ es un contrato oficial, emitido por las autoridades competentes, que autoriza la ejecución de un individuo específico. El asesino portador de un Writ válido no puede ser procesado por su acto — es, técnicamente, un funcionario ejecutando una sentencia.
+
+## El funcionamiento del Morag Tong
+
+La estructura del Morag Tong es casi burocrática en su organización:
+
+Un cliente que desea la muerte de un rival — generalmente un noble de una Gran Casa que apunta a un miembro de una casa rival — presenta una solicitud oficial acompañada del pago. El **Maestro del Gremio** evalúa la solicitud, verifica su legalidad y asigna a un asesino.
+
+El asesino recibe un **Writ sellado** que porta consigo durante la misión. Si es capturado antes de la ejecución, el Writ demuestra que actúa dentro de un marco legal. Si tiene éxito, presenta el Writ como prueba de la legitimidad del acto.
+
+Este sistema cumple una función social específica: canaliza las rivalidades entre Grandes Casas en un marco controlado, evitando guerras abiertas entre facciones que devastarían Morrowind. Un asesinato selectivo es menos destructivo que una guerra civil.
+
+Los miembros del Morag Tong solo matan **sobre la base de un Writ**. El asesinato por motivos personales, el envenenamiento masivo o el asesinato gratuito están estrictamente prohibidos y se castigan con la ejecución del miembro infractor.
+
+## La Hermandad Oscura: el asesinato como sacramento
+
+La **Hermandad Oscura** nació — según su propia mitología — de una escisión dentro del Morag Tong, cuando un grupo de disidentes rechazó la tutela de Mephala en favor de **Sithis**, el Vacío primordial, y de la **Madre de la Noche**, su representante terrenal.
+
+Para la Hermandad, el asesinato no es un servicio social ni un acto político — es un sacramento religioso. Cada asesinato es una ofrenda a Sithis, un alma enviada al Vacío eterno. El asesino no es un profesional sino un sacerdote, y su hoja es un instrumento litúrgico.
+
+La **Madre de la Noche** — una entidad espectral que habría sido la primera asesina en dedicar sus muertes a Sithis — comunica los contratos a los asesinos a través de un macabro ritual: la **Escucha**. Un miembro designado, el Oyente, escucha la voz de la Madre de la Noche y transmite sus órdenes a los distintos santuarios.
+
+El ritual del **Sacramento Negro** permite a cualquiera contactar con la Hermandad para solicitar un asesinato: basta con rodear un efige de huesos y carne humana de velas y recitar una invocación. La Madre de la Noche escucha, y se envía a un asesino.
+
+## Los Cinco Principios de la Hermandad
+
+La Hermandad Oscura se rige por los **Cinco Principios** (Five Tenets), un código estricto que regula el comportamiento de sus miembros:
+
+**Primer Principio**: Nunca deshonrar a la Madre de la Noche. Cualquier falta de respeto hacia la entidad patrona se castiga con la muerte.
+
+**Segundo Principio**: Nunca traicionar a la Hermandad ni sus secretos. La confidencialidad es absoluta.
+
+**Tercer Principio**: Nunca desobedecer las órdenes de un superior en la jerarquía. El Oyente manda a los Oradores, que mandan a los asesinos ordinarios.
+
+**Cuarto Principio**: Nunca robar a un hermano o una hermana de la Hermandad. La solidaridad interna es sagrada.
+
+**Quinto Principio**: Nunca matar a un hermano o una hermana de la Hermandad (salvo por orden). El fratricidio no autorizado desencadena la ira de Sithis.
+
+La violación de estos principios provoca la visita de un **Espectro Lúgubre** — un espíritu vengador enviado por el propio Sithis para castigar al transgresor.
+
+## Las diferencias fundamentales
+
+Varias diferencias cruciales separan a las dos organizaciones:
+
+**Legitimidad**: El Morag Tong opera dentro de un marco legal en Morrowind; la Hermandad es universalmente ilegal y perseguida.
+
+**Motivación religiosa**: El Morag Tong sirve a Mephala; la Hermandad sirve a Sithis. Mephala es una deidad dunmer reconocida; Sithis es una fuerza primordial asociada a la nada.
+
+**Clientela**: El Morag Tong solo acepta contratos oficiales (Writs) de clientes identificados; la Hermandad acepta contratos anónimos de cualquiera que realice el Sacramento Negro.
+
+**Alcance geográfico**: El Morag Tong está limitado a Morrowind; la Hermandad opera en todo Tamriel.
+
+**Ética**: El Morag Tong tiene restricciones morales (no civiles inocentes, no asesinatos masivos); la Hermandad matará a cualquiera por cualquier razón, siempre que el contrato sea válido.
+
+## La rivalidad histórica
+
+La relación entre las dos organizaciones es de hostilidad absoluta y rivalidad mortal. El Morag Tong considera a la Hermandad una herejía — una perversión del arte sagrado del asesinato que deshonra a Mephala y ensucia la profesión.
+
+La Hermandad, por su parte, considera al Morag Tong como burocratas tímidos, asesinos encadenados por reglas artificiales que han olvidado la verdad fundamental del asesinato: es un acto espiritual, no un servicio administrativo.
+
+Esta rivalidad se ha traducido en siglos de conflictos directos. Los asesinos de ambas organizaciones se cazan y matan mutuamente cuando se cruzan. El Morag Tong ha intentado en varias ocasiones erradicar a la Hermandad; la Hermandad ha respondido asesinando a líderes del Morag Tong.
+
+## La evolución a través de las eras
+
+El equilibrio de poder entre las dos organizaciones ha fluctuado considerablemente con el tiempo:
+
+Durante la Segunda Era, el Morag Tong era dominante, beneficiándose del apoyo del **Tribunal** y de una legitimidad política incuestionable. La Hermandad no era más que una secta marginal.
+
+La Tercera Era vio el ascenso de la Hermandad, que extendió sus operaciones a todo Tamriel mientras el Morag Tong permanecía confinado a Morrowind.
+
+La caída del Tribunal y la crisis de Morrowind durante la Cuarta Era debilitaron considerablemente al Morag Tong, mientras que la Hermandad — aunque devastada por purgas internas — mantenía presencia en todo el continente.
+
+La ironía es que la Hermandad Oscura, nacida como una herejía minoritaria, terminó por superar en fama y alcance a la organización de la que surgió.

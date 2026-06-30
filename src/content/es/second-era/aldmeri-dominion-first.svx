@@ -1,0 +1,84 @@
+---
+title: "El Primer Dominio Aldmeri"
+slug: "aldmeri-dominion-first"
+era: "second-era"
+category: "empires"
+tags: ["dominio-aldmeri", "primer-dominio", "altmer", "bosmer", "khajiit", "ayrenn", "islas-summerset"]
+timelineYear: 580
+summary: "La formación del Primer Dominio Aldmeri, alianza entre los Altmer de las Islas y los Bosmer del Val Boscoso bajo la reina Ayrenn."
+sources: ["El Dominio Aldmeri", "Manifiesto de la Reina Ayrenn", "Guía de la Era del Caos"]
+---
+
+## El renacimiento de una ambición élfica
+
+El **Primer Dominio Aldmeri** fue fundado en el año 2E 580 por impulso de la reina **Ayrenn** de los **Altmer**, uniendo a los Altos Elfos de las **Islas Summerset** y a los Elfos del Bosque de **Valenwood** — a los que más tarde se unirían los **Khajiit** de **Elsweyr** — en una alianza cuyo propósito declarado era restaurar el orden y la sabiduría élficos en un continente devastado por las guerras de los hombres.
+
+El Dominio representaba mucho más que una simple alianza militar: era una declaración filosófica. Los Altmer, que se consideraban herederos directos de los **Aldmer** originales y, por tanto, la raza más antigua y sabia de Tamriel, estimaban que el caos engendrado por los sucesivos imperios humanos demostraba la incapacidad de las razas mortales jóvenes para gobernar.
+
+Esta convicción de superioridad cultural y racial innata — atemperada en Ayrenn por un sorprendente pragmatismo, pero muy presente en la ideología del Dominio — encontraría ecos siniestros milenios más tarde en las doctrinas del **Thalmor** de la Cuarta Era.
+
+## La Reina Ayrenn: una soberana atípica
+
+**Ayrenn Arana Aldmeri** era una figura extraordinaria en el rígido contexto de la sociedad altmer. Nacida heredera del trono de las Islas, desapareció misteriosamente durante su juventud para recorrer Tamriel durante años, viviendo entre las razas de los hombres y otros pueblos — una experiencia impensable para una princesa altmer.
+
+Su regreso y coronación conmocionaron a la nobleza conservadora de las Islas. Ayrenn no era la aislacionista tradicional que sus consejeros habrían preferido: había visto el mundo, comprendido otras culturas y desarrollado una visión de cooperación interracial bajo liderazgo altmer — más que de dominación pura.
+
+Este matiz distinguía a Ayrenn de los supremacistas altmer más extremos. No consideraba a las demás razas como inferiores por naturaleza, sino como necesitadas de la guía de los Altos Elfos. El Dominio bajo su dirección era paternalista pero no genocida — una distinción significativa.
+
+## La alianza con los Bosmer
+
+Los **Bosmer** de **Valenwood** se unieron al Dominio por razones tanto culturales como pragmáticas. Como descendientes de los mismos Aldmer ancestrales que los Altmer, compartían lazos étnicos e históricos antiguos.
+
+Valenwood había sufrido incursiones imperiales e intentos de colonización humana. Unirse al Dominio ofrecía protección militar que la nación boscosa, con su población dispersa y su rechazo a la agricultura convencional (el **Pacto Verde** prohíbe dañar la vegetación), no podía garantizar por sí sola.
+
+El rey **Camoran Aeradan** formalizó la adhesión de Valenwood al Dominio, colocando las fuerzas bosmer bajo mando conjunto. Los Bosmer aportaban habilidades únicas: arquería incomparable, conocimiento de los bosques, sigilo y — en casos extremos — la capacidad de invocar la Cacería Salvaje, una aterradora transformación en criaturas monstruosas.
+
+## La integración de los Khajiit
+
+La adhesión de los **Khajiit** de **Elsweyr** al Dominio fue posterior y más compleja. Los Khajiit, pueblo felino con múltiples formas dictadas por los ciclos lunares, no tenían lazos étnicos con los elfos. Su inclusión en una alianza élfica sorprendió a muchos.
+
+El contexto explica esta alianza: Elsweyr atravesaba una devastadora crisis política y económica. Las epidemias de la **Plaga de Thras** habían diezmado la población, y los conflictos internos entre los dos reinos khajiit — Anequina y Pelletine — debilitaban la nación.
+
+El Dominio Aldmeri ofreció ayuda, estabilidad y protección a cambio de la lealtad khajiit. Ayrenn presentó esta inclusión como prueba de que su Dominio no era exclusivamente élfíco sino abierto a todos los pueblos que buscaran orden y prosperidad — aunque los críticos vieran en ello una forma de vasallaje de facto.
+
+## La ideología del Dominio
+
+La ideología oficial del Primer Dominio Aldmeri descansaba sobre varios pilares:
+
+**La sabiduría de la antigüedad**: los Altmer, como descendientes más directos de los Aldmer originales, poseían una sabiduría acumulada durante milenios que los capacitaba naturalmente para gobernar.
+
+**El fracaso de los imperios humanos**: la sucesión de crisis — la caída del Imperio Alessiano, el colapso del Imperio **Reman**, el caos del Interregno — demostraba, según los Altmer, que los humanos eran incapaces de mantener un orden estable.
+
+**La armonía a través de la jerarquía**: el Dominio proponía un orden internacional basado en el reconocimiento de las aptitudes naturales de cada raza, bajo la benevolente supervisión de los Altmer.
+
+**La protección contra los Daedra**: los Altmer, con su larga tradición mágica, se presentaban como los mejores guardianes contra las incursiones daédricas que amenazaban regularmente Tamriel.
+
+## El papel en la Guerra de las Tres Banderas
+
+El Primer Dominio Aldmeri fue uno de los tres grandes beligerantes de la **Guerra de las Tres Banderas**, enfrentándose al **Pacto de Corazón de Ébano** y a la **Alianza de Daggerfall** por el control del trono imperial de **Cyrodiil**.
+
+La estrategia militar del Dominio combinaba la disciplina y la magia de las legiones altmer, la arquería y la guerra de guerrillas forestal de los Bosmer, y la agilidad y astucia de los guerreros khajiit. Esta combinación producía una fuerza flexible y formidable.
+
+El Dominio no buscaba simplemente apoderarse del trono imperial: quería refundar el Imperio sobre principios élficos, reemplazando el caos humano por el orden altmer. Era una ambición de civilización, no meramente de conquista.
+
+## Las fuerzas armadas del Dominio
+
+El aparato militar del Dominio era sofisticado y bien organizado:
+
+Las **legiones altmer** constituían el núcleo del ejército: soldados disciplinados, bien equipados y respaldados por magos de batalla formados en las academias de las Islas. Su excelencia mágica compensaba un número frecuentemente inferior al de los ejércitos humanos.
+
+Los **arqueros bosmer** eran los mejores tiradores de Tamriel, capaces de alcanzar objetivos a distancias imposibles para otras razas. En terreno boscoso eran prácticamente invisibles y mortalmente eficaces.
+
+Los **guerreros khajiit** aportaban velocidad y adaptabilidad. Algunas subespecies khajiit — los Senche-raht en particular — servían incluso como monturas de combate, creando una caballería única.
+
+Los **Justiciares** del Dominio formaban una fuerza de policía interna e inteligencia, antecesores directos de los Justiciares del Thalmor de la Cuarta Era.
+
+## La disolución y el legado
+
+El Primer Dominio Aldmeri no sobrevivió mucho tiempo al fin de la Guerra de las Tres Banderas. Sin la amenaza de un Imperio unificado hostil ni la personalidad unificadora de Ayrenn, las tensiones internas — la desconfianza bosmer hacia el paternalismo altmer, el resentimiento khajiit por el trato de segunda clase — erosionaron la cohesión de la alianza.
+
+Pero la idea del Dominio nunca murió del todo. La aspiración altmer de restaurar la preeminencia élfica sobre Tamriel resurgiría cíclicamente a través de las eras:
+
+El **Segundo Dominio Aldmeri** sería fundado durante el período tardío de la Segunda Era, con objetivos similares.
+
+El **Tercer Dominio Aldmeri** — el **Thalmor** de la Cuarta Era — retomaría los mismos temas pero con una ideología mucho más radical, abandonando el paternalismo relativamente benevolente de Ayrenn en favor de un supremacismo élfíco agresivo orientado potencialmente hacia la destrucción de la humanidad misma.

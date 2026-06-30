@@ -1,0 +1,95 @@
+---
+title: "The Blades — Dragonguard"
+slug: "les-lames"
+era: "second-era"
+category: "guildes"
+tags: ["blades", "akaviri", "dragonborn", "emperor", "dragons", "hunters"]
+timelineYear: 854
+summary: "The Blades are an ancient order of Imperial bodyguards and dragon hunters — founded by Akaviri Tsaesci warriors who submitted to the first Dragonborn they had been seeking."
+sources: ["UESP: Blades", "The Imperial Library: The Rise and Fall of the Blades", "Annals of the Dragonguard"]
+---
+
+## Akaviri Origins
+
+The Blades descend directly from the **Dragonguard** — the Tsaesci warriors of Akavir who invaded Tamriel in 1E 2703. Their initial objective was to find and serve a **Dragonborn**:
+
+- The Tsaesci venerated/hunted dragons on Akavir
+- They sought a being capable of commanding them
+- When they encountered **Reman Cyrodiil**, they recognized the Dragonborn
+- They submitted at once and became his personal guards
+
+## Evolution
+
+### Dragonguard → Blades
+- **1E 2703**: The Tsaesci become guards of Reman
+- **2E**: Transformation into a secret Imperial organization
+- **2E 854**: Serve Tiber Septim, officially become "the Blades"
+- **3E**: Dual role — Imperial guards AND espionage network
+- **4E**: Hunted by the Thalmor, reduced to clandestinity
+
+## Dual Mission
+
+### Imperial Guard
+- Personal protection of the Emperor
+- Based at **Cloud Ruler Temple** (Cyrodiil)
+- Distinctive armor and Akaviri katana
+- Oath of absolute loyalty to the Dragon Blood
+
+### Espionage
+- Network of agents throughout all provinces
+- Intelligence gathering for the Empire
+- Infiltration of enemy organizations
+- Discreet elimination of threats
+
+## Armament and Style
+
+| Element | Description |
+|---------|-------------|
+| Weapon | Akaviri katana (curved single-edged blade) |
+| Armor | Distinctive lamellar armor |
+| Architecture | Pagoda-style fortress-temples |
+| Training | Swordsmanship, stealth, diplomacy |
+
+## The Fall (4E)
+
+After the Great War and the White-Gold Concordat:
+1. The Thalmor demanded the **dissolution** of the Blades
+2. The Empire agreed as a condition of peace
+3. The Thalmor **systematically hunted and killed** the Blades
+4. Survivors went into complete hiding
+5. Cloud Ruler Temple was destroyed
+
+## In Skyrim (4E 201)
+
+Only two Blades survived in Skyrim:
+- **Delphine** — hiding as an innkeeper in Riverwood
+- **Esbern** — a scholar sheltering in the Ratway of Riften
+
+Together with the Last Dragonborn, they:
+- Rediscovered **Sky Haven Temple** (secret Akaviri temple)
+- Deciphered the **Alduin's Wall** — a prophecy carved in stone
+- Began recruiting new members
+- Demanded the death of Paarthurnax (source of conflict)
+
+## The Conflict with the Greybeards
+
+The Blades and the Greybeards are fundamentally opposed:
+- **Blades**: dragons are enemies to be destroyed, Paarthurnax included
+- **Greybeards**: peace and the Thu'um are sacred, Paarthurnax has redeemed himself
+- The Dovahkiin must choose — or find an impossible compromise
+
+## Alduin's Wall
+
+The Blades' greatest discovery — an Akaviri bas-relief at Sky Haven Temple depicting:
+- The prophecy of Alduin's return
+- **Dragonrend** as the only weapon against him
+- The ancient Nordic heroes who banished him
+- The Dovahkiin's role as final savior
+
+## Legacy
+
+The Blades embody a paradox:
+- Devoted servants of the Dragonborn... but they give him orders
+- Protectors of the Empire... but the Empire abandoned them
+- Dragon hunters... but the dragon Paarthurnax is their most valuable ally
+- A secret organization... but their temple and style are immediately recognizable

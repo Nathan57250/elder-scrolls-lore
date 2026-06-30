@@ -1,0 +1,116 @@
+---
+title: "La Morag Tong"
+slug: "morag-tong"
+era: "second-era"
+category: "guildes"
+tags: ["morag-tong", "mephala", "morrowind", "asesinos", "hermandad-oscura", "dunmer", "ejecuciones-legales"]
+timelineYear: 324
+summary: "Gremio de asesinos legales de Morrowind sancionado por el culto de Mephala, la Morag Tong opera mediante mandatos de ejecución oficiales desde hace milenios."
+sources: ["UESP: Morag Tong", "Fire and Darkness", "ESO Lore", "The Brothers of Darkness"]
+---
+
+## Naturaleza y Filosofía
+
+La **Morag Tong** (literalmente "Gremio de los Ancestros" en dunmeris) es el gremio de asesinos más antiguo conocido en Tamriel. A diferencia de los asesinos ordinarios, los miembros de la Morag Tong ejercen el **asesinato sancionado por la ley** — un concepto exclusivo de la cultura dunmer de Morrowind.
+
+Su filosofía descansa en un principio paradójico: el asesinato selectivo previene la guerra. Al eliminar a individuos concretos mediante contratos legales, la Morag Tong evita los conflictos a gran escala entre las Grandes Casas de Morrowind.
+
+## Orígenes y Patrona Daédrica
+
+### Mephala, la Tejedora
+
+La Morag Tong venera a **Mephala**, el Príncipe Daédrico de los secretos, el asesinato y las conspiraciones. En el panteón dunmer, Mephala es uno de los tres "Buenos Daedra" (junto con Azura y Boethiah), a diferencia de los cuatro "Malos Daedra".
+
+Mephala enseñó a los Chimer (antepasados de los Dunmer) el arte del asesinato como herramienta política. Para la Morag Tong, matar no es un pecado sino un **acto sagrado** — una ofrenda a la Tejedora que mantiene el equilibrio de las intrigas.
+
+### Antigüedad
+
+Los orígenes exactos de la Morag Tong se pierden en la noche de los tiempos. Algunas fuentes sugieren que ya existía en la **Era Merética**, mucho antes de que se fundara la propia Morrowind. El gremio precede a todas las instituciones políticas dunmer actuales.
+
+## Los Mandatos de Ejecución
+
+### Marco Legal
+
+El sistema de **mandatos** (*writs of execution*) es el eje central de la actividad de la Morag Tong:
+
+1. Un comitente (generalmente un noble o un jefe de Casa) presenta una solicitud
+2. El **Maestro del Gremio** evalúa la legitimidad de la petición
+3. Se redacta un mandato oficial con el sello de la Morag Tong
+4. Se asigna un asesino a la misión
+5. Tras la ejecución, el asesino **presenta el mandato** ante las autoridades
+
+### Inmunidad Legal
+
+El punto crucial: un asesino de la Morag Tong que porte un mandato válido **no puede ser procesado** por asesinato en Morrowind. Si es detenido, presenta el mandato y es puesto en libertad de inmediato. Este sistema es reconocido por:
+
+- El Tribunal (antes de su caída)
+- Las Grandes Casas
+- Las autoridades imperiales (a regañadientes, durante la ocupación)
+
+### Normas Estrictas
+
+La Morag Tong impone reglas severas a sus miembros:
+
+- **Sin víctimas colaterales** — Solo puede matarse al objetivo designado
+- **Sin eliminar testigos** — Discreción absoluta o asumir la responsabilidad del asesinato
+- **Sin contratos personales** — El asesino nunca elige a su objetivo
+- **Obediencia al Maestro del Gremio** — La insubordinación se castiga con la muerte
+
+## Organización
+
+### Estructura Jerárquica
+
+| Rango | Función |
+|-------|---------|
+| Maestro del Gremio | Jefe supremo, intérprete de la voluntad de Mephala |
+| Maestro Ejecutor | Supervisor regional |
+| Testigo Oscuro | Asesino de élite |
+| Sombra | Miembro confirmado |
+| Ultimador | Practicante |
+| Asociado | Nuevo miembro |
+
+### Lugares de Operación
+
+La Morag Tong opera principalmente en Morrowind, con refugios ocultos en:
+
+- **Vivec** — El cuartel general principal (antes de la destrucción de la ciudad)
+- **Ald'ruhn** — Bajo el caparazón del Cangrejo Emperador
+- **Sadrith Mora** — Entre las torres de hongos de los Telvanni
+- **Balmora** — En los barrios bajos de la ciudad
+
+## Rivalidad con la Hermandad Oscura
+
+### La Escisión
+
+La **Hermandad Oscura** nació de una **escisión** dentro de la Morag Tong durante la Segunda Era. Un grupo de disidentes rechazó la autoridad de Mephala para orientarse hacia **Sithis** y la **Madre de la Noche**.
+
+### Diferencias Fundamentales
+
+| Aspecto | Morag Tong | Hermandad Oscura |
+|---------|-----------|-----------------|
+| Patrona | Mephala | Sithis / Madre de la Noche |
+| Legalidad | Legal en Morrowind | Ilegal en todas partes |
+| Contratos | Mandatos oficiales | Oración al Sacramento Negro |
+| Alcance | Solo Morrowind | Todo Tamriel |
+| Víctimas colaterales | Prohibidas | Toleradas |
+| Filosofía | Herramienta política | Culto a la muerte |
+
+### La Guerra de las Sombras
+
+La Morag Tong considera a la Hermandad Oscura como una **herejía** y una perversión de su arte sagrado. Durante siglos, ambas organizaciones libraron una guerra encubierta, intentando cada una eliminar a los líderes de la otra.
+
+En **2E 324**, la Morag Tong fue brevemente prohibida en todo el Imperio tras el asesinato del Potentado Versidue-Shaie — un acto atribuido (quizás falsamente) al gremio. Esta prohibición favoreció la expansión de la Hermandad Oscura en otras provincias.
+
+## Declive y Supervivencia
+
+### Las Catástrofes de Morrowind
+
+La Morag Tong sufrió considerables pérdidas durante las catástrofes de la Cuarta Era:
+
+- El **Año Rojo** (4E 5) — La erupción del Monte Carmesí devastó Vvardenfell
+- La **invasión argoniana** — Los antiguos esclavos invadieron el sur de Morrowind
+- La caída del Tribunal — La pérdida del apoyo teocrático
+
+### Persistencia
+
+A pesar de estas pruebas, la Morag Tong nunca ha sido oficialmente disuelta. Persisten rumores de asesinos que aún portan los mandatos de Mephala entre las ruinas de Morrowind, manteniendo viva una tradición milenaria. Mientras las Grandes Casas conspiren, la Tejedora necesitará sus hojas.

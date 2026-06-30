@@ -1,0 +1,97 @@
+---
+title: "Akavir — El Continente del Este"
+slug: "akavir"
+era: "second-era"
+category: "lieux"
+tags: ["akavir", "tsaesci", "kamal", "tang-mo", "ka-potun", "invasion", "lamas"]
+timelineYear: 572
+summary: "Akavir es el misterioso continente al este de Tamriel — tierra de los hombres-serpiente Tsaesci, los demonios de escarcha Kamal y el origen de las tradiciones marciales de las Lamas."
+sources: ["UESP: Akavir", "Mysterious Akavir", "The Imperial Library: Report on the Disaster at Ionith"]
+---
+
+## El Continente Desconocido
+
+**Akavir** ("Tierra del Dragón" en aldmeris) es el continente situado al este de Tamriel, separado de él por un vasto océano. Es un lugar de misterio — ningún tamriélico ha puesto un pie en él y regresado en siglos. Todo lo que sabemos de él procede de textos antiguos y de las invasiones Akaviri.
+
+## Los Pueblos de Akavir
+
+### Los Tsaesci ("Comedores de Serpientes")
+- La raza más conocida — **hombres-serpiente** (el grado exacto de forma serpentina es debatido)
+- Guerreros excepcionales, creadores del katana
+- "Comieron" (¿conquistaron?) a los humanos de Akavir
+- Llevaron a cabo varias invasiones de Tamriel
+- Su cultura marcial influyó profundamente en el Imperio (las **Lamas** descienden de guerreros Tsaesci)
+
+### Los Kamal ("Demonios de la Nieve")
+- Criaturas demoníacas de las tierras glaciales del norte de Akavir
+- Se congelan en invierno y se descongelan en verano para invadir a sus vecinos
+- Invadieron Tamriel en 2E 572 (rechazados por el Pacto de Corazonébano)
+- Brutales, sin diplomacia conocida
+
+### Los Tang Mo ("Mil Monos")
+- Pueblo simiesco de las islas-jungla de Akavir
+- Descritos como amigables y valientes
+- Constantemente invadidos por los Kamal
+- Aliados de los Ka Po'Tun contra los Tsaesci
+
+### Los Ka Po'Tun ("Reino Tigre")
+- Pueblo felino que busca convertirse en dragón
+- Dirigidos por **Tosh Raka** — quien supuestamente **logró** transformarse en dragón
+- Enemigos jurados de los Tsaesci
+- Podrían invadir Tamriel algún día (profecía no confirmada)
+
+## Las Invasiones Akaviri
+
+### Primera Invasión Akaviri (1E 2703)
+- Los **Tsaesci** invadieron Tamriel en masa
+- Buscaban al **Sangre de Dragón** (veneraban/cazaban dragones)
+- Derrotados por **Reman Cyrodiil** en el paso de Pale Pass
+- Los supervivientes **se rindieron** a Reman, reconociéndole como el Sangre de Dragón
+- Se convirtieron en sus guardias personales — origen de las **Lamas**
+
+### Invasión Kamal (2E 572)
+- Ada'Soom Dir-Kamal condujo a los demonios de la nieve contra Tamriel
+- Atacó primero Cielos de Hielo (saqueo de Windhelm)
+- Luego marchó sobre Morrowind
+- Derrotado en **Stonefalls** por la alianza de tres razas:
+  - Nórdicos de Cielos de Hielo
+  - Dunmer de Morrowind
+  - Argonianos de la Marisma
+- Esta victoria compartida **fundó el Pacto de Corazonébano**
+
+### Expedición de Uriel V (3E 288–290)
+- El Emperador **Uriel Septim V** intentó invadir Akavir
+- Masiva invasión naval
+- Victoria inicial, captura de la ciudad de **Septimia**
+- Luego **desastre total** en Ionith — el ejército imperial aniquilado
+- Uriel V muerto, ningún superviviente confirmado
+- Tamriel nunca volvió a intentar invadir Akavir
+
+## Influencia sobre Tamriel
+
+### Las Lamas
+El legado más duradero de los Tsaesci:
+- Guardias personales del Emperador
+- Katanas y armadura Akaviri
+- Cazadores de dragones
+- Organización secreta tras la Gran Guerra (4E)
+
+### Arquitectura
+La arquitectura akaviri es visible en:
+- **Sky Haven Temple** (Cielos de Hielo) — templo de las Lamas
+- **Cloud Ruler Temple** (Cyrodiil) — fortaleza de las Lamas
+- El estilo "pagoda" de ciertos edificios imperiales
+
+### Combate
+Las tradiciones marciales Akaviri influyeron en:
+- El estilo de combate con hoja curva a una mano
+- Las técnicas de combate de las Lamas
+- La armadura laminar de la Guardia Imperial
+
+## Misterios Sin Resolver
+
+- ¿Son los Tsaesci verdaderas serpientes o simplemente un pueblo con una cultura serpentina?
+- ¿Qué significa "comer" a los humanos — conquista literal o asimilación cultural?
+- ¿Es Tosh Raka realmente un dragón?
+- ¿Qué fue de los últimos dragones de Akavir?
+- ¿Por qué los Tsaesci buscaban específicamente a un Sangre de Dragón?

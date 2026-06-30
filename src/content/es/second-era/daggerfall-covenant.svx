@@ -1,0 +1,88 @@
+---
+title: "La Alianza de Daggerfall"
+slug: "daggerfall-covenant"
+era: "second-era"
+category: "empires"
+tags: ["daggerfall", "alianza", "bretones", "rougegardes", "orcos", "emeric", "high-rock"]
+timelineYear: 567
+summary: "La Alianza de Daggerfall: coalición pragmática entre Bretones, Rougegardes y Orcos para reclamar el trono imperial."
+sources: ["Guía de la Alianza de Daggerfall", "Guía de la Era del Caos", "Memorias del Alto Rey Emeric"]
+---
+
+## Una alianza de pragmatismo
+
+La **Alianza de Daggerfall** (Daggerfall Covenant) fue formada en el año 2E 567, uniendo a tres pueblos del noroeste de **Tamriel**: los **Bretones** de **High Rock**, los **Rougegardes** de **Hammerfell** y los **Orcos** de **Orsinium**. A diferencia del **Pacto de Corazón de Ébano**, nacido de la urgencia militar, o del **Dominio Aldmeri**, motivado por la ideología, la Alianza de Daggerfall era una construcción esencialmente pragmática y comercial.
+
+El cerebro de esta alianza era el **Alto Rey Emeric** de High Rock, un antiguo mercader convertido en rey por matrimonio, cuyo genio residía en la diplomacia y el comercio más que en la guerra. Emeric comprendió que las tres naciones del noroeste, separadas, serían vulnerables frente a las grandes potencias — pero unidas, constituirían un bloque económico y militar capaz de rivalizar con cualquier facción.
+
+## Los Bretones: el corazón político
+
+Los **Bretones** de High Rock formaban el centro político y diplomático de la Alianza. Pueblo de ascendencia mixta — descendiente tanto de los **Nedes** como de los **Direnni**, un linaje élfíco — los Bretones combinaban la ambición humana con una afinidad natural por la magia heredada de su sangre élfica.
+
+La sociedad bretona se caracterizaba por su fragmentación feudal: decenas de reinos, ducados y baronías competían perpetuamente por la influencia y el territorio. Esta división crónica era a la vez la debilidad y la fortaleza de los Bretones — su competencia interna producía una élite política y diplomática extraordinariamente competente.
+
+El Alto Rey **Emeric**, al unificar los reinos bretones bajo una bandera común, logró una hazaña política que pocos habían creído posible. Su alianza con los Rougegardes mediante el matrimonio con la reina **Ra Neza** de Sentinel consolidó esta unificación.
+
+Los Bretones aportaban a la Alianza su red comercial, su sofisticada magia de batalla y su pericia diplomática.
+
+## Los Rougegardes: el poder militar
+
+Los **Rougegardes** de **Hammerfell** constituían el brazo armado de la Alianza. Descendientes de los **Ra Gada** de **Yokuda**, un continente hundido, los Rougegardes eran reconocidos como los mejores espadachines de Tamriel y guerreros de una valentía excepcional.
+
+Su adhesión a la Alianza respondía a preocupaciones de seguridad: Hammerfell estaba amenazada tanto por las ambiciones altmer al sur como por las incursiones nórdicas al norte. La alianza con los Bretones ofrecía una frontera norte asegurada y acceso a las redes comerciales de High Rock.
+
+Los Rougegardes aportaban una infantería formidable, una poderosa tradición marítima y el control de las rutas comerciales meridionales. Su escuela de combate, los **Ansei** o "Santos del Sable", producía guerreros cuyo dominio de la espada rozaba lo sobrenatural.
+
+El matrimonio dinástico entre Emeric y la princesa rougegarde selló la alianza con lazos de sangre, transformando un acuerdo comercial en una unión política duradera.
+
+## Los Orcos: los aliados inesperados
+
+La inclusión de los **Orcos** (Orsimer) en la Alianza fue el elemento más sorprendente y polémico. Pueblo tradicionalmente marginado y perseguido, los Orcos habían visto su reino de **Orsinium** destruido en múltiples ocasiones por coaliciones bretono-rougegarde.
+
+El rey **Kurog gro-Bagrakh** de Orsinium negoció la adhesión de su pueblo a la Alianza a cambio del reconocimiento oficial de Orsinium como nación soberana y del fin de las persecuciones. Para los Orcos, la Alianza representaba una oportunidad histórica de integración y respetabilidad.
+
+Los Orcos aportaban una fuerza bruta incomparable en combate, una excepcional pericia en herrería y una red de fortalezas montañosas estratégicamente ubicadas. Su armadura orca, reconocida por su solidez, equipaba parte de las fuerzas de la Alianza.
+
+Esta inclusión también tenía una dimensión simbólica: demostraba que la Alianza de Daggerfall se definía por los intereses comunes más que por la etnia — en contraste con el Dominio Aldmeri élfíco o el Pacto centrado en los pueblos del nordeste.
+
+## Las motivaciones económicas
+
+Más que cualquier otra facción de la Guerra de las Tres Banderas, la Alianza de Daggerfall estaba motivada por consideraciones económicas. El Alto Rey Emeric, mercader de formación, comprendía que el control del comercio era el verdadero poder.
+
+El **Interregno** que siguió al fin de la dinastía **Reman** había perturbado las rutas comerciales de todo Tamriel. Las guerras permanentes, el bandidaje y la ausencia de autoridad central hacían el comercio peligroso y costoso.
+
+La Alianza buscaba apoderarse del trono imperial de **Cyrodiil** no por ambición imperialista, sino para restaurar la infraestructura comercial del Imperio. Un Imperio estable, bajo control bretón, garantizaría la seguridad de las rutas mercantiles y la prosperidad de la Alianza.
+
+Este mercantilismo asumido distinguía a la Alianza de sus rivales: mientras el Dominio hablaba de sabiduría y el Pacto de defensa, Daggerfall hablaba de oro y comercio.
+
+## La organización militar
+
+El ejército de la Alianza combinaba las fuerzas de las tres naciones en una estructura unificada:
+
+Los **caballeros bretones** formaban una temible caballería pesada, respaldada por magos de batalla formados en las academias de High Rock. La **Guardia del León**, fuerza de élite de Emeric, constituía el núcleo del mando.
+
+La **infantería rougegarde** era la mejor de Tamriel en combate cuerpo a cuerpo. Los guerreros de Hammerfell combinaban velocidad, técnica y resistencia en un estilo de combate que desconcertaba las tácticas convencionales.
+
+Los **berserkers orcos** servían como tropas de choque, rompiendo las líneas enemigas por la fuerza bruta. Su capacidad para entrar en frenesí de batalla los hacía aterradores en el campo de batalla.
+
+La **marina** de la Alianza, principalmente rougegarde, dominaba la Bahía de Iliac y los mares occidentales, asegurando la logística y proyectando el poder naval.
+
+## Las debilidades internas
+
+A pesar de su pragmatismo, la Alianza de Daggerfall adolecía de importantes debilidades estructurales:
+
+La **rivalidad feudal bretona** nunca desapareció del todo. Algunos nobles bretones consideraban a Emeric un advenedizo mercader y conspiraban constantemente para acrecentar su propio poder.
+
+La **desconfianza hacia los Orcos** persistía en la población bretona y rougegarde. Siglos de conflictos no se borran con un tratado, y los incidentes racistas eran frecuentes.
+
+Las **diferencias culturales** entre los tres pueblos creaban fricciones constantes. Los Bretones eran políticos y comerciantes, los Rougegardes guerreros de honor, los Orcos supervivientes pragmáticos — estas mentalidades chocaban con frecuencia.
+
+## El legado de la Alianza
+
+La Alianza de Daggerfall no sobrevivió al fin de la Guerra de las Tres Banderas, pero su legado perduró de maneras significativas:
+
+La **Bahía de Iliac** seguiría siendo un espacio de comercio y rivalidad entre Bretones y Rougegardes durante eras, culminando con los eventos del **Warp in the West** durante la Tercera Era.
+
+**Orsinium** continuaría su precaria existencia, alternando entre el reconocimiento y la destrucción, hasta su reubicación en High Rock y su incierto estatus durante la Cuarta Era.
+
+La idea de que una alianza podía trascender los odios raciales a través del interés común influyó en la diplomacia tamriélica durante siglos, aunque esta lección fue a menudo olvidada.

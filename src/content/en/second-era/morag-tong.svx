@@ -1,0 +1,116 @@
+---
+title: "The Morag Tong"
+slug: "morag-tong"
+era: "second-era"
+category: "guildes"
+tags: ["morag-tong", "mephala", "morrowind", "assassins", "dark-brotherhood", "dunmer", "legal-executions"]
+timelineYear: 324
+summary: "A guild of legal assassins in Morrowind sanctioned by the cult of Mephala, the Morag Tong has operated through official writs of execution for millennia."
+sources: ["UESP: Morag Tong", "Fire and Darkness", "ESO Lore", "The Brothers of Darkness"]
+---
+
+## Nature and Philosophy
+
+The **Morag Tong** (literally "Ancestor Guild" in Dunmeris) is the oldest known assassins' guild in Tamriel. Unlike common murderers, members of the Morag Tong practice **legally sanctioned killing** — a concept unique to the Dunmer culture of Morrowind.
+
+Their philosophy rests on a paradoxical principle: targeted killing prevents war. By eliminating specific individuals under legal contracts, the Morag Tong averts large-scale conflicts between the Great Houses of Morrowind.
+
+## Origins and Daedric Patron
+
+### Mephala, the Webspinner
+
+The Morag Tong venerates **Mephala**, the Daedric Prince of secrets, murder, and intrigue. In the Dunmer pantheon, Mephala is one of the three "Good Daedra" (alongside Azura and Boethiah), in contrast to the four "Bad Daedra."
+
+Mephala taught the Chimer (ancestors of the Dunmer) the art of murder as a political tool. For the Morag Tong, killing is not a sin but a **sacred act** — an offering to the Webspinner who maintains the balance of intrigue.
+
+### Antiquity
+
+The exact origins of the Morag Tong are lost to the mists of time. Some sources suggest it already existed during the **Merethic Era**, long before Morrowind itself was founded. The guild predates all current Dunmer political institutions.
+
+## Writs of Execution
+
+### Legal Framework
+
+The system of **writs** (*writs of execution*) lies at the heart of the Morag Tong's operations:
+
+1. A patron (typically a noble or a House lord) files a request
+2. The **Guild Master** evaluates the legitimacy of the request
+3. An official writ is drawn up, bearing the Morag Tong's seal
+4. An assassin is assigned to the contract
+5. After the execution, the assassin **presents the writ** to the authorities
+
+### Legal Immunity
+
+The crucial point: a Morag Tong assassin carrying a valid writ **cannot be prosecuted** for murder in Morrowind. If arrested, they present the writ and are immediately released. This system is recognized by:
+
+- The Tribunal (before its fall)
+- The Great Houses
+- Imperial authorities (reluctantly, during the occupation)
+
+### Strict Rules
+
+The Morag Tong enforces strict rules upon its members:
+
+- **No collateral victims** — Only the named target may be killed
+- **No eliminating witnesses** — Absolute discretion, or accept responsibility for the killing
+- **No personal contracts** — The assassin never chooses their target
+- **Obedience to the Guild Master** — Insubordination is punished by death
+
+## Organization
+
+### Hierarchical Structure
+
+| Rank | Function |
+|------|----------|
+| Guild Master | Supreme leader, interpreter of Mephala's will |
+| Master Executor | Regional supervisor |
+| Dark Witness | Elite assassin |
+| Shroud | Confirmed member |
+| Finisher | Practitioner |
+| Associate | New member |
+
+### Places of Operation
+
+The Morag Tong operates primarily in Morrowind, with concealed headquarters in:
+
+- **Vivec** — The main headquarters (before the city's destruction)
+- **Ald'ruhn** — Beneath the shell of the Emperor Crab
+- **Sadrith Mora** — Among the mushroom towers of the Telvanni
+- **Balmora** — In the lower quarters of the city
+
+## Rivalry with the Dark Brotherhood
+
+### The Schism
+
+The **Dark Brotherhood** was born from a **schism** within the Morag Tong during the Second Era. A group of dissidents rejected the authority of Mephala and turned instead to **Sithis** and the **Night Mother**.
+
+### Fundamental Differences
+
+| Aspect | Morag Tong | Dark Brotherhood |
+|--------|-----------|-----------------|
+| Patron | Mephala | Sithis / Night Mother |
+| Legality | Legal in Morrowind | Illegal everywhere |
+| Contracts | Official writs | Prayer to the Black Sacrament |
+| Reach | Morrowind only | All of Tamriel |
+| Collateral victims | Forbidden | Tolerated |
+| Philosophy | Political tool | Death cult |
+
+### The Shadow War
+
+The Morag Tong regards the Dark Brotherhood as a **heresy** and a perversion of their sacred art. For centuries, the two organizations waged a covert war, each attempting to eliminate the other's leadership.
+
+In **2E 324**, the Morag Tong was briefly outlawed throughout the Empire following the assassination of Potentate Versidue-Shaie — an act attributed (perhaps falsely) to the guild. This ban favored the Dark Brotherhood's expansion into other provinces.
+
+## Decline and Survival
+
+### The Catastrophes of Morrowind
+
+The Morag Tong suffered considerable losses during the catastrophes of the Fourth Era:
+
+- The **Red Year** (4E 5) — The eruption of Red Mountain devastated Vvardenfell
+- The **Argonian invasion** — Former slaves invaded southern Morrowind
+- The fall of the Tribunal — The loss of theocratic support
+
+### Persistence
+
+Despite these trials, the Morag Tong has never been officially dissolved. Rumors persist of assassins still carrying writs of Mephala amid the ruins of Morrowind, keeping alive a tradition thousands of years old. As long as the Great Houses scheme, the Webspinner will need her blades.

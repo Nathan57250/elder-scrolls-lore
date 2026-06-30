@@ -1,0 +1,98 @@
+---
+title: "El Templo del Tribunal — Institución y Dogma"
+slug: "temple-du-tribunal"
+era: "second-era"
+category: "religion"
+tags: ["templo", "tribunal", "morrowind", "ordinadores", "santos", "anticipaciones", "nuevo-templo"]
+timelineYear: 700
+summary: "La organización religiosa del Templo del Tribunal: su jerarquía, sus dogmas, sus santos y su transformación en el Nuevo Templo tras la caída de los dioses vivientes."
+sources: ["UESP: Tribunal Temple", "The Imperial Library: Temple Doctrine", "TES III: Morrowind — Temple Quests"]
+---
+
+# El Templo del Tribunal — Institución y Dogma
+
+El **Templo del Tribunal** fue la institución religiosa dominante de **Morrowind** durante más de tres mil años — desde la ascensión de **Vivec**, **Almalexia** y **Sotha Sil** al rango de dioses vivientes hasta su caída en 3E 427. Más que un simple culto, el Templo estructuraba toda la sociedad dunmer: política, justicia, educación y moral eran inseparables de la doctrina de los Tres.
+
+## Jerarquía
+
+### Estructura organizativa
+
+- **Los Tres**: Vivec, Almalexia y Sotha Sil — dioses vivientes y autoridad suprema
+- **El Patriarca** (Archcanon): jefe administrativo del clero, interlocutor entre los mortales y los Tres
+- **Los Ordenadores**: brazo armado del Templo, inquisidores encargados de eliminar la herejía
+- **Los Cánones**: teólogos y jueces eclesiásticos
+- **Los Sacerdotes**: servidores de los templos locales en cada ciudad
+- **Los Peregrinos**: fieles que realizan el circuito de los santuarios
+
+### Los Ordenadores
+
+Los **Ordenadores** merecen una atención especial. Auténticos inquisidores, estaban encargados de:
+- Rastrear y castigar a los herejes (especialmente a los Cenizantes y los Sacerdotes Disidentes)
+- Eliminar a los nigromantes y adoradores daédricos
+- Proteger las reliquias sagradas del Templo
+- Mantener el orden moral entre los fieles
+
+Su poder superaba al de las autoridades seculares — un Ordenador podía arrestar y juzgar a cualquiera, noble o plebeyo.
+
+## Dogma
+
+### La Doctrina de las Anticipaciones
+
+El Templo enseñaba que los tres Príncipes Daédricos que los **Chimer** veneraban en otro tiempo — **Azura**, **Boethiah** y **Mephala** — eran "Anticipaciones" de los Tres: prefiguraciones imperfectas de los verdaderos dioses por venir.
+
+- **Azura** anticipaba a **Sotha Sil** (misterio, profecía)
+- **Boethiah** anticipaba a **Almalexia** (combate, cambio)
+- **Mephala** anticipaba a **Vivec** (dualidad, secretos)
+
+Esta doctrina permitía reinterpretar la antigua religión chimer como una mera etapa hacia la revelación de los "verdaderos" dioses, neutralizando elegantemente la memoria del culto ancestral.
+
+### Los Cuatro Rincones de la Casa de los Problemas
+
+El Templo reconocía cuatro Daedra especialmente peligrosos — los "Rincones de la Casa de los Problemas":
+- **Molag Bal**: el Rey de la Violación, enemigo jurado
+- **Malacath**: el Dios Excremento, patrón de los proscritos
+- **Sheogorath**: el Dios Loco, la locura encarnada
+- **Mehrunes Dagon**: el Príncipe de la Destrucción
+
+## Los Santos del Templo
+
+El Templo veneraba a numerosos santos mortales:
+
+- **San Nerevar**: el héroe fundador (irónicamente, el Templo negaba su profecía de retorno)
+- **San Veloth**: el profeta que guió a los Chimer fuera de Aldmeris
+- **San Jiub**: el exterminador de cliff racers en Vvardenfell
+- **San Olms**: patrón de los pescadores y marineros
+- **San Delyn**: patrón de los alfareros y artesanos
+- **San Felms**: patrón de los carniceros y cazadores
+
+Cada gran ciudad poseía un cantón o barrio dedicado a un santo patrón.
+
+## Conflicto con los Cenizantes
+
+### La persecución
+
+Las tribus **Cenizantes** (Ashlanders) preservaban la memoria de la antigua religión chimer y la **Profecía del Nerevarino**. El Templo las consideraba herejes primitivos y las perseguía activamente:
+
+- Destrucción de los campamentos cenizantes demasiado cercanos a las ciudades
+- Arresto de las Mujeres Sabias que difundían las profecías prohibidas
+- Prohibición de los textos cenizantes en todas las bibliotecas del Templo
+
+### Los Sacerdotes Disidentes
+
+En el seno mismo del Templo, algunos miembros del clero pusieron en cuestión la doctrina oficial. Estos **Sacerdotes Disidentes** estudiaban en secreto los textos cenizantes y acumulaban pruebas de que el Tribunal había traicionado efectivamente a Nerevar. Fueron perseguidos por los Ordenadores pero sobrevivieron en la clandestinidad.
+
+## Caída y transformación
+
+### El colapso
+
+La destrucción del **Corazón de Lorkhan** en 3E 427 privó al Tribunal de su fuente divina. Los Tres perdieron progresivamente sus poderes. Almalexia se hundió en la locura y asesinó a Sotha Sil antes de ser ella misma eliminada. Vivec desapareció misteriosamente. El Templo, desprovisto de sus dioses, se derrumbó.
+
+### El Nuevo Templo
+
+Tras el **Año Rojo** (4E 5), los Dunmer reformaron su religión. El **Nuevo Templo**:
+- Reconoció las "Reivindicaciones" cenizantes como legítimas
+- Restauró el culto a las Tres Buenas Daedra (Azura, Boethiah, Mephala)
+- Veneró al Tribunal como santos mortales que habían cometido errores, no como dioses
+- Canonizó al Nerevarino como libertador
+
+Esta transformación representó un retorno a las raíces espirituales chimer tras tres milenios de doctrina impuesta por dioses vivientes caídos.

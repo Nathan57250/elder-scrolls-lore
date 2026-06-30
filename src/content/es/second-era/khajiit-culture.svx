@@ -1,0 +1,77 @@
+---
+title: "La Cultura Khajiit"
+slug: "culture-khajiit"
+era: "second-era"
+category: "races"
+tags: ["khajiit", "furstocks", "criniera", "azucar-lunar", "skooma", "riddle-thar"]
+timelineYear: 309
+summary: "Estudio en profundidad de la cultura khajiit, desde las diecisiete morfologías lunares hasta las tradiciones espirituales del Riddle'Thar y el papel sagrado de la Criniera."
+sources: ["Words of Clan Mother Ahnissi", "Erta's Report on the Khajiit", "The Moon Cats and their Dance", "Ahzirr Traajijazeri"]
+---
+
+# La Cultura Khajiit
+
+## Un Pueblo Forjado por las Lunas
+
+Los Khajiit de Elsweyr constituyen una de las civilizaciones más fascinantes y más incomprendidas de Tamriel. Pueblo felino con orígenes vinculados a los Bosmer a través del ancestro común Nirni, los Khajiit se diferencian de todas las demás razas por una característica única: su morfología física está completamente determinada por las fases de las dos lunas de Nirn — Masser (Jone) y Secunda (Jode) — en el momento de su nacimiento.
+
+Esta relación entre las lunas y la forma física no es ni metafórica ni supersticiosa. Constituye el fundamento biológico, espiritual y cultural de toda la sociedad khajiit. Los Khajiit llaman a este sistema el **Enrejado Lunar** (Lunar Lattice), una red de fuerzas cósmicas que une a su pueblo a los ritmos celestiales.
+
+## Los Furstocks: Diecisiete Formas
+
+El término **Furstock** designa cada una de las morfologías posibles para un Khajiit. La tradición reconoce diecisiete, aunque algunas son tan raras que no han sido observadas en generaciones:
+
+**Formas cuadrúpedas:**
+- **Alfiq** — parecido a un gato doméstico corriente, pero dotado de habla e inteligencia plena. A menudo subestimados, los Alfiq son formidables magos.
+- **Alfiq-raht** — ligeramente más grande que el Alfiq, del tamaño de un gran gato salvaje.
+- **Senche** — un felino masivo del tamaño de un caballo, a veces utilizado como montura por otros Khajiit.
+- **Senche-raht** — el más grande de los Furstocks cuadrúpedos, que rivaliza en tamaño con un mamut.
+
+**Formas bípedas:**
+- **Suthay-raht** — la forma más comúnmente encontrada fuera de Elsweyr, digitígrada con pelaje completo y cola.
+- **Cathay** — bípedo de tamaño humano, más robusto que el Suthay-raht.
+- **Cathay-raht** — también llamado "hombre-jaguar", imponente y poderosamente musculado.
+- **Ohmes** — casi indistinguible de un Bosmer, sin pelaje visible ni cola aparente.
+- **Ohmes-raht** — similar al Ohmes pero conservando un pelaje ligero y rasgos más felinos.
+- **Tojay** y **Tojay-raht** — formas misteriosas raramente documentadas, asociadas a regiones boscosas.
+- **Dagi** y **Dagi-raht** — pequeños y ágiles, adaptados a la vida arborícola en los bosques de Tenmar.
+- **Pahmar** y **Pahmar-raht** — parecidos a grandes felinos bípedos, poderosos guerreros.
+
+La **Criniera** (Mane) y las **Lunas muertas** (Moons die) constituyen casos especiales, ligados a configuraciones lunares excepcionales.
+
+## La Criniera (The Mane)
+
+La **Criniera** es la dirigente espiritual de todos los Khajiit, nacida únicamente cuando las dos lunas se alinean de una manera extraordinariamente rara. Nunca hay más de una Criniera viva al mismo tiempo. No es un rey en el sentido político — es una encarnación viva de la voluntad lunar, un ser cuya propia existencia une al pueblo khajiit con las fuerzas celestiales.
+
+Tradicionalmente, la Criniera nunca camina: es transportada por sirvientes devotos. Su cabello — o más exactamente, su melena — está trenzado con los mechones ofrecidos por cada Khajiit que la visita, simbolizando la unidad de todo el pueblo. Con el tiempo, esta melena se vuelve tan voluminosa y pesada que requiere varios portadores.
+
+El papel de la Criniera es el de unificador, mediador entre los clanes a menudo rivales de Elsweyr, y guardián de las tradiciones espirituales ancestrales.
+
+## El Azúcar Lunar y el Skooma
+
+El **Azúcar Lunar** (Moon Sugar) es mucho más que una simple droga a los ojos de los Khajiit. Esta sustancia cristalina, cosechada en los campos de caña de azúcar de Elsweyr, es considerada el "sudor cristalizado" de las propias dos lunas. Su consumo forma parte integrante de la cocina, la medicina y la espiritualidad khajiit.
+
+Para los Khajiit, el Azúcar Lunar es un sacramento que refuerza su conexión con el Enrejado Lunar. Su prohibición en las demás provincias de Tamriel se percibe como una profunda incomprensión cultural, incluso como una forma de opresión imperial.
+
+El **Skooma**, en cambio, es una destilación concentrada y alterada del Azúcar Lunar. Incluso dentro de la sociedad khajiit, el Skooma es considerado con ambivalencia — reconocido como peligroso y adictivo, sigue presente en ciertos rituales y su prohibición total nunca ha alcanzado consenso.
+
+## El Riddle'Thar
+
+La **Epifanía del Riddle'Thar**, ocurrida en 2E 309 bajo la dirección de la Criniera Rid-Thar-ri'Datta, constituyó una revolución teológica de primer orden. Esta reforma religiosa unificó los dos reinos khajiit — Anequina al norte y Pellitine al sur — bajo un mismo marco espiritual.
+
+El Riddle'Thar (literalmente "el Azúcar Oculto" o "el Enigma") estableció un nuevo paradigma:
+
+- Los antiguos cultos de los dioses individuales fueron subordinados a una cosmología unificada
+- Las fases lunares se convirtieron en el calendario ritual oficial de todo el pueblo
+- La jerarquía religiosa fue reestructurada en torno a las Madres de Clan
+- Un código moral basado en el equilibrio y la moderación sustituyó a las antiguas tradiciones guerreras
+
+El Riddle'Thar no es un dios sino un concepto — la idea de que la verdad espiritual es un misterio que cada Khajiit debe resolver individualmente, guiado por las lunas y las enseñanzas de las Madres de Clan.
+
+## El Enrejado Lunar (Lunar Lattice)
+
+El **Enrejado Lunar** designa la red de fuerzas cósmicas que une a Jone y Jode con los Khajiit. Según la teología khajiit, este enrejado fue creado por Azurah (su nombre para Azura) cuando dio forma a los primeros Khajiit a partir de los Bosmer originales, otorgándoles la capacidad de cambiar de forma según las lunas.
+
+No es solo un concepto religioso: el Enrejado tiene efectos mensurables. Los Khajiit sienten físicamente los eclipses lunares, y la desaparición temporal de las lunas durante las Noches del Vacío provocó un pánico existencial en todo Elsweyr — un trauma que fue explotado por el Thalmor para atraer a los Khajiit al Dominio Aldmeri.
+
+El Enrejado Lunar representa así el vínculo indisoluble entre los Khajiit, su tierra, sus lunas y su propia identidad — un vínculo que ninguna otra raza de Tamriel puede comprender verdaderamente.

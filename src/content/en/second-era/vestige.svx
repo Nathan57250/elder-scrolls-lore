@@ -1,0 +1,60 @@
+---
+title: "The Vestige"
+slug: "vestige"
+era: "second-era"
+category: "personnages"
+tags: ["vestige", "eso", "molag-bal", "planemeld", "soul-shriven", "meridia", "hero", "abnur-tharn"]
+timelineYear: 582
+summary: "The Vestige, the soulless hero of Elder Scrolls Online, whose sacrifice and resurrection allowed them to defy Molag Bal and end the Planemeld."
+sources: ["ESO Main Quest", "The Coldharbour Compact", "Chateau of the Ravenous Rodent", "Chronicles of the Five Companions"]
+---
+
+## A hero without a soul
+
+The **Vestige** is the name given to the central hero of the events of 2E 582 — an individual whose soul was torn away by **Molag Bal** during a ritual sacrifice orchestrated by **Mannimarco**, the King of Worms. This extraction of the soul, far from destroying the Vestige, transformed them into something unique: a mortal being capable of dying and returning indefinitely, freed from the normal cycle of life and death.
+
+The term "Vestige" refers precisely to this condition: what remains of a being after their fundamental essence — their soul — has been removed. The body persists, consciousness persists, but the connection to the cycle of life and death is severed. The Vestige exists in a liminal state — neither fully alive nor fully dead — which grants them extraordinary capabilities.
+
+## The sacrifice and resurrection
+
+Before becoming the Vestige, the hero was an ordinary prisoner — a mortal whose previous identity varies across accounts. Captured by agents of Mannimarco and sacrificed to **Molag Bal** in a ritual at Coldharbour, they died upon a sacrificial altar, their soul drawn into the Oblivion realm of the Prince of Domination.
+
+Their resurrection in the cells of **Coldharbour** marked the beginning of their quest. Freed by a mysterious being — the **Prophet**, a blind old man whose identity was revealed to be that of Emperor **Varen Aquilarios** — the Vestige had to escape from the Oblivion plane itself to return to Tamriel, a feat accomplished by very few mortals.
+
+## The Five Companions
+
+The Vestige allied with the survivors of the **Five Companions** — a group that had once attempted to relight the Dragonfires to legitimize **Varen Aquilarios**'s reign as Emperor. This attempt, sabotaged by Mannimarco, had provoked the **Soulburst** — a magical cataclysm that shattered the barriers between Nirn and Oblivion, making the Planemeld possible.
+
+The Five Companions included **Varen Aquilarios** (the blind Prophet), **Lyris Titanborn** (a half-giant warrior), **Sai Sahan** (a Redguard master-at-arms and guardian of the Amulet of Kings), **Abnur Tharn** (the cynical but brilliant Imperial Chancellor), and the traitor **Mannimarco** himself. The Vestige became their indispensable ally — the only one capable of physically entering Coldharbour and returning.
+
+## Conditional immortality
+
+The Vestige's "soulless" condition granted them a form of operational immortality. Each death merely sent their consciousness back to Coldharbour, from where they could regenerate and return. This ability made them the ideal warrior against the forces of Molag Bal — a soldier who could not be permanently eliminated.
+
+However, this immortality came at a cost. The absence of a soul created an inner void — a fundamental incompleteness that the Vestige carried with them at all times. The quest to recover their soul was as personal as it was political: without it, they could never know true rest nor access an afterlife upon death.
+
+## The role in the Planemeld
+
+The Vestige became the spearhead of the resistance against the **Planemeld** — Molag Bal's attempt to merge Coldharbour with Nirn. Where mortal armies could only fight the **Dark Anchors** at the surface, the Vestige could strike at the very heart of the Oblivion plane, sabotaging Molag Bal's operations from within.
+
+Their unique ability to cross the planes without dying permanently allowed them to conduct missions in Coldharbour that no other mortal could accomplish. They destroyed Anchor generators, freed captive souls, and systematically undermined the infrastructure of the Planemeld from within the bowels of the enemy plane.
+
+## The alliance with Meridia
+
+For the final assault on Molag Bal, the Vestige received aid from an unlikely ally: **Meridia**, the Daedric Princess of Light and sworn enemy of the undead and of Molag Bal. Meridia, whose hatred for the Prince of Domination is legendary, lent her divine power to the Vestige in the form of the **Light of Meridia** — a power capable of directly challenging Molag Bal's authority within his own realm.
+
+This alliance between a soulless mortal and a Daedric Princess against another Prince illustrates the complexity of alignments in the Elder Scrolls universe — the Princes are neither entirely good nor entirely evil, but pursue their own agendas in which mortals serve as instruments.
+
+## The confrontation with Molag Bal
+
+The final confrontation between the Vestige and **Molag Bal** took place in the depths of Coldharbour. Empowered by Meridia's strength and aided by the surviving Five Companions, the Vestige faced the Daedric Prince himself — an act of immeasurable audacity, a mortal defying a god within his own plane of existence.
+
+The Vestige's victory — made possible by the sacrifice of one of the Companions and by the combined power of Meridia — ended the Planemeld and broke Molag Bal's grip on Nirn. The Prince was not destroyed (Daedric Princes are, by their nature, indestructible) but defeated and forced to withdraw, his invasion plan shattered.
+
+## The restoration of the soul
+
+After Molag Bal's defeat, the Vestige finally recovered their soul — restored to wholeness, freed from the curse of forced immortality. This moment marked the end of their "vestige" condition and their return to a fully mortal existence, with all that this implied: the ability to age, to die permanently, but also to truly live.
+
+## Legacy of the Vestige
+
+The Vestige embodies a recurring theme in the history of Tamriel: the prisoner turned hero. Like the **Nerevarine**, the **Champion of Cyrodiil**, and the **Dragonborn** after them, the Vestige was an unknown — a being with no notable past or apparent destiny — who was transformed by circumstances into a savior of the world. Their particularity lay in their unique condition: a hero literally incomplete, fighting not only for the world but for their own wholeness.

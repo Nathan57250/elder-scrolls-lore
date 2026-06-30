@@ -1,0 +1,98 @@
+---
+title: "El Gremio de Guerreros"
+slug: "guilde-des-guerriers"
+era: "second-era"
+category: "guildes"
+tags: ["gremio-de-guerreros", "mercenarios", "combate", "contratos", "gremios-imperiales"]
+timelineYear: 321
+summary: "El Gremio de Guerreros es una organización de mercenarios legales que opera bajo carta imperial, ofreciendo trabajos de protección, exterminación y recuperación en todo Tamriel."
+sources: ["UESP: Fighters Guild", "The Imperial Library: History of the Fighters Guild", "Charter of the Fighters Guild"]
+---
+
+## Fundación
+
+El **Gremio de Guerreros** fue fundado en 2E 321 por el **Potentado Akaviri Versidue-Shaie** como parte de sus reformas de gremios imperiales. Creado como alternativa legal al mercenariado no regulado, ofrecía:
+- Un marco legal para los combatientes independientes
+- Contratos verificados y garantizados
+- Protección jurídica para sus miembros
+- Formación y recursos compartidos
+
+## Estructura
+
+### Jerarquía
+| Rango | Responsabilidad |
+|-------|----------------|
+| Maestro del Gremio | Dirección suprema, nombramientos |
+| Campeón | Mando operacional regional |
+| Maestro de Armas | Formación, evaluación |
+| Guardián | Jefe de un salón local |
+| Protector | Miembros confirmados |
+| Guerrero | Miembros estándar |
+| Asociado | Reclutas |
+
+### Organización
+- Salas del gremio en cada ciudad importante
+- Autonomía local bajo carta imperial
+- Contratos expuestos públicamente
+- Remuneración fija según dificultad
+
+## Tipos de Contratos
+
+El Gremio acepta:
+- **Exterminación** — limpieza de criaturas (ratas, trolls, vampiros, bandidos)
+- **Escolta** — protección de caravanas y viajeros
+- **Recuperación** — objetos perdidos en zonas peligrosas
+- **Guardia** — protección de lugares o personas
+- **Exploración** — limpieza de ruinas, cuevas y fuertes abandonados
+
+El Gremio **rechaza**:
+- El asesinato
+- La intimidación
+- El combate entre gremios (salvo circunstancias excepcionales)
+- Los contratos ilegales
+
+## A lo Largo de las Eras
+
+### Segunda Era (ESO)
+- Muy activo durante el Interregno
+- Corrompido por el nigromante Molag Bal a través del Culto del Gusano
+- Reformado por el Vestigio
+- Lucha de influencia con el Culto del Gusano
+
+### Tercera Era
+- Presencia en todas las provincias imperiales
+- En Morrowind: competencia con las Grandes Casas (que tienen sus propios guerreros)
+- En Cyrodiil: sala principal en cada ciudad
+- Rivalidad creciente con la Hermandad Oscura (que invade el "mercado de la violencia")
+
+### Cuarta Era
+- Debilitado por el colapso del Imperio
+- En Cielos de Hielo: sustituido por los **Compañeros** (estructura similar pero de raíz nórdica)
+- Sobrevive en otras provincias con menor influencia
+
+## Código de Honor
+
+Reglas fundamentales:
+1. Nunca abandonar un contrato aceptado (salvo inmoralidad probada)
+2. No robar a los miembros del Gremio
+3. No matar sin justificación contractual
+4. Obedecer las órdenes de los superiores en misión
+5. Repartir los beneficios según los términos del contrato
+
+## Diferencias con los Compañeros
+
+| Aspecto | Gremio de Guerreros | Compañeros |
+|---------|---------------------|------------|
+| Estructura | Jerarquía formal | Informal |
+| Carta | Imperial | Ninguna |
+| Alcance | Todo Tamriel | Solo Cielos de Hielo |
+| Motivación | Beneficio | Honor |
+| Especialidad | Mercenariado general | Combate heroico |
+| Religión | Laico | Shor / tradiciones nórdicas |
+
+## Rivales y Enemigos
+
+- **Hermandad Oscura** — asesinos ilegales
+- **Camonna Tong** — crimen organizado en Morrowind
+- **Bandidos** — objetivos y competidores
+- **Culto del Gusano** (Orden del Gusano Negro) — infiltración nigromántica

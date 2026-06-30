@@ -1,0 +1,57 @@
+---
+title: "Vanus Galerion"
+slug: "vanus-galerion"
+era: "second-era"
+category: "personnages"
+tags: ["gremio-de-magos", "mannimarco", "magia", "artaeum", "psijico", "nigromancia"]
+timelineYear: 230
+summary: "Vanus Galerion, fundador del Gremio de Magos, democratizó el acceso a la magia y encabezó una cruzada contra su antiguo condiscípulo Mannimarco, el Rey de los Gusanos."
+sources: ["Origin of the Mages Guild", "Mannimarco, King of Worms", "Guild Mages' History", "The Elder Scrolls Online"]
+---
+
+# Vanus Galerion — El Demócrata de la Magia
+
+## Los Orígenes en Artaeum
+
+Nacido con el nombre de **Trechtus** en una familia de sirvientes del archipiélago de Summerset, quien llegaría a ser Vanus Galerion manifestó aptitudes mágicas excepcionales desde muy temprana edad. Su talento en bruto atrajo la atención de la Orden Psijica — la hermandad de magos más antigua y secreta de Tamriel —, que lo acogió en su misteriosa isla de Artaeum.
+
+En Artaeum, el joven Trechtus — que adoptó el nombre de Vanus Galerion — recibió una educación mágica de calidad incomparable. Pero fue también allí donde conoció al hombre que se convertiría en su némesis eterna: **Mannimarco**, un altmer brillante pero carente de escrúpulos morales, fascinado por las artes prohibidas de la nigromancia.
+
+## La Ruptura con Mannimarco
+
+La relación entre Galerion y Mannimarco ilustra a la perfección la dualidad fundamental de la magia — su potencial tanto para el bien como para la corrupción. Mientras que Galerion veía en las artes arcanicas un medio para elevar a la humanidad, Mannimarco buscaba en ellas el dominio sobre la muerte misma.
+
+Cuando Galerion descubrió los experimentos nigrománticos de Mannimarco — que profanaba a los muertos y esclavizaba almas —, lo denunció ante los maestros de la Orden Psijica. La expulsión de Mannimarco de Artaeum marcó el inicio de una enemistad que atravesaría las eras. El futuro Rey de los Gusanos jamás perdonó esa traición, y Galerion nunca cesó de perseguirlo.
+
+## La Fundación del Gremio de Magos
+
+La contribución más revolucionaria de Galerion a la historia de Tamriel fue sin duda la creación del **Gremio de Magos** en 2E 230. Su filosofía era radicalmente simple: la magia no debía ser el privilegio exclusivo de una élite encerrada en sus torres de marfil. Debía ser accesible para quien poseyera el talento y la voluntad de aprenderla.
+
+Esta visión se topó con una resistencia feroz. La Orden Psijica consideraba esta democratización peligrosa e irresponsable. Los nobles de Summerset veían con malos ojos la posibilidad de que los plebeyos accedieran al poder arcano. Pero Galerion perseveró, estableciendo salas del gremio por todo Tamriel y ofreciendo formación y empleo a magos de toda procedencia.
+
+## Principios y Organización
+
+El Gremio de Magos tal como lo concibió Galerion se sustentaba en varios principios fundamentales:
+
+- **Acceso universal**: Cualquier individuo con aptitudes mágicas podía unirse al gremio, independientemente de su raza, rango social o riqueza.
+- **Responsabilidad**: Los magos del gremio estaban sometidos a un código ético estricto que prohibía el uso de la nigromancia y otras prácticas consideradas peligrosas.
+- **Servicio público**: El gremio ofrecía sus servicios a las comunidades locales — encantamientos, alquimia, curación — haciendo que la magia fuera útil en la vida cotidiana.
+- **Investigación regulada**: El estudio de las artes arcanicas debía realizarse en un marco reglamentado, minimizando los riesgos de accidentes o desvíos.
+
+Esta estructura permitió que la magia se integrara en el tejido social de Tamriel de una manera sin precedentes.
+
+## La Guerra Contra el Rey de los Gusanos
+
+El conflicto entre Galerion y Mannimarco alcanzó su punto álgido cuando este último, convertido ya en el temido **Rey de los Gusanos**, constituyó una orden de nigromantes suficientemente poderosa como para amenazar el propio equilibrio de Tamriel. Galerion reunió un ejército de magos del gremio y marchó contra las fuerzas de Mannimarco en lo que resultó ser uno de los enfrentamientos mágicos más devastadores de la historia.
+
+La batalla fue apocalíptica. Las crónicas relatan que el cielo se rasgó y la tierra misma aulló bajo el impacto de los hechizos intercambiados. Cientos de magos murieron en ambos bandos. En el centro de la refriega, Galerion y Mannimarco se enfrentaron directamente en un duelo que sacudió los cimientos mismos de la realidad.
+
+## La Muerte y el Sacrificio
+
+Vanus Galerion encontró la muerte en esa batalla final contra Mannimarco. Aunque logró infligir daños considerables a las fuerzas nigrománticas, el precio fue su propia vida. Su sacrificio no destruyó definitivamente a Mannimarco — cuya naturaleza se había vuelto parcialmente divina —, pero debilitó suficientemente la Orden del Gusano para proteger a Tamriel durante generaciones.
+
+La muerte de Galerion transformó al fundador en mártir y aseguró la perduración de su obra. El Gremio de Magos perduró durante siglos tras su desaparición, convirtiéndose en una de las instituciones más influyentes del Imperio.
+
+## Legado Duradero
+
+El legado de Vanus Galerion va mucho más allá de la simple fundación de una institución. Encarna una visión de la magia como fuerza democrática y civilizadora, accesible para todos y al servicio de la sociedad. En un mundo donde el poder arcano puede corromper con tanta facilidad como puede elevar, Galerion representa el ideal del mago responsable — poderoso pero ético, sabio pero humilde, y dispuesto a morir por sus convicciones.

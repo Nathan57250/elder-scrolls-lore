@@ -1,0 +1,56 @@
+---
+title: "Las Islas Summerset"
+slug: "summerset-isles"
+era: "second-era"
+category: "lieux"
+tags: ["summerset", "altmer", "altos-elfos", "crystal-tower", "alinor", "thalmor", "artaeum"]
+timelineYear: 100
+summary: "Las Islas Summerset, patria ancestral de los Altmer, sede de la Torre de Cristal y de una civilización élfica milenaria de sofisticación sin igual."
+sources: ["Pocket Guide to the Empire: The Summerset Isles", "Rising Threat", "Before the Ages of Man", "The Crystal Tower"]
+---
+
+## El Archipiélago de los Altos Elfos
+
+Las **Islas Summerset** (también conocidas como Alinor desde la Cuarta Era) forman un archipiélago situado al suroeste de Tamriel, en las aguas del océano Eltheric. Compuesto por dos islas principales — **Summerset** propiamente dicha y **Auridon** — así como varios islotes menores, el archipiélago constituye la patria ancestral de los **Altmer** (Altos Elfos) y la cuna de la civilización élfica en Tamriel.
+
+El paisaje de las Islas Summerset es famoso por su belleza sobrenatural: costas de cristal dorado, bosques con follaje iridiscente, praderas perfectas donde ninguna brizna de hierba crece torcida, y ciudades cuya arquitectura desafía las leyes de la física. Todo en el archipiélago refleja la búsqueda altmer de la perfección absoluta.
+
+## Alinor, la Ciudad Radiante
+
+**Alinor**, la capital del archipiélago, es descrita por los escasos viajeros extranjeros autorizados a contemplarla como una ciudad de esplendor indescriptible. Sus torres se elevan tan alto que parecen perforar las nubes, construidas con materiales cuya naturaleza exacta — cristal, coral vivo, luz solidificada — sigue siendo debatida. La arquitectura altmer trasciende la simple construcción: es una forma de arte mágico en la que cada edificio es a la vez estructura física y encantamiento vivo.
+
+Las calles de Alinor están pavimentadas con piedras luminosas, sus jardines albergan especies vegetales que no se encuentran en ningún otro lugar de Nirn, y sus bibliotecas conservan conocimientos que se remontan al alba de la civilización élfica. Para los Altmer, Alinor no es simplemente una ciudad — es la prueba tangible de su pretendida superioridad cultural.
+
+## La Torre de Cristal
+
+La **Torre de Cristal** (Crystal-Like-Law, o Transparent Law) es la estructura más sagrada de las Islas Summerset. Erigida durante la Era Merética, es una de las **Torres** metafísicas que mantienen la estabilidad de Mundus — a la par de **Ada-Mantia** en High Rock o la **Torre de Oro Blanco** en Cyrodiil. Su Piedra de Convención — el foco místico que la ancla a la realidad — otorga al archipiélago una estabilidad dimensional particular.
+
+La Torre también servía como supremo centro de aprendizaje: solo los magos altmer más consumados tenían el privilegio de estudiar entre sus muros. Su destrucción durante la **Crisis de Oblivion** en 3E 433, cuando las fuerzas de **Mehrunes Dagon** invadieron las Islas Summerset, constituyó un trauma profundo para la civilización altmer — y, según algunos eruditos, debilitó el tejido mismo de la realidad.
+
+## La Sociedad Altmer
+
+La sociedad de las Islas Summerset es la más rígidamente jerarquizada de todo Tamriel. Los Altmer se consideran descendientes directos de los **Aldmer** — los Elfos primordiales de **Aldmeris** — y organizan su sociedad en torno a conceptos de pureza racial y perfeccionamiento espiritual. Cada aspecto de la vida — desde el nacimiento hasta la muerte — está regido por estrictas convenciones destinadas a preservar y mejorar el linaje.
+
+La estructura social descansa sobre un sistema de castas hereditarias: los **Sapiarchs** (eruditos), los sacerdotes del **Divino**, los guerreros, los artesanos y los trabajadores. La movilidad social es teóricamente posible por el mérito, pero en la práctica es rara. Los niños considerados "imperfectos" al nacer eran tradicionalmente abandonados — una práctica cuya existencia en la actualidad es negada por las autoridades altmer.
+
+## La Orden Psíjica y Artaeum
+
+La isla de **Artaeum**, la tercera de las Islas Summerset por su importancia histórica, es la sede de la **Orden Psíjica** — la organización mágica conocida más antigua de Tamriel. Fundada a principios de la Primera Era por **Iachesis** y sus discípulos, la Orden Psíjica practica el Antiguo Camino (el Esfuerzo Psíjico), una filosofía mística anterior a todas las religiones organizadas de Tamriel.
+
+Artaeum tiene la inquietante peculiaridad de desaparecer físicamente durante siglos enteros — retirándose literalmente del plano mortal — antes de reaparecer sin explicación. La isla desapareció durante gran parte de la Segunda Era, regresando solo en la Tercera, lo que añade al misterio que rodea a la Orden y sus prácticas.
+
+## Política Exterior y Aislacionismo
+
+Las Islas Summerset practicaron un aislacionismo estricto durante la mayor parte de su historia. Los extranjeros — incluidas otras razas élficas — no eran bienvenidos, y el comercio con el continente estaba estrictamente regulado. Esta política reflejaba la convicción altmer de su superioridad innata: ¿por qué rebajarse a relacionarse con razas "inferiores"?
+
+Este aislacionismo solo fue quebrado por la fuerza — primero por **Tiber Septim**, quien conquistó el archipiélago usando el **Numidium** al final de la Segunda Era, y luego por la integración forzosa en el Imperio Septim. La humillación de la conquista imperial alimentó un resentimiento que ardió durante siglos antes de estallar con el ascenso del **Thalmor**.
+
+## El Thalmor y el Renacimiento Altmer
+
+El **Thalmor** — un movimiento político ultranacionalista altmer — emergió de las cenizas de la Crisis de Oblivion reivindicando la victoria contra las fuerzas de Dagon. Tomando el poder en las Islas Summerset, rebautizaron el archipiélago como **Alinor** (por el nombre de la capital) e instauraron un régimen autoritario basado en la supremacía racial altmer.
+
+Bajo el Thalmor, las Islas Summerset volvieron a convertirse en el centro de un imperio élfico — el **Dominio Aldmeri** — que englobaba Valenwood y Elsweyr. Esta resurgencia del poder altmer, culminando con la **Gran Guerra** contra el Imperio y el **Concordato de Oro Blanco**, demuestra la capacidad de los Altmer para transformar su sentido de superioridad en poder geopolítico concreto.
+
+## Misterios y Secretos
+
+Las Islas Summerset albergan misterios que ni siquiera sus habitantes comprenden del todo. Ruinas anteriores a los Aldmer salpican el archipiélago — ¿quién las construyó? Los laberintos de coral submarinos albergan criaturas cuya inteligencia es debatida. Y la naturaleza exacta de la magia que mantiene en pie a las ciudades altmer — arquitectura que debería derrumbarse según las leyes físicas ordinarias — sigue siendo objeto de especulación para los eruditos del continente.

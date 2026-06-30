@@ -1,0 +1,97 @@
+---
+title: "Akavir — The Eastern Continent"
+slug: "akavir"
+era: "second-era"
+category: "lieux"
+tags: ["akavir", "tsaesci", "kamal", "tang-mo", "ka-potun", "invasion", "blades"]
+timelineYear: 572
+summary: "Akavir is the mysterious continent to the east of Tamriel — home of the Tsaesci serpent-men, the Kamal frost demons, and the origin of the martial traditions of the Blades."
+sources: ["UESP: Akavir", "Mysterious Akavir", "The Imperial Library: Report on the Disaster at Ionith"]
+---
+
+## The Unknown Continent
+
+**Akavir** ("Dragon Land" in Aldmeris) is the continent situated to the east of Tamriel, separated from it by a vast ocean. It is a place of mystery — no Tamrielic traveler has set foot there and returned in centuries. Everything we know of it comes from ancient texts and Akaviri invasions.
+
+## The Peoples of Akavir
+
+### The Tsaesci ("Snake-Eaters")
+- The best-known race — **serpent-men** (exact degree of serpentine form is debated)
+- Exceptional warriors, creators of the katana
+- "Ate" (conquered?) the humans of Akavir
+- Launched several invasions of Tamriel
+- Their martial culture deeply influenced the Empire (the **Blades** descend from Tsaesci warriors)
+
+### The Kamal ("Snow Demons")
+- Demonic creatures from the frozen northern wastes of Akavir
+- Freeze in winter, thaw in summer to invade their neighbors
+- Invaded Tamriel in 2E 572 (repelled by the Ebonheart Pact)
+- Brutal, no known diplomacy
+
+### The Tang Mo ("Thousand Monkeys")
+- Simian people of the jungle islands of Akavir
+- Described as amiable and courageous
+- Constantly invaded by the Kamal
+- Allied with the Ka Po'Tun against the Tsaesci
+
+### The Ka Po'Tun ("Tiger Kingdom")
+- Feline people who seek to become dragons
+- Led by **Tosh Raka** — who allegedly **succeeded** in transforming into a dragon
+- Sworn enemies of the Tsaesci
+- May invade Tamriel one day (unconfirmed prophecy)
+
+## The Akaviri Invasions
+
+### First Akaviri Invasion (1E 2703)
+- The **Tsaesci** invaded Tamriel in force
+- They sought the **Dragonborn** (they venerated/hunted dragons)
+- Defeated by **Reman Cyrodiil** at Pale Pass
+- The survivors **submitted** to Reman, recognizing him as the Dragonborn
+- Became his personal guards — origin of the **Blades**
+
+### Kamal Invasion (2E 572)
+- Ada'Soom Dir-Kamal led the snow demons against Tamriel
+- First struck Skyrim (sacking of Windhelm)
+- Then marched on Morrowind
+- Defeated at **Stonefalls** by the alliance of three races:
+  - Nords of Skyrim
+  - Dunmer of Morrowind
+  - Argonians of Black Marsh
+- This shared victory **founded the Ebonheart Pact**
+
+### Uriel V's Expedition (3E 288–290)
+- Emperor **Uriel Septim V** attempted to invade Akavir
+- Massive naval invasion
+- Initial victory, capture of the city of **Septimia**
+- Then **total disaster** at Ionith — the Imperial army annihilated
+- Uriel V killed, no confirmed survivors
+- Tamriel never again attempted to invade Akavir
+
+## Influence on Tamriel
+
+### The Blades
+The most enduring legacy of the Tsaesci:
+- Personal guards of the Emperor
+- Akaviri katanas and armor
+- Dragon hunters
+- Secret organization after the Great War (4E)
+
+### Architecture
+Akaviri architecture is visible in:
+- **Sky Haven Temple** (Skyrim) — Blades temple
+- **Cloud Ruler Temple** (Cyrodiil) — Blades fortress
+- The "pagoda" style of certain Imperial buildings
+
+### Combat
+Akaviri martial traditions influenced:
+- The one-handed curved-blade fighting style
+- The combat techniques of the Blades
+- The lamellar armor of the Imperial Guard
+
+## Unresolved Mysteries
+
+- Are the Tsaesci truly serpents or merely a people with a serpentine culture?
+- What does "eating" the humans mean — literal conquest or cultural assimilation?
+- Is Tosh Raka truly a dragon?
+- What became of the last dragons of Akavir?
+- Why did the Tsaesci specifically seek a Dragonborn?

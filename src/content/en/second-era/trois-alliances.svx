@@ -1,0 +1,129 @@
+---
+title: "The Three Banners War"
+slug: "trois-alliances"
+era: "second-era"
+category: "evenements"
+tags: ["alliance-war", "ebonheart-pact", "daggerfall-covenant", "aldmeri-dominion", "interregnum", "eso", "ruby-throne"]
+timelineYear: 580
+summary: "The Three Banners War pitted the Ebonheart Pact, the Daggerfall Covenant, and the First Aldmeri Dominion against one another in a struggle for the Ruby Throne during the Interregnum."
+sources: ["UESP: Alliance War", "ESO: The Improved Emperor's Guide to Tamriel", "ESO Lore", "The Imperial Library"]
+---
+
+## Context: The Interregnum
+
+The **Three Banners War** erupted in **2E 580**, at the heart of the **Interregnum** — that long period of chaos following the fall of the Reman dynasty and the assassination of the last Akaviri Potentate in 2E 430. With no legitimate emperor on the Ruby Throne, Tamriel fractured into rival kingdoms, prey to warlords, necromancers, and extraplanar invaders.
+
+### The Catalyst
+
+Several events accelerated the formation of the alliances:
+
+- The chronic instability of Cyrodiil, where usurpers rose and fell in rapid succession
+- The growing threat of **Molag Bal** and his cultists
+- The ambitions of the necromancer **Mannimarco**, who manipulated events from the shadows
+- The desire of each faction to impose its own vision of order upon Tamriel
+
+## The Ebonheart Pact
+
+### Composition
+
+- **Nords** of Skyrim
+- **Dunmer** of Morrowind
+- **Argonians** of Black Marsh
+
+### Leader: High King Jorunn the Skald-King
+
+**Jorunn** was an atypical Nord — a poet and diplomat as much as a warrior. He forged the Pact in the aftermath of the Akaviri invasion of 2E 572, when Nords, Dunmer, and Argonians had to fight together out of sheer necessity.
+
+### Formation and Motivations
+
+The Pact is the most **unlikely** of the three alliances. Nords and Dunmer had distrusted one another for centuries, and Argonians had been enslaved by the Dunmer for generations. Their union rests on:
+
+- **Military pragmatism** — The Akaviri invasion proved that survival demanded cooperation
+- **The Grand Compact** — A solemn oath of non-aggression and mutual aid
+- **Collective defense** — Each contributes its strengths: Nordic brute force, Dunmer magic, Argonian guerrilla warfare
+
+### Political Philosophy
+
+The Pact did not seek to conquer Tamriel but to **secure its borders**. Their goal was to place an emperor on the Ruby Throne who would respect provincial autonomy and never threaten their independence.
+
+## The Daggerfall Covenant
+
+### Composition
+
+- **Bretons** of High Rock
+- **Redguards** of Hammerfell
+- **Orcs** of Orsinium
+
+### Leader: High King Emeric
+
+**Emeric** was a merchant turned king — a pragmatic man who understood that commercial prosperity required political stability. His marriage to Princess Ra Navaira of Hammerfell sealed the alliance.
+
+### Formation and Motivations
+
+The Daggerfall Covenant is the most **conventional** alliance — its members already shared commercial and geographic interests. Its motivations:
+
+- **Trade and prosperity** — A stable Ruby Throne guarantees trade routes
+- **Imperial restoration** — The Bretons, partial heirs to Imperial culture, seek to restore the Empire
+- **Orsimer recognition** — The Orcs finally receive political legitimacy in exchange for their military strength
+
+### Military Forces
+
+| People | Specialty |
+|--------|-----------|
+| Bretons | Knights, battlemages, diplomacy |
+| Redguards | Elite swordsmen, desert warriors |
+| Orcs | Heavy infantry, war-smiths |
+
+## The First Aldmeri Dominion
+
+### Composition
+
+- **Altmer** of the Summerset Isles
+- **Bosmer** of Valenwood
+- **Khajiit** of Elsweyr
+
+### Leader: Queen Ayrenn
+
+**Ayrenn Arana Aldmeri** was a young Altmer queen who had spent years traveling incognito across Tamriel. This unique experience gave her a cosmopolitan perspective rare among her people.
+
+### Formation and Motivations
+
+The Aldmeri Dominion is the most **ideological** of the three alliances. Ayrenn believed that the mer (elven) races, being older and wiser, should guide Tamriel:
+
+- **Cultural superiority** — The Altmer regard themselves as the rightful heirs of the original Aldmer
+- **Protection of the Bosmer** — Vulnerable Valenwood needs the protection of Summerset
+- **Khajiit alliance** — Queen Ayrenn saved Elsweyr from an epidemic, creating a bond of gratitude
+- **Order through wisdom** — Unlike "barbarian" humans, the mer would bring stability and refinement
+
+### Important Distinction
+
+This First Aldmeri Dominion must **not** be confused with the **Third Aldmeri Dominion** (the Thalmor of the Fourth Era). Queen Ayrenn, despite her belief in mer superiority, was not a genocidal supremacist — she sought to guide, not to exterminate.
+
+## The Theater of War: Cyrodiil
+
+### The Battle for the Ruby Throne
+
+The war was fought primarily in **Cyrodiil**, where all three alliances struggled for control of the **Imperial City** and the Ruby Throne. The system worked as follows:
+
+1. Armies clashed for control of strategic **keeps**
+2. The alliance dominating Cyrodiil could crown an **emperor** from among its champions
+3. That emperor, for as long as they held control, received the blessings of the **Amulets of Kings**
+
+### A War of Attrition
+
+No alliance managed to maintain lasting dominance. The war became an endless cycle of conquest and reconquest, wearing down all three factions and the continent as a whole.
+
+## Consequences and End
+
+### Exhaustion
+
+The Three Banners War had no clear winner. It:
+
+- Devastated the countryside of Cyrodiil
+- Exhausted the resources of all three alliances
+- Proved that no single faction could dominate alone
+- Laid the groundwork for the future unification by Tiber Septim
+
+### The Legacy
+
+This war demonstrated that Tamriel could not function as a collection of rival nations. The Interregnum only ended when one man — **Tiber Septim** — unified the continent by force, cunning, and divine power. The three alliances, in exhausting one another, paradoxically made that unification possible.

@@ -1,0 +1,54 @@
+---
+title: "Coldharbour"
+slug: "coldharbour"
+era: "second-era"
+category: "lieux"
+tags: ["coldharbour", "molag-bal", "planemeld", "dark-anchors", "oblivion", "vestige"]
+timelineYear: 582
+summary: "Coldharbour, Molag Bal's Oblivion plane, the theatre of the Planemeld and the invasion of Tamriel by the Dark Anchors in 2E 582."
+sources: ["The Coldharbour Compact", "Planemeld", "ESO Main Quest", "Varieties of Daedra"]
+---
+
+## The Plane of Domination
+
+**Coldharbour** is the Oblivion plane belonging to **Molag Bal**, the Daedric Prince of Domination, Rape, and Enslavement. It is a place of absolute horror — a tortured parody of Nirn where everything that exists in the mortal world is found in a corrupted, degraded form, plunged in eternal cold. The skies are perpetually covered by black clouds torn by bluish lightning, and no sun ever shines there.
+
+Coldharbour is described by those who returned from it as "Nirn as it would be if all hope were removed from it." Ghostly cities reproduce the settlements of Tamriel in a nightmarish version — familiar but distorted buildings, populated by monstrous creatures and souls tormented for eternity.
+
+## Geography of Horror
+
+The geography of Coldharbour is a topographical nightmare. The plane is bathed in a sickly azure light — a cold luminescence that illuminates nothing truly. Oceans of dark fluid border shores of desolate stone. Cages suspended in the void contain the souls of trapped mortals. Towers of torment rise toward an empty sky, and bottomless pits open without warning beneath travelers' feet.
+
+Among the notable places of Coldharbour are the **Throne of Tyranny** — Molag Bal's personal palace, a structure of unspeakable architectural cruelty — and the **Chamber of Torment**, where captive souls endure eternal suffering tailored to their deepest fears. Every corner of the plane is designed to maximize suffering and crush the will.
+
+## The Planemeld
+
+In **2E 582**, **Molag Bal** launched the **Planemeld** — an attempt to merge Coldharbour with Nirn, literally absorbing the mortal world into his Oblivion plane. This plan of monstrous ambition aimed to enslave the entirety of Tamriel's mortal population, transforming Nirn into an extension of his eternal prison.
+
+The Planemeld was made possible by the work of **Mannimarco**, the King of Worms and the most powerful necromancer in history, who served as Molag Bal's mortal agent. Mannimarco orchestrated the necessary rituals from Tamriel while Molag Bal opened portals from Coldharbour, working together to break the barriers between the planes.
+
+## The Dark Anchors
+
+The **Dark Anchors** constituted the primary instrument of the Planemeld. These immense metallic structures — combining chains of infernal metal and dimensional portals — fell from Coldharbour onto the surface of Tamriel, literally anchoring the Oblivion plane to the mortal world. Each Anchor created a fusion point between the two realities, pulling Coldharbour toward Nirn.
+
+Areas affected by a Dark Anchor transformed progressively: the sky took on a sickly blue tint, temperatures dropped, and Daedra invaded the surrounding area. Daedroths, Atronachs, Clannfears, and Dremora poured through the portals, slaughtering or enslaving local populations. Destroying an Anchor required fierce combat against the Daedric forces protecting it.
+
+## The Servants of Molag Bal
+
+Coldharbour is populated by creatures in the service of Molag Bal, each embodying an aspect of domination and suffering. The **Dremora** — humanoid Daedra of cruel intelligence — form the military elite. The **Harvesters** collect souls to fuel their master's machinations. The **Titans** — immense corrupted winged creatures — patrol the skies of Coldharbour.
+
+The hierarchy of Coldharbour is brutally simple: power determines everything. The most powerful Daedra dominate the weaker, and all bow before Molag Bal. The captive mortal souls occupy the lowest rank — objects to be tortured, spiritual fuel to be consumed for the Prince's projects.
+
+## The Invasion and the Resistance
+
+Faced with the Planemeld, the peoples of Tamriel organized their resistance. The **Fighters and Mages Guilds** mobilized their forces, while individual heroes — including the **Vestige**, a mortal whose soul had been torn away by Molag Bal — led the counter-offensive. The final assault on Coldharbour itself was the most audacious act of the resistance: invading an Oblivion plane to destroy the source of the Planemeld within it.
+
+The destruction of the **Dark Pinions** — the structures within Coldharbour that anchored the Planemeld on the Oblivion side — put an end to the dimensional merger. The direct confrontation between the Vestige and Molag Bal, made possible by **Meridia**'s sacrifice in lending her divine power, definitively shattered the Prince of Domination's plans.
+
+## The Coldharbour Compact
+
+Long before the Planemeld, **Sotha Sil** had concluded the **Coldharbour Compact** with Molag Bal and several other Daedric Princes following the destruction of the city of Gilverdale. This pact forbade the Princes from directly manifesting their power on Nirn — a restriction the Planemeld openly violated. The audacity of Molag Bal lay precisely in this transgression: he was prepared to break a millennia-old agreement to satisfy his desire for total domination.
+
+## Legacy of the Planemeld
+
+The Planemeld of 2E 582 demonstrated that Daedric Princes represent an existential threat to Nirn — a lesson Tamriel had to relearn during the **Oblivion Crisis** nine hundred years later. Molag Bal's capacity to launch such an invasion — and the extreme difficulty of repelling it — underscored the fundamental vulnerability of the mortal world against the powers of Oblivion.

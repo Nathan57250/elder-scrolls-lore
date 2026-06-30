@@ -1,0 +1,58 @@
+---
+title: "El Gremio de Ladrones de Abah's Landing"
+slug: "thieves-guild-abah"
+era: "second-era"
+category: "guildes"
+tags: ["gremio-de-ladrones", "abah-landing", "hew-bane", "thieves-guild", "nicolas", "zeira"]
+timelineYear: 582
+summary: "El Gremio de Ladrones operando desde Abah's Landing en Hew's Bane, su organización clandestina y sus audaces operaciones en 2E 582."
+sources: ["ESO: Thieves Guild DLC", "The Scaled Court", "Lore of Abah's Landing"]
+---
+
+## Abah's Landing, Ciudad de las Sombras
+
+**Abah's Landing** es una ciudad portuaria situada en la península de **Hew's Bane**, un territorio semiautónomo al sur de **Hammerfell**. En 2E 582, esta ciudad cosmopolita y corrupta servía como cuartel general para una de las ramas más activas del **Gremio de Ladrones**, una organización criminal que operaba en los intersticios de la sociedad con notable eficacia.
+
+La ciudad en sí era un laberinto de callejones estrechos, bazares llenos de humo, tabernas turbias y opulentas mansiones. La arquitectura mezclaba estilos Redguard, Khajiit e Imperial, reflejo de la diversa población que llenaba sus barrios. Los comerciantes honestos convivían con los receptadores, los nobles frecuentaban los mismos establecimientos que los carteristas, y la línea entre el comercio legítimo y la actividad criminal estaba deliberadamente desdibujada.
+
+El poder oficial en Abah's Landing residía en el **Consejo de Mercaderes**, una asamblea de adinerados comerciantes que gobernaban la ciudad en beneficio propio. Pero el verdadero poder pertenecía a quienes controlaban el flujo de información y mercancías robadas: el Gremio de Ladrones, cuya influencia se extendía a cada rincón de la ciudad.
+
+## La Organización del Gremio
+
+El Gremio de Ladrones de Hew's Bane funcionaba según un modelo diferente al de otras ramas de la organización por todo **Tamriel**. Dirigido por una **Maestra Ladrona** y un consejo de lugartenientes, operaba desde un escondite subterráneo accesible solo a través de pasajes secretos ocultos en los edificios de la ciudad. La seguridad del escondite era absoluta: traicionar su ubicación se castigaba con la muerte.
+
+La jerarquía interna distinguía varios rangos. Los **novicios** realizaban las tareas más sencillas: carterismo, recopilación de información, vigilancia de objetivos. Los **compañeros** se encargaban de los robos y las operaciones coordinadas. Los **maestros** planificaban los grandes golpes y formaban a los nuevos reclutas. En la cúspide, la dirección gestionaba las relaciones con los clientes y administraba las considerables finanzas de la organización.
+
+Un estricto código de honor regía las actividades del Gremio. Prohibición absoluta de matar durante un robo, salvo en caso de legítima defensa absoluta. Obligación de compartir un porcentaje fijo de todo botín con la caja común. Lealtad absoluta hacia los demás miembros. Silencio total sobre los asuntos del Gremio ante las autoridades. Estas reglas no eran simples sugerencias sino leyes cuya violación acarreaba la expulsión o algo peor.
+
+## Zeira y la Reconstrucción
+
+En 2E 582, el Gremio atravesaba un período de reconstrucción bajo el liderazgo de **Zeira**, una ladrona excepcional convertida en Maestra Ladrona en circunstancias dramáticas. Su predecesora, **Nicolas**, había sido traicionada y el Gremio casi destruido por las maniobras de sus enemigos. Zeira había reunido a los supervivientes y reconstruido la organización desde casi la nada.
+
+La personalidad de Zeira impregnaba el nuevo Gremio. Pragmática, leal con sus compañeros y dotada de un sentido del honor que la distinguía de la mayoría de los criminales, imponía altos estándares a sus ladrones. La violencia gratuita estaba prohibida, los robos solo apuntaban a quienes podían permitírselo, y el Gremio se posicionaba como un contrapeso a los abusos de los poderosos más que como una simple empresa de pillaje.
+
+Sin embargo, las circunstancias de la traición pasada y de la reconstrucción acechaban al Gremio. Los enemigos que casi habían destruido la organización no habían desaparecido, y la amenaza de una nueva traición pesaba sobre cada operación. La paranoia, justificada por la experiencia, hacía que el reclutamiento de nuevos miembros fuera particularmente difícil y que el proceso de verificación fuera extremadamente riguroso.
+
+## Operaciones Notables
+
+Los ladrones de Abah's Landing no se conformaban con delitos menores. Sus operaciones más ambiciosas apuntaban a las arcas de los comerciantes más ricos, las colecciones privadas de los nobles y a veces incluso los tesoros custodiados por las autoridades municipales. Cada gran golpe se planeaba con precisión militar, incluyendo un reconocimiento detallado, planes de contingencia y múltiples rutas de escape.
+
+Una de las especialidades del Gremio era el **robo por encargo**. Clientes adinerados contrataban los servicios del Gremio para adquirir objetos específicos: obras de arte, documentos comprometedores, reliquias familiares perdidas o artefactos mágicos raros. Estos contratos eran los más lucrativos y los más peligrosos, ya que a menudo implicaban penetrar en lugares extremadamente bien vigilados.
+
+Los ladrones de Abah's Landing también sobresalían en el comercio de información. En una ciudad portuaria por la que circulaban mercancías y secretos de todo el mundo, saber quién transportaba qué, quién le debía dinero a quién y quién conspiraba contra quién valía a menudo más que cualquier joya robada. La red de informadores del Gremio se extendía desde los muelles hasta los salones de los nobles.
+
+## Rivalidades y Amenazas
+
+El Gremio de Ladrones no operaba sin oposición. Las **Hojas de la Noche**, un grupo rival de asesinos, disputaban el control del inframundo de Abah's Landing. Los guardias municipales, corruptos en su mayoría pero no todos, representaban una amenaza constante. Y los comerciantes más poderosos empleaban sus propios agentes de seguridad, a veces más peligrosos que las fuerzas del orden oficiales.
+
+La relación con la **Hermandad Oscura** era particularmente delicada. Los asesinos y los ladrones operaban en esferas distintas pero superpuestas, y las fricciones eran inevitables. Un acuerdo tácito separaba generalmente sus dominios: el Gremio no mataba, la Hermandad no robaba. Pero las zonas grises entre el robo y el asesinato creaban regularmente tensiones.
+
+Los **Vinedusk Rangers** y otras organizaciones de justicia vigilante también apuntaban a las actividades del Gremio. Estos cazadores de criminales, motivados por la justicia o la recompensa, representaban un peligro constante para los ladrones que operaban en solitario. El Gremio ofrecía protección a sus miembros frente a estas amenazas, una de las principales razones por las que los ladrones independientes buscaban unirse a él.
+
+## El Legado de una Tradición
+
+El Gremio de Ladrones de Abah's Landing formaba parte de una antigua tradición criminal que trascendía épocas y provincias. Organizaciones similares existían en casi todas las grandes ciudades de Tamriel, conectadas por códigos compartidos, convenciones de cortesía profesional y a veces alianzas formales. El Gremio no era un fenómeno local sino una institución continental.
+
+La influencia del Gremio en la sociedad de Abah's Landing iba más allá del simple crimen. Al redistribuir la riqueza concentrada en pocas manos, al mantener un equilibrio de poderes en el inframundo y al servir de válvula de seguridad para las frustraciones de las clases desfavorecidas, el Gremio desempeñaba paradójicamente un papel estabilizador. Una ciudad sin ladrones organizados no era una ciudad sin crimen — era una ciudad abandonada al caos del crimen desorganizado.
+
+Los principios establecidos por Zeira y sus predecesores continuaron influyendo en el Gremio de Ladrones durante siglos, hasta las ramas bien conocidas de la **Tercera** y la **Cuarta Era**. El código de honor, la estructura jerárquica, la prohibición de matar: todos estos elementos se encuentran en los Gremios posteriores, testimonio de la durabilidad de una tradición nacida en los oscuros callejones de Abah's Landing.

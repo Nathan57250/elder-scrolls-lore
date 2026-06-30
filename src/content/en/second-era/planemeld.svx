@@ -1,0 +1,66 @@
+---
+title: "The Planemeld"
+slug: "planemeld"
+era: "second-era"
+category: "evenements"
+tags: ["molag-bal", "coldharbour", "dark-anchors", "vestige", "soulburst", "oblivion"]
+timelineYear: 582
+summary: "The Planemeld was Molag Bal's attempt to merge his Oblivion realm, Coldharbour, with the mortal plane of Nirn in 2E 582."
+sources: ["The Elder Scrolls Online", "Erta of Coldharbour", "Aura of the Righteous"]
+---
+
+# The Planemeld
+
+## Origins: The Soulburst
+
+In 2E 578, Emperor Varen Aquilarios committed the fatal error that would trigger the catastrophe. Manipulated by **Mannimarco**, the King of Worms, Varen attempted to light the Dragonfires without being a true Dragonborn. The ritual, which made use of the **Amulet of Kings**, failed spectacularly.
+
+This failure, known as the **Soulburst**, tore the barriers between Nirn and Oblivion. The protections established by Akatosh during the Covenant with Alessia were compromised, opening a breach that **Molag Bal** — the Daedric Prince of Domination and Enslavement — exploited immediately.
+
+## The Mechanism of the Merge
+
+The Planemeld was not a simple invasion. It was an attempt to physically **superimpose** Coldharbour onto Nirn, merging the two planes into one. To accomplish this, Molag Bal deployed a network of devices known as **Dark Anchors**.
+
+These Anchors were enormous mechanical structures that fell from the sky, anchoring themselves into the soil of Tamriel and literally pulling the surface of Nirn toward Coldharbour. Each Anchor:
+- Summoned hordes of Daedra to defend the anchoring point
+- Corrupted the surrounding terrain, transforming it into a Coldharbour landscape
+- Progressively weakened the barrier between the planes
+
+Across all of Tamriel, Dark Anchors fell by the dozens, sowing terror and destruction in every region.
+
+## Coldharbour: Molag Bal's Realm
+
+The plane toward which Nirn was being dragged is a place of absolute desolation. Coldharbour is a world of eternal ruins, perpetually overcast skies, and biting cold. The souls captured by Molag Bal are enslaved there for eternity, their bodies transformed into **Soul Shriven** — beings immortal in their suffering, dying endlessly only to be resurrected and made to suffer again.
+
+It was in this hell that the **Vestige** awoke, stripped of their soul, to begin their journey against the forces of the Daedric Prince.
+
+## The Vestige: A Soulless Hero
+
+The protagonist of this era — the Vestige — is a unique being: a mortal whose soul was torn away by Molag Bal during a ritual sacrifice orchestrated by Mannimarco. Paradoxically, this loss became their greatest strength. Without a soul to lose, the Vestige could:
+
+- Resurrect indefinitely after death
+- Resist Molag Bal's domination
+- Absorb fragments of divine power
+
+Guided by **the Prophet** (in reality Varen Aquilarios, blinded and broken by guilt) and aided by **Lyris Titanborn**, **Sai Sahan**, and **Abnur Tharn**, the Vestige set out to reassemble the Amulet of Kings and put an end to the Merge.
+
+## The Final Battle in Coldharbour
+
+The conclusion of the Planemeld took the form of a direct assault on the very heart of Coldharbour. The Vestige, empowered by the sacrifice of one of their companions to reactivate the Amulet of Kings, confronted Molag Bal in his own realm.
+
+Through the power of Akatosh channeled by the Amulet, the Vestige temporarily gained sufficient divine power to battle the Daedric Prince. Molag Bal was defeated — not destroyed, for a Daedric Prince cannot die — but driven back, forced to abandon his Merge.
+
+## Consequences for Tamriel
+
+The Planemeld, though ultimately aborted, left deep scars:
+
+- Thousands of victims across the entire continent
+- Entire regions marked by Daedric corruption
+- Trust in Imperial institutions permanently shaken
+- A brutal reminder that the barriers between the planes are fragile
+
+The event also contributed to the perpetuation of the chaos of the **Interregnum**, the long period without a legitimate emperor that did not end until the rise of Tiber Septim several centuries later.
+
+## Legacy in Collective Memory
+
+Curiously, the Planemeld is relatively rarely mentioned in the chronicles of later eras. Some scholars attribute this partial forgetting to the very nature of the event: a trauma so vast that collective memory preferred to bury it rather than confront it.

@@ -1,0 +1,110 @@
+---
+title: "Fundación del Gremio de Ladrones"
+description: "La historia de la creación del Gremio de Ladrones durante la Segunda Era, sus principios fundadores y su organización clandestina"
+slug: guilde-des-voleurs-fondation
+category: "guildes"
+era: "second-era"
+timelineYear: 560
+keywords:
+  - gremio de ladrones
+  - segunda era
+  - zorro gris
+  - código de los ladrones
+  - sombra
+  - abah's landing
+---
+
+## La Fundación del Gremio de Ladrones
+
+El Gremio de Ladrones es una de las organizaciones criminales más antiguas y estructuradas de Tamriel. A diferencia de las bandas de bandidos ordinarios, siempre se ha distinguido por un estricto código de honor y una organización casi corporativa. Su fundación durante la Segunda Era marca un punto de inflexión en la historia del crimen organizado en el continente.
+
+## Orígenes
+
+### El Contexto del Interregno
+
+La fundación del Gremio de Ladrones se inscribe en el caótico contexto del Interregno. La ausencia de autoridad imperial centralizada creó un vacío legal del que se aprovecharon numerosos criminales. Sin embargo, esta misma anarquía hacía que el oficio de ladrón fuera particularmente peligroso: sin reglas, los criminales competían entre sí de manera violenta y autodestructiva.
+
+### Los Precursores
+
+Antes del Gremio propiamente dicho, varias organizaciones proto-criminales existían en todo Tamriel. Las Campanas de Martillo, los Segadores de Roca Alta y diversas cofradías de carteristas operaban en las grandes ciudades. Pero ninguna poseía el alcance ni la estructura necesarios para constituir un verdadero gremio transcontinental.
+
+## La Fundación Propiamente Dicha
+
+### Abah's Landing
+
+Uno de los lugares de origen más importantes del Gremio de Ladrones se encuentra en Abah's Landing, en la región de Hew's Bane en Martillo. Este puerto franco, relativamente a salvo de las autoridades, sirvió de campo de pruebas para los primeros principios organizativos del Gremio. Los ladrones locales desarrollaron allí un sofisticado sistema de peristas, informantes y escondrijos que sirvió de modelo para la futura organización.
+
+### Los Primeros Maestros del Gremio
+
+La estructura jerárquica del Gremio de Ladrones se estableció desde su fundación. A su cabeza había un Maestro del Gremio cuya identidad solía ser secreta o protegida por artificios mágicos. Los capitanes de distrito supervisaban las operaciones en cada ciudad, mientras que los peristas aseguraban la venta de los bienes robados.
+
+## El Código de los Ladrones
+
+### Los Principios Fundamentales
+
+El Código de los Ladrones constituye la piedra angular de la organización. Sus reglas principales son:
+
+- Nunca robar a otro miembro del Gremio
+- Nunca matar durante un robo salvo en caso de legítima defensa absoluta
+- Nunca traicionar al Gremio ante las autoridades
+- Respetar los contratos aceptados
+- Devolver una parte de las ganancias al Gremio
+
+### La Filosofía del Robo
+
+El Gremio de Ladrones se distingue fundamentalmente de la Hermandad Oscura por su filosofía. Allí donde los asesinos abrazan la muerte como un arte, los ladrones consideran su oficio como un acto de redistribución. El robo no se percibe como un acto de violencia, sino como una demostración de habilidad e inteligencia.
+
+### Las Sanciones
+
+Cualquier incumplimiento del Código conlleva sanciones severas. Un ladrón que mata innecesariamente durante una misión puede ser expulsado del Gremio. Un traidor se expone a represalias que, sin llegar al asesinato sistemático, pueden incluir la ruina financiera y la exposición pública de sus crímenes pasados.
+
+## La Organización y la Estructura
+
+### Los Cuarteles Generales
+
+Cada capítulo del Gremio posee un cuartel general oculto, generalmente situado en las alcantarillas, las catacumbas o los pasajes subterráneos de las grandes ciudades. Estos refugios sirven simultáneamente como lugar de reunión, almacén para los bienes robados y refugio en caso de peligro.
+
+### La Red de Peristas
+
+Una de las grandes innovaciones del Gremio fue la creación de una red organizada de peristas. Estos comerciantes aparentemente legítimos compran los bienes robados y los revenden a través de canales indirectos. Este sistema permite a los ladrones deshacerse rápidamente de su botín sin exponerse al peligro de la reventa directa.
+
+### Las Especializaciones
+
+El Gremio reconoce varias especializaciones entre sus miembros:
+
+- Los ladrones de casas, especialistas en allanamiento
+- Los carteristas, expertos en el robo al descuido
+- Los escaladores, acróbatas que roban por los tejados
+- Los estafadores, maestros de la manipulación
+- Los infiltradores, capaces de introducirse en organizaciones enemigas
+- Los exploradores, que identifican objetivos y planifican las operaciones
+
+## Las Relaciones con Otras Facciones
+
+### La Hermandad Oscura
+
+Las relaciones entre el Gremio de Ladrones y la Hermandad Oscura siempre han sido complejas. Aunque ambas organizaciones operan fuera de la ley, sus filosofías son diametralmente opuestas. El Gremio prohíbe el asesinato gratuito mientras que la Hermandad lo convierte en su negocio. Un respeto mutuo teñido de desconfianza caracteriza sus interacciones.
+
+### Las Autoridades
+
+El Gremio mantiene a menudo relaciones ambiguas con las autoridades locales. En algunas ciudades, guardias corruptos hacen la vista gorda ante las actividades del Gremio a cambio de sobornos. En otras, la persecución de los ladrones se lleva a cabo con ahínco, obligando al Gremio a una clandestinidad total.
+
+### El Gremio de Mercaderes
+
+Las relaciones con el Gremio de Mercaderes son naturalmente conflictivas, ya que los mercaderes son las víctimas más frecuentes de los ladrones. Sin embargo, algunos mercaderes sin escrúpulos colaboran con el Gremio para eliminar a sus competidores o recuperar bienes perdidos.
+
+## La Expansión por Tamriel
+
+### Los Capítulos Provinciales
+
+En las décadas siguientes a su fundación, el Gremio de Ladrones extendió su influencia a todas las provincias de Tamriel. Cada capítulo provincial adaptó los principios fundadores a las realidades locales manteniendo la lealtad al Código común.
+
+### El Zorro Gris
+
+Una de las tradiciones más misteriosas del Gremio es la del Zorro Gris, un título y una máscara transmitidos de generación en generación al jefe supremo de la organización. La Capucha Gris de Nocturnal, un artefacto daédrico, otorga a su portador el anonimato total — el mundo literalmente olvida la identidad de quien la lleva.
+
+## El Legado del Gremio
+
+La fundación del Gremio de Ladrones durante la Segunda Era estableció un modelo de organización criminal que perduró a través de los siglos. Su influencia en la sociedad tamriélica es inmensa: regula el crimen, limita la violencia gratuita y ofrece paradójicamente una forma de estabilidad en el mundo subterráneo. Sin él, el bandidaje sería mucho más caótico y peligroso para las poblaciones civiles.
+
+El Gremio sobrevivió a todas las transiciones políticas — desde el Interregno hasta el Imperio Septim, desde la Crisis de Oblivion hasta el auge del Dominio Aldmeri — demostrando que mientras existan riquezas que redistribuir, los ladrones tendrán su lugar en el mundo.

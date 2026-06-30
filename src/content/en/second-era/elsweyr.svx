@@ -1,0 +1,67 @@
+---
+title: "Elsweyr: The Land of the Khajiit"
+slug: "elsweyr"
+era: "second-era"
+category: "lieux"
+tags: ["elsweyr", "khajiit", "moons", "furstocks", "mane", "moon-sugar", "anequina", "pellitine"]
+timelineYear: 309
+summary: "Elsweyr is the enigmatic homeland of the Khajiit, a feline people whose morphology is determined by the moons and whose culture oscillates between refinement and ferocity."
+sources: ["Mixed Unit Tactics", "Pocket Guide to the Empire, 3rd Edition", "Ahzirr Traajijazeri", "Words of Clan Mother Ahnissi"]
+---
+
+![Map of Tamriel](/images/common/tamriel-map.jpg)
+
+## Elsweyr: The Land of Sand and Moons
+
+Elsweyr is the southernmost province of the continent of Tamriel, a land of contrasts where the arid deserts of the north give way to the lush jungles of the south. But the true singularity of Elsweyr is not its geography: it is its people, the Khajiit, a feline race whose biological and cultural complexity surpasses the understanding of most other races.
+
+## The Khajiit: Children of the Moons
+
+The Khajiit refer to themselves as the children of Azurah (Azura), who shaped them from the Bosmer — or, according to their own mythology, who revealed to them their true form hidden by the tricks of Y'ffre. Whatever the truth, the Khajiit are a unique people whose existence is intimately bound to the two moons of Nirn: Masser (Jone) and Secunda (Jode).
+
+Khajiit society is built around family, clan, and devotion to the moons. Their language, Ta'agra, is melodious and complex, and their tendency to speak of themselves in the third person often confuses outsiders.
+
+## The Furstocks: Lunar Morphology
+
+The most extraordinary aspect of Khajiit biology is the system of Furstocks. The physical form of a Khajiit is not determined by its parents but by the phase of the two moons at the moment of birth. Depending on the alignment of Masser and Secunda, a Khajiit may be born into one of at least sixteen radically different forms:
+
+- **Alfiq**: The size and appearance of a house cat, but fully intelligent and capable of magic
+- **Senche-raht**: As large as a warhorse, quadrupedal, used as a mount by other Khajiit
+- **Cathay**: The bipedal form most commonly encountered by other races, of human size
+- **Ohmes**: Almost indistinguishable from a Bosmer, with no visible fur or tail
+- **Pahmar**: The size and shape of a tiger, quadrupedal and fierce
+- **Dagi**: Small and arboreal, adapted to life in the trees of the south
+
+All of these forms are regarded as full Khajiit within their society. An Alfiq that appears identical to a common cat may be a powerful mage or a respected clan leader. This morphological diversity is the source of many misunderstandings with other races, who struggle to accept that a quadrupedal feline and a furred humanoid belong to the same people.
+
+## The Mane
+
+The Mane is the supreme spiritual leader of the Khajiit, born during an exceedingly rare lunar alignment involving a secret third moon, the Rider of Jone and Jode. There is never more than one Mane alive in the world at a time, and their birth is a cosmically significant event for the entire Khajiit people.
+
+The Mane is recognizable by their extraordinary mane, into which Khajiit from across the people braid locks of their own fur as a sign of devotion. Over the years, this mane becomes so voluminous that the Mane can no longer move without assistance and is carried by servants during rare public ceremonies.
+
+The Mane's role is that of a spiritual unifier rather than a political ruler. Their voice is that of the moons themselves, and their decrees are regarded as divine revelations rather than secular laws.
+
+## Moon Sugar and Skooma
+
+Moon sugar is the most important and most controversial substance in Elsweyr. This crystalline drug, harvested from sugarcane in the Tenmar region, is omnipresent in Khajiit culture: it enters into nearly all of their foods, drinks, and medicines. To the Khajiit, moon sugar is a sacred gift of the moons, a divine substance that nourishes body and soul alike.
+
+Skooma is a refined derivative of moon sugar, a drug of devastating potency that creates near-instant addiction in non-Khajiit. The trade in skooma is illegal throughout the Empire, but it constitutes one of Elsweyr's primary clandestine exports, fueling criminal networks across all of Tamriel.
+
+This gray economy is a perpetual source of tension between Elsweyr and its neighbors. The Khajiit do not understand the criminalization of what they regard as a sacrament, while other provinces see the skooma trade as an existential threat to their populations.
+
+## Anequina versus Pellitine
+
+Elsweyr is historically divided into two rival kingdoms whose unification in 2E 309 gave birth to the Elsweyr Confederacy:
+
+**Anequina** occupies the north of the province, a land of arid steppes and deserts populated by warlike nomadic clans. The Khajiit of Anequina are renowned for their fierce independence, martial prowess, and spartan way of life. They despise the luxury and decadence of the south.
+
+**Pellitine** stretches to the south, through fertile tropical jungles. Its inhabitants developed a refined civilization of trading city-states, sumptuous palaces, and sophisticated artistic culture. The Pellitine Khajiit look upon those of Anequina as uncultured barbarians.
+
+The unification of the two kingdoms was a fragile political compromise, and the tensions between north and south never truly disappeared. The Thalmor exploited these divisions to annex Elsweyr into the Aldmeri Dominion, once again splitting the province into two client entities: the Kingdom of Anequina and the Kingdom of Pellitine.
+
+## Under the Thalmor Yoke
+
+Thalmor domination over Elsweyr was achieved through cunning as much as force. When the two moons vanished from the sky for two years (the Void Nights), causing existential panic among the Khajiit, the Thalmor claimed to have restored the moons through their magic. Grateful, the Khajiit accepted the alliance with the Aldmeri Dominion, unaware that the disappearance itself had likely been orchestrated by the Thalmor.
+
+Since then, Elsweyr has served the Dominion as a vassal territory, providing warriors and scouts to the Aldmeri armies while enduring growing cultural influence from its Altmer masters.

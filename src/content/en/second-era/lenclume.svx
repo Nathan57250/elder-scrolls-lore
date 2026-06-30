@@ -1,0 +1,63 @@
+---
+title: "The Anvil of Hammerfell"
+slug: "lenclume"
+era: "second-era"
+category: "lieux"
+tags: ["hammerfell", "redguard", "alikr", "crowns", "forebears", "ansei", "thalmor"]
+timelineYear: 420
+summary: "Hammerfell, arid homeland of the Redguards, is a province forged by the desert, warrior traditions, and political conflicts between the Crowns and the Forebears."
+sources: ["Pocket Guide to the Empire, 1st Edition", "Erta's Report to Anequina", "The Redguards: Their History and Heroes", "Lord Vivec's Sword-Meeting with Cyrus the Restless"]
+---
+
+![Map of Tamriel](/images/common/tamriel-map.jpg)
+
+## Hammerfell: The Province of the Anvil
+
+Hammerfell, once known as Volenfell by the Dwemer who inhabited it, is a vast province situated on the northwest coast of Tamriel. Bordered by High Rock to the north, Cyrodiil to the east, and the Abecean Sea to the west, this inhospitable land is home to one of the proudest and most warlike peoples on the continent: the Redguards.
+
+## The Redguards: Warriors of Yokuda
+
+The Redguards are not native to Tamriel. Their ancestral homeland, the continent of Yokuda, was swallowed by the sea in a cataclysm whose exact circumstances remain debated by scholars. Some maintain that a renegade Ansei used the Forbidden Technique — a sword strike so devastating it split the very atom of creation, causing the entire continent to sink beneath the waves.
+
+The survivors crossed the ocean to Tamriel during the late Merethic Era and the First Era, settling in what would become Hammerfell. Their arrival was not peaceful: the Redguards had to fight the established populations — Elves and Orcs among them — to claim these lands as their own.
+
+## The Alik'r Desert
+
+At the heart of Hammerfell stretches the Alik'r Desert, an expanse of sun-scorched sand spreading across hundreds of leagues. This merciless desert is far more than a geographic obstacle: it is the very soul of the province. The Alik'r Warriors, a legendary elite order, take their name from this desolation and use it as their training ground.
+
+Beneath the dunes lie countless Dwemer ruins and forgotten temples from the Yokudan era. Sandstorms can bury entire caravans within minutes, and the creatures of the desert — giant scorpions, dunerippers, and wandering undead — pose a constant danger to the unwary.
+
+## The Ansei: The Lost Art of the Sword
+
+The Ansei, or Sword-Singers, represent the highest martial tradition of Yokuda. These transcendent warriors had achieved such mastery of the sword that they could materialize a blade from their spiritual will alone — the Shehai, or Spirit Sword. This ability was not magic in the conventional sense, but a discipline of the soul so pure that it manifested in the physical world.
+
+The tradition of the Ansei was largely lost during the crossing to Tamriel. Nevertheless, their heritage permeates every aspect of Redguard culture. Modern sword schools, though unable to manifest the Shehai, perpetuate the forms and philosophies of the ancient masters.
+
+## Crowns versus Forebears
+
+Redguard society is deeply divided between two political factions whose antagonism stretches back to the arrival in Tamriel:
+
+**The Crowns** (Na-Totambu) descend from the Yokudan nobility and royal families. Fierce traditionalists, they preserve the old customs, venerate the Yokudan gods, and reject Imperial influence. Their strongholds are found primarily in the city of Sentinel and in the inland regions.
+
+**The Forebears** (Ra Gada) descend from the warrior wave that landed first on Tamriel's shores. More pragmatic, they have adopted many Imperial customs and favor integration into the continent's political structures. Daggerfall and Taneth are their principal centers of power.
+
+This age-old conflict has provoked civil wars, assassinations, and marriages of convenience that have shaped the province's history over thousands of years.
+
+## The Resistance Against the Thalmor
+
+The most defining event in Hammerfell's recent history is its categorical rejection of the White-Gold Concordat. When the Empire of Titus Mede II signed this humiliating treaty with the Aldmeri Dominion at the end of the Great War — outlawing the worship of Talos and ceding territory — the Redguards refused to submit.
+
+Hammerfell then separated from the Empire and continued the war against the Thalmor alone. During five additional years of fierce fighting, the Redguard warriors — Crowns and Forebears united for the first time in generations — inflicted such losses on the Dominion's forces that the Thalmor was compelled to sign a second treaty, this time on Hammerfell's terms.
+
+This victory made Hammerfell the only province to have successfully resisted the Thalmor, cementing the legendary reputation of the Redguards as indomitable warriors.
+
+## Geography and Notable Cities
+
+Beyond the Alik'r Desert, Hammerfell possesses a varied geography: the Dragontail Mountains to the north, fertile plains along the coast, and tropical forests in the Hew's Bane region to the south. The principal cities include:
+
+- **Sentinel**: Capital of the Crowns, a majestic port city in the north
+- **Taneth**: Commercial stronghold of the Forebears in the south
+- **Stros M'Kai**: A strategic island, scene of the rebellion against Tiber Septim
+- **Elinhir**: A border city near Cyrodiil, renowned for its mages
+
+Hammerfell remains one of the most independent and fiercely sovereign provinces in all of Tamriel — a living testament to the tenacity and pride of its people.

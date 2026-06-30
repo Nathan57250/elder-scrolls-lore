@@ -1,0 +1,66 @@
+---
+title: "La Fusión de los Planos"
+slug: "planemeld"
+era: "second-era"
+category: "evenements"
+tags: ["molag-bal", "coldharbour", "anclas-oscuras", "vestige", "soulburst", "oblivion"]
+timelineYear: 582
+summary: "La Fusión de los Planos fue el intento de Molag Bal de fusionar su reino de Oblivion, Coldharbour, con el plano mortal de Nirn en 2E 582."
+sources: ["The Elder Scrolls Online", "Erta of Coldharbour", "Aura of the Righteous"]
+---
+
+# La Fusión de los Planos (Planemeld)
+
+## Orígenes: La Ruptura de Almas
+
+En 2E 578, el Emperador Varen Aquilarios cometió el error fatal que desencadenaría la catástrofe. Manipulado por **Mannimarco**, el Rey de los Gusanos, Varen intentó encender los Fuegos del Dragón sin ser un verdadero Nacido del Dragón. El ritual, que utilizó el **Amuleto de los Reyes**, fracasó de manera espectacular.
+
+Este fracaso, conocido como la **Ruptura de Almas** (*Soulburst*), desgarró las barreras entre Nirn y Oblivion. Las protecciones establecidas por Akatosh durante el Pacto con Alessia quedaron comprometidas, abriendo una brecha que **Molag Bal** — el Príncipe Daédrico de la Dominación y la Esclavitud — explotó de inmediato.
+
+## El Mecanismo de la Fusión
+
+La Fusión de los Planos no era una simple invasión. Era un intento de **superponer** físicamente Coldharbour sobre Nirn, fusionando los dos planos en uno solo. Para lograrlo, Molag Bal desplegó una red de dispositivos llamados **Anclas Oscuras** (*Dark Anchors*).
+
+Estas Anclas eran enormes estructuras mecánicas que caían del cielo, anclándose en el suelo de Tamriel y tirando literalmente de la superficie de Nirn hacia Coldharbour. Cada Ancla:
+- Invocaba hordas de daedra para defender el punto de anclaje
+- Corrompía el terreno circundante, transformándolo en un paisaje de Coldharbour
+- Debilitaba progresivamente la barrera entre los planos
+
+A lo largo de todo Tamriel, las Anclas Oscuras caían por docenas, sembrando el terror y la destrucción en cada región.
+
+## Coldharbour: El Reino de Molag Bal
+
+El plano hacia el que Nirn estaba siendo arrastrada es un lugar de desolación absoluta. Coldharbour es un mundo de ruinas eternas, cielos perpetuamente nublados y frío cortante. Las almas capturadas por Molag Bal son esclavizadas allí por la eternidad, sus cuerpos transformados en **Soul Shriven** — seres inmortales en su sufrimiento, que mueren sin fin solo para ser resucitados y sufrir de nuevo.
+
+Fue en este infierno donde el **Vestige** despertó, despojado de su alma, para comenzar su viaje contra las fuerzas del Príncipe Daédrico.
+
+## El Vestige: Un Héroe Sin Alma
+
+El protagonista de esta era — el Vestige — es un ser único: un mortal cuya alma fue arrancada por Molag Bal durante un sacrificio ritual orquestado por Mannimarco. Paradójicamente, esta pérdida se convirtió en su mayor fortaleza. Sin un alma que perder, el Vestige podía:
+
+- Resucitar indefinidamente tras la muerte
+- Resistir la dominación de Molag Bal
+- Absorber fragmentos de poder divino
+
+Guiado por **el Profeta** (en realidad Varen Aquilarios, cegado y quebrado por la culpa) y ayudado por **Lyris Titanborn**, **Sai Sahan** y **Abnur Tharn**, el Vestige se propuso reunir el Amuleto de los Reyes y poner fin a la Fusión.
+
+## La Batalla Final en Coldharbour
+
+La conclusión de la Fusión de los Planos tomó la forma de un asalto directo al corazón mismo de Coldharbour. El Vestige, fortalecido por el sacrificio de uno de sus compañeros para reactivar el Amuleto de los Reyes, se enfrentó a Molag Bal en su propio reino.
+
+Gracias al poder de Akatosh canalizado por el Amuleto, el Vestige obtuvo temporalmente suficiente poder divino para combatir al Príncipe Daédrico. Molag Bal fue derrotado — no destruido, pues un Príncipe Daédrico no puede morir — sino rechazado, obligado a abandonar su Fusión.
+
+## Consecuencias para Tamriel
+
+La Fusión de los Planos, aunque finalmente abortada, dejó cicatrices profundas:
+
+- Miles de víctimas en todo el continente
+- Regiones enteras marcadas por la corrupción daédrica
+- La confianza en las instituciones imperiales permanentemente sacudida
+- Un brutal recordatorio de que las barreras entre los planos son frágiles
+
+El evento también contribuyó a la perpetuación del caos del **Interregno**, el largo período sin un emperador legítimo que no terminó hasta el ascenso de Tiber Septim varios siglos después.
+
+## Legado en la Memoria Colectiva
+
+Curiosamente, la Fusión de los Planos es relativamente poco mencionada en las crónicas de eras posteriores. Algunos eruditos atribuyen este olvido parcial a la propia naturaleza del evento: un trauma tan vasto que la memoria colectiva prefirió enterrarlo antes que afrontarlo.

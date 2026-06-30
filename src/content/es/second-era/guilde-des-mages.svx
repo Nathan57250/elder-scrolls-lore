@@ -1,0 +1,107 @@
+---
+title: "El Gremio de Magos"
+slug: "guilde-des-mages"
+era: "second-era"
+category: "guildes"
+tags: ["vanus-galerion", "magia", "arcano", "universidades-arcanicas", "psijicos", "mannimarco", "disolucion"]
+timelineYear: 230
+summary: "Fundado por Vanus Galerion en 2E 230, el Gremio de Magos democratizó el acceso al conocimiento arcano antes de ser disuelto durante la Cuarta Era."
+sources: ["UESP: Mages Guild", "The Origin of the Mages Guild", "ESO Lore", "The Imperial Library"]
+---
+
+## Fundación y Orígenes
+
+El **Gremio de Magos** fue fundado en **2E 230** por **Vanus Galerion**, antiguo miembro de la Orden Psijica procedente de la isla de Artaeum. Galerion, nacido con el nombre de Trechtus en una familia de sirvientes altmer, tenía una visión revolucionaria: hacer que la magia fuera accesible para todos, en lugar de quedar reservada para las élites insulares de los Psijicos o para las cortes reales.
+
+### La Ruptura con los Psijicos
+
+Galerion abandonó la Orden Psijica tras un desacuerdo fundamental sobre la democratización del saber arcano. Mientras que los Psijicos consideraban la magia un arte sagrado que requería una selección rigurosa, Galerion creía que cualquier persona con talento debería poder aprenderla, siempre que tuviera los medios y la disciplina necesarios.
+
+### La Carta del Gremio
+
+El Gremio obtuvo una carta oficial del **Potentado Akaviri** que gobernaba el Imperio durante el Interregno. Dicha carta otorgaba al Gremio:
+
+- El monopolio de la enseñanza mágica organizada
+- El derecho a vender servicios mágicos al público
+- La autoridad para regular el ejercicio de ciertas magias peligrosas
+- Protección jurídica imperial para sus miembros
+
+## Estructura y Organización
+
+### Jerarquía
+
+| Rango | Función |
+|-------|---------|
+| Archimago | Líder supremo del Gremio |
+| Maestro del Gremio (regional) | Jefe de un capítulo provincial |
+| Magister | Especialista reconocido en una escuela |
+| Evocador | Miembro confirmado |
+| Conjurador | Practicante intermedio |
+| Aprendiz | Miembro junior en formación |
+| Asociado | Nuevo miembro |
+
+### Los Capítulos Provinciales
+
+Cada provincia de Tamriel contaba con al menos una **sala del gremio**, generalmente situada en capitales y ciudades importantes. Los capítulos más renombrados se encontraban en:
+
+- **Firsthold** (Isla de Balfiera) — La sede original
+- **Ciudad Imperial** (Cyrodiil) — La Universidad Arcana
+- **Sadrith Mora** (Morrowind) — Pese a la rivalidad con la Gran Casa Telvanni
+- **Wayrest** (Alta Roca) — Un reconocido centro de investigación
+
+## Áreas de Especialización
+
+El Gremio cubría todas las **escuelas de magia** reconocidas:
+
+- **Destrucción** — Magia ofensiva elemental
+- **Restauración** — Curación y protección contra los no-muertos
+- **Alteración** — Modificación de propiedades físicas
+- **Conjuración** — Invocación de entidades y criaturas
+- **Ilusión** — Manipulación de la mente y la luz
+- **Encantamiento** — Infusión de objetos con propiedades mágicas
+- **Alquimia** — Creación de pociones y venenos
+
+### Prohibiciones
+
+El Gremio prohibía formalmente la práctica de la **nigromancia** — una norma directamente vinculada a la rivalidad entre Galerion y su antiguo condiscípulo **Mannimarco**, quien abrazó las artes oscuras. No obstante, esta prohibición se relajó bajo ciertos Archimagos corruptos.
+
+## Papel Histórico
+
+### La Segunda Era
+
+Durante los eventos de la **Guerra de las Alianzas** (2E 582), el Gremio intentó mantener la neutralidad política, ofreciendo sus servicios a todas las alianzas. En la práctica, muchos magos a título individual tomaron partido.
+
+### La Tercera Era
+
+El Gremio alcanzó su apogeo bajo el Imperio Septim, convirtiéndose en una institución indispensable de la vida tamriélica. Ofrecía:
+
+- Formación mágica para los ciudadanos
+- Servicios de encantamiento y alquimia
+- Pericia ante amenazas sobrenaturales
+- Asesoramiento a líderes políticos
+
+### La Crisis de Oblivion (3E 433)
+
+Durante la invasión daédrica orquestada por Mehrunes Dagon, el Gremio desempeñó un papel crucial en la defensa de Tamriel. El Archimago **Hannibal Traven** se sacrificó atrapando su alma en una gema para que el Campeón de Cyrodiil pudiera enfrentarse a Mannimarco.
+
+## Disolución en la Cuarta Era
+
+Tras la **Crisis de Oblivion**, el Gremio de Magos fue disuelto oficialmente. Varios factores contribuyeron a su caída:
+
+1. **Escándalo de la nigromancia** — La corrupción interna erosionó la confianza pública
+2. **El Gran Derrumbe** — La catástrofe invernal provocó graves perturbaciones mágicas
+3. **Rivalidades políticas** — El Thalmor buscó controlar la enseñanza mágica
+4. **Fracturas internas** — Desacuerdos ideológicos sobre el rumbo del Gremio
+
+### Los Sucesores
+
+Tras la disolución, varias organizaciones tomaron el relevo:
+
+- El **Colegio de Winterhold** en Cielos de Hielo — independiente y más tolerante
+- El **Sínodo** en Cyrodiil — facción conservadora proImperial
+- La **Orden de los Susurros** — facción disidente más liberal
+- Las **Casas Telvanni** en Morrowind — que nunca aceptaron la autoridad del Gremio
+
+## Legado
+
+A pesar de su desaparición, el Gremio de Magos transformó Tamriel de forma irreversible. Demostró que la magia podía enseñarse de manera estructurada y accesible, estableciendo tradiciones académicas que perduran en cada institución sucesora. La visión de Vanus Galerion — un mundo donde el conocimiento arcano no es privilegio de los poderosos — sigue inspirando a los magos de la Cuarta Era.

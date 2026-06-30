@@ -1,0 +1,111 @@
+---
+title: "Founding of the Thieves Guild"
+description: "The story of the creation of the Thieves Guild during the Second Era, its founding principles, and its clandestine organization"
+slug: guilde-des-voleurs-fondation
+category: "guildes"
+era: "second-era"
+timelineYear: 560
+keywords:
+  - thieves guild
+  - second era
+  - grey fox
+  - Nicolas Closque
+  - thieves code
+  - shadow
+  - abah's landing
+---
+
+## The Founding of the Thieves Guild
+
+The Thieves Guild is one of the oldest and most structured criminal organizations in Tamriel. Unlike ordinary bandit gangs, it has always distinguished itself through a strict code of honor and a quasi-corporate organization. Its founding during the Second Era marks a turning point in the history of organized crime on the continent.
+
+## Origins
+
+### The Context of the Interregnum
+
+The founding of the Thieves Guild took place against the chaotic backdrop of the Interregnum. The absence of centralized Imperial authority created a legal vacuum that many criminals exploited. However, this same anarchy made the trade of thieving particularly dangerous: without rules, criminals competed with one another in a violent and self-destructive manner.
+
+### The Precursors
+
+Before the Guild proper, several proto-criminal organizations existed throughout Tamriel. The Bells of Hammerfell, the Reapers of High Rock, and various pickpocket brotherhoods operated in the great cities. But none possessed the scope or structure necessary to form a true transcontinental guild.
+
+## The Founding Itself
+
+### Abah's Landing
+
+One of the most important cradles of the Thieves Guild was Abah's Landing, in the Hew's Bane region of Hammerfell. This free port, relatively sheltered from the authorities, served as a testing ground for the first organizational principles of the Guild. Local thieves developed there a sophisticated system of fences, informants, and safe houses that served as a model for the future organization.
+
+### The First Guildmasters
+
+The hierarchical structure of the Thieves Guild was established from its very founding. At its head stood a Guildmaster whose identity was often secret or protected by magical artifices. District captains supervised operations in each city, while fences ensured the disposal of stolen goods.
+
+## The Thieves Code
+
+### The Fundamental Principles
+
+The Thieves Code constitutes the cornerstone of the organization. Its main rules are:
+
+- Never steal from another member of the Guild
+- Never kill during a burglary except in absolute self-defense
+- Never betray the Guild to the authorities
+- Honor accepted contracts
+- Return a share of earnings to the Guild
+
+### The Philosophy of Theft
+
+The Thieves Guild differs fundamentally from the Dark Brotherhood in its philosophy. Where assassins embrace death as an art, thieves regard their trade as an act of redistribution. Theft is viewed not as an act of violence, but as a demonstration of skill and intelligence.
+
+### Sanctions
+
+Any breach of the Code results in severe penalties. A thief who kills unnecessarily during a mission may be banished from the Guild. A traitor faces reprisals that, while not extending to systematic murder, may include financial ruin and public exposure of their past crimes.
+
+## Organization and Structure
+
+### Headquarters
+
+Each chapter of the Guild possesses a hidden headquarters, generally located in the sewers, catacombs, or underground passages of the great cities. These lairs serve simultaneously as meeting places, storage for stolen goods, and refuges in times of danger.
+
+### The Fence Network
+
+One of the Guild's major innovations was the creation of an organized network of fences. These apparently legitimate merchants buy stolen goods and resell them through indirect channels. This system allows thieves to quickly dispose of their loot without exposing themselves to the danger of direct resale.
+
+### Specializations
+
+The Guild recognizes several specializations among its members:
+
+- Burglars, specialists in breaking and entering
+- Pickpockets, experts in theft from the person
+- Roof-walkers, acrobats who steal by rooftop
+- Con artists, masters of manipulation
+- Infiltrators, capable of penetrating enemy organizations
+- Scouts, who identify targets and plan operations
+
+## Relations with Other Factions
+
+### The Dark Brotherhood
+
+Relations between the Thieves Guild and the Dark Brotherhood have always been complex. While both organizations operate outside the law, their philosophies are diametrically opposed. The Guild forbids gratuitous killing while the Brotherhood makes it their trade. A mutual respect tinged with wariness characterizes their interactions.
+
+### The Authorities
+
+The Guild often maintains ambiguous relationships with local authorities. In some cities, corrupt guards turn a blind eye to Guild activities in exchange for bribes. In others, the pursuit of thieves is conducted relentlessly, forcing the Guild into total concealment.
+
+### The Merchants Guild
+
+Relations with the Merchants Guild are naturally conflictual, as merchants are the most frequent victims of thieves. However, some unscrupulous merchants collaborate with the Guild to eliminate their competitors or recover lost goods.
+
+## Expansion Across Tamriel
+
+### Provincial Chapters
+
+In the decades following its founding, the Thieves Guild extended its influence to all provinces of Tamriel. Each provincial chapter adapted the founding principles to local realities while maintaining allegiance to the common Code.
+
+### The Grey Fox
+
+One of the Guild's most mysterious traditions is that of the Grey Fox, a title and mask passed from generation to generation to the supreme head of the organization. The Grey Cowl of Nocturnal, a Daedric artifact, grants its wearer total anonymity — the world literally forgets the identity of whoever wears it.
+
+## The Guild's Legacy
+
+The founding of the Thieves Guild during the Second Era established a model of criminal organization that endured through the ages. Its influence on Tamrielic society is immense: it regulates crime, limits gratuitous violence, and paradoxically offers a form of stability in the underworld. Without it, banditry would be far more chaotic and dangerous for civilian populations.
+
+The Guild survived every political transition — from the Interregnum to the Septim Empire, from the Oblivion Crisis to the rise of the Aldmeri Dominion — proving that as long as there are riches to redistribute, thieves will have their place in the world.

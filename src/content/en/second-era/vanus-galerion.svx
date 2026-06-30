@@ -1,0 +1,57 @@
+---
+title: "Vanus Galerion"
+slug: "vanus-galerion"
+era: "second-era"
+category: "personnages"
+tags: ["mages-guild", "mannimarco", "magic", "artaeum", "psijic", "necromancy"]
+timelineYear: 230
+summary: "Vanus Galerion, founder of the Mages Guild, democratized access to magic and led a crusade against his former fellow student Mannimarco, the King of Worms."
+sources: ["Origin of the Mages Guild", "Mannimarco, King of Worms", "Guild Mages' History", "The Elder Scrolls Online"]
+---
+
+# Vanus Galerion — The Democrat of Magic
+
+## Origins on Artaeum
+
+Born under the name **Trechtus** into a family of servants on the Summerset archipelago, the man who would become Vanus Galerion showed exceptional magical ability from an early age. His raw talent attracted the attention of the Psijic Order — Tamriel's oldest and most secretive brotherhood of mages — who welcomed him onto their mysterious island of Artaeum.
+
+On Artaeum, the young Trechtus — who adopted the name Vanus Galerion — received a magical education of incomparable quality. But it was also there that he met the man who would become his eternal nemesis: **Mannimarco**, a brilliant but morally unscrupulous Altmer, fascinated by the forbidden arts of necromancy.
+
+## The Break with Mannimarco
+
+The relationship between Galerion and Mannimarco perfectly illustrates the fundamental duality of magic — its potential for both benefit and corruption. While Galerion saw in the arcane arts a means of elevating humankind, Mannimarco sought through them to achieve dominion over death itself.
+
+When Galerion discovered Mannimarco's necromantic experiments — profaning the dead and enslaving souls — he denounced him to the masters of the Psijic Order. Mannimarco's expulsion from Artaeum marked the beginning of an enmity that would span the ages. The future King of Worms never forgave this betrayal, and Galerion never ceased to pursue him.
+
+## The Founding of the Mages Guild
+
+Galerion's most revolutionary contribution to Tamrielic history was without question the creation of the **Mages Guild** in 2E 230. His philosophy was radically simple: magic must not be the exclusive privilege of an elite locked away in ivory towers. It should be accessible to anyone who possessed the talent and the will to learn it.
+
+This vision met fierce resistance. The Psijic Order considered this democratization dangerous and irresponsible. The nobles of Summerset looked askance at the possibility of commoners gaining arcane power. But Galerion persevered, establishing guild halls throughout all of Tamriel and offering training and employment to mages of every background.
+
+## Principles and Organization
+
+The Mages Guild as conceived by Galerion rested on several fundamental principles:
+
+- **Universal access**: Any individual with magical ability could join the guild, regardless of race, social rank, or wealth.
+- **Responsibility**: Guild mages were subject to a strict ethical code forbidding the use of necromancy and other practices deemed dangerous.
+- **Public service**: The guild offered its services to local communities — enchantments, alchemy, healing — making magic useful in everyday life.
+- **Regulated research**: The study of the arcane arts had to take place within a regulated framework, minimizing the risks of accidents or abuses.
+
+This structure allowed magic to integrate into the social fabric of Tamriel in a way that had never been seen before.
+
+## The War Against the King of Worms
+
+The conflict between Galerion and Mannimarco reached its peak when the latter, having become the dreaded **King of Worms**, assembled an order of necromancers powerful enough to threaten the very balance of Tamriel. Galerion gathered an army of guild mages and marched against Mannimarco's forces in what proved to be one of the most devastating magical confrontations in history.
+
+The battle was apocalyptic. The chronicles report that the sky tore open and the earth itself screamed under the impact of the spells exchanged. Hundreds of mages died on both sides. At the heart of the melee, Galerion and Mannimarco clashed directly in a duel that shook the very foundations of reality.
+
+## Death and Sacrifice
+
+Vanus Galerion met his death during this final battle against Mannimarco. Although he managed to inflict considerable damage upon the necromantic forces, the price was his own life. His sacrifice did not permanently destroy Mannimarco — whose nature had become partially divine — but weakened the Order of the Worm enough to protect Tamriel for generations.
+
+Galerion's death transformed the founder into a martyr and secured the perpetuity of his work. The Mages Guild endured for centuries after his passing, becoming one of the most influential institutions in the Empire.
+
+## Enduring Legacy
+
+The legacy of Vanus Galerion goes far beyond the mere founding of an institution. He embodies a vision of magic as a democratic and civilizing force, accessible to all and in service to society. In a world where arcane power can corrupt as easily as it can elevate, Galerion represents the ideal of the responsible mage — powerful but ethical, learned but humble, and willing to die for his convictions.

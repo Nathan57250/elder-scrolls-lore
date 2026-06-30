@@ -1,0 +1,56 @@
+---
+title: "Sotha Sil's Clockwork City"
+slug: "clockwork-city"
+era: "second-era"
+category: "lieux"
+tags: ["clockwork-city", "sotha-sil", "tribunal", "fabricants", "dwemer", "mecanique", "morrowind"]
+timelineYear: 600
+summary: "The Clockwork City, Sotha Sil's masterwork, an artificial world of cogs and gears designed to replace the imperfection of Mundus."
+sources: ["The Truth in Sequence", "Clockwork City DLC (ESO)", "Sotha Sil and the Scribes", "The 36 Lessons of Vivec"]
+---
+
+## The Vision of Sotha Sil
+
+The **Clockwork City** is the most ambitious creation of **Sotha Sil**, the third member of Morrowind's **Tribunal**. Conceived as a perfect microcosm — an entirely artificial world operating according to mechanical rather than divine laws — the Clockwork City represents the ultimate attempt to transcend the imperfections of **Mundus** through pure engineering.
+
+Sotha Sil, obsessed with the mysteries of time and causality, undertook the construction of this miniature universe within an enclosed dimensional space, accessible only through specific portals. His vision was radical: if the gods had created an imperfect world, a mortal become god could design a better one — a world where every variable would be controlled, every outcome predictable.
+
+## Architecture and Function
+
+The Clockwork City is a labyrinth of **gears**, cogs, steam pipes, and clockwork mechanisms of dizzying complexity. Every surface is metallic — brass, steel, unknown alloys — and every structure is in perpetual motion. Gears as large as mountains turn with perfect precision, powering systems whose ultimate function sometimes remains obscure even to their inhabitants.
+
+The environment is divided into several sectors: the **Brass Fortress**, the administrative and residential center; the **Clockwork Basilica**, a temple dedicated to Sotha Sil; and **Slag Town**, the peripheral district where dysfunctional factotums and exiles dwell. An artificial sky — a mechanical dome simulating the day/night cycle — looms over everything.
+
+## The Fabricants
+
+The mechanical inhabitants of the City — the **Fabricants** — constitute one of Sotha Sil's most remarkable creations. These artificial beings, a blend of metal and organic matter, serve as the labor force, guards, and sometimes full citizens. Some possess a form of their own intelligence and consciousness, raising philosophical questions about the nature of life and the soul.
+
+The Fabricants are divided into several types: **Factotums**, humanoid servants that carry out daily tasks; **Imperfects**, massive mechanical combat giants; and various hybrid creatures that are part organic, part mechanical, populating the artificial environment. Sotha Sil created and modified them continually, perfecting his designs in an endless quest for optimization.
+
+## The Dwemer Legacy
+
+The Clockwork City shares a deep connection with **Dwemer** technology. Sotha Sil, a native of Morrowind where Dwemer ruins abound, intensively studied their science before surpassing it. Where the Dwemer sought to understand and manipulate the laws of nature, Sotha Sil aspired to rewrite them entirely.
+
+However, the differences are significant. Dwemer technology relied on tonal manipulation — the use of sound and resonance to alter matter. Sotha Sil's technology adds the divine component — the power of the **Heart of Lorkhan** that he shared with **Vivec** and **Almalexia** through the Tribunal — creating a unique fusion of science and divinity.
+
+## The Virtual Underworld
+
+The most philosophically troubling aspect of the Clockwork City is its **Virtual Underworld** — a digital simulation (ahead of its time) of reality created by Sotha Sil to test modifications to the universe before applying them. In this space, he could model the consequences of changes to the fundamental laws of Mundus, seeking the optimal configuration of reality.
+
+This ambition — to rewrite the laws of the universe — illustrates the characteristic hubris of the Tribunal. Sotha Sil was not content merely to be a god: he wanted to be the architect of a better reality, surpassing **Magnus** himself in his role as designer of worlds.
+
+## The Mortal Inhabitants
+
+Despite its artificial nature, the Clockwork City houses a mortal population — the **Apostles** and the **Sequesters**. The Apostles are devotees of Sotha Sil who voluntarily left the surface world to live within his creation, studying his teachings and participating in the maintenance of the city. The Sequesters are more ordinary citizens, living in the Brass Fortress and practicing trades suited to the mechanical environment.
+
+Life in the Clockwork City demands radical adaptation: breathing air filtered by mechanisms, eating synthesized substances, and accepting a life in a world where nothing — absolutely nothing — is natural. Some inhabitants come to regard the surface world as "the imperfection" and the City as the only worthwhile reality.
+
+## The Fall of Sotha Sil
+
+The death of **Sotha Sil** at the hands of **Almalexia** in 3E 427 dealt a terrible blow to the Clockwork City. Deprived of its creator and maintainer, the city began slowly to deteriorate — mechanisms seized up, sectors became unstable, and the Fabricants progressively lost their coherence. Without the divine will of Sotha Sil to sustain them, the most complex systems fell into dysfunction.
+
+Yet the City did not collapse entirely. The most fundamental mechanisms continued to function, maintained by their own inertia and by the Apostles who perpetuated the teachings of their departed master. The City survives, diminished but still operational — an eternal testament to the ambition of an artificial god.
+
+## Cosmological Significance
+
+The Clockwork City raises a fundamental question: is perfection achievable through engineering? Sotha Sil believed it was — that reason and mechanics could surpass the divine chaos that had engendered Mundus. His city is proof that an artificial world can exist and function, but its inability to become truly alive without constant divine intervention suggests that perfect creation remains out of reach — even for a god.

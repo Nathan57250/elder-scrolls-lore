@@ -1,0 +1,121 @@
+---
+title: "Mannimarco, the King of Worms"
+slug: "mannimarco"
+era: "second-era"
+category: "personnages"
+tags: ["mannimarco", "necromancy", "king-of-worms", "vanus-galerion", "warp-in-the-west", "god-of-worms", "order-of-the-black-worm"]
+timelineYear: 230
+summary: "Tamriel's first great necromancer and eternal rival of Vanus Galerion, Mannimarco ascended to godhood during the Warp in the West in 3E 417."
+sources: ["UESP: Mannimarco", "The Warp in the West", "Mannimarco, King of Worms", "ESO Lore", "The Imperial Library"]
+---
+
+## Origins: Artaeum and the Betrayal
+
+**Mannimarco** was born an Altmer of the Summerset Isles, probably in the early Second Era. Endowed with exceptional magical talent, he was accepted into the **Psijic Order** on the mystical island of Artaeum — the same order that trained his future rival.
+
+### Fellow Student of Galerion
+
+On Artaeum, Mannimarco studied alongside **Trechtus** (the future Vanus Galerion). The two young mages were considered the most brilliant of their generation, but their philosophies diverged radically:
+
+- **Galerion** wanted to democratize magic for the good of all
+- **Mannimarco** sought to transcend mortality through dominion over the dead
+
+### The Expulsion
+
+Mannimarco began to experiment with **necromancy** in secret — animating corpses, trapping souls, communicating with the dead. When his practices were discovered, the Psijic Order **expelled** him from Artaeum. This humiliation fed an eternal hatred of the magical establishment and of Galerion in particular.
+
+## The Rise of the King of Worms
+
+### Founding the Order of the Black Worm
+
+After his expulsion, Mannimarco did not fade into obscurity. He founded the **Order of the Black Worm** — a necromantic cult that attracted renegade mages, seekers of immortality, and corrupted souls from across Tamriel.
+
+The Order was structured as an anti-Mages Guild:
+
+- Where the Guild forbade necromancy, the Order made it its specialty
+- Where the Guild served the public, the Order served only its master
+- Where the Guild sought knowledge, the Order sought **absolute power**
+
+### The Powers of the King of Worms
+
+Over the centuries, Mannimarco accumulated terrifying power:
+
+- **Immortality** — Through necromancy and lichdom, he transcended natural death
+- **Undead armies** — Entire legions obeyed his will
+- **Soul trapping** — He mastered the capture and use of souls to an unmatched degree
+- **Political manipulation** — His agents infiltrated every institution in Tamriel
+
+## The Rivalry with Vanus Galerion
+
+### The Eternal Conflict
+
+The rivalry between Mannimarco and Galerion is one of the most enduring conflicts in the lore. Two magical geniuses, two irreconcilable visions of the world:
+
+| Aspect | Vanus Galerion | Mannimarco |
+|--------|---------------|------------|
+| Objective | Democratize magic | Dominate through magic |
+| Method | Education and structure | Terror and necromancy |
+| View of death | Sacred rest | Resource to be exploited |
+| Legacy | The Mages Guild | The Order of the Black Worm |
+| Legitimacy | Recognized by the Empire | Hunted as heresy |
+
+### The Final Battle
+
+Galerion ultimately assembled an army of Guild mages to confront Mannimarco directly. The battle was **apocalyptic** — hundreds of mages and undead clashed in a cataclysm of fire, ice, and necromantic energy.
+
+Galerion **died** during the battle, but his sacrifice considerably weakened Mannimarco, forcing him to retreat into the shadows for centuries. The victory was pyrrhic — both sides were decimated.
+
+## Role During the Three Banners War (2E 582)
+
+### The Supreme Manipulator
+
+During the events of *Elder Scrolls Online*, Mannimarco appears as one of the principal antagonists. He:
+
+- Ostensibly served **Molag Bal** in the Planemeld project
+- Manipulated the **Five Companions** who sought to light the Dragonfires
+- Secretly planned to **betray Molag Bal** and seize his power
+- Used the Vestige (the player) and all factions as pawns
+
+### Boundless Ambition
+
+Mannimarco's plan was of insane audacity: to use the Amulet of Kings and Molag Bal's ritual to **usurp the power of a Daedric Prince**. He failed in 2E 582, but this ambition foreshadowed his future apotheosis.
+
+## The Apotheosis: The Warp in the West (3E 417)
+
+### The Numidium and the Dragon Break
+
+The most extraordinary moment of Mannimarco's existence came during the **Warp in the West** in 3E 417 — a metaphysical event in which the **Numidium** was activated simultaneously by multiple factions in the Iliac Bay region.
+
+The **Dragon Break** that resulted created a temporal paradox: **all possible outcomes** of the Numidium's activation occurred simultaneously. Reality itself fractured.
+
+### The God of Worms
+
+In one of these simultaneous realities (all of which became true), Mannimarco used the power of the Numidium to **ascend to godhood**. He became the **God of Worms** — a necromantic moon, a body of undeath orbiting Arkay, the Divine of life and death.
+
+### The Mannimarco Paradox
+
+After the Warp in the West, Mannimarco exists in **two simultaneous forms**:
+
+1. **The God of Worms** — A divine entity, a dark moon that periodically eclipses Arkay and allows necromancers to create black soul gems
+2. **The mortal Mannimarco** — A powerful but fallible necromancer, who reappears during the Oblivion Crisis (3E 433) and can be defeated
+
+This paradox is a direct consequence of the Dragon Break: both states coexist without contradiction in the fractured metaphysics of the Aurbis.
+
+## Legacy and Influence
+
+### Impact on Magic
+
+Mannimarco irreversibly transformed magical practice across Tamriel:
+
+- He proved that necromancy could rival any other school
+- His existence justified the Mages Guild's prohibition of necromancy
+- He inspired generations of necromancers — and motivated their persecutors
+- His ascension proved that a mortal could become a god through magic alone
+
+### Black Soul Gems
+
+One of the practical consequences of the God of Worms' existence: when his necromantic moon eclipses Arkay (an event called the **Shade of the Revenant**), enchanters can create **black soul gems** — gems capable of capturing the souls of sapient mortals, an act normally impossible.
+
+### A Necessary Evil?
+
+Some Tamrielic scholars argue that Mannimarco, despite his horrors, served a cosmic role. His rivalry with Galerion drove the Mages Guild to continually improve. His divine ascension created a counterweight to Arkay, maintaining a cosmic balance between life and death. The King of Worms is hated, feared — but never ignored.

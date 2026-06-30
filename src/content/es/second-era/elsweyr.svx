@@ -1,0 +1,67 @@
+---
+title: "Elsweyr: La Tierra de los Khajiit"
+slug: "elsweyr"
+era: "second-era"
+category: "lieux"
+tags: ["elsweyr", "khajiit", "lunas", "furstocks", "criniera", "azucar-lunar", "anequina", "pellitine"]
+timelineYear: 309
+summary: "Elsweyr es la enigmática patria de los Khajiit, un pueblo felino cuya morfología está determinada por las lunas y cuya cultura oscila entre el refinamiento y la fiereza."
+sources: ["Mixed Unit Tactics", "Pocket Guide to the Empire, 3rd Edition", "Ahzirr Traajijazeri", "Words of Clan Mother Ahnissi"]
+---
+
+![Mapa de Tamriel](/images/common/tamriel-map.jpg)
+
+## Elsweyr: La Tierra de las Arenas y las Lunas
+
+Elsweyr es la provincia más meridional del continente de Tamriel, una tierra de contrastes donde los áridos desiertos del norte dan paso a las exuberantes junglas del sur. Pero la verdadera singularidad de Elsweyr no es su geografía: es su pueblo, los Khajiit, una raza felina cuya complejidad biológica y cultural supera la comprensión de la mayoría de las demás razas.
+
+## Los Khajiit: Hijos de las Lunas
+
+Los Khajiit se designan a sí mismos como los hijos de Azurah (Azura), quien los dio forma a partir de los Bosmer — o, según su propia mitología, quien les reveló su verdadera forma oculta por los engaños de Y'ffre. Sea cual sea la verdad, los Khajiit son un pueblo único cuya existencia está íntimamente ligada a las dos lunas de Nirn: Masser (Jone) y Secunda (Jode).
+
+La sociedad khajiit está construida alrededor de la familia, el clan y la devoción a las lunas. Su lengua, el Ta'agra, es melodiosa y compleja, y su tendencia a hablar de sí mismos en tercera persona suele desconcertar a los forasteros.
+
+## Los Furstocks: Morfología Lunar
+
+El aspecto más extraordinario de la biología khajiit es el sistema de Furstocks. La forma física de un Khajiit no está determinada por sus padres sino por la fase de las dos lunas en el momento de su nacimiento. Según el alineamiento de Masser y Secunda, un Khajiit puede nacer en una de al menos dieciséis formas radicalmente diferentes:
+
+- **Alfiq**: Del tamaño y la apariencia de un gato doméstico, pero completamente inteligente y capaz de magia
+- **Senche-raht**: Tan grande como un caballo de guerra, cuadrúpedo, utilizado como montura por otros Khajiit
+- **Cathay**: La forma bípeda más comúnmente observada por otras razas, de tamaño humano
+- **Ohmes**: Casi indistinguible de un Bosmer, sin pelo ni cola visibles
+- **Pahmar**: Del tamaño y la forma de un tigre, cuadrúpedo y feroz
+- **Dagi**: Pequeño y arborícola, adaptado a la vida en los árboles del sur
+
+Todas estas formas son consideradas Khajiit plenos dentro de su sociedad. Un Alfiq aparentemente idéntico a un gato callejero puede ser un poderoso mago o un respetado jefe de clan. Esta diversidad morfológica es fuente de numerosos malentendidos con otras razas, que tienen dificultades para aceptar que un felino cuadrúpedo y un humanoide peludo pertenezcan al mismo pueblo.
+
+## La Criniera (The Mane)
+
+La Criniera es la dirigente espiritual suprema de los Khajiit, nacida durante un alineamiento lunar extraordinariamente raro que involucra una tercera luna secreta, el Jinete de Jone y Jode. Nunca hay más de una Criniera viva en el mundo al mismo tiempo, y su nacimiento es un acontecimiento de alcance cósmico para todo el pueblo khajiit.
+
+La Criniera es reconocible por su extraordinaria melena, en la que los Khajiit de todo el pueblo trenzan mechones de su propio pelo como signo de devoción. Con el paso de los años, esta melena se vuelve tan voluminosa que la Criniera ya no puede moverse sin ayuda y es transportada por sirvientes en las escasas ceremonias públicas.
+
+El papel de la Criniera es el de unificador espiritual más que de gobernante político. Su voz es la de las propias lunas, y sus decretos son considerados revelaciones divinas más que leyes seculares.
+
+## El Azúcar Lunar y el Skooma
+
+El Azúcar Lunar (Moon Sugar) es la sustancia más importante y más controvertida de Elsweyr. Esta droga cristalina, cosechada en los cañaverales de la región de Tenmar, está omnipresente en la cultura khajiit: forma parte de casi todos sus alimentos, bebidas y remedios medicinales. Para los Khajiit, el Azúcar Lunar es un regalo sagrado de las lunas, una sustancia divina que nutre tanto el cuerpo como el alma.
+
+El Skooma es un derivado refinado del Azúcar Lunar, una droga de potencia devastadora que crea una dependencia casi instantánea en los no Khajiit. El comercio del Skooma es ilegal en todo el Imperio, pero constituye una de las principales exportaciones clandestinas de Elsweyr, alimentando redes criminales por todo Tamriel.
+
+Esta economía gris es una fuente perpetua de tensión entre Elsweyr y sus vecinos. Los Khajiit no comprenden la criminalización de lo que consideran un sacramento, mientras que otras provincias ven el comercio del Skooma como una amenaza existencial para sus poblaciones.
+
+## Anequina contra Pellitine
+
+Elsweyr está históricamente dividida en dos reinos rivales cuya unificación en 2E 309 dio origen a la Confederación de Elsweyr:
+
+**Anequina** ocupa el norte de la provincia, una tierra de estepas áridas y desiertos poblada por clanes nómadas guerreros. Los Khajiit de Anequina son reconocidos por su feroz independencia, su talento marcial y su modo de vida espartano. Desprecian el lujo y la decadencia del sur.
+
+**Pellitine** se extiende al sur, en las fértiles junglas tropicales. Sus habitantes desarrollaron una refinada civilización de ciudades-estado comerciales, palacios suntuosos y una sofisticada cultura artística. Los Pellitinos consideran a los Anequinenses como bárbaros incultos.
+
+La unificación de los dos reinos fue un frágil compromiso político, y las tensiones entre norte y sur nunca desaparecieron verdaderamente. El Thalmor explotó estas divisiones para anexionar Elsweyr al Dominio Aldmeri, dividiendo de nuevo la provincia en dos entidades vasallas: el Reino de Anequina y el Reino de Pellitine.
+
+## Bajo el Yugo del Thalmor
+
+La dominación del Thalmor sobre Elsweyr se logró tanto por la astucia como por la fuerza. Cuando las dos lunas desaparecieron del cielo durante dos años (el Vacío de las Lunas), provocando un pánico existencial entre los Khajiit, el Thalmor afirmó haber restaurado las lunas mediante su magia. Agradecidos, los Khajiit aceptaron la alianza con el Dominio Aldmeri, sin saber que la propia desaparición había sido probablemente orquestada por el Thalmor.
+
+Desde entonces, Elsweyr sirve al Dominio como territorio vasallo, proporcionando guerreros y exploradores a los ejércitos aldmeri mientras soporta una creciente influencia cultural de sus amos altmer.

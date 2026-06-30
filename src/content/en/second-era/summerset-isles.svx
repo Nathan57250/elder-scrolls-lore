@@ -1,0 +1,56 @@
+---
+title: "The Summerset Isles"
+slug: "summerset-isles"
+era: "second-era"
+category: "lieux"
+tags: ["summerset", "altmer", "high-elves", "crystal-tower", "alinor", "thalmor", "artaeum"]
+timelineYear: 100
+summary: "The Summerset Isles, ancestral homeland of the Altmer, home to the Crystal Tower and a millennia-old Elven civilization of unmatched sophistication."
+sources: ["Pocket Guide to the Empire: The Summerset Isles", "Rising Threat", "Before the Ages of Man", "The Crystal Tower"]
+---
+
+## The Archipelago of the High Elves
+
+The **Summerset Isles** (also known as Alinor since the Fourth Era) form an archipelago located to the southwest of Tamriel, in the waters of the Eltheric Ocean. Composed of two main islands — **Summerset** proper and **Auridon** — along with several smaller islets, the archipelago constitutes the ancestral homeland of the **Altmer** (High Elves) and the cradle of Elven civilization in Tamriel.
+
+The landscape of the Summerset Isles is renowned for its supernatural beauty: shores of golden crystal, forests with iridescent foliage, perfect meadows where no blade of grass grows askew, and cities whose architecture defies the laws of physics. Everything in the archipelago reflects the Altmer quest for absolute perfection.
+
+## Alinor, the Radiant City
+
+**Alinor**, the capital of the archipelago, is described by the rare foreign travelers permitted to behold it as a city of indescribable splendor. Its towers rise so high that they seem to pierce the clouds, built from materials whose exact nature — crystal, living coral, solidified light — remains debated. Altmer architecture transcends mere construction: it is a form of magical art where every building is both physical structure and living enchantment.
+
+The streets of Alinor are paved with luminous stones, its gardens harbor plant species found nowhere else on Nirn, and its libraries preserve knowledge stretching back to the dawn of Elven civilization. To the Altmer, Alinor is not merely a city — it is tangible proof of their claimed cultural superiority.
+
+## The Crystal Tower
+
+The **Crystal Tower** (Crystal-Like-Law, or Transparent Law) is the most sacred structure in the Summerset Isles. Erected during the Merethic Era, it is one of the metaphysical **Towers** maintaining the stability of Mundus — on par with **Ada-Mantia** in High Rock or the **White-Gold Tower** in Cyrodiil. Its Convention Stone — the mystical focus that anchors it to reality — grants the archipelago a particular dimensional stability.
+
+The Tower also served as a supreme center of learning: only the most accomplished Altmer mages had the privilege of studying within its walls. Its destruction during the **Oblivion Crisis** in 3E 433, when the forces of **Mehrunes Dagon** invaded the Summerset Isles, constituted a profound trauma for Altmer civilization — and, according to some scholars, weakened the very fabric of reality.
+
+## Altmer Society
+
+The society of the Summerset Isles is the most rigidly hierarchical in all of Tamriel. The Altmer consider themselves direct descendants of the **Aldmer** — the primordial Elves of **Aldmeris** — and organize their society around concepts of racial purity and spiritual refinement. Every aspect of life — from birth to death — is governed by strict conventions aimed at preserving and improving the bloodline.
+
+The social structure rests on a system of hereditary castes: the **Sapiarchs** (scholars), priests of the **Divine**, warriors, artisans, and laborers. Social mobility is theoretically possible through merit but practically rare. Children deemed "imperfect" at birth were traditionally abandoned — a practice whose present-day existence is denied by Altmer authorities.
+
+## The Psijic Order and Artaeum
+
+The island of **Artaeum**, the third of the Summerset Isles by historical importance, is the seat of the **Psijic Order** — the oldest known magical organization in Tamriel. Founded in the early First Era by **Iachesis** and his disciples, the Psijic Order practices the Old Way (the Psijic Endeavor), a mystical philosophy predating all organized religions in Tamriel.
+
+Artaeum has the troubling peculiarity of physically disappearing for entire centuries — literally withdrawing from the mortal plane — before reappearing without explanation. The island vanished for much of the Second Era, only returning in the Third, adding to the mystery surrounding the Order and its practices.
+
+## Foreign Policy and Isolationism
+
+The Summerset Isles practiced strict isolationism for most of their history. Foreigners — including other Elven races — were not welcome, and trade with the mainland was strictly regulated. This policy reflected the Altmer conviction of their innate superiority: why stoop to associating with "inferior" races?
+
+This isolationism was broken only by force — first by **Tiber Septim** who conquered the archipelago using the **Numidium** at the end of the Second Era, then by forced integration into the Septim Empire. The humiliation of Imperial conquest fed a resentment that smoldered for centuries before erupting with the rise of the **Thalmor**.
+
+## The Thalmor and the Altmer Renaissance
+
+The **Thalmor** — an ultranationalist Altmer political movement — emerged from the ashes of the Oblivion Crisis by claiming victory against the forces of Dagon. Seizing power over the Summerset Isles, they renamed the archipelago **Alinor** (after the capital) and established an authoritarian regime founded on Altmer racial supremacy.
+
+Under the Thalmor, the Summerset Isles once again became the center of an Elven empire — the **Aldmeri Dominion** — encompassing Valenwood and Elsweyr. This resurgence of Altmer power, culminating in the **Great War** against the Empire and the **White-Gold Concordat**, demonstrates the Altmer's capacity to transform their sense of superiority into concrete geopolitical power.
+
+## Mysteries and Secrets
+
+The Summerset Isles harbor mysteries that even their inhabitants do not fully understand. Ruins predating the Aldmer dot the archipelago — who built them? The underwater coral labyrinths house creatures whose intelligence is debated. And the exact nature of the magic that keeps Altmer cities standing — architecture that should collapse according to ordinary physical laws — remains a subject of speculation among mainland scholars.

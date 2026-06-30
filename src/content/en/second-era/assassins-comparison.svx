@@ -1,0 +1,98 @@
+---
+title: "Morag Tong vs Dark Brotherhood"
+slug: "assassins-comparison"
+era: "second-era"
+category: "guildes"
+tags: ["morag-tong", "dark-brotherhood", "assassins", "mephala", "sithis", "night-mother"]
+timelineYear: 350
+summary: "A comparison between the Morag Tong, Morrowind's legal guild of assassins, and the Dark Brotherhood, a clandestine organization that venerates Sithis."
+sources: ["The Morag Tong", "The Night Holds All", "The Five Tenets", "Guide to the Dark Brotherhood"]
+---
+
+## Two philosophies of assassination
+
+**Tamriel** is home to two major assassin organizations, radically different in their philosophy, structure, and legitimacy: the **Morag Tong** and the **Dark Brotherhood**. While both practice murder as a profession, the comparison ends almost there — their motivations, methods, and justifications are diametrically opposed.
+
+The Morag Tong is a legal institution, sanctioned by the government of **Morrowind**, that practices assassination as a socially accepted form of conflict resolution. The Dark Brotherhood is a clandestine criminal organization, hunted by authorities across all of Tamriel, that kills for money and devotion to **Sithis**, the primordial Void.
+
+This duality reflects a fundamental question of Tamrielic civilization: can murder ever be legitimate? And if so, what conditions make it acceptable?
+
+## The Morag Tong: sanctified assassination
+
+The **Morag Tong** — literally "the Guild of Anticipated Blows" — is an organization of assassins that has operated legally in **Morrowind** since the Merethic Era. Its legitimacy rests on two foundations: the religious sanction of **Mephala** and the legal recognition of the **Writ** system.
+
+Mephala, the Webspinner, Daedra of secrecy and intrigue, has patronized the Morag Tong since its founding. In Dunmer cosmology, ritual assassination is considered a sacred act — an offering to Mephala that maintains the balance of power among the **Great Houses** of Morrowind.
+
+The Writ system is the legal mechanism that distinguishes the Morag Tong from simple murder. A Writ is an official contract, issued by competent authorities, authorizing the execution of a specific individual. An assassin carrying a valid Writ cannot be prosecuted for their act — they are, technically, an official carrying out a sentence.
+
+## How the Morag Tong operates
+
+The structure of the Morag Tong is almost bureaucratic in its organization:
+
+A client wishing someone dead — typically a noble of one Great House targeting a member of a rival house — files an official request accompanied by payment. The **Guildmaster** evaluates the request, verifies its legality, and assigns an assassin.
+
+The assassin receives a **sealed Writ** which they carry throughout the mission. If captured before the execution, the Writ proves they are acting within a legal framework. If they succeed, they present the Writ as proof of the legitimacy of the act.
+
+This system fulfills a specific social function: it channels rivalries between Great Houses into a controlled framework, preventing open warfare between factions that would devastate Morrowind. A targeted assassination is less destructive than a civil war.
+
+Members of the Morag Tong kill **only** on a Writ. Assassination for personal motives, mass poisoning, or gratuitous murder are strictly forbidden and punished by the execution of the offending member.
+
+## The Dark Brotherhood: murder as sacrament
+
+The **Dark Brotherhood** was born — according to its own mythology — from a schism within the Morag Tong, when a group of dissidents rejected Mephala's tutelage in favor of **Sithis**, the primordial Void, and the **Night Mother**, his earthly representative.
+
+For the Brotherhood, assassination is not a social service or a political act — it is a religious sacrament. Each killing is an offering to Sithis, a soul sent into the eternal Void. The killer is not a professional but a priest, and their blade is a liturgical instrument.
+
+The **Night Mother** — a spectral entity said to have been the first murderer to dedicate her kills to Sithis — communicates contracts to assassins through a macabre ritual: the **Listening**. A designated member, the Listener, hears the voice of the Night Mother and relays her orders to the various sanctuaries.
+
+The ritual of the **Black Sacrament** allows anyone to contact the Brotherhood to request a killing: one need only surround an effigy of bone and human flesh with candles and recite an incantation. The Night Mother hears, and an assassin is sent.
+
+## The Five Tenets of the Brotherhood
+
+The Dark Brotherhood is governed by the **Five Tenets**, a strict code regulating the behavior of its members:
+
+**First Tenet**: Never dishonor the Night Mother. Any disrespect toward the patron entity is punishable by death.
+
+**Second Tenet**: Never betray the Brotherhood or its secrets. Confidentiality is absolute.
+
+**Third Tenet**: Never disobey an order from a superior in the hierarchy. The Listener commands the Speakers, who command the ordinary assassins.
+
+**Fourth Tenet**: Never steal from a brother or sister of the Brotherhood. Internal solidarity is sacred.
+
+**Fifth Tenet**: Never kill a brother or sister of the Brotherhood (except on orders). Unauthorized fratricide unleashes the wrath of Sithis.
+
+Violation of these tenets invites a visit from a **Lucien Lachance** — a vengeful spirit sent by Sithis himself to punish the transgressor.
+
+## Fundamental differences
+
+Several crucial differences separate the two organizations:
+
+**Legitimacy**: The Morag Tong operates within a legal framework in Morrowind; the Brotherhood is universally illegal and hunted.
+
+**Religious motivation**: The Morag Tong serves Mephala; the Brotherhood serves Sithis. Mephala is a recognized Dunmer deity; Sithis is a primordial force associated with nothingness.
+
+**Clientele**: The Morag Tong accepts only official contracts (Writs) from identified clients; the Brotherhood accepts anonymous contracts from anyone who performs the Black Sacrament.
+
+**Geographic scope**: The Morag Tong is limited to Morrowind; the Brotherhood operates across all of Tamriel.
+
+**Ethics**: The Morag Tong has moral restrictions (no innocent civilians, no mass killing); the Brotherhood will kill anyone for any reason, as long as the contract is valid.
+
+## The historical rivalry
+
+The relationship between the two organizations is one of absolute hostility and deadly rivalry. The Morag Tong considers the Brotherhood a heresy — a perversion of the sacred art of assassination that dishonors Mephala and taints the profession.
+
+The Brotherhood, for its part, considers the Morag Tong timid bureaucrats, assassins shackled by artificial rules who have forgotten the fundamental truth of murder: it is a spiritual act, not an administrative service.
+
+This rivalry has translated into centuries of direct conflict. Assassins from both organizations hunt and kill each other when they cross paths. The Morag Tong has attempted multiple times to eradicate the Brotherhood; the Brotherhood has retaliated by assassinating Morag Tong leaders.
+
+## Evolution through the eras
+
+The balance of power between the two organizations has fluctuated considerably over time:
+
+During the Second Era, the Morag Tong was dominant, benefiting from the support of the **Tribunal** and incontestable political legitimacy. The Brotherhood was merely a marginal sect.
+
+The Third Era saw the rise of the Brotherhood, which extended its operations across all of Tamriel while the Morag Tong remained confined to Morrowind.
+
+The fall of the Tribunal and the crisis of Morrowind during the Fourth Era considerably weakened the Morag Tong, while the Brotherhood — though devastated by internal purges — maintained a presence across the entire continent.
+
+The irony is that the Dark Brotherhood, born as a minority heresy, ultimately surpassed in fame and reach the organization from which it sprang.

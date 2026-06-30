@@ -1,0 +1,54 @@
+---
+title: "Havreglace"
+slug: "coldharbour"
+era: "second-era"
+category: "lieux"
+tags: ["coldharbour", "havreglace", "molag-bal", "planemeld", "anclas-oscuras", "oblivion", "vestigio"]
+timelineYear: 582
+summary: "Havreglace, el plano de Oblivion de Molag Bal, escenario del Planemeld y la invasión de Tamriel por las Anclas Oscuras en 2E 582."
+sources: ["The Coldharbour Compact", "Planemeld", "ESO Main Quest", "Varieties of Daedra"]
+---
+
+## El Plano de la Dominación
+
+**Havreglace** (Coldharbour) es el plano de Oblivion perteneciente a **Molag Bal**, el Príncipe Daédrico de la Dominación, la Violación y la Esclavización. Es un lugar de horror absoluto — una parodia torturada de Nirn donde todo lo que existe en el mundo mortal se encuentra en una forma corrompida, degradada y sumida en un frío eterno. Los cielos están perpetuamente cubiertos de nubes negras rasgadas por relámpagos azulados, y ningún sol brilla jamás allí.
+
+Havreglace es descrito por quienes regresaron de él como "Nirn tal como sería si toda esperanza fuera eliminada de él". Ciudades fantasmales reproducen los asentamientos de Tamriel en una versión de pesadilla — edificios familiares pero distorsionados, poblados por criaturas monstruosas y almas atormentadas por la eternidad.
+
+## Geografía del Horror
+
+La geografía de Havreglace es una pesadilla topográfica. El plano está bañado por una luz azulada enfermiza — una luminiscencia fría que no ilumina nada verdaderamente. Océanos de fluido oscuro bordean costas de piedra desolada. Jaulas suspendidas en el vacío contienen las almas de los mortales atrapados. Torres de tortura se elevan hacia un cielo vacío, y abismos sin fondo se abren sin previo aviso bajo los pies de los viajeros.
+
+Entre los lugares notables de Havreglace se encuentran el **Trono de la Tiranía** — el palacio personal de Molag Bal, una estructura de crueldad arquitectónica indescriptible — y la **Sala de los Tormentos**, donde las almas cautivas sufren suplicios eternos adaptados a sus miedos más íntimos. Cada rincón del plano está diseñado para maximizar el sufrimiento y aplastar la voluntad.
+
+## El Planemeld
+
+En **2E 582**, **Molag Bal** lanzó el **Planemeld** — un intento de fusionar Havreglace con Nirn, absorbiendo literalmente el mundo mortal en su plano de Oblivion. Este plan de ambición monstruosa pretendía esclavizar a la totalidad de la población mortal de Tamriel, transformando Nirn en una extensión de su prisión eterna.
+
+El Planemeld fue posible gracias a la labor de **Mannimarco**, el Rey de los Gusanos y el nigromante más poderoso de la historia, quien servía como agente mortal de Molag Bal. Mannimarco orquestaba los rituales necesarios desde Tamriel mientras Molag Bal abría portales desde Havreglace, trabajando juntos para romper las barreras entre los planos.
+
+## Las Anclas Oscuras
+
+Las **Anclas Oscuras** (Dark Anchors) constituían el instrumento principal del Planemeld. Estas inmensas estructuras metálicas — combinando cadenas de metal infernal y portales dimensionales — caían desde Havreglace sobre la superficie de Tamriel, anclando literalmente el plano de Oblivion al mundo mortal. Cada Ancla creaba un punto de fusión entre las dos realidades, atrayendo Havreglace hacia Nirn.
+
+Las zonas afectadas por un Ancla Oscura se transformaban progresivamente: el cielo adquiría un tinte azulado enfermizo, la temperatura caía, y los daédra invadían los alrededores. Daedroths, Atronachs, Clannfears y Dremora se desbordaban por los portales, masacrando o esclavizando a las poblaciones locales. Destruir un Ancla requería un combate encarnizado contra las fuerzas daédricas que la protegían.
+
+## Los Servidores de Molag Bal
+
+Havreglace está poblado por criaturas al servicio de Molag Bal, cada una encarnando un aspecto de la dominación y el sufrimiento. Los **Dremora** — daédra humanoides de cruel inteligencia — forman la élite militar. Los **Cosechadores** (Harvesters) recolectan almas para alimentar las maquinaciones de su amo. Los **Titanes** — inmensas criaturas aladas corrompidas — patrullan los cielos de Havreglace.
+
+La jerarquía de Havreglace es brutalmente simple: el poder lo determina todo. Los daédra más poderosos dominan a los más débiles, y todos se inclinan ante Molag Bal. Las almas mortales cautivas ocupan el rango más bajo — objetos para torturar, combustible espiritual para consumir en los proyectos del Príncipe.
+
+## La Invasión y la Resistencia
+
+Ante el Planemeld, los pueblos de Tamriel se organizaron en resistencia. Los **Gremios de Guerreros y Magos** movilizaron sus fuerzas, mientras que héroes individuales — entre ellos el **Vestigio**, un mortal cuya alma había sido arrancada por Molag Bal — lideraron la contraofensiva. El asalto final a Havreglace en sí mismo fue el acto más audaz de la resistencia: invadir un plano de Oblivion para destruir en él la fuente del Planemeld.
+
+La destrucción de los **Pináculos Oscuros** — las estructuras dentro de Havreglace que anclaban el Planemeld por el lado de Oblivion — puso fin a la fusión dimensional. La confrontación directa entre el Vestigio y Molag Bal, posibilitada por el sacrificio de **Meridia** al prestar su poder divino, quebró definitivamente los planes del Príncipe de la Dominación.
+
+## El Pacto de Havreglace
+
+Mucho antes del Planemeld, **Sotha Sil** había concluido el **Pacto de Havreglace** con Molag Bal y varios otros Príncipes Daédricos tras la destrucción de la ciudad de Gilverdale. Este pacto prohibía a los Príncipes manifestar directamente su poder en Nirn — una restricción que el Planemeld violaba abiertamente. La audacia de Molag Bal residía precisamente en esta transgresión: estaba dispuesto a romper un acuerdo milenario para satisfacer su deseo de dominación total.
+
+## Legado del Planemeld
+
+El Planemeld de 2E 582 demostró que los Príncipes Daédricos representan una amenaza existencial para Nirn — una lección que Tamriel tuvo que volver a aprender durante la **Crisis de Oblivion** novecientos años después. La capacidad de Molag Bal para lanzar semejante invasión — y la extrema dificultad de repelerla — subrayó la vulnerabilidad fundamental del mundo mortal frente a los poderes de Oblivion.

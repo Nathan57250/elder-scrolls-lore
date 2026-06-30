@@ -1,0 +1,58 @@
+---
+title: "La trama principal de ESO"
+slug: "eso-main-quest"
+era: "second-era"
+category: "evenements"
+tags: ["molag-bal", "cinco-companeros", "mannimarco", "planemeld", "vestigio", "eso"]
+timelineYear: 582
+summary: "En 2E 582, Molag Bal intentó fusionar Nirn con Havreglace durante el Planemeld, frustrado por el Vestigio y los Cinco Compañeros."
+sources: ["Elder Scrolls Online Main Quest", "Erta's Report", "Chaotic Creatia"]
+---
+
+## El Planemeld
+
+En 2E 582, **Tamriel** se enfrentó a la mayor amenaza desde la Plaga Thrassiana. **Molag Bal**, Príncipe Daédrico de la dominación y la violación, lanzó el **Planemeld**, un intento titánico de fusionar su plano de Oblivion, **Havreglace**, con el plano mortal de **Nirn**. Si este plan hubiera tenido éxito, el mundo mortal entero se habría convertido en una extensión del reino de Molag Bal, y todos los seres vivientes habrían sido reducidos a esclavitud eterna bajo su dominio.
+
+El mecanismo del Planemeld se basaba en **Anclas Oscuras**, inmensas garras dimensionales que literalmente agarraban el tejido de Mundus para arrancarlo hacia Havreglace. Estas anclas, cada una tan grande como una torre, caían del cielo en todo Tamriel, fijando porciones del territorio a la dimensión daédrica. En cada punto de anclaje, la realidad se deformaba: el cielo se volvía negro, los muertos resurgían y hordas daédricas se infiltraban en el mundo mortal.
+
+El plan de Molag Bal había sido preparado durante décadas, con la complicidad consciente o inconsciente de numerosos agentes mortales. Las fuerzas de los **Gusanos del Rey** de **Mannimarco** habían llevado a cabo rituales de sacrificio masivo para debilitar las barreras entre los planos. Se habían establecido cultos secretos en todas las provincias para facilitar la transición. El Señor de la Dominación había tejido su red con una paciencia que solo un ser inmortal podría demostrar.
+
+## Los Cinco Compañeros
+
+El último bastión contra el Planemeld debería haber sido el **Amuleto de los Reyes**, el artefacto más poderoso del linaje imperial. Los **Cinco Compañeros**, un grupo de aventureros excepcionales, habían intentado usar el Amuleto para repeler la invasión daédrica. Pero su plan fue traicionado por **Mannimarco**, el Rey de los Gusanos, quien servía secretamente a Molag Bal mientras perseguía sus propias ambiciones de divinidad.
+
+Los Cinco Compañeros originales incluían a **Varen Aquilarios**, el usurpador imperial que buscaba legitimar su reinado; **Lyris Titanborn**, una guerrera semigigante de prodigiosa fuerza; **Sai Sahan**, Gran Maestre de las Cuchillas y guardián del Amuleto; **Abnur Tharn**, el Canciller Imperial, mago de considerable poder; y Mannimarco mismo, cuya traición fue el catalizador de la catástrofe.
+
+Durante el ritual fallido conocido como el **Soulburst**, el Amuleto de los Reyes explotó en energía, rompiendo las barreras entre Nirn y Oblivion. Varen fue cegado y exiliado, Lyris capturada en Havreglace, Sai Sahan encarcelado y Abnur obligado a servir a la emperatriz títere **Clivia Tharn**. El Soulburst no causó el Planemeld, pero dejó a Tamriel vulnerable al ataque de Molag Bal.
+
+## El Vestigio
+
+En medio de este caos cósmico emergió una figura improbable: el **Vestigio**, un mortal cuya alma había sido arrancada por Molag Bal durante un sacrificio ritual. Despojado de su alma pero milagrosamente devuelto a la vida, el Vestigio poseía una ventaja única: sin alma, no podía ser verdaderamente asesinado. La muerte lo enviaba simplemente al santuario de luz más cercano, un ciclo de resurrección perpetua que lo convertía en el campeón perfecto contra las fuerzas de Oblivion.
+
+Guiado por **el Profeta** — la identidad oculta del cegado Varen Aquilarios — el Vestigio emprendió la tarea de reunir a los Cinco Compañeros dispersos y encontrar la manera de repeler el Planemeld. Esta búsqueda lo llevó a través de las mazmorras más peligrosas de Tamriel, hasta las profundidades del propio Havreglace, y cara a cara con los lugartenientes más aterradores de Molag Bal.
+
+Cada Compañero rescatado aportaba una pieza del rompecabezas. Lyris, liberada de Havreglace, ofrecía su fuerza guerrera. Tharn, vuelto en contra de sus antiguos amos, aportaba su conocimiento de la magia imperial. Sai Sahan, liberado de su prisión, reveló el escondite del Amuleto de los Reyes. Juntos, los Compañeros y el Vestigio reunieron los elementos necesarios para un asalto final contra el Señor de la Dominación.
+
+## La Traición de Mannimarco
+
+**Mannimarco**, el Rey de los Gusanos, perseguía una agenda secreta mucho más ambiciosa que la simple servidumbre a Molag Bal. El mayor nigromante de la historia de Tamriel había alimentado durante milenios el sueño de convertirse en un dios, y contaba con utilizar el Planemeld como trampolín hacia la apoteosis. Su traición a los Compañeros no era más que un paso en un plan de vertiginosa complejidad.
+
+Mannimarco había concluido un pacto con Molag Bal: a cambio de su ayuda para desencadenar el Planemeld, el Príncipe Daédrico le otorgaría el poder divino que anhelaba. Pero el Rey de los Gusanos subestimó la duplicidad de su patrón. Molag Bal no tenía intención de compartir nada, y Mannimarco descubrió demasiado tarde que no era más que un peón en el juego de un ser infinitamente más poderoso y paciente que él.
+
+El Vestigio se enfrentó a Mannimarco en múltiples ocasiones a lo largo de su búsqueda, y cada confrontación revelaba una capa adicional de la conspiración del nigromante. La derrota final de Mannimarco, atrapado en un bucle temporal de agonía por el propio Molag Bal, fue un cruel recordatorio de que incluso los manipuladores más hábiles pueden ser manipulados a su vez.
+
+## El Asalto a Havreglace
+
+El clímax de la crisis fue un asalto directo a **Havreglace**, una ofensiva sin precedentes contra el plano personal de un Príncipe Daédrico. El Vestigio, armado con el **Amuleto de los Reyes** restaurado y apoyado por los Compañeros supervivientes, penetró en el reino de Molag Bal para destruir los mecanismos del Planemeld en su fuente.
+
+Havreglace resultó ser un lugar de horror absoluto: un paisaje de sufrimiento eterno donde las almas de los mortales capturados eran atormentadas sin fin. Torres de acero frío se elevaban sobre océanos de miseria, y los servidores de Molag Bal — los **Dremora**, los **Xivkyn** y innumerables horrores daédricos — defendían cada centímetro de terreno con una ferocidad desesperada.
+
+El enfrentamiento final con el propio Molag Bal, posibilitado por el sacrificio de uno de los Compañeros para alimentar el Amuleto, fue un combate entre un mortal y un dios. El Vestigio, temporalmente elevado a un estatus casi divino por el poder del Amuleto, logró vencer al avatar de Molag Bal y desmantelar el Planemeld, salvando a Nirn de la fusión con Havreglace.
+
+## Las Consecuencias
+
+La derrota del Planemeld no puso fin a los problemas de la **Segunda Era**. La **Guerra de las Tres Banderas** continuaba haciendo estragos, el Imperio permanecía fragmentado y persistían innumerables amenazas regionales. Pero la supervivencia de Nirn como plano independiente quedó asegurada gracias al sacrificio del Vestigio y los Compañeros.
+
+El Amuleto de los Reyes, dañado pero no destruido, siguió siendo un símbolo de legitimidad imperial. Las Anclas Oscuras dejaron de caer, aunque las cicatrices que habían dejado en el tejido de la realidad tardarían siglos en sanar por completo. Molag Bal, debilitado pero no vencido, se retiró a las profundidades de Havreglace para curar sus heridas y preparar sus próximos esquemas.
+
+El propio Vestigio desapareció de la historia oficial tras la crisis, siendo su destino posterior desconocido. Algunos dicen que continuó recorriendo Tamriel, combatiendo otras amenazas. Otros creen que por fin encontró el descanso, con su alma restaurada tras la derrota de su torturador. Sea cual sea la verdad, su papel en la salvación del mundo mortal sigue siendo uno de los actos de heroísmo más extraordinarios de la Segunda Era.

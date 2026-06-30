@@ -1,0 +1,98 @@
+---
+title: "The Tribunal Temple — Institution and Doctrine"
+slug: "temple-du-tribunal"
+era: "second-era"
+category: "religion"
+tags: ["temple", "tribunal", "morrowind", "ordinators", "saints", "anticipations", "new-temple"]
+timelineYear: 700
+summary: "The religious organization of the Tribunal Temple: its hierarchy, doctrines, saints, and transformation into the New Temple after the fall of the living gods."
+sources: ["UESP: Tribunal Temple", "The Imperial Library: Temple Doctrine", "TES III: Morrowind — Temple Quests"]
+---
+
+# The Tribunal Temple — Institution and Doctrine
+
+The **Tribunal Temple** was the dominant religious institution of **Morrowind** for more than three thousand years — from the ascension of **Vivec**, **Almalexia**, and **Sotha Sil** to the rank of living gods until their fall in 3E 427. More than a mere cult, the Temple structured all of Dunmer society: politics, justice, education, and morality were inseparable from the doctrine of the Three.
+
+## Hierarchy
+
+### Organizational structure
+
+- **The Three**: Vivec, Almalexia, and Sotha Sil — living gods and supreme authority
+- **The Patriarch** (Archcanon): administrative head of the clergy, intermediary between mortals and the Three
+- **The Ordinators**: armed wing of the Temple, inquisitors charged with eliminating heresy
+- **The Canons**: theologians and ecclesiastical judges
+- **The Priests**: servants of local temples in each city
+- **The Pilgrims**: faithful completing the circuit of shrines
+
+### The Ordinators
+
+The **Ordinators** deserve particular attention. True inquisitors, they were charged with:
+- Tracking and punishing heretics (notably the Ashlanders and the Dissident Priests)
+- Eliminating necromancers and Daedric worshippers
+- Protecting the Temple's sacred relics
+- Maintaining moral order among the faithful
+
+Their authority exceeded that of secular powers — an Ordinator could arrest and judge anyone, noble or commoner alike.
+
+## Doctrine
+
+### The Doctrine of the Anticipations
+
+The Temple taught that the three Daedric Princes once venerated by the **Chimer** — **Azura**, **Boethiah**, and **Mephala** — were "Anticipations" of the Three: imperfect prefigurations of the true gods to come.
+
+- **Azura** anticipated **Sotha Sil** (mystery, prophecy)
+- **Boethiah** anticipated **Almalexia** (combat, change)
+- **Mephala** anticipated **Vivec** (duality, secrets)
+
+This doctrine allowed the ancient Chimer religion to be reinterpreted as merely a step toward the revelation of the "true" gods, elegantly neutralizing the memory of ancestral worship.
+
+### The Four Corners of the House of Troubles
+
+The Temple recognized four particularly dangerous Daedra — the "Corners of the House of Troubles":
+- **Molag Bal**: the King of Rape, sworn enemy
+- **Malacath**: the Spurned God, patron of outcasts
+- **Sheogorath**: the Mad God, madness incarnate
+- **Mehrunes Dagon**: the Prince of Destruction
+
+## The Saints of the Temple
+
+The Temple venerated many mortal saints:
+
+- **Saint Nerevar**: the founding hero (ironically, the Temple denied his prophecy of return)
+- **Saint Veloth**: the prophet who led the Chimer out of Aldmeris
+- **Saint Jiub**: the slayer of cliff racers on Vvardenfell
+- **Saint Olms**: patron of fishermen and sailors
+- **Saint Delyn**: patron of potters and artisans
+- **Saint Felms**: patron of butchers and hunters
+
+Every major city possessed a canton or district dedicated to a patron saint.
+
+## Conflict with the Ashlanders
+
+### The persecution
+
+The **Ashlander** tribes preserved the memory of the ancient Chimer religion and the **Nerevarine Prophecy**. The Temple considered them primitive heretics and actively persecuted them:
+
+- Destruction of Ashlander camps that came too close to cities
+- Arrest of Wise Women spreading the forbidden prophecies
+- Prohibition of Ashlander texts in all Temple libraries
+
+### The Dissident Priests
+
+Within the Temple itself, members of the clergy began to question official doctrine. These **Dissident Priests** secretly studied Ashlander texts and accumulated evidence that the Tribunal had indeed betrayed Nerevar. They were hunted by the Ordinators but survived in hiding.
+
+## Fall and transformation
+
+### The collapse
+
+The destruction of the **Heart of Lorkhan** in 3E 427 deprived the Tribunal of its divine source. The Three progressively lost their powers. Almalexia descended into madness and murdered Sotha Sil before being killed herself. Vivec disappeared mysteriously. The Temple, bereft of its gods, collapsed.
+
+### The New Temple
+
+After the **Red Year** (4E 5), the Dunmer reformed their religion. The **New Temple**:
+- Recognized the Ashlander "Reclamations" as legitimate
+- Restored the worship of the Three Good Daedra (Azura, Boethiah, Mephala)
+- Venerated the Tribunal as mortal saints who had made mistakes, not as gods
+- Canonized the Nerevarine as liberator
+
+This transformation represented a return to the Chimer spiritual roots after three millennia of doctrine imposed by fallen living gods.

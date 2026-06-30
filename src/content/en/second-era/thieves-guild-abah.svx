@@ -1,0 +1,58 @@
+---
+title: "The Thieves Guild of Abah's Landing"
+slug: "thieves-guild-abah"
+era: "second-era"
+category: "guildes"
+tags: ["thieves-guild", "abah-landing", "hew-bane", "thieves-guild", "nicolas", "zeira"]
+timelineYear: 582
+summary: "The Thieves Guild operating from Abah's Landing in Hew's Bane, its clandestine organization and its daring operations in 2E 582."
+sources: ["ESO: Thieves Guild DLC", "The Scaled Court", "Lore of Abah's Landing"]
+---
+
+## Abah's Landing, City of Shadows
+
+**Abah's Landing** is a port city situated on the peninsula of **Hew's Bane**, a semi-autonomous territory in southern **Hammerfell**. In 2E 582, this cosmopolitan and corrupt city served as headquarters for one of the most active branches of the **Thieves Guild**, a criminal organization that operated in the interstices of society with remarkable efficiency.
+
+The city itself was a labyrinth of narrow alleyways, smoky bazaars, shady taverns, and opulent manor houses. The architecture blended Redguard, Khajiit, and Imperial styles, reflecting the diverse population that filled its districts. Honest merchants rubbed shoulders with fences, nobles frequented the same establishments as cutpurses, and the line between legitimate commerce and criminal activity was deliberately blurred.
+
+Official power in Abah's Landing resided in the **Merchant Council**, an assembly of wealthy traders who governed the city for their own profit. But the real power belonged to those who controlled the flow of information and stolen goods: the Thieves Guild, whose influence extended into every corner of the city.
+
+## The Guild's Organization
+
+The Thieves Guild of Hew's Bane operated on a different model from other branches of the organization across **Tamriel**. Led by a **Guild Master** and a council of lieutenants, it operated from an underground hideout accessible only through secret passages hidden within the city's buildings. Security around the hideout was absolute: betraying its location was punishable by death.
+
+The internal hierarchy distinguished several ranks. **Initiates** performed the simplest tasks: pickpocketing, gathering intelligence, surveilling targets. **Companions** handled burglaries and coordinated operations. **Masters** planned major heists and trained new recruits. At the top, the leadership managed relationships with clients and oversaw the organization's considerable finances.
+
+A strict code of honor governed the Guild's activities. An absolute prohibition on killing during a theft, except in absolute self-defense. An obligation to share a fixed percentage of all loot with the common treasury. Absolute loyalty toward fellow members. Complete silence about Guild affairs before authorities. These rules were not mere suggestions but laws whose violation resulted in expulsion or worse.
+
+## Zeira and the Rebuilding
+
+In 2E 582, the Guild was going through a period of reconstruction under the leadership of **Zeira**, an exceptional thief who had become Guild Master under dramatic circumstances. Her predecessor, **Nicolas**, had been betrayed and the Guild nearly destroyed by their enemies' machinations. Zeira had gathered the survivors and rebuilt the organization from almost nothing.
+
+Zeira's personality permeated the new Guild. Pragmatic, loyal to her companions, and possessed of a sense of honor that set her apart from most criminals, she held her thieves to high standards. Gratuitous violence was banned, thefts targeted only those who could afford to lose, and the Guild positioned itself as a counterweight to abuses by the powerful rather than a simple looting enterprise.
+
+Yet the circumstances of the past betrayal and the rebuilding haunted the Guild. The enemies who had nearly destroyed the organization had not vanished, and the threat of renewed treachery weighed on every operation. Justified paranoia made recruiting new members particularly difficult and the vetting process extremely rigorous.
+
+## Notable Operations
+
+The thieves of Abah's Landing did not content themselves with petty crime. Their most ambitious operations targeted the coffers of the wealthiest merchants, the private collections of nobles, and sometimes even treasures guarded by municipal authorities. Each major job was planned with military precision, including detailed reconnaissance, contingency plans, and multiple escape routes.
+
+One of the Guild's specialties was **theft on commission**. Wealthy clients hired the Guild's services to acquire specific items: works of art, compromising documents, lost family heirlooms, or rare magical artifacts. These contracts were the most lucrative and the most dangerous, as they often involved penetrating extremely well-guarded locations.
+
+The thieves of Abah's Landing also excelled in the trade of information. In a port city through which goods and secrets from the entire world flowed, knowing who was transporting what, who owed money to whom, and who was plotting against whom was often worth more than any stolen jewel. The Guild's network of informants extended from the docks to the nobles' drawing rooms.
+
+## Rivalries and Threats
+
+The Thieves Guild did not operate without opposition. The **Night Blades**, a rival group of assassins, disputed control of Abah's Landing's underworld. Municipal guards, corrupt for the most part but not all, represented a constant threat. And the most powerful merchants employed their own security agents, sometimes more dangerous than the official forces of order.
+
+The relationship with the **Dark Brotherhood** was particularly delicate. Assassins and thieves operated in distinct but overlapping spheres, and friction was inevitable. A tacit agreement generally separated their domains: the Guild did not kill, the Brotherhood did not steal. But the gray areas between theft and murder regularly created tensions.
+
+The **Vinedusk Rangers** and other vigilante organizations also targeted the Guild's activities. These criminal hunters, motivated by justice or reward, represented a constant danger for thieves operating alone. The Guild offered its members protection against these threats, one of the main reasons why independent thieves sought to join it.
+
+## The Legacy of a Tradition
+
+The Thieves Guild of Abah's Landing was part of an ancient criminal tradition that transcended eras and provinces. Similar organizations existed in nearly every major city of Tamriel, connected by shared codes, conventions of professional courtesy, and sometimes formal alliances. The Guild was not a local phenomenon but a continental institution.
+
+The Guild's influence on Abah's Landing's society went beyond mere crime. By redistributing wealth concentrated in a few hands, maintaining a balance of power in the underworld, and serving as a safety valve for the frustrations of the underprivileged classes, the Guild paradoxically played a stabilizing role. A city without organized thieves was not a city without crime — it was a city abandoned to the chaos of disorganized crime.
+
+The principles established by Zeira and her predecessors continued to influence the Thieves Guild for centuries, up to the well-known branches of the **Third** and **Fourth Era**. The code of honor, the hierarchical structure, the prohibition on killing: all these elements reappear in later Guilds, testimony to the durability of a tradition born in the shadowy alleyways of Abah's Landing.

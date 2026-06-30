@@ -1,0 +1,95 @@
+---
+title: "Las Lamas — Guardianes del Dragón"
+slug: "les-lames"
+era: "second-era"
+category: "guildes"
+tags: ["lamas", "blades", "akaviri", "sangre-de-dragon", "emperador", "dragones", "cazadores"]
+timelineYear: 854
+summary: "Las Lamas son una antigua orden de guardias imperiales y cazadores de dragones, fundada por guerreros Tsaesci Akaviri que se sometieron al primer Sangre de Dragón que buscaban."
+sources: ["UESP: Blades", "The Imperial Library: The Rise and Fall of the Blades", "Annals of the Dragonguard"]
+---
+
+## Orígenes Akaviri
+
+Las Lamas descienden directamente de los **Guardianes del Dragón** — los guerreros Tsaesci de Akavir que invadieron Tamriel en 1E 2703. Su objetivo inicial era encontrar y servir a un **Sangre de Dragón**:
+
+- Los Tsaesci veneraban/cazaban dragones en Akavir
+- Buscaban un ser capaz de comandarlos
+- Al encontrarse con **Reman Cyrodiil**, reconocieron al Sangre de Dragón
+- Se sometieron de inmediato y se convirtieron en sus guardias personales
+
+## Evolución
+
+### Guardianes del Dragón → Lamas
+- **1E 2703**: Los Tsaesci se convierten en guardias de Reman
+- **2E**: Transformación en organización imperial secreta
+- **2E 854**: Sirven a Tiber Septim, se convierten oficialmente en "las Lamas"
+- **3E**: Doble función — guardias imperiales Y red de espionaje
+- **4E**: Cazados por el Thalmor, reducidos a la clandestinidad
+
+## Doble Misión
+
+### Guardia Imperial
+- Protección personal del Emperador
+- Con base en el **Cloud Ruler Temple** (Cyrodiil)
+- Armadura distintiva y katana Akaviri
+- Juramento de lealtad absoluta a la Sangre de Dragón
+
+### Espionaje
+- Red de agentes en todas las provincias
+- Recopilación de información para el Imperio
+- Infiltración en organizaciones enemigas
+- Eliminación discreta de amenazas
+
+## Armamento y Estilo
+
+| Elemento | Descripción |
+|----------|-------------|
+| Arma | Katana Akaviri (hoja curva de un solo filo) |
+| Armadura | Armadura laminar distintiva |
+| Arquitectura | Templos-fortaleza de estilo pagoda |
+| Entrenamiento | Esgrima, sigilo, diplomacia |
+
+## La Caída (4E)
+
+Tras la Gran Guerra y el Concordato del Oro Blanco:
+1. El Thalmor exigió la **disolución** de las Lamas
+2. El Imperio aceptó como condición de paz
+3. El Thalmor **cazó y mató** sistemáticamente a las Lamas
+4. Los supervivientes pasaron a la clandestinidad total
+5. El Cloud Ruler Temple fue destruido
+
+## En Cielos de Hielo (4E 201)
+
+Solo dos Lamas sobrevivieron en Cielos de Hielo:
+- **Delphine** — escondida como posadera en Cabrerizo
+- **Esbern** — erudito refugiado en las Cloacas de Hjaalmarch
+
+Junto con el Último Sangre de Dragón, ellos:
+- Redescubrieron el **Sky Haven Temple** (templo Akaviri secreto)
+- Descifraron el **Muro de Alduin** — una profecía grabada en piedra
+- Comenzaron a reclutar nuevos miembros
+- Exigieron la muerte de Paarthurnax (fuente de conflicto)
+
+## El Conflicto con las Barbas Grises
+
+Las Lamas y las Barbas Grises se oponen fundamentalmente:
+- **Lamas**: los dragones son enemigos a exterminar, incluido Paarthurnax
+- **Barbas Grises**: la paz y el Thu'um son sagrados, Paarthurnax se ha redimido
+- El Dovahkiin debe elegir — o encontrar un compromiso imposible
+
+## El Muro de Alduin
+
+El mayor descubrimiento de las Lamas — un bajorrelieve Akaviri en el Sky Haven Temple que representa:
+- La profecía del regreso de Alduin
+- El **Dragonrend** como única arma contra él
+- Los antiguos héroes nórdicos que lo desterraron
+- El papel del Dovahkiin como salvador final
+
+## Legado
+
+Las Lamas encarnan una paradoja:
+- Servidores devotos del Sangre de Dragón... pero le dan órdenes
+- Protectores del Imperio... pero el Imperio las abandonó
+- Cazadores de dragones... pero el dragón Paarthurnax es su aliado más valioso
+- Organización secreta... pero su templo y su estilo son inmediatamente reconocibles

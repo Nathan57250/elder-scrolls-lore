@@ -1,0 +1,58 @@
+---
+title: "The ESO Main Quest"
+slug: "eso-main-quest"
+era: "second-era"
+category: "evenements"
+tags: ["molag-bal", "five-companions", "mannimarco", "planemeld", "vestige", "eso"]
+timelineYear: 582
+summary: "In 2E 582, Molag Bal attempted to merge Nirn with Coldharbour during the Planemeld, thwarted by the Vestige and the Five Companions."
+sources: ["Elder Scrolls Online Main Quest", "Erta's Report", "Chaotic Creatia"]
+---
+
+## The Planemeld
+
+In 2E 582, **Tamriel** faced its greatest threat since the Thrassian Plague. **Molag Bal**, Daedric Prince of domination and violation, launched the **Planemeld**, a titanic attempt to merge his Oblivion plane, **Coldharbour**, with the mortal plane of **Nirn**. Had this scheme succeeded, the entire mortal world would have become an extension of Molag Bal's kingdom, and all living beings would have been reduced to eternal slavery under his dominion.
+
+The mechanism of the Planemeld relied on **Dark Anchors**, immense dimensional hooks that literally grasped the fabric of Mundus to tear it toward Coldharbour. These anchors, each as large as a tower, fell from the sky across all of Tamriel, fastening portions of the land to the Daedric dimension. At each anchor point, reality warped: the sky turned black, the dead rose, and Daedric hordes infiltrated the mortal world.
+
+Molag Bal's plan had been prepared over decades, with the conscious or unwitting complicity of many mortal agents. The **Worm King** **Mannimarco**'s forces had conducted mass sacrifice rituals to weaken the barriers between planes. Secret cults had been established in every province to facilitate the transition. The Lord of Domination had woven his web with a patience only an immortal being could sustain.
+
+## The Five Companions
+
+The last bulwark against the Planemeld should have been the **Amulet of Kings**, the most powerful artifact of the imperial lineage. The **Five Companions**, a group of exceptional adventurers, had attempted to use the Amulet to repel the Daedric invasion. But their plan was betrayed by **Mannimarco**, the King of Worms, who secretly served Molag Bal while pursuing his own ambitions for godhood.
+
+The original Five Companions included **Varen Aquilarios**, the usurper emperor seeking to legitimize his reign; **Lyris Titanborn**, a half-giant warrior of prodigious strength; **Sai Sahan**, Grand Master of the Blades and guardian of the Amulet; **Abnur Tharn**, the Imperial Chancellor and a mage of considerable power; and Mannimarco himself, whose betrayal was the catalyst for the catastrophe.
+
+During the failed ritual known as the **Soulburst**, the Amulet of Kings exploded in energy, shattering the barriers between Nirn and Oblivion. Varen was blinded and exiled, Lyris captured in Coldharbour, Sai Sahan imprisoned, and Abnur forced into service under the puppet empress **Clivia Tharn**. The Soulburst did not cause the Planemeld, but it left Tamriel vulnerable to Molag Bal's assault.
+
+## The Vestige
+
+Amid this cosmic chaos emerged an unlikely figure: the **Vestige**, a mortal whose soul had been torn away by Molag Bal during a ritual sacrifice. Robbed of their soul but miraculously returned to life, the Vestige possessed a unique advantage: without a soul, they could not truly be killed. Death merely returned them to the nearest wayshrine, a cycle of perpetual resurrection that made them the perfect champion against Oblivion's forces.
+
+Guided by **the Prophet** — the hidden identity of the blinded Varen Aquilarios — the Vestige set out to gather the scattered Five Companions and find a way to repel the Planemeld. This quest led them through the most dangerous dungeons of Tamriel, into the depths of Coldharbour itself, and face to face with the most terrifying lieutenants of Molag Bal.
+
+Each rescued Companion brought another piece of the puzzle. Lyris, freed from Coldharbour, contributed her warrior's strength. Tharn, turned against his former masters, brought his knowledge of Imperial magic. Sai Sahan, freed from his prison, revealed the hiding place of the Amulet of Kings. Together, the Companions and the Vestige assembled the elements needed for a final assault against the Lord of Domination.
+
+## The Betrayal of Mannimarco
+
+**Mannimarco**, the King of Worms, pursued a secret agenda far more ambitious than mere servitude to Molag Bal. The greatest necromancer in Tamriel's history had nurtured for millennia the dream of becoming a god, and he intended to use the Planemeld as a springboard toward apotheosis. His betrayal of the Companions was merely one step in a plan of dizzying complexity.
+
+Mannimarco had concluded a pact with Molag Bal: in exchange for his help triggering the Planemeld, the Daedric Prince would grant him the divine power he craved. But the King of Worms underestimated his patron's duplicity. Molag Bal had no intention of sharing anything, and Mannimarco discovered too late that he was merely a pawn in the game of a being infinitely more powerful and patient than himself.
+
+The Vestige confronted Mannimarco multiple times throughout their quest, each confrontation revealing another layer of the necromancer's conspiracy. Mannimarco's final defeat, trapped in a temporal loop of agony by Molag Bal himself, served as a cruel reminder that even the most skilled manipulators can be manipulated in turn.
+
+## The Assault on Coldharbour
+
+The climax of the crisis was a direct assault on **Coldharbour**, an unprecedented offensive against a Daedric Prince's personal plane. The Vestige, armed with the restored **Amulet of Kings** and supported by the surviving Companions, entered Molag Bal's realm to destroy the mechanisms of the Planemeld at their source.
+
+Coldharbour proved to be a place of absolute horror: a landscape of eternal suffering where the souls of captured mortals were tormented without end. Towers of cold steel rose above oceans of misery, and Molag Bal's servants — the **Dremora**, the **Xivkyn**, and countless Daedric horrors — defended every inch of ground with desperate ferocity.
+
+The final confrontation with Molag Bal himself, made possible by one Companion's sacrifice to power the Amulet, was a battle between a mortal and a god. The Vestige, temporarily elevated to a near-divine status by the Amulet's power, managed to defeat the avatar of Molag Bal and dismantle the Planemeld, saving Nirn from merger with Coldharbour.
+
+## The Aftermath
+
+The defeat of the Planemeld did not put an end to the troubles of the **Second Era**. The **Alliance War** continued to rage, the Empire remained fragmented, and countless regional threats persisted. But the very survival of Nirn as an independent plane was secured by the sacrifice of the Vestige and the Companions.
+
+The Amulet of Kings, damaged but not destroyed, remained a symbol of imperial legitimacy. The Dark Anchors ceased to fall, though the scars they had left in the fabric of reality would take centuries to heal completely. Molag Bal, weakened but not defeated, retreated into the depths of Coldharbour to nurse his wounds and prepare his next schemes.
+
+The Vestige themselves vanished from official history after the crisis, their subsequent fate unknown. Some say they continued roaming Tamriel, fighting other threats. Others believe they finally found rest, their soul restored after the defeat of their tormentor. Whatever the truth, their role in the salvation of the mortal world remains one of the most extraordinary acts of heroism of the Second Era.

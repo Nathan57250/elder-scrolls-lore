@@ -1,0 +1,107 @@
+---
+title: "The Mages Guild"
+slug: "guilde-des-mages"
+era: "second-era"
+category: "guildes"
+tags: ["vanus-galerion", "magic", "arcane", "arcane-universities", "psijics", "mannimarco", "dissolution"]
+timelineYear: 230
+summary: "Founded by Vanus Galerion in 2E 230, the Mages Guild democratized access to arcane knowledge before being dissolved during the Fourth Era."
+sources: ["UESP: Mages Guild", "The Origin of the Mages Guild", "ESO Lore", "The Imperial Library"]
+---
+
+## Foundation and Origins
+
+The **Mages Guild** was founded in **2E 230** by **Vanus Galerion**, a former member of the Psijic Order from the island of Artaeum. Galerion, born under the name Trechtus into a family of Altmer servants, held a revolutionary vision: to make magic accessible to all, rather than reserving it for the island elites of the Psijics or the royal courts.
+
+### The Break with the Psijics
+
+Galerion left the Psijic Order following a fundamental disagreement over the democratization of arcane knowledge. While the Psijics regarded magic as a sacred art requiring rigorous selection, Galerion believed that any gifted individual should be able to learn — provided they had the means and the discipline.
+
+### The Guild Charter
+
+The Guild obtained an official charter from the **Akaviri Potentate** who governed the Empire during the Interregnum. This charter granted the Guild:
+
+- A monopoly on organized magical instruction
+- The right to sell magical services to the public
+- The authority to regulate the practice of certain dangerous magics
+- Imperial legal protection for its members
+
+## Structure and Organization
+
+### Hierarchy
+
+| Rank | Role |
+|------|------|
+| Arch-Mage | Supreme leader of the Guild |
+| Guild Master (regional) | Head of a provincial chapter |
+| Magister | Recognized specialist in one school |
+| Evoker | Confirmed member |
+| Conjurer | Intermediate practitioner |
+| Apprentice | Junior member in training |
+| Associate | New member |
+
+### Provincial Chapters
+
+Every province of Tamriel had at least one **guild hall**, typically located in capitals and major cities. The most renowned chapters were found in:
+
+- **Firsthold** (Isle of Balfiera) — The original seat
+- **Imperial City** (Cyrodiil) — The Arcane University
+- **Sadrith Mora** (Morrowind) — Despite the rivalry with Great House Telvanni
+- **Wayrest** (High Rock) — A recognized center of research
+
+## Areas of Expertise
+
+The Guild covered all recognized **schools of magic**:
+
+- **Destruction** — Offensive elemental magic
+- **Restoration** — Healing and protection against the undead
+- **Alteration** — Modification of physical properties
+- **Conjuration** — Summoning of entities and creatures
+- **Illusion** — Manipulation of the mind and of light
+- **Enchanting** — Infusing objects with magical properties
+- **Alchemy** — Creation of potions and poisons
+
+### Prohibitions
+
+The Guild formally prohibited the practice of **necromancy** — a rule directly tied to the rivalry between Galerion and his former fellow student **Mannimarco**, who embraced the dark arts. This prohibition was, however, relaxed under certain corrupt Arch-Mages.
+
+## Historical Role
+
+### The Second Era
+
+During the events of the **Alliance War** (2E 582), the Guild attempted to maintain political neutrality, offering its services to all three alliances. In practice, many individual mages took sides.
+
+### The Third Era
+
+The Guild reached its height under the Septim Empire, becoming an indispensable institution in Tamrielic life. It offered:
+
+- Magical training for citizens
+- Enchanting and alchemy services
+- Expertise against supernatural threats
+- Counsel to political leaders
+
+### The Oblivion Crisis (3E 433)
+
+During the Daedric invasion orchestrated by Mehrunes Dagon, the Guild played a crucial role in the defense of Tamriel. Arch-Mage **Hannibal Traven** sacrificed himself by trapping his soul in a gem to allow the Champion of Cyrodiil to confront Mannimarco.
+
+## Dissolution in the Fourth Era
+
+After the **Oblivion Crisis**, the Mages Guild was officially dissolved. Several factors contributed to its downfall:
+
+1. **Necromancy scandal** — Internal corruption eroded public trust
+2. **The Great Collapse** — The Winter catastrophe caused major magical disruptions
+3. **Political rivalries** — The Thalmor sought to control magical education
+4. **Internal fractures** — Ideological disagreements over the Guild's direction
+
+### The Successors
+
+Following the dissolution, several organizations stepped in:
+
+- The **College of Winterhold** in Skyrim — independent and more tolerant
+- The **Synod** in Cyrodiil — a conservative, pro-Imperial faction
+- The **Order of the Whispers** — a more liberal dissident faction
+- The **Telvanni Houses** in Morrowind — who had never accepted the Guild's authority
+
+## Legacy
+
+Despite its disappearance, the Mages Guild irreversibly transformed Tamriel. It proved that magic could be taught in a structured and accessible manner, establishing academic traditions that live on in every successor institution. The vision of Vanus Galerion — a world where arcane knowledge is not the sole domain of the powerful — continues to inspire the mages of the Fourth Era.

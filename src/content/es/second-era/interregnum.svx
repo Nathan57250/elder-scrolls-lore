@@ -1,0 +1,92 @@
+---
+title: "El Interregno"
+description: "El período caótico entre la caída del Imperio Reman y el advenimiento de Tiber Septim, marcado por las guerras civiles y la ausencia de autoridad imperial"
+slug: interregnum
+category: "evenements"
+era: "second-era"
+timelineYear: 430
+keywords:
+  - interregno
+  - segunda era
+  - caos
+  - guerras civiles
+  - potentados akaviri
+  - trono de rubí
+  - pacto de Daggerfall
+  - pacto de Corazónébano
+  - dominio aldmeri
+---
+
+## El Interregno: La Era del Caos
+
+El Interregno designa el largo período de turbulencias políticas y militares que se extendió desde la caída de la dinastía Reman y el asesinato del último Potentado akaviri en 2E 430 hasta la unificación de Tamriel bajo la bandera de Tiber Septim en 2E 896. Durante casi cinco siglos, todo el continente se hundió en una inestabilidad sin precedentes, con cada provincia luchando por su propia supervivencia o intentando apoderarse del Trono de Rubí.
+
+## Las Causas del Interregno
+
+La caída del Imperio Reman no fue un acontecimiento repentino sino el resultado de un largo declive. Tras el asesinato de Reman III por la Hermandad Oscura en 2E 324, el poder pasó a los Potentados akaviri que gobernaron como regentes. Su mandato, aunque relativamente estable, carecía de la legitimidad dinástica necesaria para mantener la unidad del Imperio.
+
+El asesinato del Potentado Savirien-Chorak y todos sus herederos en 2E 430 por la Hermandad Oscura marcó el verdadero comienzo del Interregno. Sin sucesor legítimo ni institución capaz de asegurar la transición del poder, el Imperio se fragmentó en una miríada de reinos rivales.
+
+## La Fragmentación Política
+
+### Los Pretendientes al Trono
+
+En los primeros años del Interregno, numerosos señores de la guerra y monarcas provinciales reclamaron el Trono de Rubí. La propia Cyrodiil fue desgarrada entre varias facciones, con cada conde y cada barón declarándose el sucesor legítimo de los Emperadores de antaño. Las guerras de sucesión se sucedieron, dejando la provincia imperial exhausta y dividida.
+
+### El Aislamiento de las Provincias
+
+Sin el cemento imperial, cada provincia recuperó una autonomía de hecho. Roca Alta se fragmentó en docenas de pequeños reinos belicosos. Martillo fue asolada por conflictos tribales entre los clanes Guardiarojos. Morrowind se replegó bajo la dominación de las Grandes Casas dunmer. Colmillo de Cielo conoció sus propias guerras de sucesión entre sus diferentes territorios.
+
+## Las Tres Alianzas
+
+### El Pacto de Corazónébano
+
+Hacia 2E 572, se formó una inesperada alianza entre los Nórdicos de Colmillo de Cielo, los Dunmer de Morrowind y los Argonianos del Pantano Negro. El Pacto de Corazónébano nació como respuesta a la invasión akaviri del Segundo Directorio. A pesar de los siglos de desconfianza y hostilidad entre estos pueblos, la necesidad militar forjó una temible coalición bajo el liderazgo del Rey-Escaldo Jorunn.
+
+### El Dominio Aldmeri
+
+Los Altos Elfos de Alinor, los Elfos de los Bosques de Valenwood y los Khajiit de Elsweyr formaron el Primer Dominio Aldmeri bajo la égida de la Reina Ayrenn. Esta alianza buscaba restaurar el orden en Tamriel según la visión élfica, considerando que las razas humanas habían demostrado su incapacidad para gobernar el continente.
+
+### El Pacto de Daggerfall
+
+Los Bretones de Roca Alta, los Guardiarojos de Martillo y los Orcos de Orsinium se unieron en el Pacto de Daggerfall bajo el mando del Alto Rey Emeric. Esta coalición, aunque compuesta por pueblos con historias conflictivas, compartía una visión pragmática del poder imperial.
+
+## La Guerra de las Tres Banderas
+
+El conflicto principal del Interregno enfrentó a estas tres alianzas en una guerra devastadora por el control de Cyrodiil y el Trono de Rubí. Cada facción consideraba tener el derecho y la capacidad de restaurar el Imperio a su antigua gloria, pero según sus propios términos y su propia visión política.
+
+Las batallas se concentraron especialmente alrededor de la Ciudad Imperial, símbolo del poder universal. Las campañas militares asolaron las tierras centrales de Cyrodiil, convirtiendo el corazón del antiguo Imperio en un campo de batalla permanente.
+
+## Las Consecuencias Sociales
+
+### El Declive del Comercio
+
+La ausencia de autoridad imperial unificada provocó el colapso de las rutas comerciales seguras. El bandidaje se volvió endémico, los gremios de mercaderes perdieron su protección legal, y el comercio interprovincial declinó dramáticamente. Solo el Gremio de Mercaderes logró mantener un semblante de red comercial.
+
+### El Auge de los Gremios
+
+Paradójicamente, el Interregno favoreció el florecimiento de los grandes gremios. El Gremio de Guerreros y el Gremio de Magos, creados inicialmente bajo los Potentados akaviri, se convirtieron en instituciones supranacionales que ofrecían estabilidad y servicios en un mundo caótico. El Gremio de Ladrones fue fundado durante este período, aprovechando el desorden reinante.
+
+### Los Sufrimientos de la Población
+
+Para las poblaciones civiles, el Interregno fue una época de miseria. Las hambrunas, las epidemias y las violencias militares diezmaron regiones enteras. Los campesinos, privados de la protección imperial, estaban a merced de los señores de la guerra locales y las bandas de saqueadores.
+
+## Las Amenazas Exteriores
+
+### La Invasión Akaviri de 2E 572
+
+El Segundo Directorio akaviri lanzó una invasión masiva de Tamriel desde el norte de Morrowind. Esta amenaza exterior fue uno de los catalizadores de la formación del Pacto de Corazónébano. La derrota de los invasores demostró que los pueblos de Tamriel aún podían unirse frente a un enemigo común.
+
+### Las Incursiones Daédricas
+
+El debilitamiento de las instituciones mágicas y religiosas hizo a Tamriel más vulnerable a las incursiones de los planos de Oblivion. Varios Príncipes Daédricos aprovecharon el caos para extender su influencia sobre Nirn, especialmente Molag Bal, cuya Fusión de los Planos amenazó la propia existencia de Mundus.
+
+## El Fin del Interregno
+
+El Interregno llegó a su fin con el ascenso de Tiber Septim, nacido Hjalti Barba-Temprana en Roca Alta. Mediante una combinación de genio militar, hábil diplomacia y poder sobrenatural — en particular el uso del Numidium — Tiber Septim logró reunificar todo Tamriel bajo su bandera, fundando la Tercera Era y la dinastía Septim.
+
+## Legado Histórico
+
+El Interregno permanece en la memoria colectiva como prueba de que sin un poder imperial fuerte, Tamriel está condenado al caos. Esta convicción sustenta la propia legitimidad del Imperio Septim y explica la reticencia de muchos pueblos a cuestionar la autoridad imperial, incluso cuando esta se debilitó considerablemente durante las crisis posteriores.
+
+Las instituciones nacidas durante este período — los grandes gremios, las alianzas provinciales, las tradiciones de autonomía local — continuaron influyendo en la política tamriélica mucho más allá de la Segunda Era.
