@@ -1,0 +1,46 @@
+---
+title: "Sir Cadwell"
+slug: "cadwell"
+era: "second-era"
+category: "personnages"
+tags: ["cadwell", "eso", "coldharbour", "molag-bal", "vestige", "soul-shriven", "knight"]
+timelineYear: 582
+summary: "Sir Cadwell of Codswallop, the first mortal ever sent to Coldharbour, who became an eccentric ghostly knight and unexpected ally of the Vestige against Molag Bal."
+sources: ["ESO Main Quest", "Cadwell's Almanac", "The Coldharbour Compact", "Soul Shriven in Coldharbour"]
+---
+
+## The First of the Soul Shriven
+
+**Sir Cadwell of Codswallop** is a unique figure in the history of Tamriel — the **first mortal** ever killed and sent to **Coldharbour**, the Oblivion plane of **Molag Bal**. Unlike every other Soul Shriven inhabiting that realm of desolation, Cadwell retained his personality, his consciousness, and — remarkably — his unshakable good cheer. Where Coldharbour broke minds and corrupted souls, Cadwell found... an adventure.
+
+His tenure in Coldharbour is so ancient that no one remembers which era of Tamriel he originally came from. Cadwell himself hardly seems to care, preferring to wander the frozen expanses of the Oblivion plane in the company of his faithful spectral rooster, **Honor**, in search of chivalric quests and noble adventure in a place that offers neither.
+
+## A Knight in the Darkness
+
+Cadwell presents himself as a **knight errant**, faithful to a code of chivalry that he alone follows in a plane of existence dedicated to suffering. Clad in mismatched armor, wearing a cooking pot as a helm, and armed with a sword he wields with an enthusiasm inversely proportional to his effectiveness, he stands in striking contrast to the horror of Coldharbour.
+
+His eccentricity is not madness — or at least, not merely madness. The incalculable length of his stay in Coldharbour should have reduced him to an empty husk, like so many other Soul Shriven. The fact that he retained his personality intact suggests something remarkable about Cadwell's very nature — a spiritual resilience that defies understanding.
+
+## Ally of the Vestige
+
+When the **Vestige** arrived in Coldharbour in **2E 582**, Cadwell became one of their first and most valuable allies. His intimate knowledge of the Oblivion plane — acquired over countless years of exploration — made him an irreplaceable guide in a territory where every step could lead to destruction.
+
+Cadwell helped the Vestige navigate the labyrinthine reaches of Coldharbour, pointing out secret passages, shortcuts between the plane's different regions, and crucial intelligence about Molag Bal's forces. His casual attitude toward danger — understandable for someone who could no longer die — provided a welcome counterpoint to the gravity of the situation.
+
+## Cadwell's Almanac
+
+After Molag Bal's defeat and the end of the **Planemeld**, Cadwell played an unexpected role by offering the Vestige what became known as **Cadwell's Almanac** — a guide that allowed them to relive the major events of the rival alliances. Through this almanac, the Vestige could experience the conflicts and quests of the **Ebonheart Pact**, the **Aldmeri Dominion**, and the **Daggerfall Covenant** as though they had been part of each.
+
+The Almanac was far more than a simple narrative device: it demonstrated that Cadwell possessed an understanding of temporal and dimensional mechanics beyond that of most mortals — and even some immortals. How an eccentric Soul Shriven had acquired such power remains an unresolved mystery.
+
+## The Mystery of Cadwell
+
+Cadwell's true nature remains one of Coldharbour's great enigmas. Several questions remain unanswered:
+
+- **When did he die?** His seniority suggests a very distant era, possibly the Merethic Era or the First Era, but no chronicle mentions a knight of Codswallop.
+- **Why did he keep his sanity?** All other Soul Shriven eventually lose their identity and become degenerate creatures. Cadwell is the sole known exception.
+- **What is his true power?** His ability to move freely through Coldharbour, his seemingly total knowledge of the plane, and his immunity to Molag Bal's corrupting influence suggest he is far more than a simple lost mortal.
+
+## An Unlikely Hero
+
+Sir Cadwell embodies a theme dear to the Elder Scrolls universe: the persistence of hope and humanity in the most desperate circumstances. In a plane of existence designed to crush all will, an absurd knight with a pot on his head and a spectral rooster refused to be broken. His very existence is an affront to Molag Bal — living proof that the Prince of Cruelty's absolute domination has its limits.

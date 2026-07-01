@@ -1,0 +1,46 @@
+---
+title: "Sir Cadwell"
+slug: "cadwell"
+era: "second-era"
+category: "personnages"
+tags: ["cadwell", "eso", "coldharbour", "molag-bal", "vestigio", "despojado-de-alma", "caballero"]
+timelineYear: 582
+summary: "Sir Cadwell de Codswallop, el primer mortal enviado a Coldharbour, convertido en un excéntrico caballero fantasmal y aliado inesperado del Vestigio contra Molag Bal."
+sources: ["ESO Main Quest", "Cadwell's Almanac", "The Coldharbour Compact", "Soul Shriven in Coldharbour"]
+---
+
+## El primero de los Despojados de Alma
+
+**Sir Cadwell de Codswallop** es una figura única en la historia de Tamriel: el **primer mortal** en ser asesinado y enviado a **Coldharbour**, el plano de Oblivion de **Molag Bal**. A diferencia de todos los demás Despojados de Alma (Soul Shriven) que habitan ese reino de desolación, Cadwell conservó intactas su personalidad, su conciencia y — hecho notable — su inquebrantable buen humor. Donde Coldharbour quebraba mentes y corrompía almas, Cadwell encontró... una aventura.
+
+Su antigüedad en Coldharbour es tal que nadie recuerda de qué era de Tamriel proviene originalmente. Al propio Cadwell parece importarle poco, prefiriendo recorrer las extensiones heladas del plano de Oblivion en compañía de su fiel gallo espectral, **Honor**, en busca de gestas caballerescas y nobles aventuras en un lugar que no ofrece ni lo uno ni lo otro.
+
+## Un caballero en las tinieblas
+
+Cadwell se presenta como un **caballero andante**, fiel a un código de caballería que solo él sigue en un plano de existencia dedicado al sufrimiento. Ataviado con una armadura dispar, tocado con una olla a modo de yelmo y armado con una espada que blande con un entusiasmo inversamente proporcional a su eficacia, encarna un contraste sorprendente con el horror de Coldharbour.
+
+Su excentricidad no es locura — o al menos, no solamente locura. La duración incalculable de su estancia en Coldharbour debería haberlo reducido a una cáscara vacía, como a tantos otros Despojados de Alma. El hecho de que conservara su personalidad intacta sugiere algo extraordinario en la naturaleza misma de Cadwell — una resiliencia espiritual que desafía la comprensión.
+
+## Aliado del Vestigio
+
+Cuando el **Vestigio** llegó a Coldharbour en **2E 582**, Cadwell se convirtió en uno de sus primeros y más valiosos aliados. Su conocimiento íntimo del plano de Oblivion — adquirido a lo largo de incontables años de exploración — lo convertía en un guía irremplazable en un territorio donde cada paso podía llevar a la destrucción.
+
+Cadwell ayudó al Vestigio a navegar por los laberintos de Coldharbour, señalándole pasajes secretos, atajos entre las diferentes regiones del plano e información crucial sobre las fuerzas de Molag Bal. Su actitud despreocupada ante el peligro — comprensible para alguien que ya no podía morir — ofrecía un contrapunto bienvenido a la gravedad de la situación.
+
+## El Almanaque de Cadwell
+
+Tras la derrota de Molag Bal y el fin del **Planemeld**, Cadwell desempeñó un papel inesperado al ofrecer al Vestigio lo que se conocería como el **Almanaque de Cadwell** — una guía que permitía revivir los acontecimientos principales de las alianzas rivales. Gracias a este almanaque, el Vestigio pudo experimentar los conflictos y las gestas del **Pacto de Corazón de Ébano**, el **Dominio Aldmeri** y la **Alianza de Puñal de la Caída** como si hubiera formado parte de cada una.
+
+El Almanaque era mucho más que un simple recurso narrativo: demostraba que Cadwell poseía una comprensión de los mecanismos temporales y dimensionales que superaba la de la mayoría de los mortales — e incluso la de algunos inmortales. Cómo un excéntrico Despojado de Alma adquirió semejante poder sigue siendo un misterio sin resolver.
+
+## El misterio de Cadwell
+
+La verdadera naturaleza de Cadwell sigue siendo uno de los grandes enigmas de Coldharbour. Varias preguntas permanecen sin respuesta:
+
+- **¿Cuándo murió?** Su antigüedad sugiere una época muy remota, posiblemente la Era Merética o la Primera Era, pero ninguna crónica menciona a un caballero de Codswallop.
+- **¿Por qué conservó la cordura?** Todos los demás Despojados de Alma acaban perdiendo su identidad y convirtiéndose en criaturas degeneradas. Cadwell es la única excepción conocida.
+- **¿Cuál es su verdadero poder?** Su capacidad para moverse libremente por Coldharbour, su conocimiento aparentemente total del plano y su inmunidad a la influencia corruptora de Molag Bal sugieren que es mucho más que un simple mortal extraviado.
+
+## Un héroe improbable
+
+Sir Cadwell encarna un tema central del universo de los Elder Scrolls: la persistencia de la esperanza y la humanidad en las circunstancias más desesperadas. En un plano de existencia diseñado para aplastar toda voluntad, un caballero absurdo con una olla en la cabeza y un gallo fantasma se negó a quebrarse. Su mera existencia es una afrenta a Molag Bal — la prueba viviente de que la dominación absoluta del Príncipe de la Crueldad tiene sus límites.

@@ -1,0 +1,46 @@
+---
+title: "Sir Cadwell"
+slug: "cadwell"
+era: "second-era"
+category: "personnages"
+tags: ["cadwell", "eso", "coldharbour", "havreglace", "molag-bal", "vestige", "sans-ame", "chevalier"]
+timelineYear: 582
+summary: "Sir Cadwell de Codswallop, le premier mortel à avoir été envoyé en Havreglace, devenu un excentrique chevalier fantomatique et allié inattendu du Vestige contre Molag Bal."
+sources: ["ESO Main Quest", "Cadwell's Almanac", "The Coldharbour Compact", "Soul Shriven in Coldharbour"]
+---
+
+## Le premier des Sans-Âme
+
+**Sir Cadwell de Codswallop** est une figure unique dans l'histoire de Tamriel — le **premier mortel** à avoir été tué et envoyé en **Havreglace**, le plan d'Oblivion de **Molag Bal**. Contrairement à tous les autres Sans-Âme (Soul Shriven) qui peuplent ce royaume de désolation, Cadwell conserva intactes sa personnalité, sa conscience et — fait remarquable — sa bonne humeur inébranlable. Là où Havreglace brisait les esprits et corrompait les âmes, Cadwell y trouva... une aventure.
+
+Son ancienneté en Havreglace est telle que nul ne se souvient de l'époque de Tamriel dont il est originaire. Cadwell lui-même ne semble guère s'en soucier, préférant parcourir les étendues glacées du plan d'Oblivion en compagnie de son fidèle coq spectral, **Honneur**, en quête de quêtes chevaleresques et de noble aventure dans un lieu qui n'offre ni l'un ni l'autre.
+
+## Un chevalier dans les ténèbres
+
+Cadwell se présente comme un **chevalier errant**, fidèle à un code de chevalerie qu'il est le seul à suivre dans un plan d'existence dédié à la souffrance. Vêtu d'une armure disparate, coiffé d'un pot en guise de heaume et armé d'une épée qu'il manie avec un enthousiasme inversement proportionnel à son efficacité, il incarne un contraste saisissant avec l'horreur d'Havreglace.
+
+Son excentricité n'est pas de la folie — ou du moins, pas uniquement. La durée incalculable de son séjour en Havreglace aurait dû le réduire à l'état de coquille vide, comme tant d'autres Sans-Âme. Le fait qu'il ait conservé sa personnalité intacte suggère quelque chose de remarquable dans la nature même de Cadwell — une résilience spirituelle qui défie la compréhension.
+
+## Allié du Vestige
+
+Lorsque le **Vestige** arriva en Havreglace en **2E 582**, Cadwell devint l'un de ses premiers et plus précieux alliés. Sa connaissance intime du plan d'Oblivion — acquise au fil d'innombrables années d'exploration — faisait de lui un guide irremplaçable dans un territoire où chaque pas pouvait mener à la destruction.
+
+Cadwell aida le Vestige à naviguer dans les méandres d'Havreglace, lui indiquant des passages secrets, des raccourcis entre les différentes régions du plan, et des informations cruciales sur les forces de Molag Bal. Son attitude désinvolte face au danger — compréhensible pour quelqu'un qui ne pouvait plus mourir — offrait un contrepoint bienvenu à la gravité de la situation.
+
+## L'Almanach de Cadwell
+
+Après la défaite de Molag Bal et la fin du **Planemeld**, Cadwell joua un rôle inattendu en offrant au Vestige ce qui devint connu sous le nom d'**Almanach de Cadwell** — un guide permettant de revivre les événements majeurs des alliances rivales. Grâce à cet almanach, le Vestige put expérimenter les conflits et les quêtes du **Pacte de Coeurébène**, du **Domaine Aldmeri** et de l'**Alliance de Daguefilante** comme s'il en avait fait partie.
+
+L'Almanach représentait bien plus qu'un simple outil narratif : il démontrait que Cadwell possédait une compréhension des mécanismes temporels et dimensionnels qui dépassait celle de la plupart des mortels — et même de certains immortels. Comment un Sans-Âme excentrique avait acquis un tel pouvoir reste un mystère non résolu.
+
+## Le mystère de Cadwell
+
+La nature véritable de Cadwell demeure l'une des grandes énigmes d'Havreglace. Plusieurs questions restent sans réponse :
+
+- **Quand est-il mort ?** Son ancienneté suggère une époque très reculée, possiblement l'Ère Méréthique ou la Première Ère, mais aucune chronique ne mentionne un chevalier de Codswallop.
+- **Pourquoi a-t-il conservé sa raison ?** Tous les autres Sans-Âme finissent par perdre leur identité et devenir des créatures dégénérées. Cadwell est l'unique exception connue.
+- **Quel est son véritable pouvoir ?** Sa capacité à se déplacer librement en Havreglace, sa connaissance apparemment totale du plan, et son immunité à l'influence corruptrice de Molag Bal suggèrent qu'il est bien plus qu'un simple mortel égaré.
+
+## Un héros improbable
+
+Sir Cadwell incarne un thème cher à l'univers des Elder Scrolls : la persistance de l'espoir et de l'humanité dans les circonstances les plus désespérées. Dans un plan d'existence conçu pour écraser toute volonté, un chevalier absurde avec un pot sur la tête et un coq fantôme refusa de se laisser briser. Son existence même est un affront à Molag Bal — la preuve vivante que la domination absolue du Prince de la Cruauté a ses limites.
