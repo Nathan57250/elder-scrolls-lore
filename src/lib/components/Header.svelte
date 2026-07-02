@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
+	import { onMount } from 'svelte';
 	import { getSidebarState, getBookModeState, getThemeState } from '$lib/stores/app-state.svelte';
 	import { t } from '$lib/i18n';
 	import { localePath } from '$lib/i18n/routes';
@@ -13,11 +14,28 @@
 	const bookModeState = getBookModeState();
 	const themeState = getThemeState();
 
+	let isMac = $state(false);
+
+	onMount(() => {
+		isMac = navigator.platform.toUpperCase().indexOf('MAC') >= 0;
+	});
+
 	function goToRandomArticle() {
 		const entries = getAllEntries(locale);
 		if (entries.length === 0) return;
 		const entry = entries[Math.floor(Math.random() * entries.length)];
 		goto(localePath(locale, 'timeline', entry.era, entry.slug));
+	}
+
+	function openSearch() {
+		// Dispatch Cmd+K programmatically to open the search modal
+		const event = new KeyboardEvent('keydown', {
+			key: 'k',
+			metaKey: true,
+			ctrlKey: true,
+			bubbles: true
+		});
+		window.dispatchEvent(event);
 	}
 </script>
 
@@ -48,6 +66,9 @@
 			</a>
 			<a href={localePath(locale, 'tags')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.tags')}
+			</a>
+			<a href={localePath(locale, 'graph')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.graph')}
 			</a>
 			<a href={localePath(locale, 'search')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.search')}
@@ -81,15 +102,16 @@
 					</svg>
 				{/if}
 			</button>
-			<a
-				href={localePath(locale, 'search')}
-				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
+			<button
+				onclick={openSearch}
+				class="flex items-center gap-1.5 rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
 				aria-label={t(locale, 'nav.search')}
 			>
 				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
 				</svg>
-			</a>
+				<kbd class="hidden rounded bg-surface px-1.5 py-0.5 text-[10px] font-medium text-text-secondary sm:inline-block">{isMac ? '⌘' : 'Ctrl+'}K</kbd>
+			</button>
 			<button
 				onclick={goToRandomArticle}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"
