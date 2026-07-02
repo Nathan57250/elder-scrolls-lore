@@ -47,75 +47,83 @@
 	}
 </script>
 
-<article
-	class="mx-auto max-w-3xl px-4 py-10 {bookMode.active ? 'max-w-2xl text-lg leading-relaxed' : ''}"
-	data-pagefind-body
->
-	<header class="mb-10 border-b border-border pb-6">
-		<div class="mb-3 flex flex-wrap items-center gap-2">
-			{#if eraData}
-				<a
-					href={localePath(locale, 'timeline', era)}
-					class="inline-flex items-center gap-1.5 rounded-full px-2.5 py-0.5 text-xs font-medium no-underline"
-					style="background-color: {eraData.color}15; color: {eraData.color}"
-					data-pagefind-filter="era"
-				>
-					<span class="h-1.5 w-1.5 rounded-full" style="background-color: {eraData.color}"></span>
-					{getEraName(eraData, locale)}
-				</a>
+<div class="relative mx-auto max-w-3xl px-4 xl:max-w-none xl:px-0">
+	<article
+		class="mx-auto max-w-3xl px-0 py-10 xl:px-4 {bookMode.active ? 'max-w-2xl text-lg leading-relaxed' : ''}"
+		data-pagefind-body
+	>
+		<header class="mb-10 border-b border-border pb-6">
+			<div class="mb-3 flex flex-wrap items-center gap-2">
+				{#if eraData}
+					<a
+						href={localePath(locale, 'timeline', era)}
+						class="inline-flex items-center gap-1.5 rounded-full px-2.5 py-0.5 text-xs font-medium no-underline"
+						style="background-color: {eraData.color}15; color: {eraData.color}"
+						data-pagefind-filter="era"
+					>
+						<span class="h-1.5 w-1.5 rounded-full" style="background-color: {eraData.color}"></span>
+						{getEraName(eraData, locale)}
+					</a>
+				{/if}
+				{#if categoryData}
+					<a
+						href={localePath(locale, 'categories', category)}
+						class="inline-flex items-center gap-1 rounded-full bg-bg-elevated px-2.5 py-0.5 text-xs font-medium text-text-secondary no-underline"
+						data-pagefind-filter="category"
+					>
+						{categoryData.icon} {getCategoryName(categoryData, locale)}
+					</a>
+				{/if}
+				{#if date}
+					<span class="text-xs text-text-muted">{date}</span>
+				{/if}
+			</div>
+
+			<h1 class="text-3xl font-bold tracking-tight text-text" data-pagefind-meta="title">
+				{title}
+			</h1>
+
+			<p class="mt-3 text-base text-text-secondary">{summary}</p>
+
+			{#if tags?.length}
+				<div class="mt-4 flex flex-wrap gap-1.5">
+					{#each tags as tag}
+						<span
+							class="rounded-md bg-bg-elevated px-2 py-0.5 text-xs text-text-muted"
+							data-pagefind-filter="tag"
+						>
+							{tag}
+						</span>
+					{/each}
+				</div>
 			{/if}
-			{#if categoryData}
-				<a
-					href={localePath(locale, 'categories', category)}
-					class="inline-flex items-center gap-1 rounded-full bg-bg-elevated px-2.5 py-0.5 text-xs font-medium text-text-secondary no-underline"
-					data-pagefind-filter="category"
-				>
-					{categoryData.icon} {getCategoryName(categoryData, locale)}
-				</a>
-			{/if}
-			{#if date}
-				<span class="text-xs text-text-muted">{date}</span>
-			{/if}
+		</header>
+
+		<!-- svelte-ignore a11y_click_events_have_key_events a11y_no_static_element_interactions -->
+		<div class="lore-content" role="presentation" bind:this={contentEl} onclick={handleContentClick}>
+			{@render children()}
 		</div>
 
-		<h1 class="text-3xl font-bold tracking-tight text-text" data-pagefind-meta="title">
-			{title}
-		</h1>
-
-		<p class="mt-3 text-base text-text-secondary">{summary}</p>
-
-		{#if tags?.length}
-			<div class="mt-4 flex flex-wrap gap-1.5">
-				{#each tags as tag}
-					<span
-						class="rounded-md bg-bg-elevated px-2 py-0.5 text-xs text-text-muted"
-						data-pagefind-filter="tag"
-					>
-						{tag}
-					</span>
-				{/each}
-			</div>
+		{#if sources?.length}
+			<footer class="mt-12 border-t border-border pt-6">
+				<h3 class="text-xs font-medium uppercase tracking-wider text-text-muted">
+					{t(locale, 'article.sources')}
+				</h3>
+				<ul class="mt-2 list-none p-0">
+					{#each sources as source}
+						<li class="text-sm text-text-secondary">{source}</li>
+					{/each}
+				</ul>
+			</footer>
 		{/if}
-	</header>
+	</article>
 
-	<!-- svelte-ignore a11y_click_events_have_key_events a11y_no_static_element_interactions -->
-	<div class="lore-content" role="presentation" bind:this={contentEl} onclick={handleContentClick}>
-		{@render children()}
-	</div>
-
-	{#if sources?.length}
-		<footer class="mt-12 border-t border-border pt-6">
-			<h3 class="text-xs font-medium uppercase tracking-wider text-text-muted">
-				{t(locale, 'article.sources')}
-			</h3>
-			<ul class="mt-2 list-none p-0">
-				{#each sources as source}
-					<li class="text-sm text-text-secondary">{source}</li>
-				{/each}
-			</ul>
-		</footer>
-	{/if}
-</article>
+	<aside class="absolute left-full top-10 ml-8 hidden w-56 xl:block">
+		<div class="sticky top-24">
+			<TableOfContents {locale} />
+		</div>
+	</aside>
+</div>
 
 <style>
 	.lore-content :global(h2) {
