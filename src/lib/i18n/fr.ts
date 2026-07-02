@@ -9,6 +9,8 @@ const fr: Record<string, string> = {
 	'nav.menu': 'Menu',
 	'nav.close': 'Fermer le menu',
 	'nav.theme': 'Changer le thème',
+	'nav.random': 'Article aléatoire',
+	'nav.tags': 'Tags',
 
 	'home.eras': 'Les Ères de Tamriel',
 	'home.timeline': 'Frise Chronologique',
@@ -35,6 +37,13 @@ const fr: Record<string, string> = {
 
 	'era.empty': 'Aucun article pour cette ère',
 	'era.empty.hint': 'Le contenu sera ajouté prochainement.',
+
+	'tags.title': 'Tags',
+	'tags.description': 'Parcourir les articles par tag',
+	'tags.count': '{count} article{count:s}',
+	'tags.empty': 'Aucun article avec ce tag',
+	'tags.empty.hint': 'Essayez un autre tag ou parcourez les catégories.',
+	'tags.back': 'Tous les tags',
 
 	'preview.close': "Fermer l'aperçu",
 	'preview.read': "Lire l'article complet →",

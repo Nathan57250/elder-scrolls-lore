@@ -9,6 +9,8 @@ const es: Record<string, string> = {
 	'nav.menu': 'Menú',
 	'nav.close': 'Cerrar menú',
 	'nav.theme': 'Cambiar tema',
+	'nav.random': 'Artículo aleatorio',
+	'nav.tags': 'Etiquetas',
 
 	'home.eras': 'Las Eras de Tamriel',
 	'home.timeline': 'Cronología',
@@ -35,6 +37,13 @@ const es: Record<string, string> = {
 
 	'era.empty': 'No hay artículos para esta era',
 	'era.empty.hint': 'El contenido se añadirá próximamente.',
+
+	'tags.title': 'Etiquetas',
+	'tags.description': 'Explorar artículos por etiqueta',
+	'tags.count': '{count} artículo{count:s}',
+	'tags.empty': 'No hay artículos con esta etiqueta',
+	'tags.empty.hint': 'Intente otra etiqueta o explore las categorías.',
+	'tags.back': 'Todas las etiquetas',
 
 	'preview.close': 'Cerrar vista previa',
 	'preview.read': 'Leer artículo completo →',
