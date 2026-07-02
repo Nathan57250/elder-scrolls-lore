@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
+	import { onMount, tick } from 'svelte';
 	import { t } from '$lib/i18n';
 	import type { Locale } from '$lib/i18n';
 
@@ -14,6 +14,7 @@
 	let items = $state<TocItem[]>([]);
 	let activeId = $state<string>('');
 	let open = $state(false);
+	let mounted = $state(false);
 
 	function generateId(text: string): string {
 		return text
@@ -24,7 +25,7 @@
 			.replace(/(^-|-$)/g, '');
 	}
 
-	onMount(() => {
+	function scanHeadings() {
 		const headings = document.querySelectorAll('.lore-content h2, .lore-content h3');
 
 		items = Array.from(headings).map((h) => {
@@ -36,6 +37,14 @@
 				level: parseInt(h.tagName[1])
 			};
 		});
+
+		return headings;
+	}
+
+	onMount(async () => {
+		await tick();
+		const headings = scanHeadings();
+		mounted = true;
 
 		const observer = new IntersectionObserver(
 			(entries) => {
@@ -63,7 +72,7 @@
 	}
 </script>
 
-{#if items.length > 0}
+{#if items.length > 0 || (collapsible && mounted)}
 	<nav aria-label={t(locale, 'article.toc')} class={collapsible ? 'rounded-lg border border-border bg-bg-elevated p-4' : ''}>
 		{#if collapsible}
 			<button
