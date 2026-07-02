@@ -13,6 +13,7 @@ export interface Era {
 
 export interface LoreEntryFrontmatter {
 	title: string;
+	image?: string;
 	slug: string;
 	era: EraSlug;
 	category: CategorySlug;

@@ -17,6 +17,7 @@
 
 <SeoMeta
 	title="{data.metadata.title} — {t(locale, 'site.title')}"
+	image={data.metadata.image}
 	{description}
 	{locale}
 	url={page.url.pathname}

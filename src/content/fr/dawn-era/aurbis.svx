@@ -1,6 +1,7 @@
 ---
 title: "L'Aurbis — Structure de la Réalité"
 slug: "aurbis"
+image: "/images/dawn-era/aurbis-map.png"
 era: "dawn-era"
 category: "cosmologie"
 tags: ["aurbis", "aetherius", "oblivion", "mundus", "nirn", "chim", "amaranth", "godhead"]
