@@ -79,6 +79,18 @@ export function getEntriesByTag(locale: Locale, tag: string): LoreEntryFrontmatt
 		.map((e) => e.metadata);
 }
 
+export function getAllTags(locale: Locale): { tag: string; count: number }[] {
+	const tagMap = new Map<string, number>();
+	for (const entry of byLocale(locale)) {
+		for (const tag of entry.metadata.tags ?? []) {
+			tagMap.set(tag, (tagMap.get(tag) ?? 0) + 1);
+		}
+	}
+	return Array.from(tagMap.entries())
+		.map(([tag, count]) => ({ tag, count }))
+		.sort((a, b) => a.tag.localeCompare(b.tag));
+}
+
 export function getTimelineEntries(locale: Locale): LoreEntryFrontmatter[] {
 	return byLocale(locale)
 		.filter((e) => e.metadata.timelineYear !== undefined)

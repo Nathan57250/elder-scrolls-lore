@@ -50,4 +50,17 @@
 			{/each}
 		</ul>
 	</div>
+
+	<div>
+		<h3 class="mb-2 px-3 text-xs font-medium uppercase tracking-wider text-text-muted">
+			{t(locale, 'nav.tags')}
+		</h3>
+		<a
+			href={localePath(locale, 'tags')}
+			class="flex items-center gap-2.5 rounded-md px-3 py-1.5 text-sm transition-colors {page.url.pathname.includes('/tags') || page.url.pathname.includes('/etiquetas') ? 'bg-surface-hover text-text' : 'text-text-secondary hover:bg-surface-hover hover:text-text'}"
+		>
+			<span class="text-base">#</span>
+			{t(locale, 'tags.title')}
+		</a>
+	</div>
 </nav>

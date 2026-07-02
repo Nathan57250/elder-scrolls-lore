@@ -44,6 +44,9 @@
 			<a href={localePath(locale, 'categories', 'cosmologie')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.categories')}
 			</a>
+			<a href={localePath(locale, 'tags')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.tags')}
+			</a>
 			<a href={localePath(locale, 'search')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.search')}
 			</a>

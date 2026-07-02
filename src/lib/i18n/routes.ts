@@ -1,12 +1,12 @@
 import type { Locale } from './index';
 
 const segments = {
-	fr: { timeline: 'chronologie', categories: 'categories', search: 'recherche' },
-	en: { timeline: 'timeline', categories: 'categories', search: 'search' },
-	es: { timeline: 'cronologia', categories: 'categorias', search: 'buscar' }
+	fr: { timeline: 'chronologie', categories: 'categories', search: 'recherche', tags: 'tags' },
+	en: { timeline: 'timeline', categories: 'categories', search: 'search', tags: 'tags' },
+	es: { timeline: 'cronologia', categories: 'categorias', search: 'buscar', tags: 'etiquetas' }
 } as const;
 
-export type RouteSegment = 'timeline' | 'categories' | 'search';
+export type RouteSegment = 'timeline' | 'categories' | 'search' | 'tags';
 
 export function getSegment(locale: Locale, segment: RouteSegment): string {
 	return segments[locale][segment];
