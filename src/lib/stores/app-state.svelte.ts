@@ -49,6 +49,17 @@ export function getBookModeState() {
 		},
 		toggle() {
 			bookMode = !bookMode;
+			if (typeof localStorage !== 'undefined') {
+				localStorage.setItem('bookMode', String(bookMode));
+			}
+		},
+		init() {
+			if (typeof localStorage !== 'undefined') {
+				const saved = localStorage.getItem('bookMode');
+				if (saved === 'true') {
+					bookMode = true;
+				}
+			}
 		}
 	};
 }

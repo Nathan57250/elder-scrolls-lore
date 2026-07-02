@@ -1,6 +1,6 @@
 <script lang="ts">
 	import { goto } from '$app/navigation';
-	import { getSidebarState, getThemeState } from '$lib/stores/app-state.svelte';
+	import { getSidebarState, getBookModeState, getThemeState } from '$lib/stores/app-state.svelte';
 	import { t } from '$lib/i18n';
 	import { localePath } from '$lib/i18n/routes';
 	import type { Locale } from '$lib/i18n';
@@ -10,6 +10,7 @@
 	let { locale }: { locale: Locale } = $props();
 
 	const sidebar = getSidebarState();
+	const bookModeState = getBookModeState();
 	const themeState = getThemeState();
 
 	function goToRandomArticle() {
@@ -26,6 +27,7 @@
 			<button
 				onclick={() => sidebar.toggle()}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text lg:hidden"
+				class:hidden={bookModeState.active}
 				aria-label={t(locale, 'nav.menu')}
 			>
 				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -37,7 +39,7 @@
 			</a>
 		</div>
 
-		<nav class="hidden items-center gap-1 md:flex">
+		<nav class="hidden items-center gap-1 md:flex" class:!hidden={bookModeState.active}>
 			<a href={localePath(locale, 'timeline', 'dawn-era')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.timeline')}
 			</a>
@@ -54,6 +56,16 @@
 
 		<div class="flex items-center gap-1">
 			<LocaleSwitcher {locale} />
+			<button
+				onclick={() => bookModeState.toggle()}
+				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text {bookModeState.active ? 'bg-surface-hover text-accent' : ''}"
+				aria-label={t(locale, 'nav.readingMode')}
+				title={t(locale, 'nav.readingMode')}
+			>
+				<svg class="h-5 w-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+					<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.746 0 3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+				</svg>
+			</button>
 			<button
 				onclick={() => themeState.toggle()}
 				class="rounded-md p-2 text-text-secondary hover:bg-surface-hover hover:text-text"

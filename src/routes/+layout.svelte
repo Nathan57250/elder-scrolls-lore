@@ -5,13 +5,15 @@
 	import CategoryNav from '$lib/components/CategoryNav.svelte';
 	import MapPanel from '$lib/components/MapPanel.svelte';
 	import LorePreviewPanel from '$lib/components/LorePreviewPanel.svelte';
-	import { getSidebarState, getThemeState } from '$lib/stores/app-state.svelte';
+	import SearchModal from '$lib/components/SearchModal.svelte';
+	import { getSidebarState, getBookModeState, getThemeState } from '$lib/stores/app-state.svelte';
 	import { page } from '$app/state';
 	import { defaultLocale, t } from '$lib/i18n';
 	import type { Locale } from '$lib/i18n';
 
 	let { children } = $props();
 	const sidebar = getSidebarState();
+	const bookMode = getBookModeState();
 	const themeState = getThemeState();
 
 	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
@@ -26,6 +28,7 @@
 
 	onMount(() => {
 		themeState.init();
+		bookMode.init();
 	});
 </script>
 
@@ -51,12 +54,14 @@
 
 	<div class="flex flex-1">
 		<!-- Sidebar desktop -->
-		<aside class="hidden w-64 shrink-0 overflow-y-auto border-r border-border bg-bg p-4 lg:block">
-			<CategoryNav {locale} />
-		</aside>
+		{#if !bookMode.active}
+			<aside class="hidden w-64 shrink-0 overflow-y-auto border-r border-border bg-bg p-4 lg:block">
+				<CategoryNav {locale} />
+			</aside>
+		{/if}
 
 		<!-- Sidebar mobile (overlay) -->
-		{#if sidebar.open}
+		{#if sidebar.open && !bookMode.active}
 			<div class="fixed inset-0 z-40 lg:hidden">
 				<button
 					class="absolute inset-0 bg-black/60 backdrop-blur-sm"
@@ -77,4 +82,5 @@
 
 	<MapPanel />
 	<LorePreviewPanel />
+	<SearchModal {locale} />
 </div>

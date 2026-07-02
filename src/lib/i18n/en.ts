@@ -11,6 +11,8 @@ const en: Record<string, string> = {
 	'nav.theme': 'Toggle theme',
 	'nav.random': 'Random article',
 	'nav.tags': 'Tags',
+	'nav.graph': 'Graph',
+	'nav.readingMode': 'Reading mode',
 
 	'home.eras': 'The Eras of Tamriel',
 	'home.timeline': 'Timeline',
@@ -45,6 +47,10 @@ const en: Record<string, string> = {
 	'tags.empty.hint': 'Try another tag or browse categories.',
 	'tags.back': 'All tags',
 
+	'quicksearch.placeholder': 'Search articles...',
+	'quicksearch.noResults': 'No results',
+	'quicksearch.hint': 'Type to search articles',
+
 	'preview.close': 'Close preview',
 	'preview.read': 'Read full article →',
 
@@ -52,6 +58,10 @@ const en: Record<string, string> = {
 	'map.close': 'Close map',
 	'map.view': 'View {name} on the map',
 	'map.read': 'Read full article →',
+
+	'graph.title': 'Relationship Graph',
+	'graph.focus': 'Relations of {name}',
+	'graph.see_relations': 'See relations',
 
 	'error.era_not_found': 'Era "{era}" not found',
 	'error.category_not_found': 'Category "{category}" not found',
