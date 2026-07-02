@@ -20,11 +20,7 @@
 
 {#if hasProgress}
 	<span
-		class="inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-medium"
-		class:bg-green-500/15={isComplete}
-		class:text-green-400={isComplete}
-		class:bg-accent/10={!isComplete}
-		class:text-accent={!isComplete}
+		class="inline-flex items-center gap-1 rounded-full px-2 py-0.5 text-xs font-medium {isComplete ? 'bg-green-500/15 text-green-400' : 'bg-accent/10 text-accent'}"
 		title={t(locale, 'progress.read', { percent: progress })}
 	>
 		{#if isComplete}
