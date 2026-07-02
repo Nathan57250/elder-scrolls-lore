@@ -33,14 +33,12 @@
 		if (!contentEl) return;
 		const rect = contentEl.getBoundingClientRect();
 		const viewportHeight = window.innerHeight;
-		const contentTop = rect.top + window.scrollY;
 		const contentHeight = rect.height;
 
 		if (contentHeight <= 0) return;
 
-		const scrolled = window.scrollY - contentTop + viewportHeight;
-		const totalScrollable = contentHeight + viewportHeight;
-		const percent = Math.min(100, Math.max(0, (scrolled / totalScrollable) * 100));
+		const scrolled = viewportHeight - rect.top;
+		const percent = Math.min(100, Math.max(0, (scrolled / contentHeight) * 100));
 
 		scrollPercent = percent;
 
