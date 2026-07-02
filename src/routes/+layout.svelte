@@ -43,7 +43,7 @@
 	<meta name="twitter:title" content="{t(locale, 'site.title')} — Elder Scrolls" />
 	<meta name="twitter:description" content={t(locale, 'site.description')} />
 	<meta name="twitter:image" content="{SITE_URL}/images/common/tamriel-map.jpg" />
-	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/{locale}/rss.xml" />
+
 </svelte:head>
 
 <div class="flex min-h-screen flex-col bg-bg text-text">
