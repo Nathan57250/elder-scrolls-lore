@@ -1,9 +1,10 @@
 <script lang="ts">
-	import { onMount } from 'svelte';
+	import { onMount, onDestroy } from 'svelte';
 	import type { LoreEntryFrontmatter } from '$lib/types/lore';
 	import { getEra, getEraName } from '$lib/data/eras';
 	import { getCategory, getCategoryName } from '$lib/data/categories';
 	import { getBookModeState, getPreviewState } from '$lib/stores/app-state.svelte';
+	import { getReadingProgressState } from '$lib/stores/reading-progress.svelte';
 	import { findEntity } from '$lib/utils/entity-lookup';
 	import { t } from '$lib/i18n';
 	import { localePath } from '$lib/i18n/routes';
@@ -19,12 +20,50 @@
 	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
 	const bookMode = getBookModeState();
 	const preview = getPreviewState();
+	const readingProgress = getReadingProgressState();
 	const eraData = $derived(getEra(era));
 	const categoryData = $derived(getCategory(category));
 
 	let contentEl: HTMLDivElement;
+	let scrollPercent = $state(0);
+	let scrollRaf: number | null = null;
+	let debounceTimer: ReturnType<typeof setTimeout> | null = null;
+
+	function calculateScrollProgress() {
+		if (!contentEl) return;
+		const rect = contentEl.getBoundingClientRect();
+		const viewportHeight = window.innerHeight;
+		const contentTop = rect.top + window.scrollY;
+		const contentHeight = rect.height;
+
+		if (contentHeight <= 0) return;
+
+		const scrolled = window.scrollY - contentTop + viewportHeight;
+		const totalScrollable = contentHeight + viewportHeight;
+		const percent = Math.min(100, Math.max(0, (scrolled / totalScrollable) * 100));
+
+		scrollPercent = percent;
+
+		if (debounceTimer) clearTimeout(debounceTimer);
+		debounceTimer = setTimeout(() => {
+			readingProgress.setProgress(slug, percent);
+		}, 300);
+	}
+
+	function handleScroll() {
+		if (scrollRaf) return;
+		scrollRaf = requestAnimationFrame(() => {
+			calculateScrollProgress();
+			scrollRaf = null;
+		});
+	}
 
 	onMount(() => {
+		readingProgress.init();
+		scrollPercent = readingProgress.getProgress(slug);
+		window.addEventListener('scroll', handleScroll, { passive: true });
+		calculateScrollProgress();
+
 		const strongs = contentEl.querySelectorAll('strong');
 		for (const el of strongs) {
 			const text = el.textContent?.trim();
@@ -37,6 +76,14 @@
 		}
 	});
 
+	onDestroy(() => {
+		if (typeof window !== 'undefined') {
+			window.removeEventListener('scroll', handleScroll);
+		}
+		if (scrollRaf) cancelAnimationFrame(scrollRaf);
+		if (debounceTimer) clearTimeout(debounceTimer);
+	});
+
 	function handleContentClick(e: MouseEvent) {
 		const target = e.target as HTMLElement;
 		const strong = target.closest('.entity-link') as HTMLElement;
@@ -46,6 +93,14 @@
 		}
 	}
 </script>
+
+{#if scrollPercent > 0}
+	<div
+		class="fixed left-0 top-0 z-50 h-0.5 transition-[width] duration-150 ease-out"
+		style="width: {scrollPercent}%; background-color: var(--color-accent);"
+		aria-hidden="true"
+	></div>
+{/if}
 
 <div class="relative mx-auto max-w-3xl px-4 xl:max-w-none xl:px-0">
 	<article

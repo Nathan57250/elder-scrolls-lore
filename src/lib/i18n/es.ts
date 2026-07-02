@@ -66,6 +66,8 @@ const es: Record<string, string> = {
 	'error.era_not_found': 'Era "{era}" no encontrada',
 	'error.category_not_found': 'Categoría "{category}" no encontrada',
 	'error.article_not_found': 'Artículo "{slug}" no encontrado',
+
+	'progress.read': 'Leído {percent}%',
 };
 
 export default es;

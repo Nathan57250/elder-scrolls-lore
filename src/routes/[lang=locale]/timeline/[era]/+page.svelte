@@ -3,6 +3,7 @@
 	import { getEraName, getEraDescription } from '$lib/data/eras';
 	import { t } from '$lib/i18n';
 	import { localePath } from '$lib/i18n/routes';
+	import ReadingProgressBadge from '$lib/components/ReadingProgressBadge.svelte';
 
 	let { data }: { data: PageData } = $props();
 	const locale = $derived(data.locale);
@@ -45,6 +46,7 @@
 							{/if}
 							<h3 class="text-sm font-semibold text-text">
 								{entry.title}
+								<ReadingProgressBadge slug={entry.slug} {locale} />
 							</h3>
 							<p class="mt-1 text-sm text-text-secondary">
 								{entry.summary ?? entry.description ?? ''}
