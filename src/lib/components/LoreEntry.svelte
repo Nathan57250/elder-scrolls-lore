@@ -151,7 +151,7 @@
 				</div>
 			{/if}
 
-			<div class="mt-4">
+			<div class="mt-4 flex flex-wrap gap-2">
 				<a
 					href="{localePath(locale, 'graph')}?focus={slug}"
 					class="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs text-text-secondary no-underline transition-colors hover:border-border-subtle hover:bg-surface-hover hover:text-text"
@@ -163,6 +163,15 @@
 						<path stroke-width="1.5" d="M8 7.5l4 8M16 7.5l-4 8" />
 					</svg>
 					{t(locale, 'graph.see_relations')}
+				</a>
+				<a
+					href="{localePath(locale, 'compare')}?left={slug}"
+					class="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs text-text-secondary no-underline transition-colors hover:border-border-subtle hover:bg-surface-hover hover:text-text"
+				>
+					<svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+						<path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17V7m0 10a2 2 0 01-2 2H5a2 2 0 01-2-2V7a2 2 0 012-2h2a2 2 0 012 2m0 10a2 2 0 002 2h2a2 2 0 002-2M9 7a2 2 0 012-2h2a2 2 0 012 2m0 10V7m0 10a2 2 0 002 2h2a2 2 0 002-2V7a2 2 0 00-2-2h-2a2 2 0 00-2 2" />
+					</svg>
+					{t(locale, 'nav.compare')}
 				</a>
 			</div>
 		</header>

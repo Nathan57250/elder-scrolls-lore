@@ -19,6 +19,38 @@ function saveToStorage(data: Record<string, number>) {
 	}
 }
 
+function getTodayDate(): string {
+	return new Date().toISOString().slice(0, 10);
+}
+
+function loadActivityDates(): string[] {
+	if (typeof localStorage === 'undefined') return [];
+	try {
+		const raw = localStorage.getItem('reading-activity-dates');
+		return raw ? JSON.parse(raw) : [];
+	} catch {
+		return [];
+	}
+}
+
+function saveActivityDates(dates: string[]) {
+	if (typeof localStorage === 'undefined') return;
+	try {
+		localStorage.setItem('reading-activity-dates', JSON.stringify(dates));
+	} catch {
+		// Storage full or unavailable — silently ignore
+	}
+}
+
+function recordActivity() {
+	const today = getTodayDate();
+	const dates = loadActivityDates();
+	if (!dates.includes(today)) {
+		dates.push(today);
+		saveActivityDates(dates);
+	}
+}
+
 export function getReadingProgressState() {
 	return {
 		init() {
@@ -34,10 +66,14 @@ export function getReadingProgressState() {
 			if (clamped > current) {
 				progress[slug] = clamped;
 				saveToStorage(progress);
+				recordActivity();
 			}
 		},
 		getAllProgress(): Record<string, number> {
 			return progress;
+		},
+		getActivityDates(): string[] {
+			return loadActivityDates();
 		}
 	};
 }

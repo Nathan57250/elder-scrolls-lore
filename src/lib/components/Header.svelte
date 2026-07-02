@@ -70,6 +70,24 @@
 			<a href={localePath(locale, 'graph')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.graph')}
 			</a>
+			<a href={localePath(locale, 'map')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.map')}
+			</a>
+			<a href={localePath(locale, 'timeline-view')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.timelineView')}
+			</a>
+			<a href={localePath(locale, 'quiz')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.quiz')}
+			</a>
+			<a href={localePath(locale, 'lineages')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.lineages')}
+			</a>
+			<a href={localePath(locale, 'paths')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.paths')}
+			</a>
+			<a href={localePath(locale, 'stats')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
+				{t(locale, 'nav.stats')}
+			</a>
 			<a href={localePath(locale, 'search')} class="rounded-md px-3 py-1.5 text-sm text-text-secondary transition-colors hover:bg-surface-hover hover:text-text">
 				{t(locale, 'nav.search')}
 			</a>
