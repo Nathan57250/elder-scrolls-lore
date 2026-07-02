@@ -55,6 +55,7 @@
 	let animationId: number;
 	let hoverTime = 0;
 	let isAnimating = false;
+	let activeHoverNode: GraphNode | null = null;
 
 	const eraColorMap = new Map<EraSlug, string>();
 	for (const era of eras) {
@@ -257,7 +258,7 @@
 		if (isAnimating) return;
 		isAnimating = true;
 		function animate() {
-			if (!hoveredNode) {
+			if (!activeHoverNode) {
 				isAnimating = false;
 				return;
 			}
@@ -270,6 +271,7 @@
 
 	function stopAnimation() {
 		isAnimating = false;
+		activeHoverNode = null;
 		hoverTime = 0;
 		if (animationId) cancelAnimationFrame(animationId);
 		draw();
@@ -288,12 +290,14 @@
 		const nodeMap = new Map<string, GraphNode>();
 		for (const node of nodes) nodeMap.set(node.id, node);
 
+		const hNode = activeHoverNode;
+
 		// Draw edges
 		for (const edge of edges) {
 			const a = nodeMap.get(edge.source);
 			const b = nodeMap.get(edge.target);
 			if (!a || !b) continue;
-			const isHighlighted = hoveredNode && (hoveredNode.id === a.id || hoveredNode.id === b.id);
+			const isHighlighted = hNode && (hNode.id === a.id || hNode.id === b.id);
 			ctx.strokeStyle = isHighlighted
 				? 'rgba(255, 255, 255, 0.6)'
 				: 'rgba(255, 255, 255, 0.08)';
@@ -306,7 +310,7 @@
 
 		// Draw nodes
 		for (const node of nodes) {
-			const isHovered = hoveredNode === node;
+			const isHovered = hNode === node;
 			const floatOffset = isHovered ? Math.sin(hoverTime * 3) * 4 : 0;
 			const pulseScale = isHovered ? 1 + Math.sin(hoverTime * 4) * 0.2 : 1;
 			const drawY = node.y + floatOffset;
@@ -359,7 +363,7 @@
 			const node = nodes[i];
 			const dx = node.x - wx;
 			const dy = node.y - wy;
-			const hitRadius = (node.radius + 4) / scale;
+			const hitRadius = (node.radius + 8) / scale;
 			if (dx * dx + dy * dy < hitRadius * hitRadius) {
 				return node;
 			}
@@ -382,6 +386,7 @@
 		const node = getNodeAt(sx, sy);
 		if (node !== hoveredNode) {
 			hoveredNode = node;
+			activeHoverNode = node;
 			canvas.style.cursor = node ? 'pointer' : 'grab';
 			tooltipX = e.clientX;
 			tooltipY = e.clientY;
@@ -447,6 +452,7 @@
 
 	function handleMouseLeave() {
 		hoveredNode = null;
+		activeHoverNode = null;
 		isDragging = false;
 		stopAnimation();
 	}
