@@ -7,7 +7,7 @@
 	import LorePreviewPanel from '$lib/components/LorePreviewPanel.svelte';
 	import { getSidebarState, getThemeState } from '$lib/stores/app-state.svelte';
 	import { page } from '$app/state';
-	import { defaultLocale } from '$lib/i18n';
+	import { defaultLocale, t } from '$lib/i18n';
 	import type { Locale } from '$lib/i18n';
 
 	let { children } = $props();
@@ -16,14 +16,34 @@
 
 	const locale = $derived((page.data?.locale as Locale) ?? defaultLocale);
 
+	const SITE_URL = 'https://elder-scrolls-lore.vercel.app';
+
+	const localeMap: Record<Locale, string> = {
+		fr: 'fr_FR',
+		en: 'en_US',
+		es: 'es_ES'
+	};
+
 	onMount(() => {
 		themeState.init();
 	});
 </script>
 
 <svelte:head>
-	<title>{locale === 'fr' ? 'Grand Livre du Lore' : locale === 'es' ? 'Gran Libro del Lore' : 'Great Book of Lore'} — Elder Scrolls</title>
-	<meta name="description" content="Complete and interactive encyclopedia of The Elder Scrolls lore." />
+	<title>{t(locale, 'site.title')} — Elder Scrolls</title>
+	<meta name="description" content={t(locale, 'site.description')} />
+	<meta property="og:title" content="{t(locale, 'site.title')} — Elder Scrolls" />
+	<meta property="og:description" content={t(locale, 'site.description')} />
+	<meta property="og:type" content="website" />
+	<meta property="og:locale" content={localeMap[locale]} />
+	<meta property="og:image" content="{SITE_URL}/images/common/tamriel-map.jpg" />
+	<meta property="og:site_name" content="Elder Scrolls Lore" />
+	<meta property="og:url" content="{SITE_URL}{page.url.pathname}" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="{t(locale, 'site.title')} — Elder Scrolls" />
+	<meta name="twitter:description" content={t(locale, 'site.description')} />
+	<meta name="twitter:image" content="{SITE_URL}/images/common/tamriel-map.jpg" />
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/{locale}/rss.xml" />
 </svelte:head>
 
 <div class="flex min-h-screen flex-col bg-bg text-text">
