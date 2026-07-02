@@ -99,6 +99,10 @@
 			{/if}
 		</header>
 
+		<div class="mb-6 xl:hidden">
+			<TableOfContents {locale} collapsible />
+		</div>
+
 		<!-- svelte-ignore a11y_click_events_have_key_events a11y_no_static_element_interactions -->
 		<div class="lore-content" role="presentation" bind:this={contentEl} onclick={handleContentClick}>
 			{@render children()}
