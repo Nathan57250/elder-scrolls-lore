@@ -53,6 +53,8 @@
 	let nodes: GraphNode[] = [];
 	let edges: GraphEdge[] = [];
 	let animationId: number;
+	let hoverTime = 0;
+	let isAnimating = false;
 
 	const eraColorMap = new Map<EraSlug, string>();
 	for (const era of eras) {
@@ -206,7 +208,7 @@
 					let dy = b.y - a.y;
 					let dist = Math.sqrt(dx * dx + dy * dy);
 					if (dist < 1) dist = 1;
-					const force = 800 / (dist * dist);
+					const force = 2000 / (dist * dist);
 					const fx = (dx / dist) * force;
 					const fy = (dy / dist) * force;
 					a.vx -= fx;
@@ -225,7 +227,7 @@
 				let dy = b.y - a.y;
 				let dist = Math.sqrt(dx * dx + dy * dy);
 				if (dist < 1) dist = 1;
-				const force = (dist - 80) * 0.01 * edge.weight;
+				const force = (dist - 150) * 0.008 * edge.weight;
 				const fx = (dx / dist) * force;
 				const fy = (dy / dist) * force;
 				a.vx += fx;
@@ -251,6 +253,28 @@
 		}
 	}
 
+	function startAnimation() {
+		if (isAnimating) return;
+		isAnimating = true;
+		function animate() {
+			if (!hoveredNode) {
+				isAnimating = false;
+				return;
+			}
+			hoverTime += 0.05;
+			draw();
+			animationId = requestAnimationFrame(animate);
+		}
+		animate();
+	}
+
+	function stopAnimation() {
+		isAnimating = false;
+		hoverTime = 0;
+		if (animationId) cancelAnimationFrame(animationId);
+		draw();
+	}
+
 	function draw() {
 		if (!canvas) return;
 		const ctx = canvas.getContext('2d');
@@ -265,16 +289,15 @@
 		for (const node of nodes) nodeMap.set(node.id, node);
 
 		// Draw edges
-		ctx.lineWidth = 0.5;
 		for (const edge of edges) {
 			const a = nodeMap.get(edge.source);
 			const b = nodeMap.get(edge.target);
 			if (!a || !b) continue;
-			ctx.strokeStyle =
-				hoveredNode && (hoveredNode.id === a.id || hoveredNode.id === b.id)
-					? 'rgba(255, 255, 255, 0.6)'
-					: 'rgba(255, 255, 255, 0.1)';
-			ctx.lineWidth = hoveredNode && (hoveredNode.id === a.id || hoveredNode.id === b.id) ? 1.5 : 0.5;
+			const isHighlighted = hoveredNode && (hoveredNode.id === a.id || hoveredNode.id === b.id);
+			ctx.strokeStyle = isHighlighted
+				? 'rgba(255, 255, 255, 0.6)'
+				: 'rgba(255, 255, 255, 0.08)';
+			ctx.lineWidth = isHighlighted ? 1.5 : 0.5;
 			ctx.beginPath();
 			ctx.moveTo(a.x, a.y);
 			ctx.lineTo(b.x, b.y);
@@ -283,12 +306,29 @@
 
 		// Draw nodes
 		for (const node of nodes) {
+			const isHovered = hoveredNode === node;
+			const floatOffset = isHovered ? Math.sin(hoverTime * 3) * 4 : 0;
+			const pulseScale = isHovered ? 1 + Math.sin(hoverTime * 4) * 0.2 : 1;
+			const drawY = node.y + floatOffset;
+			const drawRadius = node.radius * pulseScale;
+
+			// Outer glow for hovered node
+			if (isHovered) {
+				const gradient = ctx.createRadialGradient(node.x, drawY, drawRadius, node.x, drawY, drawRadius * 3);
+				gradient.addColorStop(0, node.color + '80');
+				gradient.addColorStop(1, node.color + '00');
+				ctx.beginPath();
+				ctx.arc(node.x, drawY, drawRadius * 3, 0, Math.PI * 2);
+				ctx.fillStyle = gradient;
+				ctx.fill();
+			}
+
 			ctx.beginPath();
-			ctx.arc(node.x, node.y, node.radius, 0, Math.PI * 2);
+			ctx.arc(node.x, drawY, drawRadius, 0, Math.PI * 2);
 			ctx.fillStyle = node.color;
-			if (hoveredNode === node) {
+			if (isHovered) {
 				ctx.shadowColor = node.color;
-				ctx.shadowBlur = 12;
+				ctx.shadowBlur = 20;
 			} else {
 				ctx.shadowBlur = 0;
 			}
@@ -296,11 +336,11 @@
 			ctx.shadowBlur = 0;
 
 			// Draw label for center node or hovered node
-			if (node.id === centerSlug || hoveredNode === node) {
-				ctx.font = '11px system-ui, sans-serif';
+			if (node.id === centerSlug || isHovered) {
+				ctx.font = `${isHovered ? 'bold ' : ''}11px system-ui, sans-serif`;
 				ctx.textAlign = 'center';
 				ctx.fillStyle = '#ffffff';
-				ctx.fillText(node.title, node.x, node.y - node.radius - 6);
+				ctx.fillText(node.title, node.x, drawY - drawRadius - 8);
 			}
 		}
 
@@ -345,7 +385,12 @@
 			canvas.style.cursor = node ? 'pointer' : 'grab';
 			tooltipX = e.clientX;
 			tooltipY = e.clientY;
-			draw();
+			if (node) {
+				hoverTime = 0;
+				startAnimation();
+			} else {
+				stopAnimation();
+			}
 		} else if (node) {
 			tooltipX = e.clientX;
 			tooltipY = e.clientY;
@@ -403,7 +448,7 @@
 	function handleMouseLeave() {
 		hoveredNode = null;
 		isDragging = false;
-		draw();
+		stopAnimation();
 	}
 
 	function updateSize() {
@@ -420,7 +465,7 @@
 	onMount(() => {
 		updateSize();
 		buildGraph();
-		simulate(80);
+		simulate(150);
 		draw();
 
 		const resizeObserver = new ResizeObserver(() => {
