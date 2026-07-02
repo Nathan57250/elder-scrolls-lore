@@ -152,6 +152,21 @@
 					{/each}
 				</div>
 			{/if}
+
+			<div class="mt-4">
+				<a
+					href="{localePath(locale, 'graph')}?focus={slug}"
+					class="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs text-text-secondary no-underline transition-colors hover:border-border-subtle hover:bg-surface-hover hover:text-text"
+				>
+					<svg class="h-3.5 w-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+						<circle cx="6" cy="6" r="2.5" stroke-width="2" />
+						<circle cx="18" cy="6" r="2.5" stroke-width="2" />
+						<circle cx="12" cy="18" r="2.5" stroke-width="2" />
+						<path stroke-width="1.5" d="M8 7.5l4 8M16 7.5l-4 8" />
+					</svg>
+					{t(locale, 'graph.see_relations')}
+				</a>
+			</div>
 		</header>
 
 		<div class="mb-6 xl:hidden">
